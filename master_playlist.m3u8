@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, UConn - Massachusetts
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Alaska - North Dakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4aae0be3-8160-4e4f-b136-100fdb7cb18e-hls/master/4aae0be3-8160-4e4f-b136-100fdb7cb18e-hls.m3u8
-#EXTINF:-1, WMU - Lindenwood
-https://vcloud.blueframetech.com/file/broadcast/748383.m3u8
-#EXTINF:-1, Niagara - Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/842b4a6e-57d1-4728-9f86-6ca1a367ef0a-hls/master/842b4a6e-57d1-4728-9f86-6ca1a367ef0a-hls.m3u8
-#EXTINF:-1, Harvard - Arizona State
-https://v-emt.pac-12.com/asu1/index.m3u8
 #EXTINF:-1, Sherbrooke - Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/3669623b5349465fa17cc7a950b4b588.m3u8
 #EXTINF:-1, Sault Ste. Marie - Guelph
@@ -31,3 +21,11 @@ https://media-service.fanreachdata.io/edge/whl/bec6fe5ee5544531915427755c3864a2.
 https://media-service.fanreachdata.io/edge/whl/59031a6a717e4c3481c77023aba35417.m3u8
 #EXTINF:-1, Prince George - Seattle
 https://media-service.fanreachdata.io/edge/whl/70b042dd29144da3b745b0ea202a5664.m3u8
+#EXTINF:-1, Alaska - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4aae0be3-8160-4e4f-b136-100fdb7cb18e-hls/master/4aae0be3-8160-4e4f-b136-100fdb7cb18e-hls.m3u8
+#EXTINF:-1, WMU - Lindenwood
+https://vcloud.blueframetech.com/file/broadcast/748383.m3u8
+#EXTINF:-1, Niagara - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/842b4a6e-57d1-4728-9f86-6ca1a367ef0a-hls/master/842b4a6e-57d1-4728-9f86-6ca1a367ef0a-hls.m3u8
+#EXTINF:-1, Harvard - Arizona State
+https://v-emt.pac-12.com/asu1/index.m3u8
