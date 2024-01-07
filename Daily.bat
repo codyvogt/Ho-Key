@@ -1,4 +1,3 @@
-#!/bin/sh
 python C:\Android\Programming\HockeyScraper.py
 echo Python script finished.
 timeout /t 5
