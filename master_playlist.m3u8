@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Schwenningen-Nürnberg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, VlciJablonec-Lomnice
-https://cdn.livearenasports.com/blobs0/655c8ee5b005860c0cfba28e/index.m3u8
-#EXTINF:-1, Limburg-Heerenveen
-https://cdn.livearenasports.com/blobs2/658952ac1dcc1159bb97afbe/index.m3u8
 #EXTINF:-1, HYC-LiegeBulldogs
 https://cdn.livearenasports.com/blobs1/658952ac1dcc1159bb97afc0/index.m3u8
-#EXTINF:-1, KungsbackaHC-HovåsHC
-https://cdn.livearenasports.com/blobs0/65926f261dcc1159bb97e712/index.m3u8
-#EXTINF:-1, GrizzlyzM-GrizzlyzV
-https://cdn.livearenasports.com/blobs1/658033af1fe13f3978d8d022/index.m3u8
 #EXTINF:-1, Halifax-Charlottetown
 https://media-service.fanreachdata.io/edge/lhjmq/e02b94f157c541cc9c2094ecae4ce531.m3u8
 #EXTINF:-1, Moncton-SaintJohn
@@ -33,6 +23,16 @@ https://media-service.fanreachdata.io/edge/ohl/5fa82400b6c74b759e4a0e66321398b6.
 https://media-service.fanreachdata.io/edge/ohl/85145d05d94f450eb5fd50d6522c2377.m3u8
 #EXTINF:-1, ÅbyHC-DuellsPHK
 https://cdn.livearenasports.com/blobs1/65925e441dcc1159bb97e5d1/index.m3u8
+#EXTINF:-1, LehighValley-Hershey
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream87/playlist.m3u8
+#EXTINF:-1, Laval-UticaComets
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream86/playlist.m3u8
+#EXTINF:-1, Belleville-Manitoba
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream88/playlist.m3u8
+#EXTINF:-1, Springfield-Providence
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream90/playlist.m3u8
+#EXTINF:-1, Hartford-WBSPenguins
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream89/playlist.m3u8
 #EXTINF:-1, Edmonton-Calgary
 https://media-service.fanreachdata.io/edge/whl/940ae5f9ec6e420e9f32fb5db316a496.m3u8
 #EXTINF:-1, Spokane-MedicineHat
