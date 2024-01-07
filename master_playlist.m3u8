@@ -15,6 +15,8 @@ fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/ifram
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream377/playlist.m3u8
 #EXTINF:-1, Rockford-TexasStars
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream375/playlist.m3u8
+#EXTINF:-1, SanJose-OntarioReign
+https://hockeytech-west.akamaized.net/hls/live/2028324/game-1035533-Home-a6389b26-7a09-4c5d-bc38-a9c94e46d7ef/main.m3u8
 #EXTINF:-1, Gatineau-Rouyn-Noranda
 https://media-service.fanreachdata.io/edge/lhjmq/851c730198a24612aee8b3e28b521734.m3u8
 #EXTINF:-1, Oshawa-FlintFirebirds
