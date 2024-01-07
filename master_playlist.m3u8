@@ -1,51 +1,23 @@
 #EXTM3U
-#EXTINF:-1, Abbotsford-Coachella
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream18/playlist.m3u8
-#EXTINF:-1, Henderson-Calgary
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream20/playlist.m3u8
-#EXTINF:-1, SanJose-OntarioReign
-https://hockeytech-west.akamaized.net/hls/live/2028324/game-1035533-Home-a6389b26-7a09-4c5d-bc38-a9c94e46d7ef/main.m3u8
-#EXTINF:-1, Tri-City-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/87c3a637b0ba434794f9579576d29347.m3u8
-#EXTINF:-1, PrinceGeorge-Portland
-https://media-service.fanreachdata.io/edge/whl/b1481730b5994e9fa4072038d6bf2b98.m3u8
-#EXTINF:-1, Kelowna-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/c863cdfbab714a5386ad0b76fc585f5b.m3u8
-#EXTINF:-1, Seattle-EverettSilvertips
-https://media-service.fanreachdata.io/edge/whl/54d150e195714faca89c9b69e6bb60a2.m3u8
-#EXTINF:-1, Omaha-ArizonaState
-https://v-emt.pac-12.com/asu1/index.m3u8
-#EXTINF:-1, ESCDresden-Kaufbeuren
-https://content.aisportswatch.com/269194/master.m3u8
-#EXTINF:-1, KrefelderEV-Regensburg
-https://content.aisportswatch.com/269195/master.m3u8
-#EXTINF:-1, Düsseldorf-Schwenningen
-https://content.aisportswatch.com/269196/master.m3u8
-#EXTINF:-1, Augsburg-SCBietigheim
-https://content.aisportswatch.com/269197/master.m3u8
-#EXTINF:-1, SCRiessersee-Füssen
-https://content.aisportswatch.com/269215/master.m3u8
-#EXTINF:-1, LöwenFrankfurt-Erfurt
-https://content.aisportswatch.com/266263/master.m3u8
-#EXTINF:-1, IserlohnerEC-BadTölz
-https://content.aisportswatch.com/261664/master.m3u8
-#EXTINF:-1, Eisbären-ERCIngolstadt
-https://content.aisportswatch.com/269198/master.m3u8
-#EXTINF:-1, Torpedo-DinamoMinsk
-https://kinescope.io/aFH72MDmqF3jQ6q9vgUeYq/master.m3u8
-#EXTINF:-1, AlmtunaIS-IFMalmö
-https://cdn.livearenasports.com/blobs0/659267a51dcc1159bb97e686/index.m3u8
-#EXTINF:-1, LeksandsIF-FrölundaHC
-https://cdn.livearenasports.com/blobs0/659267a51dcc1159bb97e682/index.m3u8
-#EXTINF:-1, MoraIK-MoDoHockey
-https://cdn.livearenasports.com/blobs0/659269841dcc1159bb97e6ab/index.m3u8
-#EXTINF:-1, SödertäljeSK-Linköping
-https://cdn.livearenasports.com/blobs0/659268961dcc1159bb97e698/index.m3u8
-#EXTINF:-1, FärjestadBK-VäxjöLakers
-https://cdn.livearenasports.com/blobs0/65926a751dcc1159bb97e6b7/index.m3u8
-#EXTINF:-1, BrynäsIF-HV71
-https://cdn.livearenasports.com/blobs0/65925d531dcc1159bb97e5bf/index.m3u8
-#EXTINF:-1, VästeråsIK-TimråIK
-https://cdn.livearenasports.com/blobs0/65926a751dcc1159bb97e6b9/index.m3u8
-#EXTINF:-1, AIK-IKOskarshamn
-https://cdn.livearenasports.com/blobs0/65926b661dcc1159bb97e6cd/index.m3u8
+#EXTINF:-1, Bremerhaven-Eisbären
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, EHCMünchen-Frankfurt
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
+#EXTINF:-1, Wolfsburg-Düsseldorf
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
+#EXTINF:-1, Augsburg-Mannheim
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
+#EXTINF:-1, Ingolstadt-KölnerHaie
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
+#EXTINF:-1, Straubing-Iserlohn
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
+#EXTINF:-1, Schwenningen-Nürnberg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, Severstal-HCSochi
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream86/playlist.m3u8
+#EXTINF:-1, Vityaz-Neftekhimik
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream84/playlist.m3u8
+#EXTINF:-1, DynamoMoscow-Spartak
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, CSKA-KunlunRedStar
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream85/playlist.m3u8
