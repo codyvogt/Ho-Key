@@ -1,4 +1,3 @@
-@echo off
 python C:\Android\Programming\HockeyScraper.py
 echo Python script finished.
 read
