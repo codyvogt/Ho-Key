@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Bremerhaven-Eisbären
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, EHCMünchen-Frankfurt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, Wolfsburg-Düsseldorf
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
-#EXTINF:-1, Augsburg-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
-#EXTINF:-1, Ingolstadt-KölnerHaie
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
-#EXTINF:-1, Straubing-Iserlohn
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
-#EXTINF:-1, Schwenningen-Nürnberg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Severstal-HCSochi
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream86/playlist.m3u8
 #EXTINF:-1, Vityaz-Neftekhimik
