@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Tucson-ChicagoWolves
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream377/playlist.m3u8
-#EXTINF:-1, Rockford-TexasStars
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream375/playlist.m3u8
 #EXTINF:-1, Abbotsford-Coachella
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream18/playlist.m3u8
 #EXTINF:-1, Henderson-Calgary
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream20/playlist.m3u8
 #EXTINF:-1, SanJose-OntarioReign
 https://hockeytech-west.akamaized.net/hls/live/2028324/game-1035533-Home-a6389b26-7a09-4c5d-bc38-a9c94e46d7ef/main.m3u8
-#EXTINF:-1, Vancouver-Brandon
-https://media-service.fanreachdata.io/edge/whl/6f4d6e29c53b47afa6382f16ceb3b1ce.m3u8
-#EXTINF:-1, Saskatoon-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/d0b1e3f97bfe45c0bd15e30bee2c7fbe.m3u8
-#EXTINF:-1, Victoria-ReginaPats
-https://media-service.fanreachdata.io/edge/whl/e146dccbceb74c1f8dd4c6de0c1f74cf.m3u8
-#EXTINF:-1, MooseJaw-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/b3efa1e1d1e2479a85b1cc255d0b2beb.m3u8
 #EXTINF:-1, Tri-City-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/87c3a637b0ba434794f9579576d29347.m3u8
 #EXTINF:-1, PrinceGeorge-Portland
@@ -25,7 +13,39 @@ https://media-service.fanreachdata.io/edge/whl/b1481730b5994e9fa4072038d6bf2b98.
 https://media-service.fanreachdata.io/edge/whl/c863cdfbab714a5386ad0b76fc585f5b.m3u8
 #EXTINF:-1, Seattle-EverettSilvertips
 https://media-service.fanreachdata.io/edge/whl/54d150e195714faca89c9b69e6bb60a2.m3u8
-#EXTINF:-1, Niagara-Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d6070fc4-c8e0-427f-98f3-55d325de597f-hls/master/d6070fc4-c8e0-427f-98f3-55d325de597f-hls.m3u8
 #EXTINF:-1, Omaha-ArizonaState
 https://v-emt.pac-12.com/asu1/index.m3u8
+#EXTINF:-1, ESCDresden-Kaufbeuren
+https://content.aisportswatch.com/269194/master.m3u8
+#EXTINF:-1, KrefelderEV-Regensburg
+https://content.aisportswatch.com/269195/master.m3u8
+#EXTINF:-1, Düsseldorf-Schwenningen
+https://content.aisportswatch.com/269196/master.m3u8
+#EXTINF:-1, Augsburg-SCBietigheim
+https://content.aisportswatch.com/269197/master.m3u8
+#EXTINF:-1, SCRiessersee-Füssen
+https://content.aisportswatch.com/269215/master.m3u8
+#EXTINF:-1, LöwenFrankfurt-Erfurt
+https://content.aisportswatch.com/266263/master.m3u8
+#EXTINF:-1, IserlohnerEC-BadTölz
+https://content.aisportswatch.com/261664/master.m3u8
+#EXTINF:-1, Eisbären-ERCIngolstadt
+https://content.aisportswatch.com/269198/master.m3u8
+#EXTINF:-1, Torpedo-DinamoMinsk
+https://kinescope.io/aFH72MDmqF3jQ6q9vgUeYq/master.m3u8
+#EXTINF:-1, AlmtunaIS-IFMalmö
+https://cdn.livearenasports.com/blobs0/659267a51dcc1159bb97e686/index.m3u8
+#EXTINF:-1, LeksandsIF-FrölundaHC
+https://cdn.livearenasports.com/blobs0/659267a51dcc1159bb97e682/index.m3u8
+#EXTINF:-1, MoraIK-MoDoHockey
+https://cdn.livearenasports.com/blobs0/659269841dcc1159bb97e6ab/index.m3u8
+#EXTINF:-1, SödertäljeSK-Linköping
+https://cdn.livearenasports.com/blobs0/659268961dcc1159bb97e698/index.m3u8
+#EXTINF:-1, FärjestadBK-VäxjöLakers
+https://cdn.livearenasports.com/blobs0/65926a751dcc1159bb97e6b7/index.m3u8
+#EXTINF:-1, BrynäsIF-HV71
+https://cdn.livearenasports.com/blobs0/65925d531dcc1159bb97e5bf/index.m3u8
+#EXTINF:-1, VästeråsIK-TimråIK
+https://cdn.livearenasports.com/blobs0/65926a751dcc1159bb97e6b9/index.m3u8
+#EXTINF:-1, AIK-IKOskarshamn
+https://cdn.livearenasports.com/blobs0/65926b661dcc1159bb97e6cd/index.m3u8
