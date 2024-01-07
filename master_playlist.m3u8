@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Severstal-HCSochi
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream86/playlist.m3u8
-#EXTINF:-1, Vityaz-Neftekhimik
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream84/playlist.m3u8
 #EXTINF:-1, DynamoMoscow-Spartak
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, CSKA-KunlunRedStar
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream85/playlist.m3u8
+#EXTINF:-1, KarlovyVary-HCLitvínov
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream90/playlist.m3u8
+#EXTINF:-1, Vítkovice-SpartaPraha
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream95/playlist.m3u8
