@@ -1,15 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:5
-#EXT-UPLYNK-LIVE
-#EXT-X-START:TIME-OFFSET=0.00
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="Home",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=YES
-#EXTINF:-1, ABTitan-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/6a8885a7eb6648b89c5cbe3d8e5fda1b.m3u8
-#EXTINF:-1, Moncton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/7e578d91cdf24276a8170f49cdccc061.m3u8
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/851c730198a24612aee8b3e28b521734.m3u8
 #EXTINF:-1, Brown-Rensselaer
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Colgate-Maine
@@ -22,12 +11,6 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/18065ea8-c6e7-4c19-91d7-2bc29
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d6070fc4-c8e0-427f-98f3-55d325de597f-hls/master/d6070fc4-c8e0-427f-98f3-55d325de597f-hls.m3u8
 #EXTINF:-1, Omaha-ArizonaState
 https://v-emt.pac-12.com/asu1/index.m3u8
-#EXTINF:-1, St.Anselm-Assumption
-https://vcloud.blueframetech.com/file/broadcast/682045.m3u8
-#EXTINF:-1, LongIsland-SacredHeart
-https://vcloud.blueframetech.com/file/broadcast/874335.m3u8
-#EXTINF:-1, LihighValley-WBS
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=https%3A%2F%2Fw1.soft4game.com%2Fo18%2Fstream373%2Fplaylist.m3u8
 #EXTINF:-1, Charlotte-Bridgeport
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream11/playlist.m3u8
 #EXTINF:-1, Rochester-Cleveland
@@ -44,6 +27,8 @@ fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/ifram
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream377/playlist.m3u8
 #EXTINF:-1, Rockford-TexasStars
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream375/playlist.m3u8
+#EXTINF:-1, Gatineau-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/851c730198a24612aee8b3e28b521734.m3u8
 #EXTINF:-1, Oshawa-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/c3f261b6c692488c84b3338c3eedf587.m3u8
 #EXTINF:-1, Windsor-ErieOtters
