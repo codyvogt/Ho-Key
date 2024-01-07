@@ -1,48 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Charlotte-Bridgeport
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream11/playlist.m3u8
-#EXTINF:-1, Rochester-Cleveland
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream14/playlist.m3u8
-#EXTINF:-1, Hartford-HersheyBears
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream13/playlist.m3u8
-#EXTINF:-1, GrandRapids-IowaWild
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream15/playlist.m3u8
-#EXTINF:-1, Colorado-Milwaukee
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream12/playlist.m3u8
-#EXTINF:-1, Providence-Springfield
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream16/playlist.m3u8
 #EXTINF:-1, Tucson-ChicagoWolves
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream377/playlist.m3u8
 #EXTINF:-1, Rockford-TexasStars
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream375/playlist.m3u8
+#EXTINF:-1, Abbotsford-Coachella
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream18/playlist.m3u8
+#EXTINF:-1, Henderson-Calgary
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream20/playlist.m3u8
 #EXTINF:-1, SanJose-OntarioReign
 https://hockeytech-west.akamaized.net/hls/live/2028324/game-1035533-Home-a6389b26-7a09-4c5d-bc38-a9c94e46d7ef/main.m3u8
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/851c730198a24612aee8b3e28b521734.m3u8
-#EXTINF:-1, Oshawa-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/c3f261b6c692488c84b3338c3eedf587.m3u8
-#EXTINF:-1, Windsor-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/c21743a1c90e4bb1a42165368633eb1c.m3u8
-#EXTINF:-1, Guelph-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/633a55042d7d47bdaa4ce3159e72cd2b.m3u8
-#EXTINF:-1, Kitchener-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/66facd1485ea4b67b8a21e96bf2d99df.m3u8
-#EXTINF:-1, Peterborough-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/96356bc471fb4bdfa73c1bf1910c7dea.m3u8
-#EXTINF:-1, SaultSte.Marie-Barrie
-https://media-service.fanreachdata.io/edge/ohl/f4e13aad9c9043cb9a804add6598ba12.m3u8
-#EXTINF:-1, Brown-Rensselaer
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Colgate-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Michigan-USNTDPU18
-https://d2t0jdfci3l45u.cloudfront.net/1db5465658cc64bd0fa5949861c77c20/0_hd_hls.m3u8
-#EXTINF:-1, Alaska-NorthDakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/18065ea8-c6e7-4c19-91d7-2bc2910dcf67-hls/master/18065ea8-c6e7-4c19-91d7-2bc2910dcf67-hls.m3u8
-#EXTINF:-1, Niagara-Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d6070fc4-c8e0-427f-98f3-55d325de597f-hls/master/d6070fc4-c8e0-427f-98f3-55d325de597f-hls.m3u8
-#EXTINF:-1, Omaha-ArizonaState
-https://v-emt.pac-12.com/asu1/index.m3u8
 #EXTINF:-1, Vancouver-Brandon
 https://media-service.fanreachdata.io/edge/whl/6f4d6e29c53b47afa6382f16ceb3b1ce.m3u8
 #EXTINF:-1, Saskatoon-PrinceAlbert
@@ -59,3 +25,7 @@ https://media-service.fanreachdata.io/edge/whl/b1481730b5994e9fa4072038d6bf2b98.
 https://media-service.fanreachdata.io/edge/whl/c863cdfbab714a5386ad0b76fc585f5b.m3u8
 #EXTINF:-1, Seattle-EverettSilvertips
 https://media-service.fanreachdata.io/edge/whl/54d150e195714faca89c9b69e6bb60a2.m3u8
+#EXTINF:-1, Niagara-Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d6070fc4-c8e0-427f-98f3-55d325de597f-hls/master/d6070fc4-c8e0-427f-98f3-55d325de597f-hls.m3u8
+#EXTINF:-1, Omaha-ArizonaState
+https://v-emt.pac-12.com/asu1/index.m3u8
