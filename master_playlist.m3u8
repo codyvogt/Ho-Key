@@ -1,15 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Augsburg-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
-#EXTINF:-1, Ingolstadt-KölnerHaie
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
-#EXTINF:-1, Straubing-Iserlohn
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
-#EXTINF:-1, Schwenningen-Nürnberg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, DuklaMichalovce-Košice
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream98/playlist.m3u8
-#EXTINF:-1, B.Bystrica-L.Mikuláš
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream99/playlist.m3u8
-#EXTINF:-1, HC19Humenné-HKSNV
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream102/playlist.m3u8
