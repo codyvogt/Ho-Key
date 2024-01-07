@@ -33,6 +33,8 @@ fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/ifram
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream90/playlist.m3u8
 #EXTINF:-1, Hartford-WBSPenguins
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream89/playlist.m3u8
+#EXTINF:-1, Syracuse-TorontoMarlies
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream93/playlist.m3u8
 #EXTINF:-1, Edmonton-Calgary
 https://media-service.fanreachdata.io/edge/whl/940ae5f9ec6e420e9f32fb5db316a496.m3u8
 #EXTINF:-1, Spokane-MedicineHat
