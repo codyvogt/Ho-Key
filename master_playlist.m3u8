@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Brown-Rensselaer
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Colgate-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Michigan-USNTDPU18
-https://d2t0jdfci3l45u.cloudfront.net/1db5465658cc64bd0fa5949861c77c20/0_hd_hls.m3u8
-#EXTINF:-1, Alaska-NorthDakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/18065ea8-c6e7-4c19-91d7-2bc2910dcf67-hls/master/18065ea8-c6e7-4c19-91d7-2bc2910dcf67-hls.m3u8
-#EXTINF:-1, Niagara-Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d6070fc4-c8e0-427f-98f3-55d325de597f-hls/master/d6070fc4-c8e0-427f-98f3-55d325de597f-hls.m3u8
-#EXTINF:-1, Omaha-ArizonaState
-https://v-emt.pac-12.com/asu1/index.m3u8
 #EXTINF:-1, Charlotte-Bridgeport
 fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/n18/stream11/playlist.m3u8
 #EXTINF:-1, Rochester-Cleveland
@@ -41,6 +29,18 @@ https://media-service.fanreachdata.io/edge/ohl/66facd1485ea4b67b8a21e96bf2d99df.
 https://media-service.fanreachdata.io/edge/ohl/96356bc471fb4bdfa73c1bf1910c7dea.m3u8
 #EXTINF:-1, SaultSte.Marie-Barrie
 https://media-service.fanreachdata.io/edge/ohl/f4e13aad9c9043cb9a804add6598ba12.m3u8
+#EXTINF:-1, Brown-Rensselaer
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Colgate-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Michigan-USNTDPU18
+https://d2t0jdfci3l45u.cloudfront.net/1db5465658cc64bd0fa5949861c77c20/0_hd_hls.m3u8
+#EXTINF:-1, Alaska-NorthDakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/18065ea8-c6e7-4c19-91d7-2bc2910dcf67-hls/master/18065ea8-c6e7-4c19-91d7-2bc2910dcf67-hls.m3u8
+#EXTINF:-1, Niagara-Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d6070fc4-c8e0-427f-98f3-55d325de597f-hls/master/d6070fc4-c8e0-427f-98f3-55d325de597f-hls.m3u8
+#EXTINF:-1, Omaha-ArizonaState
+https://v-emt.pac-12.com/asu1/index.m3u8
 #EXTINF:-1, Vancouver-Brandon
 https://media-service.fanreachdata.io/edge/whl/6f4d6e29c53b47afa6382f16ceb3b1ce.m3u8
 #EXTINF:-1, Saskatoon-PrinceAlbert
