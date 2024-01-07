@@ -1,3 +1,6 @@
+@echo off
+python C:\Android\Programming\HockeyScraper.py
+echo Python script finished.
 #!/bin/sh
 cd C:\Android\Programming\Ho-Key
 git add -A
