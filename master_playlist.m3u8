@@ -1,3 +1,27 @@
 #EXTM3U
-#EXTINF:-1, DuklaJihlava-PardubiceB
-fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream267/playlist.m3u8
+#EXTINF:-1, IFBjörklöven-TegsSK
+https://cdn.livearenasports.com/blobs1/6593b5641dcc1159bb9804a3/index.m3u8
+#EXTINF:-1, SollentunaHC-Huddinge
+https://cdn.livearenasports.com/blobs1/6593b3831dcc1159bb98030f/index.m3u8
+#EXTINF:-1, FlemingsbergsIK-Tyresö
+https://cdn.livearenasports.com/blobs2/6593acf21dcc1159bb980275/index.m3u8
+#EXTINF:-1, Vallentuna-WingsArlanda
+https://cdn.livearenasports.com/blobs0/6593b2931dcc1159bb98030b/index.m3u8
+#EXTINF:-1, NyköpingsSK-NackaHK
+https://cdn.livearenasports.com/blobs0/6593bbf61dcc1159bb980571/index.m3u8
+#EXTINF:-1, TranebergIK-Hammarby
+https://cdn.livearenasports.com/blobs1/6593b8351dcc1159bb9804d9/index.m3u8
+#EXTINF:-1, Belgium-Bulgaria
+https://cdn0-70014-odedge0.dna.ip-only.net/70014-odedge0/vods/blobs0/6597dd9d4f55994ade629aa0/index.m3u8
+#EXTINF:-1, JärnaSK-JärfällaHC
+https://cdn.livearenasports.com/blobs2/6593b9251dcc1159bb9804df/index.m3u8
+#EXTINF:-1, Spånga-Åker/Strängnäs
+https://cdn.livearenasports.com/blobs2/6593b8351dcc1159bb9804db/index.m3u8
+#EXTINF:-1, EnköpingsSKHK-Väsby
+https://cdn.livearenasports.com/blobs1/6593b0b31dcc1159bb98027c/index.m3u8
+#EXTINF:-1, Linden-SaltsjöbadensIF
+https://cdn.livearenasports.com/blobs1/6593b2931dcc1159bb98030a/index.m3u8
+#EXTINF:-1, TrångsundsIF-SDEHF
+https://cdn.livearenasports.com/blobs2/6593ab121dcc1159bb980267/index.m3u8
+#EXTINF:-1, USA-Switzerland
+https://247c.mrgamingstreams.com/mrgamingnhlnet.m3u8
