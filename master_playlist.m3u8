@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Val-d'Or-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/adf8a12f6a9c47d782a2c6a446f0a3c2.m3u8
-#EXTINF:-1, VictoriaRoyals-Brandon
-https://media-service.fanreachdata.io/edge/whl/6fa90976e9a645fcb2139b34f7e6afb9.m3u8
-#EXTINF:-1, Vancouver-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/afed98d6f4d84c698af5946a21d15020.m3u8
-#EXTINF:-1, Tri-City-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/538ff6b71d544fcd9ae9d1feff44e3ff.m3u8
-#EXTINF:-1, Spokane-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/a86ff9cd693f453cb98d0bd5dd05d644.m3u8
+#EXTINF:-1, OntarioReign-SanJose
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream61/playlist.m3u8
