@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1, AalborgPirates-Herlev
-https://cdn.livearenasports.com/blobs0/657697da935a8c7daea7ed5b/index.m3u8
-#EXTINF:-1, VärnamoGIK-Vänersborg
-https://cdn.livearenasports.com/blobs0/65965a481dcc1159bb985ea1/index.m3u8
-#EXTINF:-1, Lidköping-Boro/Vetlanda
-https://cdn.livearenasports.com/blobs0/65965b3d1dcc1159bb985f3f/index.m3u8
-#EXTINF:-1, OlofströmsIK-HanhalsIF
-https://cdn.livearenasports.com/blobs2/659658661dcc1159bb985dfe/index.m3u8
-#EXTINF:-1, KungälvsIK-NittorpsIK
-https://cdn.livearenasports.com/blobs0/659661c81dcc1159bb986131/index.m3u8
-#EXTINF:-1, StenungsundHF-Gislaved
-https://cdn.livearenasports.com/blobs1/65965fe91dcc1159bb986122/index.m3u8
-#EXTINF:-1, JonstorpsIF-Ulricehamn
-https://cdn.livearenasports.com/blobs1/659655951dcc1159bb985c33/index.m3u8
-#EXTINF:-1, SunneIK-KilsAIK
-https://cdn.livearenasports.com/blobs1/659664921dcc1159bb9861cf/index.m3u8
-#EXTINF:-1, ArvikaHC-KarlskogaIK
-https://cdn.livearenasports.com/blobs2/65965e071dcc1159bb985f61/index.m3u8
-#EXTINF:-1, IFKMunkfors-GrumsIK
-https://cdn.livearenasports.com/blobs1/65965ef91dcc1159bb98611c/index.m3u8
-#EXTINF:-1, PartilleHK-GöteborgsIK
-https://cdn.livearenasports.com/blobs1/659661c81dcc1159bb986132/index.m3u8
-#EXTINF:-1, RobertsholmsIK-IKHuge
-https://cdn.livearenasports.com/blobs0/65964c331dcc1159bb985bc3/index.m3u8
 #EXTINF:-1, LaserHTHot-OYUS
 https://cdn.livearenasports.com/blobs1/658d01121dcc1159bb97b4bb/index.m3u8
 #EXTINF:-1, OdenseII-Vojens
@@ -31,6 +7,8 @@ https://cdn.livearenasports.com/blobs1/6576978b935a8c7daea7ed23/index.m3u8
 https://cdn.livearenasports.com/blobs1/659657781dcc1159bb985c42/index.m3u8
 #EXTINF:-1, Örnsköldsvik-Sundsvall
 https://cdn.livearenasports.com/blobs2/65965c281dcc1159bb985f49/index.m3u8
+#EXTINF:-1, RobertsholmsIK-IKHuge
+https://cdn.livearenasports.com/blobs0/65964c331dcc1159bb985bc3/index.m3u8
 #EXTINF:-1, ÖrebroHUF-ForshagaIF
 https://cdn.livearenasports.com/blobs1/659ee0bba1722358698e513a/index.m3u8
 #EXTINF:-1, TrångsundsIF-Mälarh/Bre
