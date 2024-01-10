@@ -1,7 +1,23 @@
 #EXTM3U
-#EXTINF:-1, SouthAfrica-NewZealand
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6597f4894f55994ade62a43d/index.m3u8
-#EXTINF:-1, TPS-LahdenPelicans
-https://cdn.livearenasports.com/blobs1/658576fa1dcc1159bb97a8e7/index.m3u8
 #EXTINF:-1, VityazBalashikha-SKA
 https://kinescope.io/aFH72MDmqF3jQ6q9vgUeYq/master.m3u8
+#EXTINF:-1, TPS-LahdenPelicans
+https://cdn.livearenasports.com/blobs1/658576fa1dcc1159bb97a8e7/index.m3u8
+#EXTINF:-1, KeuPaHT-IPK
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream163/playlist.m3u8
+#EXTINF:-1, ImatranKetterä-Hermes
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream162/playlist.m3u8
+#EXTINF:-1, Kiekko-Espoo-FPS
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream119/playlist.m3u8
+#EXTINF:-1, VHKVsetín-OrliZnojmo
+fr_stream400.php?channel=https://video-translations.top-parser.com/maxline/iframe?ref=https://w1.soft4game.com/o18/stream164/playlist.m3u8
+#EXTINF:-1, Žilina-RimavskáSobota
+https://nn.geo.joj.sk/huste/2a24b6ab-96c0-48f1-b7d8-f848c9b14f04/2a24b6ab-96c0-48f1-b7d8-f848c9b14f04/playlist.m3u8
+#EXTINF:-1, Cortina/Alleghe-Kaltern
+https://cdn.livearenasports.com/blobs0/65533267f41e4b69a03e506c/index.m3u8
+#EXTINF:-1, Fassa-Juniorteams
+https://cdn.livearenasports.com/blobs0/6553355df41e4b69a03e509b/index.m3u8
+#EXTINF:-1, Padova-FoxesAcademy
+https://cdn.livearenasports.com/blobs0/655c960db005860c0cfba300/index.m3u8
+#EXTINF:-1, TrentoSilverfox-Asiago
+https://cdn.livearenasports.com/blobs0/655c9435b005860c0cfba2df/index.m3u8
