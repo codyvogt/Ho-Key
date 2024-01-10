@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Val-d'Or-Rouyn-Noranda
 https://media-service.fanreachdata.io/edge/lhjmq/adf8a12f6a9c47d782a2c6a446f0a3c2.m3u8
-#EXTINF:-1, Northeastern-BostonU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, Brown-Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, VictoriaRoyals-Brandon
 https://media-service.fanreachdata.io/edge/whl/6fa90976e9a645fcb2139b34f7e6afb9.m3u8
 #EXTINF:-1, Vancouver-PrinceAlbert
