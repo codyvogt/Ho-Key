@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Frankfurt-ERCIngolstadt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, BodensHF-KalixHC
-https://cdn.livearenasports.com/blobs2/6597a6257a2d524d2239d642/index.m3u8
-#EXTINF:-1, HertsörinkenIF-RosvikIK
-https://cdn.livearenasports.com/blobs0/6597af877a2d524d2239d8a6/index.m3u8
-#EXTINF:-1, Hille/Åbyggeby-Ockelbo
-https://cdn.livearenasports.com/blobs1/6597a3557a2d524d2239d61a/index.m3u8
-#EXTINF:-1, RødovreII-HerlevII
-https://cdn.livearenasports.com/blobs1/6577e907935a8c7daea7f2c1/index.m3u8
-#EXTINF:-1, PiTa-Kiekko-VantaaItä
-https://cdn.livearenasports.com/blobs1/658e52931dcc1159bb97b7db/index.m3u8
-#EXTINF:-1, HCLudwig-PUS-Hockey
-https://cdn.livearenasports.com/blobs1/6590f5971dcc1159bb97c901/index.m3u8
-#EXTINF:-1, Alleghe-EppanPirates
-https://cdn.livearenasports.com/blobs1/659bff9c6f248f618101debe/index.m3u8
 #EXTINF:-1, Feltreghiaccio-Varese
 https://cdn.livearenasports.com/blobs2/659bffab6f248f618101dec0/index.m3u8
-#EXTINF:-1, Valdifiemme-SVKaltern
-https://cdn.livearenasports.com/blobs0/659c002d6f248f618101dec7/index.m3u8
 #EXTINF:-1, UnitedStates-Germany
 https://247c.mrgamingstreams.com/mrgamingnhlnet.m3u8
-#EXTINF:-1, DuellsPHK-Skärgården
-https://cdn.livearenasports.com/blobs2/6597b3467a2d524d2239d95b/index.m3u8
+#EXTINF:-1, HCLudwig-PUS-Hockey
+https://cdn.livearenasports.com/blobs1/6590f5971dcc1159bb97c901/index.m3u8
