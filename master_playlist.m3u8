@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1, Frankfurt-ERCIngolstadt
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, Kiekko-Pojat-Hermes
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream352/playlist.m3u8
+#EXTINF:-1, KOOVEE-Kiekko-Espoo
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream362/playlist.m3u8
+#EXTINF:-1, JYPAk-KeuPa/Diskos
+https://cdn.livearenasports.com/blobs0/658e52931dcc1159bb97b7d3/index.m3u8
+#EXTINF:-1, Stavanger-FriskAsker
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream274/playlist.m3u8
+#EXTINF:-1, CometHalden-Sparta
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream265/playlist.m3u8
+#EXTINF:-1, Lørenskog-Vålerenga
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream271/playlist.m3u8
