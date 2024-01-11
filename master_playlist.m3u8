@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1, Feltreghiaccio-Varese
-https://cdn.livearenasports.com/blobs2/659bffab6f248f618101dec0/index.m3u8
-#EXTINF:-1, UnitedStates-Germany
-https://247c.mrgamingstreams.com/mrgamingnhlnet.m3u8
-#EXTINF:-1, HCLudwig-PUS-Hockey
-https://cdn.livearenasports.com/blobs1/6590f5971dcc1159bb97c901/index.m3u8
+#EXTINF:-1, Toronto-NYIslanders
+https://247b.mrgamingstreams.com/mrgamingespn.m3u8
+#EXTINF:-1, Québec-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/d2497590b3724ed8bdd28a52801d7a91.m3u8
+#EXTINF:-1, Victoriaville-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/3d4e094eb8cb4cc6ad4f5458e1824829.m3u8
+#EXTINF:-1, Rimouski-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/a84fd3cb26ff4e2b97c60e37e692d7b8.m3u8
+#EXTINF:-1, Barrie-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/7a526f6df86044e3a4848c3e50c5078a.m3u8
+#EXTINF:-1, Mississauga-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/74b7d9c162594499a2a52d04f494f082.m3u8
+#EXTINF:-1, Kingston-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/79b0af34f3ce4e88abffda1ee731961c.m3u8
+#EXTINF:-1, Tri-City-Edmonton
+https://media-service.fanreachdata.io/edge/whl/97e0b30aae864e6397b98e67c06f595d.m3u8
