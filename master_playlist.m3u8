@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Blainville-B.-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/6325f38a7d02426ba90a172306b4a953.m3u8
-#EXTINF:-1, OwenSoundAttack-Flint
-https://media-service.fanreachdata.io/edge/ohl/99e2b195afd64109b1e2f57f4a0b6a45.m3u8
-#EXTINF:-1, London-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/328b23766301412fbe898b91a655c97e.m3u8
-#EXTINF:-1, Mississauga-Sudbury
-https://media-service.fanreachdata.io/edge/ohl/458566f0ac0c49d2b1ae77cb42b757a2.m3u8
-#EXTINF:-1, Saginaw-WindsorSpitfires
-https://media-service.fanreachdata.io/edge/ohl/3e4abce7750a4f76a8f8f73a82192a93.m3u8
-#EXTINF:-1, Victoria-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/dfe8248844274704a0b4fd1f0f924b4c.m3u8
-#EXTINF:-1, Vancouver-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/5b42369578fa43ecad20a98ff4d4383c.m3u8
-#EXTINF:-1, Spokane-RedDeerRebels
-https://media-service.fanreachdata.io/edge/whl/1e5757b6e8d3474499ca45d16fa64bf8.m3u8
-#EXTINF:-1, Seattle-KelownaRockets
-https://media-service.fanreachdata.io/edge/whl/c72f788427554ea8b1427cc3376507cb.m3u8
+#EXTINF:-1, MetallurgMg-HCSochi
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream263/playlist.m3u8
+#EXTINF:-1, LadaTogliatti-Lokomotiv
+https://kinescope.io/aFH72MDmqF3jQ6q9vgUeYq/master.m3u8
+#EXTINF:-1, Iceland-NewZealand
+https://cdn0-70014-liveedge0.dna.ip-only.net/70014-liveedge0/vods/blobs0/6597dd9d4f55994ade629a9f/index.m3u8
