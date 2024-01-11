@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1, MDŠumperk-VHKVsetín
-https://cdn.livearenasports.com/blobs1/658eb5f81dcc1159bb97b9ed/index.m3u8
-#EXTINF:-1, RonnebyIK-TrelleborgsIF
-https://cdn.livearenasports.com/blobs0/6597ae987a2d524d2239d8a2/index.m3u8
-#EXTINF:-1, SkillingarydsIS-Glimma
-https://cdn.livearenasports.com/blobs1/6598ec644f55994ade62af74/index.m3u8
-#EXTINF:-1, RydaholmsSK-Lenhovda
-https://cdn.livearenasports.com/blobs2/65979bd47a2d524d2239d545/index.m3u8
-#EXTINF:-1, LundGiantsHC-OsbyIK
-https://cdn.livearenasports.com/blobs1/6597af877a2d524d2239d8a5/index.m3u8
-#EXTINF:-1, HertsörinkenIF-RosvikIK
-https://cdn.livearenasports.com/blobs0/6597af877a2d524d2239d8a6/index.m3u8
-#EXTINF:-1, Hille/Åbyggeby-Ockelbo
-https://cdn.livearenasports.com/blobs1/6597a3557a2d524d2239d61a/index.m3u8
-#EXTINF:-1, Mexico-Bulgaria
-https://cdn0-70014-odedge0.dna.ip-only.net/70014-odedge0/vods/blobs0/6597dd9d4f55994ade629aa4/index.m3u8
 #EXTINF:-1, Frankfurt-ERCIngolstadt
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
 #EXTINF:-1, BodensHF-KalixHC
 https://cdn.livearenasports.com/blobs2/6597a6257a2d524d2239d642/index.m3u8
+#EXTINF:-1, HertsörinkenIF-RosvikIK
+https://cdn.livearenasports.com/blobs0/6597af877a2d524d2239d8a6/index.m3u8
+#EXTINF:-1, Hille/Åbyggeby-Ockelbo
+https://cdn.livearenasports.com/blobs1/6597a3557a2d524d2239d61a/index.m3u8
 #EXTINF:-1, RødovreII-HerlevII
 https://cdn.livearenasports.com/blobs1/6577e907935a8c7daea7f2c1/index.m3u8
 #EXTINF:-1, PiTa-Kiekko-VantaaItä
