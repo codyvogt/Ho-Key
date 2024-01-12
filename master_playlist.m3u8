@@ -1,3 +1,19 @@
 #EXTM3U
-#EXTINF:-1, MladáBoleslav-Kladno
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream155/playlist.m3u8
+#EXTINF:-1, Nürnberg-EHCMünchen
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Augsburg-Wolfsburg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
+#EXTINF:-1, Bremerhaven-KölnerHaie
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
+#EXTINF:-1, Iserlohn-AdlerMannheim
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, Straubing-EisbärenBerlin
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
+#EXTINF:-1, Schwenningen-Düsseldorf
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
+#EXTINF:-1, EHCKloten-SCLTigers
+https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, ÚstínadLabem-Klášterec
+https://cdn.livearenasports.com/blobs1/65702b335023411b83a00e64/index.m3u8
+#EXTINF:-1, KobraPraha-HCRokycany
+https://cdn.livearenasports.com/blobs1/658a6d141dcc1159bb97b00d/index.m3u8
