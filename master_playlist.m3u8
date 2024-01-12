@@ -1,17 +1,25 @@
 #EXTM3U
-#EXTINF:-1, Toronto-NYIslanders
-https://247b.mrgamingstreams.com/mrgamingespn.m3u8
-#EXTINF:-1, Québec-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/d2497590b3724ed8bdd28a52801d7a91.m3u8
-#EXTINF:-1, Victoriaville-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/3d4e094eb8cb4cc6ad4f5458e1824829.m3u8
-#EXTINF:-1, Rimouski-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/a84fd3cb26ff4e2b97c60e37e692d7b8.m3u8
-#EXTINF:-1, Barrie-NiagaraIceDogs
-https://media-service.fanreachdata.io/edge/ohl/7a526f6df86044e3a4848c3e50c5078a.m3u8
-#EXTINF:-1, Mississauga-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/74b7d9c162594499a2a52d04f494f082.m3u8
-#EXTINF:-1, Kingston-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/79b0af34f3ce4e88abffda1ee731961c.m3u8
-#EXTINF:-1, Tri-City-Edmonton
-https://media-service.fanreachdata.io/edge/whl/97e0b30aae864e6397b98e67c06f595d.m3u8
+#EXTINF:-1, Traktor-AkBarsKazan
+https://stream201.24h.tv/hlsjwt/af97319f6c6f7b0acfa893df987e363fb71eb3f6-113-0-24h12188758-5-1439371044-1705064157-e128-cYo0ppv6Mb1FyB96QTIQ7ht5yK2MPY7u6t7HkesMb74/index.m3u8
+#EXTINF:-1, Severstal-KunlunRS
+https://kinescope.io/aFH72MDmqF3jQ6q9vgUeYq/master.m3u8
+#EXTINF:-1, IKOskarshamn-Södertälje
+https://cdn.livearenasports.com/blobs2/659907954f55994ade62b282/index.m3u8
+#EXTINF:-1, TimråIK-AlmtunaIS
+https://cdn.livearenasports.com/blobs0/659901f94f55994ade62b250/index.m3u8
+#EXTINF:-1, VäxjöLakers-RögleBK
+https://cdn.livearenasports.com/blobs0/659906a64f55994ade62b27c/index.m3u8
+#EXTINF:-1, SaiPa-RaumanLukko
+https://cdn.livearenasports.com/blobs0/658edf321dcc1159bb97ba52/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-KooKoo
+https://cdn.livearenasports.com/blobs0/658fa4121dcc1159bb97ba97/index.m3u8
+#EXTINF:-1, TPS-TapparaTampere
+https://cdn.livearenasports.com/blobs0/658fa4121dcc1159bb97ba9b/index.m3u8
+#EXTINF:-1, ImatranKetterä-Ässät
+https://cdn.livearenasports.com/blobs0/658fa4121dcc1159bb97ba9a/index.m3u8
+#EXTINF:-1, VaasanSport-HPK
+https://cdn.livearenasports.com/blobs0/658fa4131dcc1159bb97baa9/index.m3u8
+#EXTINF:-1, Jukurit-Kiekko-EspooCh
+https://cdn.livearenasports.com/blobs0/658fa4131dcc1159bb97baaf/index.m3u8
+#EXTINF:-1, Jokerit-LahdenPelicans
+https://cdn.livearenasports.com/blobs0/658fa4131dcc1159bb97baa5/index.m3u8
