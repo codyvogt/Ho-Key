@@ -1,34 +1,14 @@
 #EXTM3U
 #EXTINF:-1, Colorado-Toronto
 https://247c.mrgamingstreams.com/mrgamingnhlnet.m3u8
-#EXTINF:-1, RNHuskies-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/872a3b5b4ecb4cc6ab1ab09bf642be4a.m3u8
-#EXTINF:-1, Blainville-B.-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/41ff2b0c728147b29ee6d91bb50f6df5.m3u8
-#EXTINF:-1, Val-d'Or-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/c55bf1e65a34427bbb52c537476d59c1.m3u8
+#EXTINF:-1, Springfield-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream178/playlist.m3u8
 #EXTINF:-1, Québec-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/7df70df4738747ea82a32ad5321dec49.m3u8
 #EXTINF:-1, Rimouski-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/ee41b7b3cebe4bf8864a3b5f30ee97c6.m3u8
 #EXTINF:-1, Victoriaville-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/8547667af54f41398917cad2f28a1691.m3u8
-#EXTINF:-1, Ottawa67's-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/8868eb8d21ee4b0c96a2eddf3b6e532b.m3u8
-#EXTINF:-1, Flint-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/9baa0dd0ccd4472989a52ee61c64a398.m3u8
-#EXTINF:-1, Oshawa-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/2f2e13f7dbea4f2ca4f2cd7f9a73ea61.m3u8
-#EXTINF:-1, Guelph-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/e02d4b04c8614bd4a4543acb156e5dd9.m3u8
-#EXTINF:-1, Sudbury-WindsorSpitfires
-https://media-service.fanreachdata.io/edge/ohl/0a97cad2d24643ee93f4fd0bf74abe4d.m3u8
-#EXTINF:-1, NorthBayBattalion-Soo
-https://media-service.fanreachdata.io/edge/ohl/9eae88fae29d41e982619fe9ffc68e8a.m3u8
-#EXTINF:-1, Brantford-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/d5a39e0204fa46119a1f0cf398d2cb30.m3u8
-#EXTINF:-1, St.Lawrence-Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, UNH-BostonUniversity
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, BostonC-Providence
@@ -55,18 +35,26 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a2620b53-b9ea-48f4-8e7d-48b9582ad8ff-hls/master/a2620b53-b9ea-48f4-8e7d-48b9582ad8ff-hls.m3u8
 #EXTINF:-1, CC-MinnesotaDuluth
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e5a6988a-cd17-440b-bc9c-7cf4bdb1f21b-hls/master/e5a6988a-cd17-440b-bc9c-7cf4bdb1f21b-hls.m3u8
-#EXTINF:-1, Quinnipiac-Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Northeastern-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Providence-Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Merrimack-HolyCross
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, FranklinPierce-LIU
 https://vcloud.blueframetech.com/file/broadcast/800493.m3u8
-#EXTINF:-1, Springfield-UticaComets
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream178/playlist.m3u8
+#EXTINF:-1, Flint-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/9baa0dd0ccd4472989a52ee61c64a398.m3u8
+#EXTINF:-1, Oshawa-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/2f2e13f7dbea4f2ca4f2cd7f9a73ea61.m3u8
+#EXTINF:-1, Guelph-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/e02d4b04c8614bd4a4543acb156e5dd9.m3u8
+#EXTINF:-1, Sudbury-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/0a97cad2d24643ee93f4fd0bf74abe4d.m3u8
+#EXTINF:-1, NorthBayBattalion-Soo
+https://media-service.fanreachdata.io/edge/ohl/9eae88fae29d41e982619fe9ffc68e8a.m3u8
+#EXTINF:-1, Brantford-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/d5a39e0204fa46119a1f0cf398d2cb30.m3u8
+#EXTINF:-1, Dubuque-USNTDPU17
+https://dkswvjvddupdj.cloudfront.net/082132ed3b2f8baaf3096b5860aac552/0_hd_hls.m3u8
 #EXTINF:-1, Vancouver-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/b0976da7374a4f74b8c055f944230ff0.m3u8
 #EXTINF:-1, PrinceAlbert-Regina
