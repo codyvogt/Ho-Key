@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Flint-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/9baa0dd0ccd4472989a52ee61c64a398.m3u8
-#EXTINF:-1, Guelph-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/e02d4b04c8614bd4a4543acb156e5dd9.m3u8
-#EXTINF:-1, Brantford-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/d5a39e0204fa46119a1f0cf398d2cb30.m3u8
-#EXTINF:-1, Providence-Hartford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream13/playlist.m3u8
-#EXTINF:-1, CoachellaValley-Colorado
-https://hockeytech-west.akamaized.net/hls/live/2027395/game-1035572-Home-bf85e011-ef2b-4b58-9c10-6e1c58e39c20/main.m3u8
-#EXTINF:-1, Vermont-Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, St.CloudState-Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a2620b53-b9ea-48f4-8e7d-48b9582ad8ff-hls/master/a2620b53-b9ea-48f4-8e7d-48b9582ad8ff-hls.m3u8
-#EXTINF:-1, CC-MinnesotaDuluth
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e5a6988a-cd17-440b-bc9c-7cf4bdb1f21b-hls/master/e5a6988a-cd17-440b-bc9c-7cf4bdb1f21b-hls.m3u8
-#EXTINF:-1, Vancouver-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/b0976da7374a4f74b8c055f944230ff0.m3u8
-#EXTINF:-1, PrinceAlbert-Regina
-https://media-service.fanreachdata.io/edge/whl/5de409ea915e410fb58e3ad7e217ff66.m3u8
-#EXTINF:-1, Victoria-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/b4502dea14c948be982a1f52f1f4ffae.m3u8
 #EXTINF:-1, Lethbridge-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/ea7ae3cdc41246ecb5daf0878e1da766.m3u8
 #EXTINF:-1, Kelowna-PrinceGeorge
@@ -29,3 +7,9 @@ https://media-service.fanreachdata.io/edge/whl/260bb247dca04f66b10bdb4726e54a96.
 https://media-service.fanreachdata.io/edge/whl/47f1daef960c4a369642081c2ba67c36.m3u8
 #EXTINF:-1, KamloopsBlazers-Everett
 https://media-service.fanreachdata.io/edge/whl/8a817ae16bb04f8dacdec4754a6cdb9f.m3u8
+#EXTINF:-1, CoachellaValley-Colorado
+https://hockeytech-west.akamaized.net/hls/live/2027395/game-1035572-Home-bf85e011-ef2b-4b58-9c10-6e1c58e39c20/main.m3u8
+#EXTINF:-1, Tucson-Abbotsford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
+#EXTINF:-1, SanJose-Bakersfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream14/playlist.m3u8
