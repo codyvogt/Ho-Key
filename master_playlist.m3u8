@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lethbridge-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/ea7ae3cdc41246ecb5daf0878e1da766.m3u8
-#EXTINF:-1, Kelowna-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/260bb247dca04f66b10bdb4726e54a96.m3u8
-#EXTINF:-1, Edmonton-RedDeer
-https://media-service.fanreachdata.io/edge/whl/47f1daef960c4a369642081c2ba67c36.m3u8
-#EXTINF:-1, KamloopsBlazers-Everett
-https://media-service.fanreachdata.io/edge/whl/8a817ae16bb04f8dacdec4754a6cdb9f.m3u8
-#EXTINF:-1, CoachellaValley-Colorado
-https://hockeytech-west.akamaized.net/hls/live/2027395/game-1035572-Home-bf85e011-ef2b-4b58-9c10-6e1c58e39c20/main.m3u8
 #EXTINF:-1, Tucson-Abbotsford
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
 #EXTINF:-1, SanJose-Bakersfield
