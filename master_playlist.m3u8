@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1, Colorado-Toronto
 https://247c.mrgamingstreams.com/mrgamingnhlnet.m3u8
-#EXTINF:-1, Springfield-UticaComets
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream178/playlist.m3u8
+#EXTINF:-1, WBS-Bridgeport
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream379/playlist.m3u8
+#EXTINF:-1, Rochester-Charlotte
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream377/playlist.m3u8
+#EXTINF:-1, Cleveland-Syracuse
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream378/playlist.m3u8
+#EXTINF:-1, Hershey-LehighValley
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream374/playlist.m3u8
 #EXTINF:-1, Québec-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/7df70df4738747ea82a32ad5321dec49.m3u8
 #EXTINF:-1, Rimouski-Moncton
