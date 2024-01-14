@@ -1,7 +1,49 @@
 #EXTM3U
-#EXTINF:-1, München-EisbärenBerlin
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Wolfsburg-Straubing
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, Olomouc-MountfieldHK
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream104/playlist.m3u8
+#EXTINF:-1, LaserHTHot-Raahe-KII
+https://cdn.livearenasports.com/blobs1/659247181dcc1159bb97e3c8/index.m3u8
+#EXTINF:-1, HernesaarenNäädät-PiTa
+https://cdn.livearenasports.com/blobs0/6590f5971dcc1159bb97c8fb/index.m3u8
+#EXTINF:-1, Warriors-Jää-Tiikerit
+https://cdn.livearenasports.com/blobs1/6575460f935a8c7daea7e95f/index.m3u8
+#EXTINF:-1, Mechelen-ChiefsLeuven
+https://cdn.livearenasports.com/blobs0/65928d3b1dcc1159bb97eb03/index.m3u8
+#EXTINF:-1, EatersLimburg-Liege
+https://cdn.livearenasports.com/blobs2/65928d3b1dcc1159bb97eb07/index.m3u8
+#EXTINF:-1, HYCHerentals-HijsHokij
+https://cdn.livearenasports.com/blobs0/65928d3c1dcc1159bb97eb0f/index.m3u8
+#EXTINF:-1, GepardiJablonec-Lomnice
+https://cdn.livearenasports.com/blobs2/64ccbf775fba8d09b1986f66/index.m3u8
+#EXTINF:-1, Briançon-Grenoble
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream88/playlist.m3u8
+#EXTINF:-1, KOOVEEII-Nikkarit
+https://cdn.livearenasports.com/blobs2/6590f5951dcc1159bb97c867/index.m3u8
+#EXTINF:-1, SkärgårdensSK-Varberg
+https://cdn.livearenasports.com/blobs1/659ba7cf7d1d187ca43d6b89/index.m3u8
+#EXTINF:-1, Mexico-Belgium
+https://cdn0-70014-odedge1.dna.ip-only.net/70014-odedge1/vods/blobs1/6597dd9d4f55994ade629a9e/index.m3u8
+#EXTINF:-1, Tyresö/Hanviken-Tullinge
+https://cdn.livearenasports.com/blobs1/659ba5f37d1d187ca43d6b2d/index.m3u8
+#EXTINF:-1, CapeBreton-ABTitan
+https://media-service.fanreachdata.io/edge/lhjmq/4b24aaa4b25848979e690a8a7bef3656.m3u8
+#EXTINF:-1, Québec-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/cf2c5b9e57ed45a989b5c74219132e68.m3u8
+#EXTINF:-1, Halifax-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/e7bc297df7ea4eee95d3480115485869.m3u8
+#EXTINF:-1, Drummond.-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/a6215b8b281f48d5847b845dce342210.m3u8
+#EXTINF:-1, RNHuskies-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/59b0a0d1661b469db9da4e64685915ba.m3u8
+#EXTINF:-1, Gatineau-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/83e8fe6852d245aeb671b6530764b212.m3u8
+#EXTINF:-1, Ottawa67's-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/cf071774a984428cb06de852f1519c0d.m3u8
+#EXTINF:-1, OwenSound-London
+https://media-service.fanreachdata.io/edge/ohl/8e862574ac30485caa870f1ab1f40245.m3u8
+#EXTINF:-1, Sarnia-Mississauga
+https://media-service.fanreachdata.io/edge/ohl/f9f7085afb744b149f0bd9f02463585d.m3u8
+#EXTINF:-1, Kingston-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/b3b1a11f8f464d848d9d6b28347eb27e.m3u8
+#EXTINF:-1, KB-KnightsIK-ÅbyHC
+https://cdn.livearenasports.com/blobs0/659ba7cf7d1d187ca43d6b80/index.m3u8
