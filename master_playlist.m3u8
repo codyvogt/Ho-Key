@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1, München-EisbärenBerlin
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, Wolfsburg-Straubing
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, Olomouc-MountfieldHK
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream104/playlist.m3u8
