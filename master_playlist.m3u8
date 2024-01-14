@@ -1,21 +1,45 @@
 #EXTM3U
-#EXTINF:-1, AdmiralVladivostok-Sibir
-https://stream201.24h.tv/hlsjwt/ad21a2fe899836f5facdc5d1aec025c43260ecb1-4097-0-24h12188758-5-1439371036-1705215785-e128-b7LI4ijLllX2bOnHwPd4Zuw2gdgBs48jAqcjG-PTMuA/index.m3u8
-#EXTINF:-1, IserlohnerEC-Dresden
-https://content.aisportswatch.com/261669/master.m3u8
-#EXTINF:-1, Landshut-KölnerJunghaie
-https://content.aisportswatch.com/260523/master.m3u8
+#EXTINF:-1, Spartak-MetallurgMg
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream66/playlist.m3u8
+#EXTINF:-1, Kunlun-SalavatYulaev
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream322/playlist.m3u8
 #EXTINF:-1, EVDuisburg-Frankfurt
 https://content.aisportswatch.com/270528/master.m3u8
 #EXTINF:-1, Schwenningen-Düsseldorf
 https://content.aisportswatch.com/270378/master.m3u8
 #EXTINF:-1, AugsburgerEV-Mannheim
 https://content.aisportswatch.com/270379/master.m3u8
-#EXTINF:-1, Lietuva-TeamEesti
-https://cdn.livearenasports.com/blobs0/658e99541dcc1159bb97b96f/index.m3u8
-#EXTINF:-1, Talsu-Kurbads/Lauvas
-https://cdn.livearenasports.com/blobs0/659bbe406f248f618101be60/index.m3u8
 #EXTINF:-1, KärpätAkatemia-HIFKAk
 https://cdn.livearenasports.com/blobs0/659138601dcc1159bb97d161/index.m3u8
 #EXTINF:-1, HPKAkatemia-KalPaAk
 https://cdn.livearenasports.com/blobs0/659138601dcc1159bb97d166/index.m3u8
+#EXTINF:-1, PanelianRaikas-APV
+https://cdn.livearenasports.com/blobs0/659924f04f55994ade62b83d/index.m3u8
+#EXTINF:-1, Kiekko-EspooAk-SaiPa
+https://cdn.livearenasports.com/blobs0/659177ab1dcc1159bb97df92/index.m3u8
+#EXTINF:-1, NjurundaSK-KirunaIF
+https://cdn.livearenasports.com/blobs0/659ba0517d1d187ca43d66bb/index.m3u8
+#EXTINF:-1, BodensHF-ÖstersundsIK
+https://cdn.livearenasports.com/blobs0/659b9ab17d1d187ca43d637a/index.m3u8
+#EXTINF:-1, BrunfloIK-SKLejon
+https://cdn.livearenasports.com/blobs0/659ba4137d1d187ca43d6893/index.m3u8
+#EXTINF:-1, VännäsHC-KovlandsIshF
+https://cdn.livearenasports.com/blobs0/659b98cb7d1d187ca43d620d/index.m3u8
+#EXTINF:-1, KalixHC-IFSundsvall
+https://cdn.livearenasports.com/blobs0/659ba2317d1d187ca43d685e/index.m3u8
+#EXTINF:-1, ÖrnsköldsvikHF-PiteåHC
+https://cdn.livearenasports.com/blobs0/659ba2317d1d187ca43d6857/index.m3u8
+#EXTINF:-1, Clemensnäs-Härnösand
+https://cdn.livearenasports.com/blobs0/659b97dd7d1d187ca43d61f9/index.m3u8
+#EXTINF:-1, IKGraip-Saltsjöbaden
+https://cdn.livearenasports.com/blobs0/659b8f6a7d1d187ca43d6088/index.m3u8
+#EXTINF:-1, JärnaSK-BålstaHC
+https://cdn.livearenasports.com/blobs0/659ba3247d1d187ca43d6872/index.m3u8
+#EXTINF:-1, KB-KnightsIK-ÅbyHC
+https://cdn.livearenasports.com/blobs0/659ba7cf7d1d187ca43d6b80/index.m3u8
+#EXTINF:-1, Sweden-Slovakia
+https://nn.geo.joj.sk/huste/3e279d23-3951-4d61-80f6-2e0b22b9568d/3e279d23-3951-4d61-80f6-2e0b22b9568d/playlist.m3u8
+#EXTINF:-1, Talsu-Kurbads/Lauvas
+https://cdn.livearenasports.com/blobs0/659bbe406f248f618101be60/index.m3u8
+#EXTINF:-1, LiberecB-BKNováPaka
+https://cdn.livearenasports.com/blobs0/655f31e9b005860c0cfbaa71/index.m3u8
