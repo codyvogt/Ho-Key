@@ -5,31 +5,13 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, Iserlohn-Augsburg
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Nürnberg-Frankfurt
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
+#EXTINF:-1, ERCIngolstadt-Mannheim
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
+#EXTINF:-1, München-EisbärenBerlin
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Severstal-SKA
 https://kinescope.io/aFH72MDmqF3jQ6q9vgUeYq/master.m3u8
 #EXTINF:-1, DinamoMinsk-Traktor
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, TrentoSilvelox-Merano
-https://cdn.livearenasports.com/blobs0/655c942bb005860c0cfba2da/index.m3u8
-#EXTINF:-1, ValpelliceBulldogs-Asiago
-https://content.aisportswatch.com/269357/master.m3u8
-#EXTINF:-1, Kaltern-Juniorteams
-https://cdn.livearenasports.com/blobs0/655f339cb005860c0cfbaabd/index.m3u8
-#EXTINF:-1, TrångsundsIF-Mariehamn
-https://cdn.livearenasports.com/blobs0/659b94277d1d187ca43d619e/index.m3u8
-#EXTINF:-1, VästeråsPickels-Kungsör
-https://cdn.livearenasports.com/blobs2/659d285fee6bf6560670dd4d/index.m3u8
-#EXTINF:-1, IFLejonet-LenhovdaIF
-https://cdn.livearenasports.com/blobs0/659b93297d1d187ca43d6182/index.m3u8
-#EXTINF:-1, NässjöHC-RonnebyIK
-https://cdn.livearenasports.com/blobs0/659b9f5f7d1d187ca43d668f/index.m3u8
-#EXTINF:-1, Rydaholm-LundGiants
-https://cdn.livearenasports.com/blobs0/659b90567d1d187ca43d6092/index.m3u8
-#EXTINF:-1, OsbyIK-DiöGoIFHK
-https://cdn.livearenasports.com/blobs0/659b95f87d1d187ca43d61c9/index.m3u8
-#EXTINF:-1, TrollhättansHC-Tidaholm
-https://cdn.livearenasports.com/blobs0/659b9f5f7d1d187ca43d6692/index.m3u8
-#EXTINF:-1, Motala-LionsStrömstad
-https://cdn.livearenasports.com/blobs0/659ba1477d1d187ca43d6818/index.m3u8
-#EXTINF:-1, SkärgårdensSK-Varberg
-https://cdn.livearenasports.com/blobs0/659ba7cf7d1d187ca43d6b89/index.m3u8
