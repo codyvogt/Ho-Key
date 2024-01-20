@@ -1,47 +1,75 @@
 #EXTM3U
-#EXTINF:-1, Hiki-Hockey-KJK
-https://cdn.livearenasports.com/blobs1/659a301f4f55994ade62c9ec/index.m3u8
-#EXTINF:-1, Rungsted-SønderjyskE
-https://cdn.livearenasports.com/blobs1/6595676e1dcc1159bb984c93/index.m3u8
-#EXTINF:-1, Liege-Diez-Limburg
-https://cdn.livearenasports.com/blobs1/659a763c7d1d187ca43d47b4/index.m3u8
-#EXTINF:-1, Leuven-Heerenveen
-https://cdn.livearenasports.com/blobs0/659a763d7d1d187ca43d47b8/index.m3u8
-#EXTINF:-1, HYCHerentals-Limburg
-https://cdn.livearenasports.com/blobs1/659a763d4f55994ade62df14/index.m3u8
-#EXTINF:-1, Cadore-VinschgauEisfix
-https://cdn.livearenasports.com/blobs0/658bfcff1dcc1159bb97b355/index.m3u8
-#EXTINF:-1, HCPiné-MilanoDevils
-https://cdn.livearenasports.com/blobs2/65a928b5577aca49b7cb9038/index.m3u8
-#EXTINF:-1, Valpellice-Chiavenna
-https://cdn.livearenasports.com/blobs0/658c03ef1dcc1159bb97b3df/index.m3u8
-#EXTINF:-1, Cardiff-DundeeStars
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
-#EXTINF:-1, Manchester-Coventry
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream87/playlist.m3u8
-#EXTINF:-1, Nottingham-Belfast
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
-#EXTINF:-1, Fife-SheffieldSteelers
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream101/playlist.m3u8
-#EXTINF:-1, HolyCross-Providence
+#EXTINF:-1, Rouyn-Noranda-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/3b10f8ac106841afab9d73f3ac45bcba.m3u8
+#EXTINF:-1, Moncton-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/c221e90e395d4be9a7b283b98f7be270.m3u8
+#EXTINF:-1, Baie-Comeau-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/05fb28e7dfca4917b31aa26d88b2a5e8.m3u8
+#EXTINF:-1, Shawinigan-ABTitan
+https://media-service.fanreachdata.io/edge/lhjmq/abfa110f3c274ce2b6b1600de6b86abe.m3u8
+#EXTINF:-1, SaintJohn-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/2130eb1bf9704cd8a0077cec0a404ce4.m3u8
+#EXTINF:-1, Chicoutimi-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/f821fdebebf84fc39a2c73f9d0d571d8.m3u8
+#EXTINF:-1, Sherbrooke-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/38c3be3eecbb4e198194139bea08a4b3.m3u8
+#EXTINF:-1, Windsor-Brantford
+https://media-service.fanreachdata.io/edge/ohl/8d7899b420e34d269bb4025820f20cae.m3u8
+#EXTINF:-1, Kitchener-London
+https://media-service.fanreachdata.io/edge/ohl/8b1f68eef18e46e489e7ed193b69a68e.m3u8
+#EXTINF:-1, Sarnia-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/8dd3ea309247456c9534106f02c1b507.m3u8
+#EXTINF:-1, Saginaw-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/6d006bf49e494ebebc89c32c286dceaf.m3u8
+#EXTINF:-1, Niagara-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/9fc5077b1d894591934f7ada0602f556.m3u8
+#EXTINF:-1, Brown-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, UMass-Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Miami-ColoradoCollege
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c2eb9a28-8967-4903-8061-9a62d9f4a7e2-hls/master/c2eb9a28-8967-4903-8061-9a62d9f4a7e2-hls.m3u8
+#EXTINF:-1, UMD-WesternMichigan
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/bda8efa5-ef7c-43fb-ab18-c5a5b70d33af-hls/master/bda8efa5-ef7c-43fb-ab18-c5a5b70d33af-hls.m3u8
+#EXTINF:-1, Princeton-Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Cornell
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer-Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Union-Harvard
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Yale-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, UMassLowell-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, BostonU-Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, UND-St.CloudState
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a9ae5f1e-a01a-44ab-ab8f-54923c67e4b6-hls/master/a9ae5f1e-a01a-44ab-ab8f-54923c67e4b6-hls.m3u8
+#EXTINF:-1, UAA-Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, St.Anselm-Post
-https://vcloud.blueframetech.com/file/broadcast/602339.m3u8
-#EXTINF:-1, Clarkson-Brown
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Colgate-Princeton
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Cornell-Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Dartmouth-Rensselaer
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Yale
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Vermont-BostonU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Stonehill-St.Michael's
-https://vcloud.blueframetech.com/file/broadcast/867778.m3u8
+#EXTINF:-1, Denver-Nebraska-Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b485bad9-d9c1-4dc3-9bad-419b37ab6f42-hls/master/b485bad9-d9c1-4dc3-9bad-419b37ab6f42-hls.m3u8
+#EXTINF:-1, Augustana-ArizonaState
+https://pac12-ono.amagi.tv/playlist/pac12-ono-pac12-hls/playlist.m3u8
 #EXTINF:-1, Maine-Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, LongIsland-Assumption
 https://vcloud.blueframetech.com/file/broadcast/682049.m3u8
+#EXTINF:-1, Kamloops-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/5a9afc5a9e77450ab2b5ad416e0de983.m3u8
+#EXTINF:-1, Lethbridge-Brandon
+https://media-service.fanreachdata.io/edge/whl/83803b12a49241ce8908b4d038cef6ec.m3u8
+#EXTINF:-1, SwiftCurrent-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/0c3a8ab01bc64462abc735ca54c3bb94.m3u8
+#EXTINF:-1, MedicineHat-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/e9e75d5ff498455788063211b4741a6a.m3u8
+#EXTINF:-1, Portland-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/bc21e0d6fcb242928cffaa5004b0cf6c.m3u8
+#EXTINF:-1, PrinceAlbert-RedDeer
+https://media-service.fanreachdata.io/edge/whl/b7e37968912643b398ba3ee8ef187c12.m3u8
+#EXTINF:-1, Spokane-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/2285c32af8da4c94bdab60a6003995af.m3u8
+#EXTINF:-1, Tri-CityAmericans-Seattle
+https://media-service.fanreachdata.io/edge/whl/f9def993440c48099698bc122581833a.m3u8
