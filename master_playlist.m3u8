@@ -1,1 +1,47 @@
 #EXTM3U
+#EXTINF:-1, Hiki-Hockey-KJK
+https://cdn.livearenasports.com/blobs1/659a301f4f55994ade62c9ec/index.m3u8
+#EXTINF:-1, Rungsted-SønderjyskE
+https://cdn.livearenasports.com/blobs1/6595676e1dcc1159bb984c93/index.m3u8
+#EXTINF:-1, Liege-Diez-Limburg
+https://cdn.livearenasports.com/blobs1/659a763c7d1d187ca43d47b4/index.m3u8
+#EXTINF:-1, Leuven-Heerenveen
+https://cdn.livearenasports.com/blobs0/659a763d7d1d187ca43d47b8/index.m3u8
+#EXTINF:-1, HYCHerentals-Limburg
+https://cdn.livearenasports.com/blobs1/659a763d4f55994ade62df14/index.m3u8
+#EXTINF:-1, Cadore-VinschgauEisfix
+https://cdn.livearenasports.com/blobs0/658bfcff1dcc1159bb97b355/index.m3u8
+#EXTINF:-1, HCPiné-MilanoDevils
+https://cdn.livearenasports.com/blobs2/65a928b5577aca49b7cb9038/index.m3u8
+#EXTINF:-1, Valpellice-Chiavenna
+https://cdn.livearenasports.com/blobs0/658c03ef1dcc1159bb97b3df/index.m3u8
+#EXTINF:-1, Cardiff-DundeeStars
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
+#EXTINF:-1, Manchester-Coventry
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream87/playlist.m3u8
+#EXTINF:-1, Nottingham-Belfast
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
+#EXTINF:-1, Fife-SheffieldSteelers
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream101/playlist.m3u8
+#EXTINF:-1, HolyCross-Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, St.Anselm-Post
+https://vcloud.blueframetech.com/file/broadcast/602339.m3u8
+#EXTINF:-1, Clarkson-Brown
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Colgate-Princeton
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Cornell-Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Dartmouth-Rensselaer
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Yale
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Vermont-BostonU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Stonehill-St.Michael's
+https://vcloud.blueframetech.com/file/broadcast/867778.m3u8
+#EXTINF:-1, Maine-Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, LongIsland-Assumption
+https://vcloud.blueframetech.com/file/broadcast/682049.m3u8
