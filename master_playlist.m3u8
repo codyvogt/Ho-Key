@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Sweden-Finland
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream02/playlist.m3u8
-#EXTINF:-1, Germany-CzechRepublic
-https://cdn.livearenasports.com/blobs1/65c2001d47beb92cdce94d39/index.m3u8
 #EXTINF:-1, LokomotivYaroslavl-Sibir
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, Belarus-Kazakhstan
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Slovakia-SlovakiaU19
+https://nn.geo.joj.sk/huste/788b9909-e44d-4252-999a-5912e030c231/788b9909-e44d-4252-999a-5912e030c231/playlist.m3u8
 #EXTINF:-1, Finland-CzechRepublic
-https://cdn.livearenasports.com/blobs0/65b9d40e688dad0602c22379/index.m3u8
+https://cdn.livearenasports.com/blobs2/65b9d40e688dad0602c22379/index.m3u8
 #EXTINF:-1, Warrantti-MIFTeam
 https://cdn.livearenasports.com/blobs0/65b9d40e688dad0602c2236d/index.m3u8
 #EXTINF:-1, LaserHTHot-OYUS
@@ -16,6 +14,8 @@ https://cdn.livearenasports.com/blobs0/65b9d40e688dad0602c22378/index.m3u8
 #EXTINF:-1, N‰‰d‰t-HCKSalamat
 https://cdn.livearenasports.com/blobs0/65b9d40e688dad0602c2236a/index.m3u8
 #EXTINF:-1, Hermes-JYPAkatemia
-https://cdn.livearenasports.com/blobs0/65b7310f688dad0602c21aa7/index.m3u8
+https://cdn.livearenasports.com/blobs2/65b7310f688dad0602c21aa7/index.m3u8
+#EXTINF:-1, Slovakia-Germany
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Czechia-Switzerland
 https://cdn.livearenasports.com/blobs0/65c1e83a47beb92cdce94cdc/index.m3u8
