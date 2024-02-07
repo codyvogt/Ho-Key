@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, WenatcheeWild-Seattle
-https://media-service.fanreachdata.io/edge/whl/969a0fea4f464f1aaba0ab731cd65575.m3u8
+#EXTINF:-1, Edmonton-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/0a56aeab20c243f794accb2a664e9218.m3u8
+#EXTINF:-1, Lethbridge-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/7ecd01a40672407384f7bc17f035143c.m3u8
+#EXTINF:-1, RedDeer-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/d6dc19b0c0e349fb9630aa890df3769f.m3u8
+#EXTINF:-1, ReginaPats-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/5963109cfb97445181b55de62a91d5db.m3u8
