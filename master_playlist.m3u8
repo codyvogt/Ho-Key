@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1, Slovakia-Germany
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, Kralupy-KrálovéPísek
+https://cdn.livearenasports.com/blobs2/65a8bf95577aca49b7cb8e7b/index.m3u8
+#EXTINF:-1, BäckenHC-Helsingborg
+https://cdn.livearenasports.com/blobs2/65bb4cbd688dad0602c22710/index.m3u8
+#EXTINF:-1, VänersborgsHC-Mölndal
+https://cdn.livearenasports.com/blobs0/65bb4720688dad0602c226de/index.m3u8
+#EXTINF:-1, Pantern-Boro/Vetlanda
+https://cdn.livearenasports.com/blobs2/65bb3ccc688dad0602c22687/index.m3u8
+#EXTINF:-1, VärnamoGIK-Grästorp
+https://cdn.livearenasports.com/blobs2/65bb444a688dad0602c226cf/index.m3u8
+#EXTINF:-1, UlricehamnsIF-Kungälv
+https://cdn.livearenasports.com/blobs0/65bb372f688dad0602c22670/index.m3u8
+#EXTINF:-1, HanhalsIF-HA74
+https://cdn.livearenasports.com/blobs0/65bb4da9688dad0602c22716/index.m3u8
+#EXTINF:-1, NittorpsIK-Stenungsund
+https://cdn.livearenasports.com/blobs0/65bb3bd9688dad0602c22681/index.m3u8
+#EXTINF:-1, ÅsedaIF-GislavedsSK
+https://cdn.livearenasports.com/blobs2/65bb3370688dad0602c2263d/index.m3u8
+#EXTINF:-1, OlofströmsIK-Jonstorp
+https://cdn.livearenasports.com/blobs0/65bb435d688dad0602c226b8/index.m3u8
