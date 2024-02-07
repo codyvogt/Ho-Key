@@ -15,7 +15,11 @@ https://cdn.livearenasports.com/blobs0/65b9d40e688dad0602c22378/index.m3u8
 https://cdn.livearenasports.com/blobs0/65b9d40e688dad0602c2236a/index.m3u8
 #EXTINF:-1, Hermes-JYPAkatemia
 https://cdn.livearenasports.com/blobs2/65b7310f688dad0602c21aa7/index.m3u8
+#EXTINF:-1, IPK-ImatranKetterä
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream151/playlist.m3u8
+#EXTINF:-1, Kiekko-Espoo-KOOVEE
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream150/playlist.m3u8
 #EXTINF:-1, Slovakia-Germany
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Czechia-Switzerland
-https://cdn.livearenasports.com/blobs0/65c1e83a47beb92cdce94cdc/index.m3u8
+https://cdn.livearenasports.com/blobs2/65c1e83a47beb92cdce94cdc/index.m3u8
