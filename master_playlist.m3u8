@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1, Slovakia-Germany
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, Italy-Slovenia
+https://cdn.livearenasports.com/blobs1/65c3656847beb92cdce94fd4/index.m3u8
+#EXTINF:-1, Norway-Austria
+https://cdn.livearenasports.com/blobs2/65bb25b4688dad0602c22632/index.m3u8
+#EXTINF:-1, UmeåDragonsHC-LN91
+https://cdn.livearenasports.com/blobs2/65bc899c688dad0602c2293e/index.m3u8
+#EXTINF:-1, MunkedalsBK-SkaraIK
+https://cdn.livearenasports.com/blobs2/65c36c1347beb92cdce94fe8/index.m3u8
+#EXTINF:-1, HA74-VärnamoGIK
+https://cdn.livearenasports.com/blobs0/65acbe2d577aca49b7cb9a97/index.m3u8
+#EXTINF:-1, GreatBritain-Italy
+https://cdn.livearenasports.com/blobs1/65c3850a6506946b97d98f2e/index.m3u8
 #EXTINF:-1, Italy-Slovenia
 https://cdn.livearenasports.com/blobs0/65bba32d688dad0602c2281a/index.m3u8
+#EXTINF:-1, TullingeTPHC-KTH:sIF
+https://cdn.livearenasports.com/blobs1/65bc88ae688dad0602c22939/index.m3u8
