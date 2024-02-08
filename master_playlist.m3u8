@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LadaTogliatti-Amur
-https://stream201.24h.tv/hlsjwt/a732619f3f09f12a91bdbe2b8344bcce615762fc-5790-0-24h6075766-5-3641672173-1707404860-e128-ck7I8mqrrCb4eE-O9LGLGfQkG94z0bzD9aPkOd-3gC0/index.m3u8
-#EXTINF:-1, Denmark-Latvia
-https://cdn.livearenasports.com/blobs1/65bb25b4688dad0602c22630/index.m3u8
-#EXTINF:-1, Norway-Austria
-https://cdn.livearenasports.com/blobs0/65bb25b4688dad0602c22632/index.m3u8
-#EXTINF:-1, Poland-Denmark
-https://cdn.livearenasports.com/blobs1/65c3850a6506946b97d98f2c/index.m3u8
-#EXTINF:-1, GreatBritain-Italy
-https://cdn.livearenasports.com/blobs0/65c3850a6506946b97d98f2e/index.m3u8
 #EXTINF:-1, Slovakia-Japan
 https://nn.geo.joj.sk/huste/21f3e9b2-933e-4a9b-88d2-e17c736c096d/21f3e9b2-933e-4a9b-88d2-e17c736c096d/playlist.m3u8
 #EXTINF:-1, Finland-Sweden
