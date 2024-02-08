@@ -9,7 +9,13 @@ https://nn.geo.joj.sk/huste/f6a60201-3f32-4bd6-b448-69ac35839a13/f6a60201-3f32-4
 https://cdn.livearenasports.com/blobs0/65c1e83a47beb92cdce94cde/index.m3u8
 #EXTINF:-1, CzechRepublic-Finland
 https://cdn.livearenasports.com/blobs0/65c1e83a47beb92cdce94cdb/index.m3u8
+#EXTINF:-1, France-Hungary
+https://nn.geo.joj.sk/huste/d7c8dbd0-a1e2-4671-9294-6c00a0bfd0e4/d7c8dbd0-a1e2-4671-9294-6c00a0bfd0e4/playlist.m3u8
 #EXTINF:-1, AvangardOmsk-Spartak
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, BarysAstana-SKA
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream263/playlist.m3u8
+#EXTINF:-1, France-Hungary
+https://cdn.livearenasports.com/blobs2/65c3656847beb92cdce94fd2/index.m3u8
+#EXTINF:-1, Italy-Slovenia
+https://cdn.livearenasports.com/blobs0/65c3656847beb92cdce94fd4/index.m3u8
