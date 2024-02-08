@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Poland-Lithuania
-https://cdn.livearenasports.com/blobs2/65abaa52577aca49b7cb97d7/index.m3u8
-#EXTINF:-1, Italy-Hungary
-https://cdn.livearenasports.com/blobs0/65abab16e667ff017691e737/index.m3u8
 #EXTINF:-1, SlovakiaU19-Ukraine
 https://nn.geo.joj.sk/huste/f6a60201-3f32-4bd6-b448-69ac35839a13/f6a60201-3f32-4bd6-b448-69ac35839a13/playlist.m3u8
 #EXTINF:-1, Sweden-Switzerland
@@ -14,8 +10,22 @@ https://nn.geo.joj.sk/huste/d7c8dbd0-a1e2-4671-9294-6c00a0bfd0e4/d7c8dbd0-a1e2-4
 #EXTINF:-1, AvangardOmsk-Spartak
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, BarysAstana-SKA
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream263/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 #EXTINF:-1, France-Hungary
 https://cdn.livearenasports.com/blobs2/65c3656847beb92cdce94fd2/index.m3u8
 #EXTINF:-1, Italy-Slovenia
 https://cdn.livearenasports.com/blobs0/65c3656847beb92cdce94fd4/index.m3u8
+#EXTINF:-1, Switzerland-Finland
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream08/playlist.m3u8
+#EXTINF:-1, Germany-Finland
+https://cdn.livearenasports.com/blobs2/65a66d006e331848ed6dd309/index.m3u8
+#EXTINF:-1, Denmark-Latvia
+https://cdn.livearenasports.com/blobs0/65bb25b4688dad0602c22630/index.m3u8
+#EXTINF:-1, Norway-Austria
+https://cdn.livearenasports.com/blobs0/65bb25b4688dad0602c22632/index.m3u8
+#EXTINF:-1, Poland-Denmark
+https://cdn.livearenasports.com/blobs0/65c3850a6506946b97d98f2c/index.m3u8
+#EXTINF:-1, GreatBritain-Italy
+https://cdn.livearenasports.com/blobs0/65c3850a6506946b97d98f2e/index.m3u8
+#EXTINF:-1, Italy-Hungary
+https://cdn.livearenasports.com/blobs0/65abab16e667ff017691e737/index.m3u8
