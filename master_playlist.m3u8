@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1, SaintJohn-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/0b1d4b24d77a4408ac443ca0e3974c26.m3u8
+#EXTINF:-1, ABTitan-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/c9a2714f5d3949348448890cd79b9a93.m3u8
+#EXTINF:-1, Victoriaville-Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/4f62f4a5ae364e4da01ce8ea6b3dded7.m3u8
+#EXTINF:-1, Niagara-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/e9b3e8fbe577442d8a694557478aa01e.m3u8
+#EXTINF:-1, Mississauga-PtboPetes
+https://media-service.fanreachdata.io/edge/ohl/d8ea2dd0e59349699ba1d5e88a2d38e7.m3u8
+#EXTINF:-1, Erie-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/891c0b114f264ad6817dc52764e28008.m3u8
