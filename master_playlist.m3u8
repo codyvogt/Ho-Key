@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1, AvangardOmsk-Spartak
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, BarysAstana-SKA
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 #EXTINF:-1, LadaTogliatti-Amur
 https://stream201.24h.tv/hlsjwt/a732619f3f09f12a91bdbe2b8344bcce615762fc-5790-0-24h6075766-5-3641672173-1707404860-e128-ck7I8mqrrCb4eE-O9LGLGfQkG94z0bzD9aPkOd-3gC0/index.m3u8
-#EXTINF:-1, AkBarsKazan-Traktor
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1, DinamoMinsk-CSKA
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Lithuania-Japan
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream05/playlist.m3u8
-#EXTINF:-1, Germany-Finland
-https://cdn.livearenasports.com/blobs2/65a66d006e331848ed6dd309/index.m3u8
 #EXTINF:-1, Denmark-Latvia
 https://cdn.livearenasports.com/blobs1/65bb25b4688dad0602c22630/index.m3u8
 #EXTINF:-1, Norway-Austria
@@ -21,9 +9,11 @@ https://cdn.livearenasports.com/blobs0/65bb25b4688dad0602c22632/index.m3u8
 https://cdn.livearenasports.com/blobs1/65c3850a6506946b97d98f2c/index.m3u8
 #EXTINF:-1, GreatBritain-Italy
 https://cdn.livearenasports.com/blobs0/65c3850a6506946b97d98f2e/index.m3u8
+#EXTINF:-1, Slovakia-Japan
+https://nn.geo.joj.sk/huste/21f3e9b2-933e-4a9b-88d2-e17c736c096d/21f3e9b2-933e-4a9b-88d2-e17c736c096d/playlist.m3u8
 #EXTINF:-1, Finland-Sweden
-https://cdn.livearenasports.com/blobs0/65bb258e688dad0602c225ec/index.m3u8
+https://cdn.livearenasports.com/blobs1/65bb258e688dad0602c225ec/index.m3u8
 #EXTINF:-1, Italy-Hungary
 https://cdn.livearenasports.com/blobs0/65abab16e667ff017691e737/index.m3u8
 #EXTINF:-1, HKTukums-ZemgaleJrs
-https://cdn.livearenasports.com/blobs0/65c0b1a047beb92cdce94ac9/index.m3u8
+https://cdn.livearenasports.com/blobs1/65c0b1a047beb92cdce94ac9/index.m3u8
