@@ -1,5 +1,15 @@
 #EXTM3U
+#EXTINF:-1, Italy-Slovenia
+https://cdn.livearenasports.com/blobs0/65c4917b4af8a221ec8daa3a/index.m3u8
 #EXTINF:-1, Lithuania-Hungary
-https://cdn.livearenasports.com/blobs0/65abab42577aca49b7cb97d9/index.m3u8
+https://cdn.livearenasports.com/blobs2/65abab42577aca49b7cb97d9/index.m3u8
 #EXTINF:-1, Poland-Italy
 https://cdn.livearenasports.com/blobs0/65abab49577aca49b7cb97db/index.m3u8
+#EXTINF:-1, Belarus-RussiaU17
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Ukraine-Germany
+https://nn.geo.joj.sk/huste/778477e6-7f71-49b3-93ae-481d86505c6f/778477e6-7f71-49b3-93ae-481d86505c6f/playlist.m3u8
+#EXTINF:-1, Switzerland-Finland
+https://cdn.livearenasports.com/blobs0/65c1e83a47beb92cdce94cd8/index.m3u8
+#EXTINF:-1, Sweden-UnitedStates
+https://cdn.livearenasports.com/blobs0/6595698e1dcc1159bb984d29/index.m3u8
