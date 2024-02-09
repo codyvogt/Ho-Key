@@ -1,39 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Kramfors-Alliansen-Ånge
-https://cdn.livearenasports.com/blobs1/65bde2a1688dad0602c230f6/index.m3u8
-#EXTINF:-1, KovlandsIshF-Sollefteå
-https://cdn.livearenasports.com/blobs0/65bde47d688dad0602c23102/index.m3u8
-#EXTINF:-1, BrunfloIK-NjurundaSK
-https://cdn.livearenasports.com/blobs2/65bdeb10688dad0602c2316b/index.m3u8
-#EXTINF:-1, LyckseleSK-NorsjöHC
-https://cdn.livearenasports.com/blobs2/65bde749688dad0602c2314f/index.m3u8
-#EXTINF:-1, HammarbyIF-LidingöHC
-https://cdn.livearenasports.com/blobs0/65bdede2688dad0602c23185/index.m3u8
-#EXTINF:-1, Charlottenberg-NorIK
-https://cdn.livearenasports.com/blobs1/65bde38f688dad0602c230fc/index.m3u8
-#EXTINF:-1, Örnen/Örebro-Kumla2
-https://cdn.livearenasports.com/blobs1/65bdebfe688dad0602c23174/index.m3u8
-#EXTINF:-1, GimoIFHC-FOCFarstaIF
-https://cdn.livearenasports.com/blobs0/65bddc11688dad0602c230c9/index.m3u8
-#EXTINF:-1, SolnaSK-NorrtäljeIK
-https://cdn.livearenasports.com/blobs0/65c31c6a47beb92cdce94e66/index.m3u8
-#EXTINF:-1, Ormsta-ÖsteråkerVikings
-https://cdn.livearenasports.com/blobs1/65bde2a1688dad0602c230f5/index.m3u8
-#EXTINF:-1, BollnäsIS-Robertsholm
-https://cdn.livearenasports.com/blobs2/65bde92c688dad0602c23160/index.m3u8
-#EXTINF:-1, ÄltaIF-MälaröHF
-https://cdn.livearenasports.com/blobs0/65bdddea688dad0602c230d5/index.m3u8
-#EXTINF:-1, NyköpingsAIK-Mariefred
-https://cdn.livearenasports.com/blobs2/65bdd66e688dad0602c2308b/index.m3u8
-#EXTINF:-1, KnivstaIK-RimboIF
-https://cdn.livearenasports.com/blobs0/65bddcfb688dad0602c230cc/index.m3u8
-#EXTINF:-1, EnköpingsSKHK-SHK
-https://cdn.livearenasports.com/blobs1/65bf323a47beb92cdce9435b/index.m3u8
-#EXTINF:-1, HuntersTeam-Salamat
-https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228dd/index.m3u8
-#EXTINF:-1, Benátkyn.J.-Vlašim
-https://cdn.livearenasports.com/blobs2/65587e4a9939214221b81650/index.m3u8
-#EXTINF:-1, Hlinsko-OrliLanškroun
-https://cdn.livearenasports.com/blobs1/657dae8e85bf2a08da61a9b1/index.m3u8
-#EXTINF:-1, HCNáchod-NovýBydžov
-https://cdn.livearenasports.com/blobs2/65bcda76688dad0602c22b1c/index.m3u8
+#EXTINF:-1, Italy-Slovenia
+https://cdn.livearenasports.com/blobs0/65c4917b4af8a221ec8daa3a/index.m3u8
+#EXTINF:-1, CardiffDevils-Coventry
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream267/playlist.m3u8
+#EXTINF:-1, HijsHokij-Heerenveen
+https://cdn.livearenasports.com/blobs0/65b4d453c7b5003d5f1ac7ba/index.m3u8
+#EXTINF:-1, SanDiegoGulls-Calgary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream60/playlist.m3u8
+#EXTINF:-1, Brown-Harvard
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
