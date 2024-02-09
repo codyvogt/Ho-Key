@@ -1,35 +1,41 @@
 #EXTM3U
-#EXTINF:-1, Belarus-RussiaU17
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Ukraine-Germany
-https://nn.geo.joj.sk/huste/778477e6-7f71-49b3-93ae-481d86505c6f/778477e6-7f71-49b3-93ae-481d86505c6f/playlist.m3u8
-#EXTINF:-1, Sweden-Germany
-https://cdn.livearenasports.com/blobs0/65b247d4688dad0602c209bd/index.m3u8
-#EXTINF:-1, Switzerland-Finland
-https://cdn.livearenasports.com/blobs1/65c1e83a47beb92cdce94cd8/index.m3u8
-#EXTINF:-1, Sweden-UnitedStates
-https://cdn.livearenasports.com/blobs0/6595698e1dcc1159bb984d29/index.m3u8
-#EXTINF:-1, Latvia-SwitzerlandRed
-https://cdn.livearenasports.com/blobs1/65af94df1d96284681217ed5/index.m3u8
-#EXTINF:-1, Hungary-Norway
-https://nn.geo.joj.sk/huste/b3feecbc-af38-4384-aacc-8f1a39b11396/b3feecbc-af38-4384-aacc-8f1a39b11396/playlist.m3u8
 #EXTINF:-1, Sweden-Switzerland
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream02/playlist.m3u8
 #EXTINF:-1, Denmark-Norway
-https://cdn.livearenasports.com/blobs0/65c3332c47beb92cdce94f2a/index.m3u8
+https://cdn.livearenasports.com/blobs1/65c3332c47beb92cdce94f2a/index.m3u8
 #EXTINF:-1, Austria-Latvia
-https://cdn.livearenasports.com/blobs0/65bb25b4688dad0602c22634/index.m3u8
+https://cdn.livearenasports.com/blobs1/65bb25b4688dad0602c22634/index.m3u8
 #EXTINF:-1, Norway-Denmark
 https://cdn.livearenasports.com/blobs0/65bb25b5688dad0602c22636/index.m3u8
 #EXTINF:-1, Slovenia-France
-https://cdn.livearenasports.com/blobs0/65c3656847beb92cdce94fd6/index.m3u8
+https://cdn.livearenasports.com/blobs2/65c3656847beb92cdce94fd6/index.m3u8
 #EXTINF:-1, Hungary-Italy
 https://cdn.livearenasports.com/blobs0/65c3656847beb92cdce94fd8/index.m3u8
 #EXTINF:-1, Poland-GreatBritain
 https://cdn.livearenasports.com/blobs0/65c3850a6506946b97d98f30/index.m3u8
 #EXTINF:-1, Denmark-Italy
 https://cdn.livearenasports.com/blobs0/65c3850b6506946b97d98f32/index.m3u8
+#EXTINF:-1, Neftekhimik-Sibir
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
+#EXTINF:-1, TorpedoNizhny-Sochi
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, Belarus-RussiaU17
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Sweden-CzechRepublic
+https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228bd/index.m3u8
 #EXTINF:-1, Poland-Italy
 https://cdn.livearenasports.com/blobs0/65abab49577aca49b7cb97db/index.m3u8
-#EXTINF:-1, Italy-Slovenia
-https://cdn.livearenasports.com/blobs0/65c4917b4af8a221ec8daa3a/index.m3u8
+#EXTINF:-1, LapuanVirki‰-MUIK
+https://cdn.livearenasports.com/blobs0/65be3c92688dad0602c231e2/index.m3u8
+#EXTINF:-1, Titaanit-SaPKo
+https://cdn.livearenasports.com/blobs0/65be3c92688dad0602c231e1/index.m3u8
+#EXTINF:-1, HSKurbads-HCéalgiris
+https://cdn.livearenasports.com/blobs0/658d47201dcc1159bb97b68e/index.m3u8
+#EXTINF:-1, L‰nnenKiekko-VG-62II
+https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228c2/index.m3u8
+#EXTINF:-1, JPK-LapuanVirki‰II
+https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228a2/index.m3u8
+#EXTINF:-1, AaKoo-ParruHT
+https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228af/index.m3u8
+#EXTINF:-1, HuntersTeam-Salamat
+https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228dd/index.m3u8
