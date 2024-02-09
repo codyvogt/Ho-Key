@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sweden-Switzerland
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream02/playlist.m3u8
 #EXTINF:-1, Denmark-Norway
 https://cdn.livearenasports.com/blobs1/65c3332c47beb92cdce94f2a/index.m3u8
 #EXTINF:-1, Austria-Latvia
@@ -15,24 +13,30 @@ https://cdn.livearenasports.com/blobs0/65c3656847beb92cdce94fd8/index.m3u8
 https://cdn.livearenasports.com/blobs0/65c3850a6506946b97d98f30/index.m3u8
 #EXTINF:-1, Denmark-Italy
 https://cdn.livearenasports.com/blobs0/65c3850b6506946b97d98f32/index.m3u8
+#EXTINF:-1, Spain-Japan
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
 #EXTINF:-1, Neftekhimik-Sibir
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1, TorpedoNizhny-Sochi
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, Belarus-RussiaU17
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, SlovakiaU19-Japan
+https://nn.geo.joj.sk/huste/ea0718d4-ea04-4853-910e-375e4c4a3eb3/ea0718d4-ea04-4853-910e-375e4c4a3eb3/playlist.m3u8
 #EXTINF:-1, Sweden-CzechRepublic
-https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228bd/index.m3u8
+https://cdn.livearenasports.com/blobs1/65bc770e688dad0602c228bd/index.m3u8
 #EXTINF:-1, Poland-Italy
-https://cdn.livearenasports.com/blobs0/65abab49577aca49b7cb97db/index.m3u8
+https://cdn.livearenasports.com/blobs1/65abab49577aca49b7cb97db/index.m3u8
+#EXTINF:-1, Slovakia-France
+https://nn.geo.joj.sk/huste/dd54b703-ed94-4f85-a2a0-5506c57d0c6a/dd54b703-ed94-4f85-a2a0-5506c57d0c6a/playlist.m3u8
 #EXTINF:-1, LapuanVirki‰-MUIK
-https://cdn.livearenasports.com/blobs0/65be3c92688dad0602c231e2/index.m3u8
+https://cdn.livearenasports.com/blobs1/65be3c92688dad0602c231e2/index.m3u8
 #EXTINF:-1, Titaanit-SaPKo
-https://cdn.livearenasports.com/blobs0/65be3c92688dad0602c231e1/index.m3u8
+https://cdn.livearenasports.com/blobs2/65be3c92688dad0602c231e1/index.m3u8
 #EXTINF:-1, HSKurbads-HCéalgiris
 https://cdn.livearenasports.com/blobs0/658d47201dcc1159bb97b68e/index.m3u8
 #EXTINF:-1, L‰nnenKiekko-VG-62II
-https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228c2/index.m3u8
+https://cdn.livearenasports.com/blobs1/65bc770e688dad0602c228c2/index.m3u8
 #EXTINF:-1, JPK-LapuanVirki‰II
 https://cdn.livearenasports.com/blobs0/65bc770e688dad0602c228a2/index.m3u8
 #EXTINF:-1, AaKoo-ParruHT
