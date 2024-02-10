@@ -3,46 +3,14 @@
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream171/playlist.m3u8
 #EXTINF:-1, France-Denmark
 https://cdn.livearenasports.com/blobs2/65c3867d6506946b97d98f3a/index.m3u8
-#EXTINF:-1, CzechRepublic-Sweden
-https://cdn.livearenasports.com/blobs0/65c1e83a47beb92cdce94cda/index.m3u8
-#EXTINF:-1, NKV-JäähonkaEspoo
-https://cdn.livearenasports.com/blobs2/65bdc891688dad0602c22e2f/index.m3u8
-#EXTINF:-1, HCMVVarese-Pergine
-https://cdn.livearenasports.com/blobs1/658bfbb21dcc1159bb97b337/index.m3u8
-#EXTINF:-1, SVKaltern-Alleghe
-https://cdn.livearenasports.com/blobs0/658bff5c1dcc1159bb97b387/index.m3u8
-#EXTINF:-1, LyckseleSK-LN91
-https://cdn.livearenasports.com/blobs2/65bf38c847beb92cdce9449b/index.m3u8
-#EXTINF:-1, Kiekko-67-HCEurajoki
-https://cdn.livearenasports.com/blobs1/65bdc891688dad0602c22e6c/index.m3u8
-#EXTINF:-1, JälkiHiki-Hockey-KiePo
-https://cdn.livearenasports.com/blobs0/65bdc891688dad0602c22e74/index.m3u8
-#EXTINF:-1, EVU-Karhu-Kissat
-https://cdn.livearenasports.com/blobs2/65bdc891688dad0602c22f6e/index.m3u8
-#EXTINF:-1, KalixHC-Örnsköldsvik
-https://cdn.livearenasports.com/blobs0/65bf3ab147beb92cdce944c5/index.m3u8
-#EXTINF:-1, GuildfordFlames-Dundee
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream100/playlist.m3u8
 #EXTINF:-1, Sheffield-Manchester
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream315/playlist.m3u8
 #EXTINF:-1, GlasgowClan-Belfast
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream316/playlist.m3u8
 #EXTINF:-1, FifeFlyers-Nottingham
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream317/playlist.m3u8
-#EXTINF:-1, Benátkyn.J.-KutnáHora
-https://cdn.livearenasports.com/blobs1/65b0d2c61d96284681218185/index.m3u8
-#EXTINF:-1, HCKlatovy-HCDomažlice
-https://cdn.livearenasports.com/blobs1/65b8d7e6688dad0602c22277/index.m3u8
-#EXTINF:-1, Icebears-HCVarese
-https://cdn.livearenasports.com/blobs0/65bba23a688dad0602c22814/index.m3u8
-#EXTINF:-1, GrizzlyzMust-Everest
-https://cdn.livearenasports.com/blobs0/65c2209747beb92cdce94da0/index.m3u8
 #EXTINF:-1, EVWeiden-Deggendorf
 https://content.aisportswatch.com/274626/master.m3u8
-#EXTINF:-1, HYCHerentals-Liege
-https://cdn.livearenasports.com/blobs1/65b625b7ee8d803469bcdf02/index.m3u8
-#EXTINF:-1, FranklinPierce-Stonehill
-https://vcloud.blueframetech.com/file/broadcast/959435.m3u8
 #EXTINF:-1, RochesterIT-Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f45603cf-79c3-4742-8988-82441735eb7f-hls/master/f45603cf-79c3-4742-8988-82441735eb7f-hls.m3u8
 #EXTINF:-1, Rensselaer-Colgate
@@ -69,6 +37,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 https://vcloud.blueframetech.com/file/broadcast/682051.m3u8
 #EXTINF:-1, Maine-Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, HYCHerentals-Liege
+https://cdn.livearenasports.com/blobs1/65b625b7ee8d803469bcdf02/index.m3u8
 #EXTINF:-1, Kitchener-Ottawa67's
 https://media-service.fanreachdata.io/edge/ohl/7a86bdaca8c8435b8bc3a20aa0b8b087.m3u8
 #EXTINF:-1, Flint-BrantfordBulldogs
@@ -83,3 +53,35 @@ https://media-service.fanreachdata.io/edge/ohl/a19bad92c3bb45a4b8b47ad7cd6be64a.
 https://media-service.fanreachdata.io/edge/ohl/304cd414f83d4cef915564a92fdf0d74.m3u8
 #EXTINF:-1, Kingston-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/49056f4d0a344752ba2e16be3cdfc6b6.m3u8
+#EXTINF:-1, CapeBreton-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/476c0995d4674c76893cc536704c65e2.m3u8
+#EXTINF:-1, Gatineau-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/55ee820978e34a6a8b4bf28d1478d2c9.m3u8
+#EXTINF:-1, Victoriaville-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/625c3ad2f2b14b678362f1d3f6bd5e54.m3u8
+#EXTINF:-1, Sherbrooke-Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/3a6875e4f0344b3385856944b8307b32.m3u8
+#EXTINF:-1, Moncton-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/de1efa4c20984f11959ed1406b6ae151.m3u8
+#EXTINF:-1, Charlottetown-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/d38cae22bbd04faba743bc271fefeb26.m3u8
+#EXTINF:-1, MooseJaw-Calgary
+https://media-service.fanreachdata.io/edge/whl/b3fff69e8898413ca346315843f2d458.m3u8
+#EXTINF:-1, Brandon-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/fb8f785caaab484e9712b087bbc79c7d.m3u8
+#EXTINF:-1, Edmonton-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/8e0dadf44dff47c9a1533c0df62b675f.m3u8
+#EXTINF:-1, Saskatoon-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/5fd98fad7e7544aeb7fa146b2f72a7cf.m3u8
+#EXTINF:-1, RedDeer-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/2be4659cae0848ddb441fc810c719ee1.m3u8
+#EXTINF:-1, Seattle-Portland
+https://media-service.fanreachdata.io/edge/whl/faf6d264360f4d32be714bc7814e261c.m3u8
+#EXTINF:-1, Victoria-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/fc12897403c84aed982a9b881b8b6186.m3u8
+#EXTINF:-1, Spokane-EverettSilvertips
+https://media-service.fanreachdata.io/edge/whl/e5a106febd6140b780e32d687bad8dd4.m3u8
+#EXTINF:-1, Wenatchee-Vancouver
+https://media-service.fanreachdata.io/edge/whl/c8c1b660a2bc476c9b7c6b89b0213bad.m3u8
+#EXTINF:-1, Kamloops-Kelowna
+https://media-service.fanreachdata.io/edge/whl/8a8cccce4699475ab3bc41d2ea292678.m3u8
