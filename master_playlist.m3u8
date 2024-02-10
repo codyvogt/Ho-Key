@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SaintJohn-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/a4e0e320d36743f7a6257f4b08dd5146.m3u8
-#EXTINF:-1, CBEagles-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/631539cab70b4e19a5c6041114a5792c.m3u8
-#EXTINF:-1, Gatineau-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/a2fceca1ca5a4f12b79a7abf62232862.m3u8
-#EXTINF:-1, Acadie-Bathurst-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/1c78a67bef59464ab8b81ce65f83b84c.m3u8
-#EXTINF:-1, Shawinigan-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/6b813b0c5c3e4e22bbc52e2f18e8711b.m3u8
-#EXTINF:-1, Québec-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/a15e6cbd21184012886fdfe59daae086.m3u8
-#EXTINF:-1, Moncton-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/e11177a5211a4bc7ac4304e893a623fd.m3u8
-#EXTINF:-1, UNH-Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Stonehill-FranklinPierce
-https://vcloud.blueframetech.com/file/broadcast/711207.m3u8
-#EXTINF:-1, Assumption-SacredHeart
-https://vcloud.blueframetech.com/file/broadcast/965789.m3u8
-#EXTINF:-1, St.Anselm-St.Michael's
-https://vcloud.blueframetech.com/file/broadcast/869044.m3u8
 #EXTINF:-1, Charlotte-Cleveland
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream143/playlist.m3u8
 #EXTINF:-1, Bridgeport-Hartford
@@ -29,10 +7,22 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream145/playlist.m3u8
 #EXTINF:-1, Hershey-Providence
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream146/playlist.m3u8
+#EXTINF:-1, Chicago-Milwaukee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream148/playlist.m3u8
 #EXTINF:-1, Tucson-IowaWild
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream147/playlist.m3u8
 #EXTINF:-1, TexasStars-Rockford
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream149/playlist.m3u8
+#EXTINF:-1, Abbotsford-Colorado
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream150/playlist.m3u8
+#EXTINF:-1, CBEagles-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/631539cab70b4e19a5c6041114a5792c.m3u8
+#EXTINF:-1, Gatineau-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/a2fceca1ca5a4f12b79a7abf62232862.m3u8
+#EXTINF:-1, Québec-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/a15e6cbd21184012886fdfe59daae086.m3u8
+#EXTINF:-1, Moncton-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/e11177a5211a4bc7ac4304e893a623fd.m3u8
 #EXTINF:-1, Kitchener-Kingston
 https://media-service.fanreachdata.io/edge/ohl/2813d57b738e4ebea3ba5fe536ad44aa.m3u8
 #EXTINF:-1, Peterborough-Ottawa
