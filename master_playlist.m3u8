@@ -1,3 +1,85 @@
 #EXTM3U
+#EXTINF:-1, Japan-Hungary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream171/playlist.m3u8
 #EXTINF:-1, France-Denmark
-https://cdn.livearenasports.com/blobs0/65c3867d6506946b97d98f3a/index.m3u8
+https://cdn.livearenasports.com/blobs2/65c3867d6506946b97d98f3a/index.m3u8
+#EXTINF:-1, CzechRepublic-Sweden
+https://cdn.livearenasports.com/blobs0/65c1e83a47beb92cdce94cda/index.m3u8
+#EXTINF:-1, NKV-JäähonkaEspoo
+https://cdn.livearenasports.com/blobs2/65bdc891688dad0602c22e2f/index.m3u8
+#EXTINF:-1, HCMVVarese-Pergine
+https://cdn.livearenasports.com/blobs1/658bfbb21dcc1159bb97b337/index.m3u8
+#EXTINF:-1, SVKaltern-Alleghe
+https://cdn.livearenasports.com/blobs0/658bff5c1dcc1159bb97b387/index.m3u8
+#EXTINF:-1, LyckseleSK-LN91
+https://cdn.livearenasports.com/blobs2/65bf38c847beb92cdce9449b/index.m3u8
+#EXTINF:-1, Kiekko-67-HCEurajoki
+https://cdn.livearenasports.com/blobs1/65bdc891688dad0602c22e6c/index.m3u8
+#EXTINF:-1, JälkiHiki-Hockey-KiePo
+https://cdn.livearenasports.com/blobs0/65bdc891688dad0602c22e74/index.m3u8
+#EXTINF:-1, EVU-Karhu-Kissat
+https://cdn.livearenasports.com/blobs2/65bdc891688dad0602c22f6e/index.m3u8
+#EXTINF:-1, KalixHC-Örnsköldsvik
+https://cdn.livearenasports.com/blobs0/65bf3ab147beb92cdce944c5/index.m3u8
+#EXTINF:-1, GuildfordFlames-Dundee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream100/playlist.m3u8
+#EXTINF:-1, Sheffield-Manchester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream315/playlist.m3u8
+#EXTINF:-1, GlasgowClan-Belfast
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream316/playlist.m3u8
+#EXTINF:-1, FifeFlyers-Nottingham
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream317/playlist.m3u8
+#EXTINF:-1, Benátkyn.J.-KutnáHora
+https://cdn.livearenasports.com/blobs1/65b0d2c61d96284681218185/index.m3u8
+#EXTINF:-1, HCKlatovy-HCDomažlice
+https://cdn.livearenasports.com/blobs1/65b8d7e6688dad0602c22277/index.m3u8
+#EXTINF:-1, Icebears-HCVarese
+https://cdn.livearenasports.com/blobs0/65bba23a688dad0602c22814/index.m3u8
+#EXTINF:-1, GrizzlyzMust-Everest
+https://cdn.livearenasports.com/blobs0/65c2209747beb92cdce94da0/index.m3u8
+#EXTINF:-1, EVWeiden-Deggendorf
+https://content.aisportswatch.com/274626/master.m3u8
+#EXTINF:-1, HYCHerentals-Liege
+https://cdn.livearenasports.com/blobs1/65b625b7ee8d803469bcdf02/index.m3u8
+#EXTINF:-1, FranklinPierce-Stonehill
+https://vcloud.blueframetech.com/file/broadcast/959435.m3u8
+#EXTINF:-1, RochesterIT-Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f45603cf-79c3-4742-8988-82441735eb7f-hls/master/f45603cf-79c3-4742-8988-82441735eb7f-hls.m3u8
+#EXTINF:-1, Rensselaer-Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Union-Cornell
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Brown-Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Princeton
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson-Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Vermont-Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Merrimack-UNH
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, St.Anselm-St.Michael's
+https://vcloud.blueframetech.com/file/broadcast/869046.m3u8
+#EXTINF:-1, Yale-Harvard
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Connecticut-HolyCross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, SacredHeart-Assumption
+https://vcloud.blueframetech.com/file/broadcast/682051.m3u8
+#EXTINF:-1, Maine-Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Kitchener-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/7a86bdaca8c8435b8bc3a20aa0b8b087.m3u8
+#EXTINF:-1, Flint-BrantfordBulldogs
+https://media-service.fanreachdata.io/edge/ohl/a7cdf316e1e545458e2a40636c1c426b.m3u8
+#EXTINF:-1, Guelph-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/f687499f83a246788875b975bf1f97e4.m3u8
+#EXTINF:-1, OwenSound-Windsor
+https://media-service.fanreachdata.io/edge/ohl/e92d2fae15b64f99bdaf49090abc2221.m3u8
+#EXTINF:-1, Erie-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/a19bad92c3bb45a4b8b47ad7cd6be64a.m3u8
+#EXTINF:-1, Niagara-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/304cd414f83d4cef915564a92fdf0d74.m3u8
+#EXTINF:-1, Kingston-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/49056f4d0a344752ba2e16be3cdfc6b6.m3u8
