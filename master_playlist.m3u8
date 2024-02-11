@@ -1,35 +1,9 @@
 #EXTM3U
-#EXTINF:-1, SanDiegoGulls-Calgary
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream25/playlist.m3u8
-#EXTINF:-1, Henderson-CoachellaV.
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream26/playlist.m3u8
-#EXTINF:-1, Bakersfield-SanJose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream27/playlist.m3u8
-#EXTINF:-1, Abbotsford-Colorado
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream28/playlist.m3u8
-#EXTINF:-1, RedDeer-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/2be4659cae0848ddb441fc810c719ee1.m3u8
-#EXTINF:-1, Seattle-Portland
-https://media-service.fanreachdata.io/edge/whl/faf6d264360f4d32be714bc7814e261c.m3u8
-#EXTINF:-1, Victoria-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/fc12897403c84aed982a9b881b8b6186.m3u8
-#EXTINF:-1, Spokane-EverettSilvertips
-https://media-service.fanreachdata.io/edge/whl/e5a106febd6140b780e32d687bad8dd4.m3u8
-#EXTINF:-1, Wenatchee-Vancouver
-https://media-service.fanreachdata.io/edge/whl/c8c1b660a2bc476c9b7c6b89b0213bad.m3u8
-#EXTINF:-1, Kamloops-Kelowna
-https://media-service.fanreachdata.io/edge/whl/8a8cccce4699475ab3bc41d2ea292678.m3u8
+#EXTINF:-1, AvangardOmsk-Sibir
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
+#EXTINF:-1, MetallurgMg-DynamoM
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, WarriorsBrno-HCZnojmo
-https://cdn.livearenasports.com/blobs0/65b8918f688dad0602c22150/index.m3u8
+https://cdn.livearenasports.com/blobs2/65b8918f688dad0602c22150/index.m3u8
 #EXTINF:-1, StadionCheb-Rakovník
-https://cdn.livearenasports.com/blobs0/65b79479688dad0602c21ff2/index.m3u8
-#EXTINF:-1, KirunaIF-BrunfloIK
-https://cdn.livearenasports.com/blobs0/65c08efe47beb92cdce949a8/index.m3u8
-#EXTINF:-1, BodensHF-Örnsköldsvik
-https://cdn.livearenasports.com/blobs0/65c084b247beb92cdce94857/index.m3u8
-#EXTINF:-1, ÖstersundsIK-Björklöven
-https://cdn.livearenasports.com/blobs0/65c08e0e47beb92cdce94985/index.m3u8
-#EXTINF:-1, Finland-Sweden
-https://cdn.livearenasports.com/blobs0/65bf1a1147beb92cdce94158/index.m3u8
-#EXTINF:-1, EVWeiden-Deggendorf
-https://content.aisportswatch.com/274627/master.m3u8
+https://cdn.livearenasports.com/blobs2/65b79479688dad0602c21ff2/index.m3u8
