@@ -3,7 +3,25 @@
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1, MetallurgMg-DynamoM
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, WarriorsBrno-HCZnojmo
-https://cdn.livearenasports.com/blobs2/65b8918f688dad0602c22150/index.m3u8
-#EXTINF:-1, StadionCheb-Rakovník
-https://cdn.livearenasports.com/blobs2/65b79479688dad0602c21ff2/index.m3u8
+#EXTINF:-1, KirunaIF-BrunfloIK
+https://cdn.livearenasports.com/blobs1/65c08efe47beb92cdce949a8/index.m3u8
+#EXTINF:-1, BodensHF-Örnsköldsvik
+https://cdn.livearenasports.com/blobs2/65c084b247beb92cdce94857/index.m3u8
+#EXTINF:-1, ÖstersundsIK-Björklöven
+https://cdn.livearenasports.com/blobs0/65c08e0e47beb92cdce94985/index.m3u8
+#EXTINF:-1, Härnösand-Clemensnäs
+https://cdn.livearenasports.com/blobs1/65c08a4d47beb92cdce9491a/index.m3u8
+#EXTINF:-1, KovlandsIshF-VännäsHC
+https://cdn.livearenasports.com/blobs0/65c0877e47beb92cdce948a8/index.m3u8
+#EXTINF:-1, KalixHC-TegsSK
+https://cdn.livearenasports.com/blobs0/65c08c3247beb92cdce9495e/index.m3u8
+#EXTINF:-1, IFSundsvall-PiteåHC
+https://cdn.livearenasports.com/blobs0/65c08efe47beb92cdce9499e/index.m3u8
+#EXTINF:-1, SlovakiaU19-Germany
+https://nn.geo.joj.sk/huste/11c28e46-3f66-44c7-8175-c9cdb9ce61fd/11c28e46-3f66-44c7-8175-c9cdb9ce61fd/playlist.m3u8
+#EXTINF:-1, Finland-Sweden
+https://cdn.livearenasports.com/blobs1/65bf1a1147beb92cdce94158/index.m3u8
+#EXTINF:-1, Slovakia-Latvia
+https://cdn.livearenasports.com/blobs0/65af956f1d96284681217ee1/index.m3u8
+#EXTINF:-1, EVWeiden-Deggendorf
+https://content.aisportswatch.com/274627/master.m3u8
