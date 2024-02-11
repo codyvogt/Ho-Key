@@ -1,9 +1,19 @@
 #EXTM3U
-#EXTINF:-1, DundeeStars-Belfast
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
-#EXTINF:-1, ManchesterStorm-Cardiff
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream90/playlist.m3u8
-#EXTINF:-1, CoventryBlaze-Sheffield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
-#EXTINF:-1, GuildfordFlames-Fife
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream91/playlist.m3u8
+#EXTINF:-1, Québec-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/e348929ba3224457bfe2927706185582.m3u8
+#EXTINF:-1, CapeBreton-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/74778c850d2845ce90be9a76fb8e7cde.m3u8
+#EXTINF:-1, Victoriaville-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/0fd7eb2a92544d02ac5c5bff3a13447e.m3u8
+#EXTINF:-1, Peterborough-Brantford
+https://media-service.fanreachdata.io/edge/ohl/1a3aeef000b64e658f80ce86a0d2dc1b.m3u8
+#EXTINF:-1, Sudbury-Mississauga
+https://media-service.fanreachdata.io/edge/ohl/7d6612f8984c498ab4eeb8398b8fff97.m3u8
+#EXTINF:-1, London-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/a99d6ca0e3a64b16a136750287231b0a.m3u8
+#EXTINF:-1, Saginaw-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/f0628f3f0db8465f87c255aa0810702d.m3u8
+#EXTINF:-1, Kingston-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/3ce79506cbf8476281b16535cb8ddc9d.m3u8
+#EXTINF:-1, ÅbyHC-HerringsHC
+https://cdn.livearenasports.com/blobs0/65c082d147beb92cdce94831/index.m3u8
