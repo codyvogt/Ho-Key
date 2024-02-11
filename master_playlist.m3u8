@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Torpedo-Neftekhimik
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream310/playlist.m3u8
-#EXTINF:-1, SKAStPetersburg-Sochi
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, Frederikshavn-OdenseII
-https://cdn.livearenasports.com/blobs0/65a0c7906e331848ed6dbf74/index.m3u8
-#EXTINF:-1, AalborgII-Vojens
-https://cdn.livearenasports.com/blobs2/65c8a4ed0678a1649a8f61ba/index.m3u8
-#EXTINF:-1, NynäshamnsIF-GimoIF
-https://cdn.livearenasports.com/blobs2/65c08ff047beb92cdce949be/index.m3u8
-#EXTINF:-1, NässjöHC-GlimmaHK
-https://cdn.livearenasports.com/blobs1/65c0895d47beb92cdce948ed/index.m3u8
-#EXTINF:-1, HovåsHC-KungsbackaHC
-https://cdn.livearenasports.com/blobs2/65c088a447beb92cdce948db/index.m3u8
-#EXTINF:-1, LenhovdaIF-LundGiants
-https://cdn.livearenasports.com/blobs0/65c07b4947beb92cdce94743/index.m3u8
-#EXTINF:-1, IFLejonet-DiöGoIFHK
-https://cdn.livearenasports.com/blobs1/65c07d2d47beb92cdce947a7/index.m3u8
 #EXTINF:-1, LerumsBK-TrelleborgsIF
 https://cdn.livearenasports.com/blobs0/65c07b4947beb92cdce94749/index.m3u8
 #EXTINF:-1, Sörhaga-LionsStrömstad
