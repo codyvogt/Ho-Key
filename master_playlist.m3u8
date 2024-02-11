@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LehighValley-Bridgeport
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream13/playlist.m3u8
-#EXTINF:-1, Manitoba-GrandRapids
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream18/playlist.m3u8
-#EXTINF:-1, Providence-Hartford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream16/playlist.m3u8
-#EXTINF:-1, TexasStars-Milwaukee
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream19/playlist.m3u8
-#EXTINF:-1, Rochester-Syracuse
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream15/playlist.m3u8
-#EXTINF:-1, Colgate-Rensselaer
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Princeton-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Guelph-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/f687499f83a246788875b975bf1f97e4.m3u8
-#EXTINF:-1, Kingston-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/49056f4d0a344752ba2e16be3cdfc6b6.m3u8
-#EXTINF:-1, Maine-Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Brandon-PrinceAlbert
 https://media-service.fanreachdata.io/edge/whl/fb8f785caaab484e9712b087bbc79c7d.m3u8
 #EXTINF:-1, Edmonton-ReginaPats
@@ -37,3 +17,11 @@ https://media-service.fanreachdata.io/edge/whl/e5a106febd6140b780e32d687bad8dd4.
 https://media-service.fanreachdata.io/edge/whl/c8c1b660a2bc476c9b7c6b89b0213bad.m3u8
 #EXTINF:-1, Kamloops-Kelowna
 https://media-service.fanreachdata.io/edge/whl/8a8cccce4699475ab3bc41d2ea292678.m3u8
+#EXTINF:-1, SanDiegoGulls-Calgary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream25/playlist.m3u8
+#EXTINF:-1, Henderson-CoachellaV.
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream26/playlist.m3u8
+#EXTINF:-1, Bakersfield-SanJose
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream27/playlist.m3u8
+#EXTINF:-1, Abbotsford-Colorado
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream28/playlist.m3u8
