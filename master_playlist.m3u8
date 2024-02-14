@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Texas-RockfordIceHogs
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream47/playlist.m3u8
-#EXTINF:-1, Bakersfield-Colorado
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream49/playlist.m3u8
-#EXTINF:-1, MedicineHat-Regina
-https://media-service.fanreachdata.io/edge/whl/039fc9f7012144ca94a31c40b9f21610.m3u8
-#EXTINF:-1, Calgary-RedDeerRebels
-https://media-service.fanreachdata.io/edge/whl/af70506007994f90ac5f4167b2ef7f84.m3u8
-#EXTINF:-1, EverettSilvertips-Portland
-https://media-service.fanreachdata.io/edge/whl/3cd63574045c4c4a840d750263834643.m3u8
-#EXTINF:-1, SpokaneChiefs-Kelowna
-https://media-service.fanreachdata.io/edge/whl/4b75f302530c4bd3b15c61a01a059576.m3u8
-#EXTINF:-1, Seattle-Tri-CityAmericans
-https://media-service.fanreachdata.io/edge/whl/0f34c9a2ae0c4443bbe77e17dc98260b.m3u8
 #EXTINF:-1, AmurKhabarovsk-Traktor
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, AdmiralVladivostok-Barys
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream308/playlist.m3u8
