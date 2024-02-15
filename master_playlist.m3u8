@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1, DynamoM-DinamoMn
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, KunlunRedStar-Lada
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream108/playlist.m3u8
-#EXTINF:-1, SKA-SalavatYualevUfa
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream322/playlist.m3u8
 #EXTINF:-1, Mannheim-Wolfsburg
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, Ingolstadt-Düsseldorf
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, München-Schwenningen
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, KobraPraha-SCKolín
+https://cdn.livearenasports.com/blobs2/65ccac7ad6ae5a77fad30cf7/index.m3u8
