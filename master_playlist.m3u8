@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1, HCPetržalka-SlovanB
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream03/playlist.m3u8
-#EXTINF:-1, Severstal-Spartak
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1, HCSochi-TorpedoNizhny
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, Kaltern/Ritten-Pinerolo
-https://cdn.livearenasports.com/blobs0/655f33d7b005860c0cfbaac9/index.m3u8
-#EXTINF:-1, FoxesAcademy-Valpellice
-https://cdn.livearenasports.com/blobs0/659e56e9a1722358698e5057/index.m3u8
-#EXTINF:-1, Padova/Zoldo-Pustertal
-https://cdn.livearenasports.com/blobs0/655c95f6b005860c0cfba2f6/index.m3u8
-#EXTINF:-1, TrentoSilvelox-Como
-https://cdn.livearenasports.com/blobs0/655c9417b005860c0cfba2cf/index.m3u8
-#EXTINF:-1, Juniorteams-Pergine
-https://cdn.livearenasports.com/blobs0/655633029939214221b8119f/index.m3u8
-#EXTINF:-1, FinlandU18-APV
-https://cdn.livearenasports.com/blobs0/65c30e8e47beb92cdce94e42/index.m3u8
-#EXTINF:-1, ImatranKetterä-Jukurit
-https://cdn.livearenasports.com/blobs0/65c30e8e47beb92cdce94e36/index.m3u8
-#EXTINF:-1, HelsinginJokerit-HIFK
-https://cdn.livearenasports.com/blobs0/65c30e8e47beb92cdce94e3b/index.m3u8
+#EXTINF:-1, Moncton-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/1494c4fa5c9c4a7ea26caf7babb602a6.m3u8
+#EXTINF:-1, Syracuse-Belleville
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream60/playlist.m3u8
+#EXTINF:-1, Rochester-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream314/playlist.m3u8
+#EXTINF:-1, Kingston-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/3043c5e436be43bea52bf441c8341d3c.m3u8
+#EXTINF:-1, Sarnia-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/c182a9539b324ecd823239eb41b92a44.m3u8
+#EXTINF:-1, Niagara-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/245af1b421f144bc8fdf83c7a05ab572.m3u8
+#EXTINF:-1, Brantford-Windsor
+https://media-service.fanreachdata.io/edge/ohl/8f102245f9ed4a86ba9f6d2dd3d00b09.m3u8
+#EXTINF:-1, Sudbury-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/5732a20d2c164aa597850562ff5584af.m3u8
+#EXTINF:-1, Assumption-Stonehill
+https://vcloud.blueframetech.com/file/broadcast/970242.m3u8
+#EXTINF:-1, Lethbridge-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/312cf90dad804f179aa7a0b627bc87a4.m3u8
+#EXTINF:-1, WenatcheeWild-Seattle
+https://media-service.fanreachdata.io/edge/whl/5bb6a5f5c3bb42b4b97e451e417f3a99.m3u8
+#EXTINF:-1, Vancouver-Victoria
+https://media-service.fanreachdata.io/edge/whl/b6a7400c36ac44bd819ff31a1d18df6d.m3u8
