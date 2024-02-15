@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Mannheim-Wolfsburg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, Ingolstadt-Düsseldorf
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, München-Schwenningen
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, KobraPraha-SCKolín
-https://cdn.livearenasports.com/blobs2/65ccac7ad6ae5a77fad30cf7/index.m3u8
+#EXTINF:-1, Blainville-B.-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/60c2809dc203430dab86183710e5ce7f.m3u8
+#EXTINF:-1, Val-d'Or-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/7bd6425492ac4d678bab85f1eb53b9a9.m3u8
+#EXTINF:-1, Rimouski-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/00154ce4d72444ec8662489b3ccc7735.m3u8
+#EXTINF:-1, Shawinigan-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/9831af5351a141fb97694f745c6ac3a5.m3u8
