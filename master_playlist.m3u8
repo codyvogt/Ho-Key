@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, OntarioReign-Tucson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream71/playlist.m3u8
-#EXTINF:-1, Saskatoon-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/e0114a657c4c42679e3afa912c193d4e.m3u8
-#EXTINF:-1, PARaiders-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/9cb3484f94fb4e78844def173157e2da.m3u8
-#EXTINF:-1, Edmonton-RedDeer
-https://media-service.fanreachdata.io/edge/whl/57a10b704f4c4c5fa25ebe62c0b7eabf.m3u8
 #EXTINF:-1, Kamloops-PrinceGeorge
 https://media-service.fanreachdata.io/edge/whl/35fd5822b463438387c3895546c37dd3.m3u8
 #EXTINF:-1, Portland-Vancouver
@@ -17,5 +9,3 @@ https://media-service.fanreachdata.io/edge/whl/f69cc9025ade4954983e04e71e9282dc.
 https://media-service.fanreachdata.io/edge/whl/d1f63cb2789b4f839837b564cdbe004d.m3u8
 #EXTINF:-1, Kelowna-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/85af6acc7ad845a692ac9f376a95d2e2.m3u8
-#EXTINF:-1, NorthDakota-ColoradoC
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9daad163-106c-42be-b0d4-9f694023a1f0-hls/master/9daad163-106c-42be-b0d4-9f694023a1f0-hls.m3u8
