@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, HelsinginJokerit-TUTO
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream97/playlist.m3u8
+#EXTINF:-1, DüsseldorferEG-München
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, Landshut-Schwenningen
+https://content.aisportswatch.com/260526/master.m3u8
+#EXTINF:-1, KrefelderEV-Ingolstadt
+https://content.aisportswatch.com/274583/master.m3u8
+#EXTINF:-1, DüsseldorferEG-Eisbären
+https://content.aisportswatch.com/274591/master.m3u8
