@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, JHTKalajoki-S-Kiekko
-https://cdn.livearenasports.com/blobs0/65c703110678a1649a8f58c6/index.m3u8
-#EXTINF:-1, NokianPyry-SaPKo
-https://cdn.livearenasports.com/blobs2/65c703110678a1649a8f5883/index.m3u8
-#EXTINF:-1, LapuanVirkiä-Titaanit
-https://cdn.livearenasports.com/blobs1/65c703110678a1649a8f5884/index.m3u8
+#EXTINF:-1, HelsinginJokerit-TUTO
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream97/playlist.m3u8
