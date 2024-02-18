@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1, Colorado-CoachellaV.
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream50/playlist.m3u8
-#EXTINF:-1, Henderson-SanDiego
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
-#EXTINF:-1, OntarioReign-Tucson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
 #EXTINF:-1, Calgary-Abbotsford
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
 #EXTINF:-1, SanJose-Bakersfield
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, RedDeer-Edmonton
-https://media-service.fanreachdata.io/edge/whl/a7d375683de442039177d3c09c2ecf6f.m3u8
-#EXTINF:-1, PrinceGeorge-Kamloops
-https://media-service.fanreachdata.io/edge/whl/d4b36e24341648fb8ff6069f931af043.m3u8
-#EXTINF:-1, Saskatoon-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/647fce85d13740f48c0739004651c157.m3u8
-#EXTINF:-1, Vancouver-Portland
-https://media-service.fanreachdata.io/edge/whl/bbed7e5b92e44731a9b082f07de1cdc7.m3u8
-#EXTINF:-1, Seattle-EverettSilvertips
-https://media-service.fanreachdata.io/edge/whl/72cc29e848f144cea30476b1654ae97b.m3u8
-#EXTINF:-1, Tri-City-SpokaneChiefs
-https://media-service.fanreachdata.io/edge/whl/e37825fc7ec849fc96f7cad6a4009195.m3u8
-#EXTINF:-1, Kelowna-VictoriaRoyals
-https://media-service.fanreachdata.io/edge/whl/e5a3bad5740f4554905f2bc85231cf33.m3u8
+#EXTINF:-1, Admiral-Traktor
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, Landshut-Schwenningen
+https://content.aisportswatch.com/260527/master.m3u8
+#EXTINF:-1, KrefelderEV-Ingolstadt
+https://content.aisportswatch.com/274592/master.m3u8
+#EXTINF:-1, DüsseldorferEG-Eisbären
+https://content.aisportswatch.com/274593/master.m3u8
+#EXTINF:-1, EHCNürnberg-Wolfsburg
+https://content.aisportswatch.com/275609/master.m3u8
+#EXTINF:-1, Kurbads/Lauvas-Ozolnieki
+https://cdn.livearenasports.com/blobs0/65bba8cc688dad0602c22834/index.m3u8
+#EXTINF:-1, Laima-TeamEesti
+https://cdn.livearenasports.com/blobs0/65cb4c658d385b3bfb35c230/index.m3u8
