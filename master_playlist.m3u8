@@ -1,12 +1,26 @@
 #EXTM3U
-#EXTINF:-1, Blainville-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/bba24640c50540c4aad14183763a0a44.m3u8
-#EXTINF:-1, Gatineau-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/a1516519f8c349bf9fcf9d1eff3f4225.m3u8
+#EXTINF:-1, Hartford-Bridgeport
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
+#EXTINF:-1, Belleville-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream48/playlist.m3u8
+#EXTINF:-1, Syracuse-LehighValley
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream49/playlist.m3u8
+#EXTINF:-1, GrandRapids-Rockford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
+#EXTINF:-1, IowaWild-TexasStars
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
+#EXTINF:-1, Colorado-CoachellaV.
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream50/playlist.m3u8
+#EXTINF:-1, Henderson-SanDiego
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
+#EXTINF:-1, OntarioReign-Tucson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
 #EXTINF:-1, Québec-Rouyn-Noranda
 https://media-service.fanreachdata.io/edge/lhjmq/a9a54edc257f461987a18ce3ae7e5e60.m3u8
-#EXTINF:-1, Providence-BostonU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Oshawa-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/434cedb203cf40efaebbc695be56a1d0.m3u8
+#EXTINF:-1, Ottawa-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/fe41940f9e014c76afa9f0448847e5cb.m3u8
 #EXTINF:-1, Brown-Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Yale-Cornell
@@ -31,30 +45,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f71603c9-3277-48c0-89f7-0c9775e39a2b-hls/master/f71603c9-3277-48c0-89f7-0c9775e39a2b-hls.m3u8
 #EXTINF:-1, Denver-MinnesotaDuluth
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8d37784-6163-4697-bd80-36fbb4be3161-hls/master/e8d37784-6163-4697-bd80-36fbb4be3161-hls.m3u8
-#EXTINF:-1, Laval-W-B/Scranton
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
-#EXTINF:-1, Hartford-Bridgeport
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
-#EXTINF:-1, Belleville-UticaComets
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream48/playlist.m3u8
-#EXTINF:-1, Syracuse-LehighValley
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream49/playlist.m3u8
-#EXTINF:-1, GrandRapids-Rockford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
-#EXTINF:-1, IowaWild-TexasStars
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, Windsor-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/2cc16bcd3fdc435fa5c94fa5953aa6be.m3u8
-#EXTINF:-1, Oshawa-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/434cedb203cf40efaebbc695be56a1d0.m3u8
-#EXTINF:-1, London-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/3c547f5b279f4a53bcfcdf12d676a37a.m3u8
-#EXTINF:-1, Ottawa-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/fe41940f9e014c76afa9f0448847e5cb.m3u8
 #EXTINF:-1, OntarioTech-Ottawa
 https://live-004.vip.visaic.tv/origin/oua/ottawavsontariotech-hockey-m-20240217/ottawavsontariotech-hockey-m-20240217-target/ottawavsontariotech-hockey-m-20240217-target-540p30-vQxzF7Xy_live.m3u8
-#EXTINF:-1, Assumption-FPU
-https://vcloud.blueframetech.com/file/broadcast/711208.m3u8
 #EXTINF:-1, PrinceAlbert-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/cfcb870a51cb4fe386453c8fe3e70da7.m3u8
 #EXTINF:-1, Calgary-MooseJaw
