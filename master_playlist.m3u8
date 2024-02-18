@@ -1,39 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Nürnberg-Schwenningen
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
-#EXTINF:-1, Straubing-KölnerHaie
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 #EXTINF:-1, Frankfurt-Mannheim
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, ZemgaleJuniors-Prizma
-https://cdn.livearenasports.com/blobs0/65c9de100678a1649a8f65ad/index.m3u8
-#EXTINF:-1, NokianPyry-Virkiä
-https://cdn.livearenasports.com/blobs0/65c854900678a1649a8f5c1d/index.m3u8
-#EXTINF:-1, Sölvesborg-Vänersborg
-https://cdn.livearenasports.com/blobs0/65c9b7ac0678a1649a8f62c2/index.m3u8
-#EXTINF:-1, Boro/Vetlanda-Värnamo
-https://cdn.livearenasports.com/blobs1/65c9cc460678a1649a8f6522/index.m3u8
-#EXTINF:-1, HCLidköping-Helsingborg
-https://cdn.livearenasports.com/blobs1/65c9c6b10678a1649a8f646c/index.m3u8
-#EXTINF:-1, NittorpsIK-HanhalsIF
-https://cdn.livearenasports.com/blobs0/65c9bd4c0678a1649a8f6340/index.m3u8
-#EXTINF:-1, ÅsedaIF-UlricehamnsIF
-https://cdn.livearenasports.com/blobs0/65c9b3e90678a1649a8f623b/index.m3u8
-#EXTINF:-1, GislavedsSK-Olofström
-https://cdn.livearenasports.com/blobs2/65c9be390678a1649a8f6368/index.m3u8
-#EXTINF:-1, Traneberg-Flemingsberg
-https://cdn.livearenasports.com/blobs1/65c9cb600678a1649a8f64f9/index.m3u8
-#EXTINF:-1, HammarbyIF-NackaHK
-https://cdn.livearenasports.com/blobs1/65c9b6b80678a1649a8f62a5/index.m3u8
-#EXTINF:-1, SollentunaHC-Lidingö
-https://cdn.livearenasports.com/blobs2/65c9c2000678a1649a8f63c9/index.m3u8
-#EXTINF:-1, JärfällaHC-SpångaIS
-https://cdn.livearenasports.com/blobs0/65c9c3e00678a1649a8f641b/index.m3u8
-#EXTINF:-1, HaningeAnchors-Sudret
-https://cdn.livearenasports.com/blobs2/65c9b6b80678a1649a8f62ac/index.m3u8
-#EXTINF:-1, IFKTumbaIK-TierpsHK
-https://cdn.livearenasports.com/blobs0/65c9c01e0678a1649a8f638b/index.m3u8
-#EXTINF:-1, SträngnäsHC-Viggbyholm
-https://cdn.livearenasports.com/blobs0/65c9cd3b0678a1649a8f6533/index.m3u8
-#EXTINF:-1, StenungsundHF-Kungälv
-https://cdn.livearenasports.com/blobs0/65c9ca6f0678a1649a8f64d1/index.m3u8
+#EXTINF:-1, Vimperk-Hlubokán.V.
+https://cdn.livearenasports.com/blobs1/65c1cc1447beb92cdce94c21/index.m3u8
