@@ -1,7 +1,29 @@
 #EXTM3U
-#EXTINF:-1, Frankfurt-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, VlciJablonec-Gepardi
-https://cdn.livearenasports.com/blobs1/65c0a4bf47beb92cdce94a93/index.m3u8
-#EXTINF:-1, SokolRadomyšl-Milevsko
-https://cdn.livearenasports.com/blobs2/65c1cc1547beb92cdce94c23/index.m3u8
+#EXTINF:-1, HYC-Heerenveen
+https://cdn.livearenasports.com/blobs1/65c0b1b547beb92cdce94adb/index.m3u8
+#EXTINF:-1, Gatineau-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/dc46b21797604ed5b1134d0a47934471.m3u8
+#EXTINF:-1, MonctonWildcats-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/eb4df0a22427463ba69d5e4fd73a13b6.m3u8
+#EXTINF:-1, Sherbrooke-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/3c8847dce5ea42fa8e2484ba1f1cbce7.m3u8
+#EXTINF:-1, Québec-Val-d'OrForeurs
+https://media-service.fanreachdata.io/edge/lhjmq/abbb8d5789354bc2a392933c7beb9f6b.m3u8
+#EXTINF:-1, Drummond.-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/da1f2cf4a9424b5d8389c6920c9f3d86.m3u8
+#EXTINF:-1, Baie-Comeau-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/4b92a96ccda249b9a5b7bc19ac2f6fb1.m3u8
+#EXTINF:-1, SaginawSpirit-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/ec153aac751041e5ae52352d05062fe3.m3u8
+#EXTINF:-1, Brantford-Niagara
+https://media-service.fanreachdata.io/edge/ohl/0c00cb39eb894d4a886b938eb4ea583f.m3u8
+#EXTINF:-1, Sudbury-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/c324cea10a124f9eb0208229acab7fa4.m3u8
+#EXTINF:-1, HerringsHC-Skärgården
+https://cdn.livearenasports.com/blobs1/65c9cf1d0678a1649a8f6575/index.m3u8
+#EXTINF:-1, KB-KnightsIK-DuellsPHK
+https://cdn.livearenasports.com/blobs0/65c9cd3b0678a1649a8f6539/index.m3u8
+#EXTINF:-1, LavalRocket-Bridgeport
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream142/playlist.m3u8
+#EXTINF:-1, UticaComets-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream141/playlist.m3u8
