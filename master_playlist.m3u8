@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Calgary-Abbotsford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
-#EXTINF:-1, SanJose-Bakersfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, Admiral-Traktor
+#EXTINF:-1, Avtomobilist-HCSochi
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, Landshut-Schwenningen
-https://content.aisportswatch.com/260527/master.m3u8
-#EXTINF:-1, KrefelderEV-Ingolstadt
-https://content.aisportswatch.com/274592/master.m3u8
-#EXTINF:-1, DüsseldorferEG-Eisbären
-https://content.aisportswatch.com/274593/master.m3u8
-#EXTINF:-1, EHCNürnberg-Wolfsburg
-https://content.aisportswatch.com/275609/master.m3u8
-#EXTINF:-1, Kurbads/Lauvas-Ozolnieki
-https://cdn.livearenasports.com/blobs0/65bba8cc688dad0602c22834/index.m3u8
-#EXTINF:-1, Laima-TeamEesti
-https://cdn.livearenasports.com/blobs0/65cb4c658d385b3bfb35c230/index.m3u8
