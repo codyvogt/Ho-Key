@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avtomobilist-HCSochi
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, SKA-TorpedoNizhny
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDExOjA2OjU3IEFNJmhhc2hfdmFsdWU9VjB1SlFaNVUwYnQ5dUNGZStqOHN1Zz09JnZhbGlkbWludXRlcz0xNDQw
 #EXTINF:-1, Wolfsburg-Bremerhaven
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, Eisbären-ERCIngolstadt
@@ -15,21 +11,15 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 #EXTINF:-1, Frankfurt-Mannheim
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, MoDoHockey-MoraIK
-https://cdn.livearenasports.com/blobs2/65c9c79e0678a1649a8f6480/index.m3u8
-#EXTINF:-1, TimråIK-VästeråsIK
-https://cdn.livearenasports.com/blobs2/65c9ca6f0678a1649a8f64de/index.m3u8
-#EXTINF:-1, LinköpingHC-Södertälje
-https://cdn.livearenasports.com/blobs2/65c9ce290678a1649a8f6556/index.m3u8
-#EXTINF:-1, IKOskarshamn-AIK
-https://cdn.livearenasports.com/blobs0/65c9cf1d0678a1649a8f656c/index.m3u8
-#EXTINF:-1, Skellefteå-VäxjöLakers
-https://cdn.livearenasports.com/blobs0/65c9c88d0678a1649a8f64a3/index.m3u8
-#EXTINF:-1, LuleåHF-RögleBK
-https://cdn.livearenasports.com/blobs1/65c9c2ef0678a1649a8f63e6/index.m3u8
-#EXTINF:-1, DjurgårdensIF-Brynäs
-https://cdn.livearenasports.com/blobs2/65c9be390678a1649a8f6364/index.m3u8
-#EXTINF:-1, FärjestadBK-LeksandsIF
-https://cdn.livearenasports.com/blobs0/65c9c97b0678a1649a8f64bd/index.m3u8
-#EXTINF:-1, IserlohnerEC-Augsburg
-https://content.aisportswatch.com/261676/master.m3u8
+#EXTINF:-1, Severstal-Neftekhimik
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
+#EXTINF:-1, SKA-TorpedoNizhny
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDExOjA2OjU3IEFNJmhhc2hfdmFsdWU9VjB1SlFaNVUwYnQ5dUNGZStqOHN1Zz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1, HSKurbads-BaltuVilki
+https://cdn.livearenasports.com/blobs2/65c9d0000678a1649a8f6587/index.m3u8
+#EXTINF:-1, HKTukums-HSFalcons
+https://cdn.livearenasports.com/blobs2/65c0b1a047beb92cdce94aca/index.m3u8
+#EXTINF:-1, ZemgaleJuniors-Prizma
+https://cdn.livearenasports.com/blobs0/65c9de100678a1649a8f65ad/index.m3u8
+#EXTINF:-1, BeraniZlínB-Studénka
+https://cdn.livearenasports.com/blobs1/65ca2598aa8b1137e935ae0e/index.m3u8
