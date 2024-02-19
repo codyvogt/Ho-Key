@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Springfield-Charlotte
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream143/playlist.m3u8
-#EXTINF:-1, Cleveland-ChicagoWolves
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream144/playlist.m3u8
-#EXTINF:-1, Hartford-Providence
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream145/playlist.m3u8
-#EXTINF:-1, Drummond.-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/da1f2cf4a9424b5d8389c6920c9f3d86.m3u8
-#EXTINF:-1, Baie-Comeau-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/4b92a96ccda249b9a5b7bc19ac2f6fb1.m3u8
-#EXTINF:-1, Muskegon-USNTDPU17
-https://d3risbxv7svj8w.cloudfront.net/d523b4f58dbc3391c276deb772170153/0_hd_hls.m3u8
-#EXTINF:-1, SaultSte.Marie-Windsor
-https://media-service.fanreachdata.io/edge/ohl/19a717749165450f805a6f037cc9a946.m3u8
+#EXTINF:-1, Portland-EverettSilvertips
+https://media-service.fanreachdata.io/edge/whl/4b04bfd4fd9c4f8592d505b738eccb37.m3u8
