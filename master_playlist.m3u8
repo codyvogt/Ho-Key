@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Milwaukee-Manitoba
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream359/playlist.m3u8
-#EXTINF:-1, Calgary-Abbotsford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream02/playlist.m3u8
-#EXTINF:-1, Saskatoon-Brandon
-https://media-service.fanreachdata.io/edge/whl/7d154186a4de4dd187af408ac3d91517.m3u8
-#EXTINF:-1, Calgary-ReginaPats
-https://media-service.fanreachdata.io/edge/whl/75ecb42813a0429a8701ed25c6de327b.m3u8
 #EXTINF:-1, MedicineHat-Edmonton
 https://media-service.fanreachdata.io/edge/whl/8a63794c18f740bd94718b6ca561abd7.m3u8
 #EXTINF:-1, Lethbridge-RedDeer
@@ -21,3 +13,7 @@ https://media-service.fanreachdata.io/edge/whl/6444ca39d7ef42739c1ca32540230898.
 https://media-service.fanreachdata.io/edge/whl/4f643dc26a4b45ebbe8a6f83362062ea.m3u8
 #EXTINF:-1, MooseJaw-SwiftCurrent
 https://media-service.fanreachdata.io/edge/whl/5ea3ff3d2a4b465b883c959fd10ea6aa.m3u8
+#EXTINF:-1, Calgary-Abbotsford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream02/playlist.m3u8
+#EXTINF:-1, Rockford-IowaWild
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
