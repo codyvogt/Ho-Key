@@ -1,22 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Milwaukee-Manitoba
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream359/playlist.m3u8
-#EXTINF:-1, Erie-BrantfordBulldogs
-https://media-service.fanreachdata.io/edge/ohl/69efa78770a448cb852867e9f5567f99.m3u8
-#EXTINF:-1, Sudbury-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/e63fbd1476044ac684785013092ad3c6.m3u8
-#EXTINF:-1, BarrieColts-Kingston
-https://media-service.fanreachdata.io/edge/ohl/98152ed05d67410b9a31f1c021aa581f.m3u8
-#EXTINF:-1, Windsor-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/befb69a803514017a2c0ef7492e03618.m3u8
-#EXTINF:-1, OwenSound-Mississauga
-https://media-service.fanreachdata.io/edge/ohl/1f984e05ac9444bd97ede503e321da9d.m3u8
-#EXTINF:-1, Niagara-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/7a73bc44709c4221a30f27fb195a040a.m3u8
-#EXTINF:-1, Kitchener-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/7e2cd18eaa0b4de2a667c9e076bcb3a7.m3u8
-#EXTINF:-1, SaultSte.Marie-Sarnia
-https://media-service.fanreachdata.io/edge/ohl/a495f442e7dc4e58aa5f5d6deaa3a1e7.m3u8
+#EXTINF:-1, Calgary-Abbotsford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream02/playlist.m3u8
 #EXTINF:-1, Saskatoon-Brandon
 https://media-service.fanreachdata.io/edge/whl/7d154186a4de4dd187af408ac3d91517.m3u8
 #EXTINF:-1, Calgary-ReginaPats
