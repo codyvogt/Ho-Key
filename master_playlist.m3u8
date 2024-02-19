@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Acadie-Bathurst-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/07c6cf5b155d48a588964e66112c45ed.m3u8
-#EXTINF:-1, Halifax-MonctonWildcats
-https://media-service.fanreachdata.io/edge/lhjmq/389508cf35c94c15aa3e907f3a921118.m3u8
-#EXTINF:-1, CapeBreton-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/b34b1761ebc64137aeadcaf4c8d3b5c8.m3u8
-#EXTINF:-1, HersheyBears-Belleville
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream343/playlist.m3u8
 #EXTINF:-1, Milwaukee-Manitoba
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream359/playlist.m3u8
 #EXTINF:-1, Erie-BrantfordBulldogs
@@ -19,8 +11,6 @@ https://media-service.fanreachdata.io/edge/ohl/98152ed05d67410b9a31f1c021aa581f.
 https://media-service.fanreachdata.io/edge/ohl/befb69a803514017a2c0ef7492e03618.m3u8
 #EXTINF:-1, OwenSound-Mississauga
 https://media-service.fanreachdata.io/edge/ohl/1f984e05ac9444bd97ede503e321da9d.m3u8
-#EXTINF:-1, NorthBay-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/17b999da82664b69b0140bd97ed5d6ee.m3u8
 #EXTINF:-1, Niagara-OshawaGenerals
 https://media-service.fanreachdata.io/edge/ohl/7a73bc44709c4221a30f27fb195a040a.m3u8
 #EXTINF:-1, Kitchener-Peterborough
