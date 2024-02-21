@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Spokane-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/40ea8c1e084a4a76b2c171bd50ae2c9b.m3u8
+#EXTINF:-1, Seattle-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/bb8db83efb294fa3bd43458c3ae62acf.m3u8
