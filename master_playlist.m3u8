@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Iserlohn-Straubing
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, Stjernen-Lørenskog
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
-#EXTINF:-1, FriskAsker-Ringerike
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
-#EXTINF:-1, Vålerenga-SpartaSarp
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream14/playlist.m3u8
 #EXTINF:-1, Šumperk-TechnikaBrno
 https://cdn.livearenasports.com/blobs2/65c1e83947beb92cdce94cc9/index.m3u8
-#EXTINF:-1, SödertäljeSK-IFMalmö
-https://cdn.livearenasports.com/blobs1/65cf0d9c975ad70bbdf31393/index.m3u8
+#EXTINF:-1, Vålerenga-SpartaSarp
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream14/playlist.m3u8
 #EXTINF:-1, TierpsHK-JärfällaHC
 https://cdn.livearenasports.com/blobs2/65d2fda6975ad70bbdf3214d/index.m3u8
 #EXTINF:-1, LidingöHC-SollentunaHC
@@ -60,4 +54,4 @@ https://cdn.livearenasports.com/blobs1/65d05b5f975ad70bbdf318cd/index.m3u8
 #EXTINF:-1, PiTa-HCLudwigVantaa
 https://cdn.livearenasports.com/blobs1/65cd9a8ed6ae5a77fad30dc1/index.m3u8
 #EXTINF:-1, HerringsHC-FlyersHC
-https://cdn.livearenasports.com/blobs0/659b9ea67d1d187ca43d667a/index.m3u8
+https://cdn.livearenasports.com/blobs1/659b9ea67d1d187ca43d667a/index.m3u8
