@@ -1,57 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Iserlohn-Straubing
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, Šumperk-TechnikaBrno
-https://cdn.livearenasports.com/blobs2/65c1e83947beb92cdce94cc9/index.m3u8
-#EXTINF:-1, Vålerenga-SpartaSarp
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream14/playlist.m3u8
-#EXTINF:-1, TierpsHK-JärfällaHC
-https://cdn.livearenasports.com/blobs2/65d2fda6975ad70bbdf3214d/index.m3u8
-#EXTINF:-1, LidingöHC-SollentunaHC
-https://cdn.livearenasports.com/blobs0/65d2fd6a975ad70bbdf32125/index.m3u8
-#EXTINF:-1, FlemingsbergsIK-Spånga
-https://cdn.livearenasports.com/blobs1/65d2f5e7975ad70bbdf3206e/index.m3u8
 #EXTINF:-1, HammarbyIF-NackaHK
 https://cdn.livearenasports.com/blobs2/65d2f137975ad70bbdf3201c/index.m3u8
-#EXTINF:-1, GlimmaHK-Trelleborg
-https://cdn.livearenasports.com/blobs1/65c3310c47beb92cdce94f0d/index.m3u8
-#EXTINF:-1, ForshagaIF-GävleGIK
-https://cdn.livearenasports.com/blobs0/65d44c1dfdbd4570e05c8581/index.m3u8
-#EXTINF:-1, Kristianstad-VitaHästen
-https://cdn.livearenasports.com/blobs0/65bf39c147beb92cdce944ad/index.m3u8
-#EXTINF:-1, IFBjörklöven-Södertälje
-https://cdn.livearenasports.com/blobs0/65d5e6effdbd4570e05c88e8/index.m3u8
-#EXTINF:-1, FaluIF-RögleBK
-https://cdn.livearenasports.com/blobs1/65d5e6effdbd4570e05c88ea/index.m3u8
-#EXTINF:-1, Haninge-SkellefteåAIK
-https://cdn.livearenasports.com/blobs1/65d467a4fdbd4570e05c863b/index.m3u8
-#EXTINF:-1, ZellerEisbären-Cortina
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream346/playlist.m3u8
-#EXTINF:-1, RedBullJuniors-Wipptal
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream326/playlist.m3u8
-#EXTINF:-1, HCMeran/o-Jesenice
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream332/playlist.m3u8
-#EXTINF:-1, HKCelije-HCGherdeina
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream290/playlist.m3u8
-#EXTINF:-1, Vojens-HerningII
-https://cdn.livearenasports.com/blobs2/65af47f41d96284681217d67/index.m3u8
-#EXTINF:-1, OdenseII-Frederikshavn
-https://cdn.livearenasports.com/blobs1/65d743bdfdbd4570e05c8b7a/index.m3u8
-#EXTINF:-1, VännäsHC-IFBjörklöven
-https://cdn.livearenasports.com/blobs1/65d30bae975ad70bbdf322c3/index.m3u8
-#EXTINF:-1, KalixHC-BodensHF
-https://cdn.livearenasports.com/blobs0/65d327d3975ad70bbdf32388/index.m3u8
-#EXTINF:-1, TibroIK-UddevallaHC
-https://cdn.livearenasports.com/blobs1/65d2ee65975ad70bbdf31f62/index.m3u8
-#EXTINF:-1, AHCToblach-Bressanone
-https://cdn.livearenasports.com/blobs2/658bfa4c1dcc1159bb97b327/index.m3u8
 #EXTINF:-1, AllegheHockey-Pergine
 https://cdn.livearenasports.com/blobs0/658bf6bc1dcc1159bb97b2c5/index.m3u8
-#EXTINF:-1, Kaltern-EppanPirates
-https://cdn.livearenasports.com/blobs2/658bff641dcc1159bb97b389/index.m3u8
-#EXTINF:-1, SDEHF2-AIK2
-https://cdn.livearenasports.com/blobs1/65d05b5f975ad70bbdf318cd/index.m3u8
-#EXTINF:-1, PiTa-HCLudwigVantaa
-https://cdn.livearenasports.com/blobs1/65cd9a8ed6ae5a77fad30dc1/index.m3u8
-#EXTINF:-1, HerringsHC-FlyersHC
-https://cdn.livearenasports.com/blobs1/659b9ea67d1d187ca43d667a/index.m3u8
