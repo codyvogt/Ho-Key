@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Neftekhimik-Lokomotiv
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, DinamoMinsk-SKA
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Kiekko-Espoo-TPS
-https://cdn.livearenasports.com/blobs2/65ceec0e975ad70bbdf3129e/index.m3u8
-#EXTINF:-1, JYPJyväskylä-Ässät
-https://cdn.livearenasports.com/blobs0/65ceec0e975ad70bbdf31263/index.m3u8
-#EXTINF:-1, KooKoo-TapparaTampere
-https://cdn.livearenasports.com/blobs0/65ceec0e975ad70bbdf31296/index.m3u8
-#EXTINF:-1, OulunKärpät-HPK
-https://cdn.livearenasports.com/blobs1/65ceec0e975ad70bbdf31294/index.m3u8
-#EXTINF:-1, TurunToverit-HIFK
-https://cdn.livearenasports.com/blobs0/65ceec0e975ad70bbdf312a8/index.m3u8
-#EXTINF:-1, Jokerit-LahdenPelicans
-https://cdn.livearenasports.com/blobs0/65ceec0e975ad70bbdf312aa/index.m3u8
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, B.Bystrica-Michalovce
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream118/playlist.m3u8
+#EXTINF:-1, Humenné-NovéZámky
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream165/playlist.m3u8
+#EXTINF:-1, Poprad-LiptovskýMikuláš
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream166/playlist.m3u8
