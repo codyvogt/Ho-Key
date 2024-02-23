@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Neftekhimik-Lokomotiv
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, Sochi-KunlunRedStar
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:-1, DinamoMinsk-SKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Kiekko-Vantaa-Ilves
-https://cdn.livearenasports.com/blobs1/65ceec0e975ad70bbdf3125c/index.m3u8
 #EXTINF:-1, Kiekko-Espoo-TPS
 https://cdn.livearenasports.com/blobs2/65ceec0e975ad70bbdf3129e/index.m3u8
 #EXTINF:-1, JYPJyväskylä-Ässät
