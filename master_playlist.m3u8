@@ -1,33 +1,21 @@
 #EXTM3U
-#EXTINF:-1, Frankfurt-Augsburger
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
-#EXTINF:-1, Mannheim-Nürnberg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
-#EXTINF:-1, Bremerhaven-Düsseldorf
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, EHCMünchen-Ingolstadt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, Schwenningen-Wolfsburg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, HerlevEagles-Rungsted
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream111/playlist.m3u8
-#EXTINF:-1, IFBoden-StiLHockey
-https://cdn.livearenasports.com/blobs0/65d0579c975ad70bbdf318b5/index.m3u8
-#EXTINF:-1, HaparandaHF-Överkalix
-https://cdn.livearenasports.com/blobs0/65d0510c975ad70bbdf31896/index.m3u8
-#EXTINF:-1, GnestaIK-SolnaSK
-https://cdn.livearenasports.com/blobs1/65d2fda6975ad70bbdf3214c/index.m3u8
-#EXTINF:-1, SunderbySK-VindelnsHF
-https://cdn.livearenasports.com/blobs2/65d05e31975ad70bbdf3190b/index.m3u8
-#EXTINF:-1, SollefteåHK-Kovland
-https://cdn.livearenasports.com/blobs2/65d056a8975ad70bbdf318b3/index.m3u8
-#EXTINF:-1, BrunfloIK-KB65HK
-https://cdn.livearenasports.com/blobs1/65d0600b975ad70bbdf31919/index.m3u8
-#EXTINF:-1, NorsjöHC-VilhelminaIK
-https://cdn.livearenasports.com/blobs1/65d055b8975ad70bbdf318af/index.m3u8
-#EXTINF:-1, Lycksele-UmeåDragons
-https://cdn.livearenasports.com/blobs1/65d05d3b975ad70bbdf31906/index.m3u8
-#EXTINF:-1, Lomnicen.P.-HCFrýdlant
-https://cdn.livearenasports.com/blobs0/65d2fd9f975ad70bbdf32138/index.m3u8
-#EXTINF:-1, Vimperk-Hlubokán.V.
-https://cdn.livearenasports.com/blobs1/65d343edfdbd4570e05c8348/index.m3u8
+#EXTINF:-1, Mechelen-Heerenveen
+https://cdn.livearenasports.com/blobs2/65c749350678a1649a8f5b9b/index.m3u8
+#EXTINF:-1, Connecticut-BostonU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Maine-HolyCross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Vermont-Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Merrimack-Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, BostonC-NewHampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, FRU-SacredHeart
+https://vcloud.blueframetech.com/file/broadcast/991675.m3u8
+#EXTINF:-1, Post-St.Anselm
+https://vcloud.blueframetech.com/file/broadcast/983573.m3u8
+#EXTINF:-1, Assumption-Stonehill
+https://vcloud.blueframetech.com/file/broadcast/986137.m3u8
+#EXTINF:-1, St.Michael's-LongIsland
+https://vcloud.blueframetech.com/file/broadcast/941449.m3u8
