@@ -17,6 +17,18 @@ https://vcloud.blueframetech.com/file/broadcast/983573.m3u8
 https://vcloud.blueframetech.com/file/broadcast/986137.m3u8
 #EXTINF:-1, St.Michael's-LongIsland
 https://vcloud.blueframetech.com/file/broadcast/941449.m3u8
+#EXTINF:-1, Toronto-LavalRocket
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream02/playlist.m3u8
+#EXTINF:-1, W-B/Scranton-Hershey
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream05/playlist.m3u8
+#EXTINF:-1, Syracuse-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream25/playlist.m3u8
+#EXTINF:-1, Cleveland-Providence
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream27/playlist.m3u8
+#EXTINF:-1, Hartford-Springfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream26/playlist.m3u8
+#EXTINF:-1, Belleville-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream28/playlist.m3u8
 #EXTINF:-1, SaintJohn-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/4d21db1fe13b4fe0b86f94ba76ff3906.m3u8
 #EXTINF:-1, Halifax-Gatineau
@@ -41,6 +53,8 @@ https://media-service.fanreachdata.io/edge/ohl/9827349f144442c1ac9cc6150e9b0018.
 https://media-service.fanreachdata.io/edge/ohl/24c47e8de9654e97b68378aaf7aec85a.m3u8
 #EXTINF:-1, Windsor-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/74d761a9abe74ca8a887d3be668214fe.m3u8
+#EXTINF:-1, Lincoln-USNTDPU18
+https://d1cit4dgv4rm23.cloudfront.net/1c017251472719f6514e29822868c656/0_hd_hls.m3u8
 #EXTINF:-1, Quinnipiac-Brown
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Cornell-Clarkson
@@ -61,3 +75,13 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, UNH-Massachusetts
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, UMD-NorthDakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0c8bcf07-26b5-48e5-98d7-cd7f1de09bee-hls/master/0c8bcf07-26b5-48e5-98d7-cd7f1de09bee-hls.m3u8
+#EXTINF:-1, ColoradoCollege-Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/48dc13ac-dc9d-4925-9a16-830db56aad3b-hls/master/48dc13ac-dc9d-4925-9a16-830db56aad3b-hls.m3u8
+#EXTINF:-1, Miami-Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/882ecaef-aad1-4950-9bad-9b4ef2fa1104-hls/master/882ecaef-aad1-4950-9bad-9b4ef2fa1104-hls.m3u8
+#EXTINF:-1, UQTR-Ottawa
+https://live-004.vip.visaic.tv/origin/oua/ottawavsuqtr-hockey-m-20240223/ottawavsuqtr-hockey-m-20240223-target/ottawavsuqtr-hockey-m-20240223-target-540p30-oZKrsr4K_live.m3u8
+#EXTINF:-1, TorontoMU-Laurier
+https://d20j3hs5e7fd7n.cloudfront.net/OUA/lauriervstmu-hockey-m-20240223-live.smil/chunklist_b3414000_sleng.m3u8
