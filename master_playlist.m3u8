@@ -1,7 +1,71 @@
 #EXTM3U
-#EXTINF:-1, JärfällaHC-TierpsHK
-https://cdn.livearenasports.com/blobs1/65d2fda6975ad70bbdf32157/index.m3u8
-#EXTINF:-1, BeraniZlín-PardubiceB
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream91/playlist.m3u8
-#EXTINF:-1, AalborgII-HerlevII
-https://cdn.livearenasports.com/blobs2/65b1eafc688dad0602c20606/index.m3u8
+#EXTINF:-1, Sparta-FriskAsker
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream94/playlist.m3u8
+#EXTINF:-1, HCMVVarese-SVKaltern
+https://cdn.livearenasports.com/blobs2/658bfbb71dcc1159bb97b339/index.m3u8
+#EXTINF:-1, EppanPirates-Alleghe
+https://cdn.livearenasports.com/blobs1/658bf8ce1dcc1159bb97b305/index.m3u8
+#EXTINF:-1, ValdifiemmeHC-Como
+https://cdn.livearenasports.com/blobs1/658bfd7d1dcc1159bb97b367/index.m3u8
+#EXTINF:-1, Valpellice-AHCToblach
+https://cdn.livearenasports.com/blobs0/658c04301dcc1159bb97b3f1/index.m3u8
+#EXTINF:-1, Kiekko-67Turku-TarU
+https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf317e3/index.m3u8
+#EXTINF:-1, YKI-Tunturi-Kiekko
+https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf316f5/index.m3u8
+#EXTINF:-1, TurkuHC-SaloHT
+https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3170e/index.m3u8
+#EXTINF:-1, Kiekko-EspooIII-HYRI
+https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf317c7/index.m3u8
+#EXTINF:-1, EVU-Jää-Tiikerit
+https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316f7/index.m3u8
+#EXTINF:-1, Eisbären-KölnerJunghaie
+https://content.aisportswatch.com/276559/master.m3u8
+#EXTINF:-1, Kiekko-EspooEKS-Tiikerit
+https://cdn.livearenasports.com/blobs2/65d03d91975ad70bbdf3180d/index.m3u8
+#EXTINF:-1, Jää-Kotkat-MeanMachine
+https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf317dd/index.m3u8
+#EXTINF:-1, RedBullJuniors-Cortina
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream97/playlist.m3u8
+#EXTINF:-1, Jesenice-SteelWingsLinz
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream98/playlist.m3u8
+#EXTINF:-1, Unterland-EC-KACII
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream96/playlist.m3u8
+#EXTINF:-1, LiegeBulldogs-HijsHokij
+https://cdn.livearenasports.com/blobs0/65c89ab70678a1649a8f61a7/index.m3u8
+#EXTINF:-1, Leuven-Diez-Limburg
+https://cdn.livearenasports.com/blobs1/65c89ab80678a1649a8f61ad/index.m3u8
+#EXTINF:-1, Mannheim-Amsterdam
+https://cdn3.wowza.com/5/M20wbC9TYmlpRjBl/liveOrigin/ngrp:VJYByMbOWeLH1gshRMcgZV0cIuWxGma3_19589_all/playlist.m3u8
+#EXTINF:-1, BelfastGiants-FifeFlyers
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
+#EXTINF:-1, CoventryBlaze-Dundee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream102/playlist.m3u8
+#EXTINF:-1, Manchester-Guildford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream88/playlist.m3u8
+#EXTINF:-1, CardiffDevils-Sheffield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream93/playlist.m3u8
+#EXTINF:-1, GlasgowClan-Nottingham
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream101/playlist.m3u8
+#EXTINF:-1, Vinschgau-HCChiavenna
+https://content.aisportswatch.com/277096/master.m3u8
+#EXTINF:-1, London-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/64e685604992475eb4fb3effa7113fd4.m3u8
+#EXTINF:-1, Rensselaer-Brown
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/brownecacvideo/playlist.m3u8
+#EXTINF:-1, Dartmouth-Princeton
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
+#EXTINF:-1, Harvard-Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, BostonU-Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Union-Yale
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u8
+#EXTINF:-1, Assumption-Stonehill
+https://vcloud.blueframetech.com/file/broadcast/986143.m3u8
+#EXTINF:-1, Maine-HolyCross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Providence-Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Vermont-Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
