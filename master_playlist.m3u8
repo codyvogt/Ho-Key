@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1, CoachellaValley-Ontario
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
-#EXTINF:-1, Abbotsford-SanJose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream09/playlist.m3u8
-#EXTINF:-1, PrinceGeorge-Kamloops
-https://media-service.fanreachdata.io/edge/whl/be31b9e43a2a482db3ca04e0d77163a8.m3u8
-#EXTINF:-1, Vancouver-Kelowna
-https://media-service.fanreachdata.io/edge/whl/89ad71e4f81a4c1c86b09ef2a4726fe1.m3u8
-#EXTINF:-1, Regina-SpokaneChiefs
-https://media-service.fanreachdata.io/edge/whl/02da0cbdaeb04b92be56f2ac0642deaa.m3u8
-#EXTINF:-1, MooseJaw-Tri-City
-https://media-service.fanreachdata.io/edge/whl/4ff5b633dd4d4f5fab7163d2fb009395.m3u8
-#EXTINF:-1, Portland-VictoriaRoyals
-https://media-service.fanreachdata.io/edge/whl/0f41fc0940ae4fada1d9310532cfd326.m3u8
 #EXTINF:-1, HKKJ-KJTHaukatAk
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316e8/index.m3u8
