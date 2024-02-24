@@ -1,26 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Toronto-LavalRocket
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
 #EXTINF:-1, LehighValley-Charlotte
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream21/playlist.m3u8
 #EXTINF:-1, Abbotsford-SanJose
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream23/playlist.m3u8
-#EXTINF:-1, London-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/64e685604992475eb4fb3effa7113fd4.m3u8
-#EXTINF:-1, Kingston-Niagara
-https://media-service.fanreachdata.io/edge/ohl/d959aa7f0d714b41908b63d19622ab4a.m3u8
-#EXTINF:-1, NorthBay-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/3d1b16c66fcb418581687b7758412a0d.m3u8
-#EXTINF:-1, Guelph-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/eabf06988ec24db7a56948418203e2f5.m3u8
-#EXTINF:-1, Windsor-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/3ff9f0d7930344c2980c922be62e7af3.m3u8
-#EXTINF:-1, Brantford-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/2bd0e19302d64f9d94824935746061b1.m3u8
-#EXTINF:-1, Peterborough-Soo
-https://media-service.fanreachdata.io/edge/ohl/2ea722a356b84210b218a7ed42bd9ab1.m3u8
-#EXTINF:-1, Mississauga-Barrie
-https://media-service.fanreachdata.io/edge/ohl/b947e45ba8434eef859f91b98d4c1a21.m3u8
+#EXTINF:-1, Bridgeport-W-B/Scranton
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream28/playlist.m3u8
+#EXTINF:-1, Calgary-ManitobaMoose
+https://hockeytech.akamaized.net/hls/live/2028243/game-1035825-Home-84a0643a-ea46-4fa8-a834-c03cb9e780a5/main.m3u8
 #EXTINF:-1, Rimouski-Baie-Comeau
 https://media-service.fanreachdata.io/edge/lhjmq/bc41f43aa730474380afee35e1c156f8.m3u8
 #EXTINF:-1, Rouyn-Noranda-Blainville
@@ -63,8 +49,20 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3f6c22b2-068b-4586-8821-433a8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/281cd9d2-94f5-44cc-813d-ce16b56f1479-hls/master/281cd9d2-94f5-44cc-813d-ce16b56f1479-hls.m3u8
 #EXTINF:-1, Windsor-Brock
 https://live-004.vip.visaic.tv/origin/oua/brockvswindsor-hockey-m-20240224/brockvswindsor-hockey-m-20240224-target/brockvswindsor-hockey-m-20240224-target-1080p30-NOjJt0vP_live.m3u8
-#EXTINF:-1, Maine-HolyCross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Kingston-Niagara
+https://media-service.fanreachdata.io/edge/ohl/d959aa7f0d714b41908b63d19622ab4a.m3u8
+#EXTINF:-1, NorthBay-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/3d1b16c66fcb418581687b7758412a0d.m3u8
+#EXTINF:-1, Guelph-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/eabf06988ec24db7a56948418203e2f5.m3u8
+#EXTINF:-1, Windsor-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/3ff9f0d7930344c2980c922be62e7af3.m3u8
+#EXTINF:-1, Brantford-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/2bd0e19302d64f9d94824935746061b1.m3u8
+#EXTINF:-1, Peterborough-Soo
+https://media-service.fanreachdata.io/edge/ohl/2ea722a356b84210b218a7ed42bd9ab1.m3u8
+#EXTINF:-1, Mississauga-Barrie
+https://media-service.fanreachdata.io/edge/ohl/b947e45ba8434eef859f91b98d4c1a21.m3u8
 #EXTINF:-1, FPU-SacredHeart
 https://vcloud.blueframetech.com/file/broadcast/991680.m3u8
 #EXTINF:-1, Post-St.Anselm
