@@ -1,27 +1,11 @@
 #EXTM3U
-#EXTINF:-1, AkBarsKazan-Amur
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:-1, Spartak-Severstal
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, DynamoMoscow-Admiral
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1, ViruSputnik-HCPanter
-https://cdn.livearenasports.com/blobs2/65d89451fdbd4570e05c8eff/index.m3u8
-#EXTINF:-1, OulunKärpät-KalPa
-https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316ce/index.m3u8
-#EXTINF:-1, HelsinginJokerit-Ketterä
-https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3170a/index.m3u8
-#EXTINF:-1, DjurgårdensIF-Färjestad
-https://cdn.livearenasports.com/blobs1/65d1a737975ad70bbdf31caf/index.m3u8
-#EXTINF:-1, AIK-TimråIK
-https://cdn.livearenasports.com/blobs0/65d1b45b975ad70bbdf31e7a/index.m3u8
-#EXTINF:-1, AlmtunaIS-MoDoHockey
-https://cdn.livearenasports.com/blobs0/65d1afb0975ad70bbdf31e0f/index.m3u8
-#EXTINF:-1, SaPKo-LapuanVirkiä
-https://cdn.livearenasports.com/blobs2/65d03d90975ad70bbdf31685/index.m3u8
-#EXTINF:-1, PorvoonHunters-S-Kiekko
-https://cdn.livearenasports.com/blobs1/65d03d8f975ad70bbdf31645/index.m3u8
-#EXTINF:-1, Haukat-LiikunnanRiemu
-https://cdn.livearenasports.com/blobs2/65d03d8f975ad70bbdf3165c/index.m3u8
-#EXTINF:-1, Titaanit-LempäälänKisa
-https://cdn.livearenasports.com/blobs2/65d03d90975ad70bbdf316b3/index.m3u8
+#EXTINF:-1, IFLejonet-HCDalen
+https://cdn.livearenasports.com/blobs1/65d1a197975ad70bbdf31c65/index.m3u8
+#EXTINF:-1, GutsFinspång-SkaraIK
+https://cdn.livearenasports.com/blobs0/65d1adc8975ad70bbdf31de0/index.m3u8
+#EXTINF:-1, KristianstadsIK-Tranås
+https://cdn.livearenasports.com/blobs2/65d1aebe975ad70bbdf31dfe/index.m3u8
+#EXTINF:-1, HärrydaHC-Vänersborg
+https://cdn.livearenasports.com/blobs2/65d1b729975ad70bbdf31eb7/index.m3u8
+#EXTINF:-1, LevSlaný-HCDomažlice
+https://cdn.livearenasports.com/blobs0/65cb5aee8d385b3bfb35c27d/index.m3u8
