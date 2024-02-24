@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1, IFLejonet-HCDalen
-https://cdn.livearenasports.com/blobs1/65d1a197975ad70bbdf31c65/index.m3u8
-#EXTINF:-1, GutsFinspång-SkaraIK
-https://cdn.livearenasports.com/blobs0/65d1adc8975ad70bbdf31de0/index.m3u8
-#EXTINF:-1, KristianstadsIK-Tranås
-https://cdn.livearenasports.com/blobs2/65d1aebe975ad70bbdf31dfe/index.m3u8
-#EXTINF:-1, HärrydaHC-Vänersborg
-https://cdn.livearenasports.com/blobs2/65d1b729975ad70bbdf31eb7/index.m3u8
-#EXTINF:-1, LevSlaný-HCDomažlice
-https://cdn.livearenasports.com/blobs0/65cb5aee8d385b3bfb35c27d/index.m3u8
+#EXTINF:-1, JärfällaHC-TierpsHK
+https://cdn.livearenasports.com/blobs1/65d2fda6975ad70bbdf32157/index.m3u8
+#EXTINF:-1, BeraniZlín-PardubiceB
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream91/playlist.m3u8
+#EXTINF:-1, AalborgII-HerlevII
+https://cdn.livearenasports.com/blobs2/65b1eafc688dad0602c20606/index.m3u8
