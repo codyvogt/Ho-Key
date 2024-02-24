@@ -1,40 +1,56 @@
 #EXTM3U
-#EXTINF:-1, RedBullJuniors-Cortina
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream97/playlist.m3u8
-#EXTINF:-1, Jesenice-SteelWingsLinz
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream98/playlist.m3u8
-#EXTINF:-1, Unterland-EC-KACII
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream96/playlist.m3u8
-#EXTINF:-1, LiegeBulldogs-HijsHokij
-https://cdn.livearenasports.com/blobs0/65c89ab70678a1649a8f61a7/index.m3u8
-#EXTINF:-1, Leuven-Diez-Limburg
-https://cdn.livearenasports.com/blobs1/65c89ab80678a1649a8f61ad/index.m3u8
-#EXTINF:-1, EppanPirates-Alleghe
-https://cdn.livearenasports.com/blobs1/658bf8ce1dcc1159bb97b305/index.m3u8
-#EXTINF:-1, ValdifiemmeHC-Como
-https://cdn.livearenasports.com/blobs1/658bfd7d1dcc1159bb97b367/index.m3u8
-#EXTINF:-1, Valpellice-AHCToblach
-https://cdn.livearenasports.com/blobs0/658c04301dcc1159bb97b3f1/index.m3u8
-#EXTINF:-1, Mannheim-Amsterdam
-https://cdn3.wowza.com/5/M20wbC9TYmlpRjBl/liveOrigin/ngrp:VJYByMbOWeLH1gshRMcgZV0cIuWxGma3_19589_all/playlist.m3u8
-#EXTINF:-1, BelfastGiants-FifeFlyers
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
 #EXTINF:-1, CoventryBlaze-Dundee
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream102/playlist.m3u8
-#EXTINF:-1, Manchester-Guildford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream88/playlist.m3u8
-#EXTINF:-1, CardiffDevils-Sheffield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream93/playlist.m3u8
-#EXTINF:-1, GlasgowClan-Nottingham
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream101/playlist.m3u8
 #EXTINF:-1, Dartmouth-Union
-https://https//d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Providence-UMassLowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, Vermont-BostonCollege
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Colgate-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Harvard-Rensselaer
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Cornell-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, UConn-BostonUniversity
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Northeastern-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, UMass-NewHampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, WMU-St.CloudState
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/97bad6d7-8a62-4403-a272-94829ae160ae-hls/master/97bad6d7-8a62-4403-a272-94829ae160ae-hls.m3u8
+#EXTINF:-1, UMD-NorthDakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4d6359e6-42c3-40e5-b939-97f432d1d2a7-hls/master/4d6359e6-42c3-40e5-b939-97f432d1d2a7-hls.m3u8
+#EXTINF:-1, Princeton-Brown
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Miami-Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3f6c22b2-068b-4586-8821-433a8d4bed54-hls/master/3f6c22b2-068b-4586-8821-433a8d4bed54-hls.m3u8
+#EXTINF:-1, ColoradoCollege-Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/281cd9d2-94f5-44cc-813d-ce16b56f1479-hls/master/281cd9d2-94f5-44cc-813d-ce16b56f1479-hls.m3u8
+#EXTINF:-1, Valpellice-AHCToblach
+https://cdn.livearenasports.com/blobs0/658c04301dcc1159bb97b3f1/index.m3u8
 #EXTINF:-1, Vinschgau-HCChiavenna
 https://content.aisportswatch.com/277096/master.m3u8
+#EXTINF:-1, Toronto-LavalRocket
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
 #EXTINF:-1, London-Ottawa67's
 https://media-service.fanreachdata.io/edge/ohl/64e685604992475eb4fb3effa7113fd4.m3u8
-#EXTINF:-1, Rensselaer-Brown
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/brownecacvideo/playlist.m3u8
+#EXTINF:-1, Kingston-Niagara
+https://media-service.fanreachdata.io/edge/ohl/d959aa7f0d714b41908b63d19622ab4a.m3u8
+#EXTINF:-1, NorthBay-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/3d1b16c66fcb418581687b7758412a0d.m3u8
+#EXTINF:-1, Guelph-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/eabf06988ec24db7a56948418203e2f5.m3u8
+#EXTINF:-1, Windsor-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/3ff9f0d7930344c2980c922be62e7af3.m3u8
+#EXTINF:-1, Brantford-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/2bd0e19302d64f9d94824935746061b1.m3u8
+#EXTINF:-1, Peterborough-Soo
+https://media-service.fanreachdata.io/edge/ohl/2ea722a356b84210b218a7ed42bd9ab1.m3u8
+#EXTINF:-1, Mississauga-Barrie
+https://media-service.fanreachdata.io/edge/ohl/b947e45ba8434eef859f91b98d4c1a21.m3u8
 #EXTINF:-1, Dartmouth-Princeton
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
 #EXTINF:-1, Harvard-Quinnipiac
@@ -47,13 +63,25 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u
 https://vcloud.blueframetech.com/file/broadcast/986143.m3u8
 #EXTINF:-1, Maine-HolyCross
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, Providence-Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, FPU-SacredHeart
+https://vcloud.blueframetech.com/file/broadcast/991680.m3u8
+#EXTINF:-1, Post-St.Anselm
+https://vcloud.blueframetech.com/file/broadcast/983576.m3u8
 #EXTINF:-1, Vermont-Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Providence-Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Rimouski-Baie-Comeau
 https://media-service.fanreachdata.io/edge/lhjmq/bc41f43aa730474380afee35e1c156f8.m3u8
 #EXTINF:-1, Rouyn-Noranda-Blainville
 https://media-service.fanreachdata.io/edge/lhjmq/3af2fe2181f94ef58a606ec5011adb3e.m3u8
 #EXTINF:-1, SaintJohn-Drummond.
 https://media-service.fanreachdata.io/edge/lhjmq/65bfac22e0964e4190beb0e26e900562.m3u8
+#EXTINF:-1, Val-d'Or-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/72b6d8a767a64881920fa99162957bbb.m3u8
+#EXTINF:-1, Charlottetown-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/fcc0664bde2a49a6b6777eb4b3f165ea.m3u8
+#EXTINF:-1, ABTitan-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/5321c050e8c246b19a39898b707ca3f2.m3u8
+#EXTINF:-1, Windsor-Brock
+https://live-004.vip.visaic.tv/origin/oua/brockvswindsor-hockey-m-20240224/brockvswindsor-hockey-m-20240224-target/brockvswindsor-hockey-m-20240224-target-1080p30-NOjJt0vP_live.m3u8
