@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, TorpedoNizhny-CSKA
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDExOjA2OjU3IEFNJmhhc2hfdmFsdWU9VjB1SlFaNVUwYnQ5dUNGZStqOHN1Zz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:-1, BarysAstana-Lada
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+#EXTINF:-1, MetallurgMg-Vityaz
+https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1, HKKJ-KJTHaukatAk
 https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf316e8/index.m3u8
 #EXTINF:-1, SpiritofHockey-KPK
@@ -28,7 +32,7 @@ https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316f7/index.m3u8
 #EXTINF:-1, SaiPa-Kiekko-Vantaa
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf317cf/index.m3u8
 #EXTINF:-1, JYPJyväskylä-KooKoo
-https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf31728/index.m3u8
+https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf31728/index.m3u8
 #EXTINF:-1, MikkelinJukurit-Lukko
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3170b/index.m3u8
 #EXTINF:-1, TampereenIlves-TUTO
@@ -44,7 +48,7 @@ https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316c5/index.m3u8
 #EXTINF:-1, HelsinginJokerit-Ketterä
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3170a/index.m3u8
 #EXTINF:-1, UrhoII-JPKAkatemia
-https://cdn.livearenasports.com/blobs0/65d03d90975ad70bbdf31696/index.m3u8
+https://cdn.livearenasports.com/blobs2/65d03d90975ad70bbdf31696/index.m3u8
 #EXTINF:-1, HCEurajoki-VG-62II
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf31722/index.m3u8
 #EXTINF:-1, SablesNokia-HCPJ
@@ -86,13 +90,13 @@ https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf317e3/index.m3u8
 #EXTINF:-1, YKI-Tunturi-Kiekko
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316f5/index.m3u8
 #EXTINF:-1, KiilatHockey-JyKi
-https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3170d/index.m3u8
+https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf3170d/index.m3u8
 #EXTINF:-1, K-EspooCh-Pelicans
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3181c/index.m3u8
 #EXTINF:-1, TurkuHC-SaloHT
 https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3170e/index.m3u8
 #EXTINF:-1, BodensHF-KalixHC
-https://cdn.livearenasports.com/blobs0/65d319bf975ad70bbdf3230c/index.m3u8
+https://cdn.livearenasports.com/blobs1/65d319bf975ad70bbdf3230c/index.m3u8
 #EXTINF:-1, BIKKarlskoga-ValboHC
 https://cdn.livearenasports.com/blobs0/65d1b27a975ad70bbdf31e54/index.m3u8
 #EXTINF:-1, StrömsbroIF-GrumsIK
