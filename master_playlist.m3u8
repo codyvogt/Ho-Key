@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sparta-FriskAsker
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream94/playlist.m3u8
-#EXTINF:-1, HCMVVarese-SVKaltern
-https://cdn.livearenasports.com/blobs2/658bfbb71dcc1159bb97b339/index.m3u8
-#EXTINF:-1, EppanPirates-Alleghe
-https://cdn.livearenasports.com/blobs1/658bf8ce1dcc1159bb97b305/index.m3u8
-#EXTINF:-1, ValdifiemmeHC-Como
-https://cdn.livearenasports.com/blobs1/658bfd7d1dcc1159bb97b367/index.m3u8
-#EXTINF:-1, Valpellice-AHCToblach
-https://cdn.livearenasports.com/blobs0/658c04301dcc1159bb97b3f1/index.m3u8
-#EXTINF:-1, Kiekko-67Turku-TarU
-https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf317e3/index.m3u8
-#EXTINF:-1, YKI-Tunturi-Kiekko
-https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf316f5/index.m3u8
-#EXTINF:-1, TurkuHC-SaloHT
-https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf3170e/index.m3u8
-#EXTINF:-1, Kiekko-EspooIII-HYRI
-https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf317c7/index.m3u8
-#EXTINF:-1, EVU-Jää-Tiikerit
-https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316f7/index.m3u8
-#EXTINF:-1, Eisbären-KölnerJunghaie
-https://content.aisportswatch.com/276559/master.m3u8
-#EXTINF:-1, Kiekko-EspooEKS-Tiikerit
-https://cdn.livearenasports.com/blobs2/65d03d91975ad70bbdf3180d/index.m3u8
-#EXTINF:-1, Jää-Kotkat-MeanMachine
-https://cdn.livearenasports.com/blobs1/65d03d91975ad70bbdf317dd/index.m3u8
 #EXTINF:-1, RedBullJuniors-Cortina
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream97/playlist.m3u8
 #EXTINF:-1, Jesenice-SteelWingsLinz
@@ -35,6 +9,12 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 https://cdn.livearenasports.com/blobs0/65c89ab70678a1649a8f61a7/index.m3u8
 #EXTINF:-1, Leuven-Diez-Limburg
 https://cdn.livearenasports.com/blobs1/65c89ab80678a1649a8f61ad/index.m3u8
+#EXTINF:-1, EppanPirates-Alleghe
+https://cdn.livearenasports.com/blobs1/658bf8ce1dcc1159bb97b305/index.m3u8
+#EXTINF:-1, ValdifiemmeHC-Como
+https://cdn.livearenasports.com/blobs1/658bfd7d1dcc1159bb97b367/index.m3u8
+#EXTINF:-1, Valpellice-AHCToblach
+https://cdn.livearenasports.com/blobs0/658c04301dcc1159bb97b3f1/index.m3u8
 #EXTINF:-1, Mannheim-Amsterdam
 https://cdn3.wowza.com/5/M20wbC9TYmlpRjBl/liveOrigin/ngrp:VJYByMbOWeLH1gshRMcgZV0cIuWxGma3_19589_all/playlist.m3u8
 #EXTINF:-1, BelfastGiants-FifeFlyers
@@ -47,6 +27,8 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream93/playlist.m3u8
 #EXTINF:-1, GlasgowClan-Nottingham
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream101/playlist.m3u8
+#EXTINF:-1, Dartmouth-Union
+https://https//d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Vinschgau-HCChiavenna
 https://content.aisportswatch.com/277096/master.m3u8
 #EXTINF:-1, London-Ottawa67's
@@ -69,3 +51,9 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Vermont-Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Rimouski-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/bc41f43aa730474380afee35e1c156f8.m3u8
+#EXTINF:-1, Rouyn-Noranda-Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/3af2fe2181f94ef58a606ec5011adb3e.m3u8
+#EXTINF:-1, SaintJohn-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/65bfac22e0964e4190beb0e26e900562.m3u8
