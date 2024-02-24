@@ -15,6 +15,10 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream267/playlist.m3u8
 #EXTINF:-1, Texas-RockfordIceHogs
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream268/playlist.m3u8
+#EXTINF:-1, Bakersfield-Tucson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream10/playlist.m3u8
+#EXTINF:-1, Henderson-Colorado
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream04/playlist.m3u8
 #EXTINF:-1, SaintJohn-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/4d21db1fe13b4fe0b86f94ba76ff3906.m3u8
 #EXTINF:-1, Halifax-Gatineau
@@ -95,3 +99,5 @@ https://media-service.fanreachdata.io/edge/whl/02da0cbdaeb04b92be56f2ac0642deaa.
 https://media-service.fanreachdata.io/edge/whl/4ff5b633dd4d4f5fab7163d2fb009395.m3u8
 #EXTINF:-1, Portland-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/0f41fc0940ae4fada1d9310532cfd326.m3u8
+#EXTINF:-1, HKKJ-KJTHaukatAk
+https://cdn.livearenasports.com/blobs0/65d03d91975ad70bbdf316e8/index.m3u8
