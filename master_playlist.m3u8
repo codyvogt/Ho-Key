@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Iowa-RockfordIceHogs
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream26/playlist.m3u8
 #EXTINF:-1, Ontario-SanDiegoGulls
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream21/playlist.m3u8
 #EXTINF:-1, Bakersfield-Tucson
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream28/playlist.m3u8
 #EXTINF:-1, Henderson-Colorado
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream31/playlist.m3u8
-#EXTINF:-1, Brandon-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/74eda39fa4044f07b5dbd52b0bfddcab.m3u8
 #EXTINF:-1, SCBroncos-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/24e100ba90324ac48ed56b62feff4364.m3u8
 #EXTINF:-1, WenatcheeWild-RedDeer
@@ -19,13 +15,7 @@ https://media-service.fanreachdata.io/edge/whl/222ca3001eda4462b52736ac2f25d367.
 https://media-service.fanreachdata.io/edge/whl/35fc077b888944f7b60691bace4bf17c.m3u8
 #EXTINF:-1, Regina-Tri-CityAmericans
 https://media-service.fanreachdata.io/edge/whl/d9c1e7ceaf7c404b86c09cddb463dcb7.m3u8
-#EXTINF:-1, Portland-VictoriaRoyals
-https://media-service.fanreachdata.io/edge/whl/009c90b6184e4b3ba09388b323ceffbc.m3u8
 #EXTINF:-1, Kamloops-Vancouver
 https://media-service.fanreachdata.io/edge/whl/b732a19a123b4ed4a9ef8e1f8b6f59a5.m3u8
 #EXTINF:-1, PrinceGeorge-Kelowna
 https://media-service.fanreachdata.io/edge/whl/4d1d1447558e4ec8a15c4a8db5812c3d.m3u8
-#EXTINF:-1, Miami-Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3f6c22b2-068b-4586-8821-433a8d4bed54-hls/master/3f6c22b2-068b-4586-8821-433a8d4bed54-hls.m3u8
-#EXTINF:-1, ColoradoCollege-Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/281cd9d2-94f5-44cc-813d-ce16b56f1479-hls/master/281cd9d2-94f5-44cc-813d-ce16b56f1479-hls.m3u8
