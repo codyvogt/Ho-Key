@@ -1,13 +1,37 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist-Lokomotiv
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, HCSochi-Neftekhimik
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, KunlunRedStar-SKA
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
+#EXTINF:-1, PorinÄssät-TPS
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream313/playlist.m3u8
 #EXTINF:-1, Nürnberg-EHCMünchen
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, Straubing-Frankfurt
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, WildWings-Bremerhaven
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, AugsburgerEV-BadTölz
-https://content.aisportswatch.com/276563/master.m3u8
-#EXTINF:-1, EisbärenBerlin-Köln
-https://content.aisportswatch.com/276562/master.m3u8
+#EXTINF:-1, AIK-MoDoHockey
+https://cdn.livearenasports.com/blobs2/65d305da975ad70bbdf32250/index.m3u8
+#EXTINF:-1, AlmtunaIS-TimråIK
+https://cdn.livearenasports.com/blobs1/65d2ef54975ad70bbdf31f76/index.m3u8
+#EXTINF:-1, VästeråsIK-ÖrebroHK
+https://cdn.livearenasports.com/blobs0/65d304ec975ad70bbdf3222b/index.m3u8
+#EXTINF:-1, MoraIK-LinköpingHC
+https://cdn.livearenasports.com/blobs0/65d303f8975ad70bbdf32206/index.m3u8
+#EXTINF:-1, Trento-HCBFoxes
+https://cdn.livearenasports.com/blobs0/655c940eb005860c0cfba2ca/index.m3u8
+#EXTINF:-1, StormPinerolo-Fassa
+https://cdn.livearenasports.com/blobs0/659d349bee6bf6560670dd89/index.m3u8
+#EXTINF:-1, EppanPirates-Aosta
+https://cdn.livearenasports.com/blobs0/65533481f41e4b69a03e508c/index.m3u8
+#EXTINF:-1, Kaltern/Ritten-Pergine
+https://cdn.livearenasports.com/blobs0/655f33e4b005860c0cfbaacd/index.m3u8
+#EXTINF:-1, Brixen/Wipptal-Como
+https://cdn.livearenasports.com/blobs0/6551ec7af41e4b69a03e4e73/index.m3u8
+#EXTINF:-1, Juniorteams-HCMerano
+https://cdn.livearenasports.com/blobs0/6556348a9939214221b811bb/index.m3u8
+#EXTINF:-1, Valpellice-Padova/Zoldo
+https://cdn.livearenasports.com/blobs0/65649c6e55e11f30dd0075ec/index.m3u8
