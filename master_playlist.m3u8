@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ontario-SanDiegoGulls
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream21/playlist.m3u8
-#EXTINF:-1, Bakersfield-Tucson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream28/playlist.m3u8
-#EXTINF:-1, Henderson-Colorado
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream31/playlist.m3u8
-#EXTINF:-1, SCBroncos-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/24e100ba90324ac48ed56b62feff4364.m3u8
-#EXTINF:-1, WenatcheeWild-RedDeer
-https://media-service.fanreachdata.io/edge/whl/41d059b1bbfa4b708786e8731f56d38b.m3u8
-#EXTINF:-1, EverettSilvertips-Seattle
-https://media-service.fanreachdata.io/edge/whl/222ca3001eda4462b52736ac2f25d367.m3u8
-#EXTINF:-1, MooseJaw-Spokane
-https://media-service.fanreachdata.io/edge/whl/35fc077b888944f7b60691bace4bf17c.m3u8
-#EXTINF:-1, Regina-Tri-CityAmericans
-https://media-service.fanreachdata.io/edge/whl/d9c1e7ceaf7c404b86c09cddb463dcb7.m3u8
 #EXTINF:-1, Kamloops-Vancouver
 https://media-service.fanreachdata.io/edge/whl/b732a19a123b4ed4a9ef8e1f8b6f59a5.m3u8
 #EXTINF:-1, PrinceGeorge-Kelowna
