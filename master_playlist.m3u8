@@ -1,33 +1,13 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist-Lokomotiv
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, Krefeld-Schwenningen
-https://content.aisportswatch.com/276561/master.m3u8
+#EXTINF:-1, Nürnberg-EHCMünchen
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Straubing-Frankfurt
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
+#EXTINF:-1, WildWings-Bremerhaven
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, AugsburgerEV-BadTölz
 https://content.aisportswatch.com/276563/master.m3u8
 #EXTINF:-1, EisbärenBerlin-Köln
 https://content.aisportswatch.com/276562/master.m3u8
-#EXTINF:-1, Björklöven2-Clemensnäs
-https://cdn.livearenasports.com/blobs1/65ae1371577aca49b7cb9ec6/index.m3u8
-#EXTINF:-1, AalborgII-RødovreII
-https://cdn.livearenasports.com/blobs2/65b33c83688dad0602c20ad6/index.m3u8
-#EXTINF:-1, FrederikshavnII-Herlev
-https://cdn.livearenasports.com/blobs0/65b33c84688dad0602c20ad8/index.m3u8
-#EXTINF:-1, Aarhus-GladsaxeBears
-https://cdn.livearenasports.com/blobs2/65b33c82688dad0602c20ace/index.m3u8
-#EXTINF:-1, RungstedII-EsbjergII
-https://cdn.livearenasports.com/blobs0/65b33c82688dad0602c20ad0/index.m3u8
-#EXTINF:-1, GentofteStars-Vojens
-https://cdn.livearenasports.com/blobs0/65b33c83688dad0602c20ad2/index.m3u8
-#EXTINF:-1, HerningII-Hvidovre
-https://cdn.livearenasports.com/blobs0/65b33c83688dad0602c20ad4/index.m3u8
-#EXTINF:-1, IlvesAk-LahdenPelicans
-https://cdn.livearenasports.com/blobs1/65d18f0f975ad70bbdf31a2c/index.m3u8
-#EXTINF:-1, TPSAkatemia-TurkuHC
-https://cdn.livearenasports.com/blobs0/65d18f0f975ad70bbdf31a2e/index.m3u8
-#EXTINF:-1, S-Kiekko-JyKi
-https://cdn.livearenasports.com/blobs0/65d18f0f975ad70bbdf31a8d/index.m3u8
-#EXTINF:-1, MuJK-KeuPaHT
-https://cdn.livearenasports.com/blobs0/65d18f0f975ad70bbdf31b27/index.m3u8
-#EXTINF:-1, SaloHT-HIFKChallenger
-https://cdn.livearenasports.com/blobs0/65d18f0f975ad70bbdf31a2d/index.m3u8
