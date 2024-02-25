@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Kamloops-Vancouver
-https://media-service.fanreachdata.io/edge/whl/b732a19a123b4ed4a9ef8e1f8b6f59a5.m3u8
-#EXTINF:-1, PrinceGeorge-Kelowna
-https://media-service.fanreachdata.io/edge/whl/4d1d1447558e4ec8a15c4a8db5812c3d.m3u8
+#EXTINF:-1, Avtomobilist-Lokomotiv
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, TullingeTPHC-JärnaSK
+https://cdn.livearenasports.com/blobs2/65d2f225975ad70bbdf3203e/index.m3u8
+#EXTINF:-1, Björklöven2-Clemensnäs
+https://cdn.livearenasports.com/blobs1/65ae1371577aca49b7cb9ec6/index.m3u8
+#EXTINF:-1, EVLandshut-Ingolstadt
+https://content.aisportswatch.com/260528/master.m3u8
+#EXTINF:-1, Krefeld-Schwenningen
+https://content.aisportswatch.com/276561/master.m3u8
+#EXTINF:-1, AugsburgerEV-BadTölz
+https://content.aisportswatch.com/276563/master.m3u8
