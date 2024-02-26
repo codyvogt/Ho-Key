@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Iowa-ChicagoWolves
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
 #EXTINF:-1, Milwaukee-GrandRapids
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream180/playlist.m3u8
 #EXTINF:-1, Utica-SyracuseCrunch
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream181/playlist.m3u8
-#EXTINF:-1, Victoriaville-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/2b9b27ad0b3a44f883170d14022a949b.m3u8
-#EXTINF:-1, RNHuskies-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/ce31cc5794c74c7d8c1c5e4881ccbd64.m3u8
-#EXTINF:-1, Sudbury-Mississauga
-https://media-service.fanreachdata.io/edge/ohl/30f269d471ed41dea7bbc1fa0349ed3e.m3u8
-#EXTINF:-1, Barrie-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/e12863756be8489195110142cf62f702.m3u8
-#EXTINF:-1, Lethbridge-Calgary
-https://media-service.fanreachdata.io/edge/whl/a66d0ed5542f4fcbaa1ffcba33a94632.m3u8
 #EXTINF:-1, Wenatchee-Edmonton
 https://media-service.fanreachdata.io/edge/whl/1c2790d79de54492a1ca7592377064e2.m3u8
 #EXTINF:-1, Kamloops-Seattle
 https://media-service.fanreachdata.io/edge/whl/edeaeb22958c4d25b3e38928cde1c09d.m3u8
+#EXTINF:-1, Barrie-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/e12863756be8489195110142cf62f702.m3u8
+#EXTINF:-1, Ottawa-UQTR
+https://d20j3hs5e7fd7n.cloudfront.net/OUA/uqtrvsottawa-hockey-m-20240225-live.smil/chunklist_b3414000_sleng.m3u8
