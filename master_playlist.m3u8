@@ -3,13 +3,27 @@
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, Ingolstadt-Bremerhaven
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, TuusKiekko-HarjunKiekko
-https://cdn.livearenasports.com/blobs2/65db0fddfdbd4570e05c9855/index.m3u8
-#EXTINF:-1, GrIFK-VuosaarenViikingit
-https://cdn.livearenasports.com/blobs1/65db562e21a34c1ba559d4b9/index.m3u8
-#EXTINF:-1, Lørenskog-Stavanger
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream354/playlist.m3u8
-#EXTINF:-1, ÚstínadLabem-LiberecB
-https://cdn.livearenasports.com/blobs1/65cb4ce88d385b3bfb35c245/index.m3u8
-#EXTINF:-1, ViikingitAkatemia-PEPO
-https://cdn.livearenasports.com/blobs1/65bf1a1147beb92cdce93f71/index.m3u8
+#EXTINF:-1, IFKTumbaIK-VärmdöHC
+https://cdn.livearenasports.com/blobs0/65d6ef1afdbd4570e05c8a33/index.m3u8
+#EXTINF:-1, Linden-GötaTranebergIK
+https://cdn.livearenasports.com/blobs2/65dae485fdbd4570e05c968a/index.m3u8
+#EXTINF:-1, KovlandsIshF-Sollefteå
+https://cdn.livearenasports.com/blobs2/65d59f7bfdbd4570e05c8810/index.m3u8
+#EXTINF:-1, NorrtäljeIK-Trångsund
+https://cdn.livearenasports.com/blobs1/65dc2bb52030d60202719649/index.m3u8
+#EXTINF:-1, ÄltaIF-IKWaxholm
+https://cdn.livearenasports.com/blobs2/65dc30642030d602027196e0/index.m3u8
+#EXTINF:-1, BIKKarlskoga:2-KilsAIK
+https://cdn.livearenasports.com/blobs1/65c877fd0678a1649a8f60db/index.m3u8
+#EXTINF:-1, JärnaSK-SKIronHockey
+https://cdn.livearenasports.com/blobs0/65c8761e0678a1649a8f60b0/index.m3u8
+#EXTINF:-1, VallentunaHockey-Tyresö
+https://cdn.livearenasports.com/blobs1/65d59e88fdbd4570e05c880a/index.m3u8
+#EXTINF:-1, Briançon-Chamonix
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream274/playlist.m3u8
+#EXTINF:-1, DragonsdeRouen-Gap
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream269/playlist.m3u8
+#EXTINF:-1, GladsaxeBears-Hvidovre
+https://cdn.livearenasports.com/blobs2/65028af99f79570b8c570e4d/index.m3u8
+#EXTINF:-1, PUS-Hockey-EVUrheilijat
+https://cdn.livearenasports.com/blobs0/65dc1b112030d60202719581/index.m3u8
