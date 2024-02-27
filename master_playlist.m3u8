@@ -1,14 +1,18 @@
 #EXTM3U
+#EXTINF:-1, LöwenFrankfurt-München
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Ingolstadt-Bremerhaven
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, HCJihlava-KometaBrno
 https://cdn.livearenasports.com/blobs1/65d084d6975ad70bbdf3196c/index.m3u8
 #EXTINF:-1, KalPa-TampereenIlves
-https://cdn.livearenasports.com/blobs0/65d43211fdbd4570e05c8494/index.m3u8
+https://cdn.livearenasports.com/blobs2/65d43211fdbd4570e05c8494/index.m3u8
 #EXTINF:-1, JäähonkaEspoo-Wolf
-https://cdn.livearenasports.com/blobs0/65dac990fdbd4570e05c944b/index.m3u8
+https://cdn.livearenasports.com/blobs2/65dac990fdbd4570e05c944b/index.m3u8
 #EXTINF:-1, Jää-Ahmat-KelA
 https://cdn.livearenasports.com/blobs0/65dc1b112030d6020271957c/index.m3u8
 #EXTINF:-1, TuusKiekko-HarjunKiekko
-https://cdn.livearenasports.com/blobs0/65db0fddfdbd4570e05c9855/index.m3u8
+https://cdn.livearenasports.com/blobs2/65db0fddfdbd4570e05c9855/index.m3u8
 #EXTINF:-1, GrIFK-VuosaarenViikingit
 https://cdn.livearenasports.com/blobs0/65db562e21a34c1ba559d4b9/index.m3u8
 #EXTINF:-1, ViikingitAkatemia-PEPO
