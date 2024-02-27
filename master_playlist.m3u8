@@ -14,8 +14,10 @@ https://cdn.livearenasports.com/blobs0/65dc1b112030d6020271957c/index.m3u8
 #EXTINF:-1, TuusKiekko-HarjunKiekko
 https://cdn.livearenasports.com/blobs2/65db0fddfdbd4570e05c9855/index.m3u8
 #EXTINF:-1, GrIFK-VuosaarenViikingit
-https://cdn.livearenasports.com/blobs0/65db562e21a34c1ba559d4b9/index.m3u8
-#EXTINF:-1, ViikingitAkatemia-PEPO
-https://cdn.livearenasports.com/blobs0/65bf1a1147beb92cdce93f71/index.m3u8
+https://cdn.livearenasports.com/blobs1/65db562e21a34c1ba559d4b9/index.m3u8
+#EXTINF:-1, Lørenskog-Stavanger
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream354/playlist.m3u8
 #EXTINF:-1, ÚstínadLabem-LiberecB
-https://cdn.livearenasports.com/blobs0/65cb4ce88d385b3bfb35c245/index.m3u8
+https://cdn.livearenasports.com/blobs1/65cb4ce88d385b3bfb35c245/index.m3u8
+#EXTINF:-1, ViikingitAkatemia-PEPO
+https://cdn.livearenasports.com/blobs1/65bf1a1147beb92cdce93f71/index.m3u8
