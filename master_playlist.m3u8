@@ -1,23 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Edmonton-Calgary
-https://media-service.fanreachdata.io/edge/whl/793329d0838149a6be06dde1b4c4b439.m3u8
-#EXTINF:-1, IKPantern-JonstorpsIF
-https://cdn.livearenasports.com/blobs0/65d889eefdbd4570e05c8ed0/index.m3u8
-#EXTINF:-1, Augsburg-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, Juniorteams-Pustertal
-https://cdn.livearenasports.com/blobs0/6556348f9939214221b811bd/index.m3u8
-#EXTINF:-1, BelfastGiants-Dundee
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream113/playlist.m3u8
-#EXTINF:-1, BrinkensIF-JärnaSK
-https://cdn.livearenasports.com/blobs1/65d6e794fdbd4570e05c8a2b/index.m3u8
-#EXTINF:-1, Aarhus-Vojens
-https://cdn.livearenasports.com/blobs1/65b730f6688dad0602c21a5a/index.m3u8
-#EXTINF:-1, RungstedII-HerlevII
-https://cdn.livearenasports.com/blobs0/65b730f6688dad0602c21a5c/index.m3u8
-#EXTINF:-1, AalborgII-Frederikshavn
-https://cdn.livearenasports.com/blobs0/65b730f6688dad0602c21a5e/index.m3u8
-#EXTINF:-1, UrhoII-LapuanVirkiäII
-https://cdn.livearenasports.com/blobs2/65dc1b102030d6020271951b/index.m3u8
-#EXTINF:-1, PiTa-HCLudwig
-https://cdn.livearenasports.com/blobs1/65dc6f6e2030d602027199a7/index.m3u8
+#EXTINF:-1, CapeBreton-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/a010b74d18c54e82a72392ae5b48dbff.m3u8
+#EXTINF:-1, Chicoutimi-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/7f1f7897846643388530c288d6915460.m3u8
+#EXTINF:-1, Chtown-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/e4f6c9464feb41c9b1f72b48564e5382.m3u8
+#EXTINF:-1, Québec-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/61ff55baa1c1429b9107c7438038996b.m3u8
+#EXTINF:-1, HolyCross-BostonU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Merrimack-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
