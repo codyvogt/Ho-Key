@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Unterland-Gherdeina
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream343/playlist.m3u8
-#EXTINF:-1, HovåsHC-MotalaAIFHK
-https://cdn.livearenasports.com/blobs0/65ddcff0af4cbf0afb32f591/index.m3u8
-#EXTINF:-1, HCLudwig-PiTa
-https://cdn.livearenasports.com/blobs0/65dc6f6e2030d602027199a9/index.m3u8
+#EXTINF:-1, Acadie-Bathurst-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/48e45fe9f171483f82d68d3725285126.m3u8
+#EXTINF:-1, Baie-Comeau-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/01f680034a9a4d88930788a527c2cd3f.m3u8
+#EXTINF:-1, Val-d'Or-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/9418296f01de4bf48ed34d164c9182ce.m3u8
+#EXTINF:-1, Ottawa-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/0bcf749bd7c8402c806fb5394f9c7be4.m3u8
+#EXTINF:-1, SarniaSting-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/50196568dd0541e8a84fef2ee54f74ea.m3u8
+#EXTINF:-1, Erie-PeterboroughPetes
+https://media-service.fanreachdata.io/edge/ohl/10eea356436843959c9f618742990b0b.m3u8
+#EXTINF:-1, Flint-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/75c8443ad9e04c1192ff7ccbd3ff8bb6.m3u8
