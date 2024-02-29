@@ -11,7 +11,29 @@ https://media-service.fanreachdata.io/edge/lhjmq/61ff55baa1c1429b9107c7438038996
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Merrimack-Maine
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, UticaComets-Belleville
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
+#EXTINF:-1, Toronto-Cleveland
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
+#EXTINF:-1, Charlotte-Hartford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
+#EXTINF:-1, LavalRocket-Bridgeport
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream50/playlist.m3u8
+#EXTINF:-1, IowaWild-GrandRapids
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream97/playlist.m3u8
+#EXTINF:-1, Syracuse-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream98/playlist.m3u8
 #EXTINF:-1, Oshawa-LondonKnights
 https://media-service.fanreachdata.io/edge/ohl/55720e1a511d4478a77f10efdf4cbac2.m3u8
 #EXTINF:-1, Barrie-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/5226688c33b44314b03a61d386c3e866.m3u8
+#EXTINF:-1, UQTR-McGill
+https://live-004.vip.visaic.tv/origin/oua/mcgillvsuqtr-hockey-m-20240228/mcgillvsuqtr-hockey-m-20240228-target/mcgillvsuqtr-hockey-m-20240228-target-1080p30-NORQt0vP_live.m3u8
+#EXTINF:-1, RedDeer-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/d1425a8886ef4fc8a1563992cda3a999.m3u8
+#EXTINF:-1, Regina-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/ee88e473ba8843d7bcc6991e2e2a8425.m3u8
+#EXTINF:-1, Spokane-Kamloops
+https://media-service.fanreachdata.io/edge/whl/dd340e47b6bc4f1d9d16481e3d2995d0.m3u8
+#EXTINF:-1, MooseJaw-Portland
+https://media-service.fanreachdata.io/edge/whl/9d83d08bf0b4479c99068907a8d266ab.m3u8
