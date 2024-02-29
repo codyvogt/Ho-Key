@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Toronto-Cleveland
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
-#EXTINF:-1, IowaWild-GrandRapids
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream97/playlist.m3u8
-#EXTINF:-1, Syracuse-Rochester
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream98/playlist.m3u8
 #EXTINF:-1, SanDiego-TexasStars
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, Chicoutimi-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/7f1f7897846643388530c288d6915460.m3u8
-#EXTINF:-1, Chtown-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/e4f6c9464feb41c9b1f72b48564e5382.m3u8
-#EXTINF:-1, Oshawa-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/55720e1a511d4478a77f10efdf4cbac2.m3u8
-#EXTINF:-1, Barrie-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/5226688c33b44314b03a61d386c3e866.m3u8
+#EXTINF:-1, Tucson-Bakersfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
+#EXTINF:-1, Colorado-Abbotsford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream335/playlist.m3u8
+#EXTINF:-1, SanJose-CoachellaValley
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream325/playlist.m3u8
 #EXTINF:-1, RedDeer-PrinceAlbert
 https://media-service.fanreachdata.io/edge/whl/d1425a8886ef4fc8a1563992cda3a999.m3u8
 #EXTINF:-1, Regina-WenatcheeWild
