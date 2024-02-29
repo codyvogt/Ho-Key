@@ -1,36 +1,20 @@
 #EXTM3U
-#EXTINF:-1, CapeBreton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/a010b74d18c54e82a72392ae5b48dbff.m3u8
-#EXTINF:-1, Chicoutimi-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/7f1f7897846643388530c288d6915460.m3u8
-#EXTINF:-1, Chtown-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/e4f6c9464feb41c9b1f72b48564e5382.m3u8
-#EXTINF:-1, Québec-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/61ff55baa1c1429b9107c7438038996b.m3u8
-#EXTINF:-1, HolyCross-BostonU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Merrimack-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, UticaComets-Belleville
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
 #EXTINF:-1, Toronto-Cleveland
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
-#EXTINF:-1, Charlotte-Hartford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
-#EXTINF:-1, LavalRocket-Bridgeport
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream50/playlist.m3u8
 #EXTINF:-1, IowaWild-GrandRapids
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream97/playlist.m3u8
 #EXTINF:-1, Syracuse-Rochester
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream98/playlist.m3u8
 #EXTINF:-1, SanDiego-TexasStars
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
+#EXTINF:-1, Chicoutimi-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/7f1f7897846643388530c288d6915460.m3u8
+#EXTINF:-1, Chtown-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/e4f6c9464feb41c9b1f72b48564e5382.m3u8
 #EXTINF:-1, Oshawa-LondonKnights
 https://media-service.fanreachdata.io/edge/ohl/55720e1a511d4478a77f10efdf4cbac2.m3u8
 #EXTINF:-1, Barrie-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/5226688c33b44314b03a61d386c3e866.m3u8
-#EXTINF:-1, UQTR-McGill
-https://live-004.vip.visaic.tv/origin/oua/mcgillvsuqtr-hockey-m-20240228/mcgillvsuqtr-hockey-m-20240228-target/mcgillvsuqtr-hockey-m-20240228-target-1080p30-NORQt0vP_live.m3u8
 #EXTINF:-1, RedDeer-PrinceAlbert
 https://media-service.fanreachdata.io/edge/whl/d1425a8886ef4fc8a1563992cda3a999.m3u8
 #EXTINF:-1, Regina-WenatcheeWild
