@@ -1,23 +1,7 @@
 #EXTM3U
-#EXTINF:-1, PustertalWölfe-Olimpija
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream337/playlist.m3u8
-#EXTINF:-1, BodensHF-IFBjörklöven
-https://cdn.livearenasports.com/blobs1/65dc35162030d60202719726/index.m3u8
-#EXTINF:-1, VärmdöHC-NackaHK
-https://cdn.livearenasports.com/blobs0/65dc38272030d6020271979f/index.m3u8
-#EXTINF:-1, Lejonet-Sörhaga/Alingsås
-https://cdn.livearenasports.com/blobs2/65ddcff0af4cbf0afb32f58b/index.m3u8
-#EXTINF:-1, HovåsHC-MotalaAIFHK
-https://cdn.livearenasports.com/blobs0/65ddcff0af4cbf0afb32f591/index.m3u8
-#EXTINF:-1, Härryda-Boro/Vetlanda
-https://cdn.livearenasports.com/blobs1/65ddcff0af4cbf0afb32f58e/index.m3u8
-#EXTINF:-1, AIK2-HammarbyIF
-https://cdn.livearenasports.com/blobs2/659119e41dcc1159bb97cd51/index.m3u8
-#EXTINF:-1, Tyresö-VallentunaHockey
-https://cdn.livearenasports.com/blobs0/65d84bd9fdbd4570e05c8d23/index.m3u8
-#EXTINF:-1, NyköpingsSK-NackaHK
-https://cdn.livearenasports.com/blobs0/65d849f9fdbd4570e05c8d0d/index.m3u8
 #EXTINF:-1, Unterland-Gherdeina
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream343/playlist.m3u8
+#EXTINF:-1, HovåsHC-MotalaAIFHK
+https://cdn.livearenasports.com/blobs0/65ddcff0af4cbf0afb32f591/index.m3u8
 #EXTINF:-1, HCLudwig-PiTa
 https://cdn.livearenasports.com/blobs0/65dc6f6e2030d602027199a9/index.m3u8
