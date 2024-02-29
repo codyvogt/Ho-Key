@@ -1,11 +1,37 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv-CSKAMoscow
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, SpartakMoscow-Severstal
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1, AkBars-Avtomobilist
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:-1, HCLitvínov-Pardubice
-https://cdn.livearenasports.com/blobs2/65a78a376e331848ed6dd555/index.m3u8
-#EXTINF:-1, BeraniZlín-MountfieldHK
-https://cdn.livearenasports.com/blobs0/65cdfdf5d6ae5a77fad30f83/index.m3u8
+#EXTINF:-1, PustertalWölfe-Olimpija
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream337/playlist.m3u8
+#EXTINF:-1, Vålerenga-CometHalden
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream339/playlist.m3u8
+#EXTINF:-1, FriskAsker-Storhamar
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream340/playlist.m3u8
+#EXTINF:-1, Stjernen-SpartaSarp
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream145/playlist.m3u8
+#EXTINF:-1, BoråsHC-KarlskronaHK
+https://cdn.livearenasports.com/blobs1/65d99e47fdbd4570e05c9227/index.m3u8
+#EXTINF:-1, TingsrydsAIF-BäckenHC
+https://cdn.livearenasports.com/blobs0/65d9a028fdbd4570e05c9230/index.m3u8
+#EXTINF:-1, Tyresö-VallentunaHockey
+https://cdn.livearenasports.com/blobs0/65d84bd9fdbd4570e05c8d23/index.m3u8
+#EXTINF:-1, NyköpingsSK-NackaHK
+https://cdn.livearenasports.com/blobs0/65d849f9fdbd4570e05c8d0d/index.m3u8
+#EXTINF:-1, TierpsHK-IFKTumbaIK
+https://cdn.livearenasports.com/blobs0/65dc38272030d602027197a1/index.m3u8
+#EXTINF:-1, SpångaISIK-Sollentuna
+https://cdn.livearenasports.com/blobs2/65dc38272030d602027197a8/index.m3u8
+#EXTINF:-1, VärmdöHC-NackaHK
+https://cdn.livearenasports.com/blobs0/65dc38272030d6020271979f/index.m3u8
+#EXTINF:-1, Glimma-GutsFinspång
+https://cdn.livearenasports.com/blobs2/65ddcff0af4cbf0afb32f598/index.m3u8
+#EXTINF:-1, Härryda-Boro/Vetlanda
+https://cdn.livearenasports.com/blobs1/65ddcff0af4cbf0afb32f58e/index.m3u8
+#EXTINF:-1, TibroIK-SkillingarydsIS
+https://cdn.livearenasports.com/blobs1/65ddcff0af4cbf0afb32f588/index.m3u8
+#EXTINF:-1, Lejonet-Sörhaga/Alingsås
+https://cdn.livearenasports.com/blobs2/65ddcff0af4cbf0afb32f58b/index.m3u8
+#EXTINF:-1, HovåsHC-MotalaAIFHK
+https://cdn.livearenasports.com/blobs0/65ddcff0af4cbf0afb32f591/index.m3u8
+#EXTINF:-1, FaluIF-SkellefteåAIK
+https://cdn.livearenasports.com/blobs1/65dc37e72030d60202719763/index.m3u8
+#EXTINF:-1, FärjestadBK-Södertälje
+https://cdn.livearenasports.com/blobs0/65dc32462030d602027196f6/index.m3u8
