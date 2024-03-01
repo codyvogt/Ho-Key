@@ -13,5 +13,23 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Wolfsburg-KölnerHaie
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, PovažskáBystrica-Trnava
-https://nn.geo.joj.sk/huste/936bc352-f5d0-416b-abe0-0fbdba507e48/936bc352-f5d0-416b-abe0-0fbdba507e48/playlist.m3u8
+#EXTINF:-1, Herlev-Frederikshavn
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream100/playlist.m3u8
+#EXTINF:-1, HoforsHC-OckelboHC
+https://cdn.livearenasports.com/blobs1/65dadb26fdbd4570e05c9613/index.m3u8
+#EXTINF:-1, IKWaxholm-ÄltaIF
+https://cdn.livearenasports.com/blobs1/65dc34242030d60202719719/index.m3u8
+#EXTINF:-1, Duisburg-MoskitosEssen
+https://content.aisportswatch.com/278242/master.m3u8
+#EXTINF:-1, VärmdöHC-IFKTumbaIK
+https://cdn.livearenasports.com/blobs0/65d99d58fdbd4570e05c9222/index.m3u8
+#EXTINF:-1, JärnaSK-BrinkensIF
+https://cdn.livearenasports.com/blobs1/65d9999cfdbd4570e05c9212/index.m3u8
+#EXTINF:-1, GötaTranebergIK-Linden
+https://cdn.livearenasports.com/blobs2/65daea27fdbd4570e05c974c/index.m3u8
+#EXTINF:-1, Chaux-de-Fonds-Visp
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream93/playlist.m3u8
+#EXTINF:-1, AalborgII-EsbjergII
+https://cdn.livearenasports.com/blobs0/65e19e71fb7394131c22e2a9/index.m3u8
+#EXTINF:-1, IFSundsvall-Östersund
+https://cdn.livearenasports.com/blobs1/65dc38272030d6020271977c/index.m3u8
