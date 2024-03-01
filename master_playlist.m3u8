@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1, KouvolanKooKoo-Kärpät
-https://cdn.livearenasports.com/blobs2/65d8268ffdbd4570e05c8bfa/index.m3u8
-#EXTINF:-1, MikkelinJukurit-SaiPa
-https://cdn.livearenasports.com/blobs1/65d82690fdbd4570e05c8c16/index.m3u8
-#EXTINF:-1, Ässät-VaasanSport
-https://cdn.livearenasports.com/blobs2/65d82690fdbd4570e05c8c1a/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-KalPa
-https://cdn.livearenasports.com/blobs0/65d8268ffdbd4570e05c8bfd/index.m3u8
-#EXTINF:-1, LahdenPelicans-Ilves
-https://cdn.livearenasports.com/blobs1/65d82690fdbd4570e05c8c2d/index.m3u8
-#EXTINF:-1, HPK-JYPJyväskylä
-https://cdn.livearenasports.com/blobs2/65d82690fdbd4570e05c8c27/index.m3u8
-#EXTINF:-1, Kiekko-Vantaa-Ketterä
-https://cdn.livearenasports.com/blobs2/65d82690fdbd4570e05c8c17/index.m3u8
+#EXTINF:-1, SKA-TorpedoNizhny
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIzIDExOjA2OjU3IEFNJmhhc2hfdmFsdWU9VjB1SlFaNVUwYnQ5dUNGZStqOHN1Zz09JnZhbGlkbWludXRlcz0xNDQw
