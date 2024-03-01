@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1, AvangardOmsk-Lada
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:-1, MetallurgMg-Amur
-https://bkm.beetv.kz/btv/live/hls/000008727.m3u8
 #EXTINF:-1, KouvolanKooKoo-Kärpät
 https://cdn.livearenasports.com/blobs2/65d8268ffdbd4570e05c8bfa/index.m3u8
 #EXTINF:-1, MikkelinJukurit-SaiPa
 https://cdn.livearenasports.com/blobs1/65d82690fdbd4570e05c8c16/index.m3u8
 #EXTINF:-1, Ässät-VaasanSport
-https://cdn.livearenasports.com/blobs0/65d82690fdbd4570e05c8c1a/index.m3u8
+https://cdn.livearenasports.com/blobs2/65d82690fdbd4570e05c8c1a/index.m3u8
 #EXTINF:-1, Kiekko-Espoo-KalPa
 https://cdn.livearenasports.com/blobs0/65d8268ffdbd4570e05c8bfd/index.m3u8
 #EXTINF:-1, LahdenPelicans-Ilves
-https://cdn.livearenasports.com/blobs0/65d82690fdbd4570e05c8c2d/index.m3u8
+https://cdn.livearenasports.com/blobs1/65d82690fdbd4570e05c8c2d/index.m3u8
 #EXTINF:-1, HPK-JYPJyväskylä
-https://cdn.livearenasports.com/blobs0/65d82690fdbd4570e05c8c27/index.m3u8
+https://cdn.livearenasports.com/blobs2/65d82690fdbd4570e05c8c27/index.m3u8
 #EXTINF:-1, Kiekko-Vantaa-Ketterä
-https://cdn.livearenasports.com/blobs0/65d82690fdbd4570e05c8c17/index.m3u8
+https://cdn.livearenasports.com/blobs2/65d82690fdbd4570e05c8c17/index.m3u8
