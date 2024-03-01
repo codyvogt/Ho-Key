@@ -1,35 +1,27 @@
 #EXTM3U
-#EXTINF:-1, Nürnberg-Düsseldorf
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, Mannheim-Schwenningen
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
-#EXTINF:-1, Bremerhaven-Augsburg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
-#EXTINF:-1, Ingolstadt-Frankfurt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
-#EXTINF:-1, Iserlohn-EHCMünchen
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
-#EXTINF:-1, Straubing-EisbärenBerlin
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, Wolfsburg-KölnerHaie
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, Herlev-Frederikshavn
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream100/playlist.m3u8
-#EXTINF:-1, HoforsHC-OckelboHC
-https://cdn.livearenasports.com/blobs1/65dadb26fdbd4570e05c9613/index.m3u8
-#EXTINF:-1, IKWaxholm-ÄltaIF
-https://cdn.livearenasports.com/blobs1/65dc34242030d60202719719/index.m3u8
-#EXTINF:-1, Duisburg-MoskitosEssen
-https://content.aisportswatch.com/278242/master.m3u8
-#EXTINF:-1, VärmdöHC-IFKTumbaIK
-https://cdn.livearenasports.com/blobs0/65d99d58fdbd4570e05c9222/index.m3u8
-#EXTINF:-1, JärnaSK-BrinkensIF
-https://cdn.livearenasports.com/blobs1/65d9999cfdbd4570e05c9212/index.m3u8
-#EXTINF:-1, GötaTranebergIK-Linden
-https://cdn.livearenasports.com/blobs2/65daea27fdbd4570e05c974c/index.m3u8
-#EXTINF:-1, Chaux-de-Fonds-Visp
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream93/playlist.m3u8
-#EXTINF:-1, AalborgII-EsbjergII
-https://cdn.livearenasports.com/blobs0/65e19e71fb7394131c22e2a9/index.m3u8
 #EXTINF:-1, IFSundsvall-Östersund
 https://cdn.livearenasports.com/blobs1/65dc38272030d6020271977c/index.m3u8
+#EXTINF:-1, Briançon-Cergy-Pontoise
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
+#EXTINF:-1, Marseille-Amiens
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream88/playlist.m3u8
+#EXTINF:-1, Grenoble-Rouen
+https://sp1564435593-1.mytvchain.info/live/sp1564435593_1080/index.m3u8
+#EXTINF:-1, Neuwied-LiegeBulldogs
+https://cdn.livearenasports.com/blobs2/65d083bf975ad70bbdf31960/index.m3u8
+#EXTINF:-1, Náchod-OrliLanškroun
+https://cdn.livearenasports.com/blobs0/65ddb3d5af4cbf0afb32f4f0/index.m3u8
+#EXTINF:-1, CardiffDevils-Guildford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
+#EXTINF:-1, GrIFK2-Kiekko-Tiikerit
+https://cdn.livearenasports.com/blobs1/65d82690fdbd4570e05c8c33/index.m3u8
+#EXTINF:-1, Brown-Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Cornell
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
+#EXTINF:-1, Princeton-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Yale-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Providence-BostonC
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
