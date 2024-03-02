@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sheffield-Manchester
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream99/playlist.m3u8
-#EXTINF:-1, Alleghe-EppanPirates
-https://cdn.livearenasports.com/blobs0/65dc8a9f2030d60202719a75/index.m3u8
-#EXTINF:-1, HCPinè-PievediCadore
-https://cdn.livearenasports.com/blobs2/65dc8a9c2030d60202719a6d/index.m3u8
 #EXTINF:-1, Manitoba-TexasStars
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream82/playlist.m3u8
 #EXTINF:-1, ChicagoWolves-Cleveland
@@ -75,3 +69,23 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d1b2b022-5028-4b80-85a5-55d21
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6ba98bda-94e1-4054-8bde-13c578113c90-hls/master/6ba98bda-94e1-4054-8bde-13c578113c90-hls.m3u8
 #EXTINF:-1, UMD-ColoradoCollege
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f3d72bcc-356d-4943-aa3d-1c5eab531709-hls/master/f3d72bcc-356d-4943-aa3d-1c5eab531709-hls.m3u8
+#EXTINF:-1, Saskatoon-Brandon
+https://media-service.fanreachdata.io/edge/whl/afa0705f6b0e4175a60a5bae99e2af8e.m3u8
+#EXTINF:-1, Lethbridge-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/3bf4ca9e7f1c46b5b0913d1cb9d73dcf.m3u8
+#EXTINF:-1, Vancouver-Kamloops
+https://media-service.fanreachdata.io/edge/whl/3ed9ee4a423840e1846216d29c7a3c13.m3u8
+#EXTINF:-1, VictoriaRoyals-Portland
+https://media-service.fanreachdata.io/edge/whl/3d98101698c743e5a5ec30453ea46782.m3u8
+#EXTINF:-1, Spokane-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/8cdd3281d501461ba5c3a4c9a22bb116.m3u8
+#EXTINF:-1, Calgary-RedDeerRebels
+https://media-service.fanreachdata.io/edge/whl/47d7bc33c4d146cb880774c51ac3cd5e.m3u8
+#EXTINF:-1, SwiftCurrent-Edmonton
+https://media-service.fanreachdata.io/edge/whl/abd00431b14d4d109dc4f2e5a045d0f6.m3u8
+#EXTINF:-1, MooseJaw-Seattle
+https://media-service.fanreachdata.io/edge/whl/f0b7b9aa21694a34b85e6dbfa3be6d14.m3u8
+#EXTINF:-1, KelownaRockets-Tri-City
+https://media-service.fanreachdata.io/edge/whl/4549739d1d51432ca2831aae13c5d5cc.m3u8
+#EXTINF:-1, ReginaPats-Everett
+https://media-service.fanreachdata.io/edge/whl/3b582808c9154256a2baceeaaa716320.m3u8
