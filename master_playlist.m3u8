@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1, SödertäljeSK-Färjestad
-https://cdn.livearenasports.com/blobs2/65dc38272030d60202719795/index.m3u8
-#EXTINF:-1, TechnikaBrno-HKOpava
-https://cdn.livearenasports.com/blobs0/659418161dcc1159bb981f5b/index.m3u8
-#EXTINF:-1, KrálovéPísek-HKKralupy
-https://cdn.livearenasports.com/blobs0/65d5f505fdbd4570e05c8930/index.m3u8
+#EXTINF:-1, HCKlatovy-HCDomažlice
+https://cdn.livearenasports.com/blobs0/65d1ac24975ad70bbdf31d3d/index.m3u8
+#EXTINF:-1, LiberecB-HCFrýdlant
+https://cdn.livearenasports.com/blobs1/65cb5aee8d385b3bfb35c27c/index.m3u8
