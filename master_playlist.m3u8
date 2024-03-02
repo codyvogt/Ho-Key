@@ -1,69 +1,45 @@
 #EXTM3U
-#EXTINF:-1, Kiekko-Espoo-IPK
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream96/playlist.m3u8
-#EXTINF:-1, Kiekko-Vantaa-Jokerit
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream90/playlist.m3u8
-#EXTINF:-1, ImatranKetterä-TUTO
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream93/playlist.m3u8
-#EXTINF:-1, KokkolanHermes-FPS
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream94/playlist.m3u8
-#EXTINF:-1, KeuPaHT-KOOVEE
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream95/playlist.m3u8
-#EXTINF:-1, KJTHaukat-Tiikerit
-https://cdn.livearenasports.com/blobs2/65d97811fdbd4570e05c915f/index.m3u8
+#EXTINF:-1, StavangerOilers-Sparta
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream80/playlist.m3u8
+#EXTINF:-1, FriskAsker-CometHalden
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream98/playlist.m3u8
+#EXTINF:-1, S-Kiekko-PorvoonHunters
+https://cdn.livearenasports.com/blobs2/65dc1b112030d60202719580/index.m3u8
+#EXTINF:-1, NokianPyry-JHT
+https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c8fb5/index.m3u8
+#EXTINF:-1, SödertäljeSK-Färjestad
+https://cdn.livearenasports.com/blobs2/65dc38272030d60202719795/index.m3u8
+#EXTINF:-1, SollentunaHC-Spånga
+https://cdn.livearenasports.com/blobs1/65dc36f92030d60202719746/index.m3u8
+#EXTINF:-1, ValboHC-OrsaIK
+https://cdn.livearenasports.com/blobs0/65dc36f92030d60202719745/index.m3u8
+#EXTINF:-1, IFKMunkfors-IFKArboga
+https://cdn.livearenasports.com/blobs0/65dc38272030d60202719784/index.m3u8
 #EXTINF:-1, Storm-Kiekko-EspooEKS
 https://cdn.livearenasports.com/blobs0/65d9780ffdbd4570e05c904a/index.m3u8
 #EXTINF:-1, KiekkohaitAk-PKSViihde
 https://cdn.livearenasports.com/blobs2/65dc6f6e2030d602027199a1/index.m3u8
-#EXTINF:-1, KJTAk-K-EspooIV
-https://cdn.livearenasports.com/blobs1/65d97810fdbd4570e05c908a/index.m3u8
-#EXTINF:-1, KOOVEEChallenger-Spirit
-https://cdn.livearenasports.com/blobs1/65d9780efdbd4570e05c8fb0/index.m3u8
-#EXTINF:-1, TPSAkatemia-KPK
-https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c9001/index.m3u8
-#EXTINF:-1, ViikingitAk-Warriors
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c907b/index.m3u8
-#EXTINF:-1, K-Vantaa/T-K-EspooIII
-https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c8fa0/index.m3u8
-#EXTINF:-1, EVUTeam-K-KissatAk
-https://cdn.livearenasports.com/blobs0/65d9780ffdbd4570e05c9045/index.m3u8
-#EXTINF:-1, KalPaAkatemia-Viikingit
-https://cdn.livearenasports.com/blobs1/65d97810fdbd4570e05c907a/index.m3u8
-#EXTINF:-1, KJTHaukat-Jokipojat
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90d0/index.m3u8
-#EXTINF:-1, HudiksvallsHC-Forshaga
-https://cdn.livearenasports.com/blobs2/65dc36062030d60202719734/index.m3u8
-#EXTINF:-1, FaluIF-OrsaIK
-https://cdn.livearenasports.com/blobs0/65dc37e72030d60202719765/index.m3u8
-#EXTINF:-1, IKGutsFinspång-Glimma
-https://cdn.livearenasports.com/blobs0/65ddcff0af4cbf0afb32f594/index.m3u8
-#EXTINF:-1, Boro/Vetlanda-Härryda
-https://cdn.livearenasports.com/blobs0/65ddcff0af4cbf0afb32f592/index.m3u8
-#EXTINF:-1, SkellefteåAIK-FaluIF
-https://cdn.livearenasports.com/blobs0/65dc38272030d60202719794/index.m3u8
-#EXTINF:-1, SödertäljeSK-Färjestad
-https://cdn.livearenasports.com/blobs2/65dc38272030d60202719795/index.m3u8
-#EXTINF:-1, Odense-Hvidovre
-https://cdn.livearenasports.com/blobs0/65e19099fb7394131c22e1e3/index.m3u8
-#EXTINF:-1, Frederikshavn-Rødovre
-https://cdn.livearenasports.com/blobs2/65e19099fb7394131c22e1e5/index.m3u8
-#EXTINF:-1, HerlevII-RødovreII
-https://cdn.livearenasports.com/blobs0/65bb257e688dad0602c225e0/index.m3u8
-#EXTINF:-1, RungstedII-Aarhus
-https://cdn.livearenasports.com/blobs2/65bb257e688dad0602c225e2/index.m3u8
-#EXTINF:-1, TeKi-Raahe-KiekkoII
-https://cdn.livearenasports.com/blobs0/65dc1b102030d602027194fe/index.m3u8
-#EXTINF:-1, SodankylänPallo-KiPS
-https://cdn.livearenasports.com/blobs2/65dac98efdbd4570e05c92d7/index.m3u8
-#EXTINF:-1, KiilatHockey-Ahmat
-https://cdn.livearenasports.com/blobs0/65dc1b102030d602027194fb/index.m3u8
-#EXTINF:-1, PirkanmaaGoons-Sables
-https://cdn.livearenasports.com/blobs2/65dc1b102030d60202719524/index.m3u8
-#EXTINF:-1, RaumaTigers-Eurajoki
-https://cdn.livearenasports.com/blobs0/65dc1b112030d6020271953e/index.m3u8
-#EXTINF:-1, S-KiekkoTeam-KieHa
-https://cdn.livearenasports.com/blobs0/65dc1b112030d60202719533/index.m3u8
-#EXTINF:-1, Kiekko-67Turku-VG-62
-https://cdn.livearenasports.com/blobs0/65dc1b112030d6020271955a/index.m3u8
-#EXTINF:-1, EVUrheilijat-PUS
-https://cdn.livearenasports.com/blobs0/65dc6f6e2030d602027199ad/index.m3u8
+#EXTINF:-1, FrölundaHC-FärjestadBK
+https://cdn.livearenasports.com/blobs2/65daf29afdbd4570e05c9819/index.m3u8
+#EXTINF:-1, PaimionHaka-LaJy
+https://cdn.livearenasports.com/blobs2/65dc1b112030d60202719541/index.m3u8
+#EXTINF:-1, RNKHoci-VG-62Naantali
+https://cdn.livearenasports.com/blobs0/65dc1b112030d60202719550/index.m3u8
+#EXTINF:-1, KJK-Kisa-Eagles
+https://cdn.livearenasports.com/blobs2/65dc1b112030d6020271958c/index.m3u8
+#EXTINF:-1, PelikaanitHT-Urho
+https://cdn.livearenasports.com/blobs1/65dc1b102030d6020271950a/index.m3u8
+#EXTINF:-1, Nikkarit-KOOVEEII
+https://cdn.livearenasports.com/blobs0/65dc1b112030d60202719555/index.m3u8
+#EXTINF:-1, Hokkarit-Kiekko-Ahma
+https://cdn.livearenasports.com/blobs2/65dc1b112030d60202719572/index.m3u8
+#EXTINF:-1, PesäImatra-PEPOHC
+https://cdn.livearenasports.com/blobs0/65dc1b112030d60202719529/index.m3u8
+#EXTINF:-1, Sörhaga/Alingsås-Lejonet
+https://cdn.livearenasports.com/blobs1/65ddcff0af4cbf0afb32f58c/index.m3u8
+#EXTINF:-1, Eisbären-Regensburg
+https://content.aisportswatch.com/278226/master.m3u8
+#EXTINF:-1, Düsseldorf-Schwenningen
+https://content.aisportswatch.com/278512/master.m3u8
+#EXTINF:-1, ESCDresden-Rosenheim
+https://content.aisportswatch.com/278228/master.m3u8
