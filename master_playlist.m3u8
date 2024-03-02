@@ -47,6 +47,12 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, Providence-BostonC
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Rochester-Belleville
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream313/playlist.m3u8
+#EXTINF:-1, Chicago-Cleveland
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream312/playlist.m3u8
+#EXTINF:-1, LehighValley-Utica
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream311/playlist.m3u8
 #EXTINF:-1, SaginawSpirit-Brantford
 https://media-service.fanreachdata.io/edge/ohl/d570223325654375b8c57f1d7692dac3.m3u8
 #EXTINF:-1, Erie-KingstonFrontenacs
@@ -63,6 +69,10 @@ https://media-service.fanreachdata.io/edge/ohl/42d5b3015c084c8486ed9567bc5e8512.
 https://media-service.fanreachdata.io/edge/ohl/00341ed4a0db42ceaaf9d35dd2c064b7.m3u8
 #EXTINF:-1, OwenSound-Guelph
 https://media-service.fanreachdata.io/edge/ohl/863d167a7c2f4347bcd96b3f9cfaeaf6.m3u8
+#EXTINF:-1, Waterloo-USNTDPU18
+https://dea9am5ggks0u.cloudfront.net/11a3f1dacdedfa9feac5690a2e183d1c/0_hd_hls.m3u8
+#EXTINF:-1, McGill-UQTR
+https://d20j3hs5e7fd7n.cloudfront.net/OUA/uqtrvsmcgill-hockey-m-20240301-live.smil/chunklist_b3414000_sleng.m3u8
 #EXTINF:-1, PrinceAlbert-Brandon
 https://media-service.fanreachdata.io/edge/whl/9ab4fb4a0cdf4ff1ad613f07f89ff51b.m3u8
 #EXTINF:-1, Lethbridge-Saskatoon
