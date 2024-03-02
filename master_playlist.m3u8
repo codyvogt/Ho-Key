@@ -1,8 +1,18 @@
 #EXTM3U
-#EXTINF:-1, PrinceAlbert-Brandon
-https://media-service.fanreachdata.io/edge/whl/9ab4fb4a0cdf4ff1ad613f07f89ff51b.m3u8
-#EXTINF:-1, Lethbridge-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/03d74a8eb5e14e77b080ef256eb04874.m3u8
+#EXTINF:-1, Denver-St.CloudState
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0de80c06-ef85-48dd-be35-190d539c716e-hls/master/0de80c06-ef85-48dd-be35-190d539c716e-hls.m3u8
+#EXTINF:-1, UMD-ColoradoCollege
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/42960f21-a4e5-4b00-8c56-fedfff6791c0-hls/master/42960f21-a4e5-4b00-8c56-fedfff6791c0-hls.m3u8
+#EXTINF:-1, LongIsland-ArizonaState
+https://v-emt.pac-12.com/asu2/index.m3u8
+#EXTINF:-1, ColoradoEagles-Calgary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream60/playlist.m3u8
+#EXTINF:-1, CoachellaV.-Bakersfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream65/playlist.m3u8
+#EXTINF:-1, Tucson-Henderson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream64/playlist.m3u8
+#EXTINF:-1, SanDiego-OntarioReign
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream62/playlist.m3u8
 #EXTINF:-1, Edmonton-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/40cde906e3734a9b9fd43309f7e879af.m3u8
 #EXTINF:-1, SwiftCurrent-RedDeer
@@ -19,17 +29,3 @@ https://media-service.fanreachdata.io/edge/whl/4507cea90a1043b99acc0e63489d43ed.
 https://media-service.fanreachdata.io/edge/whl/b357679a70e94462982cfa5913f68063.m3u8
 #EXTINF:-1, MooseJaw-Everett
 https://media-service.fanreachdata.io/edge/whl/594dc4e8c6174e2385386b90324c713b.m3u8
-#EXTINF:-1, Denver-St.CloudState
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0de80c06-ef85-48dd-be35-190d539c716e-hls/master/0de80c06-ef85-48dd-be35-190d539c716e-hls.m3u8
-#EXTINF:-1, UMD-ColoradoCollege
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/42960f21-a4e5-4b00-8c56-fedfff6791c0-hls/master/42960f21-a4e5-4b00-8c56-fedfff6791c0-hls.m3u8
-#EXTINF:-1, LongIsland-ArizonaState
-https://v-emt.pac-12.com/asu2/index.m3u8
-#EXTINF:-1, ColoradoEagles-Calgary
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream60/playlist.m3u8
-#EXTINF:-1, CoachellaV.-Bakersfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream65/playlist.m3u8
-#EXTINF:-1, Tucson-Henderson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream64/playlist.m3u8
-#EXTINF:-1, SanDiego-OntarioReign
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream62/playlist.m3u8
