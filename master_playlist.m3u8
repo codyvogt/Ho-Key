@@ -1,30 +1,14 @@
 #EXTM3U
 #EXTINF:-1, SalavatYulaev-Traktor
 https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:-1, JYPAkatemia-RoKi
-https://cdn.livearenasports.com/blobs1/65d97810fdbd4570e05c9078/index.m3u8
-#EXTINF:-1, S-Kiekko-K-EspooCh
-https://cdn.livearenasports.com/blobs2/65d97811fdbd4570e05c9168/index.m3u8
-#EXTINF:-1, FoPS-KeuPaHT/Diskos
-https://cdn.livearenasports.com/blobs0/65d97811fdbd4570e05c9199/index.m3u8
-#EXTINF:-1, NokianPyry-Hokki
-https://cdn.livearenasports.com/blobs0/65d9780ffdbd4570e05c9055/index.m3u8
-#EXTINF:-1, IPK-GrIFK
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90ce/index.m3u8
-#EXTINF:-1, KOOVEE-SaPKo
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90c4/index.m3u8
-#EXTINF:-1, KalPaAkatemia-Viikingit
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c907a/index.m3u8
-#EXTINF:-1, KJTHaukat-Jokipojat
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90d0/index.m3u8
 #EXTINF:-1, HPK-KalevanPallo
 https://cdn.livearenasports.com/blobs2/65d97810fdbd4570e05c9122/index.m3u8
 #EXTINF:-1, VaasanSport-KooKoo
 https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c9126/index.m3u8
 #EXTINF:-1, TUTO-ImatranKetterä
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c9121/index.m3u8
+https://cdn.livearenasports.com/blobs2/65d97810fdbd4570e05c9121/index.m3u8
 #EXTINF:-1, Kiekko-Espoo-Kärpät
-https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90ab/index.m3u8
+https://cdn.livearenasports.com/blobs2/65d97810fdbd4570e05c90ab/index.m3u8
 #EXTINF:-1, HIFK-LahdenPelicans
 https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c8fd0/index.m3u8
 #EXTINF:-1, JYPJyväskylä-Tappara
@@ -44,7 +28,7 @@ https://cdn.livearenasports.com/blobs1/65daf0b8fdbd4570e05c97e6/index.m3u8
 #EXTINF:-1, LeksandsIF-LuleåHF
 https://cdn.livearenasports.com/blobs0/65dad853fdbd4570e05c9529/index.m3u8
 #EXTINF:-1, AlmtunaIS-SödertäljeSK
-https://cdn.livearenasports.com/blobs0/65daea27fdbd4570e05c9744/index.m3u8
+https://cdn.livearenasports.com/blobs2/65daea27fdbd4570e05c9744/index.m3u8
 #EXTINF:-1, HV71-DjurgårdensIF
 https://cdn.livearenasports.com/blobs0/65daf29afdbd4570e05c9817/index.m3u8
 #EXTINF:-1, BrynäsIF-SkellefteåAIK
