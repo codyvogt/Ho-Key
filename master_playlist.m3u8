@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Denver-St.CloudState
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0de80c06-ef85-48dd-be35-190d539c716e-hls/master/0de80c06-ef85-48dd-be35-190d539c716e-hls.m3u8
-#EXTINF:-1, UMD-ColoradoCollege
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/42960f21-a4e5-4b00-8c56-fedfff6791c0-hls/master/42960f21-a4e5-4b00-8c56-fedfff6791c0-hls.m3u8
-#EXTINF:-1, LongIsland-ArizonaState
-https://v-emt.pac-12.com/asu2/index.m3u8
-#EXTINF:-1, ColoradoEagles-Calgary
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream60/playlist.m3u8
 #EXTINF:-1, CoachellaV.-Bakersfield
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream65/playlist.m3u8
 #EXTINF:-1, Tucson-Henderson
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream64/playlist.m3u8
 #EXTINF:-1, SanDiego-OntarioReign
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream62/playlist.m3u8
-#EXTINF:-1, Edmonton-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/40cde906e3734a9b9fd43309f7e879af.m3u8
-#EXTINF:-1, SwiftCurrent-RedDeer
-https://media-service.fanreachdata.io/edge/whl/05dabf168e914d7db32623d78057d6ef.m3u8
 #EXTINF:-1, Seattle-KamloopsBlazers
 https://media-service.fanreachdata.io/edge/whl/b3a98d0ed69e40a9a6c3d2c76de494f8.m3u8
 #EXTINF:-1, ReginaPats-Portland
