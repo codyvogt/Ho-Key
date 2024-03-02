@@ -1,19 +1,67 @@
 #EXTM3U
-#EXTINF:-1, CoachellaV.-Bakersfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream65/playlist.m3u8
-#EXTINF:-1, Tucson-Henderson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream64/playlist.m3u8
-#EXTINF:-1, SanDiego-OntarioReign
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream62/playlist.m3u8
-#EXTINF:-1, Seattle-KamloopsBlazers
-https://media-service.fanreachdata.io/edge/whl/b3a98d0ed69e40a9a6c3d2c76de494f8.m3u8
-#EXTINF:-1, ReginaPats-Portland
-https://media-service.fanreachdata.io/edge/whl/53a8fb43003541c3a2009c9d63eb30f9.m3u8
-#EXTINF:-1, Spokane-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/cf76ef97da6047af8a12166fe4226556.m3u8
-#EXTINF:-1, Kelowna-Vancouver
-https://media-service.fanreachdata.io/edge/whl/4507cea90a1043b99acc0e63489d43ed.m3u8
-#EXTINF:-1, VictoriaRoyals-Tri-City
-https://media-service.fanreachdata.io/edge/whl/b357679a70e94462982cfa5913f68063.m3u8
-#EXTINF:-1, MooseJaw-Everett
-https://media-service.fanreachdata.io/edge/whl/594dc4e8c6174e2385386b90324c713b.m3u8
+#EXTINF:-1, LapuanVirkiä-IFKLepplax
+https://cdn.livearenasports.com/blobs1/65d97810fdbd4570e05c9109/index.m3u8
+#EXTINF:-1, TornionIHC-JHT
+https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c902d/index.m3u8
+#EXTINF:-1, Kiekko-Ahma-TuToTeam
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c908c/index.m3u8
+#EXTINF:-1, KJTHaukat-K-EspooIV
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c908a/index.m3u8
+#EXTINF:-1, KOOVEEChallenger-Spirit
+https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c8fb0/index.m3u8
+#EXTINF:-1, TPSAkatemia-KPK
+https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c9001/index.m3u8
+#EXTINF:-1, ViikingitAk-Warriors
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c907b/index.m3u8
+#EXTINF:-1, K-Vantaa/T-K-EspooIII
+https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c8fa0/index.m3u8
+#EXTINF:-1, EVUTeam-K-KissatAk
+https://cdn.livearenasports.com/blobs0/65d9780ffdbd4570e05c9045/index.m3u8
+#EXTINF:-1, IlvesAkatemia-SaloHT
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c908e/index.m3u8
+#EXTINF:-1, HIFKCh-Kiekko-EspooCh
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90a2/index.m3u8
+#EXTINF:-1, TurkuHC-TPSAkatemia
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90c2/index.m3u8
+#EXTINF:-1, Púchov-PovažskáBystrica
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/x18/stream26/playlist.m3u8
+#EXTINF:-1, JYPAkatemia-RoKi
+https://cdn.livearenasports.com/blobs1/65d97810fdbd4570e05c9078/index.m3u8
+#EXTINF:-1, S-Kiekko-K-EspooCh
+https://cdn.livearenasports.com/blobs0/65d97811fdbd4570e05c9168/index.m3u8
+#EXTINF:-1, FoPS-KeuPaHT/Diskos
+https://cdn.livearenasports.com/blobs0/65d97811fdbd4570e05c9199/index.m3u8
+#EXTINF:-1, NokianPyry-Hokki
+https://cdn.livearenasports.com/blobs0/65d9780ffdbd4570e05c9055/index.m3u8
+#EXTINF:-1, IPK-GrIFK
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90ce/index.m3u8
+#EXTINF:-1, KOOVEE-SaPKo
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90c4/index.m3u8
+#EXTINF:-1, KalPaAkatemia-Viikingit
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c907a/index.m3u8
+#EXTINF:-1, KJTHaukat-Jokipojat
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90d0/index.m3u8
+#EXTINF:-1, HPK-KalevanPallo
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c9122/index.m3u8
+#EXTINF:-1, VaasanSport-KooKoo
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c9126/index.m3u8
+#EXTINF:-1, TUTO-ImatranKetterä
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c9121/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-Kärpät
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90ab/index.m3u8
+#EXTINF:-1, HIFK-LahdenPelicans
+https://cdn.livearenasports.com/blobs0/65d9780efdbd4570e05c8fd0/index.m3u8
+#EXTINF:-1, JYPJyväskylä-Tappara
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c9087/index.m3u8
+#EXTINF:-1, SaiPa-HelsinginJokerit
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c90b3/index.m3u8
+#EXTINF:-1, Lukko-Kiekko-Vantaa
+https://cdn.livearenasports.com/blobs0/65d97810fdbd4570e05c9139/index.m3u8
+#EXTINF:-1, MoDo-LinköpingHC
+https://cdn.livearenasports.com/blobs0/65daeb1cfdbd4570e05c975b/index.m3u8
+#EXTINF:-1, IKOskarshamn-Västerås
+https://cdn.livearenasports.com/blobs0/65dadee5fdbd4570e05c9649/index.m3u8
+#EXTINF:-1, TimråIK-ÖrebroHK
+https://cdn.livearenasports.com/blobs0/65daedf0fdbd4570e05c97ac/index.m3u8
+#EXTINF:-1, MalmöRedhawks-MoraIK
+https://cdn.livearenasports.com/blobs0/65daf0b8fdbd4570e05c97e6/index.m3u8
