@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Texas-ManitobaMoose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream92/playlist.m3u8
-#EXTINF:-1, Hartford-Providence
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream91/playlist.m3u8
-#EXTINF:-1, Bridgeport-Springfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream94/playlist.m3u8
 #EXTINF:-1, IowaWild-Milwaukee
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
-#EXTINF:-1, Shawinigan-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/c7af875c264a4977b22eaec9572626aa.m3u8
-#EXTINF:-1, Chicoutimi-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/c33f12c290194e738c82692d53aec1a7.m3u8
 #EXTINF:-1, Sherbrooke-Drummond.
 https://media-service.fanreachdata.io/edge/lhjmq/e54ffa23fd734f7aa21600ebd53f4cbb.m3u8
 #EXTINF:-1, GreenBay-USNTDPU18
