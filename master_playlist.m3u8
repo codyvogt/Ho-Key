@@ -3,49 +3,19 @@
 https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:-1, MetallurgMg-Amur
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream308/playlist.m3u8
-#EXTINF:-1, MoDoHockey-ÖrebroHK
-https://cdn.livearenasports.com/blobs0/65dc3c9e2030d60202719811/index.m3u8
-#EXTINF:-1, LeksandsIF-Skellefteå
-https://cdn.livearenasports.com/blobs2/65dc3c9e2030d60202719810/index.m3u8
-#EXTINF:-1, IKOskarshamn-MoraIK
-https://cdn.livearenasports.com/blobs2/65dc44192030d602027198a7/index.m3u8
-#EXTINF:-1, TimråIK-LinköpingHC
-https://cdn.livearenasports.com/blobs1/65dc3f6b2030d60202719848/index.m3u8
-#EXTINF:-1, BrynäsIF-LuleåHF
-https://cdn.livearenasports.com/blobs1/65dc32462030d602027196fa/index.m3u8
-#EXTINF:-1, FrölundaHC-Djurgården
-https://cdn.livearenasports.com/blobs0/65dc44192030d6020271989f/index.m3u8
-#EXTINF:-1, HV71-FärjestadBK
-https://cdn.livearenasports.com/blobs1/65dc44192030d602027198a6/index.m3u8
-#EXTINF:-1, IFMalmö-VästeråsIK
-https://cdn.livearenasports.com/blobs1/65dc42382030d60202719874/index.m3u8
-#EXTINF:-1, AIK-SödertäljeSK
-https://cdn.livearenasports.com/blobs0/65dc40572030d6020271985b/index.m3u8
-#EXTINF:-1, Eisbären-Regensburg
-https://content.aisportswatch.com/278231/master.m3u8
-#EXTINF:-1, ESCDresden-Rosenheim
-https://content.aisportswatch.com/278230/master.m3u8
-#EXTINF:-1, Krefeld-KölnerJunghaie
-https://content.aisportswatch.com/278232/master.m3u8
-#EXTINF:-1, Düsseldorf-Schwenningen
-https://content.aisportswatch.com/278233/master.m3u8
-#EXTINF:-1, SudretsHC-Nynäshamn
-https://cdn.livearenasports.com/blobs2/65dc38272030d60202719789/index.m3u8
-#EXTINF:-1, MG/ArvidsjaurHC-StiL
-https://cdn.livearenasports.com/blobs0/65ded098af4cbf0afb32f6ee/index.m3u8
-#EXTINF:-1, KungsörsIK-VikingHC
-https://cdn.livearenasports.com/blobs0/65dc2ca52030d602027196ac/index.m3u8
-#EXTINF:-1, ÅmålsSK-Smedjebacken
-https://cdn.livearenasports.com/blobs0/65dc38272030d60202719788/index.m3u8
-#EXTINF:-1, LindefalletsSK-HoforsHC
-https://cdn.livearenasports.com/blobs0/65dc31542030d602027196ea/index.m3u8
-#EXTINF:-1, LerumsBK-Virserum
-https://cdn.livearenasports.com/blobs0/65ddcff0af4cbf0afb32f596/index.m3u8
-#EXTINF:-1, VG-62-TuToTeam
-https://cdn.livearenasports.com/blobs0/65d5838efdbd4570e05c87a2/index.m3u8
-#EXTINF:-1, HarjunKiekko-HYRI
-https://cdn.livearenasports.com/blobs0/65dac98ffdbd4570e05c93d2/index.m3u8
-#EXTINF:-1, KPK-KOOVEEChallenger
-https://cdn.livearenasports.com/blobs0/65dac98ffdbd4570e05c93d3/index.m3u8
+#EXTINF:-1, LöwenFrankfurt-Iserlohn
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Augsburg-Düsseldorf
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
+#EXTINF:-1, Bremerhaven-Mannheim
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
+#EXTINF:-1, Ingolstadt-KölnerHaie
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
+#EXTINF:-1, München-EisbärenBerlin
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
+#EXTINF:-1, Schwenningen-Straubing
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, Wolfsburg-Nürnberg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
 #EXTINF:-1, HKKralupyn.V.-Klatovy
 https://cdn.livearenasports.com/blobs1/65db1edffdbd4570e05c985f/index.m3u8
