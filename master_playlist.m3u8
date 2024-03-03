@@ -1,47 +1,11 @@
 #EXTM3U
-#EXTINF:-1, München-EisbärenBerlin
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, Augsburg-Düsseldorf
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
 #EXTINF:-1, SKA-TorpedoNizhny
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1, VG-62II-Kiekko-67
-https://cdn.livearenasports.com/blobs2/65dc6f6e2030d602027199a3/index.m3u8
-#EXTINF:-1, PieksämäenPS-KK-81
-https://cdn.livearenasports.com/blobs1/65dc6f6d2030d60202719992/index.m3u8
-#EXTINF:-1, K-Kissat-HCKSalamat
-https://cdn.livearenasports.com/blobs0/65dc372e2030d6020271975c/index.m3u8
-#EXTINF:-1, KiPS-SoPaSodankylä
-https://cdn.livearenasports.com/blobs1/65dac98dfdbd4570e05c928a/index.m3u8
-#EXTINF:-1, NokiaSables-Goons
-https://cdn.livearenasports.com/blobs2/65dc1b102030d6020271951d/index.m3u8
-#EXTINF:-1, HCPJ-PirkkalanPingviinit
-https://cdn.livearenasports.com/blobs0/65db2bfd21a34c1ba559d49f/index.m3u8
-#EXTINF:-1, ChiefsTurku-Kuparikiekko
-https://cdn.livearenasports.com/blobs2/65dc1b112030d6020271954c/index.m3u8
-#EXTINF:-1, PKS-LuvianKiekko-82
-https://cdn.livearenasports.com/blobs2/65db0fddfdbd4570e05c9852/index.m3u8
-#EXTINF:-1, Etelä-Portimo-72-YJK
-https://cdn.livearenasports.com/blobs0/65db1ded21a34c1ba559d497/index.m3u8
-#EXTINF:-1, LeKi-75-ValkealanKiekko
-https://cdn.livearenasports.com/blobs0/65dc4c452030d602027198f5/index.m3u8
-#EXTINF:-1, GladiatorsHT-SuKiKa
-https://cdn.livearenasports.com/blobs0/65dc1b102030d6020271950b/index.m3u8
-#EXTINF:-1, KuhmonKivaHT-TIHC
-https://cdn.livearenasports.com/blobs1/65dc1b112030d60202719536/index.m3u8
-#EXTINF:-1, Jää-Ahmat-GrIFK
-https://cdn.livearenasports.com/blobs0/65e00f8daf4cbf0afb32f8e9/index.m3u8
-#EXTINF:-1, KOOVEEII-Nikkarit
-https://cdn.livearenasports.com/blobs0/65dc1b112030d60202719561/index.m3u8
-#EXTINF:-1, Stjernen-Vålerenga
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream313/playlist.m3u8
-#EXTINF:-1, SlovanBratislava-Nitra
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream352/playlist.m3u8
-#EXTINF:-1, NackaHK-VärmdöHC
-https://cdn.livearenasports.com/blobs1/65dc38272030d602027197a2/index.m3u8
-#EXTINF:-1, HCLidköping-BäckenHC
-https://cdn.livearenasports.com/blobs2/65e048beaf4cbf0afb32fa2e/index.m3u8
-#EXTINF:-1, VänersborgsHC-Grästorp
-https://cdn.livearenasports.com/blobs1/65e048beaf4cbf0afb32fa32/index.m3u8
-#EXTINF:-1, Pantern-Boro/Vetlanda
-https://cdn.livearenasports.com/blobs0/65e048beaf4cbf0afb32fa2f/index.m3u8
+#EXTINF:-1, AIK-SödertäljeSK
+https://cdn.livearenasports.com/blobs2/65dc40572030d6020271985b/index.m3u8
+#EXTINF:-1, KeuPaHT/Diskos-GrIFK
+https://cdn.livearenasports.com/blobs1/65dac990fdbd4570e05c942c/index.m3u8
+#EXTINF:-1, KovlandsIshF-KB65HK
+https://cdn.livearenasports.com/blobs0/65dc36f92030d60202719741/index.m3u8
+#EXTINF:-1, BrunfloIK-SollefteåHK
+https://cdn.livearenasports.com/blobs2/65dc3d862030d60202719824/index.m3u8
