@@ -1,10 +1,26 @@
 #EXTM3U
-#EXTINF:-1, CapeBreton-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/46e82828d4514bc0a0e2f8abfeb1b449.m3u8
-#EXTINF:-1, SaintJohn-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/728d71e85f0d41bdb46f753e42d18423.m3u8
+#EXTINF:-1, Rochester-Belleville
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
+#EXTINF:-1, Rockford-GrandRapids
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
+#EXTINF:-1, Utica-HersheyBears
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream13/playlist.m3u8
+#EXTINF:-1, Bridgeport-LehighValley
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream14/playlist.m3u8
+#EXTINF:-1, LavalRocket-Springfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream15/playlist.m3u8
+#EXTINF:-1, CoachellaValley-SanJose
+https://hockeytech-west.akamaized.net/hls/live/2027386/game-1035874-Home-f5679592-6966-4dcd-af7b-93fb6f2ad0d0/main.m3u8
 #EXTINF:-1, Chicoutimi-RNHuskies
 https://media-service.fanreachdata.io/edge/lhjmq/22ececc0d0db47dbab2de047e67864a1.m3u8
+#EXTINF:-1, London-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/745c7fac7af84d94b3859592f4400656.m3u8
+#EXTINF:-1, Saginaw-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/a390ab038c3749a4b9344b42ab6dcc1f.m3u8
+#EXTINF:-1, Oshawa-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/641bfce67b164342afa1df5bf2b73df0.m3u8
+#EXTINF:-1, Madison-USNTDPU18
+https://d20qfc3nffhk8d.cloudfront.net/3cef6f6b68b2d9ad67d6968bcead9716/0_hd_hls.m3u8
 #EXTINF:-1, Maine-Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Union-Colgate
@@ -29,34 +45,8 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d1b2b022-5028-4b80-85a5-55d21
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6ba98bda-94e1-4054-8bde-13c578113c90-hls/master/6ba98bda-94e1-4054-8bde-13c578113c90-hls.m3u8
 #EXTINF:-1, UMD-ColoradoCollege
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f3d72bcc-356d-4943-aa3d-1c5eab531709-hls/master/f3d72bcc-356d-4943-aa3d-1c5eab531709-hls.m3u8
-#EXTINF:-1, Vermont-NewHampshire
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Merrimack-Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Charlotte-W-B/Scranton
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream23/playlist.m3u8
-#EXTINF:-1, Rochester-Belleville
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
-#EXTINF:-1, Rockford-GrandRapids
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
-#EXTINF:-1, Utica-HersheyBears
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream13/playlist.m3u8
-#EXTINF:-1, Bridgeport-LehighValley
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream14/playlist.m3u8
-#EXTINF:-1, LavalRocket-Springfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream15/playlist.m3u8
-#EXTINF:-1, CoachellaValley-SanJose
-https://hockeytech-west.akamaized.net/hls/live/2027386/game-1035874-Home-f5679592-6966-4dcd-af7b-93fb6f2ad0d0/main.m3u8
-#EXTINF:-1, Brock-TorontoMU
-https://live-004.vip.visaic.tv/origin/oua/tmuvsbrock-hockey-m-20240302/tmuvsbrock-hockey-m-20240302-target/tmuvsbrock-hockey-m-20240302-target-1080p30-QkB1fkzl_live.m3u8
-#EXTINF:-1, London-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/745c7fac7af84d94b3859592f4400656.m3u8
-#EXTINF:-1, Saginaw-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/a390ab038c3749a4b9344b42ab6dcc1f.m3u8
-#EXTINF:-1, Oshawa-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/641bfce67b164342afa1df5bf2b73df0.m3u8
-#EXTINF:-1, Madison-USNTDPU18
-https://d20qfc3nffhk8d.cloudfront.net/3cef6f6b68b2d9ad67d6968bcead9716/0_hd_hls.m3u8
 #EXTINF:-1, Saskatoon-Brandon
 https://media-service.fanreachdata.io/edge/whl/afa0705f6b0e4175a60a5bae99e2af8e.m3u8
 #EXTINF:-1, Lethbridge-PrinceAlbert
