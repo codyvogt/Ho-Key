@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ColoradoEagles-Calgary
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
 #EXTINF:-1, Texas-ManitobaMoose
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream92/playlist.m3u8
 #EXTINF:-1, Hartford-Providence
@@ -9,30 +7,18 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream94/playlist.m3u8
 #EXTINF:-1, IowaWild-Milwaukee
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
-#EXTINF:-1, CapeBreton-ABTitan
-https://media-service.fanreachdata.io/edge/lhjmq/f477154b8b56457b8ba293fc8c9c218d.m3u8
 #EXTINF:-1, Shawinigan-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/c7af875c264a4977b22eaec9572626aa.m3u8
 #EXTINF:-1, Chicoutimi-Val-d'Or
 https://media-service.fanreachdata.io/edge/lhjmq/c33f12c290194e738c82692d53aec1a7.m3u8
 #EXTINF:-1, Sherbrooke-Drummond.
 https://media-service.fanreachdata.io/edge/lhjmq/e54ffa23fd734f7aa21600ebd53f4cbb.m3u8
-#EXTINF:-1, ErieOtters-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/a3e1082dc5b948b197f16f33293e886a.m3u8
-#EXTINF:-1, Saginaw-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/3a52d76894fa4f78954a93af679b2dd1.m3u8
-#EXTINF:-1, Kingston-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/76d55edfa1724ae59075c88c87be1d21.m3u8
-#EXTINF:-1, Sarnia-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/6d1681092af94ccea4ee1a4d2ed1f33a.m3u8
+#EXTINF:-1, GreenBay-USNTDPU18
+https://d3ebz7lnfkfkbh.cloudfront.net/f061b116bef11178052ecbf7bdf30b05/0_hd_hls.m3u8
 #EXTINF:-1, Mississauga-Windsor
 https://media-service.fanreachdata.io/edge/ohl/2e0677788df846b8ac85e020de014eb0.m3u8
 #EXTINF:-1, PtboPetes-OwenSound
 https://media-service.fanreachdata.io/edge/ohl/433a0da5fbce4d70b5ac3ffcbc7e0743.m3u8
-#EXTINF:-1, LiegeBulldogs-Leuven
-https://cdn.livearenasports.com/blobs2/65d326be975ad70bbdf32378/index.m3u8
-#EXTINF:-1, GreenBay-USNTDPU18
-https://d3ebz7lnfkfkbh.cloudfront.net/f061b116bef11178052ecbf7bdf30b05/0_hd_hls.m3u8
 #EXTINF:-1, NewHampshire-BostonC
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Calgary-MedicineHat
