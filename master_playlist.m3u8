@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Saskatoon-Brandon
-https://media-service.fanreachdata.io/edge/whl/afa0705f6b0e4175a60a5bae99e2af8e.m3u8
-#EXTINF:-1, Lethbridge-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/3bf4ca9e7f1c46b5b0913d1cb9d73dcf.m3u8
+#EXTINF:-1, CoachellaValley-SanJose
+https://hockeytech-west.akamaized.net/hls/live/2027386/game-1035874-Home-f5679592-6966-4dcd-af7b-93fb6f2ad0d0/main.m3u8
+#EXTINF:-1, Abbotsford-Bakersfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
+#EXTINF:-1, Tucson-Henderson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
 #EXTINF:-1, Vancouver-Kamloops
 https://media-service.fanreachdata.io/edge/whl/3ed9ee4a423840e1846216d29c7a3c13.m3u8
 #EXTINF:-1, VictoriaRoyals-Portland
@@ -19,11 +21,7 @@ https://media-service.fanreachdata.io/edge/whl/f0b7b9aa21694a34b85e6dbfa3be6d14.
 https://media-service.fanreachdata.io/edge/whl/4549739d1d51432ca2831aae13c5d5cc.m3u8
 #EXTINF:-1, ReginaPats-Everett
 https://media-service.fanreachdata.io/edge/whl/3b582808c9154256a2baceeaaa716320.m3u8
-#EXTINF:-1, UMD-ColoradoCollege
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f3d72bcc-356d-4943-aa3d-1c5eab531709-hls/master/f3d72bcc-356d-4943-aa3d-1c5eab531709-hls.m3u8
-#EXTINF:-1, CoachellaValley-SanJose
-https://hockeytech-west.akamaized.net/hls/live/2027386/game-1035874-Home-f5679592-6966-4dcd-af7b-93fb6f2ad0d0/main.m3u8
-#EXTINF:-1, Abbotsford-Bakersfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
-#EXTINF:-1, Tucson-Henderson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
+#EXTINF:-1, IserlohnerEC-Bietigheim
+https://content.aisportswatch.com/278150/master.m3u8
+#EXTINF:-1, EVLandshut-Ingolstadt
+https://content.aisportswatch.com/277484/master.m3u8
