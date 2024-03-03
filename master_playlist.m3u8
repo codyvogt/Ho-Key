@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1, SKA-TorpedoNizhny
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1, KAC-PioneersVorarlberg
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream98/playlist.m3u8
 #EXTINF:-1, FehérvárAV19-Pustertal
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream104/playlist.m3u8
 #EXTINF:-1, BolzanoFoxes-ECVSV
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream107/playlist.m3u8
-#EXTINF:-1, GladiatorsHT-SuKiKa
-https://cdn.livearenasports.com/blobs0/65dc1b102030d6020271950b/index.m3u8
-#EXTINF:-1, KOOVEEII-Nikkarit
-https://cdn.livearenasports.com/blobs1/65dc1b112030d60202719561/index.m3u8
-#EXTINF:-1, Titaanit-MunsalaIK
-https://cdn.livearenasports.com/blobs1/65dac98efdbd4570e05c92f4/index.m3u8
+#EXTINF:-1, HCValpellice-Merano
+https://cdn.livearenasports.com/blobs1/65649c7655e11f30dd0075f0/index.m3u8
+#EXTINF:-1, Pergine-TrentoSilvelox
+https://cdn.livearenasports.com/blobs1/655632e19939214221b8119b/index.m3u8
