@@ -1,28 +1,8 @@
 #EXTM3U
-#EXTINF:-1, CoachellaValley-SanJose
-https://hockeytech-west.akamaized.net/hls/live/2027386/game-1035874-Home-f5679592-6966-4dcd-af7b-93fb6f2ad0d0/main.m3u8
-#EXTINF:-1, Abbotsford-Bakersfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
-#EXTINF:-1, Tucson-Henderson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
-#EXTINF:-1, VictoriaRoyals-Portland
-https://media-service.fanreachdata.io/edge/whl/3d98101698c743e5a5ec30453ea46782.m3u8
-#EXTINF:-1, Spokane-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/8cdd3281d501461ba5c3a4c9a22bb116.m3u8
-#EXTINF:-1, SwiftCurrent-Edmonton
-https://media-service.fanreachdata.io/edge/whl/abd00431b14d4d109dc4f2e5a045d0f6.m3u8
-#EXTINF:-1, MooseJaw-Seattle
-https://media-service.fanreachdata.io/edge/whl/f0b7b9aa21694a34b85e6dbfa3be6d14.m3u8
-#EXTINF:-1, ReginaPats-Everett
-https://media-service.fanreachdata.io/edge/whl/3b582808c9154256a2baceeaaa716320.m3u8
 #EXTINF:-1, IserlohnerEC-Bietigheim
 https://content.aisportswatch.com/278150/master.m3u8
 #EXTINF:-1, EVLandshut-Ingolstadt
 https://content.aisportswatch.com/277484/master.m3u8
-#EXTINF:-1, WarrantiMahtikukot-JyKi
-https://cdn.livearenasports.com/blobs0/65dc1b102030d60202719514/index.m3u8
-#EXTINF:-1, UrhoII-VirkiäII
-https://cdn.livearenasports.com/blobs0/65dc1b102030d60202719518/index.m3u8
 #EXTINF:-1, MoDoHockey-ÖrebroHK
 https://cdn.livearenasports.com/blobs0/65dc3c9e2030d60202719811/index.m3u8
 #EXTINF:-1, LeksandsIF-Skellefteå
