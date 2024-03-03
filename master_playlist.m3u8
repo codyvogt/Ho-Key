@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, AvangardOmsk-Lada
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:-1, MetallurgMg-Amur
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream308/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
+#EXTINF:-1, SKA-TorpedoNizhny
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1, LöwenFrankfurt-Iserlohn
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, Augsburg-Düsseldorf
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
 #EXTINF:-1, Bremerhaven-Mannheim
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
 #EXTINF:-1, Ingolstadt-KölnerHaie
@@ -17,5 +15,23 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Wolfsburg-Nürnberg
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
-#EXTINF:-1, HKKralupyn.V.-Klatovy
-https://cdn.livearenasports.com/blobs1/65db1edffdbd4570e05c985f/index.m3u8
+#EXTINF:-1, Augsburg-Düsseldorf
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
+#EXTINF:-1, IFMalmö-VästeråsIK
+https://cdn.livearenasports.com/blobs1/65dc42382030d60202719874/index.m3u8
+#EXTINF:-1, AIK-SödertäljeSK
+https://cdn.livearenasports.com/blobs0/65dc40572030d6020271985b/index.m3u8
+#EXTINF:-1, LempäälänKisa-Jokipojat
+https://cdn.livearenasports.com/blobs1/65dac990fdbd4570e05c9438/index.m3u8
+#EXTINF:-1, KajaaninHokki-Viikingit
+https://cdn.livearenasports.com/blobs0/65dac990fdbd4570e05c9430/index.m3u8
+#EXTINF:-1, NokianPyry-KalPaAk
+https://cdn.livearenasports.com/blobs2/65dac990fdbd4570e05c9469/index.m3u8
+#EXTINF:-1, JYPAk-Kiekko-EspooCh
+https://cdn.livearenasports.com/blobs0/65dac990fdbd4570e05c9435/index.m3u8
+#EXTINF:-1, KeuPaHT/Diskos-GrIFK
+https://cdn.livearenasports.com/blobs0/65dac990fdbd4570e05c942c/index.m3u8
+#EXTINF:-1, PirátiChomutov-Chrudim
+https://cdn.livearenasports.com/blobs1/65dc544b2030d60202719915/index.m3u8
+#EXTINF:-1, SlaviaPraha-MDŠumperk
+https://cdn.livearenasports.com/blobs0/65c38e1554bb153d1f887bd1/index.m3u8
