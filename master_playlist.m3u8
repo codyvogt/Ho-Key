@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1, EVLandshut-Ingolstadt
-https://content.aisportswatch.com/277484/master.m3u8
+#EXTINF:-1, AvangardOmsk-Lada
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
+#EXTINF:-1, MetallurgMg-Amur
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream308/playlist.m3u8
+#EXTINF:-1, MoDoHockey-ÖrebroHK
+https://cdn.livearenasports.com/blobs0/65dc3c9e2030d60202719811/index.m3u8
+#EXTINF:-1, LeksandsIF-Skellefteå
+https://cdn.livearenasports.com/blobs2/65dc3c9e2030d60202719810/index.m3u8
+#EXTINF:-1, IKOskarshamn-MoraIK
+https://cdn.livearenasports.com/blobs2/65dc44192030d602027198a7/index.m3u8
+#EXTINF:-1, TimråIK-LinköpingHC
+https://cdn.livearenasports.com/blobs1/65dc3f6b2030d60202719848/index.m3u8
+#EXTINF:-1, BrynäsIF-LuleåHF
+https://cdn.livearenasports.com/blobs1/65dc32462030d602027196fa/index.m3u8
+#EXTINF:-1, FrölundaHC-Djurgården
+https://cdn.livearenasports.com/blobs0/65dc44192030d6020271989f/index.m3u8
+#EXTINF:-1, HV71-FärjestadBK
+https://cdn.livearenasports.com/blobs1/65dc44192030d602027198a6/index.m3u8
+#EXTINF:-1, IFMalmö-VästeråsIK
+https://cdn.livearenasports.com/blobs1/65dc42382030d60202719874/index.m3u8
+#EXTINF:-1, AIK-SödertäljeSK
+https://cdn.livearenasports.com/blobs0/65dc40572030d6020271985b/index.m3u8
 #EXTINF:-1, Eisbären-Regensburg
 https://content.aisportswatch.com/278231/master.m3u8
 #EXTINF:-1, ESCDresden-Rosenheim
@@ -9,24 +29,6 @@ https://content.aisportswatch.com/278230/master.m3u8
 https://content.aisportswatch.com/278232/master.m3u8
 #EXTINF:-1, Düsseldorf-Schwenningen
 https://content.aisportswatch.com/278233/master.m3u8
-#EXTINF:-1, MoDoHockey-ÖrebroHK
-https://cdn.livearenasports.com/blobs0/65dc3c9e2030d60202719811/index.m3u8
-#EXTINF:-1, LeksandsIF-Skellefteå
-https://cdn.livearenasports.com/blobs2/65dc3c9e2030d60202719810/index.m3u8
-#EXTINF:-1, IKOskarshamn-MoraIK
-https://cdn.livearenasports.com/blobs0/65dc44192030d602027198a7/index.m3u8
-#EXTINF:-1, TimråIK-LinköpingHC
-https://cdn.livearenasports.com/blobs0/65dc3f6b2030d60202719848/index.m3u8
-#EXTINF:-1, BrynäsIF-LuleåHF
-https://cdn.livearenasports.com/blobs0/65dc32462030d602027196fa/index.m3u8
-#EXTINF:-1, FrölundaHC-Djurgården
-https://cdn.livearenasports.com/blobs0/65dc44192030d6020271989f/index.m3u8
-#EXTINF:-1, HV71-FärjestadBK
-https://cdn.livearenasports.com/blobs0/65dc44192030d602027198a6/index.m3u8
-#EXTINF:-1, IFMalmö-VästeråsIK
-https://cdn.livearenasports.com/blobs0/65dc42382030d60202719874/index.m3u8
-#EXTINF:-1, AIK-SödertäljeSK
-https://cdn.livearenasports.com/blobs0/65dc40572030d6020271985b/index.m3u8
 #EXTINF:-1, SudretsHC-Nynäshamn
 https://cdn.livearenasports.com/blobs2/65dc38272030d60202719789/index.m3u8
 #EXTINF:-1, MG/ArvidsjaurHC-StiL
