@@ -1,19 +1,11 @@
 #EXTM3U
-#EXTINF:-1, IowaWild-Milwaukee
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
-#EXTINF:-1, Sherbrooke-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/e54ffa23fd734f7aa21600ebd53f4cbb.m3u8
-#EXTINF:-1, GreenBay-USNTDPU18
-https://d3ebz7lnfkfkbh.cloudfront.net/f061b116bef11178052ecbf7bdf30b05/0_hd_hls.m3u8
-#EXTINF:-1, Mississauga-Windsor
-https://media-service.fanreachdata.io/edge/ohl/2e0677788df846b8ac85e020de014eb0.m3u8
 #EXTINF:-1, PtboPetes-OwenSound
 https://media-service.fanreachdata.io/edge/ohl/433a0da5fbce4d70b5ac3ffcbc7e0743.m3u8
-#EXTINF:-1, NewHampshire-BostonC
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Calgary-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/13575d0928514132a0982a55c5507354.m3u8
 #EXTINF:-1, MooseJaw-Wenatchee
 https://media-service.fanreachdata.io/edge/whl/ed9cd209dcc14ef49f850248601b02bd.m3u8
 #EXTINF:-1, Seattle-Vancouver
 https://media-service.fanreachdata.io/edge/whl/6630b380e061432bbe0f741b452ab11f.m3u8
+#EXTINF:-1, UQTR-McGill
+https://live-004.vip.visaic.tv/origin/oua/mcgillvsuqtr-hockey-m-20240303/mcgillvsuqtr-hockey-m-20240303-target/mcgillvsuqtr-hockey-m-20240303-target-1080p30-OgzlSpqZ_live.m3u8
