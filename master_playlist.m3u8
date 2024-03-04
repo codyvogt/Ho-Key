@@ -3,6 +3,10 @@
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1, Avtomobilist-AkBars
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, CSKAMoscow-Lokomotiv
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, Severstal-Spartak
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1, SaPKo-LapuanVirkiä
 https://cdn.livearenasports.com/blobs0/65dc1b0f2030d602027194f2/index.m3u8
 #EXTINF:-1, LiikunnanRiemu-LeKi
