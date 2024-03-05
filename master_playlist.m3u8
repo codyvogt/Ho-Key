@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1, Ottawa-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/d2544abbed204269be3ae17293f6ef51.m3u8
+#EXTINF:-1, Barrie-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/ad0bb29672eb4cdfa93f0560e1deb3d7.m3u8
+#EXTINF:-1, Brandon-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/f66c4ae9e39f478b9878767514ab6726.m3u8
+#EXTINF:-1, Victoria-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/dcb607a89a284afb97638fb297f4b427.m3u8
