@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1, TorpedoNizhny-SKA
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, Kiekko-Espoo-KalPa
-https://cdn.livearenasports.com/blobs0/65e1610dfb7394131c22df3c/index.m3u8
-#EXTINF:-1, HelsinginIFK-HPK
-https://cdn.livearenasports.com/blobs2/65e6cad6fb7394131c22f492/index.m3u8
-#EXTINF:-1, JäähonkaEspoo-Tuuski
-https://cdn.livearenasports.com/blobs1/65e2b291fb7394131c22e615/index.m3u8
-#EXTINF:-1, GrIFK-Jää-Ahmat
-https://cdn.livearenasports.com/blobs1/65e2b291fb7394131c22e61e/index.m3u8
 #EXTINF:-1, ÚstínadLabem-Benátky
 https://cdn.livearenasports.com/blobs2/65e43d48fb7394131c22edc9/index.m3u8
