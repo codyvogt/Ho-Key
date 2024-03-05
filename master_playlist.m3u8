@@ -1,23 +1,7 @@
 #EXTM3U
-#EXTINF:-1, RedBullJrs-Unterland
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream359/playlist.m3u8
-#EXTINF:-1, Augsburg-Kaufbeuren
-https://content.aisportswatch.com/278511/master.m3u8
-#EXTINF:-1, Bålsta-Vallentuna-Ormsta
-https://cdn.livearenasports.com/blobs2/65e08100af4cbf0afb32fb0e/index.m3u8
-#EXTINF:-1, HammarbyIF-VärmdöHC
-https://cdn.livearenasports.com/blobs1/65e6fc60fb7394131c22f524/index.m3u8
-#EXTINF:-1, Hvidovre-GentofteStars
-https://cdn.livearenasports.com/blobs0/65a36a806e331848ed6dc5eb/index.m3u8
-#EXTINF:-1, NyköpingsSK-Tyresö
-https://cdn.livearenasports.com/blobs0/65e17e26fb7394131c22e01e/index.m3u8
-#EXTINF:-1, EppanPirates-Alleghe
-https://cdn.livearenasports.com/blobs2/65dc8aa32030d60202719a7b/index.m3u8
+#EXTINF:-1, HYCHerentals-Mechelen
+https://cdn.livearenasports.com/blobs2/65d9be3cfdbd4570e05c9246/index.m3u8
 #EXTINF:-1, HockeyComo-Pergine
 https://cdn.livearenasports.com/blobs2/65dc8aa42030d60202719a7f/index.m3u8
 #EXTINF:-1, Valdifiemme-SVKaltern
 https://cdn.livearenasports.com/blobs1/65dc8aa52030d60202719a81/index.m3u8
-#EXTINF:-1, Karhu-Kissat-EVU
-https://cdn.livearenasports.com/blobs2/65e5558ffb7394131c22eeac/index.m3u8
-#EXTINF:-1, HYCHerentals-Mechelen
-https://cdn.livearenasports.com/blobs2/65d9be3cfdbd4570e05c9246/index.m3u8
