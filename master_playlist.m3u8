@@ -3,6 +3,8 @@
 https://media-service.fanreachdata.io/edge/ohl/d2544abbed204269be3ae17293f6ef51.m3u8
 #EXTINF:-1, Barrie-Peterborough
 https://media-service.fanreachdata.io/edge/ohl/ad0bb29672eb4cdfa93f0560e1deb3d7.m3u8
+#EXTINF:-1, CalgaryWranglers-Tucson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream04/playlist.m3u8
 #EXTINF:-1, Brandon-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/f66c4ae9e39f478b9878767514ab6726.m3u8
 #EXTINF:-1, Victoria-SpokaneChiefs
