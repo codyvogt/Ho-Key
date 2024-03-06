@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1, LuleåHF-SkellefteåAIK
-https://cdn.livearenasports.com/blobs1/65e03206af4cbf0afb32f9d8/index.m3u8
-#EXTINF:-1, TranåsAIF-HanvikensSK
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream38/playlist.m3u8
-#EXTINF:-1, Karlskrona-Visby/Roma
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream35/playlist.m3u8
-#EXTINF:-1, VäsbyIKHK-Mariestad
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream32/playlist.m3u8
-#EXTINF:-1, HCDalen-Troja-Ljungby
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream34/playlist.m3u8
-#EXTINF:-1, GrumsIK-BIKKarlskoga
-https://cdn.livearenasports.com/blobs0/65e41e17fb7394131c22ebba/index.m3u8
-#EXTINF:-1, VG-62Naantali-LuKi-82
-https://cdn.livearenasports.com/blobs0/65e4040efb7394131c22e8b3/index.m3u8
+#EXTINF:-1, UNH-Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, BostonC-Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
