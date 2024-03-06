@@ -1,33 +1,13 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-DynamoM
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, CSKAMoscow-Lokomotiv
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream322/playlist.m3u8
-#EXTINF:-1, Severstal-Spartak
-https://bkm.beetv.kz/btv/live/hls/000008727.m3u8
-#EXTINF:-1, LeKi-LiikunnanRiemu
-https://cdn.livearenasports.com/blobs0/65debe0daf4cbf0afb32f662/index.m3u8
-#EXTINF:-1, MunsalaIK-Titaanit
-https://cdn.livearenasports.com/blobs0/65debe0daf4cbf0afb32f66b/index.m3u8
-#EXTINF:-1, LapuanVirkiä-SaPKo
-https://cdn.livearenasports.com/blobs1/65debe0daf4cbf0afb32f661/index.m3u8
-#EXTINF:-1, SuolahdenUrho-Warkis
-https://cdn.livearenasports.com/blobs0/65e4040efb7394131c22e877/index.m3u8
-#EXTINF:-1, HighsticksHT-KuRy
-https://cdn.livearenasports.com/blobs2/65e40410fb7394131c22e9e2/index.m3u8
-#EXTINF:-1, Kiekko-Ahma-Kisa-Eagles
-https://cdn.livearenasports.com/blobs2/65e40410fb7394131c22e9f5/index.m3u8
-#EXTINF:-1, IKKronan-MalaxIF
-https://cdn.livearenasports.com/blobs0/65e40411fb7394131c22ea26/index.m3u8
-#EXTINF:-1, KOOVEEII-Hiki-Hockey
-https://cdn.livearenasports.com/blobs0/65e5558efb7394131c22ee8f/index.m3u8
-#EXTINF:-1, ChiefsTurku-Haka
-https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee88/index.m3u8
+#EXTINF:-1, TechnikaBrno-Vyškov
+https://cdn.livearenasports.com/blobs0/65a670f66e331848ed6dd331/index.m3u8
+#EXTINF:-1, FassaFalcons-Asiago
+https://cdn.livearenasports.com/blobs1/6551f9a51f16f169c3562039/index.m3u8
+#EXTINF:-1, HCTrento-Valpellice
+https://cdn.livearenasports.com/blobs0/655c9405b005860c0cfba2c6/index.m3u8
+#EXTINF:-1, Como-JuniorteamsU19
+https://cdn.livearenasports.com/blobs0/6579974366d81004268110c6/index.m3u8
 #EXTINF:-1, PEPOHC-GladiatorsHT
 https://cdn.livearenasports.com/blobs1/65e44a5dfb7394131c22eded/index.m3u8
 #EXTINF:-1, VG-62Naantali-LuKi-82
 https://cdn.livearenasports.com/blobs0/65e4040efb7394131c22e8b3/index.m3u8
-#EXTINF:-1, ModréKrídlaSlovan-Pikes
-https://nn.geo.joj.sk/huste/0f5595b3-dc35-4a38-9f74-4b20571e1d38/0f5595b3-dc35-4a38-9f74-4b20571e1d38/playlist.m3u8
-#EXTINF:-1, ŽiarnadHronom-Trebišov
-https://nn.geo.joj.sk/huste/e677340a-6dba-490a-8ca8-655440abc322/e677340a-6dba-490a-8ca8-655440abc322/playlist.m3u8
