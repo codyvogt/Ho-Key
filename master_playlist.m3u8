@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Alleghe-EppanPirates
-https://cdn.livearenasports.com/blobs0/65e0610eaf4cbf0afb32fa96/index.m3u8
-#EXTINF:-1, Pergine-HockeyComo
-https://cdn.livearenasports.com/blobs0/65e85169fb7394131c22f840/index.m3u8
-#EXTINF:-1, SVKaltern-Valdifiemme
-https://cdn.livearenasports.com/blobs2/65dda03e2030d60202719bc6/index.m3u8
-#EXTINF:-1, Varese-Feltreghiaccio
-https://cdn.livearenasports.com/blobs1/65e0610faf4cbf0afb32fa9a/index.m3u8
-#EXTINF:-1, Tavastia-WolfTeam
-https://cdn.livearenasports.com/blobs2/65e5639dfb7394131c22eec2/index.m3u8
-#EXTINF:-1, HCLudwig-Shakers
-https://cdn.livearenasports.com/blobs1/65e57fbefb7394131c22f1e8/index.m3u8
+#EXTINF:-1, Mississauga-Barrie
+https://media-service.fanreachdata.io/edge/ohl/b035b52bf8434f9c9f4c939f98d7f8e5.m3u8
+#EXTINF:-1, Windsor-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/c62fc722fe37443484b12f88b9ca2055.m3u8
+#EXTINF:-1, Ottawa-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/c0eff6fc579d4c6881b6f1299f5aa1bb.m3u8
+#EXTINF:-1, BostonU-Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Vermont-Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
