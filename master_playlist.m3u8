@@ -19,5 +19,17 @@ https://media-service.fanreachdata.io/edge/ohl/0120859e06aa42f9ad7e6b3816b5d9af.
 https://media-service.fanreachdata.io/edge/ohl/c1c29a968a6641cca3e59ad935fe04ee.m3u8
 #EXTINF:-1, SaultSte.Marie-Sudbury
 https://media-service.fanreachdata.io/edge/ohl/119d7b54e4c44614b8ee408a2a7655fa.m3u8
+#EXTINF:-1, Manitoba-Milwaukee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream04/playlist.m3u8
 #EXTINF:-1, BostonC-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Edmonton-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/65caa4d948c644e2b5d935d1ce8f0cd4.m3u8
+#EXTINF:-1, Brandon-CalgaryHitmen
+https://media-service.fanreachdata.io/edge/whl/ca4f15e50f4844818a43e41ea7259029.m3u8
+#EXTINF:-1, MedicineHat-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/b15d7258b68b419c9bf4b55e425b511c.m3u8
+#EXTINF:-1, Portland-Kamloops
+https://media-service.fanreachdata.io/edge/whl/de7a3162aa844eaf9f832c47e6401781.m3u8
+#EXTINF:-1, Tri-City-KelownaRockets
+https://media-service.fanreachdata.io/edge/whl/7ff53d626cdd4510aa566aec4c4ca0a6.m3u8
