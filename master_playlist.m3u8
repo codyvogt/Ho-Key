@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1, SaintJohn-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/382601b677f64b1b8b4747331814a56d.m3u8
-#EXTINF:-1, Chtown-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/0c9a8de399e34148a27a073bac388d7f.m3u8
+#EXTINF:-1, Manitoba-Milwaukee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream04/playlist.m3u8
+#EXTINF:-1, CalgaryWranglers-Tucson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream05/playlist.m3u8
+#EXTINF:-1, Saginaw-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/0120859e06aa42f9ad7e6b3816b5d9af.m3u8
+#EXTINF:-1, Kitchener-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/c1c29a968a6641cca3e59ad935fe04ee.m3u8
+#EXTINF:-1, SaultSte.Marie-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/119d7b54e4c44614b8ee408a2a7655fa.m3u8
 #EXTINF:-1, Victoriaville-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/4b7a12d5cd4043c780dd686bdcf83e2f.m3u8
 #EXTINF:-1, Drummond.-Baie-Comeau
@@ -11,16 +17,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/b34f7c44d9a94b55a20901856bc3708
 https://media-service.fanreachdata.io/edge/lhjmq/19524c4fb3ef4ceba95c78f9f02ec012.m3u8
 #EXTINF:-1, Sherbrooke-Blainville-B.
 https://media-service.fanreachdata.io/edge/lhjmq/9af6dc952e82419792ed7d100567c6d0.m3u8
-#EXTINF:-1, London-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/b3cbb5ca7fd44fbdbf6fb7ea41ea4d4e.m3u8
-#EXTINF:-1, Saginaw-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/0120859e06aa42f9ad7e6b3816b5d9af.m3u8
-#EXTINF:-1, Kitchener-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/c1c29a968a6641cca3e59ad935fe04ee.m3u8
-#EXTINF:-1, SaultSte.Marie-Sudbury
-https://media-service.fanreachdata.io/edge/ohl/119d7b54e4c44614b8ee408a2a7655fa.m3u8
-#EXTINF:-1, Manitoba-Milwaukee
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream04/playlist.m3u8
 #EXTINF:-1, BostonC-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Edmonton-SwiftCurrent
