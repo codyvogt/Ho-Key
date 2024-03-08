@@ -1,41 +1,5 @@
 #EXTM3U
-#EXTINF:-1, KölnerHaie-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, Eisbären-Bremerhaven
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, Düsseldorf-Frankfurt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
-#EXTINF:-1, Ingolstadt-Nürnberg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
-#EXTINF:-1, Iserlohn-Schwenningen
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
-#EXTINF:-1, EHCMünchen-Augsburg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
-#EXTINF:-1, Straubing-Wolfsburg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, VikingHC-Smedjebacken
-https://cdn.livearenasports.com/blobs2/65e2d147fb7394131c22e745/index.m3u8
-#EXTINF:-1, KuruHockey-SoPa
-https://cdn.livearenasports.com/blobs2/65e1610efb7394131c22df41/index.m3u8
-#EXTINF:-1, GentofteStars-Hvidovre
-https://cdn.livearenasports.com/blobs0/65a75efb6e331848ed6dd3c1/index.m3u8
-#EXTINF:-1, OlofströmsIK-BoråsHC
-https://cdn.livearenasports.com/blobs2/65e6c42afb7394131c22f466/index.m3u8
-#EXTINF:-1, SHKHC-BålstaHC
-https://cdn.livearenasports.com/blobs1/65e80664fb7394131c22f6b3/index.m3u8
-#EXTINF:-1, Vallentuna-Ormsta-Gimo
-https://cdn.livearenasports.com/blobs2/65e41f06fb7394131c22ebd9/index.m3u8
-#EXTINF:-1, JärnaSK-HammarbyIF
-https://cdn.livearenasports.com/blobs1/65e6fc60fb7394131c22f521/index.m3u8
-#EXTINF:-1, Flemingsberg-Enköping
-https://cdn.livearenasports.com/blobs0/65e6fc60fb7394131c22f52b/index.m3u8
-#EXTINF:-1, Värmdö-GötaTraneberg
-https://cdn.livearenasports.com/blobs0/65e6fc60fb7394131c22f52c/index.m3u8
 #EXTINF:-1, DieBärenNeuwied-HYC
 https://cdn.livearenasports.com/blobs2/65ea0d3bcb9e0c309d0cc8f7/index.m3u8
 #EXTINF:-1, HijsHokij-LeuvenChiefs
 https://cdn.livearenasports.com/blobs2/65ea0d3c01056a45af34bb83/index.m3u8
-#EXTINF:-1, HCChrudim-MDŠumperk
-https://cdn.livearenasports.com/blobs2/65e71887fb7394131c22f59e/index.m3u8
-#EXTINF:-1, PlayTeam-80-Hawks
-https://cdn.livearenasports.com/blobs2/65e5639dfb7394131c22eec0/index.m3u8
