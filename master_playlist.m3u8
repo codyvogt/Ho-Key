@@ -13,8 +13,6 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
 #EXTINF:-1, Straubing-Wolfsburg
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, PorinÄssät-Tappara
-https://cdn.livearenasports.com/blobs1/65e1610efb7394131c22df44/index.m3u8
 #EXTINF:-1, HIFK-TampereenIlves
 https://cdn.livearenasports.com/blobs0/65e1610efb7394131c22dfa0/index.m3u8
 #EXTINF:-1, ImatranKetterä-SaiPa
@@ -27,9 +25,7 @@ https://cdn.livearenasports.com/blobs1/65e1610efb7394131c22dfa2/index.m3u8
 https://cdn.livearenasports.com/blobs0/65e1610efb7394131c22df8b/index.m3u8
 #EXTINF:-1, TUTO-HelsinginJokerit
 https://cdn.livearenasports.com/blobs0/65e1610efb7394131c22df6a/index.m3u8
-#EXTINF:-1, MladáBoleslav-Litvínov
-https://cdn.livearenasports.com/blobs0/65e45967fb7394131c22ee06/index.m3u8
-#EXTINF:-1, DuklaJihlava-BeraniZlín
-https://cdn.livearenasports.com/blobs2/65e4758990edf756ba7677b5/index.m3u8
-#EXTINF:-1, IHCKrálovéPísek-Kladno
-https://cdn.livearenasports.com/blobs2/65d5f509fdbd4570e05c893e/index.m3u8
+#EXTINF:-1, NokianPyry-Titaanit
+https://cdn.livearenasports.com/blobs1/65e4040efb7394131c22e85b/index.m3u8
+#EXTINF:-1, LempäälänKisa-SaPKo
+https://cdn.livearenasports.com/blobs0/65e94a0dcb9e0c309d0cc49a/index.m3u8
