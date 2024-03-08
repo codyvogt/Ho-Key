@@ -1,11 +1,3 @@
 #EXTM3U
 #EXTINF:-1, Mississauga-Barrie
 https://media-service.fanreachdata.io/edge/ohl/b035b52bf8434f9c9f4c939f98d7f8e5.m3u8
-#EXTINF:-1, Windsor-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/c62fc722fe37443484b12f88b9ca2055.m3u8
-#EXTINF:-1, Ottawa-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/c0eff6fc579d4c6881b6f1299f5aa1bb.m3u8
-#EXTINF:-1, BostonU-Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Vermont-Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
