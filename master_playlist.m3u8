@@ -1,5 +1,33 @@
 #EXTM3U
-#EXTINF:-1, DieBärenNeuwied-HYC
-https://cdn.livearenasports.com/blobs2/65ea0d3bcb9e0c309d0cc8f7/index.m3u8
-#EXTINF:-1, HijsHokij-LeuvenChiefs
-https://cdn.livearenasports.com/blobs2/65ea0d3c01056a45af34bb83/index.m3u8
+#EXTINF:-1, SaintJohn-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/af0f4251120c407fa957f94cb7d985b7.m3u8
+#EXTINF:-1, Acadie-Bathurst-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/d9705a8d4dde45afa3e11aa108650736.m3u8
+#EXTINF:-1, Gatineau-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/033e87fdcac14fda81fffb9742f9702a.m3u8
+#EXTINF:-1, Blainville-B.-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/046b60d1394e4758ad562b49b5ea6018.m3u8
+#EXTINF:-1, Sherbrooke-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/ae07ec12fcdc4524a143bae1e963581c.m3u8
+#EXTINF:-1, Drummond.-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/eeb96f4cdaea4a65bfb0b803b64a6f34.m3u8
+#EXTINF:-1, St.Lawrence-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Oshawa-Brantford
+https://media-service.fanreachdata.io/edge/ohl/52ff1d7832314181a279fbc67e057e92.m3u8
+#EXTINF:-1, Niagara-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/f28049e973a04e2ab04ae76ade3f1655.m3u8
+#EXTINF:-1, Flint-KitchenerRangers
+https://media-service.fanreachdata.io/edge/ohl/9fda6f2ae0ae433eaecf4dbdedf5b53e.m3u8
+#EXTINF:-1, Sarnia-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/5158cbe0584c47e8977f97a55020ea15.m3u8
+#EXTINF:-1, Windsor-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/6426776160e24565aa7c1c3652a9d45b.m3u8
+#EXTINF:-1, Kingston-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/70ea682d89124725aa3c3178d2ac0dc6.m3u8
+#EXTINF:-1, Guelph-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/25ef453c582e4995ba79610475317b5f.m3u8
+#EXTINF:-1, Princeton-Harvard
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/harvardecacvideo/playlist.m3u8
+#EXTINF:-1, Yale-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
