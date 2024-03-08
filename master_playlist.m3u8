@@ -1,8 +1,18 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-DynamoM
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, OulunKärpät-JYP
-https://cdn.livearenasports.com/blobs1/65e1610efb7394131c22df56/index.m3u8
+#EXTINF:-1, KölnerHaie-Mannheim
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, Eisbären-Bremerhaven
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Düsseldorf-Frankfurt
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport07/msport07_m/index.m3u8
+#EXTINF:-1, Ingolstadt-Nürnberg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport09/msport09_m/index.m3u8
+#EXTINF:-1, Iserlohn-Schwenningen
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
+#EXTINF:-1, EHCMünchen-Augsburg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport06/msport06_m/index.m3u8
+#EXTINF:-1, Straubing-Wolfsburg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 #EXTINF:-1, PorinÄssät-Tappara
 https://cdn.livearenasports.com/blobs1/65e1610efb7394131c22df44/index.m3u8
 #EXTINF:-1, HIFK-TampereenIlves
@@ -17,3 +27,9 @@ https://cdn.livearenasports.com/blobs1/65e1610efb7394131c22dfa2/index.m3u8
 https://cdn.livearenasports.com/blobs0/65e1610efb7394131c22df8b/index.m3u8
 #EXTINF:-1, TUTO-HelsinginJokerit
 https://cdn.livearenasports.com/blobs0/65e1610efb7394131c22df6a/index.m3u8
+#EXTINF:-1, MladáBoleslav-Litvínov
+https://cdn.livearenasports.com/blobs0/65e45967fb7394131c22ee06/index.m3u8
+#EXTINF:-1, DuklaJihlava-BeraniZlín
+https://cdn.livearenasports.com/blobs2/65e4758990edf756ba7677b5/index.m3u8
+#EXTINF:-1, IHCKrálovéPísek-Kladno
+https://cdn.livearenasports.com/blobs2/65d5f509fdbd4570e05c893e/index.m3u8
