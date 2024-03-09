@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1, AvangardOmsk-Lada
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream264/playlist.m3u8
+#EXTINF:-1, MetallurgMg-Amur
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:-1, SaimaanPallo-HIFK
 https://cdn.livearenasports.com/blobs1/65e2b290fb7394131c22e594/index.m3u8
 #EXTINF:-1, KalPa-KouvolanKooKoo
-https://cdn.livearenasports.com/blobs0/65e2b290fb7394131c22e511/index.m3u8
+https://cdn.livearenasports.com/blobs1/65e2b290fb7394131c22e511/index.m3u8
 #EXTINF:-1, TUTO-RaumanLukko
 https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e5f2/index.m3u8
 #EXTINF:-1, MikkelinJukurit-Ilves
@@ -20,7 +22,7 @@ https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e5af/index.m3u8
 #EXTINF:-1, SaPKo-JYPAkatemia
 https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e694/index.m3u8
 #EXTINF:-1, Hermes-KOOVEE
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e66b/index.m3u8
+https://cdn.livearenasports.com/blobs2/65e2b292fb7394131c22e66b/index.m3u8
 #EXTINF:-1, KJTHaukat-S-Kiekko
 https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e682/index.m3u8
 #EXTINF:-1, ForssanPalloseura-GrIFK
@@ -51,7 +53,7 @@ https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6bc/index.m3u8
 https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee78/index.m3u8
 #EXTINF:-1, YKI-RollonPojat
 https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee52/index.m3u8
-#EXTINF:-1, Kiekko-67-PanelianRaikas
+#EXTINF:-1, Kiekko-67-PaRa
 https://cdn.livearenasports.com/blobs0/65e6a70dfb7394131c22f407/index.m3u8
 #EXTINF:-1, LapuanVirkiäII-JPK
 https://cdn.livearenasports.com/blobs0/65e44a5dfb7394131c22edf3/index.m3u8
@@ -78,9 +80,9 @@ https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6bf/index.m3u8
 #EXTINF:-1, Kiekko-EspooCh-IlvesAk
 https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6ba/index.m3u8
 #EXTINF:-1, FrölundaHC-LeksandsIF
-https://cdn.livearenasports.com/blobs0/65e42d17fb7394131c22eda9/index.m3u8
+https://cdn.livearenasports.com/blobs1/65e42d17fb7394131c22eda9/index.m3u8
 #EXTINF:-1, AIK-VästeråsIK
-https://cdn.livearenasports.com/blobs0/65e4295afb7394131c22ed3f/index.m3u8
+https://cdn.livearenasports.com/blobs2/65e4295afb7394131c22ed3f/index.m3u8
 #EXTINF:-1, Linköping-Oskarshamn
 https://cdn.livearenasports.com/blobs0/65e42c26fb7394131c22ed94/index.m3u8
 #EXTINF:-1, VäxjöLakers-Färjestad
@@ -100,7 +102,7 @@ https://cdn.livearenasports.com/blobs0/65e6cb55fb7394131c22f496/index.m3u8
 #EXTINF:-1, Kiekko-Espoo-KalPa
 https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e499/index.m3u8
 #EXTINF:-1, Kisa-Eagles-Kiekko-Ahma
-https://cdn.livearenasports.com/blobs0/65e5558efb7394131c22ee8d/index.m3u8
+https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee8d/index.m3u8
 #EXTINF:-1, LuvianKiekko-82-VG-62
 https://cdn.livearenasports.com/blobs0/65e5558efb7394131c22ee8b/index.m3u8
 #EXTINF:-1, ValkealanKiekko-LeKi-75
