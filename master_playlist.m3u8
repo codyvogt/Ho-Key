@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ReginaPats-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/2a11c3aaa44c43ff994f157a6d80575f.m3u8
-#EXTINF:-1, Edmonton-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/50690f7bea984d51910c6174729a069c.m3u8
-#EXTINF:-1, MedicineHat-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/f1b4a24c260f4152ae57dfc0e7af276b.m3u8
 #EXTINF:-1, RedDeer-CalgaryHitmen
 https://media-service.fanreachdata.io/edge/whl/6cdc8556801545219dc35c781007c042.m3u8
 #EXTINF:-1, Brandon-Lethbridge
@@ -19,9 +13,15 @@ https://media-service.fanreachdata.io/edge/whl/1a4ecfec3f7c4c1c9cf405d04f958017.
 https://media-service.fanreachdata.io/edge/whl/244649e74c0049b6b879f01da05d9d1d.m3u8
 #EXTINF:-1, VictoriaRoyals-Everett
 https://media-service.fanreachdata.io/edge/whl/3e1a35182c414b2b9900bf2c487d09ea.m3u8
-#EXTINF:-1, Massachusetts-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, SCSU-MinnesotaDuluth
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f980980c-2395-4e07-97c7-c87bf961f415-hls/master/f980980c-2395-4e07-97c7-c87bf961f415-hls.m3u8
-#EXTINF:-1, NorthDakota-Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/16651d46-2358-436c-8b69-87fa2f21f459-hls/master/16651d46-2358-436c-8b69-87fa2f21f459-hls.m3u8
+#EXTINF:-1, SaimaanPallo-HIFK
+https://cdn.livearenasports.com/blobs0/65e2b290fb7394131c22e594/index.m3u8
+#EXTINF:-1, KalPa-KouvolanKooKoo
+https://cdn.livearenasports.com/blobs0/65e2b290fb7394131c22e511/index.m3u8
+#EXTINF:-1, SaPKo-JYPAkatemia
+https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e694/index.m3u8
+#EXTINF:-1, HPKIcedogs-VaPS
+https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee6a/index.m3u8
+#EXTINF:-1, JoukkueIF-A-Rangers
+https://cdn.livearenasports.com/blobs0/65e59bddfb7394131c22f27c/index.m3u8
+#EXTINF:-1, KiilatHockey-MuJK
+https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6be/index.m3u8
