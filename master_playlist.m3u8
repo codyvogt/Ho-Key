@@ -1,31 +1,91 @@
 #EXTM3U
-#EXTINF:-1, SKA-TorpedoNizhny
-https://bkm.beetv.kz/btv/live/hls/000008727.m3u8
-#EXTINF:-1, BIKKarlskoga-GrumsIK
-https://cdn.livearenasports.com/blobs0/65e42777fb7394131c22ecfe/index.m3u8
-#EXTINF:-1, RoKi-Jokipojat
-https://cdn.livearenasports.com/blobs2/65e2b292fb7394131c22e66c/index.m3u8
-#EXTINF:-1, Karhu-Kissat-Hokki
-https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e637/index.m3u8
-#EXTINF:-1, Kiekko-EspooCh-LeKi
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e65d/index.m3u8
-#EXTINF:-1, KeuPaHT/Diskos-IPK
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e65b/index.m3u8
-#EXTINF:-1, Kärpät-VaasanSport
-https://cdn.livearenasports.com/blobs2/65e2b28ffb7394131c22e4e6/index.m3u8
-#EXTINF:-1, HPK-PorinÄssät
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4e9/index.m3u8
-#EXTINF:-1, Tappara-Kiekko-Espoo
-https://cdn.livearenasports.com/blobs1/65e2b28ffb7394131c22e4e8/index.m3u8
+#EXTINF:-1, NivalaCowboys-LaserHT
+https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee89/index.m3u8
+#EXTINF:-1, Warkis-SuolahdenUrho
+https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee85/index.m3u8
+#EXTINF:-1, KuRy-HighsticksHT
+https://cdn.livearenasports.com/blobs1/65e40410fb7394131c22ea19/index.m3u8
+#EXTINF:-1, KuhmonKivaHT-Et-Po
+https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee8a/index.m3u8
+#EXTINF:-1, Haka-ChiefsTurku
+https://cdn.livearenasports.com/blobs0/65e5558efb7394131c22ee80/index.m3u8
+#EXTINF:-1, GladiatorsHT-PEPOHC
+https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee81/index.m3u8
+#EXTINF:-1, KPK-PyryAkatemia
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4c4/index.m3u8
+#EXTINF:-1, KurraHT-NummelanKV
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4ee/index.m3u8
+#EXTINF:-1, Hiki-Hockey-KOOVEEII
+https://cdn.livearenasports.com/blobs0/65e5558efb7394131c22ee8e/index.m3u8
+#EXTINF:-1, NarvaPSK-HCEverest
+https://cdn.livearenasports.com/blobs1/65e70bb8fb7394131c22f581/index.m3u8
+#EXTINF:-1, Välk494-ViruSputnik
+https://cdn.livearenasports.com/blobs2/65e70cbdfb7394131c22f58b/index.m3u8
+#EXTINF:-1, Raahe-KiekkoII-Ahmat
+https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee82/index.m3u8
+#EXTINF:-1, SoPa-KuruHockey
+https://cdn.livearenasports.com/blobs2/65e5558dfb7394131c22ee53/index.m3u8
+#EXTINF:-1, PirkanmaaGoons-HCPJ
+https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee69/index.m3u8
+#EXTINF:-1, PanthersLahti-KY
+https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6bc/index.m3u8
+#EXTINF:-1, Popula-LaserHTAk
+https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee78/index.m3u8
+#EXTINF:-1, YKI-RollonPojat
+https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee52/index.m3u8
+#EXTINF:-1, Kiekko-67-PaRa
+https://cdn.livearenasports.com/blobs0/65e6a70dfb7394131c22f407/index.m3u8
+#EXTINF:-1, LapuanVirkiäII-JPK
+https://cdn.livearenasports.com/blobs0/65e44a5dfb7394131c22edf3/index.m3u8
+#EXTINF:-1, AIK-SkellefteåAIK
+https://cdn.livearenasports.com/blobs1/65e58ec0fb7394131c22f230/index.m3u8
+#EXTINF:-1, Lejonet-Boro/Vetlanda
+https://cdn.livearenasports.com/blobs2/65e6b997fb7394131c22f43a/index.m3u8
+#EXTINF:-1, Kalmar-GutsFinspång
+https://cdn.livearenasports.com/blobs0/65e6bc66fb7394131c22f440/index.m3u8
+#EXTINF:-1, UmeåDragons-Vilhelmina
+https://cdn.livearenasports.com/blobs1/65e41783fb7394131c22eb60/index.m3u8
+#EXTINF:-1, Warriors-EVU
+https://cdn.livearenasports.com/blobs1/65e2b28ffb7394131c22e4aa/index.m3u8
+#EXTINF:-1, TPSAkatemia-KOOVECh
+https://cdn.livearenasports.com/blobs0/65e1610efb7394131c22df66/index.m3u8
+#EXTINF:-1, Karhu-KissatAk-HAKI
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4a4/index.m3u8
+#EXTINF:-1, KJTAk-ViikingitAk
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4d6/index.m3u8
+#EXTINF:-1, Kiekko-Ahma-VG-62
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4bf/index.m3u8
+#EXTINF:-1, K-EspooIII-EVUTeam
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4a2/index.m3u8
+#EXTINF:-1, K-EspooIV-Jää-Tiikerit
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4a3/index.m3u8
+#EXTINF:-1, Lørenskog-Stavanger
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream186/playlist.m3u8
+#EXTINF:-1, SpartaSarp-Stjernen
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream185/playlist.m3u8
+#EXTINF:-1, CometHalden-Vålerenga
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream187/playlist.m3u8
 #EXTINF:-1, Pelicans-Kiekko-Vantaa
 https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e5af/index.m3u8
-#EXTINF:-1, AlmtunaIS-MoraIK
-https://cdn.livearenasports.com/blobs2/65e424a6fb7394131c22ecd4/index.m3u8
 #EXTINF:-1, Örebro-MalmöRedhawks
 https://cdn.livearenasports.com/blobs1/65e42684fb7394131c22ecf9/index.m3u8
 #EXTINF:-1, SödertäljeSK-MoDo
 https://cdn.livearenasports.com/blobs0/65e42598fb7394131c22ece8/index.m3u8
 #EXTINF:-1, HV71-BrynäsIF
-https://cdn.livearenasports.com/blobs0/65e42a45fb7394131c22ed68/index.m3u8
+https://cdn.livearenasports.com/blobs2/65e42a45fb7394131c22ed68/index.m3u8
 #EXTINF:-1, RögleBK-DjurgårdensIF
 https://cdn.livearenasports.com/blobs0/65e42d17fb7394131c22eda7/index.m3u8
+#EXTINF:-1, Schwenningen-Düsseldorf
+https://content.aisportswatch.com/278911/master.m3u8
+#EXTINF:-1, EVLandshut-Ingolstadt
+https://content.aisportswatch.com/277487/master.m3u8
+#EXTINF:-1, Titaanit-NokianPyry
+https://cdn.livearenasports.com/blobs0/65e94a0dcb9e0c309d0cc4a1/index.m3u8
+#EXTINF:-1, SaPKoSavonlinna-LeKi
+https://cdn.livearenasports.com/blobs2/65e94a0dcb9e0c309d0cc4a3/index.m3u8
+#EXTINF:-1, S-Kiekko-PorvoonHunters
+https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6bd/index.m3u8
+#EXTINF:-1, ÚstínadLabem-Benátky
+https://cdn.livearenasports.com/blobs0/65e58ec5fb7394131c22f23a/index.m3u8
+#EXTINF:-1, DraciŠumperk-Technika
+https://cdn.livearenasports.com/blobs1/64ccbf785fba8d09b1986f98/index.m3u8
