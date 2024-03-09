@@ -1,51 +1,5 @@
 #EXTM3U
 #EXTINF:-1, BlackWingsLinz-Salzburg
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream197/playlist.m3u8
-#EXTINF:-1, UmeåDragons-Vilhelmina
-https://cdn.livearenasports.com/blobs1/65e41783fb7394131c22eb60/index.m3u8
-#EXTINF:-1, Warriors-EVU
-https://cdn.livearenasports.com/blobs1/65e2b28ffb7394131c22e4aa/index.m3u8
-#EXTINF:-1, TPSAkatemia-KOOVECh
-https://cdn.livearenasports.com/blobs1/65e1610efb7394131c22df66/index.m3u8
-#EXTINF:-1, Karhu-KissatAk-HAKI
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4a4/index.m3u8
-#EXTINF:-1, KJTAk-ViikingitAk
-https://cdn.livearenasports.com/blobs1/65e2b28ffb7394131c22e4d6/index.m3u8
-#EXTINF:-1, Kiekko-Ahma-VG-62
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4bf/index.m3u8
-#EXTINF:-1, K-EspooIII-EVUTeam
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4a2/index.m3u8
-#EXTINF:-1, K-EspooIV-Jää-Tiikerit
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4a3/index.m3u8
-#EXTINF:-1, Lørenskog-Stavanger
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream186/playlist.m3u8
-#EXTINF:-1, SpartaSarp-Stjernen
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream185/playlist.m3u8
-#EXTINF:-1, CometHalden-Vålerenga
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream187/playlist.m3u8
-#EXTINF:-1, Välk494-ViruSputnik
-https://cdn.livearenasports.com/blobs2/65e70cbdfb7394131c22f58b/index.m3u8
-#EXTINF:-1, Pelicans-Kiekko-Vantaa
-https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e5af/index.m3u8
-#EXTINF:-1, Örebro-MalmöRedhawks
-https://cdn.livearenasports.com/blobs1/65e42684fb7394131c22ecf9/index.m3u8
-#EXTINF:-1, SödertäljeSK-MoDo
-https://cdn.livearenasports.com/blobs0/65e42598fb7394131c22ece8/index.m3u8
-#EXTINF:-1, HV71-BrynäsIF
-https://cdn.livearenasports.com/blobs2/65e42a45fb7394131c22ed68/index.m3u8
-#EXTINF:-1, RögleBK-DjurgårdensIF
-https://cdn.livearenasports.com/blobs1/65e42d17fb7394131c22eda7/index.m3u8
-#EXTINF:-1, Schwenningen-Düsseldorf
-https://content.aisportswatch.com/278911/master.m3u8
-#EXTINF:-1, EVLandshut-Ingolstadt
-https://content.aisportswatch.com/277487/master.m3u8
-#EXTINF:-1, Titaanit-NokianPyry
-https://cdn.livearenasports.com/blobs0/65e94a0dcb9e0c309d0cc4a1/index.m3u8
-#EXTINF:-1, SaPKoSavonlinna-LeKi
-https://cdn.livearenasports.com/blobs2/65e94a0dcb9e0c309d0cc4a3/index.m3u8
-#EXTINF:-1, S-Kiekko-PorvoonHunters
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6bd/index.m3u8
-#EXTINF:-1, ÚstínadLabem-Benátky
-https://cdn.livearenasports.com/blobs0/65e58ec5fb7394131c22f23a/index.m3u8
-#EXTINF:-1, DraciŠumperk-Technika
-https://cdn.livearenasports.com/blobs1/64ccbf785fba8d09b1986f98/index.m3u8
+#EXTINF:-1, HCLugano-Ambrì-Piotta
+https://vstream-cdn.ch/hls/teleticino.m3u8
