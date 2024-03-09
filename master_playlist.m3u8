@@ -3,42 +3,10 @@
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream264/playlist.m3u8
 #EXTINF:-1, MetallurgMg-Amur
 https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:-1, SaimaanPallo-HIFK
-https://cdn.livearenasports.com/blobs1/65e2b290fb7394131c22e594/index.m3u8
-#EXTINF:-1, KalPa-KouvolanKooKoo
-https://cdn.livearenasports.com/blobs1/65e2b290fb7394131c22e511/index.m3u8
-#EXTINF:-1, TUTO-RaumanLukko
-https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e5f2/index.m3u8
-#EXTINF:-1, MikkelinJukurit-Ilves
-https://cdn.livearenasports.com/blobs0/65e2b290fb7394131c22e59a/index.m3u8
-#EXTINF:-1, Kärpät-VaasanSport
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4e6/index.m3u8
-#EXTINF:-1, HPK-PorinÄssät
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4e9/index.m3u8
-#EXTINF:-1, Tappara-Kiekko-Espoo
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4e8/index.m3u8
-#EXTINF:-1, Pelicans-Kiekko-Vantaa
-https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e5af/index.m3u8
-#EXTINF:-1, SaPKo-JYPAkatemia
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e694/index.m3u8
-#EXTINF:-1, Hermes-KOOVEE
-https://cdn.livearenasports.com/blobs2/65e2b292fb7394131c22e66b/index.m3u8
-#EXTINF:-1, KJTHaukat-S-Kiekko
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e682/index.m3u8
-#EXTINF:-1, ForssanPalloseura-GrIFK
-https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e633/index.m3u8
-#EXTINF:-1, RoKi-Jokipojat
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e66c/index.m3u8
-#EXTINF:-1, Karhu-Kissat-Hokki
-https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e637/index.m3u8
-#EXTINF:-1, Kiekko-EspooCh-LeKi
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e65d/index.m3u8
-#EXTINF:-1, KeuPaHT/Diskos-IPK
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e65b/index.m3u8
 #EXTINF:-1, HPKIcedogs-VaPS
 https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee6a/index.m3u8
 #EXTINF:-1, TarU-RaumaTigers
-https://cdn.livearenasports.com/blobs0/65e6a70dfb7394131c22f40c/index.m3u8
+https://cdn.livearenasports.com/blobs1/65e6a70dfb7394131c22f40c/index.m3u8
 #EXTINF:-1, PiPS-Kajastus
 https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee60/index.m3u8
 #EXTINF:-1, Raahe-KiekkoII-Ahmat
@@ -69,6 +37,20 @@ https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee64/index.m3u8
 https://cdn.livearenasports.com/blobs0/65e1610efb7394131c22df42/index.m3u8
 #EXTINF:-1, Kiekko-EspooEKS-Tiikerit
 https://cdn.livearenasports.com/blobs0/65e7178dfb7394131c22f597/index.m3u8
+#EXTINF:-1, KalPa-KouvolanKooKoo
+https://cdn.livearenasports.com/blobs1/65e2b290fb7394131c22e511/index.m3u8
+#EXTINF:-1, TUTO-RaumanLukko
+https://cdn.livearenasports.com/blobs2/65e2b291fb7394131c22e5f2/index.m3u8
+#EXTINF:-1, MikkelinJukurit-Ilves
+https://cdn.livearenasports.com/blobs0/65e2b290fb7394131c22e59a/index.m3u8
+#EXTINF:-1, Kärpät-VaasanSport
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4e6/index.m3u8
+#EXTINF:-1, HPK-PorinÄssät
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4e9/index.m3u8
+#EXTINF:-1, Tappara-Kiekko-Espoo
+https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4e8/index.m3u8
+#EXTINF:-1, Pelicans-Kiekko-Vantaa
+https://cdn.livearenasports.com/blobs0/65e2b291fb7394131c22e5af/index.m3u8
 #EXTINF:-1, KiilatHockey-MuJK
 https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6be/index.m3u8
 #EXTINF:-1, KeuPa-LL-89RedLights
