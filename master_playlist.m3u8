@@ -15,6 +15,16 @@ https://media-service.fanreachdata.io/edge/lhjmq/eeb96f4cdaea4a65bfb0b803b64a6f3
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Providence-Hartford
 https://hockeytech.akamaized.net/hls/live/2027334/game-1035897-Home-29833dfd-73be-4c61-862e-80d92ac4f43b/main.m3u8
+#EXTINF:-1, Cleveland-LavalRocket
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream48/playlist.m3u8
+#EXTINF:-1, Chicago-GrandRapids
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream49/playlist.m3u8
+#EXTINF:-1, Hershey-Charlotte
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream50/playlist.m3u8
+#EXTINF:-1, WBS-LehighValley
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
+#EXTINF:-1, Syracuse-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream92/playlist.m3u8
 #EXTINF:-1, Oshawa-Brantford
 https://media-service.fanreachdata.io/edge/ohl/52ff1d7832314181a279fbc67e057e92.m3u8
 #EXTINF:-1, Niagara-Ottawa67's
