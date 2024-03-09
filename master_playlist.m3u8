@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SaintJohn-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/af0f4251120c407fa957f94cb7d985b7.m3u8
-#EXTINF:-1, Acadie-Bathurst-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/d9705a8d4dde45afa3e11aa108650736.m3u8
-#EXTINF:-1, Gatineau-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/033e87fdcac14fda81fffb9742f9702a.m3u8
-#EXTINF:-1, Blainville-B.-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/046b60d1394e4758ad562b49b5ea6018.m3u8
-#EXTINF:-1, Sherbrooke-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/ae07ec12fcdc4524a143bae1e963581c.m3u8
-#EXTINF:-1, Drummond.-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/eeb96f4cdaea4a65bfb0b803b64a6f34.m3u8
-#EXTINF:-1, St.Lawrence-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Providence-Hartford
 https://hockeytech.akamaized.net/hls/live/2027334/game-1035897-Home-29833dfd-73be-4c61-862e-80d92ac4f43b/main.m3u8
 #EXTINF:-1, Cleveland-LavalRocket
@@ -25,6 +11,14 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
 #EXTINF:-1, Syracuse-Rochester
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream92/playlist.m3u8
+#EXTINF:-1, Gatineau-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/033e87fdcac14fda81fffb9742f9702a.m3u8
+#EXTINF:-1, Blainville-B.-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/046b60d1394e4758ad562b49b5ea6018.m3u8
+#EXTINF:-1, Sherbrooke-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/ae07ec12fcdc4524a143bae1e963581c.m3u8
+#EXTINF:-1, Drummond.-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/eeb96f4cdaea4a65bfb0b803b64a6f34.m3u8
 #EXTINF:-1, Oshawa-Brantford
 https://media-service.fanreachdata.io/edge/ohl/52ff1d7832314181a279fbc67e057e92.m3u8
 #EXTINF:-1, Niagara-Ottawa67's
