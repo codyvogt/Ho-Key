@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HockeyComo-Pergine
-https://cdn.livearenasports.com/blobs1/65e5df9efb7394131c22f3b5/index.m3u8
-#EXTINF:-1, Liege-Heerenveen
-https://cdn.livearenasports.com/blobs2/65ea0d4101056a45af34bb85/index.m3u8
 #EXTINF:-1, Cleveland-LavalRocket
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream181/playlist.m3u8
 #EXTINF:-1, FranklinPierce-Stonehill
@@ -43,3 +39,21 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Brown-Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Miami-WesternMichigan
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/38f12acd-49da-495c-ab0f-568558aa619d-hls/master/38f12acd-49da-495c-ab0f-568558aa619d-hls.m3u8
+#EXTINF:-1, Massachusetts-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Rensselaer-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, SCSU-MinnesotaDuluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0aff72c7-f501-4882-863f-d7f80e6522c2-hls/master/0aff72c7-f501-4882-863f-d7f80e6522c2-hls.m3u8
+#EXTINF:-1, BostonC-Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, UMassLowell-UNH
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, NorthDakota-Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/19059c93-7d05-493b-82f1-4bf2897c66d1-hls/master/19059c93-7d05-493b-82f1-4bf2897c66d1-hls.m3u8
+#EXTINF:-1, ColoradoCollege-Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f934b970-8b12-443f-9687-5c5cb55021fb-hls/master/f934b970-8b12-443f-9687-5c5cb55021fb-hls.m3u8
+#EXTINF:-1, McGill-Brock
+https://live-004.vip.visaic.tv/origin/oua/brockvsmcgill-hockey-m-20240309/brockvsmcgill-hockey-m-20240309-target/brockvsmcgill-hockey-m-20240309-target-1080p30-ywx3tr92_live.m3u8
