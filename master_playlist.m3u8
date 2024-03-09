@@ -1,47 +1,49 @@
 #EXTM3U
 #EXTINF:-1, HCLugano-Ambrì-Piotta
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Northeastern-UConn
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, FranklinPierce-Stonehill
-https://vcloud.blueframetech.com/file/broadcast/1007474.m3u8
-#EXTINF:-1, Clarkson-Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, EVLandshut-Ingolstadt
-https://content.aisportswatch.com/277487/master.m3u8
-#EXTINF:-1, LapuanVirkiäII-JPK
-https://cdn.livearenasports.com/blobs0/65e44a5dfb7394131c22edf3/index.m3u8
-#EXTINF:-1, Kiekko-Ahma-VG-62
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4bf/index.m3u8
-#EXTINF:-1, K-EspooIII-EVUTeam
-https://cdn.livearenasports.com/blobs0/65e2b28ffb7394131c22e4a2/index.m3u8
-#EXTINF:-1, K-EspooIV-Jää-Tiikerit
-https://cdn.livearenasports.com/blobs1/65e2b28ffb7394131c22e4a3/index.m3u8
-#EXTINF:-1, TurkuHC-HIFKChallenger
-https://cdn.livearenasports.com/blobs2/65e2b292fb7394131c22e6bf/index.m3u8
-#EXTINF:-1, Kiekko-EspooCh-IlvesAk
-https://cdn.livearenasports.com/blobs0/65e2b292fb7394131c22e6ba/index.m3u8
-#EXTINF:-1, KurraHT-NummelanKV
-https://cdn.livearenasports.com/blobs2/65e2b28ffb7394131c22e4ee/index.m3u8
-#EXTINF:-1, Hiki-Hockey-KOOVEEII
-https://cdn.livearenasports.com/blobs2/65e5558efb7394131c22ee8e/index.m3u8
-#EXTINF:-1, VinschgauEisfix-Ares
-https://content.aisportswatch.com/279670/master.m3u8
-#EXTINF:-1, PievediCadore-Pinè
-https://cdn.livearenasports.com/blobs0/65e5df9efb7394131c22f3b3/index.m3u8
-#EXTINF:-1, Eisbären-ERCInglostadt
-https://content.aisportswatch.com/279099/master.m3u8
-#EXTINF:-1, Mannheim-Memmingen
-https://cdn3.wowza.com/5/M20wbC9TYmlpRjBl/liveOrigin/ngrp:VJYByMbOWeLH1gshRMcgZV0cIuWxGma3_43123_all/playlist.m3u8
-#EXTINF:-1, Kiekko-EspooEKS-Tiikerit
-https://cdn.livearenasports.com/blobs1/65e7178dfb7394131c22f597/index.m3u8
+#EXTINF:-1, Cleveland-LavalRocket
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream181/playlist.m3u8
 #EXTINF:-1, RedBullJrs-Unterland
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream201/playlist.m3u8
 #EXTINF:-1, Ritten-Bregenzerwald
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream202/playlist.m3u8
 #EXTINF:-1, HockeyComo-Pergine
 https://cdn.livearenasports.com/blobs1/65e5df9efb7394131c22f3b5/index.m3u8
-#EXTINF:-1, GrizzlyzMust-HKSäde
-https://cdn.livearenasports.com/blobs1/65e70a8cfb7394131c22f579/index.m3u8
+#EXTINF:-1, PievediCadore-Pinè
+https://cdn.livearenasports.com/blobs0/65e5df9efb7394131c22f3b3/index.m3u8
+#EXTINF:-1, Mannheim-Memmingen
+https://cdn3.wowza.com/5/M20wbC9TYmlpRjBl/liveOrigin/ngrp:VJYByMbOWeLH1gshRMcgZV0cIuWxGma3_43123_all/playlist.m3u8
 #EXTINF:-1, Liege-Heerenveen
 https://cdn.livearenasports.com/blobs2/65ea0d4101056a45af34bb85/index.m3u8
+#EXTINF:-1, FranklinPierce-Stonehill
+https://vcloud.blueframetech.com/file/broadcast/1007474.m3u8
+#EXTINF:-1, Clarkson-Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Gatineau-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/5ae1059dd7134a54a1ae152b90d4ed77.m3u8
+#EXTINF:-1, Chicoutimi-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/30a0e010d7a2472d873de29502d1f15f.m3u8
+#EXTINF:-1, Blainville-B.-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/7395b5576fd641c4ab46ddad261c2f84.m3u8
+#EXTINF:-1, Shawinigan-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/8bea8520bd9d402f911b4f9996144924.m3u8
+#EXTINF:-1, SaintJohn-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/1b796e5c365f47deb264a34831ec9d12.m3u8
+#EXTINF:-1, Moncton-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/2c1b9e6447d24f4bb9388b841dbf9c0e.m3u8
+#EXTINF:-1, Sherbrooke-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/46fe9e8fd1944d8da24db327bb31dd7d.m3u8
+#EXTINF:-1, Kitchener-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/ec7c35b1651b4354b56114d98f320646.m3u8
+#EXTINF:-1, Kingston-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/a93a1b8c70b146da89c9839b24867912.m3u8
+#EXTINF:-1, OwenSound-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/35eef3c1774640ea81f985d89c2b8abd.m3u8
+#EXTINF:-1, Niagara-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/169f19d4d9a44c0db7129dbe22af34c8.m3u8
+#EXTINF:-1, Guelph-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/7884660b33e943aea5937dabef61069b.m3u8
+#EXTINF:-1, Windsor-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/3a0f3d82eaed43b9aed4c7ab42698fd3.m3u8
+#EXTINF:-1, NorthBay-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/e14e710d8958404a98ecc20058b17fef.m3u8
