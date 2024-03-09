@@ -1,52 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Providence-Hartford
-https://hockeytech.akamaized.net/hls/live/2027334/game-1035897-Home-29833dfd-73be-4c61-862e-80d92ac4f43b/main.m3u8
-#EXTINF:-1, Cleveland-LavalRocket
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream48/playlist.m3u8
-#EXTINF:-1, Chicago-GrandRapids
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream49/playlist.m3u8
-#EXTINF:-1, Hershey-Charlotte
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream50/playlist.m3u8
-#EXTINF:-1, WBS-LehighValley
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
-#EXTINF:-1, Syracuse-Rochester
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream92/playlist.m3u8
-#EXTINF:-1, Gatineau-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/033e87fdcac14fda81fffb9742f9702a.m3u8
-#EXTINF:-1, Blainville-B.-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/046b60d1394e4758ad562b49b5ea6018.m3u8
-#EXTINF:-1, Sherbrooke-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/ae07ec12fcdc4524a143bae1e963581c.m3u8
-#EXTINF:-1, Drummond.-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/eeb96f4cdaea4a65bfb0b803b64a6f34.m3u8
-#EXTINF:-1, Oshawa-Brantford
-https://media-service.fanreachdata.io/edge/ohl/52ff1d7832314181a279fbc67e057e92.m3u8
-#EXTINF:-1, Niagara-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/f28049e973a04e2ab04ae76ade3f1655.m3u8
-#EXTINF:-1, Flint-KitchenerRangers
-https://media-service.fanreachdata.io/edge/ohl/9fda6f2ae0ae433eaecf4dbdedf5b53e.m3u8
-#EXTINF:-1, Sarnia-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/5158cbe0584c47e8977f97a55020ea15.m3u8
-#EXTINF:-1, Windsor-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/6426776160e24565aa7c1c3652a9d45b.m3u8
-#EXTINF:-1, Kingston-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/70ea682d89124725aa3c3178d2ac0dc6.m3u8
-#EXTINF:-1, Guelph-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/25ef453c582e4995ba79610475317b5f.m3u8
-#EXTINF:-1, Miami-WesternMichigan
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/57d45ad6-c604-4da5-842f-935542cdbf3d-hls/master/57d45ad6-c604-4da5-842f-935542cdbf3d-hls.m3u8
-#EXTINF:-1, Princeton-Harvard
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/harvardecacvideo/playlist.m3u8
-#EXTINF:-1, Yale-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, UNH-UMassLowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, Massachusetts-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, SCSU-MinnesotaDuluth
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f980980c-2395-4e07-97c7-c87bf961f415-hls/master/f980980c-2395-4e07-97c7-c87bf961f415-hls.m3u8
-#EXTINF:-1, NorthDakota-Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/16651d46-2358-436c-8b69-87fa2f21f459-hls/master/16651d46-2358-436c-8b69-87fa2f21f459-hls.m3u8
 #EXTINF:-1, ReginaPats-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/2a11c3aaa44c43ff994f157a6d80575f.m3u8
 #EXTINF:-1, Edmonton-PrinceAlbert
@@ -67,3 +19,9 @@ https://media-service.fanreachdata.io/edge/whl/1a4ecfec3f7c4c1c9cf405d04f958017.
 https://media-service.fanreachdata.io/edge/whl/244649e74c0049b6b879f01da05d9d1d.m3u8
 #EXTINF:-1, VictoriaRoyals-Everett
 https://media-service.fanreachdata.io/edge/whl/3e1a35182c414b2b9900bf2c487d09ea.m3u8
+#EXTINF:-1, Massachusetts-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, SCSU-MinnesotaDuluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f980980c-2395-4e07-97c7-c87bf961f415-hls/master/f980980c-2395-4e07-97c7-c87bf961f415-hls.m3u8
+#EXTINF:-1, NorthDakota-Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/16651d46-2358-436c-8b69-87fa2f21f459-hls/master/16651d46-2358-436c-8b69-87fa2f21f459-hls.m3u8
