@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1, NorthDakota-Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/19059c93-7d05-493b-82f1-4bf2897c66d1-hls/master/19059c93-7d05-493b-82f1-4bf2897c66d1-hls.m3u8
 #EXTINF:-1, ColoradoCollege-Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f934b970-8b12-443f-9687-5c5cb55021fb-hls/master/f934b970-8b12-443f-9687-5c5cb55021fb-hls.m3u8
-#EXTINF:-1, Lethbridge-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/b07073834bd54cb6a6c69e2f581cea41.m3u8
 #EXTINF:-1, Edmonton-Saskatoon
 https://media-service.fanreachdata.io/edge/whl/be2d293c405b454d8f1af9445c87191f.m3u8
-#EXTINF:-1, Brandon-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/d8a9e1f59a8e4ee886cf81b4e8a655ff.m3u8
 #EXTINF:-1, Kelowna-Kamloops
 https://media-service.fanreachdata.io/edge/whl/4d7c468e259548e39bee3adcd0d803b9.m3u8
 #EXTINF:-1, WenatcheeWild-Portland
