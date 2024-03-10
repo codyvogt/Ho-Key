@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Sudbury-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/6fe1ee08c0b64f68b5ea8e9e73f9971b.m3u8
-#EXTINF:-1, Peterborough-Brantford
-https://media-service.fanreachdata.io/edge/ohl/9b73011b0863441cab89546e1c563594.m3u8
-#EXTINF:-1, OwenSound-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/855bbd8374384e15b2ba84eff8d61765.m3u8
-#EXTINF:-1, Barrie-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/ff9d5a071a254c4194801247255e30f0.m3u8
+#EXTINF:-1, Nashville-Minnesota
+https://bp1.mrgamingstreams.com/mrgamingnhl.m3u8
 #EXTINF:-1, LehighValley-Bridgeport
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream91/playlist.m3u8
 #EXTINF:-1, Springfield-Providence
@@ -17,13 +11,19 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
 #EXTINF:-1, UticaComets-Rochester
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
-#EXTINF:-1, HYC-DieBärenNeuwied
-https://cdn.livearenasports.com/blobs0/65ea0d4401056a45af34bb8d/index.m3u8
 #EXTINF:-1, EVUTeam-GrIFK2
 https://cdn.livearenasports.com/blobs2/65e59bddfb7394131c22f274/index.m3u8
+#EXTINF:-1, Peterborough-Brantford
+https://media-service.fanreachdata.io/edge/ohl/9b73011b0863441cab89546e1c563594.m3u8
+#EXTINF:-1, OwenSound-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/855bbd8374384e15b2ba84eff8d61765.m3u8
+#EXTINF:-1, Barrie-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/ff9d5a071a254c4194801247255e30f0.m3u8
 #EXTINF:-1, Baie-Comeau-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/5840231a6b4f4a568c4320647eefbcfc.m3u8
 #EXTINF:-1, Shawinigan-RNHuskies
 https://media-service.fanreachdata.io/edge/lhjmq/eaaaa62d8f7a4dcfb09fe149b7f2a3ca.m3u8
 #EXTINF:-1, Victoriaville-Drummond.
 https://media-service.fanreachdata.io/edge/lhjmq/a5ddeba3d187475682e2a5e803dc9b44.m3u8
+#EXTINF:-1, Tri-CityAmericans-Seattle
+https://media-service.fanreachdata.io/edge/whl/736ad955f2524913af8bdd143f90c022.m3u8
