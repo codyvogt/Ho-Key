@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SaintJohn-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/1b796e5c365f47deb264a34831ec9d12.m3u8
 #EXTINF:-1, Moncton-Charlottetown
 https://media-service.fanreachdata.io/edge/lhjmq/2c1b9e6447d24f4bb9388b841dbf9c0e.m3u8
 #EXTINF:-1, Sherbrooke-RNHuskies
@@ -23,6 +21,14 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/19059c93-7d05-493b-82f1-4bf28
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f934b970-8b12-443f-9687-5c5cb55021fb-hls/master/f934b970-8b12-443f-9687-5c5cb55021fb-hls.m3u8
 #EXTINF:-1, UQTR-TorontoMU
 https://live-004.vip.visaic.tv/origin/oua/tmuvsuqtr-hockey-m-20240309/tmuvsuqtr-hockey-m-20240309-target/tmuvsuqtr-hockey-m-20240309-target-1080p30-z6yGfMJw_live.m3u8
+#EXTINF:-1, Hartford-Bridgeport
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream94/playlist.m3u8
+#EXTINF:-1, GrandRapids-Milwaukee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream93/playlist.m3u8
+#EXTINF:-1, Rochester-Syracuse
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream92/playlist.m3u8
+#EXTINF:-1, Belleville-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
 #EXTINF:-1, Kingston-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/a93a1b8c70b146da89c9839b24867912.m3u8
 #EXTINF:-1, OwenSound-ErieOtters
