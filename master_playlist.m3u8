@@ -1,21 +1,27 @@
 #EXTM3U
-#EXTINF:-1, Mannheim-Nürnberg
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, PorvoonHunters-S-Kiekko
-https://cdn.livearenasports.com/blobs2/65e40412fb7394131c22ea7a/index.m3u8
-#EXTINF:-1, VG-62Naantali-LuKi-82
-https://cdn.livearenasports.com/blobs1/65e4040efb7394131c22e8ac/index.m3u8
-#EXTINF:-1, Kiekko-Ahma-Kisa-Eagles
-https://cdn.livearenasports.com/blobs1/65e40410fb7394131c22e9f0/index.m3u8
-#EXTINF:-1, Sörhaga-UlricehamnsIF
-https://cdn.livearenasports.com/blobs0/65e95ab5cb9e0c309d0cc4e3/index.m3u8
 #EXTINF:-1, MotalaAIFHK-Lerum
 https://cdn.livearenasports.com/blobs0/65e96722cb9e0c309d0cc522/index.m3u8
-#EXTINF:-1, HIFKAk-K-EspooAk
-https://cdn.livearenasports.com/blobs0/65e40411fb7394131c22ea28/index.m3u8
-#EXTINF:-1, HYRI-Kiekko-Vantaa/T
-https://cdn.livearenasports.com/blobs1/65e4040efb7394131c22e8ab/index.m3u8
-#EXTINF:-1, Hermes-Jokipojat
-https://cdn.livearenasports.com/blobs0/65e40411fb7394131c22ea67/index.m3u8
-#EXTINF:-1, Viikingit-KeuPaHT/Diskos
-https://cdn.livearenasports.com/blobs1/65e40410fb7394131c22ea18/index.m3u8
+#EXTINF:-1, Zoldo-TrentinoWomen
+https://cdn.livearenasports.com/blobs0/65ec3452cb9e0c309d0cd180/index.m3u8
+#EXTINF:-1, SDEHF2-JärnaSK
+https://cdn.livearenasports.com/blobs0/65e56ea7fb7394131c22efee/index.m3u8
+#EXTINF:-1, HammarbyIF-Enköping
+https://cdn.livearenasports.com/blobs1/65e6fc60fb7394131c22f523/index.m3u8
+#EXTINF:-1, KalmarHC-GutsFinspång
+https://cdn.livearenasports.com/blobs1/65e6bc66fb7394131c22f441/index.m3u8
+#EXTINF:-1, GötaTranebergIK-Järna
+https://cdn.livearenasports.com/blobs2/65e6fc60fb7394131c22f528/index.m3u8
+#EXTINF:-1, Pikes-ModréKrídlaSlovan
+https://nn.geo.joj.sk/huste/f559c1f4-f9e6-45c1-80b2-a13c7b3589ef/f559c1f4-f9e6-45c1-80b2-a13c7b3589ef/playlist.m3u8
+#EXTINF:-1, JPK-LapuanVirkiäII
+https://cdn.livearenasports.com/blobs2/65e2f8defb7394131c22e78d/index.m3u8
+#EXTINF:-1, HCPJ-PirkanmaaGoons
+https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee66/index.m3u8
+#EXTINF:-1, PKSViihde-UJK
+https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee62/index.m3u8
+#EXTINF:-1, EVUTeam-GrIFK2
+https://cdn.livearenasports.com/blobs0/65e59bddfb7394131c22f274/index.m3u8
+#EXTINF:-1, Itä-HelsinginKiekko-LJK
+https://cdn.livearenasports.com/blobs2/65e5639efb7394131c22eec8/index.m3u8
+#EXTINF:-1, Hawks-PlayTeam-80
+https://cdn.livearenasports.com/blobs0/65e5639efb7394131c22eecd/index.m3u8
