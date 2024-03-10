@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1, KeuPaHT-JyKi
-https://cdn.livearenasports.com/blobs1/65e40412fb7394131c22ea7b/index.m3u8
-#EXTINF:-1, Pelicans-TurkuHC
-https://cdn.livearenasports.com/blobs0/65e40412fb7394131c22ea87/index.m3u8
-#EXTINF:-1, S-Kiekko-KiilatHockey
-https://cdn.livearenasports.com/blobs0/65e40412fb7394131c22ea7d/index.m3u8
-#EXTINF:-1, TPSAkatemia-HIFKCh
-https://cdn.livearenasports.com/blobs0/65e40412fb7394131c22ea7c/index.m3u8
-#EXTINF:-1, MuJK-LL-89RedLights
-https://cdn.livearenasports.com/blobs0/65e40412fb7394131c22ea9a/index.m3u8
+#EXTINF:-1, Traktor-SalavatYulaev
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
+#EXTINF:-1, Vlciéilina-HKMZvolen
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/x18/stream15/playlist.m3u8
+#EXTINF:-1, GladiatorsTrnava-Koöice
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/x18/stream14/playlist.m3u8
+#EXTINF:-1, Bansk·Bystrica-Slovan
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/x18/stream13/playlist.m3u8
