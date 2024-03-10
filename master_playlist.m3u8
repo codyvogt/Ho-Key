@@ -1,57 +1,35 @@
 #EXTM3U
-#EXTINF:-1, Traktor-SalavatYulaev
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:-1, Ingolstadt-KölnerHaie
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, ÖrebroHK-Oskarshamn
-https://cdn.livearenasports.com/blobs1/65e57804fb7394131c22f138/index.m3u8
-#EXTINF:-1, Trento-Kaltern/Ritten
-https://cdn.livearenasports.com/blobs2/655c9401b005860c0cfba2c4/index.m3u8
+#EXTINF:-1, DynamoM-DinamoMinsk
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
+#EXTINF:-1, HSKurbads-ZemgaleJrs
+https://cdn.livearenasports.com/blobs2/65e5b7c1fb7394131c22f2ee/index.m3u8
+#EXTINF:-1, HKTukums-HCŽalgiris
+https://cdn.livearenasports.com/blobs0/65e59ba0fb7394131c22f25d/index.m3u8
 #EXTINF:-1, Fassa-ValpelliceBulldogs
 https://cdn.livearenasports.com/blobs2/6551f9b1f41e4b69a03e4ea8/index.m3u8
 #EXTINF:-1, Brixen-Juniorteams
 https://cdn.livearenasports.com/blobs0/65532ffff41e4b69a03e5060/index.m3u8
-#EXTINF:-1, ERCIngolstadt-Landshut
-https://content.aisportswatch.com/278914/master.m3u8
-#EXTINF:-1, Krefeld-KölnerJunghaie
-https://content.aisportswatch.com/278916/master.m3u8
-#EXTINF:-1, KJTHaukat-KHK
-https://cdn.livearenasports.com/blobs0/65e6a70dfb7394131c22f414/index.m3u8
-#EXTINF:-1, Tiikerit-K-EspooEKS
-https://cdn.livearenasports.com/blobs0/65e59bddfb7394131c22f277/index.m3u8
-#EXTINF:-1, MeanMachine-TuK-V
-https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee5e/index.m3u8
-#EXTINF:-1, PKSViihde-UJK
-https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee62/index.m3u8
-#EXTINF:-1, EVUTeam-GrIFK2
-https://cdn.livearenasports.com/blobs0/65e59bddfb7394131c22f274/index.m3u8
-#EXTINF:-1, PaRa-Kiekko-67
-https://cdn.livearenasports.com/blobs0/65e6a70dfb7394131c22f406/index.m3u8
-#EXTINF:-1, Shakers-HCLudwig
-https://cdn.livearenasports.com/blobs1/65e5558ffb7394131c22eeb0/index.m3u8
-#EXTINF:-1, RaumaTigers-TarU
-https://cdn.livearenasports.com/blobs0/65e6a70dfb7394131c22f40f/index.m3u8
-#EXTINF:-1, EVU-Karhu-Kissat
-https://cdn.livearenasports.com/blobs0/65e5558ffb7394131c22eead/index.m3u8
-#EXTINF:-1, JPK-LapuanVirkiäII
-https://cdn.livearenasports.com/blobs0/65e2f8defb7394131c22e78d/index.m3u8
-#EXTINF:-1, HCPJ-PirkanmaaGoons
-https://cdn.livearenasports.com/blobs0/65e5558dfb7394131c22ee66/index.m3u8
-#EXTINF:-1, PajalaHC-MG/Arvidsjaur
-https://cdn.livearenasports.com/blobs0/65e56542fb7394131c22ef4a/index.m3u8
-#EXTINF:-1, NorrtäljeIK-Mariehamn
-https://cdn.livearenasports.com/blobs0/65e734a3fb7394131c22f5f5/index.m3u8
-#EXTINF:-1, HoforsHC-HedemoraSK
-https://cdn.livearenasports.com/blobs0/65e56724fb7394131c22ef7e/index.m3u8
-#EXTINF:-1, LindefalletsSK-Ockelbo
-https://cdn.livearenasports.com/blobs0/65e56bd4fb7394131c22efb8/index.m3u8
-#EXTINF:-1, Smedjebacken-Kungsör
-https://cdn.livearenasports.com/blobs0/65e5771bfb7394131c22f124/index.m3u8
-#EXTINF:-1, ÅmålsSK-VikingHC
-https://cdn.livearenasports.com/blobs0/65e57447fb7394131c22f0ec/index.m3u8
-#EXTINF:-1, SkillingarydsIS-Virserum
-https://cdn.livearenasports.com/blobs0/65e957e4cb9e0c309d0cc4c2/index.m3u8
-#EXTINF:-1, Sörhaga-UlricehamnsIF
-https://cdn.livearenasports.com/blobs0/65e95ab5cb9e0c309d0cc4e3/index.m3u8
-#EXTINF:-1, MotalaAIFHK-Lerum
-https://cdn.livearenasports.com/blobs0/65e96722cb9e0c309d0cc522/index.m3u8
+#EXTINF:-1, FlemingsbergsIK-Värmdö
+https://cdn.livearenasports.com/blobs0/65e6fc60fb7394131c22f52a/index.m3u8
+#EXTINF:-1, KalmarHC-GutsFinspång
+https://cdn.livearenasports.com/blobs0/65e6bc66fb7394131c22f441/index.m3u8
+#EXTINF:-1, HammarbyIF-Enköping
+https://cdn.livearenasports.com/blobs0/65e6fc60fb7394131c22f523/index.m3u8
+#EXTINF:-1, GötaTranebergIK-Järna
+https://cdn.livearenasports.com/blobs0/65e6fc60fb7394131c22f528/index.m3u8
+#EXTINF:-1, SaPKo-KJTHaukat
+https://cdn.livearenasports.com/blobs2/65e40412fb7394131c22ea79/index.m3u8
+#EXTINF:-1, GrIFK-KajaaninHokki
+https://cdn.livearenasports.com/blobs0/65e40411fb7394131c22ea29/index.m3u8
+#EXTINF:-1, LempäälänKisa-S-Kiekko
+https://cdn.livearenasports.com/blobs1/65e40411fb7394131c22ea68/index.m3u8
+#EXTINF:-1, Hermes-Jokipojat
+https://cdn.livearenasports.com/blobs0/65e40411fb7394131c22ea67/index.m3u8
+#EXTINF:-1, Viikingit-KeuPaHT/Diskos
+https://cdn.livearenasports.com/blobs0/65e40410fb7394131c22ea18/index.m3u8
+#EXTINF:-1, TingsrydsAIF-Olofström
+https://cdn.livearenasports.com/blobs2/65e6c42afb7394131c22f464/index.m3u8
+#EXTINF:-1, MDŠumperk-VHKVsetín
+https://cdn.livearenasports.com/blobs2/65dc706a2030d60202719a09/index.m3u8
