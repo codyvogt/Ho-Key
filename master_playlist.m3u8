@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1, DynamoM-DinamoMinsk
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:-1, Mannheim-Nürnberg
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, PorvoonHunters-S-Kiekko
+https://cdn.livearenasports.com/blobs2/65e40412fb7394131c22ea7a/index.m3u8
+#EXTINF:-1, VG-62Naantali-LuKi-82
+https://cdn.livearenasports.com/blobs1/65e4040efb7394131c22e8ac/index.m3u8
+#EXTINF:-1, Kiekko-Ahma-Kisa-Eagles
+https://cdn.livearenasports.com/blobs1/65e40410fb7394131c22e9f0/index.m3u8
+#EXTINF:-1, Sörhaga-UlricehamnsIF
+https://cdn.livearenasports.com/blobs0/65e95ab5cb9e0c309d0cc4e3/index.m3u8
+#EXTINF:-1, MotalaAIFHK-Lerum
+https://cdn.livearenasports.com/blobs0/65e96722cb9e0c309d0cc522/index.m3u8
+#EXTINF:-1, HIFKAk-K-EspooAk
+https://cdn.livearenasports.com/blobs0/65e40411fb7394131c22ea28/index.m3u8
+#EXTINF:-1, HYRI-Kiekko-Vantaa/T
+https://cdn.livearenasports.com/blobs1/65e4040efb7394131c22e8ab/index.m3u8
+#EXTINF:-1, Hermes-Jokipojat
+https://cdn.livearenasports.com/blobs0/65e40411fb7394131c22ea67/index.m3u8
+#EXTINF:-1, Viikingit-KeuPaHT/Diskos
+https://cdn.livearenasports.com/blobs1/65e40410fb7394131c22ea18/index.m3u8
