@@ -1,40 +1,10 @@
 #EXTM3U
-#EXTINF:-1, UQTR-TorontoMU
-https://live-004.vip.visaic.tv/origin/oua/tmuvsuqtr-hockey-m-20240309/tmuvsuqtr-hockey-m-20240309-target/tmuvsuqtr-hockey-m-20240309-target-1080p30-z6yGfMJw_live.m3u8
-#EXTINF:-1, Hartford-Bridgeport
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream94/playlist.m3u8
-#EXTINF:-1, Belleville-UticaComets
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
-#EXTINF:-1, Sherbrooke-RNHuskies
-https://media-service.fanreachdata.io/edge/lhjmq/46fe9e8fd1944d8da24db327bb31dd7d.m3u8
-#EXTINF:-1, Kingston-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/a93a1b8c70b146da89c9839b24867912.m3u8
-#EXTINF:-1, Niagara-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/169f19d4d9a44c0db7129dbe22af34c8.m3u8
-#EXTINF:-1, Guelph-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/7884660b33e943aea5937dabef61069b.m3u8
-#EXTINF:-1, Windsor-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/3a0f3d82eaed43b9aed4c7ab42698fd3.m3u8
-#EXTINF:-1, NorthBay-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/e14e710d8958404a98ecc20058b17fef.m3u8
-#EXTINF:-1, Massachusetts-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Rensselaer-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, SCSU-MinnesotaDuluth
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0aff72c7-f501-4882-863f-d7f80e6522c2-hls/master/0aff72c7-f501-4882-863f-d7f80e6522c2-hls.m3u8
-#EXTINF:-1, BostonC-Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, UMassLowell-UNH
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, NorthDakota-Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/19059c93-7d05-493b-82f1-4bf2897c66d1-hls/master/19059c93-7d05-493b-82f1-4bf2897c66d1-hls.m3u8
 #EXTINF:-1, ColoradoCollege-Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f934b970-8b12-443f-9687-5c5cb55021fb-hls/master/f934b970-8b12-443f-9687-5c5cb55021fb-hls.m3u8
 #EXTINF:-1, Lethbridge-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/b07073834bd54cb6a6c69e2f581cea41.m3u8
-#EXTINF:-1, MedicineHat-PARaiders
-https://media-service.fanreachdata.io/edge/whl/96dd0bd4c2dc453bbb58594964a7eec5.m3u8
 #EXTINF:-1, Edmonton-Saskatoon
 https://media-service.fanreachdata.io/edge/whl/be2d293c405b454d8f1af9445c87191f.m3u8
 #EXTINF:-1, Brandon-SwiftCurrent
@@ -51,3 +21,7 @@ https://media-service.fanreachdata.io/edge/whl/7deab138f04744a8904fed20093e5ba7.
 https://media-service.fanreachdata.io/edge/whl/e903eed5af4b41049709bc17000acf50.m3u8
 #EXTINF:-1, Everett-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/daba36d3a98e4844be9fcc676ea82a09.m3u8
+#EXTINF:-1, KeuPaHT-JyKi
+https://cdn.livearenasports.com/blobs0/65e40412fb7394131c22ea7b/index.m3u8
+#EXTINF:-1, Pelicans-TurkuHC
+https://cdn.livearenasports.com/blobs0/65e40412fb7394131c22ea87/index.m3u8
