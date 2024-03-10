@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Nashville-Minnesota
 https://bp1.mrgamingstreams.com/mrgamingnhl.m3u8
-#EXTINF:-1, LehighValley-Bridgeport
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream91/playlist.m3u8
-#EXTINF:-1, Springfield-Providence
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
 #EXTINF:-1, Milwaukee-Chicago
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
 #EXTINF:-1, Manitoba-IowaWild
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
 #EXTINF:-1, UticaComets-Rochester
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
-#EXTINF:-1, EVUTeam-GrIFK2
-https://cdn.livearenasports.com/blobs2/65e59bddfb7394131c22f274/index.m3u8
 #EXTINF:-1, Peterborough-Brantford
 https://media-service.fanreachdata.io/edge/ohl/9b73011b0863441cab89546e1c563594.m3u8
 #EXTINF:-1, OwenSound-ErieOtters
