@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, CalgaryFlames-Carolina
-https://bp1.mrgamingstreams.com/mrgamingnhl2.m3u8
 #EXTINF:-1, Barrie-OshawaGenerals
 https://media-service.fanreachdata.io/edge/ohl/ff9d5a071a254c4194801247255e30f0.m3u8
+#EXTINF:-1, OntarioReign-Calgary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
 #EXTINF:-1, Tri-CityAmericans-Seattle
 https://media-service.fanreachdata.io/edge/whl/736ad955f2524913af8bdd143f90c022.m3u8
