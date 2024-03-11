@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1, KOOVEE-Kiekko-Pojat
+#EXTINF:-1, KAC-PioneersVorarlberg
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream265/playlist.m3u8
+#EXTINF:-1, FehérvárAV19-Pustertal
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream268/playlist.m3u8
+#EXTINF:-1, BolzanoFoxes-ECVSV
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream270/playlist.m3u8
-#EXTINF:-1, RoKi-Kiekko-Vantaa
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream266/playlist.m3u8
-#EXTINF:-1, Litvínov-MladáBoleslav
-https://cdn.livearenasports.com/blobs2/65e580b7fb7394131c22f1f4/index.m3u8
-#EXTINF:-1, BeraniZlín-DuklaJihlava
-https://cdn.livearenasports.com/blobs1/65e58ec7fb7394131c22f23d/index.m3u8
-#EXTINF:-1, Zvolen-LiptovskýMikuláš
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream262/playlist.m3u8
+#EXTINF:-1, Biel-Bienne-Ambri-Piotta
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, KoPo-OKKTankki
+https://cdn.livearenasports.com/blobs0/65e5639efb7394131c22eece/index.m3u8
