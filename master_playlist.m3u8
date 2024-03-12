@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1, BarrieColts-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/8dc3bdda838048158447b9e7026fcbaf.m3u8
-#EXTINF:-1, Nürnberg-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, EKZEisbären-Wipptal
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream169/playlist.m3u8
-#EXTINF:-1, Unterland-RedBullJrs
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream265/playlist.m3u8
-#EXTINF:-1, Meran/oPircher-Cortina
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream374/playlist.m3u8
-#EXTINF:-1, Norrtälje-GötaTraneberg
-https://cdn.livearenasports.com/blobs0/65e80936fb7394131c22f6da/index.m3u8
-#EXTINF:-1, GnestaIK-Viggbyholm
-https://cdn.livearenasports.com/blobs1/65e815a4fb7394131c22f708/index.m3u8
-#EXTINF:-1, BålstaHC-GimoIFHC
-https://cdn.livearenasports.com/blobs0/65e8138bfb7394131c22f6fb/index.m3u8
 #EXTINF:-1, Liege-Heerenveen
 https://cdn.livearenasports.com/blobs0/65ea0d4501056a45af34bb8f/index.m3u8
 #EXTINF:-1, DieBärenNeuwied-HYC
 https://cdn.livearenasports.com/blobs1/65ea0d46cb9e0c309d0cc8f9/index.m3u8
+#EXTINF:-1, Meran/oPircher-Cortina
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream374/playlist.m3u8
 #EXTINF:-1, Pergine-HockeyComo
 https://cdn.livearenasports.com/blobs0/65ef2571ff71f720b7ec1ddc/index.m3u8
 #EXTINF:-1, Varese-Feltreghiaccio
