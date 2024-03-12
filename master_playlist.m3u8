@@ -1,3 +1,15 @@
 #EXTM3U
+#EXTINF:-1, Hartford-Charlotte
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream03/playlist.m3u8
+#EXTINF:-1, GrandRapids-Cleveland
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream02/playlist.m3u8
 #EXTINF:-1, Oshawa-Mississauga
 https://media-service.fanreachdata.io/edge/ohl/8c1ceebbe0434cbcae7b49c52fce5ddb.m3u8
+#EXTINF:-1, SCBroncos-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/070e8f5d7b8a4f59ad30c4c267697df4.m3u8
+#EXTINF:-1, Brandon-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/277b735a3c9b4ecc9df0290b8c6d0462.m3u8
+#EXTINF:-1, Tri-City-Vancouver
+https://media-service.fanreachdata.io/edge/whl/8acb2d5386094159a538d704786271ed.m3u8
+#EXTINF:-1, Portland-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/e361533fa4c14862a95d2735b2cbc435.m3u8
