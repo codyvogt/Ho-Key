@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1, KölnerHaie-Ingolstadt
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, Benátkyn.Jizerou-Tábor
-https://cdn.livearenasports.com/blobs2/65f036ddff71f720b7ec1fd1/index.m3u8
-#EXTINF:-1, KobraPraha-Chomutov
-https://cdn.livearenasports.com/blobs2/65ed69c2cb9e0c309d0cd7d3/index.m3u8
+#EXTINF:-1, Titaanit-NokianPyry
+https://cdn.livearenasports.com/blobs1/65e94a0dcb9e0c309d0cc4a0/index.m3u8
