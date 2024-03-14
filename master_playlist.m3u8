@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1, KölnerHaie-Ingolstadt
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, KobraPraha-Chomutov
-https://cdn.livearenasports.com/blobs2/65ed69c2cb9e0c309d0cd7d3/index.m3u8
+#EXTINF:-1, OlofströmsIK-Hanviken
+https://cdn.livearenasports.com/blobs2/65eead20ff71f720b7ec1acd/index.m3u8
+#EXTINF:-1, JärnaSK-VärmdöHC
+https://cdn.livearenasports.com/blobs0/65eabd19cb9e0c309d0cc9ef/index.m3u8
+#EXTINF:-1, Hvidovre-Rødovre
+https://cdn.livearenasports.com/blobs1/65f2ae5fff71f720b7ec2463/index.m3u8
