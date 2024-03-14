@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, RNHuskies-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/aa16221eedf54207baf9eec4daed9743.m3u8
-#EXTINF:-1, SaultSte.Marie-Flint
-https://media-service.fanreachdata.io/edge/ohl/ac3d5989459a4b5f84be86f2ac495570.m3u8
-#EXTINF:-1, Kingston-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/ccd0016177164fd3bb09f5ef08e6e860.m3u8
 #EXTINF:-1, Edmonton-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/34eaf657a8894748b260bfa8bf47df79.m3u8
 #EXTINF:-1, PrinceGeorge-Kelowna
