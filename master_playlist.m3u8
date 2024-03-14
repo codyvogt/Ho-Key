@@ -1,9 +1,19 @@
 #EXTM3U
-#EXTINF:-1, KölnerHaie-Ingolstadt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, OlofströmsIK-Hanviken
-https://cdn.livearenasports.com/blobs2/65eead20ff71f720b7ec1acd/index.m3u8
-#EXTINF:-1, JärnaSK-VärmdöHC
-https://cdn.livearenasports.com/blobs0/65eabd19cb9e0c309d0cc9ef/index.m3u8
-#EXTINF:-1, Hvidovre-Rødovre
-https://cdn.livearenasports.com/blobs1/65f2ae5fff71f720b7ec2463/index.m3u8
+#EXTINF:-1, CapeBreton-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/4787963348a84661bf2f7ea6e80ca670.m3u8
+#EXTINF:-1, Charlottetown-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/066802d30cba401e955942d6dfcdd8d6.m3u8
+#EXTINF:-1, ABTitan-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/9dbe09c7695045bd9d32ce401a6b697f.m3u8
+#EXTINF:-1, RNHuskies-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/c6c3b3728c2a4b07b11a5689d9d40085.m3u8
+#EXTINF:-1, Victoriaville-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/3cd52594a0b447cf96b893cd924dafbf.m3u8
+#EXTINF:-1, Ottawa67's-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/9c6b22d428094827846811868e621018.m3u8
+#EXTINF:-1, Brantford-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/166148627dca427487d7ebeef6d0fccb.m3u8
+#EXTINF:-1, Erie-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/7eed4533ccd44f6d9fe86a1eed9b1f20.m3u8
+#EXTINF:-1, Guelph-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/29af6c2c4a134d528eb77c28d747169d.m3u8
