@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1, FassaFalcons-Merano
-https://cdn.livearenasports.com/blobs2/65f05284ff71f720b7ec2046/index.m3u8
-#EXTINF:-1, SCKolín-HCRokycany
-https://cdn.livearenasports.com/blobs1/65ddcff9af4cbf0afb32f5b0/index.m3u8
+#EXTINF:-1, Rødovre-AalborgPirates
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream271/playlist.m3u8
+#EXTINF:-1, GnestaIK-IKWaxholm
+https://cdn.livearenasports.com/blobs0/65ec1078cb9e0c309d0cd113/index.m3u8
+#EXTINF:-1, SHK-Vallentuna-Ormsta
+https://cdn.livearenasports.com/blobs1/65ebfae5cb9e0c309d0cd05c/index.m3u8
+#EXTINF:-1, SDEHF2-KallhällsIF
+https://cdn.livearenasports.com/blobs2/65ec0adbcb9e0c309d0cd091/index.m3u8
+#EXTINF:-1, TranebergIK-Hammarby
+https://cdn.livearenasports.com/blobs0/65ec125fcb9e0c309d0cd122/index.m3u8
