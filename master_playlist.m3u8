@@ -5,3 +5,9 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
 #EXTINF:-1, ZSCLions-Biel-Bienne
 https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, DragonsdeRouen-Nice
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream83/playlist.m3u8
+#EXTINF:-1, Varese-EppanPirates
+https://cdn.livearenasports.com/blobs0/65f1a1a0ff71f720b7ec22a0/index.m3u8
+#EXTINF:-1, Pergine-SVKaltern
+https://cdn.livearenasports.com/blobs1/65f4a5d7ff71f720b7ec2b5d/index.m3u8
