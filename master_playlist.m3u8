@@ -1,39 +1,5 @@
 #EXTM3U
-#EXTINF:-1, DynamoMoscow-Traktor
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, Straubing-Schwenningen
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
-#EXTINF:-1, HelsinginJokerit-KalPa
-https://cdn.livearenasports.com/blobs0/65ed3e90cb9e0c309d0cd2fa/index.m3u8
-#EXTINF:-1, JYP-LahdenPelicans
-https://cdn.livearenasports.com/blobs2/65ed92edcb9e0c309d0cd81a/index.m3u8
-#EXTINF:-1, VaasanSport-Ässät
-https://cdn.livearenasports.com/blobs1/65ed3e90cb9e0c309d0cd32d/index.m3u8
-#EXTINF:-1, ImatranKetterä-SaPKo
-https://cdn.livearenasports.com/blobs1/65ee900eff71f720b7ec18a1/index.m3u8
-#EXTINF:-1, HPK-Kiekko-Espoo
-https://cdn.livearenasports.com/blobs2/65ed3e90cb9e0c309d0cd2ea/index.m3u8
-#EXTINF:-1, LinköpingHC-AIK
-https://cdn.livearenasports.com/blobs1/65ed66a8cb9e0c309d0cd7b9/index.m3u8
-#EXTINF:-1, FärjestadBK-LuleåHF
-https://cdn.livearenasports.com/blobs0/65ed61f6cb9e0c309d0cd74e/index.m3u8
-#EXTINF:-1, SödertäljeSK-Västerås
-https://cdn.livearenasports.com/blobs2/65ed6016cb9e0c309d0cd73b/index.m3u8
-#EXTINF:-1, SpišskáNováVes-Skalica
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream87/playlist.m3u8
-#EXTINF:-1, DuklaMichalovce-Martin
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/x18/stream66/playlist.m3u8
-#EXTINF:-1, FlemingsbergsIK-Järna
-https://cdn.livearenasports.com/blobs2/65ed53e6cb9e0c309d0cd648/index.m3u8
-#EXTINF:-1, KalmarHC-VitaHästen
-https://cdn.livearenasports.com/blobs1/65eec93fff71f720b7ec1c47/index.m3u8
-#EXTINF:-1, HCDalen-Helsingborg
-https://cdn.livearenasports.com/blobs2/65eec93fff71f720b7ec1c44/index.m3u8
-#EXTINF:-1, VärmdöHC-EnköpingsSK
-https://cdn.livearenasports.com/blobs2/65ed63decb9e0c309d0cd767/index.m3u8
-#EXTINF:-1, FaluIF-HudiksvallsHC
-https://cdn.livearenasports.com/blobs0/65ed5b66cb9e0c309d0cd6c3/index.m3u8
-#EXTINF:-1, HCEverest-NarvaPSK
-https://cdn.livearenasports.com/blobs2/65e730ebfb7394131c22f5e7/index.m3u8
 #EXTINF:-1, SaPKo-Titaanit
 https://cdn.livearenasports.com/blobs1/65f3d60dff71f720b7ec26f7/index.m3u8
