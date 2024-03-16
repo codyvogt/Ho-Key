@@ -11,6 +11,8 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 https://hockeytech.akamaized.net/hls/live/2027348/game-1035949-Home-759d318f-d0ff-44f0-99af-b445fee4e5c3/main.m3u8
 #EXTINF:-1, Manitoba-ChicagoWolves
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
+#EXTINF:-1, Calgary-ColoradoEalges
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
 #EXTINF:-1, Val-d'Or-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/5afbf41cff38476e866f97389f216486.m3u8
 #EXTINF:-1, Rimouski-Sherbrooke
@@ -51,8 +53,6 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f6d3f12f-7f48-4213-a9bc-152de
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8d09a8d9-ee1a-4baa-9fd9-8acf48694349-hls/master/8d09a8d9-ee1a-4baa-9fd9-8acf48694349-hls.m3u8
 #EXTINF:-1, CedarRapids-USAU18
 https://d18aip5elm4tl5.cloudfront.net/5f407cc6bc72a5708b7486184d0110a9/0_hd_hls.m3u8
-#EXTINF:-1, Canada-UnitedStates
-https://d3l2o3wbgiq816.cloudfront.net/a9edab24e60bb8709b3695b77b6f85a2/0_hd_hls.m3u8
 #EXTINF:-1, RedDeer-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/7d1376ab321149f0b70800e3d244a1ec.m3u8
 #EXTINF:-1, PrinceAlbert-Regina
