@@ -1,21 +1,7 @@
 #EXTM3U
+#EXTINF:-1, Rochester-Toronto
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream81/playlist.m3u8
 #EXTINF:-1, Wolfsburg-EHCMünchen
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, Goons-HPKIcedogs
-https://cdn.livearenasports.com/blobs0/65ee900eff71f720b7ec18b8/index.m3u8
-#EXTINF:-1, ShakersKerava-EVU
-https://cdn.livearenasports.com/blobs0/65ee900fff71f720b7ec191c/index.m3u8
-#EXTINF:-1, WarranttiMahtikukot-JPK
-https://cdn.livearenasports.com/blobs1/65ee900fff71f720b7ec1911/index.m3u8
-#EXTINF:-1, LaserHTAk-Ahmat
-https://cdn.livearenasports.com/blobs2/65ed3e90cb9e0c309d0cd37a/index.m3u8
-#EXTINF:-1, Panthers-HCGiants
-https://cdn.livearenasports.com/blobs2/65ed3e92cb9e0c309d0cd56a/index.m3u8
-#EXTINF:-1, Kiekko-67Turku-TarU
-https://cdn.livearenasports.com/blobs1/65ee900eff71f720b7ec18ca/index.m3u8
-#EXTINF:-1, YKI-SodankylänPallo
-https://cdn.livearenasports.com/blobs0/65ed3e8dcb9e0c309d0cd20f/index.m3u8
-#EXTINF:-1, VärmdöHC-EnköpingsSK
-https://cdn.livearenasports.com/blobs2/65ed63decb9e0c309d0cd767/index.m3u8
-#EXTINF:-1, FaluIF-HudiksvallsHC
-https://cdn.livearenasports.com/blobs1/65ed5b66cb9e0c309d0cd6c3/index.m3u8
+#EXTINF:-1, ZSCLions-Biel-Bienne
+https://vstream-cdn.ch/hls/teleticino.m3u8
