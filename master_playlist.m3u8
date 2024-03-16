@@ -1,48 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Bridgeport-LavalRocket
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
-#EXTINF:-1, IowaWild-GrandRapids
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
-#EXTINF:-1, Belleville-SyracuseCrunch
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
-#EXTINF:-1, Hershey-UticaComets
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
-#EXTINF:-1, Toronto-Rochester
-https://hockeytech.akamaized.net/hls/live/2027348/game-1035949-Home-759d318f-d0ff-44f0-99af-b445fee4e5c3/main.m3u8
-#EXTINF:-1, Manitoba-ChicagoWolves
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, Calgary-ColoradoEalges
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
-#EXTINF:-1, Val-d'Or-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/5afbf41cff38476e866f97389f216486.m3u8
-#EXTINF:-1, Rimouski-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/471ba2561d2042a6957801822a0af117.m3u8
-#EXTINF:-1, Québec-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/bacdc6f42c4c4ff69695badd48cd5896.m3u8
-#EXTINF:-1, Drummond.-Blainville
-https://media-service.fanreachdata.io/edge/lhjmq/e11b156e42e143a49a468d6ca4433af2.m3u8
-#EXTINF:-1, Peterborough-Kingston
-https://media-service.fanreachdata.io/edge/ohl/63bafcc0652048c3b4fea1dad5cb3992.m3u8
-#EXTINF:-1, Niagara-Mississauga
-https://media-service.fanreachdata.io/edge/ohl/b83fdba27231400b8d1b82a488def6ca.m3u8
-#EXTINF:-1, OwenSound-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/30404517a14542d4ac5dc4dfa94f133a.m3u8
-#EXTINF:-1, SaultSte.Marie-London
-https://media-service.fanreachdata.io/edge/ohl/8bcdc167203646229a91f3ea9c7abaf2.m3u8
-#EXTINF:-1, Oshawa-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/1f0471ad565e47c8a7d1b61a55fa6412.m3u8
-#EXTINF:-1, Flint-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/4a0d8fd9b7244d4c9c8d1dd310aa2f82.m3u8
-#EXTINF:-1, Saginaw-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/fb612000a2f24d8b9c65ccd75be50f5c.m3u8
 #EXTINF:-1, St.Lawrence-Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Harvard-Cornell
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
-#EXTINF:-1, Union-Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/dartmouthecacvideo/playlist.m3u8
-#EXTINF:-1, Rensselaer-Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Miami-NorthDakota
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3c0db194-95cd-42cd-a0f7-3002547495ba-hls/master/3c0db194-95cd-42cd-a0f7-3002547495ba-hls.m3u8
 #EXTINF:-1, WMU-St.CloudState
@@ -51,8 +9,18 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a786bfd5-0650-4422-b9a2-217dd
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f6d3f12f-7f48-4213-a9bc-152de7aa8f32-hls/master/f6d3f12f-7f48-4213-a9bc-152de7aa8f32-hls.m3u8
 #EXTINF:-1, MinnesotaDuluth-Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8d09a8d9-ee1a-4baa-9fd9-8acf48694349-hls/master/8d09a8d9-ee1a-4baa-9fd9-8acf48694349-hls.m3u8
-#EXTINF:-1, CedarRapids-USAU18
-https://d18aip5elm4tl5.cloudfront.net/5f407cc6bc72a5708b7486184d0110a9/0_hd_hls.m3u8
+#EXTINF:-1, Saginaw-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/fb612000a2f24d8b9c65ccd75be50f5c.m3u8
+#EXTINF:-1, Québec-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/bacdc6f42c4c4ff69695badd48cd5896.m3u8
+#EXTINF:-1, Manitoba-ChicagoWolves
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
+#EXTINF:-1, Calgary-ColoradoEalges
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
+#EXTINF:-1, CoachellaValley-Ontario
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
+#EXTINF:-1, Milwaukee-SanDiego
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
 #EXTINF:-1, RedDeer-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/7d1376ab321149f0b70800e3d244a1ec.m3u8
 #EXTINF:-1, PrinceAlbert-Regina
