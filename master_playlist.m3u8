@@ -9,6 +9,8 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
 #EXTINF:-1, Toronto-Rochester
 https://hockeytech.akamaized.net/hls/live/2027348/game-1035949-Home-759d318f-d0ff-44f0-99af-b445fee4e5c3/main.m3u8
+#EXTINF:-1, Manitoba-ChicagoWolves
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
 #EXTINF:-1, Val-d'Or-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/5afbf41cff38476e866f97389f216486.m3u8
 #EXTINF:-1, Rimouski-Sherbrooke
