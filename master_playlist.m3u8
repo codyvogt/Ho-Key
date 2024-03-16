@@ -1,43 +1,35 @@
 #EXTM3U
-#EXTINF:-1, St.Lawrence-Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Miami-NorthDakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3c0db194-95cd-42cd-a0f7-3002547495ba-hls/master/3c0db194-95cd-42cd-a0f7-3002547495ba-hls.m3u8
-#EXTINF:-1, WMU-St.CloudState
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a786bfd5-0650-4422-b9a2-217dda4a1da1-hls/master/a786bfd5-0650-4422-b9a2-217dda4a1da1-hls.m3u8
-#EXTINF:-1, Omaha-ColoradoCollege
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f6d3f12f-7f48-4213-a9bc-152de7aa8f32-hls/master/f6d3f12f-7f48-4213-a9bc-152de7aa8f32-hls.m3u8
-#EXTINF:-1, MinnesotaDuluth-Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8d09a8d9-ee1a-4baa-9fd9-8acf48694349-hls/master/8d09a8d9-ee1a-4baa-9fd9-8acf48694349-hls.m3u8
-#EXTINF:-1, Saginaw-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/fb612000a2f24d8b9c65ccd75be50f5c.m3u8
-#EXTINF:-1, Québec-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/bacdc6f42c4c4ff69695badd48cd5896.m3u8
-#EXTINF:-1, Manitoba-ChicagoWolves
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, Calgary-ColoradoEalges
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
-#EXTINF:-1, CoachellaValley-Ontario
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream41/playlist.m3u8
-#EXTINF:-1, Milwaukee-SanDiego
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
-#EXTINF:-1, RedDeer-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/7d1376ab321149f0b70800e3d244a1ec.m3u8
-#EXTINF:-1, PrinceAlbert-Regina
-https://media-service.fanreachdata.io/edge/whl/fcb77282447b4f499d57555938f25515.m3u8
-#EXTINF:-1, MooseJaw-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/8284649769a345ea89bc941a3de7e430.m3u8
-#EXTINF:-1, MedicineHat-SCBroncos
-https://media-service.fanreachdata.io/edge/whl/9937e82fe4744023b50eac90cc431569.m3u8
-#EXTINF:-1, Calgary-Edmonton
-https://media-service.fanreachdata.io/edge/whl/3e4af4fd489b47ff9492ddee838a4c0f.m3u8
-#EXTINF:-1, Tri-City-Portland
-https://media-service.fanreachdata.io/edge/whl/bee01c0980914c6c89aacfe6d9d04789.m3u8
-#EXTINF:-1, Spokane-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/cd9385614f424bbf9f4e95d6396888f4.m3u8
-#EXTINF:-1, Kamloops-Vancouver
-https://media-service.fanreachdata.io/edge/whl/b2fdb3ac987f49059d61e908a1617a57.m3u8
-#EXTINF:-1, KelownaRockets-Everett
-https://media-service.fanreachdata.io/edge/whl/4d73c5f1121b4afcbb274027d99464e1.m3u8
-#EXTINF:-1, PrinceGeorge-Victoria
-https://media-service.fanreachdata.io/edge/whl/09f25b1b27bc46df892c8a2799ed7c9d.m3u8
+#EXTINF:-1, Timrå-MalmöRedhawks
+https://cdn.livearenasports.com/blobs0/65ed62e5cb9e0c309d0cd75f/index.m3u8
+#EXTINF:-1, ÖrebroHK-AlmtunaIS
+https://cdn.livearenasports.com/blobs0/65ed6102cb9e0c309d0cd745/index.m3u8
+#EXTINF:-1, MoDo-IKOskarshamn
+https://cdn.livearenasports.com/blobs0/65ed6016cb9e0c309d0cd73e/index.m3u8
+#EXTINF:-1, VäxjöLakers-HV71
+https://cdn.livearenasports.com/blobs0/65ed6796cb9e0c309d0cd7c7/index.m3u8
+#EXTINF:-1, BrynäsIF-LeksandsIF
+https://cdn.livearenasports.com/blobs0/65ed55c6cb9e0c309d0cd65a/index.m3u8
+#EXTINF:-1, DjurgårdensIF-Skellefteå
+https://cdn.livearenasports.com/blobs0/65ed56b7cb9e0c309d0cd672/index.m3u8
+#EXTINF:-1, LinköpingHC-AIK
+https://cdn.livearenasports.com/blobs0/65ed66a8cb9e0c309d0cd7b9/index.m3u8
+#EXTINF:-1, FärjestadBK-LuleåHF
+https://cdn.livearenasports.com/blobs0/65ed61f6cb9e0c309d0cd74e/index.m3u8
+#EXTINF:-1, SödertäljeSK-Västerås
+https://cdn.livearenasports.com/blobs0/65ed6016cb9e0c309d0cd73b/index.m3u8
+#EXTINF:-1, ForshagaIF-OrsaIK
+https://cdn.livearenasports.com/blobs0/65ed5898cb9e0c309d0cd684/index.m3u8
+#EXTINF:-1, Alvesta-Boro/Vetlanda
+https://cdn.livearenasports.com/blobs0/65eec93fff71f720b7ec1c4b/index.m3u8
+#EXTINF:-1, FlemingsbergsIK-Järna
+https://cdn.livearenasports.com/blobs0/65ed53e6cb9e0c309d0cd648/index.m3u8
+#EXTINF:-1, KalmarHC-VitaHästen
+https://cdn.livearenasports.com/blobs0/65eec93fff71f720b7ec1c47/index.m3u8
+#EXTINF:-1, HCDalen-Helsingborg
+https://cdn.livearenasports.com/blobs0/65eec93fff71f720b7ec1c44/index.m3u8
+#EXTINF:-1, VärmdöHC-EnköpingsSK
+https://cdn.livearenasports.com/blobs0/65ed63decb9e0c309d0cd767/index.m3u8
+#EXTINF:-1, FaluIF-HudiksvallsHC
+https://cdn.livearenasports.com/blobs0/65ed5b66cb9e0c309d0cd6c3/index.m3u8
+#EXTINF:-1, HanvikensSK-Olofström
+https://cdn.livearenasports.com/blobs0/65eead20ff71f720b7ec1acb/index.m3u8
