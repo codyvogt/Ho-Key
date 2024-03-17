@@ -1,15 +1,33 @@
 #EXTM3U
-#EXTINF:-1, SKA-Avtomobilist
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, EisbärenBerlin-Mannheim
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, DüsseldorferEG-Landshut
-https://content.aisportswatch.com/282471/master.m3u8
-#EXTINF:-1, SpišskáNováVes-Martin
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream87/playlist.m3u8
-#EXTINF:-1, JYP-LahdenPelicans
-https://cdn.livearenasports.com/blobs1/65ed3e90cb9e0c309d0cd2f9/index.m3u8
 #EXTINF:-1, Ässät-VaasanSport
 https://cdn.livearenasports.com/blobs0/65ed3e90cb9e0c309d0cd32b/index.m3u8
-#EXTINF:-1, KalPa-HelsinginJokerit
-https://cdn.livearenasports.com/blobs1/65ee900fff71f720b7ec18dd/index.m3u8
+#EXTINF:-1, KPK-PyryAkatemia
+https://cdn.livearenasports.com/blobs1/65ed3e90cb9e0c309d0cd396/index.m3u8
+#EXTINF:-1, KurikanRyhti-MalaxIF
+https://cdn.livearenasports.com/blobs2/65ee900fff71f720b7ec190e/index.m3u8
+#EXTINF:-1, Kiekko-Ahma-Hiki-Hockey
+https://cdn.livearenasports.com/blobs2/65ee900fff71f720b7ec191a/index.m3u8
+#EXTINF:-1, LaserHT-Etelä-Portimo
+https://cdn.livearenasports.com/blobs0/65ed3e90cb9e0c309d0cd327/index.m3u8
+#EXTINF:-1, IFBjörklöven-Karlskoga
+https://cdn.livearenasports.com/blobs0/65eead20ff71f720b7ec1acf/index.m3u8
+#EXTINF:-1, PyryM2-HokkaritII
+https://cdn.livearenasports.com/blobs1/65ebed0ecb9e0c309d0ccd9f/index.m3u8
+#EXTINF:-1, Tiikerit-A-Rangers
+https://cdn.livearenasports.com/blobs2/65ee900fff71f720b7ec18e6/index.m3u8
+#EXTINF:-1, KJTHaukatAk-Pyry
+https://cdn.livearenasports.com/blobs2/65eeafb1ff71f720b7ec1b28/index.m3u8
+#EXTINF:-1, Pantern-EskilstunaLinden
+https://cdn.livearenasports.com/blobs2/65eea745ff71f720b7ec1a35/index.m3u8
+#EXTINF:-1, IFKArboga-ValboHC
+https://cdn.livearenasports.com/blobs1/65eeabf4ff71f720b7ec1a9f/index.m3u8
+#EXTINF:-1, IFKTumbaIK-Segeltorp
+https://cdn.livearenasports.com/blobs2/65eeaa17ff71f720b7ec1a75/index.m3u8
+#EXTINF:-1, VärmdöHC-Sollentuna
+https://cdn.livearenasports.com/blobs0/65eeb55dff71f720b7ec1b9a/index.m3u8
+#EXTINF:-1, UlricehamnsIF-Sörhaga
+https://cdn.livearenasports.com/blobs0/65eea1a3ff71f720b7ec19e7/index.m3u8
+#EXTINF:-1, LerumsBK-MotalaAIF
+https://cdn.livearenasports.com/blobs0/65ee9fc2ff71f720b7ec19b2/index.m3u8
