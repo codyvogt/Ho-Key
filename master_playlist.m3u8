@@ -1,5 +1,35 @@
 #EXTM3U
-#EXTINF:-1, Springfield-Charlotte
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream81/playlist.m3u8
-#EXTINF:-1, Skalica-Povaûsk·Bystrica
-https://nn.geo.joj.sk/huste/a7186a80-9928-45ad-9c1e-8dd6f7ee1d0b/a7186a80-9928-45ad-9c1e-8dd6f7ee1d0b/playlist.m3u8
+#EXTINF:-1, Fassa-Kaltern/Ritten
+https://cdn.livearenasports.com/blobs2/6551f9baf41e4b69a03e4eaa/index.m3u8
+#EXTINF:-1, EHCNeuwied-HijsHokij
+https://cdn.livearenasports.com/blobs0/65f1792eff71f720b7ec21ff/index.m3u8
+#EXTINF:-1, Mississauga-Brantford
+https://media-service.fanreachdata.io/edge/ohl/880beadacf0645b39d2d04bb0f84bfa1.m3u8
+#EXTINF:-1, NorthBay-Kingston
+https://media-service.fanreachdata.io/edge/ohl/15454b3e5a9f4aee9cf84fa8d8c3e7cb.m3u8
+#EXTINF:-1, Barrie-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/0c87864350b0480bb9c02228e8b58d77.m3u8
+#EXTINF:-1, Kitchener-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/076a0024760a49f2b91a1552c3e38181.m3u8
+#EXTINF:-1, Sudbury-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/bc31b079e5ea4aa4aa61984e0fdcf981.m3u8
+#EXTINF:-1, London-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/bdd7a930ae714c67875f3343c322bd55.m3u8
+#EXTINF:-1, Sarnia-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/92e65e2611384afc862bd79d8c380e6e.m3u8
+#EXTINF:-1, Charlottetown-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/d3e600ca1eb8405fb91815a8b773028c.m3u8
+#EXTINF:-1, Shawinigan-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/117a0b00bff94458b16db6c478fe026a.m3u8
+#EXTINF:-1, Baie-Comeau-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/cc044b8290a3429c9c5c52e3aa10fe5b.m3u8
+#EXTINF:-1, CapeBreton-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/09de025a95284f9f8661138fe5911182.m3u8
+#EXTINF:-1, HCT·bor-KobraPraha
+https://cdn.livearenasports.com/blobs1/65ccac7ad6ae5a77fad30cf3/index.m3u8
+#EXTINF:-1, ≈byHC-BokasportSK
+https://cdn.livearenasports.com/blobs2/65eea745ff71f720b7ec1a3f/index.m3u8
+#EXTINF:-1, WMU-St.CloudState
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/505639d8-b088-4426-b37d-852258181d71-hls/master/505639d8-b088-4426-b37d-852258181d71-hls.m3u8
+#EXTINF:-1, Omaha-ColoradoCollege
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c565f8c6-c5bb-4404-9e3d-5273e2bda4ce-hls/master/c565f8c6-c5bb-4404-9e3d-5273e2bda4ce-hls.m3u8
