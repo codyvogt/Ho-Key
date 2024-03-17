@@ -3,31 +3,33 @@
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
 #EXTINF:-1, Laval-TorontoMarlies
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
-#EXTINF:-1, Mississauga-Brantford
-https://media-service.fanreachdata.io/edge/ohl/880beadacf0645b39d2d04bb0f84bfa1.m3u8
-#EXTINF:-1, NorthBay-Kingston
-https://media-service.fanreachdata.io/edge/ohl/15454b3e5a9f4aee9cf84fa8d8c3e7cb.m3u8
-#EXTINF:-1, Barrie-NiagaraIceDogs
-https://media-service.fanreachdata.io/edge/ohl/0c87864350b0480bb9c02228e8b58d77.m3u8
-#EXTINF:-1, Kitchener-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/076a0024760a49f2b91a1552c3e38181.m3u8
-#EXTINF:-1, Sudbury-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/bc31b079e5ea4aa4aa61984e0fdcf981.m3u8
-#EXTINF:-1, London-WindsorSpitfires
-https://media-service.fanreachdata.io/edge/ohl/bdd7a930ae714c67875f3343c322bd55.m3u8
-#EXTINF:-1, Sarnia-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/92e65e2611384afc862bd79d8c380e6e.m3u8
-#EXTINF:-1, Charlottetown-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/d3e600ca1eb8405fb91815a8b773028c.m3u8
+#EXTINF:-1, SanJose-Rockford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream90/playlist.m3u8
+#EXTINF:-1, Hartford-HersheyBears
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
 #EXTINF:-1, Shawinigan-Gatineau
 https://media-service.fanreachdata.io/edge/lhjmq/117a0b00bff94458b16db6c478fe026a.m3u8
 #EXTINF:-1, Baie-Comeau-Sherbrooke
 https://media-service.fanreachdata.io/edge/lhjmq/cc044b8290a3429c9c5c52e3aa10fe5b.m3u8
 #EXTINF:-1, CapeBreton-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/09de025a95284f9f8661138fe5911182.m3u8
-#EXTINF:-1, ÅbyHC-BokasportSK
-https://cdn.livearenasports.com/blobs2/65eea745ff71f720b7ec1a3f/index.m3u8
+#EXTINF:-1, London-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/bdd7a930ae714c67875f3343c322bd55.m3u8
+#EXTINF:-1, Sarnia-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/92e65e2611384afc862bd79d8c380e6e.m3u8
 #EXTINF:-1, WMU-St.CloudState
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/505639d8-b088-4426-b37d-852258181d71-hls/master/505639d8-b088-4426-b37d-852258181d71-hls.m3u8
 #EXTINF:-1, Omaha-ColoradoCollege
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c565f8c6-c5bb-4404-9e3d-5273e2bda4ce-hls/master/c565f8c6-c5bb-4404-9e3d-5273e2bda4ce-hls.m3u8
+#EXTINF:-1, Lethbridge-Calgary
+https://media-service.fanreachdata.io/edge/whl/dd16a201c9324204b593db6b2575f467.m3u8
+#EXTINF:-1, MooseJaw-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/95b0b866cc8f46c584440642df824141.m3u8
+#EXTINF:-1, PrinceGeorge-Vancouver
+https://media-service.fanreachdata.io/edge/whl/ec89f3832ae94650b571f07eaaa7c75a.m3u8
+#EXTINF:-1, SwiftCurrent-Edmonton
+https://media-service.fanreachdata.io/edge/whl/bc0c7ac2f2be43e0a34dd98f46880605.m3u8
+#EXTINF:-1, Portland-Seattle
+https://media-service.fanreachdata.io/edge/whl/dd01be234fe24ae78fac5e45f2d1e643.m3u8
+#EXTINF:-1, WenatcheeWild-Spokane
+https://media-service.fanreachdata.io/edge/whl/abb8460495d14fd4be0f51ea91168090.m3u8
