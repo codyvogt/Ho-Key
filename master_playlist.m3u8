@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Fassa-Kaltern/Ritten
-https://cdn.livearenasports.com/blobs2/6551f9baf41e4b69a03e4eaa/index.m3u8
-#EXTINF:-1, EHCNeuwied-HijsHokij
-https://cdn.livearenasports.com/blobs0/65f1792eff71f720b7ec21ff/index.m3u8
+#EXTINF:-1, Iowa-ChicagoWolves
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
+#EXTINF:-1, Laval-TorontoMarlies
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
 #EXTINF:-1, Mississauga-Brantford
 https://media-service.fanreachdata.io/edge/ohl/880beadacf0645b39d2d04bb0f84bfa1.m3u8
 #EXTINF:-1, NorthBay-Kingston
@@ -25,8 +25,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/117a0b00bff94458b16db6c478fe026
 https://media-service.fanreachdata.io/edge/lhjmq/cc044b8290a3429c9c5c52e3aa10fe5b.m3u8
 #EXTINF:-1, CapeBreton-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/09de025a95284f9f8661138fe5911182.m3u8
-#EXTINF:-1, HCTábor-KobraPraha
-https://cdn.livearenasports.com/blobs1/65ccac7ad6ae5a77fad30cf3/index.m3u8
 #EXTINF:-1, ÅbyHC-BokasportSK
 https://cdn.livearenasports.com/blobs2/65eea745ff71f720b7ec1a3f/index.m3u8
 #EXTINF:-1, WMU-St.CloudState
