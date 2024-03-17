@@ -1,18 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Iowa-ChicagoWolves
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream86/playlist.m3u8
-#EXTINF:-1, Laval-TorontoMarlies
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream84/playlist.m3u8
 #EXTINF:-1, SanJose-Rockford
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream90/playlist.m3u8
 #EXTINF:-1, Hartford-HersheyBears
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
-#EXTINF:-1, Shawinigan-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/117a0b00bff94458b16db6c478fe026a.m3u8
-#EXTINF:-1, Baie-Comeau-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/cc044b8290a3429c9c5c52e3aa10fe5b.m3u8
-#EXTINF:-1, CapeBreton-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/09de025a95284f9f8661138fe5911182.m3u8
 #EXTINF:-1, London-WindsorSpitfires
 https://media-service.fanreachdata.io/edge/ohl/bdd7a930ae714c67875f3343c322bd55.m3u8
 #EXTINF:-1, Sarnia-OshawaGenerals
