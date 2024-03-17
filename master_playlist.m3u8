@@ -1,30 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Bremerhaven-Ingolstadt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, EisbärenBerlin-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, SKA-Avtomobilist
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, EisbärenBerlin-Mannheim
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, DüsseldorferEG-Landshut
 https://content.aisportswatch.com/282471/master.m3u8
-#EXTINF:-1, VäxjöLakers-Frölunda
-https://cdn.livearenasports.com/blobs1/65eeb736ff71f720b7ec1bc5/index.m3u8
 #EXTINF:-1, SpišskáNováVes-Martin
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream87/playlist.m3u8
-#EXTINF:-1, KovlandsIshF-VännäsHC
-https://cdn.livearenasports.com/blobs1/65eeabf4ff71f720b7ec1aa1/index.m3u8
-#EXTINF:-1, Pantern-EskilstunaLinden
-https://cdn.livearenasports.com/blobs0/65eea745ff71f720b7ec1a35/index.m3u8
-#EXTINF:-1, IFKArboga-ValboHC
-https://cdn.livearenasports.com/blobs0/65eeabf4ff71f720b7ec1a9f/index.m3u8
-#EXTINF:-1, IFKTumbaIK-Segeltorp
-https://cdn.livearenasports.com/blobs0/65eeaa17ff71f720b7ec1a75/index.m3u8
-#EXTINF:-1, VärmdöHC-Sollentuna
-https://cdn.livearenasports.com/blobs0/65eeb55dff71f720b7ec1b9a/index.m3u8
-#EXTINF:-1, HIFK-Kiekko-Espoo
-https://cdn.livearenasports.com/blobs1/65f02c5fff71f720b7ec1fa0/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-HPK
-https://cdn.livearenasports.com/blobs0/65ee900fff71f720b7ec18ea/index.m3u8
 #EXTINF:-1, JYP-LahdenPelicans
 https://cdn.livearenasports.com/blobs1/65ed3e90cb9e0c309d0cd2f9/index.m3u8
 #EXTINF:-1, Ässät-VaasanSport
