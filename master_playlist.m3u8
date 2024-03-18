@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, DynamoMoscow-Traktor
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, VitaHästen-TranåsAIF
+https://cdn.livearenasports.com/blobs0/65effb98ff71f720b7ec1e7d/index.m3u8
+#EXTINF:-1, Flemingsberg-Traneberg
+https://cdn.livearenasports.com/blobs1/65eff6e6ff71f720b7ec1e79/index.m3u8
+#EXTINF:-1, VärmdöHC-HammarbyIF
+https://cdn.livearenasports.com/blobs1/65f006ddff71f720b7ec1eab/index.m3u8
