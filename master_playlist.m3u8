@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SanJose-Rockford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream90/playlist.m3u8
-#EXTINF:-1, Hartford-HersheyBears
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream89/playlist.m3u8
-#EXTINF:-1, Henderson-Abbotsford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream52/playlist.m3u8
-#EXTINF:-1, TexasStars-Tucson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream51/playlist.m3u8
 #EXTINF:-1, Lethbridge-Calgary
 https://media-service.fanreachdata.io/edge/whl/dd16a201c9324204b593db6b2575f467.m3u8
 #EXTINF:-1, MooseJaw-ReginaPats
@@ -21,6 +13,10 @@ https://media-service.fanreachdata.io/edge/whl/dd01be234fe24ae78fac5e45f2d1e643.
 https://media-service.fanreachdata.io/edge/whl/abb8460495d14fd4be0f51ea91168090.m3u8
 #EXTINF:-1, Sarnia-OshawaGenerals
 https://media-service.fanreachdata.io/edge/ohl/92e65e2611384afc862bd79d8c380e6e.m3u8
+#EXTINF:-1, Henderson-Abbotsford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream52/playlist.m3u8
+#EXTINF:-1, TexasStars-Tucson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream51/playlist.m3u8
 #EXTINF:-1, WMU-St.CloudState
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/505639d8-b088-4426-b37d-852258181d71-hls/master/505639d8-b088-4426-b37d-852258181d71-hls.m3u8
 #EXTINF:-1, Omaha-ColoradoCollege
