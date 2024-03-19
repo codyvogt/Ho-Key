@@ -3,11 +3,29 @@
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream25/playlist.m3u8
 #EXTINF:-1, SKA-Avtomobilist
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, KouvolanKooKoo-Jokerit
-https://cdn.livearenasports.com/blobs0/65ee900fff71f720b7ec18e0/index.m3u8
+#EXTINF:-1, Schwenningen-Straubing
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, EHCMünchen-Wolfsburg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, OulunKärpät-Ässät
 https://cdn.livearenasports.com/blobs2/65ee900fff71f720b7ec18e4/index.m3u8
 #EXTINF:-1, Tappara-Kiekko-Espoo
 https://cdn.livearenasports.com/blobs0/65efef9dff71f720b7ec1e05/index.m3u8
 #EXTINF:-1, TPS-JYPJyväskylä
 https://cdn.livearenasports.com/blobs2/65ee900fff71f720b7ec18e5/index.m3u8
+#EXTINF:-1, Olomouc-MountfieldHK
+https://cdn.livearenasports.com/blobs0/65e5aae8fb7394131c22f2c7/index.m3u8
+#EXTINF:-1, KarlovyVary-Ml.Boleslav
+https://cdn.livearenasports.com/blobs2/65f15e37ff71f720b7ec218c/index.m3u8
+#EXTINF:-1, SpartaPraha-Jihlava
+https://cdn.livearenasports.com/blobs2/65f1c0aaff71f720b7ec22ee/index.m3u8
+#EXTINF:-1, SlaviaPraha-HCPoruba
+https://cdn.livearenasports.com/blobs1/65f536a9ff71f720b7ec2ebc/index.m3u8
+#EXTINF:-1, TechnikaBrno-Chomutov
+https://cdn.livearenasports.com/blobs2/65f6c06fff71f720b7ec3438/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-HIFK
+https://cdn.livearenasports.com/blobs2/65f0247dff71f720b7ec1f68/index.m3u8
+#EXTINF:-1, ŽiarnadHronom-Žilina
+https://nn.geo.joj.sk/huste/d445f80e-6b7b-4cd0-93bd-9e9413f572da/d445f80e-6b7b-4cd0-93bd-9e9413f572da/playlist.m3u8
+#EXTINF:-1, ModréKrídla-HCPrešov
+https://nn.geo.joj.sk/huste/a20a8802-c001-4d8b-91b5-14293b3ee4cd/a20a8802-c001-4d8b-91b5-14293b3ee4cd/playlist.m3u8
