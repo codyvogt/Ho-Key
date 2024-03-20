@@ -1,27 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Ingolstadt-Bremerhaven
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, AdlerMannheim-Eisbären
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, BJAHC-SCCsíkszereda
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream82/playlist.m3u8
-#EXTINF:-1, KarlskronaHK-Halmstad
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream34/playlist.m3u8
-#EXTINF:-1, TranåsAIF-Hudiksvall
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream36/playlist.m3u8
-#EXTINF:-1, HammarbyIF-JärnaSK
-https://cdn.livearenasports.com/blobs1/65f29536ff71f720b7ec23a9/index.m3u8
-#EXTINF:-1, HudiksvallsHC-OrsaIK
-https://cdn.livearenasports.com/blobs0/65f29f88ff71f720b7ec23be/index.m3u8
-#EXTINF:-1, AlvestaSK-Helsingborg
-https://cdn.livearenasports.com/blobs2/65f2a9e0ff71f720b7ec23e8/index.m3u8
-#EXTINF:-1, GötaTraneberg-Värmdö
-https://cdn.livearenasports.com/blobs0/65f2a52bff71f720b7ec23df/index.m3u8
-#EXTINF:-1, Sörhaga/Alingsås-Lerum
-https://cdn.livearenasports.com/blobs1/65f29536ff71f720b7ec23a8/index.m3u8
-#EXTINF:-1, DogsdeCholet-Nantes
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream83/playlist.m3u8
-#EXTINF:-1, ÖsteråkerVikings-Brinken
-https://cdn.livearenasports.com/blobs1/65f29f88ff71f720b7ec23bf/index.m3u8
 #EXTINF:-1, Milevsko-Hlubokán.V.
 https://cdn.livearenasports.com/blobs2/65eaaa97cb9e0c309d0cc98a/index.m3u8
+#EXTINF:-1, Acadie-Bathurst-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/0a575045c46f49058d26a7f4a9a6321c.m3u8
+#EXTINF:-1, Moncton-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/cef0233de8e3474ab76a2a77de0d1e47.m3u8
+#EXTINF:-1, Blainville-B.-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/982c171e9e36429f88eec8ab33d76b77.m3u8
+#EXTINF:-1, Rouyn-Noranda-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/1b425f6ba2444bd3b8c0afbf8497b244.m3u8
+#EXTINF:-1, Shawinigan-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/fc3a9dbbcb0546ea92ab1ea2f8bd3701.m3u8
