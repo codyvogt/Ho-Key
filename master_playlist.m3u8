@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Milevsko-Hlubokán.V.
-https://cdn.livearenasports.com/blobs2/65eaaa97cb9e0c309d0cc98a/index.m3u8
 #EXTINF:-1, Acadie-Bathurst-Chtown
 https://media-service.fanreachdata.io/edge/lhjmq/0a575045c46f49058d26a7f4a9a6321c.m3u8
 #EXTINF:-1, Moncton-SaintJohn
@@ -11,3 +9,11 @@ https://media-service.fanreachdata.io/edge/lhjmq/982c171e9e36429f88eec8ab33d76b7
 https://media-service.fanreachdata.io/edge/lhjmq/1b425f6ba2444bd3b8c0afbf8497b244.m3u8
 #EXTINF:-1, Shawinigan-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/fc3a9dbbcb0546ea92ab1ea2f8bd3701.m3u8
+#EXTINF:-1, Niagara-Brantford
+https://media-service.fanreachdata.io/edge/ohl/df8bb227f0594d2887d02cf21cc019f5.m3u8
+#EXTINF:-1, BarrieColts-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/01aaff8457e64651b234ef2b8507c47f.m3u8
+#EXTINF:-1, Erie-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/8945551088ed4b4db4fd233c793ea65a.m3u8
+#EXTINF:-1, Sarnia-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/9b5e8b49f2364ecc8607bdd0a2512ef3.m3u8
