@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Traktor-DynamoMoscow
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, Lokomotiv-Avangard
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, EppanPirates-Aosta
-https://cdn.livearenasports.com/blobs0/65f82344ff71f720b7ec36ed/index.m3u8
+https://cdn.livearenasports.com/blobs2/65f82344ff71f720b7ec36ed/index.m3u8
