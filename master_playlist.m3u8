@@ -4,6 +4,12 @@ https://media-service.fanreachdata.io/edge/lhjmq/7350e067ce384f4a974d10c6dfe6802
 #EXTINF:-1, Chicoutimi-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/a53cffd1126b45578b4bf16e8612ef47.m3u8
 #EXTINF:-1, Niagara-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/df8bb227f0594d2887d02cf21cc019f5.m3u8
+https://media-service.fanreachdata.io/edge/ohl/8c25e36e84b0446bbc27b6b46ce5b9d9.m3u8
 #EXTINF:-1, Guelph-KitchenerRangers
 https://media-service.fanreachdata.io/edge/ohl/ead3a6046a1b4aa6a6a7a5fdfe33edbc.m3u8
+#EXTINF:-1, Bakersfield-Calgary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
+#EXTINF:-1, Milwaukee-Colorado
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream92/playlist.m3u8
+#EXTINF:-1, KamloopsBlazers-Seattle
+https://media-service.fanreachdata.io/edge/whl/d0ea196c3809406b98840af398b34313.m3u8
