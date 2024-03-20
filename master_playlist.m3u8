@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv-Avangard
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, SanDiego-SanJose
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream80/playlist.m3u8
 #EXTINF:-1, Ingolstadt-Bremerhaven
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
 #EXTINF:-1, AdlerMannheim-Eisbären
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, Zvolen-SlovanBratislava
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream98/playlist.m3u8
-#EXTINF:-1, LeKi-NokianPyry
-https://cdn.livearenasports.com/blobs0/65f3d60dff71f720b7ec26f3/index.m3u8
-#EXTINF:-1, ŽiarnadHronom-Žilina
-https://nn.geo.joj.sk/huste/c88a6863-0351-404d-8a23-f9966a6da3cc/c88a6863-0351-404d-8a23-f9966a6da3cc/playlist.m3u8
-#EXTINF:-1, ModréKrídla-HCPrešov
-https://nn.geo.joj.sk/huste/0102027f-8e1f-4f52-9cfb-4f255ef4951d/0102027f-8e1f-4f52-9cfb-4f255ef4951d/playlist.m3u8
