@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Acadie-Bathurst-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/0a575045c46f49058d26a7f4a9a6321c.m3u8
-#EXTINF:-1, Moncton-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/cef0233de8e3474ab76a2a77de0d1e47.m3u8
 #EXTINF:-1, Blainville-B.-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/982c171e9e36429f88eec8ab33d76b77.m3u8
 #EXTINF:-1, Rouyn-Noranda-Val-d'Or
@@ -13,10 +9,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/fc3a9dbbcb0546ea92ab1ea2f8bd370
 https://media-service.fanreachdata.io/edge/ohl/df8bb227f0594d2887d02cf21cc019f5.m3u8
 #EXTINF:-1, BarrieColts-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/01aaff8457e64651b234ef2b8507c47f.m3u8
-#EXTINF:-1, Erie-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/8945551088ed4b4db4fd233c793ea65a.m3u8
-#EXTINF:-1, Sarnia-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/9b5e8b49f2364ecc8607bdd0a2512ef3.m3u8
 #EXTINF:-1, Regina-PrinceAlbert
 https://media-service.fanreachdata.io/edge/whl/0d16de5adc0f4ce195d09fecba8f2a46.m3u8
 #EXTINF:-1, Calgary-Saskatoon
