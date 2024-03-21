@@ -1,3 +1,15 @@
 #EXTM3U
+#EXTINF:-1, SödertäljeSK-HV71
+https://cdn.livearenasports.com/blobs0/65f811cfff71f720b7ec364f/index.m3u8
+#EXTINF:-1, ViggbyholmsIK-Gnesta
+https://cdn.livearenasports.com/blobs2/65f3ee3bff71f720b7ec2776/index.m3u8
 #EXTINF:-1, EVZug-SCBern
 https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, Frederikshavn-HerningII
+https://cdn.livearenasports.com/blobs1/65f4046dff71f720b7ec283e/index.m3u8
+#EXTINF:-1, Pergine-SVKaltern
+https://cdn.livearenasports.com/blobs2/65fac8890f18aa343504056a/index.m3u8
+#EXTINF:-1, Varese-EppanPirates
+https://cdn.livearenasports.com/blobs2/65f1a1a5ff71f720b7ec22aa/index.m3u8
+#EXTINF:-1, HCLudwig-Karhu-Kissat
+https://cdn.livearenasports.com/blobs1/65f2848dff71f720b7ec2371/index.m3u8
