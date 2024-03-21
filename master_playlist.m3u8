@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Bakersfield-Calgary
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream97/playlist.m3u8
-#EXTINF:-1, Texas-CoachellaValley
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream95/playlist.m3u8
-#EXTINF:-1, Tucson-OntarioReign
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream94/playlist.m3u8
-#EXTINF:-1, Regina-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/0d16de5adc0f4ce195d09fecba8f2a46.m3u8
-#EXTINF:-1, Calgary-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/f1bb4953b5534daeae1f289d550365aa.m3u8
-#EXTINF:-1, RedDeer-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/908be08cd1be49419deca61c9b21b6f3.m3u8
-#EXTINF:-1, WenatcheeWild-Victoria
-https://media-service.fanreachdata.io/edge/whl/72e3ef3446554624bef23d28190ca60a.m3u8
+#EXTINF:-1, HelsinginJokerit-KooKoo
+https://cdn.livearenasports.com/blobs0/65f7ca8dff71f720b7ec34b4/index.m3u8
