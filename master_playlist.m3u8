@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Blainville-B.-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/982c171e9e36429f88eec8ab33d76b77.m3u8
-#EXTINF:-1, Rouyn-Noranda-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/1b425f6ba2444bd3b8c0afbf8497b244.m3u8
-#EXTINF:-1, Shawinigan-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/fc3a9dbbcb0546ea92ab1ea2f8bd3701.m3u8
-#EXTINF:-1, Niagara-Brantford
-https://media-service.fanreachdata.io/edge/ohl/df8bb227f0594d2887d02cf21cc019f5.m3u8
-#EXTINF:-1, BarrieColts-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/01aaff8457e64651b234ef2b8507c47f.m3u8
+#EXTINF:-1, Bakersfield-Calgary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream97/playlist.m3u8
+#EXTINF:-1, Texas-CoachellaValley
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream95/playlist.m3u8
+#EXTINF:-1, Tucson-OntarioReign
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream94/playlist.m3u8
 #EXTINF:-1, Regina-PrinceAlbert
 https://media-service.fanreachdata.io/edge/whl/0d16de5adc0f4ce195d09fecba8f2a46.m3u8
 #EXTINF:-1, Calgary-Saskatoon
