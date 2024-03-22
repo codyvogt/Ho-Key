@@ -1,29 +1,25 @@
 #EXTM3U
 #EXTINF:-1, Straubing-Schwenningen
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, Wolfsburg-EHCMünchen
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, EisbärenBerlin-Mannheim
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
-#EXTINF:-1, Bremerhaven-Ingolstadt
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 #EXTINF:-1, Lugano-Fribourg-Gottéron
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, SkellefteåAIK-AIK
-https://cdn.livearenasports.com/blobs1/65f811cfff71f720b7ec366b/index.m3u8
-#EXTINF:-1, FrölundaHC-RögleBK
-https://cdn.livearenasports.com/blobs0/65f811cfff71f720b7ec3650/index.m3u8
-#EXTINF:-1, LerumsBK-Ulricehamn
-https://cdn.livearenasports.com/blobs2/65f53743ff71f720b7ec2ec1/index.m3u8
-#EXTINF:-1, Sörhaga/Alingsås-Motala
-https://cdn.livearenasports.com/blobs1/65f53838ff71f720b7ec2ec3/index.m3u8
-#EXTINF:-1, Juniorteams-Cortina
-https://cdn.livearenasports.com/blobs2/65f82347ff71f720b7ec36f1/index.m3u8
-#EXTINF:-1, RødovreII-Gladsaxe
-https://cdn.livearenasports.com/blobs0/65f4046fff71f720b7ec2848/index.m3u8
-#EXTINF:-1, ESCDorfen-ESVBuchloe
-https://content.aisportswatch.com/283559/master.m3u8
 #EXTINF:-1, St.Lawrence-Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, UMass-BostonCollege
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, Moncton-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/9ea643a6b2ae497b960a736f531e9873.m3u8
+#EXTINF:-1, CapeBreton-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/72af2f4adf30409ba14df2b35a2a94e6.m3u8
+#EXTINF:-1, Halifax-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/f5c1ba35de744a54827ef73087bb14b8.m3u8
+#EXTINF:-1, Sherbrooke-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/16186919111f4dd78fc7e59373fcbefa.m3u8
+#EXTINF:-1, Québec-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/883bee9f85694fdf8d221f219569b2bd.m3u8
+#EXTINF:-1, Victoriaville-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/ae9d54b85dc64e19b8365ff062582f1d.m3u8
+#EXTINF:-1, Gatineau-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/9df5774101c84ef49ef2acfd3b7b905b.m3u8
+#EXTINF:-1, Drummond.-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/92785d3d02d64fbd8509a0088d224752.m3u8
