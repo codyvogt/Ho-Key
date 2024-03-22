@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1, UMass-BostonCollege
+#EXTINF:-1, Dartmouth-Cornell
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Maine-BostonUniversity
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, Moncton-Acadie-Bathurst
 https://media-service.fanreachdata.io/edge/lhjmq/9ea643a6b2ae497b960a736f531e9873.m3u8
@@ -17,6 +19,16 @@ https://media-service.fanreachdata.io/edge/lhjmq/ae9d54b85dc64e19b8365ff062582f1
 https://media-service.fanreachdata.io/edge/lhjmq/9df5774101c84ef49ef2acfd3b7b905b.m3u8
 #EXTINF:-1, Drummond.-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/92785d3d02d64fbd8509a0088d224752.m3u8
+#EXTINF:-1, Laval-BellevilleSenators
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
+#EXTINF:-1, W-B/Scranton-Syracuse
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
+#EXTINF:-1, Bridgeport-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
+#EXTINF:-1, Toronto-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
+#EXTINF:-1, Charlotte-Springfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
 #EXTINF:-1, Ottawa67's-Kingston
 https://media-service.fanreachdata.io/edge/ohl/d937f576643448fb8ca63cde258ed83b.m3u8
 #EXTINF:-1, NorthBay-Mississauga
