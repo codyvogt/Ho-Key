@@ -9,11 +9,19 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, Bremerhaven-Ingolstadt
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
-#EXTINF:-1, Ml.Boleslav-KarlovyVary
-https://cdn.livearenasports.com/blobs0/65f17a6eff71f720b7ec221d/index.m3u8
-#EXTINF:-1, Liberec-HCKometaBrno
-https://cdn.livearenasports.com/blobs1/65f1b29fff71f720b7ec22de/index.m3u8
-#EXTINF:-1, DuklaJihlava-HCSparta
-https://cdn.livearenasports.com/blobs0/65f2938eff71f720b7ec238e/index.m3u8
-#EXTINF:-1, PirátiChomutov-Technika
-https://cdn.livearenasports.com/blobs2/65f6c06fff71f720b7ec343a/index.m3u8
+#EXTINF:-1, Lugano-Fribourg-Gottéron
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, Žilina-ŽiarnadHronom
+https://nn.geo.joj.sk/huste/d0880330-bf81-4c7d-8f83-5e8dcd091bdd/d0880330-bf81-4c7d-8f83-5e8dcd091bdd/playlist.m3u8
+#EXTINF:-1, Kiekko-Vantaa-TUTO
+https://cdn.livearenasports.com/blobs1/65f3d60dff71f720b7ec26e5/index.m3u8
+#EXTINF:-1, NokianPyry-LeKi
+https://cdn.livearenasports.com/blobs2/65f3d60dff71f720b7ec26eb/index.m3u8
+#EXTINF:-1, LeKi-75-PieksämäenPS
+https://cdn.livearenasports.com/blobs2/65f6a6c0ff71f720b7ec3415/index.m3u8
+#EXTINF:-1, VTS-HaukiputaanAhmat
+https://cdn.livearenasports.com/blobs1/65f85ab0ff71f720b7ec3744/index.m3u8
+#EXTINF:-1, Kiekkohait-RaumaTigers
+https://cdn.livearenasports.com/blobs2/65f2848dff71f720b7ec2354/index.m3u8
+#EXTINF:-1, NummelanKV-EVU
+https://cdn.livearenasports.com/blobs2/65f6a33dff71f720b7ec340f/index.m3u8
