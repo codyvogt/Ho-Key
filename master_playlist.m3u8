@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Straubing-Schwenningen
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
-#EXTINF:-1, Lugano-Fribourg-Gottéron
-https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, St.Lawrence-Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, UMass-BostonCollege
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, Moncton-Acadie-Bathurst
@@ -23,3 +17,17 @@ https://media-service.fanreachdata.io/edge/lhjmq/ae9d54b85dc64e19b8365ff062582f1
 https://media-service.fanreachdata.io/edge/lhjmq/9df5774101c84ef49ef2acfd3b7b905b.m3u8
 #EXTINF:-1, Drummond.-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/92785d3d02d64fbd8509a0088d224752.m3u8
+#EXTINF:-1, Ottawa67's-Kingston
+https://media-service.fanreachdata.io/edge/ohl/d937f576643448fb8ca63cde258ed83b.m3u8
+#EXTINF:-1, NorthBay-Mississauga
+https://media-service.fanreachdata.io/edge/ohl/a0743afbdfda47338120a91ab8147bb6.m3u8
+#EXTINF:-1, Oshawa-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/04cd843e020e4d91ab9b41e4e1e6e46d.m3u8
+#EXTINF:-1, Windsor-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/3c2ba9b276cb4c478212800ed8dcac6e.m3u8
+#EXTINF:-1, Barrie-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/59f011e106274747907413c7c4864352.m3u8
+#EXTINF:-1, Saginaw-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/eb0679d9d9b841408e7292adb083333c.m3u8
+#EXTINF:-1, Flint-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/92930fa2e6b34385948231b0cbbe3220.m3u8
