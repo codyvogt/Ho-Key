@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Traktor-DynamoMoscow
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:-1, Lokomotiv-Avangard
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, Ml.Boleslav-KarlovyVary
 https://cdn.livearenasports.com/blobs0/65f17a6eff71f720b7ec221d/index.m3u8
 #EXTINF:-1, Liberec-HCKometaBrno
-https://cdn.livearenasports.com/blobs0/65f1b29fff71f720b7ec22de/index.m3u8
+https://cdn.livearenasports.com/blobs1/65f1b29fff71f720b7ec22de/index.m3u8
 #EXTINF:-1, DuklaJihlava-HCSparta
 https://cdn.livearenasports.com/blobs0/65f2938eff71f720b7ec238e/index.m3u8
 #EXTINF:-1, PirátiChomutov-Technika
-https://cdn.livearenasports.com/blobs0/65f6c06fff71f720b7ec343a/index.m3u8
+https://cdn.livearenasports.com/blobs2/65f6c06fff71f720b7ec343a/index.m3u8
