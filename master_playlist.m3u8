@@ -9,29 +9,21 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 #EXTINF:-1, Lugano-Fribourg-Gottéron
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, LuleåHF-MoDoHockey
-https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec365e/index.m3u8
-#EXTINF:-1, BrynäsIF-ÖrebroHK
-https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec3657/index.m3u8
-#EXTINF:-1, DjurgårdensIF-MoraIK
-https://cdn.livearenasports.com/blobs0/65f811cfff71f720b7ec366a/index.m3u8
-#EXTINF:-1, HV71-SödertäljeSK
-https://cdn.livearenasports.com/blobs1/65f811cfff71f720b7ec3652/index.m3u8
 #EXTINF:-1, SkellefteåAIK-AIK
 https://cdn.livearenasports.com/blobs1/65f811cfff71f720b7ec366b/index.m3u8
-#EXTINF:-1, VäxjöLakers-Linköping
-https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec3653/index.m3u8
-#EXTINF:-1, LeksandsIF-FärjestadBK
-https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec3688/index.m3u8
 #EXTINF:-1, FrölundaHC-RögleBK
 https://cdn.livearenasports.com/blobs0/65f811cfff71f720b7ec3650/index.m3u8
-#EXTINF:-1, DuklaJihlava-HCSparta
-https://cdn.livearenasports.com/blobs0/65f2938eff71f720b7ec238e/index.m3u8
-#EXTINF:-1, VTS-HaukiputaanAhmat
-https://cdn.livearenasports.com/blobs1/65f85ab0ff71f720b7ec3744/index.m3u8
-#EXTINF:-1, Kiekkohait-RaumaTigers
-https://cdn.livearenasports.com/blobs2/65f2848dff71f720b7ec2354/index.m3u8
-#EXTINF:-1, NummelanKV-EVU
-https://cdn.livearenasports.com/blobs2/65f6a33dff71f720b7ec340f/index.m3u8
-#EXTINF:-1, HanvikensSK-Björklöven
-https://cdn.livearenasports.com/blobs0/65f9392cff71f720b7ec383d/index.m3u8
+#EXTINF:-1, LerumsBK-Ulricehamn
+https://cdn.livearenasports.com/blobs2/65f53743ff71f720b7ec2ec1/index.m3u8
+#EXTINF:-1, Sörhaga/Alingsås-Motala
+https://cdn.livearenasports.com/blobs1/65f53838ff71f720b7ec2ec3/index.m3u8
+#EXTINF:-1, Juniorteams-Cortina
+https://cdn.livearenasports.com/blobs2/65f82347ff71f720b7ec36f1/index.m3u8
+#EXTINF:-1, RødovreII-Gladsaxe
+https://cdn.livearenasports.com/blobs0/65f4046fff71f720b7ec2848/index.m3u8
+#EXTINF:-1, ESCDorfen-ESVBuchloe
+https://content.aisportswatch.com/283559/master.m3u8
+#EXTINF:-1, St.Lawrence-Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, UMass-BostonCollege
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
