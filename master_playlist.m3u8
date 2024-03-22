@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv-Avangard
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1, Straubing-Schwenningen
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
 #EXTINF:-1, Wolfsburg-EHCMünchen
@@ -11,17 +9,29 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 #EXTINF:-1, Lugano-Fribourg-Gottéron
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Žilina-ŽiarnadHronom
-https://nn.geo.joj.sk/huste/d0880330-bf81-4c7d-8f83-5e8dcd091bdd/d0880330-bf81-4c7d-8f83-5e8dcd091bdd/playlist.m3u8
-#EXTINF:-1, Kiekko-Vantaa-TUTO
-https://cdn.livearenasports.com/blobs1/65f3d60dff71f720b7ec26e5/index.m3u8
-#EXTINF:-1, NokianPyry-LeKi
-https://cdn.livearenasports.com/blobs2/65f3d60dff71f720b7ec26eb/index.m3u8
-#EXTINF:-1, LeKi-75-PieksämäenPS
-https://cdn.livearenasports.com/blobs2/65f6a6c0ff71f720b7ec3415/index.m3u8
+#EXTINF:-1, LuleåHF-MoDoHockey
+https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec365e/index.m3u8
+#EXTINF:-1, BrynäsIF-ÖrebroHK
+https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec3657/index.m3u8
+#EXTINF:-1, DjurgårdensIF-MoraIK
+https://cdn.livearenasports.com/blobs0/65f811cfff71f720b7ec366a/index.m3u8
+#EXTINF:-1, HV71-SödertäljeSK
+https://cdn.livearenasports.com/blobs1/65f811cfff71f720b7ec3652/index.m3u8
+#EXTINF:-1, SkellefteåAIK-AIK
+https://cdn.livearenasports.com/blobs1/65f811cfff71f720b7ec366b/index.m3u8
+#EXTINF:-1, VäxjöLakers-Linköping
+https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec3653/index.m3u8
+#EXTINF:-1, LeksandsIF-FärjestadBK
+https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec3688/index.m3u8
+#EXTINF:-1, FrölundaHC-RögleBK
+https://cdn.livearenasports.com/blobs0/65f811cfff71f720b7ec3650/index.m3u8
+#EXTINF:-1, DuklaJihlava-HCSparta
+https://cdn.livearenasports.com/blobs0/65f2938eff71f720b7ec238e/index.m3u8
 #EXTINF:-1, VTS-HaukiputaanAhmat
 https://cdn.livearenasports.com/blobs1/65f85ab0ff71f720b7ec3744/index.m3u8
 #EXTINF:-1, Kiekkohait-RaumaTigers
 https://cdn.livearenasports.com/blobs2/65f2848dff71f720b7ec2354/index.m3u8
 #EXTINF:-1, NummelanKV-EVU
 https://cdn.livearenasports.com/blobs2/65f6a33dff71f720b7ec340f/index.m3u8
+#EXTINF:-1, HanvikensSK-Björklöven
+https://cdn.livearenasports.com/blobs0/65f9392cff71f720b7ec383d/index.m3u8
