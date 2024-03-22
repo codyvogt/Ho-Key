@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, Lokomotiv-Avangard
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, Straubing-Schwenningen
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport04/msport04_m/index.m3u8
+#EXTINF:-1, Wolfsburg-EHCMünchen
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, EisbärenBerlin-Mannheim
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
+#EXTINF:-1, Bremerhaven-Ingolstadt
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport05/msport05_m/index.m3u8
 #EXTINF:-1, Ml.Boleslav-KarlovyVary
 https://cdn.livearenasports.com/blobs0/65f17a6eff71f720b7ec221d/index.m3u8
 #EXTINF:-1, Liberec-HCKometaBrno
