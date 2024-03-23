@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist-SKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Kiekko-Tiikerit-GrIFK2
-https://cdn.livearenasports.com/blobs0/65fbbf0dfc94b573ef7730cc/index.m3u8
-#EXTINF:-1, MaKo-NokianPyryM2
-https://cdn.livearenasports.com/blobs0/65f7ca8dff71f720b7ec34ac/index.m3u8
-#EXTINF:-1, AkaanKiekko-HokkaritII
-https://cdn.livearenasports.com/blobs0/65f7ca8dff71f720b7ec34b3/index.m3u8
-#EXTINF:-1, KouvolanKooKoo-Jukurit
-https://cdn.livearenasports.com/blobs1/65f5278dff71f720b7ec2c24/index.m3u8
 #EXTINF:-1, Tappara-Kiekko-Espoo
 https://cdn.livearenasports.com/blobs0/65f5278eff71f720b7ec2c64/index.m3u8
 #EXTINF:-1, SaPKo-Kiekko-Vantaa
@@ -17,13 +9,3 @@ https://cdn.livearenasports.com/blobs0/65f5278dff71f720b7ec2b9d/index.m3u8
 https://cdn.livearenasports.com/blobs0/65f3d60dff71f720b7ec2716/index.m3u8
 #EXTINF:-1, ImatranKetterä-RoKi
 https://cdn.livearenasports.com/blobs0/65f5278dff71f720b7ec2bb2/index.m3u8
-#EXTINF:-1, VäxjöLakers-Linköping
-https://cdn.livearenasports.com/blobs2/65f811cfff71f720b7ec3656/index.m3u8
-#EXTINF:-1, FrölundaHC-RögleBK
-https://cdn.livearenasports.com/blobs1/65f811cfff71f720b7ec3682/index.m3u8
-#EXTINF:-1, IKOskarshamn-Västerås
-https://cdn.livearenasports.com/blobs0/65f9392cff71f720b7ec383a/index.m3u8
-#EXTINF:-1, IFMalmö-HanvikensSK
-https://cdn.livearenasports.com/blobs0/65f9392cff71f720b7ec383b/index.m3u8
-#EXTINF:-1, PirátiChomutov-Technika
-https://cdn.livearenasports.com/blobs2/65f6c06fff71f720b7ec3439/index.m3u8
