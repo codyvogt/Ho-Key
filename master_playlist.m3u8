@@ -1,38 +1,22 @@
 #EXTM3U
-#EXTINF:-1, Moncton-Acadie-Bathurst
-https://media-service.fanreachdata.io/edge/lhjmq/9ea643a6b2ae497b960a736f531e9873.m3u8
-#EXTINF:-1, CapeBreton-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/72af2f4adf30409ba14df2b35a2a94e6.m3u8
-#EXTINF:-1, Halifax-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/f5c1ba35de744a54827ef73087bb14b8.m3u8
+#EXTINF:-1, HersheyBears-Cleveland
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream47/playlist.m3u8
+#EXTINF:-1, Bridgeport-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
+#EXTINF:-1, Toronto-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
+#EXTINF:-1, Chicago-IowaWild
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream50/playlist.m3u8
 #EXTINF:-1, Sherbrooke-Baie-Comeau
 https://media-service.fanreachdata.io/edge/lhjmq/16186919111f4dd78fc7e59373fcbefa.m3u8
 #EXTINF:-1, Québec-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/883bee9f85694fdf8d221f219569b2bd.m3u8
 #EXTINF:-1, Victoriaville-RNHuskies
 https://media-service.fanreachdata.io/edge/lhjmq/ae9d54b85dc64e19b8365ff062582f1d.m3u8
-#EXTINF:-1, Gatineau-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/9df5774101c84ef49ef2acfd3b7b905b.m3u8
 #EXTINF:-1, Drummond.-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/92785d3d02d64fbd8509a0088d224752.m3u8
-#EXTINF:-1, Laval-BellevilleSenators
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream46/playlist.m3u8
-#EXTINF:-1, W-B/Scranton-Syracuse
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
-#EXTINF:-1, Bridgeport-UticaComets
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
-#EXTINF:-1, Toronto-Rochester
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream44/playlist.m3u8
-#EXTINF:-1, Charlotte-Springfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, Ottawa67's-Kingston
-https://media-service.fanreachdata.io/edge/ohl/d937f576643448fb8ca63cde258ed83b.m3u8
 #EXTINF:-1, NorthBay-Mississauga
 https://media-service.fanreachdata.io/edge/ohl/a0743afbdfda47338120a91ab8147bb6.m3u8
-#EXTINF:-1, Oshawa-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/04cd843e020e4d91ab9b41e4e1e6e46d.m3u8
-#EXTINF:-1, Windsor-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/3c2ba9b276cb4c478212800ed8dcac6e.m3u8
 #EXTINF:-1, Barrie-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/59f011e106274747907413c7c4864352.m3u8
 #EXTINF:-1, Saginaw-SarniaSting
