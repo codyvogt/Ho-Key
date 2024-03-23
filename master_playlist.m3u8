@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1, EVLandshut-Düsseldorf
-https://content.aisportswatch.com/283146/master.m3u8
-#EXTINF:-1, Krefeld-EisbärenBerlin
-https://content.aisportswatch.com/283035/master.m3u8
-#EXTINF:-1, SVKaltern-Pergine
-https://cdn.livearenasports.com/blobs1/65f1a1a6ff71f720b7ec22b2/index.m3u8
-#EXTINF:-1, Hvidovre-AalborgII
-https://cdn.livearenasports.com/blobs0/65f4046dff71f720b7ec2840/index.m3u8
 #EXTINF:-1, LiegeBulldogs-Neuwied
 https://cdn.livearenasports.com/blobs2/65fc0525b7170c0c3b42a979/index.m3u8
+#EXTINF:-1, Krefeld-EisbärenBerlin
+https://content.aisportswatch.com/283035/master.m3u8
 #EXTINF:-1, Acadie-Bathurst-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/fa0a3181a0f841908040106e3801115a.m3u8
 #EXTINF:-1, CapeBreton-Chtown
@@ -43,3 +37,7 @@ https://media-service.fanreachdata.io/edge/ohl/b3a64f0af63a488880fabe19e320a8e5.
 https://media-service.fanreachdata.io/edge/ohl/0363baecf7444466bd4efad7f7e718dd.m3u8
 #EXTINF:-1, Peterborough-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/a2e9fb0243c9463dac5ebc3e6a9c92fb.m3u8
+#EXTINF:-1, St.Lawrence-Cornell
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, BostonU-BostonCollege
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
