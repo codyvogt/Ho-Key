@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Tucson-SanJose
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream81/playlist.m3u8
-#EXTINF:-1, Acadie-Bathurst-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/fa0a3181a0f841908040106e3801115a.m3u8
-#EXTINF:-1, CapeBreton-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/de4bcb8ff6cd484893466f62c61b9685.m3u8
-#EXTINF:-1, Halifax-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/f8b774f1d585431ba200a99ea007dfc5.m3u8
+#EXTINF:-1, Chicago-IowaWild
+https://hockeytech.akamaized.net/hls/live/2028272/game-1036000-Home-d0a78051-27ba-4c9b-927f-cd09213518f2/main.m3u8
 #EXTINF:-1, Sherbrooke-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/db69fb839ef1422c8162cab4796419fc.m3u8
 #EXTINF:-1, Drummond.-Baie-Comeau
@@ -19,8 +15,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/5f916268bd19450d9e730628bb4f382
 https://media-service.fanreachdata.io/edge/lhjmq/b771c065220443e7b3ade283f1c154c7.m3u8
 #EXTINF:-1, Rimouski-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/7e5daeb87c4d41f8a3e40f30cdf16fa3.m3u8
-#EXTINF:-1, Krefeld-EisbärenBerlin
-https://content.aisportswatch.com/283035/master.m3u8
 #EXTINF:-1, Guelph-OwenSound
 https://media-service.fanreachdata.io/edge/ohl/9dc671a5ec204302a0c43d0c2b3f8716.m3u8
 #EXTINF:-1, Brantford-Kingston
