@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dartmouth-Cornell
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Maine-BostonUniversity
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, Moncton-Acadie-Bathurst
 https://media-service.fanreachdata.io/edge/lhjmq/9ea643a6b2ae497b960a736f531e9873.m3u8
 #EXTINF:-1, CapeBreton-Chtown
@@ -43,3 +39,25 @@ https://media-service.fanreachdata.io/edge/ohl/59f011e106274747907413c7c4864352.
 https://media-service.fanreachdata.io/edge/ohl/eb0679d9d9b841408e7292adb083333c.m3u8
 #EXTINF:-1, Flint-SaultSte.Marie
 https://media-service.fanreachdata.io/edge/ohl/92930fa2e6b34385948231b0cbbe3220.m3u8
+#EXTINF:-1, Dartmouth-Cornell
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Maine-BostonUniversity
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, MedicineHat-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/2250bb3be70e4e899c7e024d12803ffd.m3u8
+#EXTINF:-1, Saskatoon-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/61e4db513e64470889e11aac4fc51253.m3u8
+#EXTINF:-1, Brandon-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/c0cfeaa22267470d8e7ecaa205642d2f.m3u8
+#EXTINF:-1, Calgary-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/8fd9adc501bb485cb9d9711e40f070cf.m3u8
+#EXTINF:-1, PrinceGeorge-Kamloops
+https://media-service.fanreachdata.io/edge/whl/78f350b4397844968052b3058601ad2f.m3u8
+#EXTINF:-1, Kelowna-Vancouver
+https://media-service.fanreachdata.io/edge/whl/1d26ea01a57041bda986e9578b01aedf.m3u8
+#EXTINF:-1, SpokaneChiefs-Seattle
+https://media-service.fanreachdata.io/edge/whl/1c3f42e00e394aea83b83d1e0fa85bff.m3u8
+#EXTINF:-1, Portland-Tri-City
+https://media-service.fanreachdata.io/edge/whl/18bebdd760e8401d8c916dae40d28314.m3u8
+#EXTINF:-1, WenatcheeWild-Victoria
+https://media-service.fanreachdata.io/edge/whl/e6e09c11fc5f44f294d79b5120df13a3.m3u8
