@@ -1,22 +1,24 @@
 #EXTM3U
 #EXTINF:-1, Tucson-SanJose
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream81/playlist.m3u8
+#EXTINF:-1, Utica-W-B/Scranton
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
+#EXTINF:-1, LavalRocket-Belleville
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream48/playlist.m3u8
+#EXTINF:-1, HersheyBears-Cleveland
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
 #EXTINF:-1, Chicago-IowaWild
 https://hockeytech.akamaized.net/hls/live/2028272/game-1036000-Home-d0a78051-27ba-4c9b-927f-cd09213518f2/main.m3u8
-#EXTINF:-1, Sherbrooke-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/db69fb839ef1422c8162cab4796419fc.m3u8
-#EXTINF:-1, Drummond.-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/701b7ad99c3d4cc3b65970a78aa8a6f5.m3u8
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/e62dcbdc139f4330971a8540666b9770.m3u8
-#EXTINF:-1, Victoriaville-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/5f916268bd19450d9e730628bb4f3825.m3u8
-#EXTINF:-1, Blainville-B.-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/b771c065220443e7b3ade283f1c154c7.m3u8
-#EXTINF:-1, Rimouski-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/7e5daeb87c4d41f8a3e40f30cdf16fa3.m3u8
-#EXTINF:-1, Guelph-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/9dc671a5ec204302a0c43d0c2b3f8716.m3u8
+#EXTINF:-1, Henderson-Milwaukee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream49/playlist.m3u8
+#EXTINF:-1, Bridgeport-LehighValley
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream92/playlist.m3u8
+#EXTINF:-1, Charlotte-Providence
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Cornell
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, BostonU-BostonCollege
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, Brantford-Kingston
 https://media-service.fanreachdata.io/edge/ohl/e1e54915d0874d9ebd691c856eab6ba9.m3u8
 #EXTINF:-1, Sudbury-NiagaraIceDogs
@@ -29,7 +31,23 @@ https://media-service.fanreachdata.io/edge/ohl/b3a64f0af63a488880fabe19e320a8e5.
 https://media-service.fanreachdata.io/edge/ohl/0363baecf7444466bd4efad7f7e718dd.m3u8
 #EXTINF:-1, Peterborough-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/a2e9fb0243c9463dac5ebc3e6a9c92fb.m3u8
-#EXTINF:-1, St.Lawrence-Cornell
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, BostonU-BostonCollege
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, SwiftCurrent-Calgary
+https://media-service.fanreachdata.io/edge/whl/8f0a950cf340431cab16def684854387.m3u8
+#EXTINF:-1, Lethbridge-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/3bef4650869d420c934c0a3b0b86c9b2.m3u8
+#EXTINF:-1, ReginaPats-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/5856cc3fba834f5393b6534595288343.m3u8
+#EXTINF:-1, Seattle-Portland
+https://media-service.fanreachdata.io/edge/whl/1ac11b4fe1534c9f8a139d47265a07d7.m3u8
+#EXTINF:-1, Kamloops-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/87121eeb280d4292a7da330743c43c8a.m3u8
+#EXTINF:-1, Edmonton-RedDeer
+https://media-service.fanreachdata.io/edge/whl/bf72516d64654fdfa889e77a233ba674.m3u8
+#EXTINF:-1, PrinceAlbert-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/340342b02f4447bfbe02837433e38279.m3u8
+#EXTINF:-1, SpokaneChiefs-Tri-City
+https://media-service.fanreachdata.io/edge/whl/f2e1e484564246c9aea8f851404c3848.m3u8
+#EXTINF:-1, WenatcheeWild-Everett
+https://media-service.fanreachdata.io/edge/whl/544566a22cc34085a098e5dd9d6474fa.m3u8
+#EXTINF:-1, Vancouver-Kelowna
+https://media-service.fanreachdata.io/edge/whl/849326d6a407402b82041c06e2cd353d.m3u8
