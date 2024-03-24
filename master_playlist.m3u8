@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1, Ingolstadt-Bremerhaven
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
+#EXTINF:-1, HV71-IKOskarshamn
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream85/playlist.m3u8
 #EXTINF:-1, EHCMünchen-Wolfsburg
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, Schwenningen-Straubing
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, IKOskarshamn-Hanviken
-https://cdn.livearenasports.com/blobs2/65f9392cff71f720b7ec3838/index.m3u8
+#EXTINF:-1, Abbotsford-Manitoba
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream81/playlist.m3u8
+#EXTINF:-1, LaserHTOulu-PEPOHC
+https://cdn.livearenasports.com/blobs2/65f6790dff71f720b7ec302c/index.m3u8
+#EXTINF:-1, Aosta-Juniorteams
+https://cdn.livearenasports.com/blobs1/65ffebaf38d1196f8f0d115e/index.m3u8
+#EXTINF:-1, VTS-HaukiputaanAhmat
+https://cdn.livearenasports.com/blobs2/65f91c0dff71f720b7ec37c1/index.m3u8
+#EXTINF:-1, RaumaTigers-PaRa
+https://cdn.livearenasports.com/blobs1/65f5278eff71f720b7ec2c85/index.m3u8
+#EXTINF:-1, NummelanKV-EVU
+https://cdn.livearenasports.com/blobs0/65f6a33dff71f720b7ec340e/index.m3u8
+#EXTINF:-1, PyryAk-HPKIcedogs
+https://cdn.livearenasports.com/blobs0/65f7ca8cff71f720b7ec34a7/index.m3u8
