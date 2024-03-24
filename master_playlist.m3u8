@@ -7,7 +7,13 @@ https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, Schwenningen-Straubing
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, IFMalmö-VästeråsIK
-https://cdn.livearenasports.com/blobs2/65f9392cff71f720b7ec3839/index.m3u8
-#EXTINF:-1, IKOskarshamn-Hanviken
-https://cdn.livearenasports.com/blobs0/65f9392cff71f720b7ec3838/index.m3u8
+#EXTINF:-1, KärpätAkatemia-PaRa
+https://cdn.livearenasports.com/blobs0/65f6790fff71f720b7ec3255/index.m3u8
+#EXTINF:-1, TPSAk-Kiekko-EspooIII
+https://cdn.livearenasports.com/blobs1/65f6790fff71f720b7ec32e4/index.m3u8
+#EXTINF:-1, EsbjergII-Vojens
+https://cdn.livearenasports.com/blobs0/65f5890cff71f720b7ec2f83/index.m3u8
+#EXTINF:-1, JYPJyväskylä-TPS
+https://cdn.livearenasports.com/blobs0/65f7ca8dff71f720b7ec34a8/index.m3u8
+#EXTINF:-1, NorrtäljeIK-SudretsHC
+https://cdn.livearenasports.com/blobs0/65f7db32ff71f720b7ec3510/index.m3u8
