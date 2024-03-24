@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Hartford-Belleville
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream80/playlist.m3u8
 #EXTINF:-1, WBS-LehighValley
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream84/playlist.m3u8
 #EXTINF:-1, Syracuse-Providence
@@ -11,22 +9,10 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream85/playlist.m3u8
 #EXTINF:-1, Laval-TorontoMarlies
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream86/playlist.m3u8
-#EXTINF:-1, Schwenningen-Straubing
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, Brantford-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/d5abf2eba87a4d0ba115313006126707.m3u8
-#EXTINF:-1, Peterborough-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/be23e807f4094902aee7e0dc1f27e709.m3u8
-#EXTINF:-1, Saginaw-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/426ce166b85f4cd3af076d7230c53670.m3u8
 #EXTINF:-1, Guelph-LondonKnights
 https://media-service.fanreachdata.io/edge/ohl/cce6c3f942894def88c355d2f3612c9f.m3u8
 #EXTINF:-1, SudburyWolves-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/4da1a9288f8a4a57858557be6425800f.m3u8
-#EXTINF:-1, DieBärenNeuwied-Liege
-https://cdn.livearenasports.com/blobs2/65fc052afc94b573ef773164/index.m3u8
-#EXTINF:-1, PyryAk-HPKIcedogs
-https://cdn.livearenasports.com/blobs1/65f7ca8cff71f720b7ec34a7/index.m3u8
 #EXTINF:-1, RedDeer-Edmonton
 https://media-service.fanreachdata.io/edge/whl/93ec59cea12745efa044d2d0e08bcc62.m3u8
 #EXTINF:-1, Tri-City-EverettSilvertips
