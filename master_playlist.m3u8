@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Guelph-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/cce6c3f942894def88c355d2f3612c9f.m3u8
-#EXTINF:-1, SudburyWolves-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/4da1a9288f8a4a57858557be6425800f.m3u8
 #EXTINF:-1, Bakersfield-Ontario
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream07/playlist.m3u8
 #EXTINF:-1, Tucson-SanJose
@@ -13,3 +9,5 @@ https://media-service.fanreachdata.io/edge/whl/93ec59cea12745efa044d2d0e08bcc62.
 https://media-service.fanreachdata.io/edge/whl/86217c9ea28149038eb252cedcbf13b1.m3u8
 #EXTINF:-1, Portland-Seattle
 https://media-service.fanreachdata.io/edge/whl/bf1d1f8cd5a94b20ab3286ecec961fe4.m3u8
+#EXTINF:-1, SudburyWolves-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/4da1a9288f8a4a57858557be6425800f.m3u8
