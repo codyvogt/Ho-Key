@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, GrandRapids-Rockford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
 #EXTINF:-1, Texas-CoachellaValley
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
-#EXTINF:-1, SwiftCurrent-Calgary
-https://media-service.fanreachdata.io/edge/whl/8f0a950cf340431cab16def684854387.m3u8
 #EXTINF:-1, Lethbridge-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/3bef4650869d420c934c0a3b0b86c9b2.m3u8
 #EXTINF:-1, ReginaPats-MooseJaw
