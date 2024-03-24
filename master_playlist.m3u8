@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1, StadionCheb-DraciBílina
-https://cdn.livearenasports.com/blobs1/65eaaa98cb9e0c309d0cc98c/index.m3u8
+#EXTINF:-1, AdlerMannheim-Eisbären
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, Ingolstadt-Bremerhaven
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
+#EXTINF:-1, EHCMünchen-Wolfsburg
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Schwenningen-Straubing
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, IFMalmö-VästeråsIK
+https://cdn.livearenasports.com/blobs2/65f9392cff71f720b7ec3839/index.m3u8
+#EXTINF:-1, IKOskarshamn-Hanviken
+https://cdn.livearenasports.com/blobs0/65f9392cff71f720b7ec3838/index.m3u8
