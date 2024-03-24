@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Tucson-SanJose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream81/playlist.m3u8
-#EXTINF:-1, Utica-W-B/Scranton
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream42/playlist.m3u8
 #EXTINF:-1, LavalRocket-Belleville
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream48/playlist.m3u8
 #EXTINF:-1, HersheyBears-Cleveland
@@ -15,10 +11,8 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream92/playlist.m3u8
 #EXTINF:-1, Charlotte-Providence
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream91/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Cornell
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, BostonU-BostonCollege
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, GrandRapids-Rockford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream43/playlist.m3u8
 #EXTINF:-1, Brantford-Kingston
 https://media-service.fanreachdata.io/edge/ohl/e1e54915d0874d9ebd691c856eab6ba9.m3u8
 #EXTINF:-1, Sudbury-NiagaraIceDogs
@@ -31,6 +25,8 @@ https://media-service.fanreachdata.io/edge/ohl/b3a64f0af63a488880fabe19e320a8e5.
 https://media-service.fanreachdata.io/edge/ohl/0363baecf7444466bd4efad7f7e718dd.m3u8
 #EXTINF:-1, Peterborough-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/a2e9fb0243c9463dac5ebc3e6a9c92fb.m3u8
+#EXTINF:-1, BostonU-BostonCollege
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, SwiftCurrent-Calgary
 https://media-service.fanreachdata.io/edge/whl/8f0a950cf340431cab16def684854387.m3u8
 #EXTINF:-1, Lethbridge-MedicineHat
