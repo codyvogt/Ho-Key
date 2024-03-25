@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Bakersfield-Ontario
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream07/playlist.m3u8
-#EXTINF:-1, Tucson-SanJose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream06/playlist.m3u8
 #EXTINF:-1, Calgary-SanDiegoGulls
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream01/playlist.m3u8
-#EXTINF:-1, RedDeer-Edmonton
-https://media-service.fanreachdata.io/edge/whl/93ec59cea12745efa044d2d0e08bcc62.m3u8
-#EXTINF:-1, Tri-City-EverettSilvertips
-https://media-service.fanreachdata.io/edge/whl/86217c9ea28149038eb252cedcbf13b1.m3u8
 #EXTINF:-1, Portland-Seattle
 https://media-service.fanreachdata.io/edge/whl/bf1d1f8cd5a94b20ab3286ecec961fe4.m3u8
-#EXTINF:-1, SudburyWolves-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/4da1a9288f8a4a57858557be6425800f.m3u8
