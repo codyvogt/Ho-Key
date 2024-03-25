@@ -3,6 +3,8 @@
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream07/playlist.m3u8
 #EXTINF:-1, Tucson-SanJose
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream06/playlist.m3u8
+#EXTINF:-1, Calgary-SanDiegoGulls
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream01/playlist.m3u8
 #EXTINF:-1, RedDeer-Edmonton
 https://media-service.fanreachdata.io/edge/whl/93ec59cea12745efa044d2d0e08bcc62.m3u8
 #EXTINF:-1, Tri-City-EverettSilvertips
