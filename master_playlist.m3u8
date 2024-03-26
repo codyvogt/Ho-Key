@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Avangard-Lokomotiv
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, Spartak-MetallurgMg
+https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1, OulunKärpät-Ässät
+https://cdn.livearenasports.com/blobs0/65f91c0dff71f720b7ec37b3/index.m3u8
+#EXTINF:-1, Juniorteams-HCAosta
+https://cdn.livearenasports.com/blobs0/65ffebcf38d1196f8f0d1160/index.m3u8
