@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Vsetín-PirátiChomutov
-https://cdn.livearenasports.com/blobs0/660265956b517844906d1c68/index.m3u8
+#EXTINF:-1, Massachusetts-Denver
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Schwenningen-Straubing
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, GladsaxeBears-EsbjergII
+https://cdn.livearenasports.com/blobs2/6602e21c4376fa771693aab9/index.m3u8
+#EXTINF:-1, DieBärenNeuwied-Liege
+https://cdn.livearenasports.com/blobs2/65fc052ffc94b573ef773166/index.m3u8
+#EXTINF:-1, ESCDorfen-Ulm/Neu-Ulm
+https://content.aisportswatch.com/284892/master.m3u8
+#EXTINF:-1, FifeFlyers-Nottingham
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream270/playlist.m3u8
