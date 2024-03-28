@@ -1,13 +1,17 @@
 #EXTM3U
 #EXTINF:-1, Massachusetts-Denver
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Schwenningen-Straubing
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
-#EXTINF:-1, GladsaxeBears-EsbjergII
-https://cdn.livearenasports.com/blobs2/6602e21c4376fa771693aab9/index.m3u8
-#EXTINF:-1, DieBärenNeuwied-Liege
-https://cdn.livearenasports.com/blobs2/65fc052ffc94b573ef773166/index.m3u8
 #EXTINF:-1, ESCDorfen-Ulm/Neu-Ulm
 https://content.aisportswatch.com/284892/master.m3u8
 #EXTINF:-1, FifeFlyers-Nottingham
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream270/playlist.m3u8
+#EXTINF:-1, Kingston-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/4a1fd481b2c242029f951c9e4b5584dd.m3u8
+#EXTINF:-1, Sudbury-Mississauga
+https://media-service.fanreachdata.io/edge/ohl/3d92595456ae400c82a88e340a614385.m3u8
+#EXTINF:-1, OwenSound-Saginaw
+https://media-service.fanreachdata.io/edge/ohl/5348057a253e4d8691c740905f47f754.m3u8
+#EXTINF:-1, Guelph-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/1473bf99b1744e2c86a52b8b4495eb1b.m3u8
+#EXTINF:-1, PrinceAlbert-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/5bb8b800e3ef457eaa71aab457ce8141.m3u8
