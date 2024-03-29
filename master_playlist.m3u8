@@ -15,6 +15,16 @@ https://media-service.fanreachdata.io/edge/lhjmq/0ab98b62e38a4936b7c6d5b926b81a5
 https://media-service.fanreachdata.io/edge/lhjmq/f173e4baa224452dbfee587dc9c647ff.m3u8
 #EXTINF:-1, Shawinigan-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/f9412fbe9d3641fda1b0e6e5a1b1e0bd.m3u8
+#EXTINF:-1, Charlotte-Bridgeport
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream55/playlist.m3u8
+#EXTINF:-1, Springfield-Hartford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream58/playlist.m3u8
+#EXTINF:-1, Belleville-LavalRocket
+https://hockeytech.akamaized.net/hls/live/2028272/game-1036037-Home-0c484755-09c0-4d2c-93d5-ed074f09d058/main.m3u8
+#EXTINF:-1, LehighValley-Syracuse
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream56/playlist.m3u8
+#EXTINF:-1, Providence-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream57/playlist.m3u8
 #EXTINF:-1, Ottawa67's-Brantford
 https://media-service.fanreachdata.io/edge/ohl/446c18bb0236498bb500f50cd59b08ee.m3u8
 #EXTINF:-1, Erie-KitchenerRangers
