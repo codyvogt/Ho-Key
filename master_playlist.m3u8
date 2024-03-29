@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1, SaPKo-ImatranKetterä
-https://cdn.livearenasports.com/blobs1/65fd108d38d1196f8f0d0ed4/index.m3u8
-#EXTINF:-1, TapparaTampere-TPS
-https://cdn.livearenasports.com/blobs0/6603a80c4376fa771693ab63/index.m3u8
-#EXTINF:-1, KouvolanKooKoo-Ässät
-https://cdn.livearenasports.com/blobs0/6600402c5afca529de8c5eda/index.m3u8
 #EXTINF:-1, SkellefteåAIK-Leksand
 https://cdn.livearenasports.com/blobs2/66014c4d38d1196f8f0d1304/index.m3u8
 #EXTINF:-1, LuleåHF-ÖrebroHK
-https://cdn.livearenasports.com/blobs0/66014c4d5afca529de8c5fe4/index.m3u8
+https://cdn.livearenasports.com/blobs2/66014c4d5afca529de8c5fe4/index.m3u8
 #EXTINF:-1, VäxjöLakers-FrölundaHC
 https://cdn.livearenasports.com/blobs0/66014c4d5afca529de8c5fdb/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-Ässät
+https://cdn.livearenasports.com/blobs0/6600402c5afca529de8c5eda/index.m3u8
 #EXTINF:-1, Vsetín-PirátiChomutov
 https://cdn.livearenasports.com/blobs0/660265956b517844906d1c6b/index.m3u8
