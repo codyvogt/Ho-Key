@@ -1,3 +1,45 @@
 #EXTM3U
-#EXTINF:-1, HerningII-AalborgII
-https://cdn.livearenasports.com/blobs2/6602e21c4376fa771693aabb/index.m3u8
+#EXTINF:-1, SanJose-Calgary
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream12/playlist.m3u8
+#EXTINF:-1, Toronto-ManitobaMoose
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream17/playlist.m3u8
+#EXTINF:-1, Rimouski-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/0dfb68d6a8de4c5dae3c5aae493653bd.m3u8
+#EXTINF:-1, Acadie-Bathurst-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/262a297484694585988bc4d0c96a6b51.m3u8
+#EXTINF:-1, Chicoutimi-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/2e889cadedb84bf59d2649b9e11f9bac.m3u8
+#EXTINF:-1, Chtown-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/a293ae2f5ed04a118310edb8beadb810.m3u8
+#EXTINF:-1, SaintJohn-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/d4b2ca319bf54aeb8fce4c70a25642f8.m3u8
+#EXTINF:-1, Gatineau-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/0ab98b62e38a4936b7c6d5b926b81a5a.m3u8
+#EXTINF:-1, Blainville-B.-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/f173e4baa224452dbfee587dc9c647ff.m3u8
+#EXTINF:-1, Shawinigan-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/f9412fbe9d3641fda1b0e6e5a1b1e0bd.m3u8
+#EXTINF:-1, Ottawa67's-Brantford
+https://media-service.fanreachdata.io/edge/ohl/446c18bb0236498bb500f50cd59b08ee.m3u8
+#EXTINF:-1, Erie-KitchenerRangers
+https://media-service.fanreachdata.io/edge/ohl/3f7a973b510746f58409fd0a8b81113f.m3u8
+#EXTINF:-1, Flint-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/201d67df1288402d81d283e6fd475445.m3u8
+#EXTINF:-1, Barrie-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/45c7173cf7574b95b37572356affbfdc.m3u8
+#EXTINF:-1, RedDeer-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/b4059cc6f7474afdb9b6363d61dcf4f4.m3u8
+#EXTINF:-1, Brandon-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/a4289705cb894be8bcc24651b5d2b8a8.m3u8
+#EXTINF:-1, PrinceAlbert-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/9df2963f1b0e4d459012f23f3ed7fd7c.m3u8
+#EXTINF:-1, Lethbridge-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/7f86e9fefba0489fb21f6fe2923d8926.m3u8
+#EXTINF:-1, VictoriaRoyals-Portland
+https://media-service.fanreachdata.io/edge/whl/358f86e4a71e468c8812c16c013be2d1.m3u8
+#EXTINF:-1, Spokane-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/1de2aaa833bf49519a5b982af6ac0477.m3u8
+#EXTINF:-1, Kelowna-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/257c900825a4409ea2eb8f74f4a4d3ac.m3u8
+#EXTINF:-1, VancouverGiants-Everett
+https://media-service.fanreachdata.io/edge/whl/2968f8f1a0b74467864b671fb45e6e52.m3u8
