@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Kingston-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/4a1fd481b2c242029f951c9e4b5584dd.m3u8
-#EXTINF:-1, OwenSound-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/5348057a253e4d8691c740905f47f754.m3u8
-#EXTINF:-1, Guelph-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/1473bf99b1744e2c86a52b8b4495eb1b.m3u8
 #EXTINF:-1, PrinceAlbert-Saskatoon
 https://media-service.fanreachdata.io/edge/whl/5bb8b800e3ef457eaa71aab457ce8141.m3u8
