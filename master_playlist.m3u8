@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, LausanneHC-HCDavos
-https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, Belleville-LavalRocket
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream51/playlist.m3u8
 #EXTINF:-1, Rochester-Cleveland
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream52/playlist.m3u8
-#EXTINF:-1, LiegeBulldogs-Neuwied
-https://cdn.livearenasports.com/blobs0/65fc0535b7170c0c3b42a97d/index.m3u8
-#EXTINF:-1, AresSport-HCPiné
-https://cdn.livearenasports.com/blobs2/65f1a1a8ff71f720b7ec22bc/index.m3u8
+#EXTINF:-1, Springfield-UticaComets
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream53/playlist.m3u8
 #EXTINF:-1, Chtown-Baie-Comeau
 https://media-service.fanreachdata.io/edge/lhjmq/19533d2293b34f459ee5c15ee9e631f0.m3u8
 #EXTINF:-1, Gatineau-Rouyn-Noranda
@@ -33,3 +29,17 @@ https://media-service.fanreachdata.io/edge/ohl/285037c012c74745924e7147efe1f675.
 https://media-service.fanreachdata.io/edge/ohl/c443b62c7e164a02ae86b0dd95d25190.m3u8
 #EXTINF:-1, Guelph-SaultSte.Marie
 https://media-service.fanreachdata.io/edge/ohl/406e12b5df704da29f91cc17d1e2569b.m3u8
+#EXTINF:-1, Spokane-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/bc48e26f56ba4359b2d70806302ce1d1.m3u8
+#EXTINF:-1, VictoriaRoyals-Portland
+https://media-service.fanreachdata.io/edge/whl/680e0e872f8846c3bab063ffef990968.m3u8
+#EXTINF:-1, Brandon-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/d1ed998801cc41daa688672bb6f9740f.m3u8
+#EXTINF:-1, RedDeer-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/1da40463deae47e4b23b808c4d538fae.m3u8
+#EXTINF:-1, Lethbridge-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/554c255d5ac74d28b37522a317713a45.m3u8
+#EXTINF:-1, Kelowna-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/a83bd09c63ea484a8edcb90b4d0d0244.m3u8
+#EXTINF:-1, Vancouver-Everett
+https://media-service.fanreachdata.io/edge/whl/c6120b95125140a9be80e29d650c3544.m3u8
