@@ -25,6 +25,12 @@ https://hockeytech.akamaized.net/hls/live/2028272/game-1036037-Home-0c484755-09c
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream56/playlist.m3u8
 #EXTINF:-1, Providence-UticaComets
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream57/playlist.m3u8
+#EXTINF:-1, GrandRapids-Chicago
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream62/playlist.m3u8
+#EXTINF:-1, Rockford-Milwaukee
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream60/playlist.m3u8
+#EXTINF:-1, IowaWild-TexasStars
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream61/playlist.m3u8
 #EXTINF:-1, Ottawa67's-Brantford
 https://media-service.fanreachdata.io/edge/ohl/446c18bb0236498bb500f50cd59b08ee.m3u8
 #EXTINF:-1, Erie-KitchenerRangers
