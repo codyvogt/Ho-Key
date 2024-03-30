@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rimouski-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/0dfb68d6a8de4c5dae3c5aae493653bd.m3u8
-#EXTINF:-1, Acadie-Bathurst-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/262a297484694585988bc4d0c96a6b51.m3u8
-#EXTINF:-1, Chicoutimi-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/2e889cadedb84bf59d2649b9e11f9bac.m3u8
-#EXTINF:-1, Chtown-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/a293ae2f5ed04a118310edb8beadb810.m3u8
-#EXTINF:-1, SaintJohn-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/d4b2ca319bf54aeb8fce4c70a25642f8.m3u8
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/0ab98b62e38a4936b7c6d5b926b81a5a.m3u8
-#EXTINF:-1, Blainville-B.-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/f173e4baa224452dbfee587dc9c647ff.m3u8
-#EXTINF:-1, Shawinigan-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/f9412fbe9d3641fda1b0e6e5a1b1e0bd.m3u8
 #EXTINF:-1, Charlotte-Bridgeport
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream55/playlist.m3u8
 #EXTINF:-1, Springfield-Hartford
@@ -31,6 +15,16 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream60/playlist.m3u8
 #EXTINF:-1, IowaWild-TexasStars
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream61/playlist.m3u8
+#EXTINF:-1, Chtown-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/a293ae2f5ed04a118310edb8beadb810.m3u8
+#EXTINF:-1, SaintJohn-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/d4b2ca319bf54aeb8fce4c70a25642f8.m3u8
+#EXTINF:-1, Gatineau-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/0ab98b62e38a4936b7c6d5b926b81a5a.m3u8
+#EXTINF:-1, Blainville-B.-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/f173e4baa224452dbfee587dc9c647ff.m3u8
+#EXTINF:-1, Shawinigan-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/f9412fbe9d3641fda1b0e6e5a1b1e0bd.m3u8
 #EXTINF:-1, Ottawa67's-Brantford
 https://media-service.fanreachdata.io/edge/ohl/446c18bb0236498bb500f50cd59b08ee.m3u8
 #EXTINF:-1, Erie-KitchenerRangers
