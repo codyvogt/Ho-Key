@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1, NarvaPSK-Välk494
-https://cdn.livearenasports.com/blobs2/65f9562cff71f720b7ec38c1/index.m3u8
-#EXTINF:-1, Storhamar-FriskAsker
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream168/playlist.m3u8
 #EXTINF:-1, PorinÄssät-KooKoo
 https://cdn.livearenasports.com/blobs2/6603a80c4376fa771693ab65/index.m3u8
-#EXTINF:-1, Hanviken-Oskarshamn
-https://cdn.livearenasports.com/blobs0/65ffd81038d1196f8f0d114f/index.m3u8
-#EXTINF:-1, VästeråsIK-IFMalmö
-https://cdn.livearenasports.com/blobs2/65ffd7276e8dae39d80bfdf9/index.m3u8
-#EXTINF:-1, EisbärenBerlin-Landshut
-https://content.aisportswatch.com/285009/master.m3u8
-#EXTINF:-1, EsbjergII-GladsaxeBears
-https://cdn.livearenasports.com/blobs2/6602e21c4376fa771693aabd/index.m3u8
-#EXTINF:-1, KalPaAk-KJTHaukatAk
-https://cdn.livearenasports.com/blobs1/65fe620d6e8dae39d80bfd1f/index.m3u8
 #EXTINF:-1, LaserHT-S-Kiekko
 https://cdn.livearenasports.com/blobs0/65fe620c38d1196f8f0d10b9/index.m3u8
+#EXTINF:-1, VästeråsIK-IFMalmö
+https://cdn.livearenasports.com/blobs2/65ffd7276e8dae39d80bfdf9/index.m3u8
