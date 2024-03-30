@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, GrandRapids-Chicago
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream62/playlist.m3u8
-#EXTINF:-1, Bakersfield-Henderson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream02/playlist.m3u8
-#EXTINF:-1, SanDiegoGulls-Tucson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream01/playlist.m3u8
 #EXTINF:-1, RedDeer-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/b4059cc6f7474afdb9b6363d61dcf4f4.m3u8
 #EXTINF:-1, Brandon-MooseJaw
@@ -21,3 +15,7 @@ https://media-service.fanreachdata.io/edge/whl/1de2aaa833bf49519a5b982af6ac0477.
 https://media-service.fanreachdata.io/edge/whl/257c900825a4409ea2eb8f74f4a4d3ac.m3u8
 #EXTINF:-1, VancouverGiants-Everett
 https://media-service.fanreachdata.io/edge/whl/2968f8f1a0b74467864b671fb45e6e52.m3u8
+#EXTINF:-1, Bakersfield-Henderson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream02/playlist.m3u8
+#EXTINF:-1, SanDiegoGulls-Tucson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream01/playlist.m3u8
