@@ -3,18 +3,8 @@
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
 #EXTINF:-1, Straubing-Schwenningen
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport08/msport08_m/index.m3u8
-#EXTINF:-1, LaserHT-NokianPyry
-https://cdn.livearenasports.com/blobs0/65fe620d6e8dae39d80bfd1d/index.m3u8
-#EXTINF:-1, KalPaAk-KJTHaukatAk
-https://cdn.livearenasports.com/blobs0/65fe620d6e8dae39d80bfd1f/index.m3u8
-#EXTINF:-1, SaPKo-TurunToverit
-https://cdn.livearenasports.com/blobs0/65fe620c6e8dae39d80bfd14/index.m3u8
-#EXTINF:-1, PorinÄssät-KooKoo
-https://cdn.livearenasports.com/blobs0/6603a80c4376fa771693ab65/index.m3u8
-#EXTINF:-1, HerningII-AalborgII
-https://cdn.livearenasports.com/blobs2/6607ece02c42494e2a3cb2ac/index.m3u8
-#EXTINF:-1, EsbjergII-GladsaxeBears
-https://cdn.livearenasports.com/blobs0/6602e21c4376fa771693aabd/index.m3u8
+#EXTINF:-1, HIFK-LahdenPelicans
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream167/playlist.m3u8
 #EXTINF:-1, ViruSputnik-Everest
 https://cdn.livearenasports.com/blobs0/6607c7542c42494e2a3cb292/index.m3u8
 #EXTINF:-1, NarvaPSK-Välk494
