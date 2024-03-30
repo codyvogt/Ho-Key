@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1, PorinÄssät-KooKoo
-https://cdn.livearenasports.com/blobs2/6603a80c4376fa771693ab65/index.m3u8
-#EXTINF:-1, LaserHT-S-Kiekko
-https://cdn.livearenasports.com/blobs0/65fe620c38d1196f8f0d10b9/index.m3u8
-#EXTINF:-1, VästeråsIK-IFMalmö
-https://cdn.livearenasports.com/blobs2/65ffd7276e8dae39d80bfdf9/index.m3u8
+#EXTINF:-1, LausanneHC-HCDavos
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, VlciŽilina-Dubnica
+https://nn.geo.joj.sk/huste/be8d2395-135f-4c7b-be7e-d99a264ddbe0/be8d2395-135f-4c7b-be7e-d99a264ddbe0/playlist.m3u8
+#EXTINF:-1, HKMZvolen-MMHKNitra
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream160/playlist.m3u8
+#EXTINF:-1, EVDingolfing-ESCDorfen
+https://content.aisportswatch.com/276341/master.m3u8
+#EXTINF:-1, ItalianHDP-Salzburg
+https://cdn.livearenasports.com/blobs0/6601989f6b517844906d1c11/index.m3u8
+#EXTINF:-1, HCMVVarese-Pergine
+https://cdn.livearenasports.com/blobs1/66054139f1e1cd140067b75a/index.m3u8
+#EXTINF:-1, LiegeBulldogs-Neuwied
+https://cdn.livearenasports.com/blobs0/65fc0535b7170c0c3b42a97d/index.m3u8
+#EXTINF:-1, AresSport-HCPiné
+https://cdn.livearenasports.com/blobs0/65f1a1a8ff71f720b7ec22bc/index.m3u8
