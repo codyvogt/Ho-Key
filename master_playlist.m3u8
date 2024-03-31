@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1, ItalianHDP-Steiermark
-https://cdn.livearenasports.com/blobs2/660198ed4376fa771693a982/index.m3u8
-#EXTINF:-1, TPS-TapparaTampere
-https://cdn.livearenasports.com/blobs0/6603a80c4376fa771693ab67/index.m3u8
-#EXTINF:-1, ImatranKetterä-TUTO
-https://cdn.livearenasports.com/blobs1/65ffb38d6e8dae39d80bfd91/index.m3u8
 #EXTINF:-1, KalPaAkatemia-Pyry
 https://cdn.livearenasports.com/blobs0/65ffb38d6e8dae39d80bfda1/index.m3u8
 #EXTINF:-1, VG-62Naantali-PEPOHC
 https://cdn.livearenasports.com/blobs2/65ffb38d6e8dae39d80bfd92/index.m3u8
 #EXTINF:-1, S-Kiekko-LaserHT
-https://cdn.livearenasports.com/blobs0/65ffb38c6e8dae39d80bfd8f/index.m3u8
+https://cdn.livearenasports.com/blobs2/65ffb38c6e8dae39d80bfd8f/index.m3u8
