@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Acadie-Bathurst-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/cdbd4f61a88b479b80b0ab2626080ad5.m3u8
-#EXTINF:-1, Blainville-B.-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/18939d5791fa4496ae90e06a2ad5d352.m3u8
-#EXTINF:-1, Chicoutimi-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/234e811fed774f398c71c2069fdda739.m3u8
-#EXTINF:-1, Rimouski-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/676a57d1c3d647cfa4f7dd4c141c5101.m3u8
-#EXTINF:-1, SaintJohn-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/340f8af64cdc4becacc8927835365434.m3u8
 #EXTINF:-1, Charlotte-Bridgeport
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
 #EXTINF:-1, HersheyBears-Hartford
@@ -19,6 +9,8 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream16/playlist.m3u8
 #EXTINF:-1, IowaWild-TexasStars
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream15/playlist.m3u8
+#EXTINF:-1, SaintJohn-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/340f8af64cdc4becacc8927835365434.m3u8
 #EXTINF:-1, Kingston-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/285037c012c74745924e7147efe1f675.m3u8
 #EXTINF:-1, OwenSound-Saginaw
