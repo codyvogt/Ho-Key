@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Charlotte-Bridgeport
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
-#EXTINF:-1, HersheyBears-Hartford
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream14/playlist.m3u8
-#EXTINF:-1, Providence-Syracuse
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream13/playlist.m3u8
 #EXTINF:-1, Rockford-ChicagoWolves
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream16/playlist.m3u8
-#EXTINF:-1, IowaWild-TexasStars
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream15/playlist.m3u8
-#EXTINF:-1, SaintJohn-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/340f8af64cdc4becacc8927835365434.m3u8
-#EXTINF:-1, Kingston-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/285037c012c74745924e7147efe1f675.m3u8
-#EXTINF:-1, OwenSound-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/c443b62c7e164a02ae86b0dd95d25190.m3u8
-#EXTINF:-1, Guelph-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/406e12b5df704da29f91cc17d1e2569b.m3u8
+#EXTINF:-1, Bakersfield-OntarioReign
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream17/playlist.m3u8
+#EXTINF:-1, CoachellaV.-Henderson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
 #EXTINF:-1, Spokane-PrinceGeorge
 https://media-service.fanreachdata.io/edge/whl/bc48e26f56ba4359b2d70806302ce1d1.m3u8
 #EXTINF:-1, VictoriaRoyals-Portland
