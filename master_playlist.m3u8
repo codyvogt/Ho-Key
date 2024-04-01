@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, PirátiChomutov-Vsetín
-https://cdn.livearenasports.com/blobs1/6603ef572c42494e2a3cadfc/index.m3u8
-#EXTINF:-1, Šumperk-SlaviaPraha
-https://cdn.livearenasports.com/blobs2/66015a685afca529de8c6026/index.m3u8
 #EXTINF:-1, EisbärenBerlin-Straubing
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, Nottingham-GlasgowClan
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream276/playlist.m3u8
+#EXTINF:-1, Šumperk-SlaviaPraha
+https://cdn.livearenasports.com/blobs2/66015a685afca529de8c6026/index.m3u8
 #EXTINF:-1, Prešov-PovažskáBystrica
 https://nn.geo.joj.sk/huste/dce1e8e4-986f-4893-add6-7c8381cd0c56/dce1e8e4-986f-4893-add6-7c8381cd0c56/playlist.m3u8
 #EXTINF:-1, ZSCLions-EVZug
