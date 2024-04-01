@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, ZSCLions-EVZug
-https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, SaultSte.Marie-Guelph
+https://media-service.fanreachdata.io/edge/ohl/d8ed10dfde644151899559eca809a4db.m3u8
+#EXTINF:-1, NorthBay-Kingston
+https://media-service.fanreachdata.io/edge/ohl/80d3745a4e834e23997cde3ff8de1f8a.m3u8
+#EXTINF:-1, Saginaw-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/7afabec7133744bf9baea0ae84747cb2.m3u8
+#EXTINF:-1, Mississauga-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/9c8f483e42414bfb8775b28ae24b4a0b.m3u8
