@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1, IFBjörklöven-IFMalmö
 https://cdn.livearenasports.com/blobs1/660273ce6b517844906d1c8e/index.m3u8
+#EXTINF:-1, EHCNürnberg-Chemnitz
+https://content.aisportswatch.com/285025/master.m3u8
+#EXTINF:-1, Bremerhaven-München
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, TapparaTampere-TPS
+https://cdn.livearenasports.com/blobs0/6603a80c4376fa771693ab64/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-Ässät
+https://cdn.livearenasports.com/blobs0/6600402c5afca529de8c5ed9/index.m3u8
