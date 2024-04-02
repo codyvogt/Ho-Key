@@ -1,3 +1,37 @@
 #EXTM3U
-#EXTINF:-1, Pergine-HCMVVarese
-https://cdn.livearenasports.com/blobs1/6605851ff1e1cd140067b851/index.m3u8
+#EXTINF:-1, Baie-Comeau-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/c0dfb4a111f54836b4fd1796866d5b71.m3u8
+#EXTINF:-1, Halifax-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/62b1fe7fafd347a4b936a43571823034.m3u8
+#EXTINF:-1, Drummond.-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/c21eccbcccc94124a772f54c3fe84aa1.m3u8
+#EXTINF:-1, Sherbrooke-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/6a6437d68075441a9f986ebfe8a91fa1.m3u8
+#EXTINF:-1, CapeBreton-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/4148d6d9d5714f3fa69424c6e96b17f3.m3u8
+#EXTINF:-1, Rouyn-Noranda-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/4da2bbe9617b4444b9b924ba7a6ec8ff.m3u8
+#EXTINF:-1, Victoriaville-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/6822dd1e65a24f9ba1119186285ef0ae.m3u8
+#EXTINF:-1, Moncton-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/9903187cf00b4f3380cf6457053c95f8.m3u8
+#EXTINF:-1, Oshawa-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/b1eff9497ea4452a8ae1e993179a64d1.m3u8
+#EXTINF:-1, Brantford-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/103a16579f514f8baec15f839260be9f.m3u8
+#EXTINF:-1, London-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/b91fa85e6b0f44d5bb9eacee642295ba.m3u8
+#EXTINF:-1, Kitchener-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/4c371238938d461ead63039b839ea6f8.m3u8
+#EXTINF:-1, MedicineHat-RedDeer
+https://media-service.fanreachdata.io/edge/whl/d40dc1951dbd444e80f98c28706f7740.m3u8
+#EXTINF:-1, Saskatoon-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/3f30d11ccefb4294967ef4f8b40dbc86.m3u8
+#EXTINF:-1, SwiftCurrent-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/ebcd147b3b6543b6832114c10ce31d32.m3u8
+#EXTINF:-1, PrinceGeorge-Spokane
+https://media-service.fanreachdata.io/edge/whl/b854425d0f5046b9b90416987ad26a2f.m3u8
+#EXTINF:-1, Portland-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/83de9b63ccce4b8a9dfe9625ab22bf20.m3u8
+#EXTINF:-1, WenatcheeWild-Kelowna
+https://media-service.fanreachdata.io/edge/whl/686f326819c244ecb9674d38447c3984.m3u8
