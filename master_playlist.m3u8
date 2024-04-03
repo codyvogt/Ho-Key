@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Sherbrooke-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/6a6437d68075441a9f986ebfe8a91fa1.m3u8
-#EXTINF:-1, Rouyn-Noranda-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/4da2bbe9617b4444b9b924ba7a6ec8ff.m3u8
-#EXTINF:-1, Moncton-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/9903187cf00b4f3380cf6457053c95f8.m3u8
-#EXTINF:-1, Oshawa-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/b1eff9497ea4452a8ae1e993179a64d1.m3u8
 #EXTINF:-1, London-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/b91fa85e6b0f44d5bb9eacee642295ba.m3u8
 #EXTINF:-1, Kitchener-ErieOtters
 https://media-service.fanreachdata.io/edge/ohl/4c371238938d461ead63039b839ea6f8.m3u8
+#EXTINF:-1, Moncton-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/9903187cf00b4f3380cf6457053c95f8.m3u8
 #EXTINF:-1, Milwaukee-Rockford
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream52/playlist.m3u8
 #EXTINF:-1, Colorado-TexasStars
