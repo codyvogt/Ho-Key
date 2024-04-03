@@ -17,6 +17,10 @@ https://media-service.fanreachdata.io/edge/lhjmq/6822dd1e65a24f9ba1119186285ef0a
 https://media-service.fanreachdata.io/edge/lhjmq/9903187cf00b4f3380cf6457053c95f8.m3u8
 #EXTINF:-1, LehighValley-Hershey
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream276/playlist.m3u8
+#EXTINF:-1, Milwaukee-Rockford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream52/playlist.m3u8
+#EXTINF:-1, Colorado-TexasStars
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream51/playlist.m3u8
 #EXTINF:-1, Oshawa-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/b1eff9497ea4452a8ae1e993179a64d1.m3u8
 #EXTINF:-1, Brantford-Ottawa67's
