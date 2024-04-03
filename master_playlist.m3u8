@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LausanneHC-HCFG
-https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, Baie-Comeau-Chtown
 https://media-service.fanreachdata.io/edge/lhjmq/b8f2517e18f84f57a2ed51c8284ccca7.m3u8
 #EXTINF:-1, Halifax-Acadie-Bathurst
@@ -25,6 +23,12 @@ https://media-service.fanreachdata.io/edge/ohl/a67971e11bc24800a1de35a9b6fe2539.
 https://media-service.fanreachdata.io/edge/ohl/84e4b216b78a451795c1e4eae6f26b3e.m3u8
 #EXTINF:-1, Mississauga-Sudbury
 https://media-service.fanreachdata.io/edge/ohl/62a14da355ee46ba87e5dcaa54d9a124.m3u8
+#EXTINF:-1, Chicago-GrandRapids
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream440/playlist.m3u8
+#EXTINF:-1, Bridgeport-Hartford
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream441/playlist.m3u8
+#EXTINF:-1, Cleveland-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream381/playlist.m3u8
 #EXTINF:-1, MooseJaw-Brandon
 https://media-service.fanreachdata.io/edge/whl/a4b564991f6640afaf02b2bb7fc3854b.m3u8
 #EXTINF:-1, MedicineHat-RedDeer
