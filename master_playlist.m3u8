@@ -3,3 +3,27 @@
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, LausanneHC-HCFG
 https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, Baie-Comeau-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/b8f2517e18f84f57a2ed51c8284ccca7.m3u8
+#EXTINF:-1, Halifax-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/6c54251f287d4be586261e3101a46f49.m3u8
+#EXTINF:-1, Drummond.-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/0fd583f9c9e44661ab1d7c33dcdecc7c.m3u8
+#EXTINF:-1, Sherbrooke-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/c7c27d3db7f146bebebae96fb3d7d3d6.m3u8
+#EXTINF:-1, CapeBreton-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/afb9f91bd2884c0cb2a1c22992d39129.m3u8
+#EXTINF:-1, Rouyn-Noranda-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/aea024ea6f634c6988be1d5f350c30a9.m3u8
+#EXTINF:-1, Victoriaville-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/bf0dbd124e254db6baa91ec19e034ed0.m3u8
+#EXTINF:-1, Moncton-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/46e9d6cd88034f80a2ee63c17ddb5d18.m3u8
+#EXTINF:-1, SaultSte.Marie-Guelph
+https://media-service.fanreachdata.io/edge/ohl/213c450bb7db4abebb79afcefd73f6cc.m3u8
+#EXTINF:-1, NorthBay-Kingston
+https://media-service.fanreachdata.io/edge/ohl/a67971e11bc24800a1de35a9b6fe2539.m3u8
+#EXTINF:-1, Saginaw-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/84e4b216b78a451795c1e4eae6f26b3e.m3u8
+#EXTINF:-1, Mississauga-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/62a14da355ee46ba87e5dcaa54d9a124.m3u8
