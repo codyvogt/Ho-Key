@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv-Traktor
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:-1, VimmerbyHC-Kristianstad
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream33/playlist.m3u8
-#EXTINF:-1, Brödernas/Väsby-Piteå
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream32/playlist.m3u8
-#EXTINF:-1, HudiksvallsHC-Halmstad
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream34/playlist.m3u8
 #EXTINF:-1, HCMVVarese-Pergine
 https://cdn.livearenasports.com/blobs1/6605413c2c42494e2a3caffe/index.m3u8
