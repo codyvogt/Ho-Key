@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Oshawa-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/ec703a2b3bb84ce79ea35450ac9fe098.m3u8
-#EXTINF:-1, Brantford-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/3aa327b3942d4d65a3182dc0774c9386.m3u8
-#EXTINF:-1, London-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/beb1c983c0a84989aeedd14b5b9f4c0b.m3u8
-#EXTINF:-1, Kitchener-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/1673a775c0c5412294e986944f5a3d5e.m3u8
-#EXTINF:-1, MooseJaw-Brandon
-https://media-service.fanreachdata.io/edge/whl/93dc30bff37d41cb94ea6b98c38a1f2c.m3u8
+#EXTINF:-1, SanJose-CoachellaV.
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
