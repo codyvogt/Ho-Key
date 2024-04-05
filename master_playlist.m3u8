@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, RovaniemenKiekko-TUTO
-https://cdn.livearenasports.com/blobs0/66064b0df1e1cd140067b8ae/index.m3u8
-#EXTINF:-1, VlciŽilina-HKMZvolen
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream103/playlist.m3u8
+#EXTINF:-1, Bremerhaven-München
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
+#EXTINF:-1, EisbärenBerlin-Straubing
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, PovažskáBystrica-Prešov
 https://nn.geo.joj.sk/huste/bb37b1f5-a2ac-4eac-b337-4ffea30ff091/bb37b1f5-a2ac-4eac-b337-4ffea30ff091/playlist.m3u8
 #EXTINF:-1, IFMalmö-IKOskarshamn
