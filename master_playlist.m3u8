@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1, IFBjörklöven-Hanviken
-https://cdn.livearenasports.com/blobs1/6607b9cef1e1cd140067b9e7/index.m3u8
-#EXTINF:-1, DjurgårdensIF-Örebro
-https://cdn.livearenasports.com/blobs1/660905db2c42494e2a3cb3d0/index.m3u8
-#EXTINF:-1, SkellefteåAIK-Frölunda
-https://cdn.livearenasports.com/blobs0/66090fd72c42494e2a3cb411/index.m3u8
+#EXTINF:-1, EisbärenBerlin-Straubing
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
+#EXTINF:-1, Rouen-Bordeaux
+https://sp1564435593-1.mytvchain.info/live/sp1564435593/index.m3u8
