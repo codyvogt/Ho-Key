@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Ketterä-Kiekko-Vantaa
-https://cdn.livearenasports.com/blobs2/66079c8d2c42494e2a3cb21d/index.m3u8
-#EXTINF:-1, KooKoo-TapparaTampere
-https://cdn.livearenasports.com/blobs2/660b910c5fedc846fa2281ff/index.m3u8
-#EXTINF:-1, LeKi-75-ParruHT
-https://cdn.livearenasports.com/blobs2/66079c8df1e1cd140067b987/index.m3u8
 #EXTINF:-1, Landshut-EisbärenBerlin
 https://content.aisportswatch.com/285069/master.m3u8
+#EXTINF:-1, KooKoo-TapparaTampere
+https://cdn.livearenasports.com/blobs2/660b910c5fedc846fa2281ff/index.m3u8
 #EXTINF:-1, Välk494-NarvaPSK
 https://cdn.livearenasports.com/blobs1/660bc3385fedc846fa228234/index.m3u8
 #EXTINF:-1, PEPOHC-LaserHT
