@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Välk494-NarvaPSK
-https://cdn.livearenasports.com/blobs1/660bc3385fedc846fa228234/index.m3u8
+#EXTINF:-1, Fribourg-Gottéron-LHC
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, VlciŽilina-Dubnica
+https://nn.geo.joj.sk/huste/6ff73867-0820-4522-af8c-3762b7d82308/6ff73867-0820-4522-af8c-3762b7d82308/playlist.m3u8
+#EXTINF:-1, Latvia-Poland
+https://cdn.livearenasports.com/blobs2/660d5dd45fedc846fa2283e7/index.m3u8
+#EXTINF:-1, Pergine-HCMVVarese
+https://cdn.livearenasports.com/blobs2/660ea55f8ab51246da135a6d/index.m3u8
+#EXTINF:-1, Landshut-EisbärenBerlin
+https://content.aisportswatch.com/285069/master.m3u8
+#EXTINF:-1, VG-62Naantali-S-Kiekko
+https://cdn.livearenasports.com/blobs0/66079c8d2c42494e2a3cb20a/index.m3u8
+#EXTINF:-1, Guildford-GlasgowClan
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream95/playlist.m3u8
