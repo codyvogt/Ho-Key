@@ -1,28 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Springfield-Belleville
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream335/playlist.m3u8
-#EXTINF:-1, Rockford-GrandRapids
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream327/playlist.m3u8
-#EXTINF:-1, Providence-LehighValley
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream45/playlist.m3u8
-#EXTINF:-1, Cleveland-W-B/Scranton
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream334/playlist.m3u8
 #EXTINF:-1, HersheyBears-IowaWild
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream333/playlist.m3u8
-#EXTINF:-1, Blainville-B.-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/6d98de1675f34756a86395ad0ea1ed24.m3u8
-#EXTINF:-1, CapeBreton-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/8aff0461a5424caebf88920b8b86ed37.m3u8
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/5411719db0004e948dafddf88027d0cb.m3u8
-#EXTINF:-1, Kingston-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/ff6e99fbab8e4acf93a0cb40ea503957.m3u8
-#EXTINF:-1, Sudbury-Mississauga
-https://media-service.fanreachdata.io/edge/ohl/69ed3620394243a1a0a393e454760200.m3u8
-#EXTINF:-1, Erie-KitchenerRangers
-https://media-service.fanreachdata.io/edge/ohl/629eb866669a476f992f9c5bc55f1326.m3u8
-#EXTINF:-1, Barrie-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/3a410fb7b41c4b0ebd443510b472ce6e.m3u8
+#EXTINF:-1, Calgary-Bakersfield
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream49/playlist.m3u8
 #EXTINF:-1, RedDeer-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/7de49bf16e2c411aab4dc1e2dd3bdf11.m3u8
 #EXTINF:-1, PrinceAlbert-Saskatoon
