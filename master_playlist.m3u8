@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, IFKMariehamn-Tyresö
-https://cdn.livearenasports.com/blobs0/6609128ff1e1cd140067babc/index.m3u8
+https://cdn.livearenasports.com/blobs2/6609128ff1e1cd140067babc/index.m3u8
+#EXTINF:-1, Traktor-Lokomotiv
+https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
+#EXTINF:-1, IFBjörklöven-Västerås
+https://cdn.livearenasports.com/blobs0/66090b4e2c42494e2a3cb3e6/index.m3u8
