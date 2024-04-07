@@ -5,15 +5,17 @@ https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
 #EXTINF:-1, München-Bremerhaven
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
-#EXTINF:-1, RoKi-SaPKo
-https://cdn.livearenasports.com/blobs2/6608ee0d2c42494e2a3cb2ec/index.m3u8
-#EXTINF:-1, TUTO-ImatranKetterä
-https://cdn.livearenasports.com/blobs0/6608ee0d2c42494e2a3cb2f7/index.m3u8
-#EXTINF:-1, TPS-PorinÄssät
-https://cdn.livearenasports.com/blobs0/660e340c2f36b83a5c7989b1/index.m3u8
 #EXTINF:-1, Landshut-EisbärenBerlin
 https://content.aisportswatch.com/285060/master.m3u8
 #EXTINF:-1, EHCNürnberg-Chemnitz
 https://content.aisportswatch.com/285027/master.m3u8
 #EXTINF:-1, Välk494-NarvaPSK
 https://cdn.livearenasports.com/blobs0/660bc3b62f36b83a5c79879b/index.m3u8
+#EXTINF:-1, TPS-PorinÄssät
+https://cdn.livearenasports.com/blobs1/660e340c2f36b83a5c7989b1/index.m3u8
+#EXTINF:-1, TUTO-ImatranKetterä
+https://cdn.livearenasports.com/blobs0/6608ee0d2c42494e2a3cb2f7/index.m3u8
+#EXTINF:-1, PEPOHC-S-Kiekko
+https://cdn.livearenasports.com/blobs0/6608ee0d2c42494e2a3cb2ef/index.m3u8
+#EXTINF:-1, VG-62Naantali-LaserHT
+https://cdn.livearenasports.com/blobs0/6608ee0d2c42494e2a3cb2f5/index.m3u8
