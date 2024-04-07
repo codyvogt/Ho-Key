@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1, Avtomobilist-Metallurg
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
+#EXTINF:-1, Straubing-EisbärenBerlin
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
+#EXTINF:-1, München-Bremerhaven
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport03/msport03_m/index.m3u8
 #EXTINF:-1, Latvia-Poland
 https://cdn.livearenasports.com/blobs2/660d5dd45fedc846fa2283e8/index.m3u8
