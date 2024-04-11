@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, IFMalmö-IFBjörklöven
-https://cdn.livearenasports.com/blobs0/660facc9057c120c2204ff58/index.m3u8
+#EXTINF:-1, Denmark-Norway
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream272/playlist.m3u8
+#EXTINF:-1, ChineseTaipei-Spain
+https://ztnr.rtve.es/ztnr/6712402.m3u8
+#EXTINF:-1, Pergine-HCMVVarese
+https://cdn.livearenasports.com/blobs0/6616492808d41d0003d98651/index.m3u8
