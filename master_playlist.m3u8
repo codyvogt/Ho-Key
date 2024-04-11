@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Slovakia-Switzerland
-https://live.cdn.joj.sk/live/plus.m3u8
-#EXTINF:-1, CzechRepublic-Germany
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport17/msport17_m/index.m3u8
-#EXTINF:-1, Denmark-Hungary
-https://d35u71x3nb8v2y.cloudfront.net/c297c4a6-9476-4556-8266-466335f5690e/a21f840c-4594-4aa1-83ef-257d7cb9cef1/playlist.m3u8
-#EXTINF:-1, France-Slovenia
-https://cdn.livearenasports.com/blobs2/660e67372f36b83a5c798af6/index.m3u8
 #EXTINF:-1, IFMalmö-IFBjörklöven
 https://cdn.livearenasports.com/blobs0/660facc9057c120c2204ff58/index.m3u8
