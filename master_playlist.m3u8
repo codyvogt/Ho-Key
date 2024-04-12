@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Germany-Austria
-https://d35u71x3nb8v2y.cloudfront.net/e5d60615-3fbe-417c-a48e-859a0949dbee/646c4c95-d068-4a57-9aba-0acc47f90d79/playlist.m3u8
 #EXTINF:-1, Switzerland-Slovakia
 https://live.cdn.joj.sk/live/plus.m3u8
-#EXTINF:-1, PorinÄssät-TPS
-https://cdn.livearenasports.com/blobs0/660f858c8ab51246da135aae/index.m3u8
-#EXTINF:-1, TUTO-Kiekko-Vantaa
-https://cdn.livearenasports.com/blobs0/660f858c8ab51246da135aa4/index.m3u8
+#EXTINF:-1, Germany-Austria
+https://d35u71x3nb8v2y.cloudfront.net/e5d60615-3fbe-417c-a48e-859a0949dbee/646c4c95-d068-4a57-9aba-0acc47f90d79/playlist.m3u8
 #EXTINF:-1, HSKurbads-HSFalcons
 https://cdn.livearenasports.com/blobs0/66042660f1e1cd140067b61f/index.m3u8
+#EXTINF:-1, TUTO-Kiekko-Vantaa
+https://cdn.livearenasports.com/blobs0/660f858c8ab51246da135aa4/index.m3u8
