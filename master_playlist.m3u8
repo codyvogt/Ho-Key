@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, SkellefteåAIK-ÖrebroHK
-https://cdn.livearenasports.com/blobs1/6610f8d78ab51246da135c7c/index.m3u8
+#EXTINF:-1, Chicoutimi-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/9b0e88a229184812abfad258ea9e3da9.m3u8
+#EXTINF:-1, ABTitan-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/65a1d87c37854187878edfe777e907f1.m3u8
+#EXTINF:-1, Victoriaville-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/34a44aa4371b4cfc87d29f570c6b507e.m3u8
+#EXTINF:-1, Sherbrooke-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/4fbdb4aa2ee04faa94b22779fb1adade.m3u8
