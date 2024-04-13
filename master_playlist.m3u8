@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1, Kazakhstan-Spain
 https://ztnr.rtve.es/ztnr/6712431.m3u8
+#EXTINF:-1, Iowa-ManitobaMoose
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream107/playlist.m3u8
+#EXTINF:-1, ABTitan-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/5daac77f87e546aa94b44fe4d9f768ad.m3u8
+#EXTINF:-1, Victoriaville-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/a7da3b1c54fe42f3a4057d1cd12b1d3e.m3u8
+#EXTINF:-1, Chicoutimi-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/4ff282463671456094b3f6b2f1b1136e.m3u8
+#EXTINF:-1, Sherbrooke-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/f1d72a7b78b145f4809930a3918f738a.m3u8
+#EXTINF:-1, Kitchener-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/661cb8a47b58474ab1b339675d214b1b.m3u8
+#EXTINF:-1, Sudbury-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/3e3260fdc07043189a3c21fb5be948fc.m3u8
+#EXTINF:-1, SaultSte.Marie-Saginaw
+https://media-service.fanreachdata.io/edge/ohl/8f4e75284d1a49cf9476999c7b435a9c.m3u8
