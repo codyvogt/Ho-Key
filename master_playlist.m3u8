@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Bakersfield-CoachellaV.
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream13/playlist.m3u8
-#EXTINF:-1, SanDiego-OntarioReign
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream11/playlist.m3u8
-#EXTINF:-1, TexasStars-SanJose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream12/playlist.m3u8
-#EXTINF:-1, RedDeer-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/829594e125944f54b5151268c1440cfe.m3u8
-#EXTINF:-1, SwiftCurrent-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/8760de37f3b9436e89ff3fb890cba340.m3u8
+#EXTINF:-1, SydneyBears-Adelaide
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream267/playlist.m3u8
+#EXTINF:-1, CanberraBrave-Perth
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream29/playlist.m3u8
+#EXTINF:-1, Oskarshamn-Björklöven
+https://cdn.livearenasports.com/blobs0/661250b08ab51246da135d76/index.m3u8
+#EXTINF:-1, HanvikensSK-Västerås
+https://cdn.livearenasports.com/blobs0/66124d0f8ab51246da135d6a/index.m3u8
+#EXTINF:-1, RoKi-ImatranKetterä
+https://cdn.livearenasports.com/blobs0/6610d70c8ab51246da135c17/index.m3u8
+#EXTINF:-1, TurunToverit-SaPKo
+https://cdn.livearenasports.com/blobs0/6610d70c8ab51246da135c19/index.m3u8
