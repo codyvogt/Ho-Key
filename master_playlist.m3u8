@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Iowa-ManitobaMoose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream107/playlist.m3u8
-#EXTINF:-1, Belleville-Rochester
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream27/playlist.m3u8
 #EXTINF:-1, ABTitan-Baie-Comeau
 https://media-service.fanreachdata.io/edge/lhjmq/5daac77f87e546aa94b44fe4d9f768ad.m3u8
 #EXTINF:-1, Victoriaville-RNHuskies
@@ -17,3 +13,15 @@ https://media-service.fanreachdata.io/edge/ohl/661cb8a47b58474ab1b339675d214b1b.
 https://media-service.fanreachdata.io/edge/ohl/3e3260fdc07043189a3c21fb5be948fc.m3u8
 #EXTINF:-1, SaultSte.Marie-Saginaw
 https://media-service.fanreachdata.io/edge/ohl/8f4e75284d1a49cf9476999c7b435a9c.m3u8
+#EXTINF:-1, Belleville-Rochester
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream27/playlist.m3u8
+#EXTINF:-1, TexasStars-SanJose
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream332/playlist.m3u8
+#EXTINF:-1, Hershey-W-B/Scranton
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream334/playlist.m3u8
+#EXTINF:-1, Kelowna-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/47873a445a3e4ed981128726de4476ff.m3u8
+#EXTINF:-1, EverettSilvertips-Portland
+https://media-service.fanreachdata.io/edge/whl/89f778b99c31456e9f71821906154e6e.m3u8
+#EXTINF:-1, SwiftCurrent-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/6aa4902997d94ff1b1d55b6eac9bf33e.m3u8
