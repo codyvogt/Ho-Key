@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Chicoutimi-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/9b0e88a229184812abfad258ea9e3da9.m3u8
-#EXTINF:-1, ABTitan-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/65a1d87c37854187878edfe777e907f1.m3u8
-#EXTINF:-1, Victoriaville-RNHuskies
-https://media-service.fanreachdata.io/edge/lhjmq/34a44aa4371b4cfc87d29f570c6b507e.m3u8
-#EXTINF:-1, Sherbrooke-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/4fbdb4aa2ee04faa94b22779fb1adade.m3u8
 #EXTINF:-1, Rockford-GrandRapids
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream16/playlist.m3u8
 #EXTINF:-1, Springfield-Hartford
@@ -23,6 +15,12 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream13/playlist.m3u8
 #EXTINF:-1, Chicago-Milwaukee
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/n18/stream19/playlist.m3u8
+#EXTINF:-1, ABTitan-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/65a1d87c37854187878edfe777e907f1.m3u8
+#EXTINF:-1, Victoriaville-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/34a44aa4371b4cfc87d29f570c6b507e.m3u8
+#EXTINF:-1, Sherbrooke-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/4fbdb4aa2ee04faa94b22779fb1adade.m3u8
 #EXTINF:-1, Ottawa-OshawaGenarals
 https://media-service.fanreachdata.io/edge/ohl/cf0c0d1d06944d14a0bb819f3946a988.m3u8
 #EXTINF:-1, RedDeer-Saskatoon
