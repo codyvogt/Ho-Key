@@ -2,6 +2,10 @@
 #EXTINF:-1, TurunToverit-SaPKo
 https://cdn.livearenasports.com/blobs2/6610d70c8ab51246da135c19/index.m3u8
 #EXTINF:-1, NarvaPSK-Välk494
-https://cdn.livearenasports.com/blobs0/660bc3f85fedc846fa228238/index.m3u8
+https://cdn.livearenasports.com/blobs2/660bc3f85fedc846fa228238/index.m3u8
+#EXTINF:-1, CzechRepublic-Germany
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport17/msport17_m/index.m3u8
 #EXTINF:-1, HanvikensSK-Västerås
-https://cdn.livearenasports.com/blobs0/66124d0f8ab51246da135d6a/index.m3u8
+https://cdn.livearenasports.com/blobs1/66124d0f8ab51246da135d6a/index.m3u8
+#EXTINF:-1, Switzerland-Germany
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
