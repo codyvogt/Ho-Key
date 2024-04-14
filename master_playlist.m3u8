@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Kelowna-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/47873a445a3e4ed981128726de4476ff.m3u8
-#EXTINF:-1, EverettSilvertips-Portland
-https://media-service.fanreachdata.io/edge/whl/89f778b99c31456e9f71821906154e6e.m3u8
-#EXTINF:-1, SwiftCurrent-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/6aa4902997d94ff1b1d55b6eac9bf33e.m3u8
-#EXTINF:-1, OntarioReign-Henderson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream316/playlist.m3u8
-#EXTINF:-1, ColoradoEagles-Tucson
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream315/playlist.m3u8
+#EXTINF:-1, CanberraBrave-Perth
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream412/playlist.m3u8
 #EXTINF:-1, BaltuVilki-HSKurbads
-https://cdn.livearenasports.com/blobs0/6614f58108d41d0003d98518/index.m3u8
+https://cdn.livearenasports.com/blobs2/6614f58108d41d0003d98518/index.m3u8
