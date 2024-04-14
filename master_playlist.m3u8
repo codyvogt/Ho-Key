@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, TexasStars-SanJose
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream332/playlist.m3u8
 #EXTINF:-1, Laval-ClevelandMonsters
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream323/playlist.m3u8
 #EXTINF:-1, Toronto-SyracuseCrunch
@@ -13,10 +11,6 @@ fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=
 fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream08/playlist.m3u8
 #EXTINF:-1, Milwaukee-Rockford
 https://hockeytech.akamaized.net/hls/live/2027332/game-1036133-Home-1516eb99-b855-4024-82dd-0869464fe9eb/main.m3u8
-#EXTINF:-1, Chicoutimi-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/4ff282463671456094b3f6b2f1b1136e.m3u8
-#EXTINF:-1, Sherbrooke-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/f1d72a7b78b145f4809930a3918f738a.m3u8
 #EXTINF:-1, Sudbury-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/3e3260fdc07043189a3c21fb5be948fc.m3u8
 #EXTINF:-1, SaultSte.Marie-Saginaw
