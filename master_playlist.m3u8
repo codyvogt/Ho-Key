@@ -1,22 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Laval-ClevelandMonsters
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream323/playlist.m3u8
-#EXTINF:-1, Toronto-SyracuseCrunch
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream325/playlist.m3u8
-#EXTINF:-1, Bridgeport-LehighValley
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream28/playlist.m3u8
-#EXTINF:-1, Utica-ProvidenceBruins
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream07/playlist.m3u8
-#EXTINF:-1, Charlotte-Springfield
-fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream08/playlist.m3u8
+#EXTINF:-1, GrandRapids-Chicago
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream318/playlist.m3u8
 #EXTINF:-1, Milwaukee-Rockford
 https://hockeytech.akamaized.net/hls/live/2027332/game-1036133-Home-1516eb99-b855-4024-82dd-0869464fe9eb/main.m3u8
-#EXTINF:-1, Sudbury-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/3e3260fdc07043189a3c21fb5be948fc.m3u8
-#EXTINF:-1, SaultSte.Marie-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/8f4e75284d1a49cf9476999c7b435a9c.m3u8
-#EXTINF:-1, Youngstown-USNTDPU17
-https://d1odn2bqh4giv5.cloudfront.net/b4c8bb9e05d6fe024d299f64e357819a/0_hd_hls.m3u8
+#EXTINF:-1, OntarioReign-Henderson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream316/playlist.m3u8
+#EXTINF:-1, ColoradoEagles-Tucson
+fr_stream400.php?channel=//video-translations.top-parser.com/maxline/iframe?ref=//w1.soft4game.com/o18/stream315/playlist.m3u8
 #EXTINF:-1, Kelowna-PrinceGeorge
 https://media-service.fanreachdata.io/edge/whl/47873a445a3e4ed981128726de4476ff.m3u8
 #EXTINF:-1, EverettSilvertips-Portland
