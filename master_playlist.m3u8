@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Switzerland-Czechia
-https://nn.geo.joj.sk/huste/a943b9a0-c255-4b5d-950d-7b99414117d8/a943b9a0-c255-4b5d-950d-7b99414117d8/playlist.m3u8
 #EXTINF:-1, Switzerland-Slovakia
 https://cdn.livearenasports.com/blobs1/6618e74d9b18392faa7c05fe/index.m3u8
+#EXTINF:-1, CzechRepublic-Sweden
+https://cdn.livearenasports.com/blobs0/6618e74d9b18392faa7c0601/index.m3u8
+#EXTINF:-1, Metallurg-Lokomotiv
+https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
+#EXTINF:-1, Finland-Slovakia
+https://cdn.livearenasports.com/blobs0/66028ecc6b517844906d1ccb/index.m3u8
+#EXTINF:-1, FinlandU18-SwissU18
+https://cdn.livearenasports.com/blobs0/66176e8c08d41d0003d98760/index.m3u8
+#EXTINF:-1, Germany-Slovakia
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
