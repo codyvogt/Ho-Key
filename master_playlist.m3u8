@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Finland-Slovakia
-https://cdn.livearenasports.com/blobs0/66028ecc6b517844906d1ccb/index.m3u8
-#EXTINF:-1, FinlandU18-SwissU18
-https://cdn.livearenasports.com/blobs1/66176e8c08d41d0003d98760/index.m3u8
-#EXTINF:-1, Germany-Slovakia
-https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
 #EXTINF:-1, Mongolia-Kuwait
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1, Germany-Slovakia
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
 #EXTINF:-1, HCPreöov-Vlciéilina
 https://nn.geo.joj.sk/huste/06b75e5f-462a-413c-ae79-5b1b67a63c61/06b75e5f-462a-413c-ae79-5b1b67a63c61/playlist.m3u8
