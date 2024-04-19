@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Malaysia-Mongolia
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1, Finland-CzechRepublic
 https://nn.geo.joj.sk/huste/adb56245-2f8b-4faa-a912-4c41995766e1/adb56245-2f8b-4faa-a912-4c41995766e1/playlist.m3u8
 #EXTINF:-1, Sweden-Switzerland
@@ -9,7 +7,17 @@ https://cdn.livearenasports.com/blobs0/660e5268c921e51896bbe05a/index.m3u8
 https://cdn.livearenasports.com/blobs0/65f2d9e6ff71f720b7ec25a9/index.m3u8
 #EXTINF:-1, CzechRepublic-Slovakia
 https://cdn.livearenasports.com/blobs0/65f2d9e6ff71f720b7ec25aa/index.m3u8
-#EXTINF:-1, Estonia-NEXTHockey
-https://cdn.livearenasports.com/blobs0/661cca2e9b18392faa7c08cd/index.m3u8
+#EXTINF:-1, Slovenia-Lithuania
+https://cdn.livearenasports.com/blobs1/6616926608d41d0003d98728/index.m3u8
+#EXTINF:-1, SouthKorea-Estonia
+https://cdn.livearenasports.com/blobs0/661692749b18392faa7c0385/index.m3u8
+#EXTINF:-1, Finland-CzechRepublic
+https://cdn.livearenasports.com/blobs0/661b74829b18392faa7c0767/index.m3u8
+#EXTINF:-1, Sweden-Switzerland
+https://cdn.livearenasports.com/blobs0/661b74829b18392faa7c0764/index.m3u8
+#EXTINF:-1, Switzerland-Czechia
+https://cdn.livearenasports.com/blobs1/661a38ca08d41d0003d98a46/index.m3u8
+#EXTINF:-1, Finland-Slovakia
+https://cdn.livearenasports.com/blobs0/661a38ca08d41d0003d98a47/index.m3u8
 #EXTINF:-1, GreatBritain-Pelicans
-https://cdn.livearenasports.com/blobs0/661cca2e08d41d0003d98c1a/index.m3u8
+https://cdn.livearenasports.com/blobs2/661cca2e08d41d0003d98c1a/index.m3u8
