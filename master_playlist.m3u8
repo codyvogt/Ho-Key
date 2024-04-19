@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1, Sweden-Switzerland
-https://cdn.livearenasports.com/blobs1/660e5268c921e51896bbe05a/index.m3u8
-#EXTINF:-1, Kuwait-Indonesia
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1, FoPSU20-China
 https://cdn.livearenasports.com/blobs0/6618c00c9b18392faa7c05b8/index.m3u8
 #EXTINF:-1, HCPreöov-Vlciéilina
 https://nn.geo.joj.sk/huste/6b973731-0115-4870-b763-d606b7655b40/6b973731-0115-4870-b763-d606b7655b40/playlist.m3u8
 #EXTINF:-1, CzechRepublic-Slovakia
 https://cdn.livearenasports.com/blobs1/65f2d9e6ff71f720b7ec25aa/index.m3u8
+#EXTINF:-1, SouthKorea-Estonia
+https://cdn.livearenasports.com/blobs2/661692749b18392faa7c0385/index.m3u8
+#EXTINF:-1, Finland-Slovakia
+https://cdn.livearenasports.com/blobs2/661a38ca08d41d0003d98a47/index.m3u8
+#EXTINF:-1, Sweden-Switzerland
+https://cdn.livearenasports.com/blobs0/661b74829b18392faa7c0764/index.m3u8
+#EXTINF:-1, LahdenPelicans-Estonia
+https://cdn.livearenasports.com/blobs1/661cca2f08d41d0003d98c20/index.m3u8
+#EXTINF:-1, Eisb‰ren-Bremerhaven
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport02/msport02_m/index.m3u8
