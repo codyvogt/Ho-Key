@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1, RNHuskies-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/d893617120e847709951fa80adaee120.m3u8
-#EXTINF:-1, SaultSte.Marie-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/9d001c5f2fbc47c6a06307637584159d.m3u8
 #EXTINF:-1, SwiftCurrent-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/9bca62b5abf8429a87d55e6e15e0568d.m3u8
 #EXTINF:-1, Kelowna-PrinceGeorge
 https://media-service.fanreachdata.io/edge/whl/e182136c640e4845a2b1f1ab100acb76.m3u8
 #EXTINF:-1, Portland-EverettSilvertips
 https://media-service.fanreachdata.io/edge/whl/280a14bb25d54221bec6b71a1eed0b60.m3u8
+#EXTINF:-1, Poland-Emppu'sTalents
+https://cdn.livearenasports.com/blobs0/661cca3108d41d0003d98c2a/index.m3u8
+#EXTINF:-1, France-Slovenia
+https://cdn.livearenasports.com/blobs0/6616928408d41d0003d9872a/index.m3u8
