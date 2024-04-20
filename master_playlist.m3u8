@@ -1,19 +1,27 @@
 #EXTM3U
-#EXTINF:-1, CzechRepublic-Sweden
-https://nn.geo.joj.sk/huste/7bd770a8-a5a0-409c-b2bb-593d8fa00c96/7bd770a8-a5a0-409c-b2bb-593d8fa00c96/playlist.m3u8
-#EXTINF:-1, Metallurg-Lokomotiv
-https://bkm.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:-1, Finland-Canada
-https://cdn.livearenasports.com/blobs2/6613e88f8ab51246da135eb4/index.m3u8
-#EXTINF:-1, Kazakhstan-Norway
-https://cdn.livearenasports.com/blobs0/661a15109b18392faa7c06f6/index.m3u8
-#EXTINF:-1, Sweden-UnitedStates
-https://cdn.livearenasports.com/blobs0/661a118c9b18392faa7c06ad/index.m3u8
-#EXTINF:-1, Czechia-Switzerland
-https://cdn.livearenasports.com/blobs1/661b74829b18392faa7c0765/index.m3u8
-#EXTINF:-1, Sweden-Finland
-https://cdn.livearenasports.com/blobs0/661b74829b18392faa7c0766/index.m3u8
 #EXTINF:-1, Finland-Switzerland
 https://cdn.livearenasports.com/blobs1/661b8a4a9b18392faa7c078f/index.m3u8
 #EXTINF:-1, Sweden-Slovakia
 https://cdn.livearenasports.com/blobs0/661b8a4a9b18392faa7c078e/index.m3u8
+#EXTINF:-1, Slovakia-Finland
+https://cdn.livearenasports.com/blobs2/65f2d9e6ff71f720b7ec25ac/index.m3u8
+#EXTINF:-1, CzechRepublic-Sweden
+https://cdn.livearenasports.com/blobs0/65f2d9e6ff71f720b7ec25a6/index.m3u8
+#EXTINF:-1, Estonia-Lithuania
+https://cdn.livearenasports.com/blobs1/661692949b18392faa7c0387/index.m3u8
+#EXTINF:-1, Italy-SouthKorea
+https://cdn.livearenasports.com/blobs0/661692ab08d41d0003d9872c/index.m3u8
+#EXTINF:-1, Poland-HKKurbads
+https://cdn.livearenasports.com/blobs2/661cca3208d41d0003d98c32/index.m3u8
+#EXTINF:-1, GeležinisVilkas-Poland
+https://cdn.livearenasports.com/blobs0/661cca339b18392faa7c08e7/index.m3u8
+#EXTINF:-1, Kazakhstan-Norway
+https://cdn.livearenasports.com/blobs0/661a15109b18392faa7c06f6/index.m3u8
+#EXTINF:-1, Sweden-UnitedStates
+https://cdn.livearenasports.com/blobs0/661a118c9b18392faa7c06ad/index.m3u8
+#EXTINF:-1, Germany-Slovakia
+https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, Italy-SouthKorea
+https://cdn.livearenasports.com/blobs0/66222b85b3bd5839f5f3d7e5/index.m3u8
+#EXTINF:-1, Sweden-Finland
+https://cdn.livearenasports.com/blobs0/661b74829b18392faa7c0766/index.m3u8
