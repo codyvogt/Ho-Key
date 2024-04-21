@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Switzerland-Finland
-https://nn.geo.joj.sk/huste/46c135c8-07d0-4944-b440-aa181ddc65ad/46c135c8-07d0-4944-b440-aa181ddc65ad/playlist.m3u8
+#EXTINF:-1, Slovakia-CzechRepublic
+https://cdn.livearenasports.com/blobs1/661cdbc908d41d0003d98c72/index.m3u8
+#EXTINF:-1, Sweden-Slovakia
+https://cdn.livearenasports.com/blobs1/65f2d9e6ff71f720b7ec25a8/index.m3u8
+#EXTINF:-1, SwissU18-SlovakiaU18
+https://cdn.livearenasports.com/blobs0/66211608b3bd5839f5f3d760/index.m3u8
+#EXTINF:-1, GreatBritain-JelgavasLSS
+https://cdn.livearenasports.com/blobs0/661cca359b18392faa7c08ef/index.m3u8
