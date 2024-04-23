@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, CanadaU18-NorwayU18
-https://cdn.livearenasports.com/blobs2/661e060c08d41d0003d98d8e/index.m3u8
 #EXTINF:-1, Italy-Hungary
 https://cdn.livearenasports.com/blobs0/66267e1f7c9b23318a5ef378/index.m3u8
 #EXTINF:-1, Eisbären-Bremerhaven
 https://svc43.main.sl.t-online.de/poc/bpk-tv/msport01/msport01_m/index.m3u8
+#EXTINF:-1, Belgium-Bulgaria
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6620e5e6b3bd5839f5f3d703/index.m3u8
 #EXTINF:-1, LausanneHC-ZSCLions
 https://vstream-cdn.ch/hls/teleticino.m3u8
