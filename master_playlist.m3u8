@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, ZSCLions-LausanneHC
-https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, Baie-Comeau-CBEagles
+https://media-service.fanreachdata.io/edge/lhjmq/b0efd99a087c4610a8ccb1e39b21db27.m3u8
+#EXTINF:-1, Drummond.-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/4f21e3f6ea174fdab522239ee827ab9a.m3u8
+#EXTINF:-1, Saskatoon-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/a075819d88734e128bb6ba1ac00d7fd5.m3u8
