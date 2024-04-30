@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Baie-Comeau-CBEagles
-https://media-service.fanreachdata.io/edge/lhjmq/957d9c510342474296e83eec3905b947.m3u8
 #EXTINF:-1, Oshawa-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/215d516aba3f4776942c10de5c468205.m3u8
 #EXTINF:-1, London-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/15ef26889d754a84ab50e255f1b75294.m3u8
+#EXTINF:-1, PrinceGeorge-Portland
+https://media-service.fanreachdata.io/edge/whl/aa5a41c8c8b548169f268cb25993f0f9.m3u8
