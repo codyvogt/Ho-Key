@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, NorthBay-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/47e5bed5ccb84edba993a78a8ddec9bd.m3u8
+#EXTINF:-1, Portland-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/cf5bca42763c45c79454705103551755.m3u8
