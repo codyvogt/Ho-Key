@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, TimråIK-MoraIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f50e2df00aa04a47836a0d/index.m3u8
-#EXTINF:-1, ValpelliceBulldogs-Aosta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f53825f00aa04a47836a69/index.m3u8
-#EXTINF:-1, Merano/Bolzano-AlpsAc.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f5382589f7b22b217b6cc2/index.m3u8
-#EXTINF:-1, ÅngeIK-IFSundsvall
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f507d7f00aa04a478369f3/index.m3u8
-#EXTINF:-1, HCStrömstad-Uddevalla
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f508bb89f7b22b217b6c59/index.m3u8
-#EXTINF:-1, Skärgården-Falkenberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f507a9f00aa04a478369d9/index.m3u8
-#EXTINF:-1, LerumsBK-HovåsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f4fb1df00aa04a478369b1/index.m3u8
-#EXTINF:-1, BurträskHC-SKLejon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f4f86489f7b22b217b6bff/index.m3u8
-#EXTINF:-1, DrakkarsdeCaen-Amiens
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66cff5cc44b82834710c7fb3/index.m3u8
-#EXTINF:-1, Burgau-Ulm/Neu-Ulm
-fluidtv.php?channel=https://content.aisportswatch.com/316494/master.m3u8
 #EXTINF:-1, GrIFKJoukkue-Storm
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f3990ff00aa04a478366c4/index.m3u8
 #EXTINF:-1, HockeyComo-SVKaltern
