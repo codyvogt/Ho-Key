@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Saskatoon-Calgary
-https://media-service.fanreachdata.io/edge/whl/045d6424102b4090b054d3a228d59485.m3u8
-#EXTINF:-1, PrinceGeorge-Kelowna
-https://media-service.fanreachdata.io/edge/whl/b4d4d45666fb4eedbfefd5c2b0e3182b.m3u8
+#EXTINF:-1, SaintJohn-ABTitan
+https://media-service.fanreachdata.io/edge/lhjmq/2262608063674681a8421c0554e8ac2e.m3u8
+#EXTINF:-1, Québec-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/d66438754ad945f48bb59b8ebdcb9de9.m3u8
+#EXTINF:-1, Brampton-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/6ef5c552cb0e4897909cd8ba9ce495d5.m3u8
+#EXTINF:-1, NorthBay-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/235740ee9e8d4f8f8799d1324aa0717c.m3u8
+#EXTINF:-1, SaultSte.Marie-Windsor
+https://media-service.fanreachdata.io/edge/ohl/799b3981162c4b13bb617304ab7777ae.m3u8
