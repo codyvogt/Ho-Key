@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1, HijsHokij-Neuwied
-https://cdn.livearenasports.com/blobs1/66ee99269e468a0f77baefb2/index.m3u8
-#EXTINF:-1, Heerenveen-HYC
-https://cdn.livearenasports.com/blobs1/66ee99269e468a0f77baefb4/index.m3u8
 #EXTINF:-1, Mechelen-Diez-Limburg
 https://cdn.livearenasports.com/blobs2/66ee9927a1fe2c39f40b2256/index.m3u8
-#EXTINF:-1, Anglet-Cergy-Pontoise
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66dbd34e3453a55a1f55faa0.m3u8
-#EXTINF:-1, GrIFKJoukkue-K-Vantaa
-https://cdn.livearenasports.com/blobs1/66f63c0f3bd78e5d711b4628/index.m3u8
 #EXTINF:-1, PennState-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Vermont-Clarkson
@@ -45,3 +37,37 @@ https://media-service.fanreachdata.io/edge/lhjmq/0cf114ac5cc54bdfa5d44bc4e01e864
 https://media-service.fanreachdata.io/edge/lhjmq/8166d63777f24f45aa6106b517cff6a0.m3u8
 #EXTINF:-1, Colgate-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, OwenSound-Brantford
+https://media-service.fanreachdata.io/edge/ohl/97c2788e26fa4c66ad63fa276225836d.m3u8
+#EXTINF:-1, NorthBay-Kingston
+https://media-service.fanreachdata.io/edge/ohl/9d687f3fa5194abdb3ff49df500094d0.m3u8
+#EXTINF:-1, Flint-KitchenerRangers
+https://media-service.fanreachdata.io/edge/ohl/37e1f08d70fe4650999c13828dc0c969.m3u8
+#EXTINF:-1, Erie-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/7e0aeb4c412647cabdb63684db7bc8ee.m3u8
+#EXTINF:-1, Niagara-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/989a689b5baf43c58c9e5051f2bef6d3.m3u8
+#EXTINF:-1, Peterborough-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/574debb88d944f29a7a7f53240cbf347.m3u8
+#EXTINF:-1, Saginaw-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/3e22ef064d6a427d95e04acf9ef8476d.m3u8
+#EXTINF:-1, SaultSte.Marie-Guelph
+https://media-service.fanreachdata.io/edge/ohl/ffd127f506a742d4a6252d19734fdd11.m3u8
+#EXTINF:-1, Edmonton-Brandon
+https://media-service.fanreachdata.io/edge/whl/c37b341ae2534d4fbc82194dccb24e38.m3u8
+#EXTINF:-1, MooseJaw-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/5082703f308c400b8d84a8508768f89e.m3u8
+#EXTINF:-1, Everett-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/ae93781ef4bc44e69fc170f027ef7ee4.m3u8
+#EXTINF:-1, MedicineHat-RedDeer
+https://media-service.fanreachdata.io/edge/whl/c29b1c4d1c8d4541905fe4d7fcf166d3.m3u8
+#EXTINF:-1, Saskatoon-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/0a117fcd39ce4f3fa781c6ed35c6122d.m3u8
+#EXTINF:-1, VictoriaRoyals-Portland
+https://media-service.fanreachdata.io/edge/whl/137640243bc84e77a7aa1f3f181b54a5.m3u8
+#EXTINF:-1, Kamloops-Vancouver
+https://media-service.fanreachdata.io/edge/whl/0984249e646345349f3d07df1b4b6e7c.m3u8
+#EXTINF:-1, PrinceGeorge-Seattle
+https://media-service.fanreachdata.io/edge/whl/8dba4b832a464237b71857e86f07a3ad.m3u8
+#EXTINF:-1, Kelowna-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/d5937a2397414491bfe0c4828c12f4f0.m3u8
