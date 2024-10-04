@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, HCAjoie-EHCKloten
+https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, Bern-Fribourg-Gottéron
+https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, OulunKärpät-JYP
 https://cdn.livearenasports.com/blobs0/66f63c0f2ad3f109382cb108/index.m3u8
 #EXTINF:-1, VaasanSport-KooKoo
