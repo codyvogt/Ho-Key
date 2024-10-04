@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mechelen-Diez-Limburg
-https://cdn.livearenasports.com/blobs2/66ee9927a1fe2c39f40b2256/index.m3u8
-#EXTINF:-1, Vermont-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, MinnesotaDuluth-Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, St.Anselm-HolyCross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, St.Michael's-Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, OhioState-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, RochesterIT-Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Assumption-UNH
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Moncton-Acadie-Bathurst
 https://media-service.fanreachdata.io/edge/lhjmq/ec6c66855ff748b3965835c16f1bc099.m3u8
 #EXTINF:-1, Rimouski-CapeBreton
@@ -33,6 +15,22 @@ https://media-service.fanreachdata.io/edge/lhjmq/65c07c24e7d3400781cdcdae7c8a5aa
 https://media-service.fanreachdata.io/edge/lhjmq/0cf114ac5cc54bdfa5d44bc4e01e8649.m3u8
 #EXTINF:-1, Chicoutimi-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/8166d63777f24f45aa6106b517cff6a0.m3u8
+#EXTINF:-1, Vermont-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, MinnesotaDuluth-Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, St.Anselm-HolyCross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, St.Michael's-Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, OhioState-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, RochesterIT-Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Assumption-UNH
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Colgate-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, OwenSound-Brantford
