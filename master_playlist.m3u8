@@ -1,44 +1,12 @@
 #EXTM3U
+#EXTINF:-1, ÅngeIK-BrunfloIK
+https://cdn.livearenasports.com/blobs0/66f7aad62ad3f109382cb570/index.m3u8
+#EXTINF:-1, SHKHC-UllforsHK
+https://cdn.livearenasports.com/blobs0/66ffcb0fee56f13ea003f6fb/index.m3u8
 #EXTINF:-1, HCAjoie-EHCKloten
 https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
 #EXTINF:-1, Bern-Fribourg-Gottéron
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, AIK-LuleåHF
-https://cdn.livearenasports.com/blobs2/66f7b2162ad3f109382cb5c8/index.m3u8
-#EXTINF:-1, Frederikshavn-Rungsted
-https://cdn.livearenasports.com/blobs2/668eaa69c84b3975e0ed9358/index.m3u8
-#EXTINF:-1, AalborgPirates-Esbjerg
-https://cdn.livearenasports.com/blobs0/668eaa6bc84b3975e0ed935c/index.m3u8
-#EXTINF:-1, HerlevEagles-Rødovre
-https://cdn.livearenasports.com/blobs1/668eaa6dc84b3975e0ed935e/index.m3u8
-#EXTINF:-1, KB65HK-KovlandsIshF
-https://cdn.livearenasports.com/blobs0/66fe32e89ae3c54b26871e74/index.m3u8
-#EXTINF:-1, ÅngeIK-BrunfloIK
-https://cdn.livearenasports.com/blobs0/66f7aad62ad3f109382cb570/index.m3u8
-#EXTINF:-1, NjurundaSK-SollefteåHK
-https://cdn.livearenasports.com/blobs0/66f7aca33bd78e5d711b4af6/index.m3u8
-#EXTINF:-1, HedesundaIF-Sandviken
-https://cdn.livearenasports.com/blobs0/66f79c4c3bd78e5d711b4ab1/index.m3u8
-#EXTINF:-1, RönnängsIK-LysekilsHK
-https://cdn.livearenasports.com/blobs0/66f79f063bd78e5d711b4acb/index.m3u8
-#EXTINF:-1, StenungsundHF-LN70
-https://cdn.livearenasports.com/blobs0/66f7b2162ad3f109382cb5c7/index.m3u8
-#EXTINF:-1, TörebodaHF-SkaraIK
-https://cdn.livearenasports.com/blobs0/66f79d353bd78e5d711b4ac8/index.m3u8
-#EXTINF:-1, KålleredSK-HärrydaHC
-https://cdn.livearenasports.com/blobs0/66f7ae772ad3f109382cb592/index.m3u8
-#EXTINF:-1, Nora-EskilstunaLinden2
-https://cdn.livearenasports.com/blobs0/66f79c4c2ad3f109382cb52a/index.m3u8
-#EXTINF:-1, Trollhättan-Strömstad
-https://cdn.livearenasports.com/blobs1/66f7abc02ad3f109382cb578/index.m3u8
-#EXTINF:-1, SHKHC-UllforsHK
-https://cdn.livearenasports.com/blobs0/66ffcb0fee56f13ea003f6fb/index.m3u8
-#EXTINF:-1, HuntersTeam-Shakers
-https://cdn.livearenasports.com/blobs2/66f63c0f3bd78e5d711b4623/index.m3u8
-#EXTINF:-1, GrIFKJoukkue-K-Vantaa
-https://cdn.livearenasports.com/blobs1/66f63c0f3bd78e5d711b4628/index.m3u8
-#EXTINF:-1, Rödovre-Troja-Ljungby
-https://cdn.livearenasports.com/blobs0/66fe46287655fb0aed1ed765/index.m3u8
 #EXTINF:-1, AiglesdeNice-Bordeaux
 https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66dbd34e3453a55a1f55fa9e.m3u8
 #EXTINF:-1, RapacesdeGap-Amiens
@@ -61,5 +29,7 @@ https://cdn.livearenasports.com/blobs1/66ee99269e468a0f77baefb2/index.m3u8
 https://cdn.livearenasports.com/blobs1/66ee99269e468a0f77baefb4/index.m3u8
 #EXTINF:-1, Mechelen-Diez-Limburg
 https://cdn.livearenasports.com/blobs2/66ee9927a1fe2c39f40b2256/index.m3u8
+#EXTINF:-1, GrIFKJoukkue-K-Vantaa
+https://cdn.livearenasports.com/blobs1/66f63c0f3bd78e5d711b4628/index.m3u8
 #EXTINF:-1, PennState-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
