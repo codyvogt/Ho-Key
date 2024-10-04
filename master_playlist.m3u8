@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ÅngeIK-BrunfloIK
-https://cdn.livearenasports.com/blobs0/66f7aad62ad3f109382cb570/index.m3u8
-#EXTINF:-1, SHKHC-UllforsHK
-https://cdn.livearenasports.com/blobs0/66ffcb0fee56f13ea003f6fb/index.m3u8
-#EXTINF:-1, HCAjoie-EHCKloten
-https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, Bern-Fribourg-Gottéron
-https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, AiglesdeNice-Bordeaux
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66dbd34e3453a55a1f55fa9e.m3u8
 #EXTINF:-1, RapacesdeGap-Amiens
 https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66dbd34e4b7c131998fd5a03.m3u8
 #EXTINF:-1, Chamonix-Ducsd'Angers
@@ -17,10 +7,6 @@ https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66dbd34
 https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66dbd34e4b7c131998fd5a01.m3u8
 #EXTINF:-1, Anglet-Cergy-Pontoise
 https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66dbd34e3453a55a1f55faa0.m3u8
-#EXTINF:-1, IHCKrálovéPísek-Tábor
-https://cdn.livearenasports.com/blobs1/66f29cdf499fe33013556ea2/index.m3u8
-#EXTINF:-1, Chrudim-PirátiChomutov
-https://cdn.livearenasports.com/blobs0/66f15974a1fe2c39f40b2739/index.m3u8
 #EXTINF:-1, StadionVrchlabí-Frýdlant
 https://cdn.livearenasports.com/blobs0/66d94a15b66dd366d45444b3/index.m3u8
 #EXTINF:-1, HijsHokij-Neuwied
