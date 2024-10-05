@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HCMP-DogsdeCholet
-https://cdn.livearenasports.com/blobs0/66dbd34c3453a55a1f55fa7a/index.m3u8
 #EXTINF:-1, Dunkerque-Strasbourg
 https://cdn.livearenasports.com/blobs1/66dd24cc3453a55a1f55fd25/index.m3u8
 #EXTINF:-1, Brest-Villard-de-Lans
@@ -11,22 +9,12 @@ https://cdn.livearenasports.com/blobs0/66dbd34c3453a55a1f55fa7c/index.m3u8
 https://cdn.livearenasports.com/blobs0/66dd24cc4b7c131998fd5ca9/index.m3u8
 #EXTINF:-1, Morzine-Valenciennes
 https://cdn.livearenasports.com/blobs0/66dbd34c4b7c131998fd59e3/index.m3u8
-#EXTINF:-1, HCFeltre-HockeyComo
-https://cdn.livearenasports.com/blobs1/66faa3ae0681e21af84b0ec9/index.m3u8
-#EXTINF:-1, Valpellice-Alleghe
-https://cdn.livearenasports.com/blobs1/66faa3b10681e21af84b0ecd/index.m3u8
 #EXTINF:-1, Liège-Heerenveen
 https://cdn.livearenasports.com/blobs0/66efeaa6a1fe2c39f40b25bc/index.m3u8
 #EXTINF:-1, LeuvenChiefs-HijsHokij
 https://cdn.livearenasports.com/blobs0/66efeaa66a373930010be62d/index.m3u8
 #EXTINF:-1, HYC-EatersLimburg
 https://cdn.livearenasports.com/blobs1/66efeaa79e468a0f77baf281/index.m3u8
-#EXTINF:-1, PievediCadore-HCPinè
-https://cdn.livearenasports.com/blobs2/66faa3af0681e21af84b0ecb/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Torino
-https://cdn.livearenasports.com/blobs0/66faa3b08b073d0c78b5d539/index.m3u8
-#EXTINF:-1, RoosaPanter-Wolferines
-https://cdn.livearenasports.com/blobs0/66f3cf5bf00aa04a478367d2/index.m3u8
 #EXTINF:-1, DucsdeDijon-Orléans
 https://cdn.livearenasports.com/blobs0/66dbd34d4b7c131998fd59f1/index.m3u8
 #EXTINF:-1, Rouen2-Luxembourg
@@ -63,6 +51,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, SacredHeart-Rensselaer
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Valpellice-Alleghe
+https://cdn.livearenasports.com/blobs1/66faa3b10681e21af84b0ecd/index.m3u8
 #EXTINF:-1, NorthBay-Ottawa67's
 https://media-service.fanreachdata.io/edge/ohl/873470d873c94d3c9f3707fccaf464f2.m3u8
 #EXTINF:-1, LondonKnights-Brampton
