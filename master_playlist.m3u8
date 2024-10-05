@@ -15,24 +15,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/65c07c24e7d3400781cdcdae7c8a5aa
 https://media-service.fanreachdata.io/edge/lhjmq/0cf114ac5cc54bdfa5d44bc4e01e8649.m3u8
 #EXTINF:-1, Chicoutimi-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/8166d63777f24f45aa6106b517cff6a0.m3u8
-#EXTINF:-1, Vermont-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, MinnesotaDuluth-Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, St.Anselm-HolyCross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, St.Michael's-Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, OhioState-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, RochesterIT-Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Assumption-UNH
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Colgate-Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, OwenSound-Brantford
 https://media-service.fanreachdata.io/edge/ohl/97c2788e26fa4c66ad63fa276225836d.m3u8
 #EXTINF:-1, NorthBay-Kingston
@@ -49,6 +31,10 @@ https://media-service.fanreachdata.io/edge/ohl/574debb88d944f29a7a7f53240cbf347.
 https://media-service.fanreachdata.io/edge/ohl/3e22ef064d6a427d95e04acf9ef8476d.m3u8
 #EXTINF:-1, SaultSte.Marie-Guelph
 https://media-service.fanreachdata.io/edge/ohl/ffd127f506a742d4a6252d19734fdd11.m3u8
+#EXTINF:-1, Quinnipiac-Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Colgate-Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Edmonton-Brandon
 https://media-service.fanreachdata.io/edge/whl/c37b341ae2534d4fbc82194dccb24e38.m3u8
 #EXTINF:-1, MooseJaw-Lethbridge
