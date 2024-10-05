@@ -1,32 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/15036db9a0a64bac9b8be8ace5aaef2c.m3u8
-#EXTINF:-1, Blainville-B.-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/27cf844bf3ef4cb581230f6a3ff11382.m3u8
-#EXTINF:-1, Sherbrooke-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/65c07c24e7d3400781cdcdae7c8a5aaf.m3u8
-#EXTINF:-1, Baie-Comeau-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/0cf114ac5cc54bdfa5d44bc4e01e8649.m3u8
 #EXTINF:-1, Chicoutimi-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/8166d63777f24f45aa6106b517cff6a0.m3u8
-#EXTINF:-1, OwenSound-Brantford
-https://media-service.fanreachdata.io/edge/ohl/97c2788e26fa4c66ad63fa276225836d.m3u8
-#EXTINF:-1, NorthBay-Kingston
-https://media-service.fanreachdata.io/edge/ohl/9d687f3fa5194abdb3ff49df500094d0.m3u8
-#EXTINF:-1, Flint-KitchenerRangers
-https://media-service.fanreachdata.io/edge/ohl/37e1f08d70fe4650999c13828dc0c969.m3u8
-#EXTINF:-1, Erie-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/7e0aeb4c412647cabdb63684db7bc8ee.m3u8
-#EXTINF:-1, Niagara-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/989a689b5baf43c58c9e5051f2bef6d3.m3u8
-#EXTINF:-1, Peterborough-Sudbury
-https://media-service.fanreachdata.io/edge/ohl/574debb88d944f29a7a7f53240cbf347.m3u8
 #EXTINF:-1, Saginaw-SarniaSting
 https://media-service.fanreachdata.io/edge/ohl/3e22ef064d6a427d95e04acf9ef8476d.m3u8
-#EXTINF:-1, SaultSte.Marie-Guelph
-https://media-service.fanreachdata.io/edge/ohl/ffd127f506a742d4a6252d19734fdd11.m3u8
-#EXTINF:-1, Colgate-Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Edmonton-Brandon
 https://media-service.fanreachdata.io/edge/whl/c37b341ae2534d4fbc82194dccb24e38.m3u8
 #EXTINF:-1, MooseJaw-Lethbridge
