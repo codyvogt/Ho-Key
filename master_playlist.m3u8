@@ -1,15 +1,31 @@
 #EXTM3U
-#EXTINF:-1, OulunKärpät-KalPa
-https://cdn.livearenasports.com/blobs2/66f78d903bd78e5d711b4a5a/index.m3u8
-#EXTINF:-1, HIFK-SaimaanPallo
-https://cdn.livearenasports.com/blobs2/66f78d903bd78e5d711b49f7/index.m3u8
-#EXTINF:-1, LahdenPelicans-Jokerit
-https://cdn.livearenasports.com/blobs1/66f78d902ad3f109382cb47d/index.m3u8
-#EXTINF:-1, Raahe-Kiekko-FPS
-https://cdn.livearenasports.com/blobs0/66f78d8f3bd78e5d711b4957/index.m3u8
-#EXTINF:-1, MunsalaIK-Haukat
-https://cdn.livearenasports.com/blobs0/66f78d8f3bd78e5d711b4956/index.m3u8
-#EXTINF:-1, LempäälänKisa-SaPKo
-https://cdn.livearenasports.com/blobs1/66f78d8f3bd78e5d711b4947/index.m3u8
-#EXTINF:-1, LiikunnanRiemu-Titaanit
-https://cdn.livearenasports.com/blobs0/66f78d8f2ad3f109382cb3a1/index.m3u8
+#EXTINF:-1, AIK-LuleåHF
+https://cdn.livearenasports.com/blobs1/66f903973bd78e5d711b4e81/index.m3u8
+#EXTINF:-1, FrölundaHC-ÖrebroHK
+https://cdn.livearenasports.com/blobs0/66f907363bd78e5d711b4ebe/index.m3u8
+#EXTINF:-1, KajaaninHokki-FoPS
+https://cdn.livearenasports.com/blobs0/66f78d903bd78e5d711b4a63/index.m3u8
+#EXTINF:-1, ImatranKetterä-IPK
+https://cdn.livearenasports.com/blobs1/66f78d902ad3f109382cb4e7/index.m3u8
+#EXTINF:-1, S-Kiekko-KJTHaukat
+https://cdn.livearenasports.com/blobs0/66f78d903bd78e5d711b4a5f/index.m3u8
+#EXTINF:-1, SpångaISIK-VäsbyIK
+https://cdn.livearenasports.com/blobs1/66f8ff0e3bd78e5d711b4e58/index.m3u8
+#EXTINF:-1, Hammarby-Saltsjöbaden
+https://cdn.livearenasports.com/blobs0/66f8ef9d2ad3f109382cb865/index.m3u8
+#EXTINF:-1, IFLejonet-LimhamnHK
+https://cdn.livearenasports.com/blobs0/66f8f16e3bd78e5d711b4d87/index.m3u8
+#EXTINF:-1, Linden-Åker/Strängnäs
+https://cdn.livearenasports.com/blobs1/66f8f99d2ad3f109382cb8c3/index.m3u8
+#EXTINF:-1, MjölbyHC-Boro/Vetlanda
+https://cdn.livearenasports.com/blobs0/66f906503bd78e5d711b4ea0/index.m3u8
+#EXTINF:-1, Säter-KvarnsvedenJ23
+https://cdn.livearenasports.com/blobs2/66f8f2583bd78e5d711b4d9a/index.m3u8
+#EXTINF:-1, Järfälla-Östhammar/Gimo
+https://cdn.livearenasports.com/blobs0/66f8fd3e3bd78e5d711b4dfe/index.m3u8
+#EXTINF:-1, HaningeHC-SegeltorpsIF
+https://cdn.livearenasports.com/blobs0/66f8fa803bd78e5d711b4dee/index.m3u8
+#EXTINF:-1, TörebodaHF-Vänersborg
+https://cdn.livearenasports.com/blobs1/66f8fff52ad3f109382cb966/index.m3u8
+#EXTINF:-1, Kållered-Sörhaga/Alingsås
+https://cdn.livearenasports.com/blobs0/66f8fff52ad3f109382cb96d/index.m3u8
