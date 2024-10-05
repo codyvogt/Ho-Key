@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist-Sibir
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1, RögleBK-FärjestadBK
-https://cdn.livearenasports.com/blobs0/66f906503bd78e5d711b4e9c/index.m3u8
-#EXTINF:-1, MoDoHockey-AlmtunaIS
-https://cdn.livearenasports.com/blobs0/66f900e02ad3f109382cb980/index.m3u8
-#EXTINF:-1, VästeråsIK-IFMalmö
-https://cdn.livearenasports.com/blobs0/66f903973bd78e5d711b4e80/index.m3u8
-#EXTINF:-1, Södertälje-VäxjöLakers
-https://cdn.livearenasports.com/blobs1/66f900e02ad3f109382cb981/index.m3u8
-#EXTINF:-1, IFBjörklöven-BrynäsIF
-https://cdn.livearenasports.com/blobs0/66f8fc572ad3f109382cb8f6/index.m3u8
-#EXTINF:-1, AIK-LuleåHF
-https://cdn.livearenasports.com/blobs0/66f903973bd78e5d711b4e81/index.m3u8
-#EXTINF:-1, FrölundaHC-ÖrebroHK
-https://cdn.livearenasports.com/blobs0/66f907363bd78e5d711b4ebe/index.m3u8
 #EXTINF:-1, VaasanSport-Ilves
 https://cdn.livearenasports.com/blobs2/66f78d903bd78e5d711b4a1a/index.m3u8
 #EXTINF:-1, RoKi-KouvolanKooKoo
