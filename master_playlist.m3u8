@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1, IFBjörklöven-AlmtunaIS
-https://cdn.livearenasports.com/blobs1/66fa4dd78b073d0c78b5d3a1/index.m3u8
-#EXTINF:-1, MoDoHockey-BrynäsIF
-https://cdn.livearenasports.com/blobs0/66fa525e8b073d0c78b5d3c8/index.m3u8
-#EXTINF:-1, AIK-SkellefteåAIK
-https://cdn.livearenasports.com/blobs0/66fa55190681e21af84b0d51/index.m3u8
-#EXTINF:-1, DjurgårdensIF-LuleåHF
-https://cdn.livearenasports.com/blobs0/66fa494d8b073d0c78b5d35d/index.m3u8
-#EXTINF:-1, FrölundaHC-FärjestadBK
-https://cdn.livearenasports.com/blobs0/66fa58b60681e21af84b0db9/index.m3u8
-#EXTINF:-1, RögleBK-ÖrebroHK
-https://cdn.livearenasports.com/blobs0/66fa57d48b073d0c78b5d455/index.m3u8
-#EXTINF:-1, Västerås-VäxjöLakers
-https://cdn.livearenasports.com/blobs0/66fa55190681e21af84b0d52/index.m3u8
-#EXTINF:-1, SödertäljeSK-IFMalmö
-https://cdn.livearenasports.com/blobs0/66fa525e0681e21af84b0cfb/index.m3u8
 #EXTINF:-1, EVWeiden-ECPeiting
 https://content.aisportswatch.com/456802/master.m3u8
 #EXTINF:-1, KölnerJunghaie-Landshut
 https://pool-4.cdn.sporttotal.tv/out/v1/a155408d13ce440baa1d44549d48beb5/index.m3u8
+#EXTINF:-1, TurunPalloseura-RoKi
+https://cdn.livearenasports.com/blobs1/66f8df0f2ad3f109382cb76b/index.m3u8
+#EXTINF:-1, HPK-TeamKuortane
+https://cdn.livearenasports.com/blobs1/66f8df0f2ad3f109382cb748/index.m3u8
+#EXTINF:-1, KalPa-TampereenIlves
+https://cdn.livearenasports.com/blobs0/66f8df0f3bd78e5d711b4c51/index.m3u8
+#EXTINF:-1, JYPAkatemia-Hokki
+https://cdn.livearenasports.com/blobs0/66f8df0f2ad3f109382cb73b/index.m3u8
+#EXTINF:-1, Jokipojat-FoPS
+https://cdn.livearenasports.com/blobs0/66f8df103bd78e5d711b4cbb/index.m3u8
+#EXTINF:-1, Karhu-Kissat-Viikingit
+https://cdn.livearenasports.com/blobs0/66f8df0f2ad3f109382cb793/index.m3u8
+#EXTINF:-1, SaPKo-IPK
+https://cdn.livearenasports.com/blobs0/66f8df103bd78e5d711b4cba/index.m3u8
+#EXTINF:-1, Hermes-KJTHaukat
+https://cdn.livearenasports.com/blobs0/66f8df102ad3f109382cb7c8/index.m3u8
+#EXTINF:-1, KOOVEE-Kiekko-EspooCh
+https://cdn.livearenasports.com/blobs0/66f8df0f2ad3f109382cb744/index.m3u8
+#EXTINF:-1, KeuPa/Diskos-K-Vantaa
+https://cdn.livearenasports.com/blobs0/66f8df0f2ad3f109382cb76c/index.m3u8
