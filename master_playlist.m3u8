@@ -1,1 +1,49 @@
 #EXTM3U
+#EXTINF:-1, Windsor-Brantford
+https://media-service.fanreachdata.io/edge/ohl/3db87dec0cbe4199b6201ecd29a08677.m3u8
+#EXTINF:-1, Sarnia-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/c8d236de9fd74ae690ec67b346201294.m3u8
+#EXTINF:-1, Kitchener-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/ca164cc016184e1e847e7634b768ee5f.m3u8
+#EXTINF:-1, Erie-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/f58746fe9149413bb284e8c979c1ddd9.m3u8
+#EXTINF:-1, Sudbury-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/1fbb3d05142d447e8bbc1b91c6655910.m3u8
+#EXTINF:-1, HolyCross-BostonU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Canisius-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, AmericanInt'l-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, RIT-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Minnesota-St.CloudState
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/390f492e-0379-4b9b-8398-05687f1d1602-hls/master/390f492e-0379-4b9b-8398-05687f1d1602-hls.m3u8
+#EXTINF:-1, Augustana-NorthDakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/80be3970-a3bc-4186-9754-9ea9de771cbb-hls/master/80be3970-a3bc-4186-9754-9ea9de771cbb-hls.m3u8
+#EXTINF:-1, Wisconsin-Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6e627716-b6b5-475c-b85b-1a27adae2d22-hls/master/6e627716-b6b5-475c-b85b-1a27adae2d22-hls.m3u8
+#EXTINF:-1, Colgate-Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, BriercrestC-ColoradoC
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9af89b44-cdcb-43c4-8206-e10eb42ffdb1-hls/master/9af89b44-cdcb-43c4-8206-e10eb42ffdb1-hls.m3u8
+#EXTINF:-1, SacredHeart-Rensselaer
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, SwiftCurrent-Brandon
+https://media-service.fanreachdata.io/edge/whl/ff0a6cb5950549519e68d1ef61b4496a.m3u8
+#EXTINF:-1, Edmonton-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/35e052a846ed46459a5b10befdf26fe4.m3u8
+#EXTINF:-1, MooseJaw-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/9d8e3a94f81842ff9941884ee55c9794.m3u8
+#EXTINF:-1, PrinceGeorge-Portland
+https://media-service.fanreachdata.io/edge/whl/2b601e204f6241849e0d5f8d51dab164.m3u8
+#EXTINF:-1, Calgary-RedDeerRebels
+https://media-service.fanreachdata.io/edge/whl/dba1755f76a94b8691fef3dca9f7f5d7.m3u8
+#EXTINF:-1, Everett-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/369ede99ada94cccbb0dd77acf201912.m3u8
+#EXTINF:-1, Victoria-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/8edf8f727df54405a5c3f053f0ab3606.m3u8
+#EXTINF:-1, Seattle-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/105fdf1517a84e44bd1af7729040181b.m3u8
+#EXTINF:-1, KelownaRockets-Tri-City
+https://media-service.fanreachdata.io/edge/whl/5be8cd32fe0d4e11bc6f66cfb3a36ff0.m3u8
