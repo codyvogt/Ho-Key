@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1, VitaHästen-Sollentuna
-https://cdn.livearenasports.com/blobs2/66fa4b200681e21af84b0c7a/index.m3u8
-#EXTINF:-1, JärnaSK-TullingeTPHC
-https://cdn.livearenasports.com/blobs1/66fa525e0681e21af84b0d0f/index.m3u8
-#EXTINF:-1, Aosta-HCBFoxesAc.
-https://cdn.livearenasports.com/blobs2/66faa3b90681e21af84b0ed3/index.m3u8
-#EXTINF:-1, Brixen/Wipptal-Kaltern
-https://cdn.livearenasports.com/blobs0/66faa3ba8b073d0c78b5d54d/index.m3u8
+#EXTINF:-1, AiglesdeNice-Rouen
+https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66de764f3453a55a1f560026.m3u8
+#EXTINF:-1, LiikunnanRiemu-S-Kiekko
+https://cdn.livearenasports.com/blobs2/66f8df0f2ad3f109382cb6b9/index.m3u8
 #EXTINF:-1, StormPinerolo-Trento
 https://cdn.livearenasports.com/blobs0/66faa3bb0681e21af84b0ed5/index.m3u8
-#EXTINF:-1, UherskýOstroh-Boskovice
-https://cdn.livearenasports.com/blobs2/66c737847959d90e21c27dc5/index.m3u8
+#EXTINF:-1, KOOVEE-Hiki-Hockey
+https://cdn.livearenasports.com/blobs0/66f8df0f2ad3f109382cb6c4/index.m3u8
