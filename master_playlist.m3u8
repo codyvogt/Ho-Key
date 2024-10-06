@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Manitoba-UMD
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/375e1f91-d401-4742-9e13-3cc8a6497741-hls/master/375e1f91-d401-4742-9e13-3cc8a6497741-hls.m3u8
-#EXTINF:-1, RochesterIT-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Canisius-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, ArmyWestPoint-Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Northeastern-Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, McGill-Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Drummond.-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/4b70ba5edb1243f3b9ca85f8bcaf7c47.m3u8
 #EXTINF:-1, Victoriaville-Shawinigan
@@ -25,3 +13,13 @@ https://media-service.fanreachdata.io/edge/ohl/cbfb80adb6ba413198ad8a05a08a4140.
 https://media-service.fanreachdata.io/edge/whl/0c37e38988be44ce8531974956672a42.m3u8
 #EXTINF:-1, Kamloops-Wenatchee
 https://media-service.fanreachdata.io/edge/whl/06cdec8650c04bdc89f4672846f1933b.m3u8
+#EXTINF:-1, RochesterIT-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Canisius-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, ArmyWestPoint-Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Northeastern-Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, McGill-Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
