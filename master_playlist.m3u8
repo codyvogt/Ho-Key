@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LadaTogliatti-Admiral
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1, AkBarsKazan-Sibir
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Rungsted-Odense
 https://cdn.livearenasports.com/blobs0/668eaa71c84b3975e0ed9366/index.m3u8
 #EXTINF:-1, GrumsIK-KarlskogaIK
