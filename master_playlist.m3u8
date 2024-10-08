@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Amiens-Chamonix
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66e11950d7b30711a13b6c96.m3u8
-#EXTINF:-1, Angers-Granoble
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66e11950cc7d657c5106956c.m3u8
-#EXTINF:-1, Cergy-Pontoise-Nice
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66e11950d7b30711a13b6c92.m3u8
-#EXTINF:-1, Caen-Meudon
-https://cdn.livearenasports.com/blobs2/66e1194dd7b30711a13b6c90/index.m3u8
-#EXTINF:-1, Villard-de-Lans-Chambéry
-https://cdn.livearenasports.com/blobs1/66e1194dd7b30711a13b6c8e/index.m3u8
+#EXTINF:-1, Providence-Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Syracuse-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
