@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1, Providence-Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Syracuse-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, EverettSilvertips-Brandon
+https://media-service.fanreachdata.io/edge/whl/2e3b9be5a82642909303f2c5a19b0135.m3u8
+#EXTINF:-1, Vancouver-RedDeer
+https://media-service.fanreachdata.io/edge/whl/9589adf52dd14918b09bdef06be85d7a.m3u8
+#EXTINF:-1, Portland-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/8dc71cceb7c14b66a61d656b87f58338.m3u8
+#EXTINF:-1, Tri-CityAmericans-Seattle
+https://media-service.fanreachdata.io/edge/whl/f0a5c820770e463c93ada670fb37f609.m3u8
