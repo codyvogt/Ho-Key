@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1, BurträskHC-SKLejon
-https://cdn.livearenasports.com/blobs0/66fce1689ae3c54b26871c4a/index.m3u8
-#EXTINF:-1, NorrtäljeIK-TierpsHK
-https://cdn.livearenasports.com/blobs2/66fce5059ae3c54b26871ca7/index.m3u8
 #EXTINF:-1, GävleGIK-AlftaHockey
 https://cdn.livearenasports.com/blobs0/66fcec4b7655fb0aed1ed51b/index.m3u8
-#EXTINF:-1, FlemingsbergsIK-Spånga
-https://cdn.livearenasports.com/blobs0/66ffbc026b135e19484e040e/index.m3u8
-#EXTINF:-1, HammarbyIF-NackaHK
-https://cdn.livearenasports.com/blobs2/66ff88067655fb0aed1ed94e/index.m3u8
-#EXTINF:-1, KirunaCityHF-KirunaAIF
-https://cdn.livearenasports.com/blobs0/66ffb7ecee56f13ea003f6c0/index.m3u8
-#EXTINF:-1, Trollhättan-Uddevalla
-https://cdn.livearenasports.com/blobs1/66fcf1bd9ae3c54b26871cda/index.m3u8
-#EXTINF:-1, Vallentuna-Ormsta-Solna
-https://cdn.livearenasports.com/blobs0/66fcee1f9ae3c54b26871cc2/index.m3u8
-#EXTINF:-1, Strasbourg-Brest
-https://cdn.livearenasports.com/blobs0/66e1194dcc7d657c5106956a/index.m3u8
-#EXTINF:-1, Caen-Meudon
-https://cdn.livearenasports.com/blobs2/66e1194dd7b30711a13b6c90/index.m3u8
-#EXTINF:-1, Villard-de-Lans-Chambéry
-https://cdn.livearenasports.com/blobs1/66e1194dd7b30711a13b6c8e/index.m3u8
 #EXTINF:-1, Marseille-Anglet
 https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66e11950d7b30711a13b6c94.m3u8
 #EXTINF:-1, Amiens-Chamonix
@@ -29,5 +9,9 @@ https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66e1195
 https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66e11950cc7d657c5106956c.m3u8
 #EXTINF:-1, Cergy-Pontoise-Nice
 https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66e11950d7b30711a13b6c92.m3u8
+#EXTINF:-1, Caen-Meudon
+https://cdn.livearenasports.com/blobs2/66e1194dd7b30711a13b6c90/index.m3u8
+#EXTINF:-1, Villard-de-Lans-Chambéry
+https://cdn.livearenasports.com/blobs1/66e1194dd7b30711a13b6c8e/index.m3u8
 #EXTINF:-1, Chalmers-DuellsPHK
 https://cdn.livearenasports.com/blobs2/66ffb7b9ee56f13ea003f6b4/index.m3u8
