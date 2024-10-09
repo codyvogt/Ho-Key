@@ -1,9 +1,23 @@
 #EXTM3U
-#EXTINF:-1, EverettSilvertips-Brandon
-https://media-service.fanreachdata.io/edge/whl/2e3b9be5a82642909303f2c5a19b0135.m3u8
-#EXTINF:-1, Vancouver-RedDeer
-https://media-service.fanreachdata.io/edge/whl/9589adf52dd14918b09bdef06be85d7a.m3u8
+#EXTINF:-1, Halifax-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/7afab6d823034165bcaa68ebf40d27af.m3u8
+#EXTINF:-1, CapeBreton-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/763c3e77eb3e43f9a927c13ca58669d8.m3u8
+#EXTINF:-1, Drummond.-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/76d90aa9048b425fb57796f901fcaa14.m3u8
+#EXTINF:-1, SarniaSting-Brantford
+https://media-service.fanreachdata.io/edge/ohl/1eb81ade51a24df4a9d241f93d7a22c1.m3u8
+#EXTINF:-1, KitchenerRangers-Flint
+https://media-service.fanreachdata.io/edge/ohl/af00963b32444fea8b5f35622a6b20b6.m3u8
+#EXTINF:-1, London-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/f08a39d1a6594f3292a8923f03625852.m3u8
+#EXTINF:-1, RedDeer-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/a23c477769584af9a6b4a97b3117959a.m3u8
+#EXTINF:-1, Spokane-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/9638a352a12948a794ed6378bde6cda3.m3u8
+#EXTINF:-1, Everett-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/b3658d28e1bb4bdb88252866be241d75.m3u8
+#EXTINF:-1, Calgary-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/c0711ebdab46465e97ecc62a2d40b731.m3u8
 #EXTINF:-1, Portland-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/8dc71cceb7c14b66a61d656b87f58338.m3u8
-#EXTINF:-1, Tri-CityAmericans-Seattle
-https://media-service.fanreachdata.io/edge/whl/f0a5c820770e463c93ada670fb37f609.m3u8
+https://media-service.fanreachdata.io/edge/whl/160d1fc17fe04721b8906299752c84a1.m3u8
