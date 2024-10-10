@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1, CapeBreton-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/763c3e77eb3e43f9a927c13ca58669d8.m3u8
-#EXTINF:-1, Drummond.-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/76d90aa9048b425fb57796f901fcaa14.m3u8
 #EXTINF:-1, SarniaSting-Brantford
 https://media-service.fanreachdata.io/edge/ohl/1eb81ade51a24df4a9d241f93d7a22c1.m3u8
-#EXTINF:-1, KitchenerRangers-Flint
-https://media-service.fanreachdata.io/edge/ohl/af00963b32444fea8b5f35622a6b20b6.m3u8
 #EXTINF:-1, London-OwenSound
 https://media-service.fanreachdata.io/edge/ohl/f08a39d1a6594f3292a8923f03625852.m3u8
 #EXTINF:-1, RedDeer-MedicineHat
