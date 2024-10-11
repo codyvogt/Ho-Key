@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:-1, Marseille-Ducsd'Angers
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66e50dd483d9db296f96e2d2.m3u8
-#EXTINF:-1, Grenoble-Amiens
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66e50dd483d9db296f96e2d4.m3u8
-#EXTINF:-1, Hormadid'Anglet-Nice
-https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66e50dd483d9db296f96e2d8.m3u8
-#EXTINF:-1, HijsHokij-Diez-Limburg
-https://cdn.livearenasports.com/blobs2/66f7d3a72ad3f109382cb614/index.m3u8
-#EXTINF:-1, Mechelen-Heerenveen
-https://cdn.livearenasports.com/blobs2/66f7d3a73bd78e5d711b4b19/index.m3u8
-#EXTINF:-1, SFU-RobertMorris
-https://dhxt7wh7wfooh.cloudfront.net/5e361c5488bcd9daf2c4b06cd006eaee/0_hd_hls.m3u8
+#EXTINF:-1, Acadie-Bathurst-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/90aa9c68b90243a385780f62c224e226.m3u8
+#EXTINF:-1, Victoriaville-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/efb1ecae3548403fb585142073f0f9d7.m3u8
+#EXTINF:-1, Sherbrooke-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/68c07324e45e4d9682d454fc4bafee84.m3u8
+#EXTINF:-1, Baie-Comeau-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/9d9a353c515847cbba04adfbf6f8f185.m3u8
+#EXTINF:-1, Rimouski-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/9c97e58656c348c1a2006d9faf7d3c7a.m3u8
+#EXTINF:-1, CBEagles-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/b64ee4ca297b459886f47273ef2c8500.m3u8
+#EXTINF:-1, Drummondville-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/a5850d9698de42e8841ff17edbb897ed.m3u8
+#EXTINF:-1, Shawinigan-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/adec2c1dc28342c99f8d40f69a6d13e3.m3u8
 #EXTINF:-1, Michigan-ArizonaState
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/268bd9aa-2678-4ce5-8385-88ad9813b5b8-hls/master/268bd9aa-2678-4ce5-8385-88ad9813b5b8-hls.m3u8
 #EXTINF:-1, Niagara-Clarkson
@@ -37,10 +41,6 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a49701c2-c860-493b-bdc9-8c74016cedae-hls/master/a49701c2-c860-493b-bdc9-8c74016cedae-hls.m3u8
 #EXTINF:-1, NMU-ColoradoCollege
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls/master/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls.m3u8
-#EXTINF:-1, RobertMorris-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Mercyhurst-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, Providence-Maine
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, UConn-NewHampshire
@@ -51,22 +51,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, BostonU-Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Acadie-Bathurst-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/90aa9c68b90243a385780f62c224e226.m3u8
-#EXTINF:-1, Victoriaville-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/efb1ecae3548403fb585142073f0f9d7.m3u8
-#EXTINF:-1, Sherbrooke-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/68c07324e45e4d9682d454fc4bafee84.m3u8
-#EXTINF:-1, Baie-Comeau-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/9d9a353c515847cbba04adfbf6f8f185.m3u8
-#EXTINF:-1, Rimouski-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/9c97e58656c348c1a2006d9faf7d3c7a.m3u8
-#EXTINF:-1, CBEagles-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/b64ee4ca297b459886f47273ef2c8500.m3u8
-#EXTINF:-1, Drummondville-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/a5850d9698de42e8841ff17edbb897ed.m3u8
-#EXTINF:-1, Shawinigan-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/adec2c1dc28342c99f8d40f69a6d13e3.m3u8
 #EXTINF:-1, SudburyWolves-Kingston
 https://media-service.fanreachdata.io/edge/ohl/dc8215a5c8214801ab7ae0e0c7c4c609.m3u8
 #EXTINF:-1, Brantford-Ottawa67's
