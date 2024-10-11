@@ -3,14 +3,6 @@
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, EVZug-EHCBiel-Bienne
 https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, S-Kiekko-LapuanVirkiä
-https://cdn.livearenasports.com/blobs1/66ff768f7655fb0aed1ed8a3/index.m3u8
-#EXTINF:-1, NokianPyry-Haukat
-https://cdn.livearenasports.com/blobs1/66ff768f7655fb0aed1ed8a2/index.m3u8
-#EXTINF:-1, HelsinginJokerit-TPS
-https://cdn.livearenasports.com/blobs2/66ff768f7655fb0aed1ed8bd/index.m3u8
-#EXTINF:-1, TapparaTampere-JYP
-https://cdn.livearenasports.com/blobs1/66ff768f7655fb0aed1ed8b2/index.m3u8
 #EXTINF:-1, DuklaJihlava-Litvínov
 https://cdn.livearenasports.com/blobs0/66ed8f24a1fe2c39f40b2008/index.m3u8
 #EXTINF:-1, SlaviaPraha-Liberec
