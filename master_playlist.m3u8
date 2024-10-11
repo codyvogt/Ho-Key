@@ -3,14 +3,14 @@
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, EVZug-EHCBiel-Bienne
 https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, AlmtunaIS-Djurgården
-https://cdn.livearenasports.com/blobs0/6700e8fb6b135e19484e071e/index.m3u8
-#EXTINF:-1, VärnamoGIK-Kristianstad
-https://cdn.livearenasports.com/blobs0/6700e7236e0aae1e6b06fc69/index.m3u8
+#EXTINF:-1, HerlevEagles-Aalborg
+https://cdn.livearenasports.com/blobs0/66b0c48e73058e50f9d0cd3d/index.m3u8
+#EXTINF:-1, EsbjergEnergy-Herning
+https://cdn.livearenasports.com/blobs1/66b0c49073058e50f9d0cd41/index.m3u8
+#EXTINF:-1, OdenseIK-HerningII
+https://cdn.livearenasports.com/blobs1/66cd9057e6affb23b065aa04/index.m3u8
 #EXTINF:-1, LN91-BurträskHC
 https://cdn.livearenasports.com/blobs0/6700e9e26e0aae1e6b06fc76/index.m3u8
-#EXTINF:-1, NjurundaSK-Kovland
-https://cdn.livearenasports.com/blobs0/6700e7236e0aae1e6b06fc68/index.m3u8
 #EXTINF:-1, Kramfors-BrunfloIK
 https://cdn.livearenasports.com/blobs0/6700e29d6e0aae1e6b06fc2b/index.m3u8
 #EXTINF:-1, Segeltorp-Flemingsberg
@@ -19,18 +19,6 @@ https://cdn.livearenasports.com/blobs0/6700e4766e0aae1e6b06fc30/index.m3u8
 https://cdn.livearenasports.com/blobs1/6700ed846b135e19484e0739/index.m3u8
 #EXTINF:-1, VilhelminaIK-Vindeln
 https://cdn.livearenasports.com/blobs0/6700eac96e0aae1e6b06fc7f/index.m3u8
-#EXTINF:-1, HerlevEagles-Aalborg
-https://cdn.livearenasports.com/blobs0/66b0c48e73058e50f9d0cd3d/index.m3u8
-#EXTINF:-1, Rødovre-Rungsted
-https://cdn.livearenasports.com/blobs1/66b0c48f73058e50f9d0cd3f/index.m3u8
-#EXTINF:-1, Frederikshavn-Sønderj.
-https://cdn.livearenasports.com/blobs2/66b0c49273058e50f9d0cd43/index.m3u8
-#EXTINF:-1, EsbjergEnergy-Herning
-https://cdn.livearenasports.com/blobs1/66b0c49073058e50f9d0cd41/index.m3u8
-#EXTINF:-1, OdenseIK-HerningII
-https://cdn.livearenasports.com/blobs1/66cd9057e6affb23b065aa04/index.m3u8
-#EXTINF:-1, Örnsköldsvik-Sundsvall
-https://cdn.livearenasports.com/blobs0/6700e8fb6b135e19484e071d/index.m3u8
 #EXTINF:-1, JärvsöIK-HedesundaIF
 https://cdn.livearenasports.com/blobs0/6700d5e96b135e19484e063d/index.m3u8
 #EXTINF:-1, SkutskärsSK-IKHuge
