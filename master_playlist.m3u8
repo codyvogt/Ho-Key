@@ -1,24 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Vancouver-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/48be21966570469380e08ac789a5bec8.m3u8
-#EXTINF:-1, Brandon-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/75627406078d476a91f1e9eee750bb66.m3u8
-#EXTINF:-1, Everett-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/333cc32c543b4ca89e58ed537bbe679c.m3u8
-#EXTINF:-1, SwiftCurrent-Regina
-https://media-service.fanreachdata.io/edge/whl/52eb02aba4cb4d06b73dd33698ec091d.m3u8
-#EXTINF:-1, Spokane-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/521dea6f23c54a25a55e71874d990c33.m3u8
-#EXTINF:-1, Portland-Kelowna
-https://media-service.fanreachdata.io/edge/whl/46667406c03b493fa1143c8190abc683.m3u8
-#EXTINF:-1, KamloopsBlazers-Seattle
-https://media-service.fanreachdata.io/edge/whl/e98a09f67731440ca0c175e44ca99da0.m3u8
-#EXTINF:-1, WenatcheeWild-Victoria
-https://media-service.fanreachdata.io/edge/whl/d24f7d5488294878911c5baba80a6ca1.m3u8
-#EXTINF:-1, NMU-ColoradoCollege
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls/master/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls.m3u8
 #EXTINF:-1, SaiPa-MikkelinJukurit
-https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e05fb/index.m3u8
+https://cdn.livearenasports.com/blobs2/6700c8106b135e19484e05fb/index.m3u8
 #EXTINF:-1, HPK-HelsinginJokerit
 https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e0606/index.m3u8
 #EXTINF:-1, TampereenIlves-Ässät
