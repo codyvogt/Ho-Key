@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, CBEagles-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/b64ee4ca297b459886f47273ef2c8500.m3u8
-#EXTINF:-1, Shawinigan-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/adec2c1dc28342c99f8d40f69a6d13e3.m3u8
-#EXTINF:-1, Merrimack-MinnSt
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, BSU-St.CloudState
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a49701c2-c860-493b-bdc9-8c74016cedae-hls/master/a49701c2-c860-493b-bdc9-8c74016cedae-hls.m3u8
 #EXTINF:-1, NMU-ColoradoCollege
