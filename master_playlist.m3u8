@@ -1,34 +1,6 @@
 #EXTM3U
 #EXTINF:-1, SKA-Avtomobilist
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
-#EXTINF:-1, HPK-HelsinginJokerit
-https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e0606/index.m3u8
-#EXTINF:-1, TampereenIlves-Ässät
-https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e060b/index.m3u8
-#EXTINF:-1, RaumanLukko-KalPa
-https://cdn.livearenasports.com/blobs1/6700c8116b135e19484e0614/index.m3u8
-#EXTINF:-1, JYP-IFKHelsingfors
-https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e05fa/index.m3u8
-#EXTINF:-1, VaasanSport-Kärpät
-https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e05f3/index.m3u8
-#EXTINF:-1, TurunPalloseura-RoKi
-https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e0603/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-Tappara
-https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e0601/index.m3u8
-#EXTINF:-1, BrynäsIF-AIK
-https://cdn.livearenasports.com/blobs0/670234206e0aae1e6b06ff89/index.m3u8
-#EXTINF:-1, SkellefteåAIK-TimråIK
-https://cdn.livearenasports.com/blobs0/67023c496e0aae1e6b06fffa/index.m3u8
-#EXTINF:-1, LeksandsIF-IFBjörklöven
-https://cdn.livearenasports.com/blobs0/67023a7e6e0aae1e6b06ffda/index.m3u8
-#EXTINF:-1, AlmtunaIS-Djurgården
-https://cdn.livearenasports.com/blobs0/67023a7e6e0aae1e6b06ffd7/index.m3u8
-#EXTINF:-1, FrölundaHC-VästeråsIK
-https://cdn.livearenasports.com/blobs0/670241b96b135e19484e0b79/index.m3u8
-#EXTINF:-1, MoraIK-MoDoHockey
-https://cdn.livearenasports.com/blobs0/67023c496e0aae1e6b06fffb/index.m3u8
-#EXTINF:-1, Slavia-MladáBoleslav
-https://cdn.livearenasports.com/blobs0/66f12f3fa1fe2c39f40b26f3/index.m3u8
 #EXTINF:-1, Zlín-MountfieldHK
 https://cdn.livearenasports.com/blobs2/66f3c43489f7b22b217b6a2c/index.m3u8
 #EXTINF:-1, SpartaPraha-Liberec
