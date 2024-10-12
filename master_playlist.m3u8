@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Michigan-ArizonaState
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/268bd9aa-2678-4ce5-8385-88ad9813b5b8-hls/master/268bd9aa-2678-4ce5-8385-88ad9813b5b8-hls.m3u8
-#EXTINF:-1, Niagara-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, SacredHeart-Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, NotreDame-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, FerrisState-WMU
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b14decd7-7b8d-4fba-a2f1-81e22d7ea81b-hls/master/b14decd7-7b8d-4fba-a2f1-81e22d7ea81b-hls.m3u8
-#EXTINF:-1, LakeSuperior-USAU18
-https://dhcqpywmowdv9.cloudfront.net/4ec05f49c10dac76bd060bc3f817efb4/0_hd_hls.m3u8
-#EXTINF:-1, AlaskaAnchorage-Miami
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5f8a01f2-d08f-40eb-ba36-c2b7390675dd-hls/master/5f8a01f2-d08f-40eb-ba36-c2b7390675dd-hls.m3u8
-#EXTINF:-1, Alaska-MichiganTech
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, UMD-UMassLowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, Merrimack-MinnSt
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, BSU-St.CloudState
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a49701c2-c860-493b-bdc9-8c74016cedae-hls/master/a49701c2-c860-493b-bdc9-8c74016cedae-hls.m3u8
-#EXTINF:-1, NMU-ColoradoCollege
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls/master/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls.m3u8
 #EXTINF:-1, Baie-Comeau-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/9d9a353c515847cbba04adfbf6f8f185.m3u8
 #EXTINF:-1, Rimouski-Chicoutimi
@@ -51,6 +27,28 @@ https://media-service.fanreachdata.io/edge/ohl/a4c37974fbba43509109560cb07a914d.
 https://media-service.fanreachdata.io/edge/ohl/86d27e5c69bb44ef981215ec6e502e13.m3u8
 #EXTINF:-1, Peterborough-Guelph
 https://media-service.fanreachdata.io/edge/ohl/982c8d4a70c6405babe8003d3942706d.m3u8
+#EXTINF:-1, Niagara-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, SacredHeart-Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, NotreDame-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, FerrisState-WMU
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b14decd7-7b8d-4fba-a2f1-81e22d7ea81b-hls/master/b14decd7-7b8d-4fba-a2f1-81e22d7ea81b-hls.m3u8
+#EXTINF:-1, LakeSuperior-USAU18
+https://dhcqpywmowdv9.cloudfront.net/4ec05f49c10dac76bd060bc3f817efb4/0_hd_hls.m3u8
+#EXTINF:-1, AlaskaAnchorage-Miami
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5f8a01f2-d08f-40eb-ba36-c2b7390675dd-hls/master/5f8a01f2-d08f-40eb-ba36-c2b7390675dd-hls.m3u8
+#EXTINF:-1, Alaska-MichiganTech
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, UMD-UMassLowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, Merrimack-MinnSt
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, BSU-St.CloudState
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a49701c2-c860-493b-bdc9-8c74016cedae-hls/master/a49701c2-c860-493b-bdc9-8c74016cedae-hls.m3u8
+#EXTINF:-1, NMU-ColoradoCollege
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls/master/5075c49b-6fcc-4979-aca1-e56b6dee50ae-hls.m3u8
 #EXTINF:-1, BostonU-Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Vancouver-Lethbridge
