@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Rimouski-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/9c97e58656c348c1a2006d9faf7d3c7a.m3u8
 #EXTINF:-1, CBEagles-Rouyn-Noranda
 https://media-service.fanreachdata.io/edge/lhjmq/b64ee4ca297b459886f47273ef2c8500.m3u8
 #EXTINF:-1, Shawinigan-Blainville-B.
 https://media-service.fanreachdata.io/edge/lhjmq/adec2c1dc28342c99f8d40f69a6d13e3.m3u8
-#EXTINF:-1, NorthBay-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/4b44e5f439f64fa1a9e78c8699c2c41f.m3u8
 #EXTINF:-1, Merrimack-MinnSt
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, BSU-St.CloudState
