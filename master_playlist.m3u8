@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, MetallurgMg-Avangard
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, SKA-Avtomobilist
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
 #EXTINF:-1, SaiPa-MikkelinJukurit
 https://cdn.livearenasports.com/blobs2/6700c8106b135e19484e05fb/index.m3u8
 #EXTINF:-1, HPK-HelsinginJokerit
@@ -30,6 +34,6 @@ https://cdn.livearenasports.com/blobs0/67023c496e0aae1e6b06fffb/index.m3u8
 #EXTINF:-1, Slavia-MladáBoleslav
 https://cdn.livearenasports.com/blobs0/66f12f3fa1fe2c39f40b26f3/index.m3u8
 #EXTINF:-1, Zlín-MountfieldHK
-https://cdn.livearenasports.com/blobs0/66f3c43489f7b22b217b6a2c/index.m3u8
+https://cdn.livearenasports.com/blobs2/66f3c43489f7b22b217b6a2c/index.m3u8
 #EXTINF:-1, SpartaPraha-Liberec
 https://cdn.livearenasports.com/blobs0/66f1050fa1fe2c39f40b2659/index.m3u8
