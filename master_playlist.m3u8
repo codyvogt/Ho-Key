@@ -1,7 +1,17 @@
 #EXTM3U
 #EXTINF:-1, SKA-Avtomobilist
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
-#EXTINF:-1, Zlín-MountfieldHK
-https://cdn.livearenasports.com/blobs2/66f3c43489f7b22b217b6a2c/index.m3u8
+#EXTINF:-1, TampereenIlves-Ässät
+https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e060b/index.m3u8
+#EXTINF:-1, RaumanLukko-KalPa
+https://cdn.livearenasports.com/blobs1/6700c8116b135e19484e0614/index.m3u8
+#EXTINF:-1, JYP-IFKHelsingfors
+https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e05fa/index.m3u8
+#EXTINF:-1, VaasanSport-Kärpät
+https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e05f3/index.m3u8
+#EXTINF:-1, TurunPalloseura-RoKi
+https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e0603/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-Tappara
+https://cdn.livearenasports.com/blobs0/6700c8106b135e19484e0601/index.m3u8
 #EXTINF:-1, SpartaPraha-Liberec
 https://cdn.livearenasports.com/blobs1/66f1050fa1fe2c39f40b2659/index.m3u8
