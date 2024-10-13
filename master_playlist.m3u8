@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Brandon-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/ce12a4e8ce464b28940c7d805bb5b04e.m3u8
 #EXTINF:-1, Vancouver-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/60eb3fc509ee48789371aa8c6ed1fa3a.m3u8
 #EXTINF:-1, PARaiders-PrinceGeorge
@@ -13,7 +11,3 @@ https://media-service.fanreachdata.io/edge/whl/df73d29e96a74555983a51ba10519593.
 https://media-service.fanreachdata.io/edge/whl/c707c6bcd6eb463481ab73cadabe8928.m3u8
 #EXTINF:-1, KamloopsBlazers-Tri-City
 https://media-service.fanreachdata.io/edge/whl/6308747f88c84f3ca794855f924e80a8.m3u8
-#EXTINF:-1, Michigan-ArizonaState
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32f3ac57-92e5-45bb-b41e-3c3045d50253-hls/master/32f3ac57-92e5-45bb-b41e-3c3045d50253-hls.m3u8
-#EXTINF:-1, NMU-ColoradoCollege
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3ce15ae2-54ed-4e24-b348-88c5cedbfe12-hls/master/3ce15ae2-54ed-4e24-b348-88c5cedbfe12-hls.m3u8
