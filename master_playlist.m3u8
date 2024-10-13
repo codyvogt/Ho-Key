@@ -5,8 +5,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/6304f7f5eddc4dbca3b8ab23855d0fa
 https://media-service.fanreachdata.io/edge/lhjmq/17459ef73314423c8b5bc417beb7863c.m3u8
 #EXTINF:-1, UMD-UMassLowell
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, Alaska-MichiganTech
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, Union-BostonUniversity
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, NotreDame-Clarkson
@@ -35,10 +33,6 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e14330e7-1c99-4317-857d-b25ac
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32f3ac57-92e5-45bb-b41e-3c3045d50253-hls/master/32f3ac57-92e5-45bb-b41e-3c3045d50253-hls.m3u8
 #EXTINF:-1, NMU-ColoradoCollege
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3ce15ae2-54ed-4e24-b348-88c5cedbfe12-hls/master/3ce15ae2-54ed-4e24-b348-88c5cedbfe12-hls.m3u8
-#EXTINF:-1, NewHampshire-UConn
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Providence-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, NorthBay-Niagara
 https://media-service.fanreachdata.io/edge/ohl/05188a5079394fb2a139f169384334e1.m3u8
 #EXTINF:-1, Oshawa-FlintFirebirds
@@ -51,6 +45,8 @@ https://media-service.fanreachdata.io/edge/ohl/6051b0acca9d4876ba73b4ef77adc6eb.
 https://media-service.fanreachdata.io/edge/ohl/89002e64d3f14bf690be1bad55650a28.m3u8
 #EXTINF:-1, Brampton-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/6005baed4b744d52a790733348b62fac.m3u8
+#EXTINF:-1, Providence-Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Wenatchee-Victoria
 https://media-service.fanreachdata.io/edge/whl/57bad87672f944168acc7d2f0396ea9b.m3u8
 #EXTINF:-1, Brandon-Lethbridge
