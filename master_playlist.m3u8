@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Rouyn-Noranda-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/74912a918d974f618711fff89968f340.m3u8
 #EXTINF:-1, Québec-Blainville-B.
 https://media-service.fanreachdata.io/edge/lhjmq/27cf3e2ebce642179333f5cc27e7d49b.m3u8
 #EXTINF:-1, Gatineau-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/7476b511555f4dbcbe649233a8648db8.m3u8
-#EXTINF:-1, OwenSound-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/153754ddb5d44580a7849e318658e98f.m3u8
-#EXTINF:-1, Oshawa-Windsor
-https://media-service.fanreachdata.io/edge/ohl/0bbe94afac394a5b88b9e0224cdad41a.m3u8
-#EXTINF:-1, Vancouver-Edmonton
-https://media-service.fanreachdata.io/edge/whl/23b24afafeed4bfcb79688ac3a1c3797.m3u8
 #EXTINF:-1, PrinceGeorge-Calgary
 https://media-service.fanreachdata.io/edge/whl/cde8b9594adf45509a366da27bea6591.m3u8
 #EXTINF:-1, PrinceAlbert-Kelowna
 https://media-service.fanreachdata.io/edge/whl/4e0ed339286e4009ac25e039d4ac4690.m3u8
-#EXTINF:-1, BrinkensIF-Saltsjöbaden
-https://cdn.livearenasports.com/blobs0/6704cfdd6e0aae1e6b0704e6/index.m3u8
-#EXTINF:-1, HCLudwig-HCKSalamat
-https://cdn.livearenasports.com/blobs1/67036b0f6e0aae1e6b070099/index.m3u8
