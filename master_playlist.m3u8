@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1, Frederikshavn-Odense
+https://cdn.livearenasports.com/blobs0/66b0c49573058e50f9d0cd47/index.m3u8
+#EXTINF:-1, Charlottetown-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/92ec4ed0c10b4e369a93f73e3897cf41.m3u8
+#EXTINF:-1, Rouyn-Noranda-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/74912a918d974f618711fff89968f340.m3u8
+#EXTINF:-1, Québec-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/27cf3e2ebce642179333f5cc27e7d49b.m3u8
+#EXTINF:-1, Gatineau-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/7476b511555f4dbcbe649233a8648db8.m3u8
