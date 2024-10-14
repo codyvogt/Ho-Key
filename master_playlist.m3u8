@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Québec-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/27cf3e2ebce642179333f5cc27e7d49b.m3u8
 #EXTINF:-1, Gatineau-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/7476b511555f4dbcbe649233a8648db8.m3u8
-#EXTINF:-1, PrinceGeorge-Calgary
-https://media-service.fanreachdata.io/edge/whl/cde8b9594adf45509a366da27bea6591.m3u8
 #EXTINF:-1, PrinceAlbert-Kelowna
 https://media-service.fanreachdata.io/edge/whl/4e0ed339286e4009ac25e039d4ac4690.m3u8
