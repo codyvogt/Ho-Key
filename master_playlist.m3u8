@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, EnköpingsSKHK-Tyresö
-https://cdn.livearenasports.com/blobs0/6704d5546b135e19484e0fd3/index.m3u8
-#EXTINF:-1, Vallentuna-HuddingeIK
-https://cdn.livearenasports.com/blobs0/6704d7256b135e19484e0fd9/index.m3u8
-#EXTINF:-1, WingsArlanda-Nyköping
-https://cdn.livearenasports.com/blobs1/6704d1a96e0aae1e6b0704f0/index.m3u8
-#EXTINF:-1, GötaTranebergIK-Nacka
-https://cdn.livearenasports.com/blobs1/6704dc966b135e19484e0fe9/index.m3u8
 #EXTINF:-1, EskilstunaLinden-Tumba
 https://cdn.livearenasports.com/blobs1/6704d7256b135e19484e0fda/index.m3u8
 #EXTINF:-1, SegeltorpsIF-VärmdöHC
@@ -33,6 +25,8 @@ https://media-service.fanreachdata.io/edge/whl/23b24afafeed4bfcb79688ac3a1c3797.
 https://media-service.fanreachdata.io/edge/whl/cde8b9594adf45509a366da27bea6591.m3u8
 #EXTINF:-1, PrinceAlbert-Kelowna
 https://media-service.fanreachdata.io/edge/whl/4e0ed339286e4009ac25e039d4ac4690.m3u8
+#EXTINF:-1, GötaTranebergIK-Nacka
+https://cdn.livearenasports.com/blobs1/6704dc966b135e19484e0fe9/index.m3u8
 #EXTINF:-1, KoPo-EVUTeam2
 https://cdn.livearenasports.com/blobs0/6702198f6e0aae1e6b06fd58/index.m3u8
 #EXTINF:-1, HCLudwig-HCKSalamat
