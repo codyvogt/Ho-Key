@@ -1,26 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Charlottetown-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/92ec4ed0c10b4e369a93f73e3897cf41.m3u8
-#EXTINF:-1, Rouyn-Noranda-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/74912a918d974f618711fff89968f340.m3u8
-#EXTINF:-1, Québec-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/27cf3e2ebce642179333f5cc27e7d49b.m3u8
-#EXTINF:-1, Gatineau-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/7476b511555f4dbcbe649233a8648db8.m3u8
-#EXTINF:-1, IFSundsvall-Njurunda
-https://cdn.livearenasports.com/blobs1/6704e0346b135e19484e0ff2/index.m3u8
 #EXTINF:-1, EnköpingsSKHK-Tyresö
 https://cdn.livearenasports.com/blobs0/6704d5546b135e19484e0fd3/index.m3u8
-#EXTINF:-1, Flemingsberg-Sollentuna
-https://cdn.livearenasports.com/blobs2/6704d2986b135e19484e0fbd/index.m3u8
 #EXTINF:-1, Vallentuna-HuddingeIK
 https://cdn.livearenasports.com/blobs0/6704d7256b135e19484e0fd9/index.m3u8
 #EXTINF:-1, WingsArlanda-Nyköping
 https://cdn.livearenasports.com/blobs1/6704d1a96e0aae1e6b0704f0/index.m3u8
 #EXTINF:-1, GötaTranebergIK-Nacka
 https://cdn.livearenasports.com/blobs1/6704dc966b135e19484e0fe9/index.m3u8
-#EXTINF:-1, HaningeHC-Hammarby
-https://cdn.livearenasports.com/blobs0/6704d8f26b135e19484e0fe0/index.m3u8
 #EXTINF:-1, EskilstunaLinden-Tumba
 https://cdn.livearenasports.com/blobs1/6704d7256b135e19484e0fda/index.m3u8
 #EXTINF:-1, SegeltorpsIF-VärmdöHC
@@ -31,6 +17,12 @@ https://cdn.livearenasports.com/blobs2/6704cfdd6e0aae1e6b0704e7/index.m3u8
 https://cdn.livearenasports.com/blobs1/6704d63f6b135e19484e0fd7/index.m3u8
 #EXTINF:-1, BrinkensIF-Saltsjöbaden
 https://cdn.livearenasports.com/blobs0/6704cfdd6e0aae1e6b0704e6/index.m3u8
+#EXTINF:-1, Rouyn-Noranda-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/74912a918d974f618711fff89968f340.m3u8
+#EXTINF:-1, Québec-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/27cf3e2ebce642179333f5cc27e7d49b.m3u8
+#EXTINF:-1, Gatineau-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/7476b511555f4dbcbe649233a8648db8.m3u8
 #EXTINF:-1, OwenSound-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/153754ddb5d44580a7849e318658e98f.m3u8
 #EXTINF:-1, Oshawa-Windsor
