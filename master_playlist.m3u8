@@ -23,17 +23,29 @@ https://cdn.livearenasports.com/blobs0/6704cfdd6e0aae1e6b0704e7/index.m3u8
 https://cdn.livearenasports.com/blobs0/6704d63f6b135e19484e0fd7/index.m3u8
 #EXTINF:-1, BrinkensIF-Saltsjöbaden
 https://cdn.livearenasports.com/blobs0/6704cfdd6e0aae1e6b0704e6/index.m3u8
-#EXTINF:-1, KalixHC-SunderbySK
-https://cdn.livearenasports.com/blobs0/6704dd7f6e0aae1e6b07054c/index.m3u8
 #EXTINF:-1, IFSundsvall-Njurunda
-https://cdn.livearenasports.com/blobs0/6704e0346b135e19484e0ff2/index.m3u8
+https://cdn.livearenasports.com/blobs1/6704e0346b135e19484e0ff2/index.m3u8
 #EXTINF:-1, EnköpingsSKHK-Tyresö
 https://cdn.livearenasports.com/blobs0/6704d5546b135e19484e0fd3/index.m3u8
 #EXTINF:-1, Flemingsberg-Sollentuna
-https://cdn.livearenasports.com/blobs0/6704d2986b135e19484e0fbd/index.m3u8
+https://cdn.livearenasports.com/blobs2/6704d2986b135e19484e0fbd/index.m3u8
 #EXTINF:-1, Vallentuna-HuddingeIK
 https://cdn.livearenasports.com/blobs0/6704d7256b135e19484e0fd9/index.m3u8
 #EXTINF:-1, WingsArlanda-Nyköping
 https://cdn.livearenasports.com/blobs0/6704d1a96e0aae1e6b0704f0/index.m3u8
 #EXTINF:-1, GötaTranebergIK-Nacka
 https://cdn.livearenasports.com/blobs0/6704dc966b135e19484e0fe9/index.m3u8
+#EXTINF:-1, OwenSound-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/153754ddb5d44580a7849e318658e98f.m3u8
+#EXTINF:-1, Oshawa-Windsor
+https://media-service.fanreachdata.io/edge/ohl/0bbe94afac394a5b88b9e0224cdad41a.m3u8
+#EXTINF:-1, Vancouver-Edmonton
+https://media-service.fanreachdata.io/edge/whl/23b24afafeed4bfcb79688ac3a1c3797.m3u8
+#EXTINF:-1, PrinceGeorge-Calgary
+https://media-service.fanreachdata.io/edge/whl/cde8b9594adf45509a366da27bea6591.m3u8
+#EXTINF:-1, PrinceAlbert-Kelowna
+https://media-service.fanreachdata.io/edge/whl/4e0ed339286e4009ac25e039d4ac4690.m3u8
+#EXTINF:-1, KoPo-EVUTeam2
+https://cdn.livearenasports.com/blobs0/6702198f6e0aae1e6b06fd58/index.m3u8
+#EXTINF:-1, HCLudwig-HCKSalamat
+https://cdn.livearenasports.com/blobs0/67036b0f6e0aae1e6b070099/index.m3u8
