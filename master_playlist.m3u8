@@ -1,42 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Sörhaga/Alingsås-Lerum
-https://cdn.livearenasports.com/blobs0/67061f916e0aae1e6b070831/index.m3u8
-#EXTINF:-1, Rydaholm/Troja-Mörrum
-https://cdn.livearenasports.com/blobs0/67061db66e0aae1e6b070820/index.m3u8
-#EXTINF:-1, IFLejonet-TyringeSoSS
-https://cdn.livearenasports.com/blobs0/670620736b135e19484e1281/index.m3u8
-#EXTINF:-1, KristianstadsIK-Jonstorp
-https://cdn.livearenasports.com/blobs0/67062e1d6b135e19484e12ce/index.m3u8
-#EXTINF:-1, VänersborgsHC-TibroIK
-https://cdn.livearenasports.com/blobs1/67062fe56e0aae1e6b070891/index.m3u8
-#EXTINF:-1, Dalen-Skövde/Tidaholm
-https://cdn.livearenasports.com/blobs0/670632a36b135e19484e12e0/index.m3u8
-#EXTINF:-1, VitaHästen-MjölbyHC
-https://cdn.livearenasports.com/blobs0/670628a76e0aae1e6b070850/index.m3u8
-#EXTINF:-1, LundGiantsHC-Glimma
-https://cdn.livearenasports.com/blobs1/670630d16e0aae1e6b070897/index.m3u8
 #EXTINF:-1, KB65HK-NjurundaSK
 https://cdn.livearenasports.com/blobs0/67061bec6e0aae1e6b0707f4/index.m3u8
-#EXTINF:-1, KovlandsIshF-Kramfors
-https://cdn.livearenasports.com/blobs0/67062a726e0aae1e6b070858/index.m3u8
-#EXTINF:-1, BrunfloIK-SollefteåHK
-https://cdn.livearenasports.com/blobs0/670630d16e0aae1e6b070895/index.m3u8
-#EXTINF:-1, NorrtäljeIK-SegeltorpsIF
-https://cdn.livearenasports.com/blobs1/67061f916e0aae1e6b070832/index.m3u8
-#EXTINF:-1, ViggbyholmsIK-Spånga
-https://cdn.livearenasports.com/blobs0/670627c06b135e19484e129e/index.m3u8
-#EXTINF:-1, FlemingsbergsIK-Linden
-https://cdn.livearenasports.com/blobs0/6706241f6e0aae1e6b070835/index.m3u8
-#EXTINF:-1, GötaTranebergIK-Nacka
-https://cdn.livearenasports.com/blobs0/670633976e0aae1e6b07089b/index.m3u8
 #EXTINF:-1, StrömsbroIF-OckelboHC
 https://cdn.livearenasports.com/blobs0/67062b286e0aae1e6b070868/index.m3u8
 #EXTINF:-1, HammarbyIF-JärfällaHC
 https://cdn.livearenasports.com/blobs2/67061f926b135e19484e127d/index.m3u8
-#EXTINF:-1, MunkedalsBK-LN70HC
-https://cdn.livearenasports.com/blobs2/670622496b135e19484e128f/index.m3u8
-#EXTINF:-1, KungälvsIK-BoråsHC
-https://cdn.livearenasports.com/blobs2/670634676e0aae1e6b07089f/index.m3u8
+#EXTINF:-1, VänersborgsHC-TibroIK
+https://cdn.livearenasports.com/blobs1/67062fe56e0aae1e6b070891/index.m3u8
+#EXTINF:-1, VitaHästen-MjölbyHC
+https://cdn.livearenasports.com/blobs0/670628a76e0aae1e6b070850/index.m3u8
 #EXTINF:-1, PUS-KlaukkalaGepards
 https://cdn.livearenasports.com/blobs1/6704bc8f6e0aae1e6b0704ba/index.m3u8
 #EXTINF:-1, Bordeaux-Chamonix
