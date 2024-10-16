@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KilsAIK-SunneIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67077bf26e0aae1e6b070a26/index.m3u8
-#EXTINF:-1, SpångaISIK-Järfälla
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67077f986e0aae1e6b070a58/index.m3u8
-#EXTINF:-1, SkutskärsSK-GävleGIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670788a06b135e19484e1514/index.m3u8
-#EXTINF:-1, Hille/Åbyggeby-Ockelbo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6707776e6e0aae1e6b070a1a/index.m3u8
-#EXTINF:-1, Linden-Åker/Strängnäs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8f99d2ad3f109382cb8c3/index.m3u8
-#EXTINF:-1, LuleåHF2-Clemensnäs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670782526b135e19484e14c5/index.m3u8
-#EXTINF:-1, SDEHF2-UppsalaHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67077cdf6b135e19484e14ac/index.m3u8
 #EXTINF:-1, SKLejon-PiteåHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670782526b135e19484e14c4/index.m3u8
 #EXTINF:-1, Kovland-Örnsköldsvik
@@ -27,6 +13,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67077cad6b135e19484e1
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670787b96b135e19484e150d/index.m3u8
 #EXTINF:-1, HärrydaHC-HisingensIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670787b96b135e19484e150f/index.m3u8
+#EXTINF:-1, SkutskärsSK-GävleGIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670788a06b135e19484e1514/index.m3u8
+#EXTINF:-1, Hille/Åbyggeby-Ockelbo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6707776e6e0aae1e6b070a1a/index.m3u8
+#EXTINF:-1, Linden-Åker/Strängnäs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8f99d2ad3f109382cb8c3/index.m3u8
 #EXTINF:-1, GrIFKJoukkue-Hunters
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67060e0f6b135e19484e1232/index.m3u8
 #EXTINF:-1, ValpelliceD1-HCPiné
