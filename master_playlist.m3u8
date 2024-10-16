@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1, Rimouski-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/c851c8ffd8da4d21bf4949f99e254d4b.m3u8
+#EXTINF:-1, SaultSte.Marie-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/45f291225e3f4d60af05637aedad1771.m3u8
+#EXTINF:-1, SpokaneChiefs-Brandon
+https://media-service.fanreachdata.io/edge/whl/b5f3cbce9d304a2c803da257861ab886.m3u8
+#EXTINF:-1, RedDeer-CalgaryHitmen
+https://media-service.fanreachdata.io/edge/whl/fd98582dae5b461889e207f8ba6ac14a.m3u8
+#EXTINF:-1, Pr.George-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/f0d8c8a0f6d14b6494de133012b08b00.m3u8
