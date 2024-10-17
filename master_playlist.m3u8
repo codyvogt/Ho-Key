@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LN91-VännäsHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d2e76b135e19484e16fb/index.m3u8
-#EXTINF:-1, Sörhaga/Alingsås-Skara
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708c28f6e0aae1e6b070b8d/index.m3u8
 #EXTINF:-1, TAIF-MightyRavens
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d8526b135e19484e1722/index.m3u8
 #EXTINF:-1, SCBern-Biel-Bienne
