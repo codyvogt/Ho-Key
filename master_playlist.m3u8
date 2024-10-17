@@ -3,5 +3,7 @@
 fluidtv.php?channel=https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, DinamoMn-MetallurgMg
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Panter/Tornaado-Narva
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67063f956b135e19484e130d/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-HIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67075f926e0aae1e6b070988/index.m3u8
+#EXTINF:-1, Uher.Ostroh-Uher.Brod
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c737847959d90e21c27dcc/index.m3u8
