@@ -5,3 +5,31 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, Uher.Ostroh-Uher.Brod
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66c737847959d90e21c27dcc/index.m3u8
+#EXTINF:-1, KarlovyVary-SpartaPraha
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66e81eed69132e7e46656519/index.m3u8
+#EXTINF:-1, K-Vantaa-KJTHaukatAk
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67075f926e0aae1e6b07099a/index.m3u8
+#EXTINF:-1, MoDoHockey-TimråIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d2e76b135e19484e16f8/index.m3u8
+#EXTINF:-1, AlmtunaIS-BrynäsIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d2076b135e19484e16f2/index.m3u8
+#EXTINF:-1, ClemensnäsHC-Boden
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708c7ff6b135e19484e1697/index.m3u8
+#EXTINF:-1, IFSundsvall-ÅngeIK
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6708d4b56e0aae1e6b070bd8/index.m3u8
+#EXTINF:-1, LN91-VännäsHC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d2e76b135e19484e16fb/index.m3u8
+#EXTINF:-1, Sörhaga/Alingsås-Skara
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708c28f6e0aae1e6b070b8d/index.m3u8
+#EXTINF:-1, TAIF-MightyRavens
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d8526b135e19484e1722/index.m3u8
+#EXTINF:-1, EaglesSüdtirol-Lakers
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670cf90d6b135e19484e2153/index.m3u8
+#EXTINF:-1, PitäjänmäenTarmo-NKV
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67075f926e0aae1e6b07097b/index.m3u8
+#EXTINF:-1, ValdifiemmeHC-Fassa
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670cf90e6e0aae1e6b071658/index.m3u8
+#EXTINF:-1, DuellsPHK-Bokasport
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d76a6b135e19484e171b/index.m3u8
+#EXTINF:-1, HerringsHC-Munkedal
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d93a6b135e19484e1728/index.m3u8
