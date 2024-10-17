@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1, SCBern-Biel-Bienne
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, KarlovyVary-SpartaPraha
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66e81eed69132e7e46656519/index.m3u8
-#EXTINF:-1, K-Vantaa-KJTHaukatAk
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67075f926e0aae1e6b07099a/index.m3u8
-#EXTINF:-1, MoDoHockey-TimråIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d2e76b135e19484e16f8/index.m3u8
-#EXTINF:-1, AlmtunaIS-BrynäsIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d2076b135e19484e16f2/index.m3u8
 #EXTINF:-1, ClemensnäsHC-Boden
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708c7ff6b135e19484e1697/index.m3u8
 #EXTINF:-1, IFSundsvall-ÅngeIK
@@ -25,7 +17,5 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67075f926e0aae1e6b07097b/index.m3u8
 #EXTINF:-1, ValdifiemmeHC-Fassa
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/670cf90e6e0aae1e6b071658/index.m3u8
-#EXTINF:-1, DuellsPHK-Bokasport
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d76a6b135e19484e171b/index.m3u8
 #EXTINF:-1, HerringsHC-Munkedal
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d93a6b135e19484e1728/index.m3u8
