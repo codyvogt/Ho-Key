@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, TAIF-MightyRavens
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708d8526b135e19484e1722/index.m3u8
-#EXTINF:-1, SCBern-Biel-Bienne
-fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, EaglesSüdtirol-Lakers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670cf90d6b135e19484e2153/index.m3u8
-#EXTINF:-1, PitäjänmäenTarmo-NKV
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67075f926e0aae1e6b07097b/index.m3u8
 #EXTINF:-1, ValdifiemmeHC-Fassa
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/670cf90e6e0aae1e6b071658/index.m3u8
 #EXTINF:-1, HerringsHC-Munkedal
