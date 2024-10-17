@@ -3,7 +3,5 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, SCBern-Biel-Bienne
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, Kiekko-Espoo-HIFK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67075f926e0aae1e6b070988/index.m3u8
 #EXTINF:-1, Uher.Ostroh-Uher.Brod
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66c737847959d90e21c27dcc/index.m3u8
