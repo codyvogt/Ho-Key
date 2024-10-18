@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Post-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Northeastern-HolyCross
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, FranklinPierce-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Syracuse-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Union-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Chicoutimi-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/c544d789f65c45ccbdbb69fd9224e5c8.m3u8
 #EXTINF:-1, SaintJohn-ABTitan
@@ -55,6 +43,16 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ba71f8c9-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860947c4-b5cb-402a-97c0-09d23b8a7447-hls/master/860947c4-b5cb-402a-97c0-09d23b8a7447-hls.m3u8
 #EXTINF:-1, Northeastern-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls/master/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls.m3u8
+#EXTINF:-1, Northeastern-HolyCross
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, FranklinPierce-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Syracuse-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Union-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, NorthBay-Brantford
 https://media-service.fanreachdata.io/edge/ohl/fef116a3845b410fa5900682fa685807.m3u8
 #EXTINF:-1, Ottawa67's-Brampton
