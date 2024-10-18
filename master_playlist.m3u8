@@ -73,6 +73,8 @@ https://media-service.fanreachdata.io/edge/ohl/399737f5049149a4a2d770581debc545.
 https://media-service.fanreachdata.io/edge/ohl/a99fb7439979473ab64ad7a4323e5155.m3u8
 #EXTINF:-1, Windsor-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/21302162df924db286e09959910379e0.m3u8
+#EXTINF:-1, Muskegon-USNTDPU17
+fluidtv.php?channel=https://d1ddhxcgptksnz.cloudfront.net/f829e3cf4255a33a007557af3a03698c/0_hd_hls.m3u8
 #EXTINF:-1, Seattle-Brandon
 https://media-service.fanreachdata.io/edge/whl/b57d4f66d4de4cea9a83236b5894884a.m3u8
 #EXTINF:-1, PrinceGeorge-Lethbridge
