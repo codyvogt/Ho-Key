@@ -15,10 +15,6 @@ https://media-service.fanreachdata.io/edge/ohl/c13882fae7214952ad15ac64978d5d2c.
 https://media-service.fanreachdata.io/edge/ohl/1648138152a34306a06e6b38b5e9e99b.m3u8
 #EXTINF:-1, BGSU-WesternMichigan
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/02371f05-1417-4460-acb7-1f3c7f30476e-hls/master/02371f05-1417-4460-acb7-1f3c7f30476e-hls.m3u8
-#EXTINF:-1, RobertMorris-Miami
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/07c2fc98-062c-4c50-9f4c-4479a8d9175d-hls/master/07c2fc98-062c-4c50-9f4c-4479a8d9175d-hls.m3u8
-#EXTINF:-1, Post-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Saskatoon-Edmonton
 https://media-service.fanreachdata.io/edge/whl/fda8dadf3ed2482abd21a2fdab72fb90.m3u8
 #EXTINF:-1, Kamloops-Portland
