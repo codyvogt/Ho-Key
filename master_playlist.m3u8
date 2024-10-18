@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1, EHCKloten-ZSCLions
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, Kiekko-EspooCh-FoPS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708b10f6b135e19484e1649/index.m3u8
+#EXTINF:-1, Karhu-Kissat-KOOVEE
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6708b10f6b135e19484e1647/index.m3u8
+#EXTINF:-1, Pardubice-KometaBrno
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f1131ea1fe2c39f40b26b1/index.m3u8
+#EXTINF:-1, RocketsLoimaa-HCE
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e1621/index.m3u8
+#EXTINF:-1, PanelianRaikas-PKW
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e1628/index.m3u8
+#EXTINF:-1, TechnikaBrno-Warriors
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66c745951f3688687f373b8c/index.m3u8
+#EXTINF:-1, HKMDŠumperk-Olomouc
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ff858d7655fb0aed1ed908/index.m3u8
