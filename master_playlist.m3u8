@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, TampereenIlves-KooKoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708b10f6b135e19484e1641/index.m3u8
 #EXTINF:-1, TapparaTampere-Lukko
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e163a/index.m3u8
 #EXTINF:-1, SaiPa-HelsinginJokerit
