@@ -3,3 +3,5 @@
 https://media-service.fanreachdata.io/edge/whl/fda8dadf3ed2482abd21a2fdab72fb90.m3u8
 #EXTINF:-1, Kamloops-Portland
 https://media-service.fanreachdata.io/edge/whl/d58c1a984e144f11986f3224f6e1cfdb.m3u8
+#EXTINF:-1, KalPa-OulunKärpät
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6708b10f6b135e19484e1634/index.m3u8
