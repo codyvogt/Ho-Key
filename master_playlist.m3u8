@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1, EHCKloten-ZSCLions
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, HPK-MikkelinJukurit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e1627/index.m3u8
-#EXTINF:-1, LahdenPelicans-RoKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708b10f6b135e19484e1636/index.m3u8
 #EXTINF:-1, Seinäjoen-Kiekko-JHT
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6708b10e6b135e19484e1616/index.m3u8
-#EXTINF:-1, LeKi-LiikunnanRiemu
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10e6b135e19484e1615/index.m3u8
 #EXTINF:-1, HIFK-TurunPalloseura
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708b10f6e0aae1e6b070b46/index.m3u8
 #EXTINF:-1, KJTHaukatAk-LeKi
@@ -21,3 +15,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6708b10f6b135e19484e1
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e161c/index.m3u8
 #EXTINF:-1, PlayTeam-80-Tavastia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e1622/index.m3u8
+#EXTINF:-1, LahdenPelicans-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708b10f6b135e19484e1636/index.m3u8
