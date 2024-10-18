@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, EHCKloten-ZSCLions
+fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
 #EXTINF:-1, Ässät-VaasanSport
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708b10f6b135e19484e1633/index.m3u8
 #EXTINF:-1, HPK-MikkelinJukurit
