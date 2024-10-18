@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Anglet-Briançon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66ee48519e468a0f77baecfa.m3u8
 #EXTINF:-1, Maine-BostonUniversity
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, Post-Colgate
@@ -61,3 +59,31 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ba71f8c9-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860947c4-b5cb-402a-97c0-09d23b8a7447-hls/master/860947c4-b5cb-402a-97c0-09d23b8a7447-hls.m3u8
 #EXTINF:-1, Northeastern-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls/master/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls.m3u8
+#EXTINF:-1, NorthBay-Brantford
+https://media-service.fanreachdata.io/edge/ohl/fef116a3845b410fa5900682fa685807.m3u8
+#EXTINF:-1, Ottawa67's-Brampton
+https://media-service.fanreachdata.io/edge/ohl/8c8602be433a4d5e967abccd5b177440.m3u8
+#EXTINF:-1, Niagara-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/59baaff15e9b41ea94180d5973505059.m3u8
+#EXTINF:-1, Saginaw-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/8cce399663c14ff287081c044df3c9bf.m3u8
+#EXTINF:-1, Peterborough-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/daa6b541254d4feda97a0ab6807e9b0c.m3u8
+#EXTINF:-1, Sarnia-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/399737f5049149a4a2d770581debc545.m3u8
+#EXTINF:-1, Flint-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/a99fb7439979473ab64ad7a4323e5155.m3u8
+#EXTINF:-1, Windsor-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/21302162df924db286e09959910379e0.m3u8
+#EXTINF:-1, Seattle-Brandon
+https://media-service.fanreachdata.io/edge/whl/b57d4f66d4de4cea9a83236b5894884a.m3u8
+#EXTINF:-1, PrinceGeorge-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/87a93de3633f4cc0bd3789561cd60b9f.m3u8
+#EXTINF:-1, MedicineHat-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/b1d47da7e08a4534a245231d9f3ae795.m3u8
+#EXTINF:-1, Spokane-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/deb1e4b481fa4326996f21768764397a.m3u8
+#EXTINF:-1, Kelowna-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/ef2b101702e740478c6f77ea4730cd28.m3u8
+#EXTINF:-1, PrinceAlbert-Victoria
+https://media-service.fanreachdata.io/edge/whl/37714e38083e43e680491f821f547855.m3u8
