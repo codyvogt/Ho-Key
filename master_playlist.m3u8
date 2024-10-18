@@ -1,15 +1,25 @@
 #EXTM3U
 #EXTINF:-1, EHCKloten-ZSCLions
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, Pardubice-KometaBrno
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f1131ea1fe2c39f40b26b1/index.m3u8
-#EXTINF:-1, RocketsLoimaa-HCE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e1621/index.m3u8
-#EXTINF:-1, PanelianRaikas-PKW
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708b10f6b135e19484e1628/index.m3u8
-#EXTINF:-1, Karhu-Kissat-KOOVEE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6708b10f6b135e19484e1647/index.m3u8
-#EXTINF:-1, TechnikaBrno-Warriors
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66c745951f3688687f373b8c/index.m3u8
-#EXTINF:-1, HKMDŠumperk-Olomouc
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ff858d7655fb0aed1ed908/index.m3u8
+#EXTINF:-1, ÄlvdalensHK-BjörboIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a189b6e0aae1e6b070df2/index.m3u8
+#EXTINF:-1, MälaröHF-KallhällsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670a16c76e0aae1e6b070dea/index.m3u8
+#EXTINF:-1, HedesundaIF-Lindefallet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a11546e0aae1e6b070dda/index.m3u8
+#EXTINF:-1, JärpensIF-IFKStrömsund
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a14f46b135e19484e199b/index.m3u8
+#EXTINF:-1, LionsStrömstad-LN70
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a21af6b135e19484e19f5/index.m3u8
+#EXTINF:-1, RönnängsIK-Uddevalla
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a14126b135e19484e1990/index.m3u8
+#EXTINF:-1, IFKFalköping-Töreboda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670a246c6e0aae1e6b070e2d/index.m3u8
+#EXTINF:-1, Charlottenberg-Filipstad
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a1e0a6e0aae1e6b070e08/index.m3u8
+#EXTINF:-1, SalaHK-NoraHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a10706b135e19484e1962/index.m3u8
+#EXTINF:-1, LerumsBK-PartilleHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a13256b135e19484e1987/index.m3u8
+#EXTINF:-1, IFKÖsteråker-Vallentuna
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a1d296b135e19484e19ba/index.m3u8
