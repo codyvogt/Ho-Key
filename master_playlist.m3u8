@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Seattle-Brandon
-https://media-service.fanreachdata.io/edge/whl/b57d4f66d4de4cea9a83236b5894884a.m3u8
 #EXTINF:-1, PrinceGeorge-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/87a93de3633f4cc0bd3789561cd60b9f.m3u8
 #EXTINF:-1, MedicineHat-MooseJaw
@@ -11,11 +9,5 @@ https://media-service.fanreachdata.io/edge/whl/deb1e4b481fa4326996f21768764397a.
 https://media-service.fanreachdata.io/edge/whl/ef2b101702e740478c6f77ea4730cd28.m3u8
 #EXTINF:-1, PrinceAlbert-Victoria
 https://media-service.fanreachdata.io/edge/whl/37714e38083e43e680491f821f547855.m3u8
-#EXTINF:-1, UND-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, Minnesota-UMD
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ba71f8c9-ed87-4832-ac50-fbcfab7e4f3c-hls/master/ba71f8c9-ed87-4832-ac50-fbcfab7e4f3c-hls.m3u8
-#EXTINF:-1, Augustana-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860947c4-b5cb-402a-97c0-09d23b8a7447-hls/master/860947c4-b5cb-402a-97c0-09d23b8a7447-hls.m3u8
 #EXTINF:-1, Northeastern-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls/master/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls.m3u8
