@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, PrinceGeorge-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/87a93de3633f4cc0bd3789561cd60b9f.m3u8
-#EXTINF:-1, Kelowna-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/ef2b101702e740478c6f77ea4730cd28.m3u8
-#EXTINF:-1, PrinceAlbert-Victoria
-https://media-service.fanreachdata.io/edge/whl/37714e38083e43e680491f821f547855.m3u8
-#EXTINF:-1, Northeastern-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls/master/3cbcfa22-c356-4023-94b7-d87eb1fdd144-hls.m3u8
 #EXTINF:-1, NokiaSables-KaVo
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02916e0aae1e6b070d24/index.m3u8
 #EXTINF:-1, TapparaTampere-HIFK
