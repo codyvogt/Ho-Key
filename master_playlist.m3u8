@@ -1,54 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Val-d'Or-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/a135e08af6a74a059568cecfbd607ac0.m3u8
-#EXTINF:-1, Drummond.-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/5b7c64494eb14ca3931e3c80559104c7.m3u8
-#EXTINF:-1, Gatineau-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/3ac35272503f4aecab624e355d82f4dd.m3u8
 #EXTINF:-1, Baie-Comeau-Blainville
 https://media-service.fanreachdata.io/edge/lhjmq/fdb99b11350c44c08bac9d995abdb7f8.m3u8
-#EXTINF:-1, NorthBay-Brantford
-https://media-service.fanreachdata.io/edge/ohl/fef116a3845b410fa5900682fa685807.m3u8
-#EXTINF:-1, Ottawa67's-Brampton
-https://media-service.fanreachdata.io/edge/ohl/8c8602be433a4d5e967abccd5b177440.m3u8
-#EXTINF:-1, Niagara-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/59baaff15e9b41ea94180d5973505059.m3u8
-#EXTINF:-1, Saginaw-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/8cce399663c14ff287081c044df3c9bf.m3u8
-#EXTINF:-1, Peterborough-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/daa6b541254d4feda97a0ab6807e9b0c.m3u8
 #EXTINF:-1, Sarnia-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/399737f5049149a4a2d770581debc545.m3u8
 #EXTINF:-1, Flint-SaultSte.Marie
 https://media-service.fanreachdata.io/edge/ohl/a99fb7439979473ab64ad7a4323e5155.m3u8
-#EXTINF:-1, Windsor-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/21302162df924db286e09959910379e0.m3u8
-#EXTINF:-1, Muskegon-USNTDPU17
-fluidtv.php?channel=https://d1ddhxcgptksnz.cloudfront.net/f829e3cf4255a33a007557af3a03698c/0_hd_hls.m3u8
-#EXTINF:-1, Connecticut-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, UNH-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, AmericanInt'l-BostonC
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, ArizonaState-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Niagara-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, FerrisState-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Mercyhurst-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, SHU-Massachusetts
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, USNTDPU18-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Stonehill-LakeSuperior
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
-#EXTINF:-1, UAA-NorthernMichigan
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
 #EXTINF:-1, Colgate-UMassLowell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, UND-MinnesotaState
