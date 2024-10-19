@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1, GladiatorsHT-Urho
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02926e0aae1e6b070d42/index.m3u8
-#EXTINF:-1, Pelikaanit-WarkisVarkaus
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02926e0aae1e6b070d4c/index.m3u8
-#EXTINF:-1, PyryTeam-Hokkarit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02916e0aae1e6b070d0e/index.m3u8
-#EXTINF:-1, LaserHTOulu-KeKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670a02926b135e19484e18a0/index.m3u8
