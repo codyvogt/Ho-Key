@@ -1,12 +1,22 @@
 #EXTM3U
 #EXTINF:-1, Caen-Morzine-Avoriaz
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ef99d19e468a0f77baf007/index.m3u8
-#EXTINF:-1, Valance-Montpellier
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ef99d1a1fe2c39f40b22ab/index.m3u8
 #EXTINF:-1, Maine-BostonUniversity
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, Syracuse-Quinnipiac
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, BostonCollege-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Post-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, HolyCross-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Connecticut-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Union-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, St.Anselm-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, HYC-BeaufortKnights
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67025fb286192e4cda5fc6de/index.m3u8
 #EXTINF:-1, Val-d'Or-Rimouski
@@ -29,3 +39,7 @@ https://media-service.fanreachdata.io/edge/ohl/c6323de45c0a4a4d943f810dc4f866d9.
 https://media-service.fanreachdata.io/edge/ohl/761c3f0996d3408c9240c7c9f3a37550.m3u8
 #EXTINF:-1, ArizonaState-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Niagara-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Mercyhurst-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
