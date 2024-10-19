@@ -1,24 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Val-d'Or-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/579f998b708e44e49f0f42dc28aa5cf3.m3u8
-#EXTINF:-1, RNHuskies-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/8f90354cc70041529c24650b111066bd.m3u8
 #EXTINF:-1, CapeBreton-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/12e1000945814eab8a709e09b9d1a4a4.m3u8
 #EXTINF:-1, Chicoutimi-Charlottetown
 https://media-service.fanreachdata.io/edge/lhjmq/ce71a964cc98472c8868c4caa4eac2f4.m3u8
-#EXTINF:-1, Saginaw-Brampton
-https://media-service.fanreachdata.io/edge/ohl/36c318929b294108bcc3a29257b83bc7.m3u8
-#EXTINF:-1, Kitchener-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/b55c45e8d86f499aa19c8ae83e205202.m3u8
-#EXTINF:-1, Kingston-Brantford
-https://media-service.fanreachdata.io/edge/ohl/e29c05d5801945ada107c9e005853bc1.m3u8
-#EXTINF:-1, Erie-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/c6323de45c0a4a4d943f810dc4f866d9.m3u8
-#EXTINF:-1, Windsor-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/761c3f0996d3408c9240c7c9f3a37550.m3u8
-#EXTINF:-1, ArizonaState-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Niagara-Rensselaer
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Mercyhurst-Union
@@ -59,6 +45,12 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvar
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, St.Anselm-Yale
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Kingston-Brantford
+https://media-service.fanreachdata.io/edge/ohl/e29c05d5801945ada107c9e005853bc1.m3u8
+#EXTINF:-1, Erie-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/c6323de45c0a4a4d943f810dc4f866d9.m3u8
+#EXTINF:-1, Windsor-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/761c3f0996d3408c9240c7c9f3a37550.m3u8
 #EXTINF:-1, Lethbridge-Calgary
 https://media-service.fanreachdata.io/edge/whl/8d9776b36409428390ed27d6ce929e98.m3u8
 #EXTINF:-1, Seattle-ReginaPats
