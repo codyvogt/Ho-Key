@@ -5,20 +5,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf9116b135e19484e2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670cf9126b135e19484e215b/index.m3u8
 #EXTINF:-1, ValpelliceBulldogs-Eppan
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670cf9136e0aae1e6b07165e/index.m3u8
-#EXTINF:-1, PiranhasKotka-HCGiants
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02926e0aae1e6b070d5c/index.m3u8
-#EXTINF:-1, EVUTeam-Karhu-Kissat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670a02926b135e19484e189b/index.m3u8
-#EXTINF:-1, Montpellier-HC74
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ef99d0a1fe2c39f40b22a1/index.m3u8
-#EXTINF:-1, St.Lawrence-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Maine-BostonUniversity
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, Syracuse-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, K-EspooEKS-IceTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670a02926b135e19484e189f/index.m3u8
 #EXTINF:-1, IserlohnerEC-Regensburg
 fluidtv.php?channel=https://content.aisportswatch.com/459213/master.m3u8
 #EXTINF:-1, PievediCadore-Padova
@@ -35,12 +21,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ef99d09e468a0f77bae
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ef99d1a1fe2c39f40b22a7/index.m3u8
 #EXTINF:-1, Valance-Montpellier
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ef99d1a1fe2c39f40b22ab/index.m3u8
-#EXTINF:-1, KirunaIF-VännäsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b77b66b135e19484e1d91/index.m3u8
-#EXTINF:-1, EVU-PorvoonHunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02926b135e19484e1883/index.m3u8
-#EXTINF:-1, HCGrizzlyz-HCEverest
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f3d1e889f7b22b217b6a61/index.m3u8
 #EXTINF:-1, Tours-Neuilly-sur-Marne
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ef99d19e468a0f77baf00b/index.m3u8
 #EXTINF:-1, Chambéry-Meudon
@@ -55,6 +35,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ef99d19e468a0f77baf
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67025fa86b135e19484e0b9e/index.m3u8
 #EXTINF:-1, Herenveen-Diez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67025fa76b135e19484e0b9c/index.m3u8
+#EXTINF:-1, St.Lawrence-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Maine-BostonUniversity
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Syracuse-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Grenoble-AiglesdeNice
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66ef99d29e468a0f77baf00f.m3u8
 #EXTINF:-1, PilsenWolves-Domažlice
