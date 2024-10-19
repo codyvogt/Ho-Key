@@ -3,3 +3,19 @@
 fluidtv.php?channel=https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, DinamoMn-Neftekhimik
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Kiekko-Espoo-SaiPa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670a02926b135e19484e18c0/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670a02926b135e19484e18b1/index.m3u8
+#EXTINF:-1, JYP-VaasanSport
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02926e0aae1e6b070d9e/index.m3u8
+#EXTINF:-1, HelsinginJokerit-Jukurit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02926b135e19484e18c7/index.m3u8
+#EXTINF:-1, LahdenPelicans-Kärpät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a02926e0aae1e6b070daa/index.m3u8
+#EXTINF:-1, Pardubice-DuklaJihlava
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f121349e468a0f77baf4f6/index.m3u8
+#EXTINF:-1, KarlovyVary-SlaviaPraha
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66e027de3453a55a1f560633/index.m3u8
+#EXTINF:-1, HCLitvínov-SpartaPraha
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cecc1ed3d999504733cca4/index.m3u8
