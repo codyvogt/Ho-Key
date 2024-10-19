@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Niagara-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Mercyhurst-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, CapeBreton-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/12e1000945814eab8a709e09b9d1a4a4.m3u8
+#EXTINF:-1, Chicoutimi-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/ce71a964cc98472c8868c4caa4eac2f4.m3u8
 #EXTINF:-1, York-WesternMichigan
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7c66bec0-cbb6-41c9-837d-5a70261aaad0-hls/master/7c66bec0-cbb6-41c9-837d-5a70261aaad0-hls.m3u8
 #EXTINF:-1, Colgate-UMassLowell
@@ -29,10 +29,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermon
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c128fe9d-f583-4dda-83e0-674954b67779-hls/master/c128fe9d-f583-4dda-83e0-674954b67779-hls.m3u8
 #EXTINF:-1, Augustana-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls/master/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls.m3u8
-#EXTINF:-1, CapeBreton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/12e1000945814eab8a709e09b9d1a4a4.m3u8
-#EXTINF:-1, Chicoutimi-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/ce71a964cc98472c8868c4caa4eac2f4.m3u8
 #EXTINF:-1, BostonCollege-Merrimack
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Connecticut-Harvard
