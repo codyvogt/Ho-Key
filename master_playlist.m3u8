@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Eaters-Heerenveen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6703b1266b135e19484e0e4c/index.m3u8
+#EXTINF:-1, HYC-LeuvenChiefs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6703b1276b135e19484e0e4e/index.m3u8
