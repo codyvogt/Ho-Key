@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Troja-Ljungby-Järnbrott
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc5966b135e19484e201c/index.m3u8
-#EXTINF:-1, IFMalmö-RödovreSoIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cccd66e0aae1e6b0715b3/index.m3u8
-#EXTINF:-1, RögleBK-KarlskronaHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cccd66e0aae1e6b0715a9/index.m3u8
 #EXTINF:-1, FPS-Raahe-Kiekko
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b54116b135e19484e1ac3/index.m3u8
 #EXTINF:-1, Peli-PojatHC-Haukat
