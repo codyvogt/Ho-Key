@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, CapeBreton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/12e1000945814eab8a709e09b9d1a4a4.m3u8
-#EXTINF:-1, Chicoutimi-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/ce71a964cc98472c8868c4caa4eac2f4.m3u8
-#EXTINF:-1, Colgate-UMassLowell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, Stonehill-LakeSuperior
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
 #EXTINF:-1, FerrisState-St.Lawrence
