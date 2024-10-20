@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Quinnipiac-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Northeastern-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c128fe9d-f583-4dda-83e0-674954b67779-hls/master/c128fe9d-f583-4dda-83e0-674954b67779-hls.m3u8
-#EXTINF:-1, Augustana-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls/master/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls.m3u8
 #EXTINF:-1, Lethbridge-Calgary
 https://media-service.fanreachdata.io/edge/whl/8d9776b36409428390ed27d6ce929e98.m3u8
 #EXTINF:-1, Seattle-ReginaPats
@@ -21,3 +15,7 @@ https://media-service.fanreachdata.io/edge/whl/b87e30871e354d93bd6eaa93337a64ac.
 https://media-service.fanreachdata.io/edge/whl/e1375729b8914bb185956a59e0617c9e.m3u8
 #EXTINF:-1, PrinceAlbert-Vancouver
 https://media-service.fanreachdata.io/edge/whl/d56398323eba469f844f57576d35badb.m3u8
+#EXTINF:-1, Northeastern-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c128fe9d-f583-4dda-83e0-674954b67779-hls/master/c128fe9d-f583-4dda-83e0-674954b67779-hls.m3u8
+#EXTINF:-1, Augustana-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls/master/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls.m3u8
