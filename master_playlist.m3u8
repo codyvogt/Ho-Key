@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Pergine-HockeyComo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670cf91f6b135e19484e2171/index.m3u8
-#EXTINF:-1, Trento-Merano/Bolzano
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf9206b135e19484e2173/index.m3u8
-#EXTINF:-1, Juniorteams-Pustertal
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670cf9216e0aae1e6b07166e/index.m3u8
-#EXTINF:-1, GepardiJablonec-Turnov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66c737831f3688687f3739f7/index.m3u8
