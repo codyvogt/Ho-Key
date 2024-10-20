@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1, TegsSK-ÖstersundsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc2de6e0aae1e6b07152e/index.m3u8
-#EXTINF:-1, KalixHC-VännäsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc6876e0aae1e6b071551/index.m3u8
-#EXTINF:-1, KirunaIF-Clemensnäs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc93a6b135e19484e2067/index.m3u8
-#EXTINF:-1, HIFKGH-PaRa/Lukko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b54126b135e19484e1b6a/index.m3u8
-#EXTINF:-1, TPSAkatemia-Pelicans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b54126b135e19484e1b89/index.m3u8
 #EXTINF:-1, Roudnice-KarlovyVaryB
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d9743db66dd366d45445c3/index.m3u8
