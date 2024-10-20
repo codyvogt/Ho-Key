@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, HYC-LeuvenChiefs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6703b1276b135e19484e0e4e/index.m3u8
 #EXTINF:-1, Moncton-CapeBreton
 https://media-service.fanreachdata.io/edge/lhjmq/1620b9d639c74120a107eac7f29870b6.m3u8
-#EXTINF:-1, Charlottetown-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/3bd905ede5a64e4ba74296beb86b5a45.m3u8
 #EXTINF:-1, ABTitan-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/13b226132ee94e0ba6ade1537de1377a.m3u8
 #EXTINF:-1, Val-d'Or-Rimouski
