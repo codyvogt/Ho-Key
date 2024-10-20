@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1, Roudnice-KarlovyVaryB
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d9743db66dd366d45445c3/index.m3u8
+#EXTINF:-1, FärjestadBK-Västerås
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670cc93a6b135e19484e2069/index.m3u8
+#EXTINF:-1, Linköping-VäxjöLakers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670ccdc16b135e19484e20b0/index.m3u8
+#EXTINF:-1, RögleBK-FrölundaHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cccd66e0aae1e6b0715c1/index.m3u8
+#EXTINF:-1, ÖrebroHK-SödertäljeSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc7666b135e19484e2052/index.m3u8
+#EXTINF:-1, Zoldo/Padova-Valpellice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf9186b135e19484e2165/index.m3u8
+#EXTINF:-1, Eppan-HCBFoxesAc.
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf91c6b135e19484e216b/index.m3u8
+#EXTINF:-1, Brixen/Wipptal-Asiago
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf91d6e0aae1e6b07166a/index.m3u8
+#EXTINF:-1, Pergine-HockeyComo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf91f6b135e19484e2171/index.m3u8
+#EXTINF:-1, Trento-Merano/Bolzano
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf9206b135e19484e2173/index.m3u8
+#EXTINF:-1, Juniorteams-Pustertal
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cf9216e0aae1e6b07166e/index.m3u8
