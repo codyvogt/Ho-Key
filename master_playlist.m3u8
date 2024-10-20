@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1, PorvoonHunters-Virkiä
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b54116b135e19484e1ac5/index.m3u8
-#EXTINF:-1, FPS-Raahe-Kiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b54116b135e19484e1ac3/index.m3u8
-#EXTINF:-1, Peli-PojatHC-Haukat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b54116e0aae1e6b070f2b/index.m3u8
-#EXTINF:-1, HCPanter-ViruSputnik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f3d238f00aa04a478367e6/index.m3u8
-#EXTINF:-1, Ducsd'Angers2-Chloet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66ef99d0a1fe2c39f40b229f.m3u8
 #EXTINF:-1, Troja-Ljungby-Järnbrott
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc5966b135e19484e201c/index.m3u8
 #EXTINF:-1, IFMalmö-RödovreSoIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cccd66e0aae1e6b0715b3/index.m3u8
 #EXTINF:-1, RögleBK-KarlskronaHK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cccd66e0aae1e6b0715a9/index.m3u8
+#EXTINF:-1, FPS-Raahe-Kiekko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b54116b135e19484e1ac3/index.m3u8
+#EXTINF:-1, Peli-PojatHC-Haukat
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b54116e0aae1e6b070f2b/index.m3u8
 #EXTINF:-1, Vojens-GladsaxeBears
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd905de6affb23b065aa1e/index.m3u8
 #EXTINF:-1, Eppan-HCBFoxesAc.
