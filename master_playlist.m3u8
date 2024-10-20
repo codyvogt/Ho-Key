@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Northeastern-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c128fe9d-f583-4dda-83e0-674954b67779-hls/master/c128fe9d-f583-4dda-83e0-674954b67779-hls.m3u8
 #EXTINF:-1, Wenatchee-Kamloops
 https://media-service.fanreachdata.io/edge/whl/fbcfeaec70cc44d28a9655e9fbc01c0c.m3u8
 #EXTINF:-1, EverettSilvertips-Portland
