@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ABTitan-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/13b226132ee94e0ba6ade1537de1377a.m3u8
 #EXTINF:-1, Val-d'Or-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/57178a40e72b4246abf106b6a0a0d29a.m3u8
 #EXTINF:-1, Rouyn-Noranda-Gatineau
@@ -11,11 +9,13 @@ https://media-service.fanreachdata.io/edge/lhjmq/da6001264779448788e91d60d5053ad
 https://media-service.fanreachdata.io/edge/lhjmq/9b83b9f5c8664abca63ca26c7c988846.m3u8
 #EXTINF:-1, Baie-Comeau-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/1c30c1de71fb477fa6fe1db978cec648.m3u8
-#EXTINF:-1, Sudbury-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/f9baffa46a854e4491f440614a9005f0.m3u8
-#EXTINF:-1, Sarnia-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/6d74ea1cd73f41e4a229dbd136b9de89.m3u8
 #EXTINF:-1, Guelph-KitchenerRangers
 https://media-service.fanreachdata.io/edge/ohl/8ffd14d268094435a517cab4a54df7f5.m3u8
 #EXTINF:-1, SaginawSpirit-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/894de9b26cc14676bbba00980b35d548.m3u8
+#EXTINF:-1, Edmonton-RedDeer
+https://media-service.fanreachdata.io/edge/whl/647f45d77b9748108ce9ee9ac3e1f8b0.m3u8
+#EXTINF:-1, Vancouver-Wenatchee
+https://media-service.fanreachdata.io/edge/whl/8e3ebb649a2d4b5cafdffe935e5e2fa0.m3u8
+#EXTINF:-1, Portland-Tri-City
+https://media-service.fanreachdata.io/edge/whl/e1a4c24003e24644952ae530a141a2ed.m3u8
