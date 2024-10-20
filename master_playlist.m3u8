@@ -1,5 +1,33 @@
 #EXTM3U
-#EXTINF:-1, Eaters-Heerenveen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6703b1266b135e19484e0e4c/index.m3u8
 #EXTINF:-1, HYC-LeuvenChiefs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6703b1276b135e19484e0e4e/index.m3u8
+#EXTINF:-1, Moncton-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/1620b9d639c74120a107eac7f29870b6.m3u8
+#EXTINF:-1, Charlottetown-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/3bd905ede5a64e4ba74296beb86b5a45.m3u8
+#EXTINF:-1, ABTitan-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/13b226132ee94e0ba6ade1537de1377a.m3u8
+#EXTINF:-1, Val-d'Or-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/57178a40e72b4246abf106b6a0a0d29a.m3u8
+#EXTINF:-1, Rouyn-Noranda-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/d9d3bdfa6a2b47a6b5cd4af90652f4ca.m3u8
+#EXTINF:-1, Québec-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/da6001264779448788e91d60d5053ade.m3u8
+#EXTINF:-1, Shawinigan-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/9b83b9f5c8664abca63ca26c7c988846.m3u8
+#EXTINF:-1, Baie-Comeau-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/1c30c1de71fb477fa6fe1db978cec648.m3u8
+#EXTINF:-1, Barrie-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/5503164248da448f84b4d0799c31b555.m3u8
+#EXTINF:-1, Sudbury-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/f9baffa46a854e4491f440614a9005f0.m3u8
+#EXTINF:-1, Kingston-Niagara
+https://media-service.fanreachdata.io/edge/ohl/de567b4732544f3b800653acdf91907f.m3u8
+#EXTINF:-1, Erie-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/d6d640f578fe49f9b24ee86937ba3da3.m3u8
+#EXTINF:-1, Sarnia-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/6d74ea1cd73f41e4a229dbd136b9de89.m3u8
+#EXTINF:-1, Guelph-KitchenerRangers
+https://media-service.fanreachdata.io/edge/ohl/8ffd14d268094435a517cab4a54df7f5.m3u8
+#EXTINF:-1, SaginawSpirit-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/894de9b26cc14676bbba00980b35d548.m3u8
