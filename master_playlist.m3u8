@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Stonehill-LakeSuperior
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
+#EXTINF:-1, Kingston-Brantford
+https://media-service.fanreachdata.io/edge/ohl/e29c05d5801945ada107c9e005853bc1.m3u8
+#EXTINF:-1, Erie-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/c6323de45c0a4a4d943f810dc4f866d9.m3u8
+#EXTINF:-1, Windsor-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/761c3f0996d3408c9240c7c9f3a37550.m3u8
+#EXTINF:-1, Muskegon-USNTDPU17
+fluidtv.php?channel=https://dtsv1ui6p6h6y.cloudfront.net/0672daa9aae97159c23f05c7e5ad9392/0_hd_hls.m3u8
 #EXTINF:-1, FerrisState-St.Lawrence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, USNTDPU18-BostonC
@@ -19,14 +25,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermon
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c128fe9d-f583-4dda-83e0-674954b67779-hls/master/c128fe9d-f583-4dda-83e0-674954b67779-hls.m3u8
 #EXTINF:-1, Augustana-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls/master/f1b107f3-89bf-48d4-8471-64a8d1a8fd66-hls.m3u8
-#EXTINF:-1, Kingston-Brantford
-https://media-service.fanreachdata.io/edge/ohl/e29c05d5801945ada107c9e005853bc1.m3u8
-#EXTINF:-1, Erie-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/c6323de45c0a4a4d943f810dc4f866d9.m3u8
-#EXTINF:-1, Windsor-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/761c3f0996d3408c9240c7c9f3a37550.m3u8
-#EXTINF:-1, Muskegon-USNTDPU17
-fluidtv.php?channel=https://dtsv1ui6p6h6y.cloudfront.net/0672daa9aae97159c23f05c7e5ad9392/0_hd_hls.m3u8
 #EXTINF:-1, Lethbridge-Calgary
 https://media-service.fanreachdata.io/edge/whl/8d9776b36409428390ed27d6ce929e98.m3u8
 #EXTINF:-1, Seattle-ReginaPats
