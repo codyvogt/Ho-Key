@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Wenatchee-Kamloops
-https://media-service.fanreachdata.io/edge/whl/fbcfeaec70cc44d28a9655e9fbc01c0c.m3u8
 #EXTINF:-1, EverettSilvertips-Portland
 https://media-service.fanreachdata.io/edge/whl/e74217ad968145288d2ca0e65e99f414.m3u8
-#EXTINF:-1, Saskatoon-RedDeer
-https://media-service.fanreachdata.io/edge/whl/1ab3849c5d5345728a4157de210fa0f0.m3u8
-#EXTINF:-1, MooseJaw-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/b87e30871e354d93bd6eaa93337a64ac.m3u8
-#EXTINF:-1, KelownaRockets-Tri-City
-https://media-service.fanreachdata.io/edge/whl/e1375729b8914bb185956a59e0617c9e.m3u8
 #EXTINF:-1, PrinceAlbert-Vancouver
 https://media-service.fanreachdata.io/edge/whl/d56398323eba469f844f57576d35badb.m3u8
+#EXTINF:-1, Visby/RomaHK-Järfälla
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc2de6e0aae1e6b07151e/index.m3u8
+#EXTINF:-1, TampereenIlves-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b54126b135e19484e1b3b/index.m3u8
