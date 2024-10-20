@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Linköping-VäxjöLakers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670ccdc16b135e19484e20b0/index.m3u8
-#EXTINF:-1, RögleBK-FrölundaHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cccd66e0aae1e6b0715c1/index.m3u8
 #EXTINF:-1, ÖrebroHK-SödertäljeSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cc7666b135e19484e2052/index.m3u8
-#EXTINF:-1, TechnikaBrno-Poruba
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c745951f3688687f373b90/index.m3u8
-#EXTINF:-1, Tábor-PirátiChomutov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66efb38da1fe2c39f40b24a9/index.m3u8
+#EXTINF:-1, AalborgII-Hvidovre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd905ee6affb23b065aa22/index.m3u8
+#EXTINF:-1, Frederikshavn-RødovreII
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd905de6affb23b065aa20/index.m3u8
+#EXTINF:-1, OdenseII-GentofteStars
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd905ce6affb23b065aa1c/index.m3u8
+#EXTINF:-1, Vojens-GladsaxeBears
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd905de6affb23b065aa1e/index.m3u8
+#EXTINF:-1, HKOpava-HCBoskovice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670d250e6b135e19484e221f/index.m3u8
+#EXTINF:-1, LevBenešov-HCSlavoj
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6704cb8e6b135e19484e0f7d/index.m3u8
