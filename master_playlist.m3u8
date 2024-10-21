@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-Barys
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, JärnaSK-IFKTumbaIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f7af5f2ad3f109382cb5a3/index.m3u8
 #EXTINF:-1, VäsbyIKHK-SpångaIS
