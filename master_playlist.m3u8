@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Meudon-Rouen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6717eda9ad24ad0a910508fe/index.m3u8
-#EXTINF:-1, Évry-Viry-Cergy-Pontoise
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6717ede0ad24ad0a91050900/index.m3u8
 #EXTINF:-1, Villard-de-Lans-Nice
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67078d0d6b135e19484e1537/index.m3u8
 #EXTINF:-1, St.Anselm-Yale
