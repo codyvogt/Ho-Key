@@ -20,9 +20,9 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f71a76b135e19484e2
 #EXTINF:-1, OrsaIK-GrumsIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f640a6e0aae1e6b071a33/index.m3u8
 #EXTINF:-1, HelsingborgHC-BoråsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f5af46b135e19484e250b/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670f5af46b135e19484e250b/index.m3u8
 #EXTINF:-1, TingsrydsAIF-Olofström
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f6fd66e0aae1e6b071ab5/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670f6fd66e0aae1e6b071ab5/index.m3u8
 #EXTINF:-1, KalixHC-BodensHF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f69886e0aae1e6b071a81/index.m3u8
 #EXTINF:-1, SunderbySK-Clemensnäs
@@ -47,6 +47,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670f65e16e0aae1e6b071
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f69886b135e19484e2543/index.m3u8
 #EXTINF:-1, TierpsHK-SegeltorpsIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f67ac6e0aae1e6b071a66/index.m3u8
+#EXTINF:-1, HaningeAnchors-SKIron
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f64f56e0aae1e6b071a3a/index.m3u8
 #EXTINF:-1, Viggbyholm-Linden
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f606b6b135e19484e2523/index.m3u8
 #EXTINF:-1, NorrtäljeIK-NackaHK
@@ -78,7 +80,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f56716e0aae1e6b071
 #EXTINF:-1, SkaraIK-TörebodaHF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f59256b135e19484e2503/index.m3u8
 #EXTINF:-1, MälaröHF-BålstaHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f5cca6b135e19484e2515/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670f5cca6b135e19484e2515/index.m3u8
 #EXTINF:-1, Vallentuna-Ormsta-Kista
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f63286e0aae1e6b071a28/index.m3u8
 #EXTINF:-1, TrollhättansHC-Rönnäng
