@@ -99,10 +99,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671769c5de786e495cf9d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f6a666e0aae1e6b071a91/index.m3u8
 #EXTINF:-1, HvidovreIK-IFMalmö
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67176a08ad24ad0a91050861/index.m3u8
-#EXTINF:-1, IFKSalem-FlensFlames
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f5bdb6b135e19484e250d/index.m3u8
-#EXTINF:-1, NyköpingsAIK-Huddinge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f57566b135e19484e24d3/index.m3u8
+#EXTINF:-1, Dunkerque-Valenciennes
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6717ea87ad24ad0a910508fa/index.m3u8
+#EXTINF:-1, Nantes-DogsdeCholet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6717eafac005f52f9c0324bd/index.m3u8
+#EXTINF:-1, RempartsdeTours-Anglet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6717e9e5de786e495cf9d1cb/index.m3u8
 #EXTINF:-1, RapacesdeGap-Briançon
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6703ecee6e0aae1e6b070413.m3u8
 #EXTINF:-1, Chamonix-Grenoble
@@ -119,5 +121,9 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67068fed6e0aae1e6b070
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67078d0d6b135e19484e1535/index.m3u8
 #EXTINF:-1, Villard-de-Lans-Nice
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67078d0d6b135e19484e1537/index.m3u8
+#EXTINF:-1, IFKSalem-FlensFlames
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f5bdb6b135e19484e250d/index.m3u8
+#EXTINF:-1, NyköpingsAIK-Huddinge
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670f57566b135e19484e24d3/index.m3u8
 #EXTINF:-1, K-Kissat-GrIFKJoukkue
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670df70e6b135e19484e22a0/index.m3u8
