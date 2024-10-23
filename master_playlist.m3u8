@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, AvangardOmsk-Traktor
-fluidtv.php?channel=https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Flint-SarniaSting
 https://media-service.fanreachdata.io/edge/ohl/24d850c47d0b4b7fa3b3e763df39847d.m3u8
