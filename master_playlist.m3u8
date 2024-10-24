@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1, HC74-RapacesdeGap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f4dfd089f7b22b217b6b78.m3u8
 #EXTINF:-1, Ducsd'Angers-Caen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66f6314f3bd78e5d711b4620.m3u8
 #EXTINF:-1, Amiens-Cergy-Pontoise
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66fbaf8e0681e21af84b0f6f.m3u8
 #EXTINF:-1, Strasbourg-Grenoble
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f6314f2ad3f109382cb0c8/index.m3u8
-#EXTINF:-1, LenhovdaIF-HCHawks
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711fc286b135e19484e296c/index.m3u8
 #EXTINF:-1, ÖsteråkerVikings-Solna
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671206276e0aae1e6b071e51/index.m3u8
-#EXTINF:-1, RydaholmsSK-Mörrum
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67061db66e0aae1e6b070820/index.m3u8
-#EXTINF:-1, Ml.BoleslavB-Žabonosy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f3a815f00aa04a4783671b/index.m3u8
 #EXTINF:-1, EppanAppiano-Fassa
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358090eeba7bde92cf9f/index.m3u8
 #EXTINF:-1, HCAosta-HCMVVarese
