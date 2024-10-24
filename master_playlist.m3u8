@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, TampereenIlves-JYP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67109a0f6e0aae1e6b071be1/index.m3u8
-#EXTINF:-1, ChiefsTurku-RNKHoci
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67109a0f6e0aae1e6b071bcd/index.m3u8
+#EXTINF:-1, LiikunnanRiemu-Pyry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67109a0f6e0aae1e6b071bb8/index.m3u8
 #EXTINF:-1, Hokkarit-Upplakers
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67109a0f6e0aae1e6b071bbf/index.m3u8
 #EXTINF:-1, Kuparikiekko-LaJy
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67109a0f6e0aae1e6b071bd9/index.m3u8
-#EXTINF:-1, LiikunnanRiemu-Pyry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67109a0f6e0aae1e6b071bb8/index.m3u8
 #EXTINF:-1, HC74-RapacesdeGap
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f4dfd089f7b22b217b6b78.m3u8
 #EXTINF:-1, Ducsd'Angers-Caen
@@ -16,7 +12,7 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0
 #EXTINF:-1, Amiens-Cergy-Pontoise
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66fbaf8e0681e21af84b0f6f.m3u8
 #EXTINF:-1, Strasbourg-Grenoble
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f6314f2ad3f109382cb0c8/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f6314f2ad3f109382cb0c8/index.m3u8
 #EXTINF:-1, LenhovdaIF-HCHawks
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711fc286b135e19484e296c/index.m3u8
 #EXTINF:-1, ÖsteråkerVikings-Solna
@@ -30,12 +26,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358090eeba7bde92c
 #EXTINF:-1, HCAosta-HCMVVarese
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358190eeba7bde92cfa1/index.m3u8
 #EXTINF:-1, Bressanone-Kaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163582d24da32d7de6738b/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163582d24da32d7de6738b/index.m3u8
 #EXTINF:-1, HCFeltre-Alleghe
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358390eeba7bde92cfa3/index.m3u8
 #EXTINF:-1, Valdifiemme-Pergine
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163583d24da32d7de6738d/index.m3u8
 #EXTINF:-1, HässelbyKälvesta-Boo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6712027f6e0aae1e6b071e33/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6712027f6e0aae1e6b071e33/index.m3u8
 #EXTINF:-1, TavastiaPharmi-Tiikerit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67109a0f6e0aae1e6b071bca/index.m3u8
