@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Manitoba-BC
-https://media-service.fanreachdata.io/edge/whl/4b5efebdcb0e47ac95860099324c18fc.m3u8
-#EXTINF:-1, Saskatchewan-Alberta
-https://media-service.fanreachdata.io/edge/whl/50a43d9f120e49a781ac7724f19e9995.m3u8
 #EXTINF:-1, Charlottetown-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/5b04eac8b71f4dae83b2805223871e3a.m3u8
 #EXTINF:-1, Saginaw-SaultSte.Marie
@@ -15,3 +11,5 @@ https://media-service.fanreachdata.io/edge/whl/00c9f815a675479ba5549636e43de3fb.
 https://media-service.fanreachdata.io/edge/whl/9cf7d35fa6d54172a06660f30b728218.m3u8
 #EXTINF:-1, WenatcheeWild-Everett
 https://media-service.fanreachdata.io/edge/whl/bb8074602b6346babe1f1c7819fca0ae.m3u8
+#EXTINF:-1, Saskatchewan-Alberta
+https://media-service.fanreachdata.io/edge/whl/50a43d9f120e49a781ac7724f19e9995.m3u8
