@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, OulunKärpät-SaiPa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67109a0f6e0aae1e6b071be5/index.m3u8
+#EXTINF:-1, TampereenIlves-JYP
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67109a0f6e0aae1e6b071be1/index.m3u8
