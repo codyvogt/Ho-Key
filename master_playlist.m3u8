@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-Vityaz
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HCDavos-HCLugano
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, BeraniZlín-KarlovyVary
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67052e056b135e19484e115f/index.m3u8
-#EXTINF:-1, Ústín.L.-KarlovyVaryB
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f280bda1fe2c39f40b28f8/index.m3u8
-#EXTINF:-1, BKNováPaka-Vrchlabí
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa69be0681e21af84b0e2c/index.m3u8
-#EXTINF:-1, BaníkHodonín-Znojmo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67051fee6e0aae1e6b0706dd/index.m3u8
