@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, LadaTogliatti-Traktor
+fluidtv.php?channel=https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1, LokomotivYaroslavl-Amur
+fluidtv.php?channel=https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, DinamoMinsk-Vityaz
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, LatviaU18-Latvia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67178718ad24ad0a9105087f/index.m3u8
 #EXTINF:-1, LahdenPelicans-TPS
