@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Mechelen-EHCNeuwied
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a48aa6b135e19484e1a54/index.m3u8
-#EXTINF:-1, Harvard-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Princeton-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Northeastern-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Vermont-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Maine-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Lindenwood-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Charleroi-LeuvenBlack
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670a48b16e0aae1e6b070e97/index.m3u8
 #EXTINF:-1, BritishColumbia-Alberta
@@ -35,6 +21,18 @@ https://media-service.fanreachdata.io/edge/lhjmq/ed6e1fa13d03413a8f1396ed2d17053
 https://media-service.fanreachdata.io/edge/lhjmq/dcf40e8758a6493d8dbd6bc04c31f2dc.m3u8
 #EXTINF:-1, SaintJohn-Sherbrooke
 https://media-service.fanreachdata.io/edge/lhjmq/574fc50b04e0475a9eabb2bc59074d5d.m3u8
+#EXTINF:-1, Quinnipiac-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Princeton-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Northeastern-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Vermont-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Maine-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Lindenwood-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Union-Rensselaer
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Maine-Northeastern
