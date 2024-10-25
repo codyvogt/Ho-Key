@@ -3,13 +3,35 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HCDavos-HCLugano
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, LapuanVirkiä-JHT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711eb8f6b135e19484e2921/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-Jukurit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6711eb8f6e0aae1e6b071dc9/index.m3u8
-#EXTINF:-1, KalevanPallo-HIFK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6711eb8f6e0aae1e6b071dda/index.m3u8
-#EXTINF:-1, HelsinginJokerit-KooKoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711eb8f6e0aae1e6b071dea/index.m3u8
 #EXTINF:-1, Jää-Tiikerit-K-EspooEKS
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6711eb8f6b135e19484e292d/index.m3u8
+#EXTINF:-1, HelsinginJokerit-KooKoo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711eb8f6e0aae1e6b071dea/index.m3u8
+#EXTINF:-1, BeraniZlín-KarlovyVary
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67052e056b135e19484e115f/index.m3u8
+#EXTINF:-1, BrynäsIF-LuleåHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671354ed6b135e19484e2c9a/index.m3u8
+#EXTINF:-1, DjurgårdensIF-MoraIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671362886b135e19484e2cf9/index.m3u8
+#EXTINF:-1, VäxjöLakers-Linköping
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671365406e0aae1e6b0721eb/index.m3u8
+#EXTINF:-1, MalmöRedhawks-HV71
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671364566b135e19484e2d08/index.m3u8
+#EXTINF:-1, AIK-LeksandsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671361a66b135e19484e2ce9/index.m3u8
+#EXTINF:-1, AlmtunaIS-Skellefteå
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67134cb66b135e19484e2c51/index.m3u8
+#EXTINF:-1, JPK-Hela-Kiekko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711eb8f6e0aae1e6b071dbd/index.m3u8
+#EXTINF:-1, IFKLepplax-IKKronan
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6711eb8f6e0aae1e6b071dc1/index.m3u8
+#EXTINF:-1, MalaxIF-KraftHockey
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711eb8f6e0aae1e6b071dbb/index.m3u8
+#EXTINF:-1, RögleBK-Linköping2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671364566b135e19484e2d09/index.m3u8
+#EXTINF:-1, Ústín.L.-KarlovyVaryB
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f280bda1fe2c39f40b28f8/index.m3u8
+#EXTINF:-1, BKNováPaka-Vrchlabí
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa69be0681e21af84b0e2c/index.m3u8
+#EXTINF:-1, BaníkHodonín-Znojmo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67051fee6e0aae1e6b0706dd/index.m3u8
