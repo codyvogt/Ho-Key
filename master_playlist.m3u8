@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mechelen-EHCNeuwied
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a48aa6b135e19484e1a54/index.m3u8
-#EXTINF:-1, Charleroi-LeuvenBlack
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670a48b16e0aae1e6b070e97/index.m3u8
-#EXTINF:-1, BritishColumbia-Alberta
-https://media-service.fanreachdata.io/edge/whl/2f9dfb81166d41cea192dd188eeda42c.m3u8
 #EXTINF:-1, ABTitan-CapeBreton
 https://media-service.fanreachdata.io/edge/lhjmq/0cdaa591cac1465c8c20dcfe3ddfc418.m3u8
 #EXTINF:-1, Québec-Chicoutimi
