@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Mechelen-EHCNeuwied
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a48aa6b135e19484e1a54/index.m3u8
-#EXTINF:-1, Dartmouth-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Harvard-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Brown
