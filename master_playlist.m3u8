@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, RaumanLukko-HPK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67133d0f6e0aae1e6b072052/index.m3u8
-#EXTINF:-1, LahdenPelicans-JYP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b072075/index.m3u8
 #EXTINF:-1, VaasanSport-Ässät
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67133d0f6e0aae1e6b07205c/index.m3u8
 #EXTINF:-1, MikkelinJukurit-TPS
@@ -11,27 +9,3 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6b135e19484e2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b07204c/index.m3u8
 #EXTINF:-1, HelsinginJokerit-Ilves
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b07204b/index.m3u8
-#EXTINF:-1, BrynäsIF-LuleåHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714a6646b135e19484e3007/index.m3u8
-#EXTINF:-1, SödertäljeSK-ÖrebroHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b0666e0aae1e6b07253d/index.m3u8
-#EXTINF:-1, MalmöRedhawks-HV71
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b5d56b135e19484e3153/index.m3u8
-#EXTINF:-1, DjurgårdensIF-MoraIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714a74d6b135e19484e3014/index.m3u8
-#EXTINF:-1, AlmtunaIS-SkellefteåAIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714af866b135e19484e30d0/index.m3u8
-#EXTINF:-1, VäxjöLakers-Linköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b6bc6e0aae1e6b072597/index.m3u8
-#EXTINF:-1, VästeråsIK-FärjestadBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b3226e0aae1e6b072581/index.m3u8
-#EXTINF:-1, AIK-LeksandsIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b3226b135e19484e30fa/index.m3u8
-#EXTINF:-1, MoDoHockey-TimråIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b0666e0aae1e6b07253c/index.m3u8
-#EXTINF:-1, KeuruunPalloHT-SaiPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b0720a9/index.m3u8
-#EXTINF:-1, HPKAk-Lukko/PaRa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b072099/index.m3u8
-#EXTINF:-1, KalPaAk-K-EspooAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6b135e19484e2bbd/index.m3u8
