@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, HCAjoie-Biel-Bienne
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, KålleredSK-LerumsBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714af866e0aae1e6b072537/index.m3u8
-#EXTINF:-1, Strasbourg-Valenciennes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f8d4502ad3f109382cb6b1/index.m3u8
+#EXTINF:-1, Cadore-HCPSelection
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358ed24da32d7de673a5/index.m3u8
+#EXTINF:-1, AostaDI-MilanoDevils
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358f90eeba7bde92cfab/index.m3u8
 #EXTINF:-1, Dunkerque-Cholet
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb6b5/index.m3u8
 #EXTINF:-1, HCMP-Chambéry
@@ -15,32 +15,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d4503bd78e5d711b4b89/index.m3u8
 #EXTINF:-1, Neuilly-sur-Marne-Caen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4503bd78e5d711b4b85/index.m3u8
-#EXTINF:-1, Montpellier-Cremont-FD
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d44f3bd78e5d711b4b7d/index.m3u8
-#EXTINF:-1, Roanne-Toulouse-Blagnac
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a5/index.m3u8
-#EXTINF:-1, Rouen2-Jetsd'Évry-Viry
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66f8d44f3bd78e5d711b4b6f.m3u8
-#EXTINF:-1, Annecy-LaRoche-sur-Yon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb69f/index.m3u8
-#EXTINF:-1, Anglet2-LionsdeLyon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66f8d44f2ad3f109382cb6a1.m3u8
-#EXTINF:-1, Cadore-HCPSelection
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358ed24da32d7de673a5/index.m3u8
-#EXTINF:-1, AostaDI-MilanoDevils
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358f90eeba7bde92cfab/index.m3u8
-#EXTINF:-1, DucsdeDijon-Mulhouse
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a7/index.m3u8
-#EXTINF:-1, Nice2-Briançon2
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f782d02ad3f109382cb35c.m3u8
-#EXTINF:-1, Meudon2-Garges
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f782d03bd78e5d711b4905/index.m3u8
-#EXTINF:-1, Tours2-Dammarie-lès-Lys
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f782d03bd78e5d711b4907/index.m3u8
-#EXTINF:-1, Caen2-Rennes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f782d03bd78e5d711b4909/index.m3u8
-#EXTINF:-1, Chambéry2-Colmar
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a3/index.m3u8
 #EXTINF:-1, HCEppan-Bressanone
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358dd24da32d7de673a1/index.m3u8
 #EXTINF:-1, SVKaltern-HCFeltre
@@ -55,8 +29,24 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b9a296e0aae1e6b071
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b9a2b6b135e19484e1e19/index.m3u8
 #EXTINF:-1, KölnerJunghaie-Eisbären
 fluidtv.php?channel=https://pool-4.cdn.sporttotal.tv/out/v1/8259377b71254777bde7938e6c03b5e4/index.m3u8
+#EXTINF:-1, Nice2-Briançon2
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f782d02ad3f109382cb35c.m3u8
+#EXTINF:-1, Meudon2-Garges
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f782d03bd78e5d711b4905/index.m3u8
+#EXTINF:-1, Tours2-Dammarie-lès-Lys
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f782d03bd78e5d711b4907/index.m3u8
+#EXTINF:-1, Caen2-Rennes
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f782d03bd78e5d711b4909/index.m3u8
+#EXTINF:-1, Chambéry2-Colmar
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a3/index.m3u8
 #EXTINF:-1, EVUTeam-K-KissatAk
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67133d0f6b135e19484e2b77/index.m3u8
+#EXTINF:-1, Rouen2-Jetsd'Évry-Viry
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66f8d44f3bd78e5d711b4b6f.m3u8
+#EXTINF:-1, Annecy-LaRoche-sur-Yon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb69f/index.m3u8
+#EXTINF:-1, Anglet2-LionsdeLyon
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66f8d44f2ad3f109382cb6a1.m3u8
 #EXTINF:-1, Grenoble-Chambéry
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670d195e6e0aae1e6b071715.m3u8
 #EXTINF:-1, Clarkson-BostonCollege
