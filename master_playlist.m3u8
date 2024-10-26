@@ -1,5 +1,19 @@
 #EXTM3U
 #EXTINF:-1, HCAjoie-Biel-Bienne
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, Flemingsberg-Vallentuna
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714a4996e0aae1e6b0724bb/index.m3u8
+#EXTINF:-1, Nantes-MontBlanc
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4503bd78e5d711b4b81/index.m3u8
+#EXTINF:-1, Épinal-RempartsdeTours
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d4502ad3f109382cb6b3/index.m3u8
+#EXTINF:-1, Strasbourg-Valenciennes
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f8d4502ad3f109382cb6b1/index.m3u8
+#EXTINF:-1, Dunkerque-Cholet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb6b5/index.m3u8
+#EXTINF:-1, HCMP-Chambéry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f8d4503bd78e5d711b4b87/index.m3u8
+#EXTINF:-1, AlbatrosdeBrest-Meudon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb6b7/index.m3u8
+#EXTINF:-1, Morzine-Avoriaz-Villard
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d4503bd78e5d711b4b89/index.m3u8
+#EXTINF:-1, Neuilly-sur-Marne-Caen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4503bd78e5d711b4b85/index.m3u8
