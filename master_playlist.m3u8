@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1, BeraniZlín-HCLitvínov
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67062b246e0aae1e6b070863/index.m3u8
+#EXTINF:-1, Pardubice-HCVítkovice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f121349e468a0f77baf4f7/index.m3u8
+#EXTINF:-1, Liberec-HCKometaBrno
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66e92a1e83d9db296f96ec61/index.m3u8
