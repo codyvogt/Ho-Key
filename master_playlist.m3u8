@@ -1,20 +1,8 @@
 #EXTM3U
 #EXTINF:-1, HCAjoie-Biel-Bienne
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, HCMVVarese-Alleghe
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163588d24da32d7de67399/index.m3u8
-#EXTINF:-1, HCEppan-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358dd24da32d7de673a1/index.m3u8
-#EXTINF:-1, SVKaltern-HCFeltre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358dd24da32d7de673a3/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358fd24da32d7de673a7/index.m3u8
-#EXTINF:-1, Valpellice-Valdifiemme
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163590d24da32d7de673a9/index.m3u8
 #EXTINF:-1, KålleredSK-LerumsBK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714af866e0aae1e6b072537/index.m3u8
-#EXTINF:-1, GladsaxeBears-Vojens
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66cd905fe6affb23b065aa28/index.m3u8
 #EXTINF:-1, Strasbourg-Valenciennes
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f8d4502ad3f109382cb6b1/index.m3u8
 #EXTINF:-1, Dunkerque-Cholet
@@ -61,6 +49,14 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f782d03bd78e5d711b4
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f782d03bd78e5d711b4909/index.m3u8
 #EXTINF:-1, Chambéry2-Colmar
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a3/index.m3u8
+#EXTINF:-1, HCEppan-Bressanone
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358dd24da32d7de673a1/index.m3u8
+#EXTINF:-1, SVKaltern-HCFeltre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358dd24da32d7de673a3/index.m3u8
+#EXTINF:-1, ZinnenDolomites-Como
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358fd24da32d7de673a7/index.m3u8
+#EXTINF:-1, Valpellice-Valdifiemme
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163590d24da32d7de673a9/index.m3u8
 #EXTINF:-1, LiègeBulldogs-Mechelen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b9a296e0aae1e6b071271/index.m3u8
 #EXTINF:-1, LeuvenChiefs-HYC
@@ -85,6 +81,8 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionv
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Maine-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, BostonU-Syracuse
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c0dd4699-3848-4665-8d39-4f29f33b5c44-hls/master/c0dd4699-3848-4665-8d39-4f29f33b5c44-hls.m3u8
 #EXTINF:-1, Vermont-NewHampshire
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, EatersLimburg-DenHaag
@@ -93,3 +91,17 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718fff108edeb34eb23b
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b9a38c2bc3a7611501402/index.m3u8
 #EXTINF:-1, Cergy-Pontoise-Évry-Viry
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f8d44f3bd78e5d711b4b7b.m3u8
+#EXTINF:-1, Alberta-Saskatchewan
+https://media-service.fanreachdata.io/edge/whl/8abdf618df514c39961d0108e6dbc2be.m3u8
+#EXTINF:-1, Manitoba-BC
+https://media-service.fanreachdata.io/edge/whl/09179e4985fe4dd987a7385ecbd4b229.m3u8
+#EXTINF:-1, Charlottetown-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/afd5be123e544e7e9fbdfc3d50b9a473.m3u8
+#EXTINF:-1, Rimouski-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/39dff7977a094dc393a0949cf66904e0.m3u8
+#EXTINF:-1, Moncton-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/1a559d0808a4412c8b91aa2612b58334.m3u8
+#EXTINF:-1, SaintJohn-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/321a097a17484230a7daf3d5c28ab183.m3u8
+#EXTINF:-1, Halifax-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/6919f009ff68443ab8284f34f1b17d6b.m3u8
