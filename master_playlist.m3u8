@@ -1,44 +1,20 @@
 #EXTM3U
-#EXTINF:-1, Cadore-HCPSelection
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358ed24da32d7de673a5/index.m3u8
-#EXTINF:-1, AostaDI-MilanoDevils
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358f90eeba7bde92cfab/index.m3u8
-#EXTINF:-1, LiègeBulldogs-Mechelen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b9a296e0aae1e6b071271/index.m3u8
-#EXTINF:-1, LeuvenChiefs-HYC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b9a2b6b135e19484e1e19/index.m3u8
-#EXTINF:-1, Nice2-Briançon2
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f782d02ad3f109382cb35c.m3u8
-#EXTINF:-1, Meudon2-Garges
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f782d03bd78e5d711b4905/index.m3u8
+#EXTINF:-1, Valpellice-Valdifiemme
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163590d24da32d7de673a9/index.m3u8
+#EXTINF:-1, EatersLimburg-DenHaag
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718fff108edeb34eb23bc13/index.m3u8
+#EXTINF:-1, Antwerp-KortrijkSpurs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b9a38c2bc3a7611501402/index.m3u8
+#EXTINF:-1, Annecy-LaRoche-sur-Yon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb69f/index.m3u8
 #EXTINF:-1, Tours2-Dammarie-lès-Lys
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f782d03bd78e5d711b4907/index.m3u8
 #EXTINF:-1, Caen2-Rennes
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f782d03bd78e5d711b4909/index.m3u8
 #EXTINF:-1, Chambéry2-Colmar
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a3/index.m3u8
-#EXTINF:-1, AlbatrosdeBrest-Meudon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb6b7/index.m3u8
-#EXTINF:-1, Morzine-Avoriaz-Villard
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d4503bd78e5d711b4b89/index.m3u8
-#EXTINF:-1, Neuilly-sur-Marne-Caen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4503bd78e5d711b4b85/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358fd24da32d7de673a7/index.m3u8
-#EXTINF:-1, Valpellice-Valdifiemme
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163590d24da32d7de673a9/index.m3u8
-#EXTINF:-1, Rouen2-Jetsd'Évry-Viry
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66f8d44f3bd78e5d711b4b6f.m3u8
-#EXTINF:-1, Annecy-LaRoche-sur-Yon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb69f/index.m3u8
-#EXTINF:-1, Anglet2-LionsdeLyon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66f8d44f2ad3f109382cb6a1.m3u8
-#EXTINF:-1, Grenoble-Chambéry
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670d195e6e0aae1e6b071715.m3u8
-#EXTINF:-1, Clarkson-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Lindenwood-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Cergy-Pontoise-Évry-Viry
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f8d44f3bd78e5d711b4b7b.m3u8
 #EXTINF:-1, Princeton-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Dartmouth-Union
@@ -51,12 +27,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgat
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c0dd4699-3848-4665-8d39-4f29f33b5c44-hls/master/c0dd4699-3848-4665-8d39-4f29f33b5c44-hls.m3u8
 #EXTINF:-1, Vermont-NewHampshire
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, EatersLimburg-DenHaag
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718fff108edeb34eb23bc13/index.m3u8
-#EXTINF:-1, Antwerp-KortrijkSpurs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b9a38c2bc3a7611501402/index.m3u8
-#EXTINF:-1, Cergy-Pontoise-Évry-Viry
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f8d44f3bd78e5d711b4b7b.m3u8
 #EXTINF:-1, Alberta-Saskatchewan
 https://media-service.fanreachdata.io/edge/whl/8abdf618df514c39961d0108e6dbc2be.m3u8
 #EXTINF:-1, Manitoba-BC
