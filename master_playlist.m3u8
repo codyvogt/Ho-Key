@@ -1,34 +1,12 @@
 #EXTM3U
-#EXTINF:-1, HCAjoie-Biel-Bienne
-fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, Cadore-HCPSelection
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358ed24da32d7de673a5/index.m3u8
 #EXTINF:-1, AostaDI-MilanoDevils
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358f90eeba7bde92cfab/index.m3u8
-#EXTINF:-1, Dunkerque-Cholet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb6b5/index.m3u8
-#EXTINF:-1, HCMP-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f8d4503bd78e5d711b4b87/index.m3u8
-#EXTINF:-1, AlbatrosdeBrest-Meudon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb6b7/index.m3u8
-#EXTINF:-1, Morzine-Avoriaz-Villard
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d4503bd78e5d711b4b89/index.m3u8
-#EXTINF:-1, Neuilly-sur-Marne-Caen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4503bd78e5d711b4b85/index.m3u8
-#EXTINF:-1, HCEppan-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358dd24da32d7de673a1/index.m3u8
-#EXTINF:-1, SVKaltern-HCFeltre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358dd24da32d7de673a3/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358fd24da32d7de673a7/index.m3u8
-#EXTINF:-1, Valpellice-Valdifiemme
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163590d24da32d7de673a9/index.m3u8
 #EXTINF:-1, LiègeBulldogs-Mechelen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b9a296e0aae1e6b071271/index.m3u8
 #EXTINF:-1, LeuvenChiefs-HYC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b9a2b6b135e19484e1e19/index.m3u8
-#EXTINF:-1, KölnerJunghaie-Eisbären
-fluidtv.php?channel=https://pool-4.cdn.sporttotal.tv/out/v1/8259377b71254777bde7938e6c03b5e4/index.m3u8
 #EXTINF:-1, Nice2-Briançon2
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f782d02ad3f109382cb35c.m3u8
 #EXTINF:-1, Meudon2-Garges
@@ -39,8 +17,16 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f782d03bd78e5d711b4
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f782d03bd78e5d711b4909/index.m3u8
 #EXTINF:-1, Chambéry2-Colmar
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a3/index.m3u8
-#EXTINF:-1, EVUTeam-K-KissatAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67133d0f6b135e19484e2b77/index.m3u8
+#EXTINF:-1, AlbatrosdeBrest-Meudon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb6b7/index.m3u8
+#EXTINF:-1, Morzine-Avoriaz-Villard
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d4503bd78e5d711b4b89/index.m3u8
+#EXTINF:-1, Neuilly-sur-Marne-Caen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4503bd78e5d711b4b85/index.m3u8
+#EXTINF:-1, ZinnenDolomites-Como
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716358fd24da32d7de673a7/index.m3u8
+#EXTINF:-1, Valpellice-Valdifiemme
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163590d24da32d7de673a9/index.m3u8
 #EXTINF:-1, Rouen2-Jetsd'Évry-Viry
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66f8d44f3bd78e5d711b4b6f.m3u8
 #EXTINF:-1, Annecy-LaRoche-sur-Yon
@@ -55,8 +41,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/boston
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Princeton-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Harvard-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Dartmouth-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Yale
