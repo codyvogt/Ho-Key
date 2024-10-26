@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Vermont-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Charlottetown-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/afd5be123e544e7e9fbdfc3d50b9a473.m3u8
 #EXTINF:-1, Rimouski-Val-d'Or
@@ -53,3 +51,33 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/code-hls/
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, Manitoba-BC
 https://media-service.fanreachdata.io/edge/whl/09179e4985fe4dd987a7385ecbd4b229.m3u8
+#EXTINF:-1, Peterborough-Brantford
+https://media-service.fanreachdata.io/edge/ohl/7b8a27d2d7e44c80b254f1b52f731aae.m3u8
+#EXTINF:-1, OwenSound-Flint
+https://media-service.fanreachdata.io/edge/ohl/247645af7c714ec69661c9cc8ed80567.m3u8
+#EXTINF:-1, Kitchener-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/11b6b3db38ba4fda93ddc2f0403bcd1d.m3u8
+#EXTINF:-1, NiagaraIceDogs-Windsor
+https://media-service.fanreachdata.io/edge/ohl/d3f61f1c02b141578cb05c2d2fa1b4e1.m3u8
+#EXTINF:-1, London-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/c593c57e4d0f4d5abf2af423e4930798.m3u8
+#EXTINF:-1, Guelph-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/73468e53d1984e9d8528eba7943b04f2.m3u8
+#EXTINF:-1, CalgaryHitmen-Brandon
+https://media-service.fanreachdata.io/edge/whl/3a9ecf2650ae45e590ac1adab577fb14.m3u8
+#EXTINF:-1, RedDeer-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/2ffbaf6a220f4ed28b2a8921dfbeac58.m3u8
+#EXTINF:-1, MooseJaw-Kamloops
+https://media-service.fanreachdata.io/edge/whl/ca949c62d4674a98920b34836958eafa.m3u8
+#EXTINF:-1, Regina-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/94ab6db384e0426e81f3622390c522b6.m3u8
+#EXTINF:-1, Edmonton-Portland
+https://media-service.fanreachdata.io/edge/whl/d19edfd701694e73a9975aea62db30d2.m3u8
+#EXTINF:-1, Victoria-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/886ccb55f2154f24a3c896447f7e0046.m3u8
+#EXTINF:-1, Seattle-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/b0593a8fcf974d399d84f8b1fee3aa83.m3u8
+#EXTINF:-1, Tri-City-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/e255ebca4912491cadd389113077d4ef.m3u8
+#EXTINF:-1, WenatcheeWild-Everett
+https://media-service.fanreachdata.io/edge/whl/d35a18460a224ca4b91837bf1d46c61b.m3u8
