@@ -15,10 +15,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4502ad3f109382cb
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d4503bd78e5d711b4b89/index.m3u8
 #EXTINF:-1, Neuilly-sur-Marne-Caen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d4503bd78e5d711b4b85/index.m3u8
-#EXTINF:-1, UNH-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Vaujany-LynxdeValence
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6ab/index.m3u8
 #EXTINF:-1, Montpellier-Cremont-FD
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f8d44f3bd78e5d711b4b7d/index.m3u8
 #EXTINF:-1, Roanne-Toulouse-Blagnac
@@ -29,14 +25,10 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb69f/index.m3u8
 #EXTINF:-1, Anglet2-LionsdeLyon
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66f8d44f2ad3f109382cb6a1.m3u8
-#EXTINF:-1, VinschgauEisfix-Padova
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358bd24da32d7de6739f/index.m3u8
 #EXTINF:-1, Cadore-HCPSelection
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716358ed24da32d7de673a5/index.m3u8
 #EXTINF:-1, AostaDI-MilanoDevils
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716358f90eeba7bde92cfab/index.m3u8
-#EXTINF:-1, KlaGe-KeravaShakers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67133d0e6e0aae1e6b071f7e/index.m3u8
 #EXTINF:-1, DucsdeDijon-Mulhouse
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f8d44f2ad3f109382cb6a7/index.m3u8
 #EXTINF:-1, Nice2-Briançon2
@@ -105,3 +97,5 @@ https://media-service.fanreachdata.io/edge/lhjmq/1a559d0808a4412c8b91aa2612b5833
 https://media-service.fanreachdata.io/edge/lhjmq/321a097a17484230a7daf3d5c28ab183.m3u8
 #EXTINF:-1, Halifax-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/6919f009ff68443ab8284f34f1b17d6b.m3u8
+#EXTINF:-1, UNH-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
