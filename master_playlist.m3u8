@@ -1,20 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Victoria-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/f9ed5ceb11f44e0aace3e9d24dd14b54.m3u8
-#EXTINF:-1, Tri-City-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/6bd9b2f7757e43b1a1750d89eafb9365.m3u8
-#EXTINF:-1, MooseJaw-Kelowna
-https://media-service.fanreachdata.io/edge/whl/d09ff9f5dd564e1ba4128c6899a208b9.m3u8
-#EXTINF:-1, Vancouver-Spokane
-https://media-service.fanreachdata.io/edge/whl/beceaed9b2834b7ba32ff5053c051f2c.m3u8
-#EXTINF:-1, Edmonton-Everett
-https://media-service.fanreachdata.io/edge/whl/22f8ab3489e343999932b4584bb5b17e.m3u8
 #EXTINF:-1, RaumanLukko-HPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b072052/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67133d0f6e0aae1e6b072052/index.m3u8
 #EXTINF:-1, LahdenPelicans-JYP
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b072075/index.m3u8
 #EXTINF:-1, VaasanSport-Ässät
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b07205c/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67133d0f6e0aae1e6b07205c/index.m3u8
 #EXTINF:-1, BrynäsIF-LuleåHF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714a6646b135e19484e3007/index.m3u8
 #EXTINF:-1, SödertäljeSK-ÖrebroHK
