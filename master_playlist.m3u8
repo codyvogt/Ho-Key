@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, HCAjoie-Biel-Bienne
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1, Flemingsberg-Vallentuna
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714a4996e0aae1e6b0724bb/index.m3u8
