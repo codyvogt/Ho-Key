@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Seattle-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/9c242f4bf429409e834b6ebd51d4afa6.m3u8
-#EXTINF:-1, MedicineHat-RedDeer
-https://media-service.fanreachdata.io/edge/whl/c5fb3e74c68c4e53a4f40d8ea83b05c4.m3u8
-#EXTINF:-1, Calgary-ReginaPats
-https://media-service.fanreachdata.io/edge/whl/8f31474b97684d749ae61abaadd12e3c.m3u8
-#EXTINF:-1, Lethbridge-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/52ace6193f0847a3852c4fc1908cf737.m3u8
 #EXTINF:-1, Victoria-PrinceGeorge
 https://media-service.fanreachdata.io/edge/whl/f9ed5ceb11f44e0aace3e9d24dd14b54.m3u8
 #EXTINF:-1, Tri-City-WenatcheeWild
@@ -17,5 +9,21 @@ https://media-service.fanreachdata.io/edge/whl/d09ff9f5dd564e1ba4128c6899a208b9.
 https://media-service.fanreachdata.io/edge/whl/beceaed9b2834b7ba32ff5053c051f2c.m3u8
 #EXTINF:-1, Edmonton-Everett
 https://media-service.fanreachdata.io/edge/whl/22f8ab3489e343999932b4584bb5b17e.m3u8
-#EXTINF:-1, Wisconsin-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/40fe51f7-ef2a-44cb-a891-e2d4fa81d447-hls/master/40fe51f7-ef2a-44cb-a891-e2d4fa81d447-hls.m3u8
+#EXTINF:-1, RaumanLukko-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b072052/index.m3u8
+#EXTINF:-1, LahdenPelicans-JYP
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b072075/index.m3u8
+#EXTINF:-1, VaasanSport-Ässät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b07205c/index.m3u8
+#EXTINF:-1, BrynäsIF-LuleåHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714a6646b135e19484e3007/index.m3u8
+#EXTINF:-1, SödertäljeSK-ÖrebroHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b0666e0aae1e6b07253d/index.m3u8
+#EXTINF:-1, MalmöRedhawks-HV71
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b5d56b135e19484e3153/index.m3u8
+#EXTINF:-1, DjurgårdensIF-MoraIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714a74d6b135e19484e3014/index.m3u8
+#EXTINF:-1, KeuruunPalloHT-SaiPa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b0720a9/index.m3u8
+#EXTINF:-1, HPKAk-Lukko/PaRa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67133d0f6e0aae1e6b072099/index.m3u8
