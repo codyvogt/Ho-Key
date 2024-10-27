@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kingston-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/7ae0df302230432fb7baf275476b9cbe.m3u8
 #EXTINF:-1, Ottawa-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/2805dd3d7ae84a519425ab00a46dc22d.m3u8
 #EXTINF:-1, London-SarniaSting
@@ -11,12 +9,6 @@ https://media-service.fanreachdata.io/edge/ohl/44abe634d7de4400a557fb8e7d7f7628.
 https://media-service.fanreachdata.io/edge/ohl/14c7e416cb4941c9b49e0242ed0b60bc.m3u8
 #EXTINF:-1, Peterborough-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/eb88995032d3412a8515d74fe6093c89.m3u8
-#EXTINF:-1, Neuwied-LeuvenChiefs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6e0aae1e6b071619/index.m3u8
-#EXTINF:-1, HYC-Diez-Limburg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6b135e19484e2104/index.m3u8
-#EXTINF:-1, Clarkson-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, AiglesdeNice-Briançon
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66fa25d10681e21af84b0bb7.m3u8
 #EXTINF:-1, SaintJohn-Gatineau
@@ -31,6 +23,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/bf23a0f07c1247dd8f613112f1ba710
 https://media-service.fanreachdata.io/edge/lhjmq/166e539fcfe64cd3a8e9d7fd7282462c.m3u8
 #EXTINF:-1, Moncton-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/71a9dd0eee5a49349f89b3772eb299dd.m3u8
+#EXTINF:-1, HYC-Diez-Limburg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6b135e19484e2104/index.m3u8
 #EXTINF:-1, HijsHokij-EatersLimburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719001708edeb34eb23bc15/index.m3u8
 #EXTINF:-1, Manitoba-Alberta
