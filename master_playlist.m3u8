@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Valpellice-AlpsAcademy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716359ad24da32d7de673b7/index.m3u8
-#EXTINF:-1, HockeyPergine-Trento
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359c90eeba7bde92cfbb/index.m3u8
-#EXTINF:-1, Merano/Bolzano-Brixen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359cd24da32d7de673bb/index.m3u8
-#EXTINF:-1, HärrydaHC-Skärgården
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716083b90eeba7bde92ceec/index.m3u8
+#EXTINF:-1, Grenoble-RapacesdeGap
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66fa25cf0681e21af84b0baf.m3u8
+#EXTINF:-1, DrakkarsdeCaen-HC74
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa25cf8b073d0c78b5d274/index.m3u8
+#EXTINF:-1, Strasbourg-Cergy-Pont.
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa25d00681e21af84b0bb1/index.m3u8
