@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HockeyPergine-Trento
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359c90eeba7bde92cfbb/index.m3u8
-#EXTINF:-1, Merano/Bolzano-Brixen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359cd24da32d7de673bb/index.m3u8
-#EXTINF:-1, Clermont-FD-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66e7b0cf69132e7e46656230/index.m3u8
-#EXTINF:-1, PESÄImatra-Pelikaanit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67148e8f6e0aae1e6b072290/index.m3u8
-#EXTINF:-1, HammarbyIF2-KTH
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f7e490eeba7bde92cdb1/index.m3u8
-#EXTINF:-1, Trångsund2-DuvboIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f35790eeba7bde92cd69/index.m3u8
-#EXTINF:-1, ÅbyHC-HerringsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f7e3d24da32d7de67226/index.m3u8
-#EXTINF:-1, Munkedal2-DuellsPHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f442d24da32d7de671f6/index.m3u8
-#EXTINF:-1, DrakkarsdeCaen-HC74
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa25cf8b073d0c78b5d274/index.m3u8
-#EXTINF:-1, Strasbourg-Cergy-Pont.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa25d00681e21af84b0bb1/index.m3u8
-#EXTINF:-1, HawksJärvenpää-KoPo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67148e8f6e0aae1e6b0722ad/index.m3u8
 #EXTINF:-1, Kingston-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/7ae0df302230432fb7baf275476b9cbe.m3u8
 #EXTINF:-1, Ottawa-SudburyWolves
@@ -37,3 +15,33 @@ https://media-service.fanreachdata.io/edge/ohl/eb88995032d3412a8515d74fe6093c89.
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6e0aae1e6b071619/index.m3u8
 #EXTINF:-1, HYC-Diez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6b135e19484e2104/index.m3u8
+#EXTINF:-1, Clarkson-BostonCollege
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, AiglesdeNice-Briançon
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66fa25d10681e21af84b0bb7.m3u8
+#EXTINF:-1, SaintJohn-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/1456ea0ef28242f9930d7053aa879eee.m3u8
+#EXTINF:-1, Rouyn-Noranda-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/26a226ba6d93451e912cf9bddddd55b7.m3u8
+#EXTINF:-1, Drummond.-Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/49562e31dfa843ccb2dc391a6d063280.m3u8
+#EXTINF:-1, Halifax-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/bf23a0f07c1247dd8f613112f1ba710c.m3u8
+#EXTINF:-1, Québec-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/166e539fcfe64cd3a8e9d7fd7282462c.m3u8
+#EXTINF:-1, Moncton-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/71a9dd0eee5a49349f89b3772eb299dd.m3u8
+#EXTINF:-1, HijsHokij-EatersLimburg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719001708edeb34eb23bc15/index.m3u8
+#EXTINF:-1, Manitoba-Alberta
+https://media-service.fanreachdata.io/edge/whl/2427f13d42684d75a9d40fe9fde03430.m3u8
+#EXTINF:-1, Merano/Bolzano-Brixen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359cd24da32d7de673bb/index.m3u8
+#EXTINF:-1, ÅbyHC-HerringsHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f7e3d24da32d7de67226/index.m3u8
+#EXTINF:-1, Munkedal2-DuellsPHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f442d24da32d7de671f6/index.m3u8
+#EXTINF:-1, Näädät-PiTa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67148e8f6e0aae1e6b072245/index.m3u8
+#EXTINF:-1, BulldogsLiège-Beaufort
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebbb6e0aae1e6b07161f/index.m3u8
