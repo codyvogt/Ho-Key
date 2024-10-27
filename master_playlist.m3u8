@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avangard-MetallurgMg
-fluidtv.php?channel=https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, K-Kissat-K-EspooCh
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67148e8f6b135e19484e2e83/index.m3u8
 #EXTINF:-1, Kiekko-Vantaa-FoPS
