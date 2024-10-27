@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, AiglesdeNice-Briançon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66fa25d10681e21af84b0bb7.m3u8
 #EXTINF:-1, SaintJohn-Gatineau
 https://media-service.fanreachdata.io/edge/lhjmq/1456ea0ef28242f9930d7053aa879eee.m3u8
 #EXTINF:-1, Rouyn-Noranda-Val-d'Or
@@ -13,12 +11,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/bf23a0f07c1247dd8f613112f1ba710
 https://media-service.fanreachdata.io/edge/lhjmq/166e539fcfe64cd3a8e9d7fd7282462c.m3u8
 #EXTINF:-1, Moncton-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/71a9dd0eee5a49349f89b3772eb299dd.m3u8
-#EXTINF:-1, HYC-Diez-Limburg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6b135e19484e2104/index.m3u8
-#EXTINF:-1, HijsHokij-EatersLimburg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719001708edeb34eb23bc15/index.m3u8
-#EXTINF:-1, Manitoba-Alberta
-https://media-service.fanreachdata.io/edge/whl/2427f13d42684d75a9d40fe9fde03430.m3u8
 #EXTINF:-1, Brampton-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/44abe634d7de4400a557fb8e7d7f7628.m3u8
 #EXTINF:-1, OwenSound-Saginaw
