@@ -1,7 +1,39 @@
 #EXTM3U
-#EXTINF:-1, Grenoble-RapacesdeGap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66fa25cf0681e21af84b0baf.m3u8
+#EXTINF:-1, HockeyPergine-Trento
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359c90eeba7bde92cfbb/index.m3u8
+#EXTINF:-1, Merano/Bolzano-Brixen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359cd24da32d7de673bb/index.m3u8
+#EXTINF:-1, Clermont-FD-Chambéry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66e7b0cf69132e7e46656230/index.m3u8
+#EXTINF:-1, PESÄImatra-Pelikaanit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67148e8f6e0aae1e6b072290/index.m3u8
+#EXTINF:-1, HammarbyIF2-KTH
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f7e490eeba7bde92cdb1/index.m3u8
+#EXTINF:-1, Trångsund2-DuvboIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f35790eeba7bde92cd69/index.m3u8
+#EXTINF:-1, ÅbyHC-HerringsHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f7e3d24da32d7de67226/index.m3u8
+#EXTINF:-1, Munkedal2-DuellsPHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f442d24da32d7de671f6/index.m3u8
 #EXTINF:-1, DrakkarsdeCaen-HC74
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa25cf8b073d0c78b5d274/index.m3u8
 #EXTINF:-1, Strasbourg-Cergy-Pont.
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa25d00681e21af84b0bb1/index.m3u8
+#EXTINF:-1, HawksJärvenpää-KoPo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67148e8f6e0aae1e6b0722ad/index.m3u8
+#EXTINF:-1, Kingston-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/7ae0df302230432fb7baf275476b9cbe.m3u8
+#EXTINF:-1, Ottawa-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/2805dd3d7ae84a519425ab00a46dc22d.m3u8
+#EXTINF:-1, London-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/8ac62883f45f4d42821bdff02947ce2c.m3u8
+#EXTINF:-1, Brampton-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/44abe634d7de4400a557fb8e7d7f7628.m3u8
+#EXTINF:-1, OwenSound-Saginaw
+https://media-service.fanreachdata.io/edge/ohl/14c7e416cb4941c9b49e0242ed0b60bc.m3u8
+#EXTINF:-1, Peterborough-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/eb88995032d3412a8515d74fe6093c89.m3u8
+#EXTINF:-1, Neuwied-LeuvenChiefs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6e0aae1e6b071619/index.m3u8
+#EXTINF:-1, HYC-Diez-Limburg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6b135e19484e2104/index.m3u8
