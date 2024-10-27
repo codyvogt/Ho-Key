@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Guelph-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/73468e53d1984e9d8528eba7943b04f2.m3u8
 #EXTINF:-1, OhioState-BowlingGreen
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, Wisconsin-Denver
