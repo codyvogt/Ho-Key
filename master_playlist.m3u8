@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Québec-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/166e539fcfe64cd3a8e9d7fd7282462c.m3u8
-#EXTINF:-1, Moncton-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/71a9dd0eee5a49349f89b3772eb299dd.m3u8
-#EXTINF:-1, Brampton-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/44abe634d7de4400a557fb8e7d7f7628.m3u8
 #EXTINF:-1, OwenSound-Saginaw
 https://media-service.fanreachdata.io/edge/ohl/14c7e416cb4941c9b49e0242ed0b60bc.m3u8
 #EXTINF:-1, Peterborough-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/eb88995032d3412a8515d74fe6093c89.m3u8
-#EXTINF:-1, BulldogsLiège-Beaufort
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670cebbb6e0aae1e6b07161f/index.m3u8
 #EXTINF:-1, Everett-Portland
 https://media-service.fanreachdata.io/edge/whl/079807e35bb246508150229b88ea5bcf.m3u8
 #EXTINF:-1, Kamloops-Vancouver
