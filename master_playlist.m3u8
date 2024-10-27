@@ -3,3 +3,9 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Severstal-Amur
 fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1, PirátiChomutov-Písek
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671a621d1dc6516e0899eb98/index.m3u8
+#EXTINF:-1, TechnikaBrno-Šumperk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c745951f3688687f373b8d/index.m3u8
+#EXTINF:-1, HCOlomouc-HCPoruba
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ee9a4da1fe2c39f40b225c/index.m3u8
