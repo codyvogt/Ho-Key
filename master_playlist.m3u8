@@ -1,35 +1,3 @@
 #EXTM3U
 #EXTINF:-1, Lokomotiv-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, MalmbergetsAIF-Rosvik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6715f27390eeba7bde92cd57/index.m3u8
-#EXTINF:-1, Örnen/ÖrebroHU-Sala
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6715f18b90eeba7bde92cd4f/index.m3u8
-#EXTINF:-1, KungsbackaHC-Hisingen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716083b90eeba7bde92cef4/index.m3u8
-#EXTINF:-1, PajalaHC-Hertsörinken
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f0a2d24da32d7de671e6/index.m3u8
-#EXTINF:-1, HovåsHC-FalkenbergsHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671604a0d24da32d7de672d5/index.m3u8
-#EXTINF:-1, RydaholmsSK-Nässjö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715efb8d24da32d7de671ae/index.m3u8
-#EXTINF:-1, GlimmaHK-TrelleborgsIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671602ca90eeba7bde92ce8c/index.m3u8
-#EXTINF:-1, OsbyIK-IFLejonet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f618d24da32d7de67209/index.m3u8
-#EXTINF:-1, KålleredSK-LerumsBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716010190eeba7bde92ce58/index.m3u8
-#EXTINF:-1, Linden2-HälleforsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715fb8b90eeba7bde92cdd5/index.m3u8
-#EXTINF:-1, SkillingarydsIS-Lenhovda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715eed190eeba7bde92ccb1/index.m3u8
-#EXTINF:-1, HCHawks-EksjöHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671604a090eeba7bde92ceac/index.m3u8
-#EXTINF:-1, VarbergHK-PartilleHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715ff2990eeba7bde92ce34/index.m3u8
-#EXTINF:-1, HärrydaHC-Skärgården
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716083b90eeba7bde92ceec/index.m3u8
-#EXTINF:-1, HusumHK-BrunfloIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6715edeed24da32d7de6714c/index.m3u8
-#EXTINF:-1, Björklöven2-Sundsvall
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f27390eeba7bde92cd63/index.m3u8
