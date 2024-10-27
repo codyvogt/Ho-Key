@@ -19,10 +19,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cebaa6b135e19484e2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719001708edeb34eb23bc15/index.m3u8
 #EXTINF:-1, Manitoba-Alberta
 https://media-service.fanreachdata.io/edge/whl/2427f13d42684d75a9d40fe9fde03430.m3u8
-#EXTINF:-1, Merano/Bolzano-Brixen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359cd24da32d7de673bb/index.m3u8
-#EXTINF:-1, N‰‰d‰t-PiTa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67148e8f6e0aae1e6b072245/index.m3u8
 #EXTINF:-1, Brampton-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/44abe634d7de4400a557fb8e7d7f7628.m3u8
 #EXTINF:-1, OwenSound-Saginaw
