@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv-DinamoMinsk
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, LevBenešov-HCKlatovy
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6704cb8e6b135e19484e0f7e/index.m3u8
 #EXTINF:-1, Ústín.Labem-Neratovice
