@@ -3,25 +3,3 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Severstal-Amur
 fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1, AIK-MoraIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671604a090eeba7bde92cead/index.m3u8
-#EXTINF:-1, AlmtunaIS-LuleåHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716010190eeba7bde92ce5e/index.m3u8
-#EXTINF:-1, BrynäsIF-Skellefteå
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f7e3d24da32d7de67228/index.m3u8
-#EXTINF:-1, VästeråsIK-ÖrebroHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671604a090eeba7bde92cebb/index.m3u8
-#EXTINF:-1, SödertäljeSK-Färjestad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671601e490eeba7bde92ce72/index.m3u8
-#EXTINF:-1, IFMalmö-LinköpingHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67160758d24da32d7de67313/index.m3u8
-#EXTINF:-1, DjurgårdensIF-Leksand
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6715f8cb90eeba7bde92cdb9/index.m3u8
-#EXTINF:-1, IFBjörklöven-TimråIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715fd5ad24da32d7de6728e/index.m3u8
-#EXTINF:-1, KölnerJunghaie-Eisbären
-fluidtv.php?channel=https://pool-3.cdn.sporttotal.tv/out/v1/aa353bf9b70d4dc5a2b6b68db2300fd1/index.m3u8
-#EXTINF:-1, TechnikaBrno-Šumperk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c745951f3688687f373b8d/index.m3u8
-#EXTINF:-1, HCOlomouc-HCPoruba
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ee9a4da1fe2c39f40b225c/index.m3u8
