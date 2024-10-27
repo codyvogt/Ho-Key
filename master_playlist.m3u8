@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, OhioState-BowlingGreen
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, Wisconsin-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/code-hls/master/code-hls.m3u8
-#EXTINF:-1, St.Thomas-Minnesota
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, CalgaryHitmen-Brandon
 https://media-service.fanreachdata.io/edge/whl/3a9ecf2650ae45e590ac1adab577fb14.m3u8
 #EXTINF:-1, RedDeer-Lethbridge
@@ -23,3 +17,7 @@ https://media-service.fanreachdata.io/edge/whl/b0593a8fcf974d399d84f8b1fee3aa83.
 https://media-service.fanreachdata.io/edge/whl/e255ebca4912491cadd389113077d4ef.m3u8
 #EXTINF:-1, WenatcheeWild-Everett
 https://media-service.fanreachdata.io/edge/whl/d35a18460a224ca4b91837bf1d46c61b.m3u8
+#EXTINF:-1, Wisconsin-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/eeddf38e-0ad8-45b2-8815-1955fa973fe4-hls/master/eeddf38e-0ad8-45b2-8815-1955fa973fe4-hls.m3u8
+#EXTINF:-1, St.Thomas-Minnesota
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
