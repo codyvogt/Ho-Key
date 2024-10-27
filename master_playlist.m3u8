@@ -11,3 +11,7 @@ https://media-service.fanreachdata.io/edge/ohl/14c7e416cb4941c9b49e0242ed0b60bc.
 https://media-service.fanreachdata.io/edge/ohl/eb88995032d3412a8515d74fe6093c89.m3u8
 #EXTINF:-1, BulldogsLiège-Beaufort
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670cebbb6e0aae1e6b07161f/index.m3u8
+#EXTINF:-1, Everett-Portland
+https://media-service.fanreachdata.io/edge/whl/079807e35bb246508150229b88ea5bcf.m3u8
+#EXTINF:-1, Kamloops-Vancouver
+https://media-service.fanreachdata.io/edge/whl/30a15e38b8ee4d769e158ec0b4639bd4.m3u8
