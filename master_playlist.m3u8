@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Providence-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Augustana-SCSU
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/591e9465-4d5b-46d1-9c43-f5c28e473c75-hls/master/591e9465-4d5b-46d1-9c43-f5c28e473c75-hls.m3u8
-#EXTINF:-1, BemidjiState-FerrisState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/ferrisstatehockey/playlist.m3u8
-#EXTINF:-1, Clarkson-MichiganTech
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, ASU-NorthernMichigan
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Peterborough-Brantford
+https://media-service.fanreachdata.io/edge/ohl/7b8a27d2d7e44c80b254f1b52f731aae.m3u8
+#EXTINF:-1, OwenSound-Flint
+https://media-service.fanreachdata.io/edge/ohl/247645af7c714ec69661c9cc8ed80567.m3u8
+#EXTINF:-1, Kitchener-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/11b6b3db38ba4fda93ddc2f0403bcd1d.m3u8
+#EXTINF:-1, NiagaraIceDogs-Windsor
+https://media-service.fanreachdata.io/edge/ohl/d3f61f1c02b141578cb05c2d2fa1b4e1.m3u8
+#EXTINF:-1, London-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/c593c57e4d0f4d5abf2af423e4930798.m3u8
+#EXTINF:-1, Guelph-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/73468e53d1984e9d8528eba7943b04f2.m3u8
 #EXTINF:-1, Rensselaer-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, UMassLowell-Merrimack
@@ -37,20 +39,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghock
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/code-hls/master/code-hls.m3u8
 #EXTINF:-1, St.Thomas-Minnesota
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
-#EXTINF:-1, Manitoba-BC
-https://media-service.fanreachdata.io/edge/whl/09179e4985fe4dd987a7385ecbd4b229.m3u8
-#EXTINF:-1, Peterborough-Brantford
-https://media-service.fanreachdata.io/edge/ohl/7b8a27d2d7e44c80b254f1b52f731aae.m3u8
-#EXTINF:-1, OwenSound-Flint
-https://media-service.fanreachdata.io/edge/ohl/247645af7c714ec69661c9cc8ed80567.m3u8
-#EXTINF:-1, Kitchener-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/11b6b3db38ba4fda93ddc2f0403bcd1d.m3u8
-#EXTINF:-1, NiagaraIceDogs-Windsor
-https://media-service.fanreachdata.io/edge/ohl/d3f61f1c02b141578cb05c2d2fa1b4e1.m3u8
-#EXTINF:-1, London-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/c593c57e4d0f4d5abf2af423e4930798.m3u8
-#EXTINF:-1, Guelph-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/73468e53d1984e9d8528eba7943b04f2.m3u8
 #EXTINF:-1, CalgaryHitmen-Brandon
 https://media-service.fanreachdata.io/edge/whl/3a9ecf2650ae45e590ac1adab577fb14.m3u8
 #EXTINF:-1, RedDeer-Lethbridge
