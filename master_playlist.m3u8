@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KovlandsIshF-TegsSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6715fc72d24da32d7de67245/index.m3u8
-#EXTINF:-1, GrIFK-KajaaninHokki
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67148e8f6b135e19484e2e7a/index.m3u8
-#EXTINF:-1, Peli-PojatHC-FPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67148e8f6e0aae1e6b072297/index.m3u8
-#EXTINF:-1, ÅmålsSK-SunneIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715fe41d24da32d7de6729a/index.m3u8
-#EXTINF:-1, IFKMunkfors-Hammarö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671603b490eeba7bde92ce94/index.m3u8
-#EXTINF:-1, MotalaAIF-Lidköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716001190eeba7bde92ce3a/index.m3u8
-#EXTINF:-1, KungälvsIK-NittorpsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716075890eeba7bde92cede/index.m3u8
-#EXTINF:-1, GislavedsSK-Helsingborg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f8cb90eeba7bde92cdbf/index.m3u8
-#EXTINF:-1, KristianstadsIK-KRIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716001190eeba7bde92ce3d/index.m3u8
-#EXTINF:-1, SölvesborgsIK-Jonstorp
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6715f27390eeba7bde92cd59/index.m3u8
-#EXTINF:-1, Boro/Vetlanda-Olofström
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716066bd24da32d7de672fc/index.m3u8
 #EXTINF:-1, TegsSK-Vilhelmina
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715fd59d24da32d7de6728a/index.m3u8
 #EXTINF:-1, ArvikaHC-GrumsIK
@@ -29,24 +7,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671603b490eeba7bde92c
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67160758d24da32d7de6730b/index.m3u8
 #EXTINF:-1, VärnamoGIK-ÅsedaIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715ff2990eeba7bde92ce32/index.m3u8
-#EXTINF:-1, IKKronan2-MUIKII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67148e8f6e0aae1e6b0722ed/index.m3u8
-#EXTINF:-1, K-VantaaItä-EVUTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67148e8f6e0aae1e6b072246/index.m3u8
-#EXTINF:-1, RollonPojat-Tu-Ki
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67148e8f6e0aae1e6b0722cc/index.m3u8
-#EXTINF:-1, Näädät-PiTa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67148e8f6e0aae1e6b072245/index.m3u8
-#EXTINF:-1, PajalaHC-Hertsörinken
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6715f0a2d24da32d7de671e6/index.m3u8
-#EXTINF:-1, HovåsHC-FalkenbergsHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671604a0d24da32d7de672d5/index.m3u8
-#EXTINF:-1, RydaholmsSK-Nässjö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715efb8d24da32d7de671ae/index.m3u8
-#EXTINF:-1, GlimmaHK-TrelleborgsIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671602ca90eeba7bde92ce8c/index.m3u8
-#EXTINF:-1, OsbyIK-IFLejonet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715f618d24da32d7de67209/index.m3u8
 #EXTINF:-1, KålleredSK-LerumsBK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716010190eeba7bde92ce58/index.m3u8
 #EXTINF:-1, Linden2-HälleforsIK
@@ -59,14 +19,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671604a090eeba7bde92c
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715ff2990eeba7bde92ce34/index.m3u8
 #EXTINF:-1, HärrydaHC-Skärgården
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716083b90eeba7bde92ceec/index.m3u8
-#EXTINF:-1, SödertäljeSK-SHKHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671601e4d24da32d7de672bd/index.m3u8
-#EXTINF:-1, KarlskronaHK-Hvidovre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716075890eeba7bde92ced5/index.m3u8
-#EXTINF:-1, TeamUppsala-Hammarby
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716010190eeba7bde92ce5c/index.m3u8
-#EXTINF:-1, SaloHT-IlvesAkatemia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67148e906e0aae1e6b0723b1/index.m3u8
 #EXTINF:-1, HCBFoxes-Zoldo/Padova
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716359790eeba7bde92cfb5/index.m3u8
 #EXTINF:-1, Cortina/Alleghe-Jrteams
