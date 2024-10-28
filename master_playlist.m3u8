@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1, Rungsted-EsbjergEnergy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66b0c4aaaead186603f6894b/index.m3u8
+#EXTINF:-1, ClemensnäsHC-KalixHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6717487b90eeba7bde92d1b5/index.m3u8
+#EXTINF:-1, BodensHF-SKLejon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67174c1e90eeba7bde92d1b9/index.m3u8
+#EXTINF:-1, SollentunaHC-Arlanda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67174df090eeba7bde92d1bd/index.m3u8
+#EXTINF:-1, Flemingsberg-Traneberg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6717479790eeba7bde92d1b3/index.m3u8
+#EXTINF:-1, EnköpingsSK-Vallentuna
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67174a4990eeba7bde92d1b7/index.m3u8
+#EXTINF:-1, HuddingeIK-Nyköping
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67175702d24da32d7de675e5/index.m3u8
+#EXTINF:-1, KoskenPojat-IceTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715e019d24da32d7de670c8/index.m3u8
+#EXTINF:-1, HCLudwigVantaa-NKV
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715e01890eeba7bde92cc29/index.m3u8
