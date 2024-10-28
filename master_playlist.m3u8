@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Traktor-Avtomobilist
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, AlpsAcademy-Pinerolo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716359dd24da32d7de673bd/index.m3u8
