@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, SCBern-HCLugano
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, EVU-KurraHT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f78d8f3bd78e5d711b4978/index.m3u8
 #EXTINF:-1, Aalborg-SønderjyskE
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66b0c4abaead186603f6894d/index.m3u8
 #EXTINF:-1, BoråsHC-TranåsAIF
