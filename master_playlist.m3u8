@@ -3,12 +3,10 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, SCBern-HCLugano
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, NováPaka-Benátkyn.J.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fa69be0681e21af84b0e2a/index.m3u8
 #EXTINF:-1, EVU-KurraHT
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f78d8f3bd78e5d711b4978/index.m3u8
 #EXTINF:-1, Aalborg-SønderjyskE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66b0c4abaead186603f6894d/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66b0c4abaead186603f6894d/index.m3u8
 #EXTINF:-1, BoråsHC-TranåsAIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718a96cde786e495cf9d283/index.m3u8
 #EXTINF:-1, KarlskronaHK-Tingsryd
