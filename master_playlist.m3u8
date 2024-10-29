@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Severstal-DinamoMn
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, SCBern-HCLugano
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, EVU-KurraHT
@@ -15,10 +13,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718aa54ad24ad0a91050
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67189cb3de786e495cf9d242/index.m3u8
 #EXTINF:-1, OrsaIK-GrumsIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67189e87de786e495cf9d256/index.m3u8
-#EXTINF:-1, BIKKarlskoga-ValboHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718a6b1de786e495cf9d276/index.m3u8
 #EXTINF:-1, HalmstadHC-Mariestad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67189e87de786e495cf9d257/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67189e87de786e495cf9d257/index.m3u8
 #EXTINF:-1, HudiksvallsHC-Malung
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67189e87de786e495cf9d255/index.m3u8
 #EXTINF:-1, Olofström-Oskarshamn
@@ -29,8 +25,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718ab3cde786e495cf9d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718aa54ad24ad0a9105098e/index.m3u8
 #EXTINF:-1, StrömsbroIF-OrsaIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6718a79bde786e495cf9d27a/index.m3u8
-#EXTINF:-1, Skedvi/SäterIF-Gävle
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67189743de786e495cf9d237/index.m3u8
 #EXTINF:-1, MalungsIF-Söderhamn
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6718a79bde786e495cf9d279/index.m3u8
 #EXTINF:-1, TegsSK-VindelnsHF
@@ -41,8 +35,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67189bcaad24ad0a91050
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718a025de786e495cf9d260/index.m3u8
 #EXTINF:-1, VikingHC-FilipstadsIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718a225de786e495cf9d268/index.m3u8
-#EXTINF:-1, NorIK-SäffleHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67189ae3de786e495cf9d23f/index.m3u8
 #EXTINF:-1, Gnesta-Åker/Strängnäs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f7b12d2ad3f109382cb5bf/index.m3u8
 #EXTINF:-1, ÖsteråkerVikings-Kallhäll
@@ -54,7 +46,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671892b5ad24ad0a91050
 #EXTINF:-1, AlvestaSK-GislavedsSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718a882ad24ad0a9105098a/index.m3u8
 #EXTINF:-1, TingsrydUtv.-Värnamo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718aa54ad24ad0a9105098d/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6718aa54ad24ad0a9105098d/index.m3u8
 #EXTINF:-1, TibroIK-Skillingaryd
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671891d3de786e495cf9d20b/index.m3u8
 #EXTINF:-1, VimmerbyHC-Västervik
