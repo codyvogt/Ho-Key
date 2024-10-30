@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, EskilstunaLinden-Farsta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670234206e0aae1e6b06ff86/index.m3u8
-#EXTINF:-1, Granoble-Cergy-Pontoise
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66fe1a4e7655fb0aed1ed663.m3u8
 #EXTINF:-1, Pinerolo-ValpelliceDI
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716359f90eeba7bde92cfbd/index.m3u8
