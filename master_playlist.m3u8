@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1, WarriorsBrno-HCPoruba
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d94a10b66dd366d45444a8/index.m3u8
-#EXTINF:-1, FärjestadBK-Södertälje
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719f83347b7b920c10944cd/index.m3u8
-#EXTINF:-1, VäxjöLakersHC-HV71
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719fcbb08edeb34eb23bd41/index.m3u8
-#EXTINF:-1, FrölundaHC-RögleBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719fda108edeb34eb23bd44/index.m3u8
+#EXTINF:-1, TurkuHC-TPSAkatemia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67188310ad24ad0a91050927/index.m3u8
+#EXTINF:-1, ÖstersundsIK-Sundsvall
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719f74747b7b920c10944cb/index.m3u8
+#EXTINF:-1, Brixen/Wipptal-Pergine
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359ed24da32d7de673bf/index.m3u8
+#EXTINF:-1, GrumsIK2-ÅmålsSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719ef1f47b7b920c10944a0/index.m3u8
+#EXTINF:-1, EskilstunaLinden-Farsta
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670234206e0aae1e6b06ff86/index.m3u8
+#EXTINF:-1, Villard-Strasbourg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fcc8ce9ae3c54b26871bfd/index.m3u8
+#EXTINF:-1, Granoble-Cergy-Pontoise
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe1a4e7655fb0aed1ed663/index.m3u8
+#EXTINF:-1, Pinerolo-ValpelliceDI
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716359f90eeba7bde92cfbd/index.m3u8
