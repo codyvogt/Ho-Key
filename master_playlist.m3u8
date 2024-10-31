@@ -4,6 +4,16 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 #EXTINF:-1, Liberec-MladáBoleslav
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708ce256e0aae1e6b070bc2/index.m3u8
 #EXTINF:-1, SpartaPraha-Pardubice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6711fa8d6e0aae1e6b071e01/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6711fa8d6e0aae1e6b071e01/index.m3u8
 #EXTINF:-1, ParaistenSport-PKS
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719d49108edeb34eb23bc57/index.m3u8
+#EXTINF:-1, ÖrebroHK-FärjestadBK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b48c7e689ca0066fa03d3/index.m3u8
+#EXTINF:-1, ÖstersundsIK-ÅngeIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67023c496e0aae1e6b06ffe4/index.m3u8
+#EXTINF:-1, NjurundaSK-Örnsköldsvik
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b46141dc6516e0899ec55/index.m3u8
+#EXTINF:-1, LerumsBK-HovåsHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b36a11dc6516e0899ec0b/index.m3u8
+#EXTINF:-1, FOCFarstaIF-IFKTumba
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cb70d6b135e19484e1f4c/index.m3u8
