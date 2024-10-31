@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ParaistenSport-PKS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6719d49108edeb34eb23bc57/index.m3u8
 #EXTINF:-1, ÖrebroHK-FärjestadBK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b48c7e689ca0066fa03d3/index.m3u8
 #EXTINF:-1, ÖstersundsIK-ÅngeIK
