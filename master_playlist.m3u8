@@ -1,32 +1,12 @@
 #EXTM3U
-#EXTINF:-1, ÖrebroHK-FärjestadBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b48c7e689ca0066fa03d3/index.m3u8
-#EXTINF:-1, ÖstersundsIK-ÅngeIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67023c496e0aae1e6b06ffe4/index.m3u8
-#EXTINF:-1, NjurundaSK-Örnsköldsvik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b46141dc6516e0899ec55/index.m3u8
-#EXTINF:-1, TibroIK-TörebodaHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b34d11dc6516e0899ebf5/index.m3u8
-#EXTINF:-1, RonnebyIK-OsbyIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b47e01dc6516e0899ec5d/index.m3u8
-#EXTINF:-1, Linköping-Valdemarsvik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b4e3ae689ca0066fa03e7/index.m3u8
-#EXTINF:-1, IFLejonet-ÅstorpsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b39561dc6516e0899ec12/index.m3u8
-#EXTINF:-1, Sörhaga-TidaholmsHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b37871dc6516e0899ec0f/index.m3u8
-#EXTINF:-1, BålstaHC-SolnaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b4186e689ca0066fa03cd/index.m3u8
-#EXTINF:-1, LerumsBK-HovåsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b36a11dc6516e0899ec0b/index.m3u8
-#EXTINF:-1, FOCFarstaIF-IFKTumba
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670cb70d6b135e19484e1f4c/index.m3u8
-#EXTINF:-1, LaserHTOulu-LiKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6719d49108edeb34eb23bc58/index.m3u8
 #EXTINF:-1, Rouen-Amiens
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/66ff6bcf9ae3c54b26871fda.m3u8
 #EXTINF:-1, Hormadid'Anglet-Angers
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66ff6bcf7655fb0aed1ed897.m3u8
+#EXTINF:-1, Sörhaga-TidaholmsHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b37871dc6516e0899ec0f/index.m3u8
+#EXTINF:-1, BålstaHC-SolnaSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b4186e689ca0066fa03cd/index.m3u8
 #EXTINF:-1, Tours-Dunkerque
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ff6bd09ae3c54b26871fe2/index.m3u8
 #EXTINF:-1, Meudon-HCMP
