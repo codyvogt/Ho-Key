@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Tours-Dunkerque
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ff6bd09ae3c54b26871fe2/index.m3u8
-#EXTINF:-1, Meudon-HCMP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ff6bd09ae3c54b26871fdc/index.m3u8
 #EXTINF:-1, Villard-de-Lans-Neuilly
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ff6bd09ae3c54b26871fde/index.m3u8
 #EXTINF:-1, DrakkarsdeCaen-Épinal
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ff6bd09ae3c54b26871fe0/index.m3u8
+#EXTINF:-1, Moncton-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/59297622aa9c46d0919bef6dabb95a00.m3u8
+#EXTINF:-1, Blainville-B.-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/248f9f53ea314346ab99e16f30cb627d.m3u8
