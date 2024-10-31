@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Torpedo-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Liberec-Mlad·Boleslav
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708ce256e0aae1e6b070bc2/index.m3u8
 #EXTINF:-1, SpartaPraha-Pardubice
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6711fa8d6e0aae1e6b071e01/index.m3u8
 #EXTINF:-1, ParaistenSport-PKS
