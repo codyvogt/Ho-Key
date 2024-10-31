@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Villard-de-Lans-Neuilly
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ff6bd09ae3c54b26871fde/index.m3u8
-#EXTINF:-1, DrakkarsdeCaen-Épinal
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ff6bd09ae3c54b26871fe0/index.m3u8
 #EXTINF:-1, Moncton-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/59297622aa9c46d0919bef6dabb95a00.m3u8
 #EXTINF:-1, Blainville-B.-Chicoutimi
