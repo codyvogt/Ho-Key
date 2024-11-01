@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, SCRapperswil-HCDavos
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, HCJihlava-KometaBrno
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e22346b135e19484e23c4/index.m3u8
-#EXTINF:-1, Viikingit-KJTHaukatAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b260fe689ca0066fa038e/index.m3u8
 #EXTINF:-1, RocketsLoimaa-LLuja
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260fe689ca0066fa0348/index.m3u8
 #EXTINF:-1, ValKi-PanthersLahti
