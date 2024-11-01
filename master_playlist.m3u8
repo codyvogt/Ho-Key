@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KalevanPallo-JYP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b260f1dc6516e0899ebb6/index.m3u8
-#EXTINF:-1, SaimaanPallo-HPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb5/index.m3u8
-#EXTINF:-1, RaumanLukko-KooKoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb8/index.m3u8
-#EXTINF:-1, VaasanSport-Kärpät
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260f1dc6516e0899ebb7/index.m3u8
-#EXTINF:-1, K-Espoo-LahdenPelicans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260f1dc6516e0899ebb9/index.m3u8
-#EXTINF:-1, TampereenIlves-HIFK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b260f1dc6516e0899ebbb/index.m3u8
-#EXTINF:-1, TapparaTampere-TPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb1/index.m3u8
 #EXTINF:-1, VlciJablonec-Smíchov
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670cdec66b135e19484e20ed/index.m3u8
 #EXTINF:-1, LiberecB-Benátkyn.J.
