@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1, MetallurgMg-Sibir
 fluidtv.php?channel=https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, MikkelinJukurit-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260f1dc6516e0899ebb3/index.m3u8
+#EXTINF:-1, KalevanPallo-JYP
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb6/index.m3u8
+#EXTINF:-1, SaimaanPallo-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb5/index.m3u8
+#EXTINF:-1, RaumanLukko-KooKoo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb8/index.m3u8
+#EXTINF:-1, VaasanSport-Kärpät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb7/index.m3u8
+#EXTINF:-1, K-Espoo-LahdenPelicans
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb9/index.m3u8
+#EXTINF:-1, TampereenIlves-HIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebbb/index.m3u8
+#EXTINF:-1, TapparaTampere-TPS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb1/index.m3u8
+#EXTINF:-1, HCLitvínov-KarlovyVary
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d6fb6d5f52d016d5898c96/index.m3u8
