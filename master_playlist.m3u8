@@ -1,27 +1,3 @@
 #EXTM3U
 #EXTINF:-1, SCRapperswil-HCDavos
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, RaumanLukko-KooKoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb8/index.m3u8
-#EXTINF:-1, VaasanSport-K‰rp‰t
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260f1dc6516e0899ebb7/index.m3u8
-#EXTINF:-1, K-Espoo-LahdenPelicans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260f1dc6516e0899ebb9/index.m3u8
-#EXTINF:-1, TampereenIlves-HIFK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b260f1dc6516e0899ebbb/index.m3u8
-#EXTINF:-1, TapparaTampere-TPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebb1/index.m3u8
-#EXTINF:-1, KotkanTitaanit-PEPOHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b260fe689ca0066fa0345/index.m3u8
-#EXTINF:-1, NokianPyry-LeKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260fe689ca0066fa0344/index.m3u8
-#EXTINF:-1, Haukat-PorvoonHunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260fe689ca0066fa034e/index.m3u8
-#EXTINF:-1, Jokipojat-Ketter‰
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260f1dc6516e0899ebd9/index.m3u8
-#EXTINF:-1, Viikingit-KJTHaukatAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b260fe689ca0066fa038e/index.m3u8
-#EXTINF:-1, Lemp‰‰l‰nKisa-KOOVEE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671b260fe689ca0066fa0397/index.m3u8
-#EXTINF:-1, WarriorsBrno-IHCPÌsek
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f0321de4cee2202f8f3e59/index.m3u8
