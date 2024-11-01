@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, MetallurgMg-Sibir
-fluidtv.php?channel=https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, MikkelinJukurit-RoKi
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260f1dc6516e0899ebb3/index.m3u8
 #EXTINF:-1, KalevanPallo-JYP
