@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Cergy-Pontoise-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6700bd516b135e19484e0477.m3u8
 #EXTINF:-1, Bordeaux-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6700bd516b135e19484e0479.m3u8
-#EXTINF:-1, Anglet-Chamonix
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6700bd51ee56f13ea003f79a.m3u8
-#EXTINF:-1, Alleghe-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635a4d24da32d7de673c7/index.m3u8
-#EXTINF:-1, Feltre-ZinnenDolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635a590eeba7bde92cfc3/index.m3u8
-#EXTINF:-1, GrIFKJoukkue-N‰‰d‰t
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260fe689ca0066fa0339/index.m3u8
 #EXTINF:-1, Mechelen-EatersLimburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6713832c41ffd106dea0c750/index.m3u8
 #EXTINF:-1, Val-d'Or-Acadie-Bathurst
@@ -81,3 +71,21 @@ https://media-service.fanreachdata.io/edge/ohl/31ef2c913c2c41fd9b6f7011464ee849.
 https://media-service.fanreachdata.io/edge/ohl/c6b09757de8f496380762eaddd0bb3f3.m3u8
 #EXTINF:-1, Sarnia-OshawaGenerals
 https://media-service.fanreachdata.io/edge/ohl/5ab2357c6eb54264a6d3111a0069ef74.m3u8
+#EXTINF:-1, Calgary-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/ec8e382717474fe080b02cccfb745972.m3u8
+#EXTINF:-1, SCBroncos-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/602f085cc9a34168a3b36bbba25fff62.m3u8
+#EXTINF:-1, MedicineHat-Regina
+https://media-service.fanreachdata.io/edge/whl/8024a7a94ec3447785b866f9a073f8b1.m3u8
+#EXTINF:-1, PrinceGeorge-Kamloops
+https://media-service.fanreachdata.io/edge/whl/ff39695081ab4ce0adbe6d6b7c8390ef.m3u8
+#EXTINF:-1, Everett-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/f5b2ed14eeba4efaa9ecb1161d283463.m3u8
+#EXTINF:-1, Saskatoon-Vancouver
+https://media-service.fanreachdata.io/edge/whl/d246e03304184f12b619ce35e5bfb1d6.m3u8
+#EXTINF:-1, Edmonton-Seattle
+https://media-service.fanreachdata.io/edge/whl/b5895f98863844c7bbc08f5fc25fce8f.m3u8
+#EXTINF:-1, Portland-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/07b76aa249f34552a7dfd4ce77e8b414.m3u8
+#EXTINF:-1, MooseJaw-Victoria
+https://media-service.fanreachdata.io/edge/whl/1bf4e5e9ea9540709ea51d67e52a35d3.m3u8
