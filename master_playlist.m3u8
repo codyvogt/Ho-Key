@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1, SCRapperswil-HCDavos
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, RocketsLoimaa-LLuja
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260fe689ca0066fa0348/index.m3u8
-#EXTINF:-1, ValKi-PanthersLahti
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260fe689ca0066fa036d/index.m3u8
-#EXTINF:-1, HuntersTeam-KHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b260fe689ca0066fa0338/index.m3u8
-#EXTINF:-1, GrIFKJoukkue-N‰‰d‰t
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b260fe689ca0066fa0339/index.m3u8
-#EXTINF:-1, SCKolÌn-BKNov·Paka
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66efb38da1fe2c39f40b24c7/index.m3u8
-#EXTINF:-1, Turnov-SröniKutn·Hora
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670260ce86192e4cda5fc6e3/index.m3u8
+#EXTINF:-1, Como-EppanAppiano
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635a290eeba7bde92cfc1/index.m3u8
+#EXTINF:-1, HCMVVarese-Pergine
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635a2d24da32d7de673c3/index.m3u8
+#EXTINF:-1, HCAosta-Valdifiemme
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635a3d24da32d7de673c5/index.m3u8
+#EXTINF:-1, Alleghe-Bressanone
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635a4d24da32d7de673c7/index.m3u8
+#EXTINF:-1, Feltre-ZinnenDolomites
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635a590eeba7bde92cfc3/index.m3u8
