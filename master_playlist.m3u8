@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rødovre-HerlevEagles
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66b0c4afaead186603f68953/index.m3u8
-#EXTINF:-1, NorsjöHC-SKLejon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c90491dc6516e0899ef53/index.m3u8
-#EXTINF:-1, GötaTraneberg-Tumba
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c987ee689ca0066fa07b6/index.m3u8
-#EXTINF:-1, SegeltorpsIF-VärmdöHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c94d71dc6516e0899ef6f/index.m3u8
 #EXTINF:-1, AiglesdeNice-Angers
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6700bd516b135e19484e047b.m3u8
 #EXTINF:-1, Briançon-Marseille
