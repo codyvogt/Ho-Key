@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Guelph-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/24a17211ada04a1084656ecd1d512838.m3u8
-#EXTINF:-1, SudburyWolves-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/31ef2c913c2c41fd9b6f7011464ee849.m3u8
-#EXTINF:-1, SaultSte.Marie-London
-https://media-service.fanreachdata.io/edge/ohl/c6b09757de8f496380762eaddd0bb3f3.m3u8
-#EXTINF:-1, Sarnia-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/5ab2357c6eb54264a6d3111a0069ef74.m3u8
-#EXTINF:-1, Gatineau-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/333fb6006d5a44469a16a6fce40f0f0a.m3u8
-#EXTINF:-1, Chicoutimi-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/defef29d4bfa4503ad09699ae70dbfab.m3u8
-#EXTINF:-1, UNH-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Alaska-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Rensselaer-Miami
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/715284a4-8107-40bd-a448-47524f2fe9a5-hls/master/715284a4-8107-40bd-a448-47524f2fe9a5-hls.m3u8
-#EXTINF:-1, Merrimack-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, MinnState-BemidjiState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, BostonC-St.CloudState
