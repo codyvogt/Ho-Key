@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Reims-Luxembourg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ecf6b135e19484e07c0/index.m3u8
-#EXTINF:-1, Touluse-Blagnac-Annecy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06b135e19484e07e8/index.m3u8
-#EXTINF:-1, LionsdeLyon-Roanne
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed16e0aae1e6b06fd14/index.m3u8
 #EXTINF:-1, DucsdeDijon-Rouen2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67020ecf6b135e19484e07c4/index.m3u8
 #EXTINF:-1, Roche-Montpellier
@@ -13,8 +7,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed16e0aae1e6b06f
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06b135e19484e07e4/index.m3u8
 #EXTINF:-1, Valence-Clermont-Ferrand
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67038a7f6b135e19484e0d77/index.m3u8
-#EXTINF:-1, HärrydaHC-Sörhaga
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671df13a1dc6516e0899f33a/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz-Meudon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed16b135e19484e07ea/index.m3u8
 #EXTINF:-1, AlbatrosdeBrest-HCMP
