@@ -1,26 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Meudon2-Caen2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06b135e19484e07d0/index.m3u8
-#EXTINF:-1, Cholet2-Bordeaux2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed06b135e19484e07d8/index.m3u8
-#EXTINF:-1, Tours2-Brive
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06b135e19484e07d6/index.m3u8
-#EXTINF:-1, Amiens-Dunkerque
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67020ed06e0aae1e6b06fd0e.m3u8
-#EXTINF:-1, Montpellier-Bordeaux
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06e0aae1e6b06fd0a/index.m3u8
-#EXTINF:-1, Chambéry-HC74
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6700bd4fee56f13ea003f798/index.m3u8
 #EXTINF:-1, HCPiné-VinschgauEisfix
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635ab90eeba7bde92cfd3/index.m3u8
 #EXTINF:-1, AostaDI-StormPinerolo
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635acd24da32d7de673cd/index.m3u8
 #EXTINF:-1, GherdëinaDI-Cadore
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6721f0ec1dc6516e0899fb0e/index.m3u8
-#EXTINF:-1, Kiekko-EspooCh-JYPAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671c7790e689ca0066fa06bd/index.m3u8
-#EXTINF:-1, K-Ketut-LaserHTHot
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c778fe689ca0066fa05d0/index.m3u8
 #EXTINF:-1, Strasbourg-Tours
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06b135e19484e07e6/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz-Meudon
@@ -75,6 +59,10 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714d4b66b135e19484e3
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671c778fe689ca0066fa05c0/index.m3u8
 #EXTINF:-1, HärrydaHC-Sörhaga
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671df13a1dc6516e0899f33a/index.m3u8
+#EXTINF:-1, Cholet2-Bordeaux2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed06b135e19484e07d8/index.m3u8
+#EXTINF:-1, Tours2-Brive
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06b135e19484e07d6/index.m3u8
 #EXTINF:-1, Opava-BaníkHodonín
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718920ede786e495cf9d220/index.m3u8
 #EXTINF:-1, Grenoble-Ducsd'Angers
@@ -83,6 +71,8 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
 #EXTINF:-1, Providence-UNH
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Chambéry-HC74
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6700bd4fee56f13ea003f798/index.m3u8
 #EXTINF:-1, Shawinigan-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/bb0ad5aaa5f8481ca2d4ac760b09e091.m3u8
 #EXTINF:-1, Gatineau-Baie-Comeau
