@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, MinnState-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, BostonC-St.CloudState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/dff43e05-5664-4420-bfa5-8a20b41e1b3f-hls/master/dff43e05-5664-4420-bfa5-8a20b41e1b3f-hls.m3u8
 #EXTINF:-1, AirForce-ColoradoC
