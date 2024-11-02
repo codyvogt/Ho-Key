@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Calgary-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/ec8e382717474fe080b02cccfb745972.m3u8
-#EXTINF:-1, SCBroncos-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/602f085cc9a34168a3b36bbba25fff62.m3u8
-#EXTINF:-1, MedicineHat-Regina
-https://media-service.fanreachdata.io/edge/whl/8024a7a94ec3447785b866f9a073f8b1.m3u8
 #EXTINF:-1, PrinceGeorge-Kamloops
 https://media-service.fanreachdata.io/edge/whl/ff39695081ab4ce0adbe6d6b7c8390ef.m3u8
 #EXTINF:-1, Everett-WenatcheeWild
@@ -17,5 +11,3 @@ https://media-service.fanreachdata.io/edge/whl/b5895f98863844c7bbc08f5fc25fce8f.
 https://media-service.fanreachdata.io/edge/whl/07b76aa249f34552a7dfd4ce77e8b414.m3u8
 #EXTINF:-1, MooseJaw-Victoria
 https://media-service.fanreachdata.io/edge/whl/1bf4e5e9ea9540709ea51d67e52a35d3.m3u8
-#EXTINF:-1, AirForce-ColoradoC
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e809584d-9330-40d8-9ba4-152cf7435abe-hls/master/e809584d-9330-40d8-9ba4-152cf7435abe-hls.m3u8
