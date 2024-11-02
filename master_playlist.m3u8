@@ -21,26 +21,34 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed06b135e19484e0
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67020ed06b135e19484e07d6/index.m3u8
 #EXTINF:-1, Opava-BaníkHodonín
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718920ede786e495cf9d220/index.m3u8
-#EXTINF:-1, BostonU-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Union-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Rensselaer-Cornell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Brown-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Clarkson-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Yale-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Grenoble-Ducsd'Angers
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/67020ed26e0aae1e6b06fd22.m3u8
 #EXTINF:-1, Vermont-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
 #EXTINF:-1, Providence-UNH
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, NMU-MichiganTech
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, Michigan-BostonU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Alaska-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, NorthDakota-Cornell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, BostonC-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a86b2d75-3b78-40e5-8ab5-51457b199c77-hls/master/a86b2d75-3b78-40e5-8ab5-51457b199c77-hls.m3u8
+#EXTINF:-1, Denver-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer-Miami
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2c1e3db2-bb3d-4347-9394-5f1995b1edac-hls/master/2c1e3db2-bb3d-4347-9394-5f1995b1edac-hls.m3u8
+#EXTINF:-1, FSU-BowlingGreen
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, MinnState-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, Augustana-St.Thomas
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, Merrimack-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Chambéry-HC74
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6700bd4fee56f13ea003f798/index.m3u8
 #EXTINF:-1, Shawinigan-Québec
@@ -69,5 +77,9 @@ https://media-service.fanreachdata.io/edge/ohl/488a3279b89f454a93b74556421b782b.
 https://media-service.fanreachdata.io/edge/ohl/f24c4200cd4b41e49099fe0c89d9c9a6.m3u8
 #EXTINF:-1, BarrieColts-ErieOtters
 https://media-service.fanreachdata.io/edge/ohl/3ed09e3d122e4c689dd3ab3018ccb583.m3u8
+#EXTINF:-1, Clarkson-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Yale-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, HYC-GoldenSharks
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6714d4b66b135e19484e3186/index.m3u8
