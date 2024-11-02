@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Gatineau-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/d897815789e44091938a940ef63aca2a.m3u8
-#EXTINF:-1, Acadie-Bathurst-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/95a8e52ab6ae48d7a863c4d224b41ab6.m3u8
-#EXTINF:-1, Victoriaville-Blainville
-https://media-service.fanreachdata.io/edge/lhjmq/76b4e5406ec942698f7562275f5a2b3f.m3u8
-#EXTINF:-1, Val-d'Or-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/a27b4c17aadb40b9b3b3af40279eab4b.m3u8
-#EXTINF:-1, CapeBreton-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/9a72bd6986ea4cc08c93487765610e4a.m3u8
-#EXTINF:-1, RNHuskies-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/b4115b14c8484f30832337d581c78cce.m3u8
-#EXTINF:-1, SudburyWovles-Brantford
-https://media-service.fanreachdata.io/edge/ohl/4cae23d6846d4a59bfbd1a8bad58d79f.m3u8
-#EXTINF:-1, GuelphStorm-Kingston
-https://media-service.fanreachdata.io/edge/ohl/8cd00c3e2c3e411d83196e4b99ee4f37.m3u8
-#EXTINF:-1, SarniaSting-Brampton
-https://media-service.fanreachdata.io/edge/ohl/3f5c7c34f3e8418faf2dc16924456a82.m3u8
-#EXTINF:-1, Saginaw-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/488a3279b89f454a93b74556421b782b.m3u8
-#EXTINF:-1, SaultSte.Marie-Flint
-https://media-service.fanreachdata.io/edge/ohl/f24c4200cd4b41e49099fe0c89d9c9a6.m3u8
-#EXTINF:-1, BarrieColts-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/3ed09e3d122e4c689dd3ab3018ccb583.m3u8
 #EXTINF:-1, Providence-UNH
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Michigan-BostonU
@@ -47,6 +23,16 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthom
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Yale-Dartmouth
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Val-d'Or-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/a27b4c17aadb40b9b3b3af40279eab4b.m3u8
+#EXTINF:-1, CapeBreton-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/9a72bd6986ea4cc08c93487765610e4a.m3u8
+#EXTINF:-1, RNHuskies-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/b4115b14c8484f30832337d581c78cce.m3u8
+#EXTINF:-1, SaultSte.Marie-Flint
+https://media-service.fanreachdata.io/edge/ohl/f24c4200cd4b41e49099fe0c89d9c9a6.m3u8
+#EXTINF:-1, BarrieColts-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/3ed09e3d122e4c689dd3ab3018ccb583.m3u8
 #EXTINF:-1, MedicineHat-Brandon
 https://media-service.fanreachdata.io/edge/whl/b726014063ca486d8553faf37c42225d.m3u8
 #EXTINF:-1, Lethbridge-RedDeer
