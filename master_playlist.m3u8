@@ -11,6 +11,24 @@ https://media-service.fanreachdata.io/edge/lhjmq/a662040069704ae9a55fc0cc609d07c
 https://media-service.fanreachdata.io/edge/lhjmq/333fb6006d5a44469a16a6fce40f0f0a.m3u8
 #EXTINF:-1, Chicoutimi-Drummond.
 https://media-service.fanreachdata.io/edge/lhjmq/defef29d4bfa4503ad09699ae70dbfab.m3u8
+#EXTINF:-1, Erie-BrantfordBulldogs
+https://media-service.fanreachdata.io/edge/ohl/9170172a6e724bada60a7af734ecec54.m3u8
+#EXTINF:-1, Peterborough-Kingston
+https://media-service.fanreachdata.io/edge/ohl/38801e31875b4dfe9c1324cdf5a6cdfa.m3u8
+#EXTINF:-1, Guelph-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/24a17211ada04a1084656ecd1d512838.m3u8
+#EXTINF:-1, NorthBay-Brampton
+https://media-service.fanreachdata.io/edge/ohl/8dd90789e3924ee195982707bfe3b691.m3u8
+#EXTINF:-1, Barrie-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/5f25056969ca47b2b784e7c6dc24ef0c.m3u8
+#EXTINF:-1, Windsor-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/01af9303040749fc874b104d89e90d1a.m3u8
+#EXTINF:-1, SudburyWolves-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/31ef2c913c2c41fd9b6f7011464ee849.m3u8
+#EXTINF:-1, SaultSte.Marie-London
+https://media-service.fanreachdata.io/edge/ohl/c6b09757de8f496380762eaddd0bb3f3.m3u8
+#EXTINF:-1, Sarnia-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/5ab2357c6eb54264a6d3111a0069ef74.m3u8
 #EXTINF:-1, Dartmouth-Harvard
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
 #EXTINF:-1, UNH-Providence
@@ -31,38 +49,10 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghock
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, MinnState-BemidjiState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, Augustana-St.Thomas
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, BostonC-St.CloudState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/dff43e05-5664-4420-bfa5-8a20b41e1b3f-hls/master/dff43e05-5664-4420-bfa5-8a20b41e1b3f-hls.m3u8
 #EXTINF:-1, AirForce-ColoradoC
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e809584d-9330-40d8-9ba4-152cf7435abe-hls/master/e809584d-9330-40d8-9ba4-152cf7435abe-hls.m3u8
-#EXTINF:-1, St.Lawrence-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Clarkson-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, HolyCross-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Northeastern-UNH
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Erie-BrantfordBulldogs
-https://media-service.fanreachdata.io/edge/ohl/9170172a6e724bada60a7af734ecec54.m3u8
-#EXTINF:-1, Peterborough-Kingston
-https://media-service.fanreachdata.io/edge/ohl/38801e31875b4dfe9c1324cdf5a6cdfa.m3u8
-#EXTINF:-1, Guelph-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/24a17211ada04a1084656ecd1d512838.m3u8
-#EXTINF:-1, NorthBay-Brampton
-https://media-service.fanreachdata.io/edge/ohl/8dd90789e3924ee195982707bfe3b691.m3u8
-#EXTINF:-1, Barrie-NiagaraIceDogs
-https://media-service.fanreachdata.io/edge/ohl/5f25056969ca47b2b784e7c6dc24ef0c.m3u8
-#EXTINF:-1, Windsor-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/01af9303040749fc874b104d89e90d1a.m3u8
-#EXTINF:-1, SudburyWolves-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/31ef2c913c2c41fd9b6f7011464ee849.m3u8
-#EXTINF:-1, SaultSte.Marie-London
-https://media-service.fanreachdata.io/edge/ohl/c6b09757de8f496380762eaddd0bb3f3.m3u8
-#EXTINF:-1, Sarnia-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/5ab2357c6eb54264a6d3111a0069ef74.m3u8
 #EXTINF:-1, Calgary-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/ec8e382717474fe080b02cccfb745972.m3u8
 #EXTINF:-1, SCBroncos-PrinceAlbert
