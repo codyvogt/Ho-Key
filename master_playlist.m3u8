@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Bordeaux-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/670360506e0aae1e6b070095.m3u8
-#EXTINF:-1, Pergine-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635bdd24da32d7de673e9/index.m3u8
 #EXTINF:-1, Eaters-EGDiez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67162629d24da32d7de6736b/index.m3u8
 #EXTINF:-1, LiègeBulldogs-DenHaag
