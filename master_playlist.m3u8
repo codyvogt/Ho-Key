@@ -1,9 +1,37 @@
 #EXTM3U
-#EXTINF:-1, Eaters-EGDiez-Limburg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67162629d24da32d7de6736b/index.m3u8
-#EXTINF:-1, LiègeBulldogs-DenHaag
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716262ad24da32d7de6736d/index.m3u8
+#EXTINF:-1, Radomyšl-Hlubokán.Vlt.
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715fd25d24da32d7de67276/index.m3u8
 #EXTINF:-1, HYCHerentals-Mechelen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716262ad24da32d7de6736f/index.m3u8
-#EXTINF:-1, HiHo-Kisa-Eagles
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c778fe689ca0066fa056d/index.m3u8
+#EXTINF:-1, Moncton-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/b266d51188f3412f9a7a198bbe14f0d5.m3u8
+#EXTINF:-1, Val-d'Or-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/3aeed75747ab419eb7d59408ecb124fb.m3u8
+#EXTINF:-1, Shawinigan-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/51d8f39307be4d0f8ce44cd524a138b8.m3u8
+#EXTINF:-1, Sherbrooke-Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/038a8d0d4b6a45828c8ee93ef724a5c7.m3u8
+#EXTINF:-1, Gatineau-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/dc8a505cbf284fdd83745b0bbd378aa9.m3u8
+#EXTINF:-1, Drummond.-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/c888743bcbd442ad9639eb41d5870434.m3u8
+#EXTINF:-1, Kingston-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/4e63bf974a0c4b0a89f420c060d22aaf.m3u8
+#EXTINF:-1, Brampton-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/fd4f0092b6fd4698990e0bc3888c8f38.m3u8
+#EXTINF:-1, SudburyWolves-Niagara
+https://media-service.fanreachdata.io/edge/ohl/d644766aaf97470fafe9db60c833ff80.m3u8
+#EXTINF:-1, SaginawSpirit-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/ff430213659a40a0b713a69b3fd1c981.m3u8
+#EXTINF:-1, London-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/f586fdf3d35e45e9a69ed22b58f532c3.m3u8
+#EXTINF:-1, Flint-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/aa6a79b297de410db47341ed885c328a.m3u8
+#EXTINF:-1, Brantford-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/8cb4d069884445259198325142634197.m3u8
+#EXTINF:-1, HammarbyIF-Värmdö
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f2c04e689ca0066fa0bfa/index.m3u8
+#EXTINF:-1, Vermont-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Stonehill-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
