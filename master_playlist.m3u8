@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Moncton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/b266d51188f3412f9a7a198bbe14f0d5.m3u8
 #EXTINF:-1, Val-d'Or-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/3aeed75747ab419eb7d59408ecb124fb.m3u8
 #EXTINF:-1, Shawinigan-Rimouski
@@ -11,16 +9,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/038a8d0d4b6a45828c8ee93ef724a5c
 https://media-service.fanreachdata.io/edge/lhjmq/dc8a505cbf284fdd83745b0bbd378aa9.m3u8
 #EXTINF:-1, Drummond.-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/c888743bcbd442ad9639eb41d5870434.m3u8
-#EXTINF:-1, Kingston-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/4e63bf974a0c4b0a89f420c060d22aaf.m3u8
 #EXTINF:-1, Brampton-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/fd4f0092b6fd4698990e0bc3888c8f38.m3u8
-#EXTINF:-1, SudburyWolves-Niagara
-https://media-service.fanreachdata.io/edge/ohl/d644766aaf97470fafe9db60c833ff80.m3u8
-#EXTINF:-1, SaginawSpirit-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/ff430213659a40a0b713a69b3fd1c981.m3u8
-#EXTINF:-1, London-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/f586fdf3d35e45e9a69ed22b58f532c3.m3u8
 #EXTINF:-1, Flint-WindsorSpitfires
 https://media-service.fanreachdata.io/edge/ohl/aa6a79b297de410db47341ed885c328a.m3u8
 #EXTINF:-1, Brantford-Oshawa
