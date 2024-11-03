@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HYCHerentals-Mechelen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716262ad24da32d7de6736f/index.m3u8
 #EXTINF:-1, Moncton-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/b266d51188f3412f9a7a198bbe14f0d5.m3u8
 #EXTINF:-1, Val-d'Or-SaintJohn
@@ -27,8 +25,6 @@ https://media-service.fanreachdata.io/edge/ohl/f586fdf3d35e45e9a69ed22b58f532c3.
 https://media-service.fanreachdata.io/edge/ohl/aa6a79b297de410db47341ed885c328a.m3u8
 #EXTINF:-1, Brantford-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/8cb4d069884445259198325142634197.m3u8
-#EXTINF:-1, HammarbyIF-Värmdö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f2c04e689ca0066fa0bfa/index.m3u8
 #EXTINF:-1, Vermont-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Stonehill-Dartmouth
