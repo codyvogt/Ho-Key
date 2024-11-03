@@ -5,6 +5,10 @@ https://media-service.fanreachdata.io/edge/lhjmq/a27b4c17aadb40b9b3b3af40279eab4
 https://media-service.fanreachdata.io/edge/lhjmq/9a72bd6986ea4cc08c93487765610e4a.m3u8
 #EXTINF:-1, RNHuskies-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/b4115b14c8484f30832337d581c78cce.m3u8
+#EXTINF:-1, SaultSte.Marie-Flint
+https://media-service.fanreachdata.io/edge/ohl/f24c4200cd4b41e49099fe0c89d9c9a6.m3u8
+#EXTINF:-1, BarrieColts-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/3ed09e3d122e4c689dd3ab3018ccb583.m3u8
 #EXTINF:-1, Michigan-BostonU
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, Alaska-Clarkson
@@ -23,12 +27,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghock
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, Merrimack-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Yale-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, SaultSte.Marie-Flint
-https://media-service.fanreachdata.io/edge/ohl/f24c4200cd4b41e49099fe0c89d9c9a6.m3u8
-#EXTINF:-1, BarrieColts-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/3ed09e3d122e4c689dd3ab3018ccb583.m3u8
 #EXTINF:-1, MedicineHat-Brandon
 https://media-service.fanreachdata.io/edge/whl/b726014063ca486d8553faf37c42225d.m3u8
 #EXTINF:-1, Lethbridge-RedDeer
