@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, SpokaneChiefs-Tri-City
-https://media-service.fanreachdata.io/edge/whl/6d582181ff554132a2080142eea1f3e2.m3u8
 #EXTINF:-1, MooseJaw-Vancouver
 https://media-service.fanreachdata.io/edge/whl/0b14366a803f4068a198e5cd333e0bc6.m3u8
+#EXTINF:-1, Laima-L&LHope
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67179348ad24ad0a91050895/index.m3u8
