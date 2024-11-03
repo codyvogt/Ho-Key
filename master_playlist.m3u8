@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Herlev-Frederikshavn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66b0c4b4aead186603f6895b/index.m3u8
-#EXTINF:-1, HerningBlueFox-Rødovre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66b0c4b3aead186603f68959/index.m3u8
-#EXTINF:-1, SønderjyskE-Rungsted
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66b0c4b5aead186603f6895d/index.m3u8
-#EXTINF:-1, OdenseBulldogs-Aalborg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66b0c4b7aead186603f6895f/index.m3u8
 #EXTINF:-1, Turnov-StadionVrchlabí
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670260ce86192e4cda5fc6e2/index.m3u8
