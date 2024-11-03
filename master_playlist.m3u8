@@ -25,10 +25,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d2ead681867931f3c4c
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f942732ad3f109382cb9f5/index.m3u8
 #EXTINF:-1, Radomyšl-Hlubokán.Vlt.
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715fd25d24da32d7de67276/index.m3u8
-#EXTINF:-1, RaumaTigers-LuKi-82
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671dc911e689ca0066fa08b7/index.m3u8
-#EXTINF:-1, HiHo-Kisa-Eagles
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c778fe689ca0066fa056d/index.m3u8
 #EXTINF:-1, Évry-Viry-Meudon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6703604e6e0aae1e6b070087/index.m3u8
 #EXTINF:-1, Eaters-EGDiez-Limburg
@@ -37,3 +33,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67162629d24da32d7de67
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716262ad24da32d7de6736d/index.m3u8
 #EXTINF:-1, HYCHerentals-Mechelen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716262ad24da32d7de6736f/index.m3u8
+#EXTINF:-1, HiHo-Kisa-Eagles
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c778fe689ca0066fa056d/index.m3u8
