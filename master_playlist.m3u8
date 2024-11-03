@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1, KJTHaukat-Jää-Tiikerit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671dc911e689ca0066fa08d0/index.m3u8
+#EXTINF:-1, LeksandsIF-AIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f3c5de689ca0066fa0cfc/index.m3u8
+#EXTINF:-1, LuleåHF-BrynäsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f3d45e689ca0066fa0d0a/index.m3u8
+#EXTINF:-1, SkellefteåAIK-Almtuna
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f351ce689ca0066fa0c91/index.m3u8
+#EXTINF:-1, MoraIK-DjurgårdensIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f3e2e1dc6516e0899f511/index.m3u8
