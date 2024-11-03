@@ -1,32 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Pinerolo-Merano/Bolzano
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635b990eeba7bde92cfe3/index.m3u8
-#EXTINF:-1, Amiens-AiglesdeNice
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670360506e0aae1e6b070093.m3u8
-#EXTINF:-1, Marseille-RapacesdeGap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/670360506b135e19484e0be7.m3u8
 #EXTINF:-1, Bordeaux-Anglet
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/670360506e0aae1e6b070095.m3u8
-#EXTINF:-1, EppanAppiano-Varese
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635bad24da32d7de673e3/index.m3u8
-#EXTINF:-1, ValdifiemmeHC-Alleghe
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635bcd24da32d7de673e5/index.m3u8
-#EXTINF:-1, Como-FassaFalcons
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635bdd24da32d7de673e7/index.m3u8
 #EXTINF:-1, Pergine-SVKaltern
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635bdd24da32d7de673e9/index.m3u8
-#EXTINF:-1, KortrijkSpurs-Charleroi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671be5bf1dc6516e0899ed39/index.m3u8
-#EXTINF:-1, KågedalensAIF-Boliden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f351c1dc6516e0899f4db/index.m3u8
-#EXTINF:-1, Gepardi-VlciJablonec
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d2ead681867931f3c4ccb1/index.m3u8
-#EXTINF:-1, Žabonosy-VelkéPopovice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f942732ad3f109382cb9f5/index.m3u8
-#EXTINF:-1, Radomyšl-Hlubokán.Vlt.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6715fd25d24da32d7de67276/index.m3u8
-#EXTINF:-1, Évry-Viry-Meudon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6703604e6e0aae1e6b070087/index.m3u8
 #EXTINF:-1, Eaters-EGDiez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67162629d24da32d7de6736b/index.m3u8
 #EXTINF:-1, LiègeBulldogs-DenHaag
