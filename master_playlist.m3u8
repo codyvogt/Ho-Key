@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lethbridge-RedDeer
-https://media-service.fanreachdata.io/edge/whl/5ddb5b21b8bb449d9c5b9ee51e93088d.m3u8
-#EXTINF:-1, Regina-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/c990f29a5f874b8e8955ce535482cd56.m3u8
-#EXTINF:-1, Edmonton-Wenatchee
-https://media-service.fanreachdata.io/edge/whl/ce80f7e473d34232afdfb68c13d63ab9.m3u8
-#EXTINF:-1, Portland-Seattle
-https://media-service.fanreachdata.io/edge/whl/8cf46387e8a242ee91d2302b7995b555.m3u8
 #EXTINF:-1, SpokaneChiefs-Tri-City
 https://media-service.fanreachdata.io/edge/whl/6d582181ff554132a2080142eea1f3e2.m3u8
 #EXTINF:-1, MooseJaw-Vancouver
