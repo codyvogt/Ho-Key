@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Shawinigan-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/51d8f39307be4d0f8ce44cd524a138b8.m3u8
-#EXTINF:-1, Sherbrooke-Blainville
-https://media-service.fanreachdata.io/edge/lhjmq/038a8d0d4b6a45828c8ee93ef724a5c7.m3u8
-#EXTINF:-1, Gatineau-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/dc8a505cbf284fdd83745b0bbd378aa9.m3u8
-#EXTINF:-1, Drummond.-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/c888743bcbd442ad9639eb41d5870434.m3u8
-#EXTINF:-1, Vermont-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Stonehill-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Flint-WindsorSpitfires
-https://media-service.fanreachdata.io/edge/ohl/aa6a79b297de410db47341ed885c328a.m3u8
 #EXTINF:-1, Brantford-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/8cb4d069884445259198325142634197.m3u8
 #EXTINF:-1, Saskatoon-VictoriaRoyals
