@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, PirátiChomutov-Ukraine
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6728d423e689ca0066fa268b/index.m3u8
+#EXTINF:-1, CzechRepublic-Slovakia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e3e556e0aae1e6b0718f0/index.m3u8
