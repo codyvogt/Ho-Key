@@ -1,40 +1,12 @@
 #EXTM3U
-#EXTINF:-1, NynäshamnsIF-ÄltaIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6721e21b1dc6516e0899faec/index.m3u8
-#EXTINF:-1, MunkedalsBK-Uddevalla
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721d1bbe689ca0066fa139d/index.m3u8
-#EXTINF:-1, ÖsteråkerVikings-Kista
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6721d902e689ca0066fa13e2/index.m3u8
-#EXTINF:-1, BrunfloIK2-Svenstavik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670a25516e0aae1e6b070e34/index.m3u8
-#EXTINF:-1, Sala-VästeråsPickels
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6721cb641dc6516e0899fa64/index.m3u8
-#EXTINF:-1, Örnen/Örebro-Kumla2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721e21b1dc6516e0899faea/index.m3u8
 #EXTINF:-1, Dunkerque-Caen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed16e0aae1e6b06fd1a/index.m3u8
-#EXTINF:-1, IFKArvidsjaur-Sunderby
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6721d0d5e689ca0066fa1398/index.m3u8
-#EXTINF:-1, VännäsHC-BurträskHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6721d64ae689ca0066fa13b1/index.m3u8
-#EXTINF:-1, SKLejon-VindelnsHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6721e045e689ca0066fa1417/index.m3u8
-#EXTINF:-1, NjurundaSK-BrunfloIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6721dd8c1dc6516e0899facd/index.m3u8
 #EXTINF:-1, ÅngeIK-KovlandsIshF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721dbbd1dc6516e0899faba/index.m3u8
-#EXTINF:-1, Kramfors-SollefteåHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6721d81ee689ca0066fa13d6/index.m3u8
-#EXTINF:-1, LidingöVikings-Tierp
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721dad7e689ca0066fa13f5/index.m3u8
 #EXTINF:-1, HammarbyIF-Traneberg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6721cf04e689ca0066fa1389/index.m3u8
 #EXTINF:-1, Värmdö-HaningeAnchors
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721e2fd1dc6516e0899faf4/index.m3u8
-#EXTINF:-1, MjölbyHC-VimmerbyHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6721e5bb1dc6516e0899fb04/index.m3u8
-#EXTINF:-1, KRIF-RydaholmsSK/Troja
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6721df5ce689ca0066fa140b/index.m3u8
 #EXTINF:-1, KungälvsIK-Oskarshamn
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721e4d21dc6516e0899fb00/index.m3u8
 #EXTINF:-1, Rødovre-Hvidovre
