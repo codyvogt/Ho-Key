@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dunkerque-Caen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed16e0aae1e6b06fd1a/index.m3u8
-#EXTINF:-1, ÅngeIK-KovlandsIshF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721dbbd1dc6516e0899faba/index.m3u8
-#EXTINF:-1, HammarbyIF-Traneberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6721cf04e689ca0066fa1389/index.m3u8
-#EXTINF:-1, Värmdö-HaningeAnchors
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721e2fd1dc6516e0899faf4/index.m3u8
-#EXTINF:-1, KungälvsIK-Oskarshamn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721e4d21dc6516e0899fb00/index.m3u8
-#EXTINF:-1, Rødovre-Hvidovre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f68acf2ad3f109382cb277/index.m3u8
 #EXTINF:-1, Briançon-Amiens
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6706034f6e0aae1e6b0707d5.m3u8
 #EXTINF:-1, AiglesdeNice-Rouen
@@ -23,5 +11,3 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6706034f6b135e19484e1228.m3u8
 #EXTINF:-1, Anglet-Grenoble
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6706034f6e0aae1e6b0707d9.m3u8
-#EXTINF:-1, PUS-HernesaarenNäädät
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67206c0e1dc6516e0899f705/index.m3u8
