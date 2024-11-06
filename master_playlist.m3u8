@@ -3,3 +3,9 @@
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67237f8e1dc6516e0899ff21/index.m3u8
 #EXTINF:-1, Finland-Slovakia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67237f8e1dc6516e0899ff23/index.m3u8
+#EXTINF:-1, Finland-Sweden
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871e81/index.m3u8
+#EXTINF:-1, Czechia-Switzerland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871e87/index.m3u8
+#EXTINF:-1, SlaviaPraha-Ukraine
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729167f1dc6516e089a0f42/index.m3u8
