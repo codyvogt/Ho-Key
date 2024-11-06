@@ -11,3 +11,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729167f1dc6516e089a0f42/index.m3u8
 #EXTINF:-1, Ottawa67's-Kingston
 https://media-service.fanreachdata.io/edge/ohl/5d7a17f5f2ab4390a1989c18f63bbcd8.m3u8
+#EXTINF:-1, CzechRepublic-Slovakia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e3e556e0aae1e6b0718f3/index.m3u8
