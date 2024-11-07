@@ -1,26 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Slovenia-France
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4d1dc6516e0899ebab/index.m3u8
-#EXTINF:-1, MightyRavens-TAIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672488bde689ca0066fa1892/index.m3u8
-#EXTINF:-1, TrelleborgsIF-IFLejonet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67247ebee689ca0066fa185b/index.m3u8
-#EXTINF:-1, LundGiantsHC-OsbyIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67248430e689ca0066fa1876/index.m3u8
-#EXTINF:-1, KungsbackaHC-Varberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672488bde689ca0066fa1893/index.m3u8
-#EXTINF:-1, Solna-Vallentuna-Ormsta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721cc4c1dc6516e0899fa6a/index.m3u8
-#EXTINF:-1, TimråIK-IFSundsvall
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6724808d1dc6516e0899fffc/index.m3u8
-#EXTINF:-1, Denmark-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6728b0371dc6516e089a0ee7/index.m3u8
 #EXTINF:-1, Germany-Denmark
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672c749b1dc6516e089a142b/index.m3u8
-#EXTINF:-1, PiteåHC-BodensHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67247ebee689ca0066fa185d/index.m3u8
-#EXTINF:-1, EVUTeam-KHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67230f111dc6516e0899fc8d/index.m3u8
+#EXTINF:-1, Solna-Vallentuna-Ormsta
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6721cc4c1dc6516e0899fa6a/index.m3u8
 #EXTINF:-1, HässelbyKälvesta-Duvbo
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67247864e689ca0066fa1824/index.m3u8
 #EXTINF:-1, TavastiaPharmi-Hawks
