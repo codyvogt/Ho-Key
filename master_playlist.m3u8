@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, CzechRepublic-Finland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871e86/index.m3u8
 #EXTINF:-1, France-Cergy-Pontoise
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/671b1b4de689ca0066fa0330.m3u8
 #EXTINF:-1, Slovenia-France
