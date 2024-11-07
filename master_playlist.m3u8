@@ -3,8 +3,6 @@
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67237f8e1dc6516e0899ff20/index.m3u8
 #EXTINF:-1, Finland-Switzerland
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67237f8e1dc6516e0899ff22/index.m3u8
-#EXTINF:-1, Latvia-Denmark
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6724aa411dc6516e089a008e/index.m3u8
 #EXTINF:-1, UnitedStates-Sweden
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871e83/index.m3u8
 #EXTINF:-1, CzechRepublic-Finland
@@ -19,3 +17,5 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4d1dc6516e0899eba9/index.m3u8
 #EXTINF:-1, Slovenia-France
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4d1dc6516e0899ebab/index.m3u8
+#EXTINF:-1, Latvia-Denmark
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6724aa411dc6516e089a008e/index.m3u8
