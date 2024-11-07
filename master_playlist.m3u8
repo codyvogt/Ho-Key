@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-Sal.Yulaev
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Hungary-Italy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b1b4d1dc6516e0899eba9/index.m3u8
-#EXTINF:-1, Slovenia-France
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4d1dc6516e0899ebab/index.m3u8
 #EXTINF:-1, Latvia-Denmark
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6724aa411dc6516e089a008e/index.m3u8
 #EXTINF:-1, Norway-Germany
@@ -27,5 +21,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6708d1696e0aae1e6b070bce/index.m3u8
 #EXTINF:-1, ChiefsTurku-RNKHoci
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67230f111dc6516e0899fc96/index.m3u8
+#EXTINF:-1, Slovenia-France
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4d1dc6516e0899ebab/index.m3u8
 #EXTINF:-1, Italy-Austria
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67164270d24da32d7de674f5/index.m3u8
