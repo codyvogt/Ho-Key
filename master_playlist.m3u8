@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Finland-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67237f8e1dc6516e0899ff22/index.m3u8
 #EXTINF:-1, CzechRepublic-Finland
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871e86/index.m3u8
 #EXTINF:-1, Switzerland-Finland
@@ -34,7 +32,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67247cf0e689ca0066fa1
 #EXTINF:-1, TimråIK-IFSundsvall
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6724808d1dc6516e0899fffc/index.m3u8
 #EXTINF:-1, Denmark-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728b0371dc6516e089a0ee7/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6728b0371dc6516e089a0ee7/index.m3u8
 #EXTINF:-1, Germany-Denmark
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672c749b1dc6516e089a142b/index.m3u8
 #EXTINF:-1, PiteåHC-BodensHF
