@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, France-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6728ecc01dc6516e089a0f32/index.m3u8
 #EXTINF:-1, Slovakia-Switzerland
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670e3e556e0aae1e6b0718f1/index.m3u8
 #EXTINF:-1, Finland-Switzerland
@@ -14,7 +12,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708d1696e0aae1e6b070
 #EXTINF:-1, ChiefsTurku-RNKHoci
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67230f111dc6516e0899fc96/index.m3u8
 #EXTINF:-1, France-Cergy-Pontoise
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4de689ca0066fa0330/index.m3u8
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/671b1b4de689ca0066fa0330.m3u8
 #EXTINF:-1, Slovenia-France
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4d1dc6516e0899ebab/index.m3u8
 #EXTINF:-1, Italy-Austria
