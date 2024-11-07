@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Slovakia-CzechRepublic
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67237f8e1dc6516e0899ff20/index.m3u8
-#EXTINF:-1, Finland-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67237f8e1dc6516e0899ff22/index.m3u8
 #EXTINF:-1, UnitedStates-Sweden
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66fe340c9ae3c54b26871e83/index.m3u8
 #EXTINF:-1, CzechRepublic-Finland
@@ -18,7 +14,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671b1b4d1dc6516e0899e
 #EXTINF:-1, Slovenia-France
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b1b4d1dc6516e0899ebab/index.m3u8
 #EXTINF:-1, Latvia-Denmark
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6724aa411dc6516e089a008e/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6724aa411dc6516e089a008e/index.m3u8
 #EXTINF:-1, Norway-Germany
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728b0361dc6516e089a0ee5/index.m3u8
 #EXTINF:-1, Denmark-Slovakia
@@ -26,4 +22,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728b0371dc6516e089a0
 #EXTINF:-1, Germany-FranceU18
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6718ac0cad24ad0a910509a0/index.m3u8
 #EXTINF:-1, France-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728ecc01dc6516e089a0f32/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6728ecc01dc6516e089a0f32/index.m3u8
+#EXTINF:-1, Finland-Switzerland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67237f8e1dc6516e0899ff22/index.m3u8
