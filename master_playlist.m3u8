@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1, BCDrakkars-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/62d3e9609d204c0785a8c6ff3a6c9fb4.m3u8
+#EXTINF:-1, Sherbrooke-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/e6148a45c495404ab4d50492bdac0251.m3u8
+#EXTINF:-1, SaintJohn-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/9857f03f3f1648f0a7cb80c6d1936c83.m3u8
+#EXTINF:-1, BostonU-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Erie-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/758e6f3708bf461399c77ede123e2a0d.m3u8
+#EXTINF:-1, NorthBay-Windsor
+https://media-service.fanreachdata.io/edge/ohl/f3e67cecfeea41538f244427a204c977.m3u8
+#EXTINF:-1, Peterborough-Saginaw
+https://media-service.fanreachdata.io/edge/ohl/1c13d5c9c05b4c46abf06d75da8b83b4.m3u8
