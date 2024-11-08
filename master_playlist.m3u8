@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Germany-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6728b037e689ca0066fa2666/index.m3u8
-#EXTINF:-1, Denmark-Norway
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728b038e689ca0066fa2668/index.m3u8
-#EXTINF:-1, Slovenia-Austria
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716427ad24da32d7de674f7/index.m3u8
-#EXTINF:-1, Hungary-Italy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635c2d24da32d7de673ef/index.m3u8
 #EXTINF:-1, VlciJablonec-Nov·Paka
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67176abede786e495cf9d14f/index.m3u8
