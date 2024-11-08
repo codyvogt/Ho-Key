@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Latvia-Norway
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6724a972e689ca0066fa1904/index.m3u8
 #EXTINF:-1, Germany-Slovakia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6728b037e689ca0066fa2666/index.m3u8
 #EXTINF:-1, Denmark-Norway
