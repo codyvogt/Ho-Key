@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sweden-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66fe340c9ae3c54b26871e80/index.m3u8
 #EXTINF:-1, Slovenia-Hungary
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c6ccbe689ca0066fa0528/index.m3u8
 #EXTINF:-1, Hungary-France
