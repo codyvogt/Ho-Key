@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Czechia-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67246091e689ca0066fa17c4/index.m3u8
-#EXTINF:-1, Sweden-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67246091e689ca0066fa17c2/index.m3u8
 #EXTINF:-1, Sweden-Switzerland
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66fe340c9ae3c54b26871e80/index.m3u8
 #EXTINF:-1, Finland-Germany
