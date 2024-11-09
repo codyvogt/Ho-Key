@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Miami-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls/master/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls.m3u8
-#EXTINF:-1, ArizonaState-ColoradoC
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ba72432-f130-4179-af6b-2d304a0c667c-hls/master/2ba72432-f130-4179-af6b-2d304a0c667c-hls.m3u8
-#EXTINF:-1, Lindenwood-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls/master/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls.m3u8
-#EXTINF:-1, Edmonton-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/97aee035511d41aeb781db379d9c3f74.m3u8
 #EXTINF:-1, Spokane-Kamloops
 https://media-service.fanreachdata.io/edge/whl/75eb6b7a99f44e498dbe16f5f2bb0bee.m3u8
 #EXTINF:-1, RedDeer-WenatcheeWild
