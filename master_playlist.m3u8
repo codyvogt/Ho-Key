@@ -1,5 +1,49 @@
 #EXTM3U
-#EXTINF:-1, Czechia-UnitedStates
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c7655fb0aed1ed6c4/index.m3u8
-#EXTINF:-1, HKOpava-TechnikaBrno
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67124ef66b135e19484e2a5a/index.m3u8
+#EXTINF:-1, Évry-Viry-Dijon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b494d6e0aae1e6b070ee2/index.m3u8
+#EXTINF:-1, Anglet2-Valence
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/670b494f6b135e19484e1abd.m3u8
+#EXTINF:-1, Wasquehal-Paris
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494d6e0aae1e6b070ee8/index.m3u8
+#EXTINF:-1, Montpellier-Toulouse
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6b135e19484e1abb/index.m3u8
+#EXTINF:-1, Rouen2-Châlons
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670b494d6b135e19484e1a9d.m3u8
+#EXTINF:-1, Roanne-Grenoble2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f24/index.m3u8
+#EXTINF:-1, Clermont-Roche-sur-Yon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f18/index.m3u8
+#EXTINF:-1, Évry-Viry2-Asnieres
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494e6b135e19484e1aa1/index.m3u8
+#EXTINF:-1, Brest2-Caen2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494e6e0aae1e6b070efa/index.m3u8
+#EXTINF:-1, Toulouse2-Avignon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494e6b135e19484e1aa3/index.m3u8
+#EXTINF:-1, Strasbourg2-Colmar
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b494e6e0aae1e6b070ef8/index.m3u8
+#EXTINF:-1, Padova-GherdëinaDI
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635c490eeba7bde92cfed/index.m3u8
+#EXTINF:-1, HCPiné-Cadore
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635c490eeba7bde92cfef/index.m3u8
+#EXTINF:-1, Vinschgau-HCPSelection
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635c590eeba7bde92cff1/index.m3u8
+#EXTINF:-1, AostaDI-ValpelliceDI
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635c8d24da32d7de673f5/index.m3u8
+#EXTINF:-1, Kiekko-67Turku-TuK-V
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725b20fe689ca0066fa1acc/index.m3u8
+#EXTINF:-1, OYUS-Teräs-Kiekko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672460911dc6516e0899ff9c/index.m3u8
+#EXTINF:-1, Valanciennes-Brest
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f20/index.m3u8
+#EXTINF:-1, Meudon-Neuilly
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6e0aae1e6b070f14/index.m3u8
+#EXTINF:-1, Chambéry-ÉpinalHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6e0aae1e6b070f1a/index.m3u8
+#EXTINF:-1, Tours-Nantes
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f1c/index.m3u8
+#EXTINF:-1, Cholet-MontBlanc
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6e0aae1e6b070f22/index.m3u8
+#EXTINF:-1, Caen-Strasbourg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6b135e19484e1ab9/index.m3u8
+#EXTINF:-1, Villard-Dunkerque
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f16/index.m3u8
