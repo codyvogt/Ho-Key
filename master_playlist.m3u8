@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Strasbourg2-Colmar
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670b494e6e0aae1e6b070ef8/index.m3u8
 #EXTINF:-1, Caen-Strasbourg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6b135e19484e1ab9/index.m3u8
 #EXTINF:-1, Villard-Dunkerque
@@ -11,10 +9,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635c990eeba7bde92c
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635ca90eeba7bde92cff9/index.m3u8
 #EXTINF:-1, Heerenveen-Mechelen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671e0f2ce689ca0066fa0b45/index.m3u8
-#EXTINF:-1, Cergy-Pontoise-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/670b494f6b135e19484e1aaf.m3u8
-#EXTINF:-1, LionsdeLyon-Grenoble
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6e0aae1e6b070f08/index.m3u8
 #EXTINF:-1, Cornell-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Rensselaer-Clarkson
