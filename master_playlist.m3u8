@@ -1,37 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Switzerland-Sweden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6725b210e689ca0066fa1c2f/index.m3u8
-#EXTINF:-1, Lindlöven-Kvarnsveden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672721c2e689ca0066fa2186/index.m3u8
-#EXTINF:-1, VärmdöHC-Saltsjöbaden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67272908e689ca0066fa21fd/index.m3u8
-#EXTINF:-1, Segeltorp-HammarbyIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672720db1dc6516e089a08ff/index.m3u8
-#EXTINF:-1, TrångsundsIF-JärnaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672716dde689ca0066fa20bb/index.m3u8
-#EXTINF:-1, SunneIK-ArvikaHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67272ca11dc6516e089a0aba/index.m3u8
-#EXTINF:-1, WingsArlanda-Vallentuna
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672718aa1dc6516e089a07ab/index.m3u8
-#EXTINF:-1, ÅngeIK-TegsSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672721c2e689ca0066fa2184/index.m3u8
-#EXTINF:-1, Tyresö-SollentunaHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672729081dc6516e089a0a4d/index.m3u8
-#EXTINF:-1, VG-62-TuToAkatemia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6725b210e689ca0066fa1b8d/index.m3u8
-#EXTINF:-1, Kisa-Eagles-ÄssätAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725b20f1dc6516e089a01d6/index.m3u8
-#EXTINF:-1, Kiekko-EspooIII-HIFKII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725b210e689ca0066fa1ba6/index.m3u8
-#EXTINF:-1, EVU-HarjunKiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725b2101dc6516e089a0238/index.m3u8
-#EXTINF:-1, HCKSalamat-Hunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725b20fe689ca0066fa1a73/index.m3u8
-#EXTINF:-1, LiikunnanRiemu2-JyKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6725b20f1dc6516e089a01f5/index.m3u8
-#EXTINF:-1, JäHi-HPKIcedogs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725b20fe689ca0066fa1ab0/index.m3u8
-#EXTINF:-1, Kiekko-67Turku-TuK-V
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725b20fe689ca0066fa1acc/index.m3u8
-#EXTINF:-1, OYUS-Teräs-Kiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672460911dc6516e0899ff9c/index.m3u8
+#EXTINF:-1, Hronov-StadionVrchlabí
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c737847959d90e21c27e77/index.m3u8
