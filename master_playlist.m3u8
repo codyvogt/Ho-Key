@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Heerenveen-Mechelen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671e0f2ce689ca0066fa0b45/index.m3u8
-#EXTINF:-1, Cornell-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Princeton-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Colgate-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, UNH-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, BostonCollege-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Merrimack-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Alaska-Union
@@ -77,3 +63,7 @@ https://media-service.fanreachdata.io/edge/ohl/c505d17c1293414582c3e2cb954838e4.
 https://media-service.fanreachdata.io/edge/ohl/119b16f5f0614b839f1da1df5016c11e.m3u8
 #EXTINF:-1, Sudbury-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/de33fbfa239e457c87f9ff4f7da62ddd.m3u8
+#EXTINF:-1, Quinnipiac-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, BostonCollege-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
