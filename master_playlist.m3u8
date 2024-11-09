@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Spokane-Kamloops
-https://media-service.fanreachdata.io/edge/whl/75eb6b7a99f44e498dbe16f5f2bb0bee.m3u8
-#EXTINF:-1, RedDeer-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/ce5750cbe5c64764a192c035c969e843.m3u8
-#EXTINF:-1, Saskatoon-Kelowna
-https://media-service.fanreachdata.io/edge/whl/6d4382acae8149a6bdb134c12c360a9a.m3u8
 #EXTINF:-1, CalgaryHitmen-Seattle
 https://media-service.fanreachdata.io/edge/whl/058dc5c6728a47d7bab0bfc39b5e8038.m3u8
-#EXTINF:-1, Everett-Tri-CityAmericans
-https://media-service.fanreachdata.io/edge/whl/cff7207c4e0b4af4ae7ebdb9fa9eba89.m3u8
