@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Valdifiemme-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635c7d24da32d7de673f3/index.m3u8
-#EXTINF:-1, Feltre-EppanAppiano
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635c790eeba7bde92cff5/index.m3u8
-#EXTINF:-1, Alleghe-ZinnenDolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635c990eeba7bde92cff7/index.m3u8
-#EXTINF:-1, Valpellice-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635ca90eeba7bde92cff9/index.m3u8
-#EXTINF:-1, Rouen2-Châlons
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670b494d6b135e19484e1a9d.m3u8
-#EXTINF:-1, Roanne-Grenoble2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f24/index.m3u8
-#EXTINF:-1, Hasselt-Toekomstteam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671e0f3315943e0471d2adbc/index.m3u8
-#EXTINF:-1, UConn-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Cornell-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Princeton-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Union-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Colgate-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, UNH-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, BostonCollege-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, EVU-HarjunKiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6725b2101dc6516e089a0238/index.m3u8
 #EXTINF:-1, Brest2-Caen2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494e6e0aae1e6b070efa/index.m3u8
 #EXTINF:-1, Toulouse2-Avignon
@@ -53,6 +19,26 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6b135e19484e1
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f16/index.m3u8
 #EXTINF:-1, AostaDI-ValpelliceDI
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635c8d24da32d7de673f5/index.m3u8
+#EXTINF:-1, Cornell-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Princeton-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Union-St.Lawrence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Colgate-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, UNH-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, BostonCollege-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Alleghe-ZinnenDolomites
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635c990eeba7bde92cff7/index.m3u8
+#EXTINF:-1, Valpellice-Pergine
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635ca90eeba7bde92cff9/index.m3u8
 #EXTINF:-1, Heerenveen-Mechelen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671e0f2ce689ca0066fa0b45/index.m3u8
 #EXTINF:-1, Cergy-Pontoise-Amiens
