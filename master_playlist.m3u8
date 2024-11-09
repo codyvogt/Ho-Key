@@ -1,50 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Drummondville-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/3499c5078b4540c386da6b3629569f6f.m3u8
-#EXTINF:-1, Chicoutimi-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/169b3aef016948a68dd6d4a00458a96b.m3u8
-#EXTINF:-1, SaultSte.Marie-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/ae57d326394649abbbcbe63a040fefbf.m3u8
-#EXTINF:-1, NorthBay-London
-https://media-service.fanreachdata.io/edge/ohl/c341efecbcb24dcbb1e91164a36d2a1e.m3u8
-#EXTINF:-1, Barrie-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/961f90e061f94113b2e56d77a7e97ffb.m3u8
-#EXTINF:-1, Brown-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Yale-Cornell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Harvard-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Dartmouth-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Maine-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, UMassLowell-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, Connecticut-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Northeastern-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Massachusetts-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Alaska-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, SFU-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, MTU-FerrisState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/ferrisstatehockey/playlist.m3u8
-#EXTINF:-1, LSSU-NorthernMichigan
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
-#EXTINF:-1, UND-MinnesotaDuluth
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5facfe35-1e02-4c7b-a960-01fa2a0e90d6-hls/master/5facfe35-1e02-4c7b-a960-01fa2a0e90d6-hls.m3u8
-#EXTINF:-1, WesternMichigan-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/06663678-bb3f-4df4-9e66-492b51fc932d-hls/master/06663678-bb3f-4df4-9e66-492b51fc932d-hls.m3u8
-#EXTINF:-1, Miami-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls/master/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls.m3u8
-#EXTINF:-1, ArizonaState-ColoradoC
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ba72432-f130-4179-af6b-2d304a0c667c-hls/master/2ba72432-f130-4179-af6b-2d304a0c667c-hls.m3u8
-#EXTINF:-1, Lindenwood-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls/master/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls.m3u8
 #EXTINF:-1, Lethbridge-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/5ad9fc0827964a9d88fc0a72eee9062c.m3u8
 #EXTINF:-1, Brandon-ReginaPats
@@ -61,3 +17,13 @@ https://media-service.fanreachdata.io/edge/whl/6d4382acae8149a6bdb134c12c360a9a.
 https://media-service.fanreachdata.io/edge/whl/058dc5c6728a47d7bab0bfc39b5e8038.m3u8
 #EXTINF:-1, Everett-Tri-CityAmericans
 https://media-service.fanreachdata.io/edge/whl/cff7207c4e0b4af4ae7ebdb9fa9eba89.m3u8
+#EXTINF:-1, UND-MinnesotaDuluth
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5facfe35-1e02-4c7b-a960-01fa2a0e90d6-hls/master/5facfe35-1e02-4c7b-a960-01fa2a0e90d6-hls.m3u8
+#EXTINF:-1, WesternMichigan-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/06663678-bb3f-4df4-9e66-492b51fc932d-hls/master/06663678-bb3f-4df4-9e66-492b51fc932d-hls.m3u8
+#EXTINF:-1, Miami-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls/master/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls.m3u8
+#EXTINF:-1, ArizonaState-ColoradoC
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ba72432-f130-4179-af6b-2d304a0c667c-hls/master/2ba72432-f130-4179-af6b-2d304a0c667c-hls.m3u8
+#EXTINF:-1, Lindenwood-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls/master/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls.m3u8
