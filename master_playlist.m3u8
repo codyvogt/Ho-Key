@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Moncton-Acadie-Bathurst
-https://media-service.fanreachdata.io/edge/lhjmq/88ccacc9f5aa4824beda8f0ea42f6bcd.m3u8
 #EXTINF:-1, SaintJohn-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/2e648d5459ef4884a05513936385aefb.m3u8
 #EXTINF:-1, Drummondville-Rimouski
@@ -9,6 +7,22 @@ https://media-service.fanreachdata.io/edge/lhjmq/3499c5078b4540c386da6b3629569f6
 https://media-service.fanreachdata.io/edge/lhjmq/4a2a42c75ced4625bc8cc7b5e4fe2929.m3u8
 #EXTINF:-1, Chicoutimi-Sherbrooke
 https://media-service.fanreachdata.io/edge/lhjmq/169b3aef016948a68dd6d4a00458a96b.m3u8
+#EXTINF:-1, Oshawa-Kingston
+https://media-service.fanreachdata.io/edge/ohl/d7f05d692f99495d901e13776b3b93e1.m3u8
+#EXTINF:-1, Brampton-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/202e99bad84c4089829a295522b3705b.m3u8
+#EXTINF:-1, Sarnia-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/babc8ebf738f46f4be7b9680ea112715.m3u8
+#EXTINF:-1, PeterboroughPetes-Flint
+https://media-service.fanreachdata.io/edge/ohl/09f649ab3d0347e98b27d9fdd2e0f7ff.m3u8
+#EXTINF:-1, SaultSte.Marie-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/ae57d326394649abbbcbe63a040fefbf.m3u8
+#EXTINF:-1, NorthBay-London
+https://media-service.fanreachdata.io/edge/ohl/c341efecbcb24dcbb1e91164a36d2a1e.m3u8
+#EXTINF:-1, Barrie-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/961f90e061f94113b2e56d77a7e97ffb.m3u8
+#EXTINF:-1, ErieOtters-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/aa25c056ce9e4f7f885ab6f67f12060e.m3u8
 #EXTINF:-1, Brown-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Yale-Cornell
@@ -45,26 +59,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cf94aaf7-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ba72432-f130-4179-af6b-2d304a0c667c-hls/master/2ba72432-f130-4179-af6b-2d304a0c667c-hls.m3u8
 #EXTINF:-1, Lindenwood-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls/master/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls.m3u8
-#EXTINF:-1, Colgate-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Cornell-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Oshawa-Kingston
-https://media-service.fanreachdata.io/edge/ohl/d7f05d692f99495d901e13776b3b93e1.m3u8
-#EXTINF:-1, Brampton-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/202e99bad84c4089829a295522b3705b.m3u8
-#EXTINF:-1, Sarnia-NiagaraIceDogs
-https://media-service.fanreachdata.io/edge/ohl/babc8ebf738f46f4be7b9680ea112715.m3u8
-#EXTINF:-1, PeterboroughPetes-Flint
-https://media-service.fanreachdata.io/edge/ohl/09f649ab3d0347e98b27d9fdd2e0f7ff.m3u8
-#EXTINF:-1, SaultSte.Marie-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/ae57d326394649abbbcbe63a040fefbf.m3u8
-#EXTINF:-1, NorthBay-London
-https://media-service.fanreachdata.io/edge/ohl/c341efecbcb24dcbb1e91164a36d2a1e.m3u8
-#EXTINF:-1, Barrie-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/961f90e061f94113b2e56d77a7e97ffb.m3u8
-#EXTINF:-1, ErieOtters-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/aa25c056ce9e4f7f885ab6f67f12060e.m3u8
 #EXTINF:-1, Lethbridge-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/5ad9fc0827964a9d88fc0a72eee9062c.m3u8
 #EXTINF:-1, Brandon-ReginaPats
