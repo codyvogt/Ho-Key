@@ -27,8 +27,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownv
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Princeton-Dartmouth
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
 #EXTINF:-1, Union-St.Lawrence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, Colgate-Yale
@@ -37,6 +35,8 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevi
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, BostonCollege-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
 #EXTINF:-1, K-EspooEKS-KJTHaukat
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6725b20fe689ca0066fa1a79/index.m3u8
 #EXTINF:-1, EVUTeam2-Tavastia
