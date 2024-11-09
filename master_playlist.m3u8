@@ -1,21 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Austria-Denmark
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672c755c1dc6516e089a1439/index.m3u8
-#EXTINF:-1, BoråsHC-BäckenHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672729ea1dc6516e089a0a80/index.m3u8
-#EXTINF:-1, Troja-Ljungby-Tingsryd
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67272396e689ca0066fa21bd/index.m3u8
-#EXTINF:-1, NackaHK-Enköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672729081dc6516e089a0a42/index.m3u8
-#EXTINF:-1, KarlskronaHK-Mariestad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67272ad41dc6516e089a0a91/index.m3u8
-#EXTINF:-1, GrumsIK-StrömsbroIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67271e211dc6516e089a0861/index.m3u8
-#EXTINF:-1, BIKKarlskoga-OrsaIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672727351dc6516e089a0a02/index.m3u8
-#EXTINF:-1, ValboHC-MalungsIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67271ff11dc6516e089a08b8/index.m3u8
-#EXTINF:-1, Nyköping-Flemingsberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672727351dc6516e089a0a0a/index.m3u8
 #EXTINF:-1, Slovakia-Norway
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728b0381dc6516e089a0ee9/index.m3u8
