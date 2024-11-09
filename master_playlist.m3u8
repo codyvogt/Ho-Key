@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Lethbridge-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/5ad9fc0827964a9d88fc0a72eee9062c.m3u8
+#EXTINF:-1, Miami-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls/master/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls.m3u8
+#EXTINF:-1, ArizonaState-ColoradoC
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ba72432-f130-4179-af6b-2d304a0c667c-hls/master/2ba72432-f130-4179-af6b-2d304a0c667c-hls.m3u8
+#EXTINF:-1, Lindenwood-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls/master/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls.m3u8
 #EXTINF:-1, Edmonton-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/97aee035511d41aeb781db379d9c3f74.m3u8
 #EXTINF:-1, Spokane-Kamloops
@@ -13,13 +17,3 @@ https://media-service.fanreachdata.io/edge/whl/6d4382acae8149a6bdb134c12c360a9a.
 https://media-service.fanreachdata.io/edge/whl/058dc5c6728a47d7bab0bfc39b5e8038.m3u8
 #EXTINF:-1, Everett-Tri-CityAmericans
 https://media-service.fanreachdata.io/edge/whl/cff7207c4e0b4af4ae7ebdb9fa9eba89.m3u8
-#EXTINF:-1, UND-MinnesotaDuluth
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5facfe35-1e02-4c7b-a960-01fa2a0e90d6-hls/master/5facfe35-1e02-4c7b-a960-01fa2a0e90d6-hls.m3u8
-#EXTINF:-1, WesternMichigan-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/06663678-bb3f-4df4-9e66-492b51fc932d-hls/master/06663678-bb3f-4df4-9e66-492b51fc932d-hls.m3u8
-#EXTINF:-1, Miami-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls/master/cf94aaf7-ddea-421d-986a-f6311c4fa213-hls.m3u8
-#EXTINF:-1, ArizonaState-ColoradoC
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ba72432-f130-4179-af6b-2d304a0c667c-hls/master/2ba72432-f130-4179-af6b-2d304a0c667c-hls.m3u8
-#EXTINF:-1, Lindenwood-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls/master/32cbadfb-db7c-46ba-92e1-baa9508d39c0-hls.m3u8
