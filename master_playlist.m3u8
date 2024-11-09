@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Caen-Strasbourg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670b494f6b135e19484e1ab9/index.m3u8
-#EXTINF:-1, Villard-Dunkerque
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b494f6e0aae1e6b070f16/index.m3u8
-#EXTINF:-1, Alleghe-ZinnenDolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635c990eeba7bde92cff7/index.m3u8
 #EXTINF:-1, Valpellice-Pergine
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635ca90eeba7bde92cff9/index.m3u8
 #EXTINF:-1, Heerenveen-Mechelen
