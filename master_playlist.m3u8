@@ -23,7 +23,5 @@ https://media-service.fanreachdata.io/edge/whl/a925e39ad8354593ae55f677eda007f6.
 https://media-service.fanreachdata.io/edge/whl/d6edcfc6a8da471ab3be8c2edb0e48ea.m3u8
 #EXTINF:-1, ASU-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a2f48260-5441-425f-8bf8-a0210353f784-hls/master/a2f48260-5441-425f-8bf8-a0210353f784-hls.m3u8
-#EXTINF:-1, WesternMichigan-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0827755f-7cdb-4a5b-85e8-3f514a479bfa-hls/master/0827755f-7cdb-4a5b-85e8-3f514a479bfa-hls.m3u8
 #EXTINF:-1, Lindenwood-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls/master/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls.m3u8
