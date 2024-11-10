@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Leuven-Heerenveen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60a6e689ca0066fa0e23/index.m3u8
-#EXTINF:-1, Diez-Limburg-HijsHokij
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f60a61dc6516e0899f5c5/index.m3u8
-#EXTINF:-1, EatersLimburg-Liège
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60a71dc6516e0899f5c7/index.m3u8
 #EXTINF:-1, Clermont-Ferrand-Annecy
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9acf6b135e19484e1e56/index.m3u8
 #EXTINF:-1, Bordeaux-Ducsd'Angers
@@ -27,6 +21,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286940e689ca0066fa2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67270390e689ca0066fa1f06/index.m3u8
 #EXTINF:-1, Maine-BostonCollege
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, EatersLimburg-Liège
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60a71dc6516e0899f5c7/index.m3u8
 #EXTINF:-1, KungsbackaHC-Härryda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67287d3ae689ca0066fa2576/index.m3u8
 #EXTINF:-1, LiègeII-LeuvenWhite
