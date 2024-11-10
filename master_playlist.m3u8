@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Denmark-Slovakia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672c75b81dc6516e089a143f/index.m3u8
 #EXTINF:-1, Finland-Germany
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67270390e689ca0066fa1f31/index.m3u8
 #EXTINF:-1, KalPaTeam-MalaxIF
