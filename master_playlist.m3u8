@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, TarU-Kiekko-67Turku
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672703901dc6516e089a0546/index.m3u8
-#EXTINF:-1, S-KiekkoTeam-IKK2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672703901dc6516e089a0570/index.m3u8
-#EXTINF:-1, Pingviinit-NokiaSables
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6727038f1dc6516e089a052b/index.m3u8
 #EXTINF:-1, Switzerland-USA
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871e85/index.m3u8
 #EXTINF:-1, CzechRepublic-Sweden
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c7655fb0aed1ed6c3/index.m3u8
+#EXTINF:-1, Caen2-Courbevoie
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9ace6e0aae1e6b071294/index.m3u8
+#EXTINF:-1, Clermont-Ferrand-Annecy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9acf6b135e19484e1e56/index.m3u8
+#EXTINF:-1, Bordeaux-Ducsd'Angers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9acf6b135e19484e1e68/index.m3u8
+#EXTINF:-1, Meudon-Besancon-Dijon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9ace6e0aae1e6b071292/index.m3u8
+#EXTINF:-1, Tours-Orléans-Cholet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9acf6e0aae1e6b0712a4/index.m3u8
+#EXTINF:-1, LionsdeLyon-Chambéry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9acf6b135e19484e1e54/index.m3u8
