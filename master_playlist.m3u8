@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, S-KiekkoTeam-IKK2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672703901dc6516e089a0570/index.m3u8
+#EXTINF:-1, Pingviinit-NokiaSables
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6727038f1dc6516e089a052b/index.m3u8
+#EXTINF:-1, K-EspooAk-HPKAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67270390e689ca0066fa1fba/index.m3u8
