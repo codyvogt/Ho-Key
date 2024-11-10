@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Denmark-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672c75b81dc6516e089a143f/index.m3u8
 #EXTINF:-1, DinamoMinsk-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, TarU-Kiekko-67Turku
