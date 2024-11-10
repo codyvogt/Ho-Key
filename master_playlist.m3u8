@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Benešov-PilsenWolves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67246f8ee689ca0066fa17f3/index.m3u8
