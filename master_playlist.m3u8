@@ -3,3 +3,13 @@
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672c75b81dc6516e089a143f/index.m3u8
 #EXTINF:-1, DinamoMinsk-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, TarU-Kiekko-67Turku
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672703901dc6516e089a0546/index.m3u8
+#EXTINF:-1, S-KiekkoTeam-IKK2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672703901dc6516e089a0570/index.m3u8
+#EXTINF:-1, Pingviinit-NokiaSables
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6727038f1dc6516e089a052b/index.m3u8
+#EXTINF:-1, Switzerland-USA
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c9ae3c54b26871e85/index.m3u8
+#EXTINF:-1, CzechRepublic-Sweden
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe340c7655fb0aed1ed6c3/index.m3u8
