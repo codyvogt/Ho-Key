@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, MooseJaw-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/c2d7c46137b44ee5ad195ab54596d897.m3u8
-#EXTINF:-1, Vancouver-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/f90582ba7d8e4ed5965288f6d860fa04.m3u8
-#EXTINF:-1, Portland-Wenatchee
-https://media-service.fanreachdata.io/edge/whl/069ae3193d6b4e8bbb32414f9750052f.m3u8
-#EXTINF:-1, VictoriaRoyals-Seattle
-https://media-service.fanreachdata.io/edge/whl/a5c882b33ae343578fb4522c81ebc853.m3u8
-#EXTINF:-1, RedDeerRebels-Tri-City
-https://media-service.fanreachdata.io/edge/whl/a925e39ad8354593ae55f677eda007f6.m3u8
-#EXTINF:-1, CalgaryHitmen-Everett
-https://media-service.fanreachdata.io/edge/whl/d6edcfc6a8da471ab3be8c2edb0e48ea.m3u8
-#EXTINF:-1, Lindenwood-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls/master/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls.m3u8
 #EXTINF:-1, Finland-Germany
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67270390e689ca0066fa1f31/index.m3u8
 #EXTINF:-1, KalPaTeam-MalaxIF
