@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Prizma-HSKurbads
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672896701dc6516e089a0e58/index.m3u8
-#EXTINF:-1, HKDinaburga-Zemgale
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6724a1f01dc6516e089a0077/index.m3u8
+#EXTINF:-1, Benešov-PilsenWolves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67246f8ee689ca0066fa17f3/index.m3u8
