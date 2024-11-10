@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Sudbury-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/de33fbfa239e457c87f9ff4f7da62ddd.m3u8
 #EXTINF:-1, PrinceAlbert-Brandon
 https://media-service.fanreachdata.io/edge/whl/e7dd3e5452734629b18445daaed2ff7a.m3u8
-#EXTINF:-1, Edmonton-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/ed016148568d4ce68a3796197f7e31e8.m3u8
 #EXTINF:-1, Saskatoon-Kamloops
 https://media-service.fanreachdata.io/edge/whl/cae7f4503d23448ab10df5cf20d1279c.m3u8
 #EXTINF:-1, MooseJaw-MedicineHat
@@ -21,7 +17,5 @@ https://media-service.fanreachdata.io/edge/whl/a5c882b33ae343578fb4522c81ebc853.
 https://media-service.fanreachdata.io/edge/whl/a925e39ad8354593ae55f677eda007f6.m3u8
 #EXTINF:-1, CalgaryHitmen-Everett
 https://media-service.fanreachdata.io/edge/whl/d6edcfc6a8da471ab3be8c2edb0e48ea.m3u8
-#EXTINF:-1, ASU-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a2f48260-5441-425f-8bf8-a0210353f784-hls/master/a2f48260-5441-425f-8bf8-a0210353f784-hls.m3u8
 #EXTINF:-1, Lindenwood-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls/master/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls.m3u8
