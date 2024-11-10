@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-Severstal
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Kraft-AlavudenPV
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67270390e689ca0066fa1f15/index.m3u8
+#EXTINF:-1, GladiatorsHT-Warkis
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67270390e689ca0066fa1ef9/index.m3u8
