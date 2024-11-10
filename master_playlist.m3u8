@@ -3,10 +3,6 @@
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, KungsbackaHC-Härryda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67287d3ae689ca0066fa2576/index.m3u8
-#EXTINF:-1, LiègeII-LeuvenWhite
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f60b1e689ca0066fa0e25/index.m3u8
-#EXTINF:-1, Toekomstteam-Kortrijk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60b11dc6516e0899f5cd/index.m3u8
 #EXTINF:-1, Baie-Comeau-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/5d56dc57985746c1b886c70817bf962e.m3u8
 #EXTINF:-1, Chtown-CapeBreton
@@ -35,6 +31,8 @@ https://media-service.fanreachdata.io/edge/ohl/21bfa21db49e42f9973f42668ec11b31.
 https://media-service.fanreachdata.io/edge/ohl/39af6fc120e94cb08ace3586280b600e.m3u8
 #EXTINF:-1, Kitchener-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/a63b592e7744422f96712ac84bc48683.m3u8
+#EXTINF:-1, Toekomstteam-Kortrijk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60b11dc6516e0899f5cd/index.m3u8
 #EXTINF:-1, ÅbyHC-Chalmers
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286ce7e689ca0066fa23eb/index.m3u8
 #EXTINF:-1, MunkedalsBK-Bokasport
