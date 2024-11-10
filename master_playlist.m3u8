@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Quinnipiac-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, BostonCollege-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Chtown-CapeBreton
 https://media-service.fanreachdata.io/edge/lhjmq/f8a9af0751d94d128eed66889498909b.m3u8
 #EXTINF:-1, Baie-Comeau-Halifax
@@ -31,8 +27,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarks
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, MTU-FerrisState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/ferrisstatehockey/playlist.m3u8
-#EXTINF:-1, BemidjiState-Augustana
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
 #EXTINF:-1, STU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, UND-MinnesotaDuluth
@@ -43,6 +37,8 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a2f48260-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0827755f-7cdb-4a5b-85e8-3f514a479bfa-hls/master/0827755f-7cdb-4a5b-85e8-3f514a479bfa-hls.m3u8
 #EXTINF:-1, Lindenwood-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls/master/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls.m3u8
+#EXTINF:-1, BostonCollege-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, SaultSte.Marie-Flint
 https://media-service.fanreachdata.io/edge/ohl/cfcb966a4a284352ad9c5445493fc8ef.m3u8
 #EXTINF:-1, SarniaSting-ErieOtters
