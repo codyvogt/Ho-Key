@@ -1,1 +1,67 @@
 #EXTM3U
+#EXTINF:-1, Leuven-Heerenveen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60a6e689ca0066fa0e23/index.m3u8
+#EXTINF:-1, Diez-Limburg-HijsHokij
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f60a61dc6516e0899f5c5/index.m3u8
+#EXTINF:-1, EatersLimburg-Liège
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60a71dc6516e0899f5c7/index.m3u8
+#EXTINF:-1, Clermont-Ferrand-Annecy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9acf6b135e19484e1e56/index.m3u8
+#EXTINF:-1, Bordeaux-Ducsd'Angers
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670c9acf6b135e19484e1e68.m3u8
+#EXTINF:-1, Meudon-Besancon-Dijon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9ace6e0aae1e6b071292/index.m3u8
+#EXTINF:-1, Tours-Orléans-Cholet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670c9acf6e0aae1e6b0712a4/index.m3u8
+#EXTINF:-1, LionsdeLyon-Chambéry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670c9acf6b135e19484e1e54/index.m3u8
+#EXTINF:-1, HuddingeTigers-Järna
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67287a89e689ca0066fa2555/index.m3u8
+#EXTINF:-1, TrångsundsIF-Brinken
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728685e1dc6516e089a0c53/index.m3u8
+#EXTINF:-1, ÅbyHC-Chalmers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286ce7e689ca0066fa23eb/index.m3u8
+#EXTINF:-1, MunkedalsBK-Bokasport
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286940e689ca0066fa23c2/index.m3u8
+#EXTINF:-1, HawksJärvenpää-PT-80
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67270390e689ca0066fa1f06/index.m3u8
+#EXTINF:-1, Maine-BostonCollege
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, KungsbackaHC-Härryda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67287d3ae689ca0066fa2576/index.m3u8
+#EXTINF:-1, LiègeII-LeuvenWhite
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f60b1e689ca0066fa0e25/index.m3u8
+#EXTINF:-1, Toekomstteam-Kortrijk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60b11dc6516e0899f5cd/index.m3u8
+#EXTINF:-1, Baie-Comeau-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/5d56dc57985746c1b886c70817bf962e.m3u8
+#EXTINF:-1, Chtown-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/b991e7c0cc0d42a0b470b0e52feb2b78.m3u8
+#EXTINF:-1, Acadie-Bathurst-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/a8d896b275814dcabf37ec4ef7dabeec.m3u8
+#EXTINF:-1, Chicoutimi-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/5e9165937174402caf0a8bc6e10be5d2.m3u8
+#EXTINF:-1, Blainville-B.-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/d9b67310aa2d4da8923dae0cd3f9210f.m3u8
+#EXTINF:-1, Shawinigan-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/c2a0b546385444159f64eec7c6183425.m3u8
+#EXTINF:-1, Victoriaville-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/982c80d9e13c4216b0dff141b86a26d6.m3u8
+#EXTINF:-1, Québec-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/240bd0ce3ae0492c9e96e539c8db7803.m3u8
+#EXTINF:-1, Brantford-Brampton
+https://media-service.fanreachdata.io/edge/ohl/f9ca713a07b44b208757a5dcddfa7856.m3u8
+#EXTINF:-1, Sudbury-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/eef3cb35cec348dc85a7fead820bf61c.m3u8
+#EXTINF:-1, London-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/fc9dece7485f4e6dbd29160983505b12.m3u8
+#EXTINF:-1, Peterborough-Windsor
+https://media-service.fanreachdata.io/edge/ohl/21bfa21db49e42f9973f42668ec11b31.m3u8
+#EXTINF:-1, Flint-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/39af6fc120e94cb08ace3586280b600e.m3u8
+#EXTINF:-1, Kitchener-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/a63b592e7744422f96712ac84bc48683.m3u8
+#EXTINF:-1, Lethbridge-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/d0e46af02ee04c0cb2b363dc585725ee.m3u8
+#EXTINF:-1, Vancouver-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/07b523c546724b07b67bc8999b2106c5.m3u8
