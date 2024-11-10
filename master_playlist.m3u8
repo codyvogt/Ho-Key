@@ -1,28 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Clermont-Ferrand-Annecy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9acf6b135e19484e1e56/index.m3u8
-#EXTINF:-1, Bordeaux-Ducsd'Angers
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670c9acf6b135e19484e1e68.m3u8
-#EXTINF:-1, Meudon-Besancon-Dijon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670c9ace6e0aae1e6b071292/index.m3u8
-#EXTINF:-1, Tours-Orléans-Cholet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670c9acf6e0aae1e6b0712a4/index.m3u8
-#EXTINF:-1, LionsdeLyon-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670c9acf6b135e19484e1e54/index.m3u8
-#EXTINF:-1, HuddingeTigers-Järna
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67287a89e689ca0066fa2555/index.m3u8
-#EXTINF:-1, TrångsundsIF-Brinken
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6728685e1dc6516e089a0c53/index.m3u8
-#EXTINF:-1, ÅbyHC-Chalmers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286ce7e689ca0066fa23eb/index.m3u8
-#EXTINF:-1, MunkedalsBK-Bokasport
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286940e689ca0066fa23c2/index.m3u8
-#EXTINF:-1, HawksJärvenpää-PT-80
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67270390e689ca0066fa1f06/index.m3u8
 #EXTINF:-1, Maine-BostonCollege
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, EatersLimburg-Liège
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671f60a71dc6516e0899f5c7/index.m3u8
 #EXTINF:-1, KungsbackaHC-Härryda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67287d3ae689ca0066fa2576/index.m3u8
 #EXTINF:-1, LiègeII-LeuvenWhite
@@ -57,6 +35,10 @@ https://media-service.fanreachdata.io/edge/ohl/21bfa21db49e42f9973f42668ec11b31.
 https://media-service.fanreachdata.io/edge/ohl/39af6fc120e94cb08ace3586280b600e.m3u8
 #EXTINF:-1, Kitchener-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/a63b592e7744422f96712ac84bc48683.m3u8
+#EXTINF:-1, ÅbyHC-Chalmers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286ce7e689ca0066fa23eb/index.m3u8
+#EXTINF:-1, MunkedalsBK-Bokasport
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67286940e689ca0066fa23c2/index.m3u8
 #EXTINF:-1, Lethbridge-ReginaPats
 https://media-service.fanreachdata.io/edge/whl/d0e46af02ee04c0cb2b363dc585725ee.m3u8
 #EXTINF:-1, Vancouver-PrinceGeorge
