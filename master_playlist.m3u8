@@ -3,10 +3,16 @@
 https://media-service.fanreachdata.io/edge/lhjmq/f8a9af0751d94d128eed66889498909b.m3u8
 #EXTINF:-1, Baie-Comeau-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/2f58f47f26b841d6990077959f868f7c.m3u8
-#EXTINF:-1, BostonU-UMassLowell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, LSSU-NorthernMichigan
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, SaultSte.Marie-Flint
+https://media-service.fanreachdata.io/edge/ohl/cfcb966a4a284352ad9c5445493fc8ef.m3u8
+#EXTINF:-1, SarniaSting-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/3eb9ed8480de4efdb0530812b271cda1.m3u8
+#EXTINF:-1, Kitchener-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/c505d17c1293414582c3e2cb954838e4.m3u8
+#EXTINF:-1, Windsor-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/119b16f5f0614b839f1da1df5016c11e.m3u8
+#EXTINF:-1, Sudbury-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/de33fbfa239e457c87f9ff4f7da62ddd.m3u8
 #EXTINF:-1, Yale-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Brown-Cornell
@@ -37,18 +43,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a2f48260-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0827755f-7cdb-4a5b-85e8-3f514a479bfa-hls/master/0827755f-7cdb-4a5b-85e8-3f514a479bfa-hls.m3u8
 #EXTINF:-1, Lindenwood-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls/master/2759c3ec-3676-4613-8aa5-415e1e41f29f-hls.m3u8
-#EXTINF:-1, BostonCollege-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, SaultSte.Marie-Flint
-https://media-service.fanreachdata.io/edge/ohl/cfcb966a4a284352ad9c5445493fc8ef.m3u8
-#EXTINF:-1, SarniaSting-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/3eb9ed8480de4efdb0530812b271cda1.m3u8
-#EXTINF:-1, Kitchener-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/c505d17c1293414582c3e2cb954838e4.m3u8
-#EXTINF:-1, Windsor-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/119b16f5f0614b839f1da1df5016c11e.m3u8
-#EXTINF:-1, Sudbury-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/de33fbfa239e457c87f9ff4f7da62ddd.m3u8
 #EXTINF:-1, PrinceAlbert-Brandon
 https://media-service.fanreachdata.io/edge/whl/e7dd3e5452734629b18445daaed2ff7a.m3u8
 #EXTINF:-1, Edmonton-SwiftCurrent
