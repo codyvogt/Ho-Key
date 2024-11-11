@@ -1,22 +1,8 @@
 #EXTM3U
-#EXTINF:-1, BodensHF-SunderbySK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c129e689ca0066fa2733/index.m3u8
 #EXTINF:-1, SollentunaHC-Nyköping
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729c2f81dc6516e089a0fae/index.m3u8
-#EXTINF:-1, FlemingsbergsIK-Tyresö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6729bc94e689ca0066fa2718/index.m3u8
-#EXTINF:-1, EnköpingsSK-Huddinge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729bf4e1dc6516e089a0f98/index.m3u8
-#EXTINF:-1, Vallentuna-NackaHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c129e689ca0066fa2736/index.m3u8
 #EXTINF:-1, GötaTraneberg-Arlanda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c784e689ca0066fa275f/index.m3u8
-#EXTINF:-1, ÖstervålaIF-KnivstaIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f79b643bd78e5d711b4aae/index.m3u8
-#EXTINF:-1, Tumba-EskilstunaLinden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c129e689ca0066fa2732/index.m3u8
-#EXTINF:-1, RydaholmsSK-AlvestaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671dd9a1e689ca0066fa09fa/index.m3u8
 #EXTINF:-1, VäsbyIKHK-JärfällaHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c03de689ca0066fa2726/index.m3u8
 #EXTINF:-1, VärmdöHC-SegeltorpsIF
