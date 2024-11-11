@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, GötaTraneberg-Arlanda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c784e689ca0066fa275f/index.m3u8
-#EXTINF:-1, SpångaISIK-SDEHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c784e689ca0066fa275c/index.m3u8
-#EXTINF:-1, Saltsjöbaden-Brinken
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729cc0ae689ca0066fa276a/index.m3u8
-#EXTINF:-1, KoPo-Kiekko-EspooEKS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67285511e689ca0066fa2311/index.m3u8
 #EXTINF:-1, Ludwig-HyvinkääStorm
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67285511e689ca0066fa230f/index.m3u8
 #EXTINF:-1, Lethbridge-Brandon
