@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Admiral-Avtomobilist
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, KarlovyVary-Liberec
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6710d3456b135e19484e2814/index.m3u8
+#EXTINF:-1, Vítkovice-BeraniZlín
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6724ee1fe689ca0066fa19d8/index.m3u8
+#EXTINF:-1, Litvínov-MladáBoleslav
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ceda34d3d999504733ccce/index.m3u8
+#EXTINF:-1, Slavia-DynamoPardubice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e06156b135e19484e22d8/index.m3u8
+#EXTINF:-1, Sparta-MountfieldHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b9b46b135e19484e3170/index.m3u8
