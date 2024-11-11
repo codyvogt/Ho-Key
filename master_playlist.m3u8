@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Neuilly-sur-Marne-HCMP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6720614c1dc6516e0899f6fa/index.m3u8
-#EXTINF:-1, Valanciennes-Cholet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6720614ce689ca0066fa0f2e/index.m3u8
 #EXTINF:-1, Strasbourg-Villard
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6720614c1dc6516e0899f6fe/index.m3u8
