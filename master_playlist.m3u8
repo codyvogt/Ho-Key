@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Brest-Morzine-Avoriaz
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6720614c1dc6516e0899f700/index.m3u8
-#EXTINF:-1, ÉpinalHC-Meudon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6720614c1dc6516e0899f6fc/index.m3u8
 #EXTINF:-1, Neuilly-sur-Marne-HCMP
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6720614c1dc6516e0899f6fa/index.m3u8
 #EXTINF:-1, Valanciennes-Cholet
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6720614ce689ca0066fa0f2e/index.m3u8
 #EXTINF:-1, Strasbourg-Villard
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6720614c1dc6516e0899f6fe/index.m3u8
-#EXTINF:-1, Slavia-DynamoPardubice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670e06156b135e19484e22d8/index.m3u8
-#EXTINF:-1, Sparta-MountfieldHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b9b46b135e19484e3170/index.m3u8
