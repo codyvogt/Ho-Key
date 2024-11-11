@@ -1,3 +1,41 @@
 #EXTM3U
-#EXTINF:-1, Strasbourg-Villard
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6720614c1dc6516e0899f6fe/index.m3u8
+#EXTINF:-1, BodensHF-SunderbySK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c129e689ca0066fa2733/index.m3u8
+#EXTINF:-1, SollentunaHC-Nyköping
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729c2f81dc6516e089a0fae/index.m3u8
+#EXTINF:-1, FlemingsbergsIK-Tyresö
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6729bc94e689ca0066fa2718/index.m3u8
+#EXTINF:-1, EnköpingsSK-Huddinge
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729bf4e1dc6516e089a0f98/index.m3u8
+#EXTINF:-1, Vallentuna-NackaHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c129e689ca0066fa2736/index.m3u8
+#EXTINF:-1, GötaTraneberg-Arlanda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c784e689ca0066fa275f/index.m3u8
+#EXTINF:-1, ÖstervålaIF-KnivstaIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f79b643bd78e5d711b4aae/index.m3u8
+#EXTINF:-1, Tumba-EskilstunaLinden
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c129e689ca0066fa2732/index.m3u8
+#EXTINF:-1, RydaholmsSK-AlvestaSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671dd9a1e689ca0066fa09fa/index.m3u8
+#EXTINF:-1, VäsbyIKHK-JärfällaHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c03de689ca0066fa2726/index.m3u8
+#EXTINF:-1, VärmdöHC-SegeltorpsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729cc0ae689ca0066fa2769/index.m3u8
+#EXTINF:-1, SpångaISIK-SDEHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729c784e689ca0066fa275c/index.m3u8
+#EXTINF:-1, Saltsjöbaden-Brinken
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729cc0ae689ca0066fa276a/index.m3u8
+#EXTINF:-1, HammarbyIF-Haninge
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729b810e689ca0066fa270d/index.m3u8
+#EXTINF:-1, KoPo-Kiekko-EspooEKS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67285511e689ca0066fa2311/index.m3u8
+#EXTINF:-1, Ludwig-HyvinkääStorm
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67285511e689ca0066fa230f/index.m3u8
+#EXTINF:-1, Lethbridge-Brandon
+https://media-service.fanreachdata.io/edge/whl/16f9002e773a43eb8aab11c2bc15c4a4.m3u8
+#EXTINF:-1, VictoriaRoyals-Kamloops
+https://media-service.fanreachdata.io/edge/whl/d7e46137bd8d40edb1e0fe4051ffd5af.m3u8
+#EXTINF:-1, RedDeerRebels-Everett
+https://media-service.fanreachdata.io/edge/whl/00e5a00e3ba64f4b994d79e8e6b4194c.m3u8
+#EXTINF:-1, CalgaryHitmen-Tri-City
+https://media-service.fanreachdata.io/edge/whl/f583fe5384814ebf804e15ddfca8d99d.m3u8
