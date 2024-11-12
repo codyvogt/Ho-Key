@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, TurunKisa-Veikot-PKS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6729a68ee689ca0066fa26f5/index.m3u8
-#EXTINF:-1, Karhu-Kissat-A-Rangers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729a68ee689ca0066fa26f0/index.m3u8
 #EXTINF:-1, Frederikshavn-	Herlev
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66bee8c0b33cc1612b30c221/index.m3u8
 #EXTINF:-1, Rungsted-SønderjyskE
@@ -119,5 +115,7 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/670f3dcf6b135e19484e24a5.m3u8
 #EXTINF:-1, EVU-PorvoonHunters
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729a68e1dc6516e089a0f69/index.m3u8
+#EXTINF:-1, Karhu-Kissat-A-Rangers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729a68ee689ca0066fa26f0/index.m3u8
 #EXTINF:-1, Chalmers-FotskälsHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b1e6ae689ca0066fa2a6f/index.m3u8
