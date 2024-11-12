@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1, BäckenHC-KungälvsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b1f53e689ca0066fa2a75/index.m3u8
-#EXTINF:-1, HammarbyIF-NorrtäljeIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b0992e689ca0066fa29ec/index.m3u8
-#EXTINF:-1, Briançon-Rouen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66dbd34e4b7c131998fd59ff.m3u8
 #EXTINF:-1, Grenoble-Chamonix
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/670f3dcf6b135e19484e24a7.m3u8
 #EXTINF:-1, Angers-Cergy-Pontoise
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670f3dcf6b135e19484e24a5.m3u8
-#EXTINF:-1, SolnaSK-KistaHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b06d01dc6516e089a1151/index.m3u8
-#EXTINF:-1, IKHuge-SandvikensIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b1735e689ca0066fa2a3b/index.m3u8
-#EXTINF:-1, EVU-PorvoonHunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729a68e1dc6516e089a0f69/index.m3u8
-#EXTINF:-1, Karhu-Kissat-A-Rangers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6729a68ee689ca0066fa26f0/index.m3u8
 #EXTINF:-1, Chalmers-FotskälsHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b1e6ae689ca0066fa2a6f/index.m3u8
