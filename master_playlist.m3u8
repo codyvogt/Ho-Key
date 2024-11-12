@@ -1,58 +1,18 @@
 #EXTM3U
-#EXTINF:-1, Nacka-EskilstunaLinden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b1d8a1dc6516e089a11e5/index.m3u8
-#EXTINF:-1, LN91-VindelnsHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672b1ad11dc6516e089a11c6/index.m3u8
-#EXTINF:-1, SollefteåHK-Brunflo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b11bfe689ca0066fa2a13/index.m3u8
-#EXTINF:-1, NjurundaSK-KB65HK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b181be689ca0066fa2a4b/index.m3u8
-#EXTINF:-1, Kramfors-KovlandsIshF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672b12a9e689ca0066fa2a18/index.m3u8
-#EXTINF:-1, Värmdö-GötaTraneberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b1d8a1dc6516e089a11dd/index.m3u8
-#EXTINF:-1, LidingöVikings-Segeltorp
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b1560e689ca0066fa2a2c/index.m3u8
-#EXTINF:-1, SunderbySK-Arvidsjaur
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672b1904e689ca0066fa2a4d/index.m3u8
-#EXTINF:-1, HammarbyIF-NorrtäljeIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b0992e689ca0066fa29ec/index.m3u8
-#EXTINF:-1, Dunkerque-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6720614ce689ca0066fa0f32/index.m3u8
-#EXTINF:-1, HudiksvallsHC-Strömsbro
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b13911dc6516e089a118d/index.m3u8
 #EXTINF:-1, BäckenHC-KungälvsIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b1f53e689ca0066fa2a75/index.m3u8
-#EXTINF:-1, HanhalsIF-OlofströmsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b203ae689ca0066fa2a7d/index.m3u8
-#EXTINF:-1, SkutskärsSK-Hedesunda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b211fe689ca0066fa2a81/index.m3u8
-#EXTINF:-1, ÖsteråkerVikings-Bålsta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b13911dc6516e089a118f/index.m3u8
-#EXTINF:-1, MunkedalsBK-Lysekil
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b0c421dc6516e089a1175/index.m3u8
-#EXTINF:-1, UddevallaHC-Trollhättan
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b05ede689ca0066fa29bc/index.m3u8
-#EXTINF:-1, Vallentuna-Ormsta-Mälarö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b12a9e689ca0066fa2a1c/index.m3u8
-#EXTINF:-1, SolnaSK-KistaHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b06d01dc6516e089a1151/index.m3u8
-#EXTINF:-1, IKHuge-SandvikensIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b1735e689ca0066fa2a3b/index.m3u8
-#EXTINF:-1, JärnaSK-FOCFarstaIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b19e4e689ca0066fa2a59/index.m3u8
-#EXTINF:-1, KalmarHC-MörrumsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b0e17e689ca0066fa29fb/index.m3u8
-#EXTINF:-1, TyringeSoSS-GlimmaHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67189cb3de786e495cf9d241/index.m3u8
-#EXTINF:-1, Örebro-Hallstahammar
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b1ad11dc6516e089a11c9/index.m3u8
+#EXTINF:-1, HammarbyIF-NorrtäljeIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b0992e689ca0066fa29ec/index.m3u8
 #EXTINF:-1, Briançon-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66dbd34e4b7c131998fd59ff.m3u8
 #EXTINF:-1, Grenoble-Chamonix
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/670f3dcf6b135e19484e24a7.m3u8
 #EXTINF:-1, Angers-Cergy-Pontoise
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/670f3dcf6b135e19484e24a5.m3u8
+#EXTINF:-1, SolnaSK-KistaHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b06d01dc6516e089a1151/index.m3u8
+#EXTINF:-1, IKHuge-SandvikensIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672b1735e689ca0066fa2a3b/index.m3u8
 #EXTINF:-1, EVU-PorvoonHunters
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6729a68e1dc6516e089a0f69/index.m3u8
 #EXTINF:-1, Karhu-Kissat-A-Rangers
