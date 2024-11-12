@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Frederikshavn-	Herlev
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66bee8c0b33cc1612b30c221/index.m3u8
-#EXTINF:-1, Rungsted-SønderjyskE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66bee8c0b33cc1612b30c223/index.m3u8
 #EXTINF:-1, Nacka-EskilstunaLinden
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672b1d8a1dc6516e089a11e5/index.m3u8
 #EXTINF:-1, LN91-VindelnsHF
