@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, KalmarHC-RydaholmsSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67189918ad24ad0a91050963/index.m3u8
-#EXTINF:-1, PiteåHC-SunderbySK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672db9471dc6516e089a1689/index.m3u8
-#EXTINF:-1, HCBFoxes-Juniorteams
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635d8d24da32d7de67411/index.m3u8
 #EXTINF:-1, NyköpingsAIK-JärnaSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672da9d11dc6516e089a1626/index.m3u8
 #EXTINF:-1, Frederikshavn-AalborgII
