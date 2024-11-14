@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KalmarHC-RydaholmsSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67189918ad24ad0a91050963/index.m3u8
-#EXTINF:-1, NyköpingsAIK-JärnaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672da9d11dc6516e089a1626/index.m3u8
 #EXTINF:-1, Frederikshavn-AalborgII
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66cd9065d3d999504733c974/index.m3u8
 #EXTINF:-1, Alleghe-FassaFalcons
