@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, PEPOHC-KotkanTitaanit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672c498e1dc6516e089a12c5/index.m3u8
 #EXTINF:-1, KölnerJung.-St.Francis
 fluidtv.php?channel=https://pool-4.cdn.sporttotal.tv/out/v1/00540719736c45cb9be180e1ec5daad2/index.m3u8
 #EXTINF:-1, MoraIK-BrynäsIF
