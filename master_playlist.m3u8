@@ -61,6 +61,8 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newham
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, ColoradoCollege-WMU
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ff8f1602-cc20-4ad1-be94-24cd0f5f2ffd-hls/master/ff8f1602-cc20-4ad1-be94-24cd0f5f2ffd-hls.m3u8
+#EXTINF:-1, Augustana-USNTDPU18
+fluidtv.php?channel=https://d3kr4px62ynnfw.cloudfront.net/e4bc21a62d8ae31c7a51e592cbf14b12/0_hd_hls.m3u8
 #EXTINF:-1, MinnesotaDuluth-Miami
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ac70105a-75a7-40b4-8e9a-b9d51d5919c0-hls/master/ac70105a-75a7-40b4-8e9a-b9d51d5919c0-hls.m3u8
 #EXTINF:-1, FerrisState-LakeSuperior
