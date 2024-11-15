@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mechelen-HYCHerentals
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6725f8261dc6516e089a0451/index.m3u8
-#EXTINF:-1, Charleroi-BulldogsLiège
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6725f837e689ca0066fa1d8e/index.m3u8
 #EXTINF:-1, Acadie-Bathurst-Chtown
 https://media-service.fanreachdata.io/edge/lhjmq/02b47f8cc5a648b7adb7294bc311da60.m3u8
 #EXTINF:-1, Rimouski-Québec
@@ -61,9 +57,33 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconns
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, UMassLowell-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, ColoradoCollege-WMU
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ff8f1602-cc20-4ad1-be94-24cd0f5f2ffd-hls/master/ff8f1602-cc20-4ad1-be94-24cd0f5f2ffd-hls.m3u8
+#EXTINF:-1, MinnesotaDuluth-Miami
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ac70105a-75a7-40b4-8e9a-b9d51d5919c0-hls/master/ac70105a-75a7-40b4-8e9a-b9d51d5919c0-hls.m3u8
 #EXTINF:-1, FerrisState-LakeSuperior
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
 #EXTINF:-1, NMU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, BGSU-St.Thomas
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, Denver-NorthDakota
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1c69947-3334-48f3-802e-15665c1b306d-hls/master/e1c69947-3334-48f3-802e-15665c1b306d-hls.m3u8
+#EXTINF:-1, Omaha-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7afbff86-5493-49ff-8c78-1fc7a032ad83-hls/master/7afbff86-5493-49ff-8c78-1fc7a032ad83-hls.m3u8
+#EXTINF:-1, ReginaPats-Brandon
+https://media-service.fanreachdata.io/edge/whl/da94aec0cdc74b5280ac9f839efff658.m3u8
+#EXTINF:-1, Tri-City-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/3d4db789769240a4bf5f84a067ae3ca0.m3u8
+#EXTINF:-1, Edmonton-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/6f8d4bec75b54290b4d8c6b84584df8a.m3u8
+#EXTINF:-1, Victoria-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/c2db8af3071742c6845f13788b75bcf8.m3u8
+#EXTINF:-1, RedDeer-Portland
+https://media-service.fanreachdata.io/edge/whl/1c9e712406db44e6958937f0fc96fcfa.m3u8
+#EXTINF:-1, Kelowna-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/a3970783f56d43d780179543b30d60a5.m3u8
+#EXTINF:-1, Kamloops-Vancouver
+https://media-service.fanreachdata.io/edge/whl/b9361d3529a74a618df3adf044f152a2.m3u8
+#EXTINF:-1, Calgary-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/8fe61399b9db495ab4cbbd1278e368b9.m3u8
