@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1, Fribourg-Gottéron-Bern
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, Trollhättan-Stenungsund
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672f0bade689ca0066fa33f2/index.m3u8
-#EXTINF:-1, Trångsund-Nynäshamn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672effe21dc6516e089a1a0f/index.m3u8
