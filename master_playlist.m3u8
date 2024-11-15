@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1, Fribourg-Gottéron-Bern
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, OdenseBulldogs-Esbjerg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66c058ddb33cc1612b30c4f1/index.m3u8
+#EXTINF:-1, Rungsted-Herning
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c058dcb33cc1612b30c4ef/index.m3u8
+#EXTINF:-1, SkellefteåAIK-Björklöven
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672f0f511dc6516e089a1aab/index.m3u8
+#EXTINF:-1, VäxjöLakers-Västerås
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672f14bde689ca0066fa3416/index.m3u8
+#EXTINF:-1, ÖrebroHK-RögleBK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672f0f511dc6516e089a1aa7/index.m3u8
+#EXTINF:-1, IFMalmö-SödertäljeSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672f13dbe689ca0066fa340a/index.m3u8
+#EXTINF:-1, HerningII-Vojens
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd9066d3d999504733c978/index.m3u8
+#EXTINF:-1, GladsaxeBears-Gentofte
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd9066d3d999504733c976/index.m3u8
+#EXTINF:-1, VHKVsetín-HCOlomouc
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671c868de689ca0066fa073f/index.m3u8
