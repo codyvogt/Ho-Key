@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Halifax-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/bf3854ad31014b569fd52789536ee75d.m3u8
-#EXTINF:-1, Victoriaville-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/a90a1be7931d4d629e9e1bb019648062.m3u8
 #EXTINF:-1, Windsor-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/10afc1fce14d4d598c568feaf6158bfd.m3u8
 #EXTINF:-1, OwenSound-Ptbo
 https://media-service.fanreachdata.io/edge/ohl/4bdcdeb6512b4c1fae454bd6847a5777.m3u8
-#EXTINF:-1, Providence-UMass
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
