@@ -7,6 +7,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/9e12ba6068e14965b54a66c51002554
 https://media-service.fanreachdata.io/edge/lhjmq/9492112aba2f4bf38d7748a589cd5f48.m3u8
 #EXTINF:-1, CapeBreton-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/ce32a352c1494d8cbca6968c66303ec6.m3u8
+#EXTINF:-1, RochesterIT-Syracuse
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3d077d47-0678-40d9-938a-a66d94a8ce87-hls/master/3d077d47-0678-40d9-938a-a66d94a8ce87-hls.m3u8
 #EXTINF:-1, Dartmouth-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Harvard-Cornell
