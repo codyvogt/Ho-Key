@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, TurunPalloseura-HPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672d9b111dc6516e089a160a/index.m3u8
+#EXTINF:-1, Sochi-KunlunRedStar
+fluidtv.php?channel=https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Vityaz-DinamoMinsk
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, RaumanLukko-Ässät
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672d9b111dc6516e089a1603/index.m3u8
 #EXTINF:-1, JYP-RovaniemenKiekko
@@ -15,7 +17,3 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672d9b11e689ca0066fa2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672d9b11e689ca0066fa2f35/index.m3u8
 #EXTINF:-1, TapparaTampere-Jukurit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672d9b11e689ca0066fa2f3d/index.m3u8
-#EXTINF:-1, Sochi-KunlunRedStar
-fluidtv.php?channel=https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Vityaz-DinamoMinsk
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
