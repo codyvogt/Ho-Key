@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Windsor-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/10afc1fce14d4d598c568feaf6158bfd.m3u8
-#EXTINF:-1, OwenSound-Ptbo
-https://media-service.fanreachdata.io/edge/ohl/4bdcdeb6512b4c1fae454bd6847a5777.m3u8
+#EXTINF:-1, TurunPalloseura-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672d9b111dc6516e089a160a/index.m3u8
