@@ -1,1 +1,27 @@
 #EXTM3U
+#EXTINF:-1, Anglet-Marseille
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6713324f6b135e19484e2acf.m3u8
+#EXTINF:-1, Chamonix-Amiens
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6713324f6b135e19484e2ad3.m3u8
+#EXTINF:-1, Gherdëina-HCPSelection
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672c9dd51dc6516e089a1533/index.m3u8
+#EXTINF:-1, GrIFKJoukkue-HCLudwig
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672d9b101dc6516e089a15e4/index.m3u8
+#EXTINF:-1, OlympiaHeist-Hasselt
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6725f8361dc6516e089a0453/index.m3u8
+#EXTINF:-1, Charleroi-BulldogsLiège
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6725f837e689ca0066fa1d8e/index.m3u8
+#EXTINF:-1, Mechelen-HYCHerentals
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6725f8261dc6516e089a0451/index.m3u8
+#EXTINF:-1, Dartmouth-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Harvard-Cornell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, BostonCollege-BostonU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, UNH-HolyCross
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Connecticut-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Maine-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
