@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1, HCPanter-Prizma
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6705189f6e0aae1e6b0706be/index.m3u8
-#EXTINF:-1, MikkelinJukurit-RoKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672eec901dc6516e089a1933/index.m3u8
-#EXTINF:-1, PorinÄssät-Jokerit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a192b/index.m3u8
-#EXTINF:-1, KotkanTitaanit-S-Kiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672eec8f1dc6516e089a1864/index.m3u8
-#EXTINF:-1, LempäälänKisa-MUIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a1869/index.m3u8
-#EXTINF:-1, NokianPyry-FPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a187b/index.m3u8
+#EXTINF:-1, AtalanHK-Pingviinit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a189f/index.m3u8
+#EXTINF:-1, Teräs-Kiekko-PyPo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672eec901dc6516e089a18fc/index.m3u8
+#EXTINF:-1, HCEurajoki-KuKiTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa319d/index.m3u8
+#EXTINF:-1, Popula-LaserHTAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a1909/index.m3u8
+#EXTINF:-1, HCGiants-Piranha's
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec90e689ca0066fa31dd/index.m3u8
+#EXTINF:-1, HPKIcedogs-KaVo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672eec8fe689ca0066fa3193/index.m3u8
+#EXTINF:-1, IndiansKaarina-Kiekko-67
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672eec8fe689ca0066fa31a1/index.m3u8
+#EXTINF:-1, OYUS-LaserHTHot
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672d9b11e689ca0066fa2f14/index.m3u8
+#EXTINF:-1, KHK-PolyteknikkojenUS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a1855/index.m3u8
+#EXTINF:-1, Goons-Kiekko-Karhut
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672eec8f1dc6516e089a18a3/index.m3u8
+#EXTINF:-1, KlaukkalaGepards-PiTa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a1853/index.m3u8
+#EXTINF:-1, EVUTeam-Shakers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a1857/index.m3u8
