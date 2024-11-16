@@ -5,10 +5,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/e83c57be32f04f35b454300339bf9ca
 https://media-service.fanreachdata.io/edge/lhjmq/792fa9b72bdc4960ac46f85e1c38901a.m3u8
 #EXTINF:-1, Moncton-Charlottetown
 https://media-service.fanreachdata.io/edge/lhjmq/55050cdd11be4a09985278f2c33d3462.m3u8
-#EXTINF:-1, BostonC-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, HolyCross-UNH
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, UMass-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, UMassLowell-Vermont
@@ -29,6 +25,8 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevi
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, UNH-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Augustana-USNTDPU18
+fluidtv.php?channel=https://d1j92rpii3nou3.cloudfront.net/66a5dd56f332fba67959e9a1b116f5e7/0_hd_hls.m3u8
 #EXTINF:-1, MinnesotaDuluth-Miami
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ac6d82c-23c2-4436-93fa-a951e09ce226-hls/master/0ac6d82c-23c2-4436-93fa-a951e09ce226-hls.m3u8
 #EXTINF:-1, NMU-MinnesotaState
@@ -41,9 +39,29 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a4148fa7-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, Omaha-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1665db8-4608-448f-b1ac-397962296add-hls/master/e1665db8-4608-448f-b1ac-397962296add-hls.m3u8
+#EXTINF:-1, HolyCross-UNH
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Erie-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/a4dcd3ab7bd648cebdda1d6b639e57ef.m3u8
 #EXTINF:-1, Sarnia-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/4c508aebb4d04760bba92904124d4da9.m3u8
 #EXTINF:-1, Oshawa-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/5874d6ca663b43ea931771725697e8e7.m3u8
+#EXTINF:-1, ReginaPats-Brandon
+https://media-service.fanreachdata.io/edge/whl/ba9672a59d57405c88e24eb3b4c5e611.m3u8
+#EXTINF:-1, Victoria-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/5946e3e22775445fb1ca05060e78258a.m3u8
+#EXTINF:-1, Edmonton-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/15287b25c0f64d838022fe9b73e89903.m3u8
+#EXTINF:-1, Tri-City-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/040a2942f01b42d7a237b2a307d6ea7e.m3u8
+#EXTINF:-1, Kelowna-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/d017a35583054f5b8ec6fa27835feb8d.m3u8
+#EXTINF:-1, Calgary-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/e0a1ca5ea6744e0ea35d5728d5351163.m3u8
+#EXTINF:-1, Everett-Seattle
+https://media-service.fanreachdata.io/edge/whl/889f6166785a490d971e37472607462d.m3u8
+#EXTINF:-1, RedDeer-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/a9e626db7ae942f29f8a039e537eeba6.m3u8
+#EXTINF:-1, Portland-Vancouver
+https://media-service.fanreachdata.io/edge/whl/2185244eba1c4306ab04b35250efabda.m3u8
