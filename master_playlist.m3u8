@@ -26,7 +26,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa3
 #EXTINF:-1, Kiekkohait-RaumaTigers
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31b0/index.m3u8
 #EXTINF:-1, Hela-Kiekko-Kraft
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31c9/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672eec8fe689ca0066fa31c9/index.m3u8
 #EXTINF:-1, IKKronan-KurikanRyhti
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31ca/index.m3u8
 #EXTINF:-1, KPK-NokianPyryTeam
@@ -93,8 +93,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305416e689ca0066fa3
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673058a41dc6516e089a1e59/index.m3u8
 #EXTINF:-1, TimråIK-MunksundSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730629fe689ca0066fa3824/index.m3u8
-#EXTINF:-1, TullingeTPHC-Järna
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305075e689ca0066fa36b6/index.m3u8
 #EXTINF:-1, Sundsvall-Björklöven2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730532b1dc6516e089a1dbc/index.m3u8
 #EXTINF:-1, WingsArlanda-Huddinge
@@ -150,11 +148,11 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305c441dc6516e089a1
 #EXTINF:-1, EskilstunaLinden-Järna
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730598d1dc6516e089a1e5e/index.m3u8
 #EXTINF:-1, IKGuts-VimmerbyHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305d2ae689ca0066fa37ba/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67305d2ae689ca0066fa37ba/index.m3u8
 #EXTINF:-1, KristianstadsIK-Lejonet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305e1b1dc6516e089a1ec3/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67305e1b1dc6516e089a1ec3/index.m3u8
 #EXTINF:-1, SDEHF-Östhammar/Gimo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673057b81dc6516e089a1e0d/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673057b81dc6516e089a1e0d/index.m3u8
 #EXTINF:-1, Gävle-Hille/Åbyggeby
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673056d1e689ca0066fa3702/index.m3u8
 #EXTINF:-1, ArvikaHC-GrumsIK2
