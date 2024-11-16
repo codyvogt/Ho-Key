@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, NokianPyry-FPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a187b/index.m3u8
-#EXTINF:-1, GötaTraneberg-Tyresö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67305f011dc6516e089a1ed3/index.m3u8
-#EXTINF:-1, Vallentuna-Sollentuna
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673058a41dc6516e089a1e54/index.m3u8
+#EXTINF:-1, VlciJablonec-LiberecB
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673077441dc6516e089a1f76/index.m3u8
