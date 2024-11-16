@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, RedDeer-Portland
-https://media-service.fanreachdata.io/edge/whl/1c9e712406db44e6958937f0fc96fcfa.m3u8
-#EXTINF:-1, Kelowna-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/a3970783f56d43d780179543b30d60a5.m3u8
-#EXTINF:-1, Kamloops-Vancouver
-https://media-service.fanreachdata.io/edge/whl/b9361d3529a74a618df3adf044f152a2.m3u8
-#EXTINF:-1, Calgary-SpokaneChiefs
-https://media-service.fanreachdata.io/edge/whl/8fe61399b9db495ab4cbbd1278e368b9.m3u8
-#EXTINF:-1, HPK-VaasanSport
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a193d/index.m3u8
-#EXTINF:-1, RaumanLukko-TPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a1938/index.m3u8
 #EXTINF:-1, Raahe-K-LaserHTBlack
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a1904/index.m3u8
 #EXTINF:-1, Pyry-TPSAkatemia/TarU
