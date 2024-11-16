@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kuparikiekko-RNKHoci
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31a2/index.m3u8
 #EXTINF:-1, LuvianKiekko-82-Haka
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31bf/index.m3u8
 #EXTINF:-1, Kisa-Eagles-Hokkarit
@@ -91,14 +89,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730598de689ca0066fa3
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305075e689ca0066fa36b4/index.m3u8
 #EXTINF:-1, ÄltaIF-SudretsHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305416e689ca0066fa36d9/index.m3u8
-#EXTINF:-1, Hallstahammar-Brynäs2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67304ea1e689ca0066fa369c/index.m3u8
-#EXTINF:-1, ÖrebroHK-MoraIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673060d21dc6516e089a1ef3/index.m3u8
-#EXTINF:-1, Leksand2-Hedesunda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305fe5e689ca0066fa37f7/index.m3u8
-#EXTINF:-1, SDEHF2-SHKHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f38bd1dc6516e0899f4f9/index.m3u8
 #EXTINF:-1, VitaHästen-Mariehamn
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673058a41dc6516e089a1e59/index.m3u8
 #EXTINF:-1, TimråIK-MunksundSK
