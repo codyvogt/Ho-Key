@@ -5,6 +5,16 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/672eec901dc6516e089a1904/index.m3u8
 #EXTINF:-1, Pyry-TPSAkatemia/TarU
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a18dc/index.m3u8
+#EXTINF:-1, Karhu-KissatAk-HAKI
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a18f6/index.m3u8
+#EXTINF:-1, TuToAkatemia-MIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a18fe/index.m3u8
+#EXTINF:-1, HIFKII-HYRI
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a1900/index.m3u8
+#EXTINF:-1, EVUTeam-Peli-PojatHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec90e689ca0066fa3207/index.m3u8
+#EXTINF:-1, SpiritofHockey-JIlves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a1905/index.m3u8
 #EXTINF:-1, TimråIK-AIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730629fe689ca0066fa382a/index.m3u8
 #EXTINF:-1, SkellefteåAIK-Björklöven
@@ -17,6 +27,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673061b71dc6516e089a1
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673060d21dc6516e089a1efa/index.m3u8
 #EXTINF:-1, IFMalmö-SödertäljeSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673065551dc6516e089a1f38/index.m3u8
+#EXTINF:-1, LeksandsIF-BrynäsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305fe5e689ca0066fa37ea/index.m3u8
+#EXTINF:-1, LuleåHF-MoDoHockey
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305b60e689ca0066fa3775/index.m3u8
+#EXTINF:-1, VäxjöLakers-Västerås
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730663b1dc6516e089a1f4e/index.m3u8
 #EXTINF:-1, KJK-Hiki-Hockey
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa3198/index.m3u8
 #EXTINF:-1, KirunaCityHF-Överkalix
