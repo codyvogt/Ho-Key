@@ -61,8 +61,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ac70105a-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
 #EXTINF:-1, NMU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, BGSU-St.Thomas
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, Denver-NorthDakota
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1c69947-3334-48f3-802e-15665c1b306d-hls/master/e1c69947-3334-48f3-802e-15665c1b306d-hls.m3u8
 #EXTINF:-1, Omaha-ArizonaState
