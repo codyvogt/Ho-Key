@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Villard-de-Lans-Nantes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6726f8cde689ca0066fa1e9f/index.m3u8
-#EXTINF:-1, Antwerp-GoldenSharks
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672749b8e689ca0066fa2267/index.m3u8
 #EXTINF:-1, Harvard-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Dartmouth-Cornell
