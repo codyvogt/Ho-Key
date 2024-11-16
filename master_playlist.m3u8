@@ -18,7 +18,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec901dc6516e089a1
 #EXTINF:-1, TimråIK-AIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730629fe689ca0066fa382a/index.m3u8
 #EXTINF:-1, SkellefteåAIK-Björklöven
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673058a41dc6516e089a1e58/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673058a41dc6516e089a1e58/index.m3u8
 #EXTINF:-1, MoraIK-AlmtunaIS
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673061b71dc6516e089a1f03/index.m3u8
 #EXTINF:-1, FärjestadBK-FrölundaHC
@@ -35,8 +35,54 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67305b60e689ca0066fa3
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730663b1dc6516e089a1f4e/index.m3u8
 #EXTINF:-1, KJK-Hiki-Hockey
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa3198/index.m3u8
+#EXTINF:-1, Kuparikiekko-RNKHoci
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31a2/index.m3u8
+#EXTINF:-1, LuvianKiekko-82-Haka
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31bf/index.m3u8
+#EXTINF:-1, Kisa-Eagles-Hokkarit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa319c/index.m3u8
+#EXTINF:-1, SuKiKa-GladiatorsHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a18c1/index.m3u8
+#EXTINF:-1, LeKi-75-Pelikaanit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31a6/index.m3u8
+#EXTINF:-1, LiminganKiekko-YJK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31a9/index.m3u8
+#EXTINF:-1, Etelä-Portimo72-TIHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31ab/index.m3u8
+#EXTINF:-1, KeKi-NivalaCowboys
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31ae/index.m3u8
+#EXTINF:-1, UU-KuhmonKivaHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31af/index.m3u8
+#EXTINF:-1, IFKLepplax-JPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec90e689ca0066fa31d1/index.m3u8
+#EXTINF:-1, APV-MalaxIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec90e689ca0066fa31d3/index.m3u8
+#EXTINF:-1, SibboWolfpack-KHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec90e689ca0066fa31d7/index.m3u8
+#EXTINF:-1, Nikkarit-Uplakers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa319b/index.m3u8
+#EXTINF:-1, Kiekkohait-RaumaTigers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31b0/index.m3u8
+#EXTINF:-1, Hela-Kiekko-Kraft
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31c9/index.m3u8
+#EXTINF:-1, IKKronan-KurikanRyhti
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31ca/index.m3u8
+#EXTINF:-1, KPK-NokianPyryTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a18a1/index.m3u8
+#EXTINF:-1, VG-62-ChiefsTurku
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8f1dc6516e089a18ba/index.m3u8
+#EXTINF:-1, EVU-Jää-Ahmat
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31c8/index.m3u8
+#EXTINF:-1, KOOVEE-Kiekko-Ahma
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31a0/index.m3u8
+#EXTINF:-1, ViikingitHelsinki-HAKI
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672eec8fe689ca0066fa31ad/index.m3u8
 #EXTINF:-1, KirunaCityHF-Överkalix
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673061b71dc6516e089a1f07/index.m3u8
+#EXTINF:-1, IFKArvidsjaur-Haparanda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730515be689ca0066fa36c5/index.m3u8
+#EXTINF:-1, NorrtäljeIK-HaningeHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67304f921dc6516e089a1da7/index.m3u8
 #EXTINF:-1, Tyringe-LundGiants
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673061b7e689ca0066fa3807/index.m3u8
 #EXTINF:-1, GlimmaHK-LimhamnHK
