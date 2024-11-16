@@ -1,30 +1,16 @@
 #EXTM3U
-#EXTINF:-1, LeuvenWhite-HYC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672749b71dc6516e089a0b06/index.m3u8
-#EXTINF:-1, Antwerp-GoldenSharks
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672749b8e689ca0066fa2267/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Varese
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635e590eeba7bde92d01b/index.m3u8
-#EXTINF:-1, Alleghe-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635e690eeba7bde92d01d/index.m3u8
-#EXTINF:-1, Chambéry-Strasbourg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6726f8cd1dc6516e089a04e7/index.m3u8
-#EXTINF:-1, Meudon-Dunkerque
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6726f8cd1dc6516e089a04e9/index.m3u8
-#EXTINF:-1, Tours-Valenciennes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6726f8cd1dc6516e089a04ed/index.m3u8
-#EXTINF:-1, Morzine-Avoriaz-Neuilly
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6726f8cde689ca0066fa1ea5/index.m3u8
-#EXTINF:-1, DogsdeCholet-Brest
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6726f8cde689ca0066fa1ea7/index.m3u8
 #EXTINF:-1, Caen-MontBlanc
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6726f8cd1dc6516e089a04ef/index.m3u8
 #EXTINF:-1, Villard-de-Lans-Nantes
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6726f8cde689ca0066fa1e9f/index.m3u8
-#EXTINF:-1, Brown-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Vermont-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Alleghe-SVKaltern
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635e690eeba7bde92d01d/index.m3u8
+#EXTINF:-1, Valpellice-MilanoDevils
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635e7d24da32d7de6741f/index.m3u8
+#EXTINF:-1, Valence-LaRoche-sur-Yon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6726f8cd1dc6516e089a04f7/index.m3u8
+#EXTINF:-1, Antwerp-GoldenSharks
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672749b8e689ca0066fa2267/index.m3u8
 #EXTINF:-1, Harvard-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Dartmouth-Cornell
@@ -37,12 +23,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarks
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, HolyCross-UNH
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, EatersGeleen-Amsterdam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672b81af1dc6516e089a126f/index.m3u8
-#EXTINF:-1, Valpellice-MilanoDevils
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635e7d24da32d7de6741f/index.m3u8
-#EXTINF:-1, Valence-LaRoche-sur-Yon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6726f8cd1dc6516e089a04f7/index.m3u8
 #EXTINF:-1, Clarkson-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, UMass-Providence
