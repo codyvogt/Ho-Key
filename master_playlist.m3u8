@@ -25,8 +25,6 @@ fluidtv.php?channel=https://d1j92rpii3nou3.cloudfront.net/66a5dd56f332fba67959e9
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ac6d82c-23c2-4436-93fa-a951e09ce226-hls/master/0ac6d82c-23c2-4436-93fa-a951e09ce226-hls.m3u8
 #EXTINF:-1, NMU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, BGSU-St.Thomas
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, Denver-NorthDakota
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a4148fa7-2099-45de-a149-6fcfeb6ed910-hls/master/a4148fa7-2099-45de-a149-6fcfeb6ed910-hls.m3u8
 #EXTINF:-1, Minnesota-BemidjiState
