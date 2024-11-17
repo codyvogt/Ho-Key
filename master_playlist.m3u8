@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kingston-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/c777144f3d3a476a98706bf5ea0ba174.m3u8
-#EXTINF:-1, Kitchener-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/843b09dd0b5a43ebba7130a94c6c9064.m3u8
-#EXTINF:-1, Windsor-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/f443e2eda085486daf017c787fb96555.m3u8
 #EXTINF:-1, Sudbury-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/d3b0ec15142e454abfa91bbaa0e553ea.m3u8
 #EXTINF:-1, Blainville-B.-Québec
