@@ -1,7 +1,31 @@
 #EXTM3U
 #EXTINF:-1, KunlunRS-DinamoMn
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, KokkolanHermes-TUTO
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e12e689ca0066fa35eb/index.m3u8
-#EXTINF:-1, PilsenWolves-Klatovy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d7f88e59dd270b7208be17/index.m3u8
+#EXTINF:-1, TUS-KraftAcademy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1bc8/index.m3u8
+#EXTINF:-1, S-KiekkoTeam-MIFTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1ba7/index.m3u8
+#EXTINF:-1, JHTAkatemia-OYUS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1bd3/index.m3u8
+#EXTINF:-1, VG-62II-KiekkohaitAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e11e689ca0066fa353a/index.m3u8
+#EXTINF:-1, K-VantaaItä-Shakers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1b61/index.m3u8
+#EXTINF:-1, Näädät-KlaGe
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1b4a/index.m3u8
+#EXTINF:-1, Välk494-ViruSputnik
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6720fe011dc6516e0899f9a6/index.m3u8
+#EXTINF:-1, HCPanter-HCVipers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6720fe2be689ca0066fa127f/index.m3u8
+#EXTINF:-1, EsbjergEnergy-Herlev
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66c883ca7959d90e21c2823a/index.m3u8
+#EXTINF:-1, TimråIK-DjurgårdensIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731b41fe689ca0066fa3b6a/index.m3u8
+#EXTINF:-1, PorvoonHunters-S-Kiekko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67303e111dc6516e089a1b83/index.m3u8
+#EXTINF:-1, ForssanPalloseura-MUIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1b64/index.m3u8
+#EXTINF:-1, Peli-PojatHC-JHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1b6d/index.m3u8
+#EXTINF:-1, LiikunnanRiemu-Pyry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1b7b/index.m3u8
