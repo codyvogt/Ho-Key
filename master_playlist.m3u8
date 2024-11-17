@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Trutnov-Královén.Labem
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670e5a756e0aae1e6b07192e/index.m3u8
+#EXTINF:-1, LiikunnanRiemu-Pyry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e111dc6516e089a1b7b/index.m3u8
+#EXTINF:-1, Valpellice-Asiago
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635f590eeba7bde92d031/index.m3u8
