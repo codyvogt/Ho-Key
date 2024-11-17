@@ -5,11 +5,3 @@ fluidtv.php?channel=https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/var
 fluidtv.php?channel=https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, KunlunRS-DinamoMn
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, IFMalmö-VästeråsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731b6d41dc6516e089a2276/index.m3u8
-#EXTINF:-1, FärjestadBK-RögleBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731a7661dc6516e089a20c3/index.m3u8
-#EXTINF:-1, TimråIK-DjurgårdensIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731b41fe689ca0066fa3b6a/index.m3u8
-#EXTINF:-1, Nantes-Angers2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67284a4e1dc6516e089a0b68/index.m3u8
