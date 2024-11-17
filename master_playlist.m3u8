@@ -1,15 +1,7 @@
 #EXTM3U
 #EXTINF:-1, KunlunRS-DinamoMn
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, RNK-Kisa-Eagles
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e111dc6516e089a1bc0/index.m3u8
-#EXTINF:-1, HYRI-HIFKII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1bbd/index.m3u8
-#EXTINF:-1, HAKI-Kiekko-EspooIII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e12e689ca0066fa3582/index.m3u8
-#EXTINF:-1, UplakersYlöjärvi-VG-62
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1bb9/index.m3u8
-#EXTINF:-1, LaserHTRed-TIHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e12e689ca0066fa3578/index.m3u8
-#EXTINF:-1, ÄssätAkatemia-Rockets
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e111dc6516e089a1bd8/index.m3u8
+#EXTINF:-1, KokkolanHermes-TUTO
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e12e689ca0066fa35eb/index.m3u8
+#EXTINF:-1, PilsenWolves-Klatovy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d7f88e59dd270b7208be17/index.m3u8
