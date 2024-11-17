@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1, LiikunnanRiemu-Pyry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e111dc6516e089a1b7b/index.m3u8
-#EXTINF:-1, Valpellice-Asiago
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635f590eeba7bde92d031/index.m3u8
+#EXTINF:-1, Grenoble-Caen
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67284a4e1dc6516e089a0b5a.m3u8
+#EXTINF:-1, Hormadid'Anglet-HC74
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67284a4e1dc6516e089a0b5c.m3u8
+#EXTINF:-1, Cergy-Pontoise-Villard
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6726f8cde689ca0066fa1ead.m3u8
+#EXTINF:-1, Strasbourg-Rouen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67284a4e1dc6516e089a0b58/index.m3u8
+#EXTINF:-1, GepardiJablonec-Frýdlant
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c737831f3688687f3739f2/index.m3u8
+#EXTINF:-1, Radomyšl-Veselín.Luž.
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671279256e0aae1e6b071f53/index.m3u8
