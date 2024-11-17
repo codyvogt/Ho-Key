@@ -1,3 +1,29 @@
 #EXTM3U
-#EXTINF:-1, Strasbourg-Rouen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67284a4e1dc6516e089a0b58/index.m3u8
+#EXTINF:-1, OwenSound-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/0dc4d1c1211f4fc8ad6d570e5ad1b3c3.m3u8
+#EXTINF:-1, Brantford-Niagara
+https://media-service.fanreachdata.io/edge/ohl/c862b8754be7436db95c2c9b1981c85e.m3u8
+#EXTINF:-1, Kingston-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/c777144f3d3a476a98706bf5ea0ba174.m3u8
+#EXTINF:-1, Kitchener-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/843b09dd0b5a43ebba7130a94c6c9064.m3u8
+#EXTINF:-1, Windsor-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/f443e2eda085486daf017c787fb96555.m3u8
+#EXTINF:-1, Sudbury-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/d3b0ec15142e454abfa91bbaa0e553ea.m3u8
+#EXTINF:-1, HYCHerentals-Neuwied
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67289b26e689ca0066fa25cd/index.m3u8
+#EXTINF:-1, Blainville-B.-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/17a402d273904de3a0b52aec623a945f.m3u8
+#EXTINF:-1, Victoriaville-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/0f2841b5525345aaa1039b5cbed780bc.m3u8
+#EXTINF:-1, Halifax-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/72ab068e21424be4908e35432e82d63a.m3u8
+#EXTINF:-1, Drummond.-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/9c9bb763e47f482e87f56e4ff30aad7d.m3u8
+#EXTINF:-1, Gatineau-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/252ddf6b174a4c8c8da1aa75bd96f11f.m3u8
+#EXTINF:-1, CapeBreton-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/8aaa9cbc13af4caa90f8fe777f64a8c8.m3u8
+#EXTINF:-1, Yale-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
