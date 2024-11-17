@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Erie-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/a4dcd3ab7bd648cebdda1d6b639e57ef.m3u8
-#EXTINF:-1, Sarnia-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/4c508aebb4d04760bba92904124d4da9.m3u8
-#EXTINF:-1, Oshawa-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/5874d6ca663b43ea931771725697e8e7.m3u8
-#EXTINF:-1, Princeton-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Colgate-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Cornell-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, BostonUniversity-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, UNH-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Augustana-USNTDPU18
-fluidtv.php?channel=https://d1j92rpii3nou3.cloudfront.net/66a5dd56f332fba67959e9a1b116f5e7/0_hd_hls.m3u8
-#EXTINF:-1, MinnesotaDuluth-Miami
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ac6d82c-23c2-4436-93fa-a951e09ce226-hls/master/0ac6d82c-23c2-4436-93fa-a951e09ce226-hls.m3u8
-#EXTINF:-1, NMU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, Denver-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a4148fa7-2099-45de-a149-6fcfeb6ed910-hls/master/a4148fa7-2099-45de-a149-6fcfeb6ed910-hls.m3u8
-#EXTINF:-1, Minnesota-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, Omaha-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1665db8-4608-448f-b1ac-397962296add-hls/master/e1665db8-4608-448f-b1ac-397962296add-hls.m3u8
 #EXTINF:-1, ReginaPats-Brandon
 https://media-service.fanreachdata.io/edge/whl/ba9672a59d57405c88e24eb3b4c5e611.m3u8
 #EXTINF:-1, Victoria-Lethbridge
@@ -49,3 +17,5 @@ https://media-service.fanreachdata.io/edge/whl/889f6166785a490d971e37472607462d.
 https://media-service.fanreachdata.io/edge/whl/a9e626db7ae942f29f8a039e537eeba6.m3u8
 #EXTINF:-1, Portland-Vancouver
 https://media-service.fanreachdata.io/edge/whl/2185244eba1c4306ab04b35250efabda.m3u8
+#EXTINF:-1, Omaha-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1665db8-4608-448f-b1ac-397962296add-hls/master/e1665db8-4608-448f-b1ac-397962296add-hls.m3u8
