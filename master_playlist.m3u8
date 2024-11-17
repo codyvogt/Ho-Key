@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1, KunlunRS-DinamoMn
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, FärjestadBK-RögleBK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731a7661dc6516e089a20c3/index.m3u8
+#EXTINF:-1, TimråIK-DjurgårdensIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731b41fe689ca0066fa3b6a/index.m3u8
+#EXTINF:-1, TechnikaBrno-Vsetín
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f2649da1fe2c39f40b288f/index.m3u8
+#EXTINF:-1, PirátiChomutov-Chrudim
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672dd43de689ca0066fa2ffa/index.m3u8
+#EXTINF:-1, HCTábor-KrálovéPísek
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67174e9d90eeba7bde92d1c0/index.m3u8
