@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1, JYPAkatemia-LeKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e12e689ca0066fa35e3/index.m3u8
-#EXTINF:-1, IPK-Kiekko-EspooCh
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e121dc6516e089a1c5f/index.m3u8
-#EXTINF:-1, Seinäjoen-Kiekko-FoPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67303e12e689ca0066fa35e9/index.m3u8
-#EXTINF:-1, Ketterä-KJTHaukatAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e12e689ca0066fa35e5/index.m3u8
-#EXTINF:-1, KeuPa/Diskos-KJT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e121dc6516e089a1c5b/index.m3u8
-#EXTINF:-1, KokkolanHermes-TUTO
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67303e12e689ca0066fa35eb/index.m3u8
-#EXTINF:-1, KirunaAIF-ÖverkalixIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6731b3391dc6516e089a222b/index.m3u8
-#EXTINF:-1, VilhelminaIK-Burträsk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731b24ee689ca0066fa3b61/index.m3u8
-#EXTINF:-1, Piemont-Dolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635ebd24da32d7de67427/index.m3u8
-#EXTINF:-1, Sollentuna-VitaHästen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6731abf81dc6516e089a21a9/index.m3u8
-#EXTINF:-1, TimråIK-Björklöven2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6731b41fe689ca0066fa3b6b/index.m3u8
-#EXTINF:-1, IFSundsvall-Munksund
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6731a4a9e689ca0066fa3a46/index.m3u8
 #EXTINF:-1, LuleåHF-IFBjörklöven
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731acdb1dc6516e089a21ca/index.m3u8
 #EXTINF:-1, SkellefteåAIK-MoDo
