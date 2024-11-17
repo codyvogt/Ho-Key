@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Sudbury-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/d3b0ec15142e454abfa91bbaa0e553ea.m3u8
 #EXTINF:-1, Drummond.-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/9c9bb763e47f482e87f56e4ff30aad7d.m3u8
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/252ddf6b174a4c8c8da1aa75bd96f11f.m3u8
-#EXTINF:-1, CapeBreton-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/8aaa9cbc13af4caa90f8fe777f64a8c8.m3u8
+#EXTINF:-1, Kamloops-Wenatchee
+https://media-service.fanreachdata.io/edge/whl/dd4ec5ec18164c768712ec12951962bb.m3u8
