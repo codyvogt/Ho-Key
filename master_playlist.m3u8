@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, SaintJohn-ABTitan
+https://media-service.fanreachdata.io/edge/lhjmq/792fa9b72bdc4960ac46f85e1c38901a.m3u8
+#EXTINF:-1, Moncton-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/55050cdd11be4a09985278f2c33d3462.m3u8
 #EXTINF:-1, UMass-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, UMassLowell-Vermont
@@ -31,10 +35,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a4148fa7-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, Omaha-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1665db8-4608-448f-b1ac-397962296add-hls/master/e1665db8-4608-448f-b1ac-397962296add-hls.m3u8
-#EXTINF:-1, SaintJohn-ABTitan
-https://media-service.fanreachdata.io/edge/lhjmq/792fa9b72bdc4960ac46f85e1c38901a.m3u8
-#EXTINF:-1, Moncton-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/55050cdd11be4a09985278f2c33d3462.m3u8
 #EXTINF:-1, HolyCross-UNH
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Erie-FlintFirebirds
