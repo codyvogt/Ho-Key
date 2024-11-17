@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Kelowna-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/d017a35583054f5b8ec6fa27835feb8d.m3u8
-#EXTINF:-1, Calgary-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/e0a1ca5ea6744e0ea35d5728d5351163.m3u8
-#EXTINF:-1, Everett-Seattle
-https://media-service.fanreachdata.io/edge/whl/889f6166785a490d971e37472607462d.m3u8
-#EXTINF:-1, RedDeer-SpokaneChiefs
-https://media-service.fanreachdata.io/edge/whl/a9e626db7ae942f29f8a039e537eeba6.m3u8
 #EXTINF:-1, Portland-Vancouver
 https://media-service.fanreachdata.io/edge/whl/2185244eba1c4306ab04b35250efabda.m3u8
