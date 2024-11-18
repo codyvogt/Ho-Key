@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HCKSalamat-Näädät
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67318f8ee689ca0066fa396e/index.m3u8
 #EXTINF:-1, Nacka-GötaTraneberg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6733068aad9e15411a555d98/index.m3u8
 #EXTINF:-1, SunderbySK-KalixHC
