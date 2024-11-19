@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1, AiglesdeNice-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6718784ead24ad0a91050909.m3u8
-#EXTINF:-1, Rouen-Chamonix
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6718784ede786e495cf9d1db.m3u8
-#EXTINF:-1, Amiens-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6718784ede786e495cf9d1d7.m3u8
-#EXTINF:-1, Bordeaux-Gap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6718784ede786e495cf9d1d9.m3u8
-#EXTINF:-1, Ducsd'Angers-Marseille
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6718784ead24ad0a91050907.m3u8
 #EXTINF:-1, Cergy-Pontoise-Briançon
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6718784ede786e495cf9d1dd.m3u8
-#EXTINF:-1, Lerum-Sörhaga/Alingsås
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673443238851d826adae5183/index.m3u8
