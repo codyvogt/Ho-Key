@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, HerningBlueFox-Aalborg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c883ca7959d90e21c2823c/index.m3u8
-#EXTINF:-1, EsbjergEnergy-Rødovre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66c883cb7959d90e21c2823e/index.m3u8
-#EXTINF:-1, Frederikshavn-Rungsted
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66c883cc7959d90e21c28240/index.m3u8
-#EXTINF:-1, Herlev-SønderjyskE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66c883cd7959d90e21c28242/index.m3u8
+#EXTINF:-1, LimhamnHK-IFLejonet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67272bb71dc6516e089a0aa6/index.m3u8
+#EXTINF:-1, Strasbourg-Meudon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672c3ece1dc6516e089a12b9/index.m3u8
+#EXTINF:-1, HovåsHC-VarbergHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6735a8a18851d826adae53c2/index.m3u8
