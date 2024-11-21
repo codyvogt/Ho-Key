@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, GlimmaHK-LundGiants
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736f9398851d826adae5677/index.m3u8
-#EXTINF:-1, IFKFalköpingIK-Tibro
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736f7638851d826adae5664/index.m3u8
-#EXTINF:-1, FOCFarstaIF-ÄltaIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6736e9c54c3fc0496b71a5b9/index.m3u8
-#EXTINF:-1, OlofströmsIK-Karlskrona
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673450c68851d826adae51be/index.m3u8
-#EXTINF:-1, HerningII-AalborgII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66d5da4d5f52d016d5898a1a/index.m3u8
-#EXTINF:-1, TullingeTPHC-Nyköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6736e7f44c3fc0496b71a5b3/index.m3u8
-#EXTINF:-1, HässelbyKälvesta-KTH
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736ed674c3fc0496b71a5cc/index.m3u8
-#EXTINF:-1, HerringsHC-FotskälsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f439fe689ca0066fa0dfc/index.m3u8
 #EXTINF:-1, HCEppan-Valdifiemme
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635f990eeba7bde92d039/index.m3u8
 #EXTINF:-1, ValpelliceBulldogs-Aosta
@@ -27,6 +11,10 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635fb90eeba7bde92d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635fa90eeba7bde92d03d/index.m3u8
 #EXTINF:-1, Kaltern-ZinnenDolomites
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635fc90eeba7bde92d041/index.m3u8
+#EXTINF:-1, HässelbyKälvesta-KTH
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736ed674c3fc0496b71a5cc/index.m3u8
+#EXTINF:-1, HerringsHC-FotskälsHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f439fe689ca0066fa0dfc/index.m3u8
 #EXTINF:-1, EaglesSüdtirol-Trentino
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635f990eeba7bde92d03b/index.m3u8
 #EXTINF:-1, PitäjänmäenTarmo-KHK
