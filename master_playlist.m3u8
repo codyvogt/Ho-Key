@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ParaistenSport-TuK-V
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6735840e8851d826adae52f8/index.m3u8
-#EXTINF:-1, PitäjänmäenTarmo-KHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6735840e4c3fc0496b71a220/index.m3u8
 #EXTINF:-1, GlimmaHK-LundGiants
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736f9398851d826adae5677/index.m3u8
 #EXTINF:-1, IFKFalköpingIK-Tibro
@@ -33,5 +29,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635fa90eeba7bde92d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/671635fc90eeba7bde92d041/index.m3u8
 #EXTINF:-1, EaglesSüdtirol-Trentino
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671635f990eeba7bde92d03b/index.m3u8
+#EXTINF:-1, PitäjänmäenTarmo-KHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6735840e4c3fc0496b71a220/index.m3u8
 #EXTINF:-1, Tavastia-Jää-Tiikerit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6735840e8851d826adae52f7/index.m3u8
