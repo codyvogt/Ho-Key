@@ -45,6 +45,8 @@ https://media-service.fanreachdata.io/edge/ohl/414bfed43a7e48aebc57bd11aaa771cc.
 https://media-service.fanreachdata.io/edge/ohl/552816728bac4c5aa6a0cbd97dd31d22.m3u8
 #EXTINF:-1, Flint-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/b4559065df044e518dc5ecfc9157416a.m3u8
+#EXTINF:-1, GreenBay-USNTDPU17
+fluidtv.php?channel=https://dg485xo4dxhgf.cloudfront.net/1e4df19e37f835a82dd5fd1cab3acc91/0_hd_hls.m3u8
 #EXTINF:-1, Brown-Clarkson
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Princeton-Colgate
