@@ -5,3 +5,7 @@ fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9f
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, HCLugano-Ambrì-Piotta
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, VästeråsIK-RögleBK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673849cda55a234fbca86279/index.m3u8
+#EXTINF:-1, TechnikaBrno-Olomouc
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f2649da1fe2c39f40b288b/index.m3u8
