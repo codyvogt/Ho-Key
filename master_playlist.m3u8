@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Marseille-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/671c6ccde689ca0066fa0530.m3u8
-#EXTINF:-1, Heerenveen-Eaters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672f32a7e689ca0066fa3440/index.m3u8
 #EXTINF:-1, MechelenII-Beaufort
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672f32b3e689ca0066fa3444/index.m3u8
 #EXTINF:-1, Clarkson-Brown
