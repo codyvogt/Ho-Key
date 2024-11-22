@@ -5,16 +5,6 @@ fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9f
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, HCLugano-Ambrì-Piotta
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, VästeråsIK-RögleBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673849cda55a234fbca86279/index.m3u8
-#EXTINF:-1, HedesundaIF-JärvsöIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673836bbaf94a25608ebd8df/index.m3u8
-#EXTINF:-1, TidaholmsHF-Ulricehamn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6738471baf94a25608ebd963/index.m3u8
-#EXTINF:-1, KålleredSK-VarbergHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673848e6a55a234fbca8626f/index.m3u8
-#EXTINF:-1, Solna-ÖsteråkerVikings
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673835d4a55a234fbca86188/index.m3u8
 #EXTINF:-1, Briançon-AiglesdeNice
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/671c6ccc1dc6516e0899ed5a.m3u8
 #EXTINF:-1, Chamonix-Bordeaux
