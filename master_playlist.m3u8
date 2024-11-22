@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-DynamoM
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, SCBern-HCDavos
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
 #EXTINF:-1, Fribourg-Gottéron-LHC
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, HCLugano-Ambrì-Piotta
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, PorvoonHunters-LeKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6736d58e8851d826adae55d7/index.m3u8
-#EXTINF:-1, TornionIHC-LaserHT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae55c8/index.m3u8
-#EXTINF:-1, Hela-Kiekko-APV
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae55be/index.m3u8
-#EXTINF:-1, KellokoskenAlku-KHT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae55e3/index.m3u8
