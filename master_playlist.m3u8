@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-DynamoM
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, JYP-SaimaanPallo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae55f8/index.m3u8
-#EXTINF:-1, LahdenPelicans-Jokerit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae5610/index.m3u8
 #EXTINF:-1, PorinÄssät-TPS
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae5612/index.m3u8
 #EXTINF:-1, RaumanLukko-RoKi
