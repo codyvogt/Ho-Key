@@ -7,5 +7,21 @@ fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manife
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, VästeråsIK-RögleBK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673849cda55a234fbca86279/index.m3u8
-#EXTINF:-1, TechnikaBrno-Olomouc
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f2649da1fe2c39f40b288b/index.m3u8
+#EXTINF:-1, HedesundaIF-JärvsöIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673836bbaf94a25608ebd8df/index.m3u8
+#EXTINF:-1, TidaholmsHF-Ulricehamn
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6738471baf94a25608ebd963/index.m3u8
+#EXTINF:-1, KålleredSK-VarbergHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673848e6a55a234fbca8626f/index.m3u8
+#EXTINF:-1, Solna-ÖsteråkerVikings
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673835d4a55a234fbca86188/index.m3u8
+#EXTINF:-1, Briançon-AiglesdeNice
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/671c6ccc1dc6516e0899ed5a.m3u8
+#EXTINF:-1, Chamonix-Bordeaux
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/671c6ccd1dc6516e0899ed5c.m3u8
+#EXTINF:-1, Grenoble-Rouen
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/671c6ccde689ca0066fa052e.m3u8
+#EXTINF:-1, Marseille-Amiens
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/671c6ccde689ca0066fa0530.m3u8
+#EXTINF:-1, Hormadid'Anglet-Angers
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/671c6ccde689ca0066fa052c.m3u8
