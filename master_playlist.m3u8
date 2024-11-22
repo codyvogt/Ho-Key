@@ -13,3 +13,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae5
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e8851d826adae5604/index.m3u8
 #EXTINF:-1, KalevanPallo-HPK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6736d58e4c3fc0496b71a565/index.m3u8
+#EXTINF:-1, DinamoMinsk-DynamoM
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
