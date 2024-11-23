@@ -13,8 +13,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/15661a68ccb84e8383a4c36fa4c0dd4
 https://media-service.fanreachdata.io/edge/lhjmq/17a84ae9ac3b48cbb6816cd73193d3cb.m3u8
 #EXTINF:-1, Charlottetown-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/47213cc871bd4e0a8132b4b0cdc367cf.m3u8
-#EXTINF:-1, Yale-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, LongIsland-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, UConn-UMassLowell
