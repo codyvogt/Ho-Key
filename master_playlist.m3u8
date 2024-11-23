@@ -1,47 +1,19 @@
 #EXTM3U
-#EXTINF:-1, MladáBoleslav-Motor
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6710e1556b135e19484e282e/index.m3u8
-#EXTINF:-1, LempäälänKisa-FPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67382715af94a25608ebd73c/index.m3u8
-#EXTINF:-1, SaPKo-LapuanVirkiä
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382715af94a25608ebd744/index.m3u8
-#EXTINF:-1, KotkanTitaanit-MUIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67382715af94a25608ebd73e/index.m3u8
-#EXTINF:-1, TegsSK-KovlandsIshF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673996caaf94a25608ebdd4a/index.m3u8
-#EXTINF:-1, SollentunaHC-Enköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673994f7a55a234fbca8663b/index.m3u8
-#EXTINF:-1, Vallentuna-Tyresö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739940caf94a25608ebdcd3/index.m3u8
-#EXTINF:-1, Flemingsberg-Huddinge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67398e96af94a25608ebdc1a/index.m3u8
-#EXTINF:-1, WingsArlanda-Nacka
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67398daaaf94a25608ebdc12/index.m3u8
-#EXTINF:-1, TranebergIK-Nyköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739998aaf94a25608ebdd68/index.m3u8
-#EXTINF:-1, Helsingborg-Mariestad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67398be2af94a25608ebdbf4/index.m3u8
-#EXTINF:-1, EskilstunaLinden-Värmdö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ae58fa55a234fbca869f2/index.m3u8
-#EXTINF:-1, PyryTeam-Kiekko-Ahma
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67382716a55a234fbca8602b/index.m3u8
-#EXTINF:-1, Kiekkohait-ChiefsTurku
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382716af94a25608ebd788/index.m3u8
-#EXTINF:-1, Jää-Ahmat-HarjunKiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67382716af94a25608ebd7a4/index.m3u8
-#EXTINF:-1, KuhmonKivaHT-LiKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67382717af94a25608ebd7d1/index.m3u8
-#EXTINF:-1, KurraHT-TuusKiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382716af94a25608ebd7a5/index.m3u8
-#EXTINF:-1, KPK-Hiki-Hockey
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382716a55a234fbca8602f/index.m3u8
-#EXTINF:-1, PaimionHaka-VG-62
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382716af94a25608ebd789/index.m3u8
-#EXTINF:-1, KJK-Kisa-Eagles
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67382716a55a234fbca86028/index.m3u8
-#EXTINF:-1, Gladiators-PESÄImatra
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382716af94a25608ebd79c/index.m3u8
-#EXTINF:-1, GrankullaIFK-EVU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67382716af94a25608ebd7a7/index.m3u8
-#EXTINF:-1, HighsticksHT-Kraft
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382716a55a234fbca8602c/index.m3u8
+#EXTINF:-1, Hokki-KeuPaHT/Diskos
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6738271aaf94a25608ebd887/index.m3u8
+#EXTINF:-1, KOOVEE-KJTHaukatAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6738271aaf94a25608ebd886/index.m3u8
+#EXTINF:-1, FoPS-Jokipojat
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6738271aaf94a25608ebd889/index.m3u8
+#EXTINF:-1, ArvikaHC-KumlaHockey
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67399c3da55a234fbca866ba/index.m3u8
+#EXTINF:-1, Skutskär-Säter/Fagersta
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739a1a7a55a234fbca867ff/index.m3u8
+#EXTINF:-1, IFLejonet-JonstorpsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67398be2a55a234fbca86581/index.m3u8
+#EXTINF:-1, HärrydaHC-KålleredSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739a0c0a55a234fbca867ab/index.m3u8
+#EXTINF:-1, Lakers-ZinnenDolomites
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635fed24da32d7de67437/index.m3u8
+#EXTINF:-1, KölnerJunghaie-Iserlohn
+fluidtv.php?channel=https://pool-3.cdn.sporttotal.tv/out/v1/5356607fb1854af5a2419822744cf765/index.m3u8
