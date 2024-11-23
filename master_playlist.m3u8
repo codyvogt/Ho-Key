@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Drummondville-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/550d07a59250470d87f8afd72c7af6c4.m3u8
-#EXTINF:-1, Moncton-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/06507513dbd4491caa58536f9a4cb82f.m3u8
-#EXTINF:-1, Val-d'Or-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/89d09eaf679c413a9f800cd3cca9a99c.m3u8
-#EXTINF:-1, ABTitan-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/51e20fb514564b288ad82898ad75f74e.m3u8
-#EXTINF:-1, Rimouski-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/15661a68ccb84e8383a4c36fa4c0dd49.m3u8
 #EXTINF:-1, Shawinigan-CapeBreton
 https://media-service.fanreachdata.io/edge/lhjmq/17a84ae9ac3b48cbb6816cd73193d3cb.m3u8
 #EXTINF:-1, Charlottetown-SaintJohn
@@ -59,6 +51,8 @@ https://media-service.fanreachdata.io/edge/ohl/fbc4227e81da4dc28ad7899bea05e04b.
 https://media-service.fanreachdata.io/edge/ohl/50bb8e6de77f4d87af749e028ea5d0d1.m3u8
 #EXTINF:-1, London-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/0b29863d41d7416ab42d34abde170417.m3u8
+#EXTINF:-1, GreenBay-USNTDPU17
+fluidtv.php?channel=https://d36glcisscg3nl.cloudfront.net/43f871b256e5bc91a5f9d268bd2b40f6/0_hd_hls.m3u8
 #EXTINF:-1, SwiftCurrent-Brandon
 https://media-service.fanreachdata.io/edge/whl/42300ffc9b0f42838a7d08eb41657988.m3u8
 #EXTINF:-1, Tri-City-MooseJaw
