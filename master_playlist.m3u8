@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Oshawa-Brantford
-https://media-service.fanreachdata.io/edge/ohl/e4f22b9c8c5d4ff5ae95dbefc4e59406.m3u8
-#EXTINF:-1, Niagara-Brampton
-https://media-service.fanreachdata.io/edge/ohl/4a5ce2fc3281457398c3f44f0097d7b9.m3u8
-#EXTINF:-1, SaultSte.Marie-Erie
-https://media-service.fanreachdata.io/edge/ohl/3ee4c284679a49c48e9bfe20a74f9283.m3u8
-#EXTINF:-1, OwenSound-London
-https://media-service.fanreachdata.io/edge/ohl/549a073105c347df8c44786d285b98e9.m3u8
-#EXTINF:-1, Ottawa-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/552816728bac4c5aa6a0cbd97dd31d22.m3u8
 #EXTINF:-1, Acadie-Bathurst-Blainville
 https://media-service.fanreachdata.io/edge/lhjmq/f66551c666ee46f99dbf66176dbaaa93.m3u8
 #EXTINF:-1, Tri-City-Brandon
