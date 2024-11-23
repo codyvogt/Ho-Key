@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, St.Lawrence-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Cornell-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Clarkson-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Merrimack-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Colgate-Quinnipiac
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, BostonC-Connecticut
@@ -55,3 +47,37 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/274b2621-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/023b07f3-568f-4027-ad71-34fd580ee0ad-hls/master/023b07f3-568f-4027-ad71-34fd580ee0ad-hls.m3u8
 #EXTINF:-1, Miami-Nebraska-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/216fb172-1ba2-4936-9e5c-31439044ebfa-hls/master/216fb172-1ba2-4936-9e5c-31439044ebfa-hls.m3u8
+#EXTINF:-1, Kingston-Brantford
+https://media-service.fanreachdata.io/edge/ohl/437826e849464e87ab297c4d2a2a586a.m3u8
+#EXTINF:-1, Sudbury-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/ef61840de461417795160fc90d9340ef.m3u8
+#EXTINF:-1, Barrie-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/cfaf226cfa3846dc810216c79ce7fad9.m3u8
+#EXTINF:-1, Kitchener-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/1fcdd2149cbb4afe976f42a4b54e44ae.m3u8
+#EXTINF:-1, Oshawa-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/ddddbcf9169f433c9a43ec0c02586a74.m3u8
+#EXTINF:-1, NorthBay-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/fbc4227e81da4dc28ad7899bea05e04b.m3u8
+#EXTINF:-1, Ottawa67's-Windsor
+https://media-service.fanreachdata.io/edge/ohl/50bb8e6de77f4d87af749e028ea5d0d1.m3u8
+#EXTINF:-1, London-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/0b29863d41d7416ab42d34abde170417.m3u8
+#EXTINF:-1, SwiftCurrent-Brandon
+https://media-service.fanreachdata.io/edge/whl/42300ffc9b0f42838a7d08eb41657988.m3u8
+#EXTINF:-1, Tri-City-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/551b882943a540bdaad7e6ae6d87b209.m3u8
+#EXTINF:-1, Regina-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/5360ab1b2b3243e3b6623adb570680df.m3u8
+#EXTINF:-1, Everett-Kamloops
+https://media-service.fanreachdata.io/edge/whl/7bfb51ada7694b51b783dc17248437b0.m3u8
+#EXTINF:-1, Saskatoon-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/6bed18b2adc2417d84f2227d26b3ae82.m3u8
+#EXTINF:-1, WenatcheeWild-Portland
+https://media-service.fanreachdata.io/edge/whl/8e54240920034b8698124f56596befaf.m3u8
+#EXTINF:-1, Victoria-RedDeerRebels
+https://media-service.fanreachdata.io/edge/whl/e142475ae1bd46f89623b91e9aa0feb3.m3u8
+#EXTINF:-1, Lethbridge-Seattle
+https://media-service.fanreachdata.io/edge/whl/fd20d84988614ace85867db23df2e681.m3u8
+#EXTINF:-1, Spokane-Vancouver
+https://media-service.fanreachdata.io/edge/whl/2be620e2b56e43cea0dd7f37ca9de5f6.m3u8
