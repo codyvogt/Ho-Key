@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Hokki-KeuPaHT/Diskos
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6738271aaf94a25608ebd887/index.m3u8
-#EXTINF:-1, FoPS-Jokipojat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6738271aaf94a25608ebd889/index.m3u8
-#EXTINF:-1, ArvikaHC-KumlaHockey
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67399c3da55a234fbca866ba/index.m3u8
-#EXTINF:-1, Skutskär-Säter/Fagersta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739a1a7a55a234fbca867ff/index.m3u8
-#EXTINF:-1, IFLejonet-JonstorpsIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67398be2a55a234fbca86581/index.m3u8
-#EXTINF:-1, HärrydaHC-KålleredSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739a0c0a55a234fbca867ab/index.m3u8
-#EXTINF:-1, Lakers-ZinnenDolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671635fed24da32d7de67437/index.m3u8
-#EXTINF:-1, KölnerJunghaie-Iserlohn
-fluidtv.php?channel=https://pool-3.cdn.sporttotal.tv/out/v1/5356607fb1854af5a2419822744cf765/index.m3u8
+#EXTINF:-1, Roudnicen.Labem-Bílina
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67208925e689ca0066fa0fde/index.m3u8
