@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Hokki-KeuPaHT/Diskos
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6738271aaf94a25608ebd887/index.m3u8
-#EXTINF:-1, KOOVEE-KJTHaukatAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6738271aaf94a25608ebd886/index.m3u8
 #EXTINF:-1, FoPS-Jokipojat
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6738271aaf94a25608ebd889/index.m3u8
 #EXTINF:-1, ArvikaHC-KumlaHockey
