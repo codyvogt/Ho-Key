@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Regina-SwiftCurrent
-https://media-service.fanreachdata.io/edge/whl/5f7e551cbb69409ba3b67be138ae130d.m3u8
 #EXTINF:-1, Victoria-CalgaryHitmen
 https://media-service.fanreachdata.io/edge/whl/b0e8a7ab2345426181427b48642e5212.m3u8
 #EXTINF:-1, MedicineHat-Edmonton
@@ -13,10 +11,6 @@ https://media-service.fanreachdata.io/edge/whl/30df9147925c492e94dd21635e33fc86.
 https://media-service.fanreachdata.io/edge/whl/77263892998d40639f5ae1977335c04d.m3u8
 #EXTINF:-1, SpokaneChiefs-Everett
 https://media-service.fanreachdata.io/edge/whl/9299f86956cf4f7a95c3e34a29c79b12.m3u8
-#EXTINF:-1, Miami-Nebraska-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f17695ce-85be-4d35-b76e-d28e9bad69a0-hls/master/f17695ce-85be-4d35-b76e-d28e9bad69a0-hls.m3u8
-#EXTINF:-1, RMU-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3bedfbd2-9a04-4e0c-bc3e-e910ca443752-hls/master/3bedfbd2-9a04-4e0c-bc3e-e910ca443752-hls.m3u8
 #EXTINF:-1, SCSU-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8a67cd98-3d70-456f-af3d-1869e259053b-hls/master/8a67cd98-3d70-456f-af3d-1869e259053b-hls.m3u8
 #EXTINF:-1, ArizonaState-Denver
