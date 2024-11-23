@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1, Lokomotiv-TorpedoNN
 fluidtv.php?channel=https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, TapparaTampere-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67382718af94a25608ebd811/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-Jokerit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67382718af94a25608ebd814/index.m3u8
+#EXTINF:-1, PorinÄssät-HIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382718af94a25608ebd810/index.m3u8
+#EXTINF:-1, HPK-TurunPalloseura
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382719af94a25608ebd82d/index.m3u8
+#EXTINF:-1, TampereenIlves-Jukurit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67382718af94a25608ebd816/index.m3u8
+#EXTINF:-1, DuklaJihlava-BeraniZlín
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670e22346b135e19484e23c9/index.m3u8
+#EXTINF:-1, SpartaPraha-Vítkovice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6714b9b46b135e19484e316f/index.m3u8
+#EXTINF:-1, HCLitvínov-Pardubice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ceda34d3d999504733cccd/index.m3u8
+#EXTINF:-1, KarlovyVary-Mountfield
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6710e1556b135e19484e282d/index.m3u8
