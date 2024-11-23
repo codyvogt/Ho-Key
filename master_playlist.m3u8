@@ -1,34 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Dunkerque-HCMP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6730334ee689ca0066fa34d1/index.m3u8
-#EXTINF:-1, DogsdeCholet-Tours
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6730334de689ca0066fa34af/index.m3u8
-#EXTINF:-1, Brest-Neuilly-sur-Marne
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730334e1dc6516e089a1b28/index.m3u8
-#EXTINF:-1, HCAosta-HCFeltre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163603d24da32d7de6743b/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Eppan
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716360390eeba7bde92d04f/index.m3u8
 #EXTINF:-1, AllegheHockey-Pergine
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163605d24da32d7de6743f/index.m3u8
-#EXTINF:-1, HCPiné-HCPSelection
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163604d24da32d7de6743d/index.m3u8
+#EXTINF:-1, Jetsd'Évry-Viry-Reims
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730334e1dc6516e089a1b40/index.m3u8
+#EXTINF:-1, Annecy-Anglet2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6730334ee689ca0066fa34d5/index.m3u8
 #EXTINF:-1, Valpellice-HCChiavenna
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716360590eeba7bde92d051/index.m3u8
 #EXTINF:-1, StormPinerolo-Milano
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163606d24da32d7de67441/index.m3u8
-#EXTINF:-1, Toulouse2-Brive
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6730334de689ca0066fa34c3/index.m3u8
-#EXTINF:-1, Caen2-ChampignyHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730334de689ca0066fa34b7/index.m3u8
-#EXTINF:-1, Grenoble-Marseille
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6730334de689ca0066fa34bb.m3u8
-#EXTINF:-1, Cergy-P.-Dunkerque
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66dbd34d4b7c131998fd59e7.m3u8
-#EXTINF:-1, Chambéry-LionsdeLyon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730334de689ca0066fa34b5/index.m3u8
-#EXTINF:-1, Harvard-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, St.Lawrence-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Cornell-Princeton
@@ -41,12 +21,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivid
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, BostonC-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Jetsd'Évry-Viry-Reims
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6730334e1dc6516e089a1b40/index.m3u8
-#EXTINF:-1, Annecy-Anglet2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6730334ee689ca0066fa34d5/index.m3u8
-#EXTINF:-1, Antwerp-LeuvenWhite
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673084331dc6516e089a1f7e/index.m3u8
 #EXTINF:-1, Drummondville-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/550d07a59250470d87f8afd72c7af6c4.m3u8
 #EXTINF:-1, Moncton-Baie-Comeau
