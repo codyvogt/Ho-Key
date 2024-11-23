@@ -1,17 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Victoria-CalgaryHitmen
-https://media-service.fanreachdata.io/edge/whl/b0e8a7ab2345426181427b48642e5212.m3u8
-#EXTINF:-1, MedicineHat-Edmonton
-https://media-service.fanreachdata.io/edge/whl/a44b43c50a5a456694be6fea20b92e91.m3u8
-#EXTINF:-1, Lethbridge-Portland
-https://media-service.fanreachdata.io/edge/whl/de2e46dae2f1447fb28ddbfb4db48b31.m3u8
-#EXTINF:-1, Kamloops-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/30df9147925c492e94dd21635e33fc86.m3u8
-#EXTINF:-1, Vancouver-Kelowna
-https://media-service.fanreachdata.io/edge/whl/77263892998d40639f5ae1977335c04d.m3u8
-#EXTINF:-1, SpokaneChiefs-Everett
-https://media-service.fanreachdata.io/edge/whl/9299f86956cf4f7a95c3e34a29c79b12.m3u8
-#EXTINF:-1, SCSU-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8a67cd98-3d70-456f-af3d-1869e259053b-hls/master/8a67cd98-3d70-456f-af3d-1869e259053b-hls.m3u8
-#EXTINF:-1, ArizonaState-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3b46b77f-49c9-4400-990d-7620059dd3c8-hls/master/3b46b77f-49c9-4400-990d-7620059dd3c8-hls.m3u8
