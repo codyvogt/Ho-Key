@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Acadie-Bathurst-Blainville
-https://media-service.fanreachdata.io/edge/lhjmq/f66551c666ee46f99dbf66176dbaaa93.m3u8
-#EXTINF:-1, Tri-City-Brandon
-https://media-service.fanreachdata.io/edge/whl/d10ea63bee6e4333ad6e4f8be261631f.m3u8
 #EXTINF:-1, Regina-SwiftCurrent
 https://media-service.fanreachdata.io/edge/whl/5f7e551cbb69409ba3b67be138ae130d.m3u8
 #EXTINF:-1, Victoria-CalgaryHitmen
@@ -17,10 +13,6 @@ https://media-service.fanreachdata.io/edge/whl/30df9147925c492e94dd21635e33fc86.
 https://media-service.fanreachdata.io/edge/whl/77263892998d40639f5ae1977335c04d.m3u8
 #EXTINF:-1, SpokaneChiefs-Everett
 https://media-service.fanreachdata.io/edge/whl/9299f86956cf4f7a95c3e34a29c79b12.m3u8
-#EXTINF:-1, St.Thomas-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, WMU-MinnesotaDuluth
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/67372f37-c194-4217-a451-34a0d3aef49f-hls/master/67372f37-c194-4217-a451-34a0d3aef49f-hls.m3u8
 #EXTINF:-1, Miami-Nebraska-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f17695ce-85be-4d35-b76e-d28e9bad69a0-hls/master/f17695ce-85be-4d35-b76e-d28e9bad69a0-hls.m3u8
 #EXTINF:-1, RMU-NorthDakota
