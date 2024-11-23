@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Halifax-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/7edec5594a2f484cb297d3b30973c06c.m3u8
 #EXTINF:-1, Charlottetown-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/2c9fd7c47e7c4d1d855eb4148c831440.m3u8
 #EXTINF:-1, Baie-Comeau-Chicoutimi
@@ -13,8 +11,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/70ce2ac668f2476289c3aede6a2ce33
 https://media-service.fanreachdata.io/edge/lhjmq/b68ba9f010114b65b20012d9ae71ada3.m3u8
 #EXTINF:-1, Acadie-Bathurst-Blainville
 https://media-service.fanreachdata.io/edge/lhjmq/f66551c666ee46f99dbf66176dbaaa93.m3u8
-#EXTINF:-1, Cornell-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Oshawa-Brantford
 https://media-service.fanreachdata.io/edge/ohl/e4f22b9c8c5d4ff5ae95dbefc4e59406.m3u8
 #EXTINF:-1, Peterborough-Kingston
@@ -33,8 +29,6 @@ https://media-service.fanreachdata.io/edge/ohl/414bfed43a7e48aebc57bd11aaa771cc.
 https://media-service.fanreachdata.io/edge/ohl/552816728bac4c5aa6a0cbd97dd31d22.m3u8
 #EXTINF:-1, Flint-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/b4559065df044e518dc5ecfc9157416a.m3u8
-#EXTINF:-1, GreenBay-USNTDPU17
-fluidtv.php?channel=https://dg485xo4dxhgf.cloudfront.net/1e4df19e37f835a82dd5fd1cab3acc91/0_hd_hls.m3u8
 #EXTINF:-1, Brown-Clarkson
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Princeton-Colgate
@@ -69,6 +63,8 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3bedfbd2-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8a67cd98-3d70-456f-af3d-1869e259053b-hls/master/8a67cd98-3d70-456f-af3d-1869e259053b-hls.m3u8
 #EXTINF:-1, ArizonaState-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3b46b77f-49c9-4400-990d-7620059dd3c8-hls/master/3b46b77f-49c9-4400-990d-7620059dd3c8-hls.m3u8
+#EXTINF:-1, GreenBay-USNTDPU17
+fluidtv.php?channel=https://dg485xo4dxhgf.cloudfront.net/1e4df19e37f835a82dd5fd1cab3acc91/0_hd_hls.m3u8
 #EXTINF:-1, Tri-City-Brandon
 https://media-service.fanreachdata.io/edge/whl/d10ea63bee6e4333ad6e4f8be261631f.m3u8
 #EXTINF:-1, Regina-SwiftCurrent
