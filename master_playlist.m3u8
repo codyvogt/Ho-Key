@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Everett-Kamloops
-https://media-service.fanreachdata.io/edge/whl/7bfb51ada7694b51b783dc17248437b0.m3u8
-#EXTINF:-1, Saskatoon-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/6bed18b2adc2417d84f2227d26b3ae82.m3u8
-#EXTINF:-1, WenatcheeWild-Portland
-https://media-service.fanreachdata.io/edge/whl/8e54240920034b8698124f56596befaf.m3u8
-#EXTINF:-1, Victoria-RedDeerRebels
-https://media-service.fanreachdata.io/edge/whl/e142475ae1bd46f89623b91e9aa0feb3.m3u8
 #EXTINF:-1, Lethbridge-Seattle
 https://media-service.fanreachdata.io/edge/whl/fd20d84988614ace85867db23df2e681.m3u8
 #EXTINF:-1, Spokane-Vancouver
