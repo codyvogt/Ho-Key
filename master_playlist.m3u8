@@ -3,8 +3,6 @@
 https://media-service.fanreachdata.io/edge/whl/42300ffc9b0f42838a7d08eb41657988.m3u8
 #EXTINF:-1, Tri-City-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/551b882943a540bdaad7e6ae6d87b209.m3u8
-#EXTINF:-1, Regina-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/5360ab1b2b3243e3b6623adb570680df.m3u8
 #EXTINF:-1, Everett-Kamloops
 https://media-service.fanreachdata.io/edge/whl/7bfb51ada7694b51b783dc17248437b0.m3u8
 #EXTINF:-1, Saskatoon-MedicineHat
@@ -17,9 +15,5 @@ https://media-service.fanreachdata.io/edge/whl/e142475ae1bd46f89623b91e9aa0feb3.
 https://media-service.fanreachdata.io/edge/whl/fd20d84988614ace85867db23df2e681.m3u8
 #EXTINF:-1, Spokane-Vancouver
 https://media-service.fanreachdata.io/edge/whl/2be620e2b56e43cea0dd7f37ca9de5f6.m3u8
-#EXTINF:-1, SCSU-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/274b2621-c132-4a5c-b231-fef8c02a1a54-hls/master/274b2621-c132-4a5c-b231-fef8c02a1a54-hls.m3u8
-#EXTINF:-1, ArizonaState-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/023b07f3-568f-4027-ad71-34fd580ee0ad-hls/master/023b07f3-568f-4027-ad71-34fd580ee0ad-hls.m3u8
 #EXTINF:-1, Miami-Nebraska-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/216fb172-1ba2-4936-9e5c-31439044ebfa-hls/master/216fb172-1ba2-4936-9e5c-31439044ebfa-hls.m3u8
