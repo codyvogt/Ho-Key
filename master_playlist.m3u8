@@ -5,7 +5,9 @@ https://media-service.fanreachdata.io/edge/ohl/3b48fd2c1c474431b5aeba1dab7b405a.
 https://media-service.fanreachdata.io/edge/ohl/20d671ff47474767b1c89056b2b6a3e2.m3u8
 #EXTINF:-1, SudburyWolves-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/008e0829a83c4dd192bab49448578c48.m3u8
-#EXTINF:-1, Vermont-Massachusetts
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, LiègeII-Toekomstteam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731d5b51234715fb96b7e5c/index.m3u8
+#EXTINF:-1, RedDeer-Edmonton
+https://media-service.fanreachdata.io/edge/whl/27ed1fa46181421f83f33d6db4a784db.m3u8
+#EXTINF:-1, PrinceGeorge-Vancouver
+https://media-service.fanreachdata.io/edge/whl/683126406a494e72aa405c167afd4ab8.m3u8
+#EXTINF:-1, Everett-KelownaRockets
+https://media-service.fanreachdata.io/edge/whl/eed100d6b7074883a066866d7a30de3b.m3u8
