@@ -1,23 +1,3 @@
 #EXTM3U
 #EXTINF:-1, DinamoMn-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, TegsSK-ÅngeIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673ae849af94a25608ebe0c7/index.m3u8
-#EXTINF:-1, SunderbySK-KirunaIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673aeb08af94a25608ebe0f6/index.m3u8
-#EXTINF:-1, AsiagoJunior-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672c9dd71dc6516e089a1537/index.m3u8
-#EXTINF:-1, StormPinerolo-Pustertal
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716360c90eeba7bde92d057/index.m3u8
-#EXTINF:-1, Brixen/Wipptal-Cortina
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716360fd24da32d7de67451/index.m3u8
-#EXTINF:-1, Aosta-Juniorteams
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716360f90eeba7bde92d05b/index.m3u8
-#EXTINF:-1, Zoldo/Padova-Eppan
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716361090eeba7bde92d05d/index.m3u8
-#EXTINF:-1, Valpellice-Trento
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716361190eeba7bde92d061/index.m3u8
-#EXTINF:-1, HV71-ÖrebroHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673af06baf94a25608ebe183/index.m3u8
-#EXTINF:-1, TimråIK-SkellefteåAIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673aee9daf94a25608ebe15d/index.m3u8
