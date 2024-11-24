@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Spokane-Vancouver
-https://media-service.fanreachdata.io/edge/whl/2be620e2b56e43cea0dd7f37ca9de5f6.m3u8
 #EXTINF:-1, DinamoMn-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, IFBjörklöven-Leksand
