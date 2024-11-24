@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1, DinamoMn-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Lukko/PaRa-SaiPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67397893a55a234fbca864c2/index.m3u8
-#EXTINF:-1, KalPaAk-HPKAkatemia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67397893af94a25608ebdaf2/index.m3u8
-#EXTINF:-1, Kiekko-EspooAk-APV
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67397893af94a25608ebdaf7/index.m3u8
-#EXTINF:-1, Silkeborg-Odense
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ee818ea1fe2c39f40b2243/index.m3u8
 #EXTINF:-1, SaimaanPallo-KalPa
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67397893a55a234fbca863a6/index.m3u8
 #EXTINF:-1, VaasanSport-HIFK
