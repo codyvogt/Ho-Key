@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1, AiglesdeNice-Gap
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/671f0fcee689ca0066fa0b68.m3u8
+#EXTINF:-1, Bordeaux-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/671f0fcee689ca0066fa0b66.m3u8
+#EXTINF:-1, Briançon-Anglet
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/671f0fcee689ca0066fa0b6a.m3u8
+#EXTINF:-1, Mechelen-LiègeBulldogs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6731d5a64b866a4ddbb6c762/index.m3u8
+#EXTINF:-1, LeuvenChiefs-Neuwied
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731d5a61234715fb96b7e56/index.m3u8
+#EXTINF:-1, Diez-Limburg-Heerenveen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6731d5a74b866a4ddbb6c764/index.m3u8
+#EXTINF:-1, EatersLimburg-HijsHokij
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6731d5a72bab5f0222654ad2/index.m3u8
+#EXTINF:-1, Valpellice-Trento
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716361190eeba7bde92d061/index.m3u8
+#EXTINF:-1, Hlinsko-OrliLanškroun
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66c737847959d90e21c27e1c/index.m3u8
