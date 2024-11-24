@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1, EatersLimburg-HijsHokij
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6731d5a72bab5f0222654ad2/index.m3u8
-#EXTINF:-1, Soo-BramptonSteelheads
-https://media-service.fanreachdata.io/edge/ohl/12445072badc44b3bd1d5a2d91cc3d22.m3u8
-#EXTINF:-1, BarrieColts-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/446fd416793f4eaa9220dc684a2a48d8.m3u8
 #EXTINF:-1, NorthBay-Kingston
 https://media-service.fanreachdata.io/edge/ohl/3b48fd2c1c474431b5aeba1dab7b405a.m3u8
 #EXTINF:-1, Ottawa-LondonKnights
 https://media-service.fanreachdata.io/edge/ohl/20d671ff47474767b1c89056b2b6a3e2.m3u8
 #EXTINF:-1, SudburyWolves-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/008e0829a83c4dd192bab49448578c48.m3u8
-#EXTINF:-1, ÅbyHC-MunkedalsBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ae1e8af94a25608ebdffd/index.m3u8
-#EXTINF:-1, Maine-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, PiemontRebelles-Mastini
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66e2e311a25ba84eb528700e/index.m3u8
 #EXTINF:-1, Vermont-Massachusetts
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 #EXTINF:-1, LiègeII-Toekomstteam
