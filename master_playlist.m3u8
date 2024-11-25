@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1, RedDeer-Edmonton
+https://media-service.fanreachdata.io/edge/whl/27ed1fa46181421f83f33d6db4a784db.m3u8
+#EXTINF:-1, PrinceGeorge-Vancouver
+https://media-service.fanreachdata.io/edge/whl/683126406a494e72aa405c167afd4ab8.m3u8
+#EXTINF:-1, Everett-KelownaRockets
+https://media-service.fanreachdata.io/edge/whl/eed100d6b7074883a066866d7a30de3b.m3u8
+#EXTINF:-1, SudburyWolves-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/008e0829a83c4dd192bab49448578c48.m3u8
