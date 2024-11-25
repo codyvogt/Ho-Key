@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Frederikshavn-Rødovre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd9153d3d999504733cb98/index.m3u8
 #EXTINF:-1, BodensHF-KalixHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673c3627a55a234fbca86d5e/index.m3u8
 #EXTINF:-1, VärmdöHC-SDEHF
