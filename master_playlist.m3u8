@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1, USAU18-TeamCHL
+https://media-service.fanreachdata.io/edge/ohl/929e24022832439e9398f70a2c7c6966.m3u8
+#EXTINF:-1, RochesterIT-Cornell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, SwiftCurrent-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/77434fe7c7934680b43e558ed976140b.m3u8
