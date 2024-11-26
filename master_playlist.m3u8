@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, NorsjöHC-BurträskHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673d86bbc75f8964ad3e99b4/index.m3u8
-#EXTINF:-1, UmeåDragons-TegsSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673d814754ba8d4ac5e1d6b8/index.m3u8
 #EXTINF:-1, Strasbourg-Amiens
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673427cd8851d826adae5133/index.m3u8
 #EXTINF:-1, Briançon-Anglet
@@ -15,5 +11,7 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/673427cd8851d826adae5139.m3u8
 #EXTINF:-1, Cergy-Pontoise-Angers
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/673427cd8851d826adae5135.m3u8
+#EXTINF:-1, UmeåDragons-TegsSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673d814754ba8d4ac5e1d6b8/index.m3u8
 #EXTINF:-1, K-Kissat-HCKSalamat
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673c1b8ea55a234fbca86d14/index.m3u8
