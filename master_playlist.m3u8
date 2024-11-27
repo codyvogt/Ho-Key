@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Chambéry-Morzine-Av.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6735794d4c3fc0496b71a1ed/index.m3u8
-#EXTINF:-1, Princeton-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, Bokasport-Ramberget
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ee4f154ba8d4ac5e1d905/index.m3u8
-#EXTINF:-1, DuellsPHK-JärnbrottsHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673edb9f54ba8d4ac5e1d8c6/index.m3u8
 #EXTINF:-1, USAU18-TeamCHL
 https://media-service.fanreachdata.io/edge/ohl/409bd7c2cfc24931bc18a5bfb0f775cc.m3u8
 #EXTINF:-1, OwenSound-ErieOtters
