@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LiikunnanRiemu-Pyry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673d6d0ec75f8964ad3e996a/index.m3u8
-#EXTINF:-1, Kralupyn.Vlt.-Neratovice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d7178d5f52d016d5898cca/index.m3u8
-#EXTINF:-1, IKKronan-MalaxIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673d6d0ec75f8964ad3e996e/index.m3u8
 #EXTINF:-1, HerlevEagles-Herning
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66d5db455f52d016d5898a7c/index.m3u8
 #EXTINF:-1, SønderjyskE-Aalborg
