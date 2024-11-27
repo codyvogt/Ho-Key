@@ -1,17 +1,25 @@
 #EXTM3U
-#EXTINF:-1, Caen2-Amiens2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6735794d4c3fc0496b71a1ef/index.m3u8
 #EXTINF:-1, Chambéry-Morzine-Av.
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6735794d4c3fc0496b71a1ed/index.m3u8
-#EXTINF:-1, HässelbyHC-Trångsund
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673ed669c75f8964ad3e9b0e/index.m3u8
-#EXTINF:-1, KTHIF-DuvboIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ed1e654ba8d4ac5e1d839/index.m3u8
+#EXTINF:-1, Princeton-BostonU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, Bokasport-Ramberget
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ee4f154ba8d4ac5e1d905/index.m3u8
 #EXTINF:-1, DuellsPHK-JärnbrottsHK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673edb9f54ba8d4ac5e1d8c6/index.m3u8
-#EXTINF:-1, Princeton-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, SDEHF-EskilstunaLinden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673edcc854ba8d4ac5e1d8d7/index.m3u8
+#EXTINF:-1, USAU18-TeamCHL
+https://media-service.fanreachdata.io/edge/ohl/409bd7c2cfc24931bc18a5bfb0f775cc.m3u8
+#EXTINF:-1, OwenSound-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/73d55da70de3438587f3a76b57ac2cf8.m3u8
+#EXTINF:-1, Sarnia-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/19d59e8b73a64f0c95af938c39808e1a.m3u8
+#EXTINF:-1, Saginaw-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/b4d15438b9984080868b134b3481b91a.m3u8
+#EXTINF:-1, Kelowna-Portland
+https://media-service.fanreachdata.io/edge/whl/aa19d6ad3dc944a2a2b13d991abfd712.m3u8
+#EXTINF:-1, VictoriaRoyals-Everett
+https://media-service.fanreachdata.io/edge/whl/b5e21cea153b40838f0c4ae7ace835f4.m3u8
+#EXTINF:-1, WenatcheeWild-Seattle
+https://media-service.fanreachdata.io/edge/whl/951e63d5a8fd44a2b4756532c702422d.m3u8
+#EXTINF:-1, Kamloops-Spokane
+https://media-service.fanreachdata.io/edge/whl/458f053db17d47a4920773e1831a0632.m3u8
