@@ -7,3 +7,5 @@ https://media-service.fanreachdata.io/edge/whl/b5e21cea153b40838f0c4ae7ace835f4.
 https://media-service.fanreachdata.io/edge/whl/951e63d5a8fd44a2b4756532c702422d.m3u8
 #EXTINF:-1, Kamloops-Spokane
 https://media-service.fanreachdata.io/edge/whl/458f053db17d47a4920773e1831a0632.m3u8
+#EXTINF:-1, AdmiralVladivostok-SKA
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
