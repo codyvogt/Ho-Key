@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, JYP-HämeenlinnanPK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673ebe8e54ba8d4ac5e1d7e5/index.m3u8
-#EXTINF:-1, ChiefsTurku-KuKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673ebe8e54ba8d4ac5e1d7db/index.m3u8
 #EXTINF:-1, DjurgårdensIF-BrynäsIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674028d4c75f8964ad3e9dbc/index.m3u8
 #EXTINF:-1, OrsaIK-StrömsbroIF
