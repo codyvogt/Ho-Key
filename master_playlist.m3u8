@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Youngstown-USNTDPU17
-fluidtv.php?channel=https://d2woz7p3du4atp.cloudfront.net/459e489b8aa13079ed28a9fde9b6cccd/0_hd_hls.m3u8
 #EXTINF:-1, USAU18-TeamCHL
 https://media-service.fanreachdata.io/edge/ohl/409bd7c2cfc24931bc18a5bfb0f775cc.m3u8
 #EXTINF:-1, OwenSound-ErieOtters
