@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist-Avangard
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, RaumanLukko-Ilves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ebe8e54ba8d4ac5e1d7eb/index.m3u8
+#EXTINF:-1, JYP-HämeenlinnanPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ebe8e54ba8d4ac5e1d7e5/index.m3u8
