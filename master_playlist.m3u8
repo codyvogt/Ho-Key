@@ -10,7 +10,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67402c8354ba8d4ac5e1d
 #EXTINF:-1, GutsFinspång-Wettern
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6740301554ba8d4ac5e1dac1/index.m3u8
 #EXTINF:-1, TibroIK-TidaholmsHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67401ed1c75f8964ad3e9dac/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67401ed1c75f8964ad3e9dac/index.m3u8
 #EXTINF:-1, ClemensnäsHC-Sunderby
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674026fdc75f8964ad3e9dba/index.m3u8
 #EXTINF:-1, ZinnenDolomites-Fassa
@@ -25,3 +25,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716361790eeba7bde92d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163614d24da32d7de67455/index.m3u8
 #EXTINF:-1, HCFeltre-Bressanone
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716361590eeba7bde92d065/index.m3u8
+#EXTINF:-1, PitäjänmäenTarmo-PUS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ebe8e54ba8d4ac5e1d7d6/index.m3u8
+#EXTINF:-1, HerringsHC-FlyersHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67403929c75f8964ad3e9e01/index.m3u8
