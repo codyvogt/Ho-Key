@@ -47,6 +47,8 @@ fluidtv.php?channel=https://d28g7jh2xhk92o.cloudfront.net/a999ddaaaa21637ccd0957
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Wisconsin-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Colgate-Syracuse
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fa6ebac4-93d4-49e1-ae60-00a482a120b3-hls/master/fa6ebac4-93d4-49e1-ae60-00a482a120b3-hls.m3u8
 #EXTINF:-1, St.CloudState-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, CapeBreton-ABTitan
