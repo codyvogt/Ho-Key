@@ -1,3 +1,29 @@
 #EXTM3U
-#EXTINF:-1, AalborgPirates-Herlev
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66d5db4659dd270b7208bb6d/index.m3u8
+#EXTINF:-1, RapacesdeGap-Briançon
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6725a74d1dc6516e089a017c.m3u8
+#EXTINF:-1, Chamonix-AiglesdeNice
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6725a74d1dc6516e089a0180.m3u8
+#EXTINF:-1, Marseille-Bordeaux
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6725a74d1dc6516e089a017e.m3u8
+#EXTINF:-1, Amiens-Hormadid'Anglet
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6725a74d1dc6516e089a0184.m3u8
+#EXTINF:-1, Grenoble-Cergy-Pontoise
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6725a74de689ca0066fa1a52.m3u8
+#EXTINF:-1, Ducsd'Angers-Rouen
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6725a74d1dc6516e089a0182.m3u8
+#EXTINF:-1, Neuwied-Diez-Limburg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67386d26af94a25608ebd99f/index.m3u8
+#EXTINF:-1, AmryWP-Massachusetts
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Dartmouth-BostonC
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, AirForce-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, OhioState-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, RIT-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, UMich-WesternMichigan
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls/master/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls.m3u8
+#EXTINF:-1, Clarkson-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
