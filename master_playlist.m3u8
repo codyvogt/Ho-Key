@@ -25,7 +25,7 @@ https://media-service.fanreachdata.io/edge/whl/5327374e907e42bb9216a88fdfc26173.
 https://media-service.fanreachdata.io/edge/whl/29d6e4e915f841a8861c0f06f39b900e.m3u8
 #EXTINF:-1, Seattle-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/491653770a18483cb9fcd3e0365ba571.m3u8
-#EXTINF:-1, AmryWP-Massachusetts
+#EXTINF:-1, ArmyWP-Massachusetts
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 #EXTINF:-1, Dartmouth-BostonC
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
@@ -49,3 +49,33 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthom
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, DesMoines-USNTDPU17
 fluidtv.php?channel=https://d28g7jh2xhk92o.cloudfront.net/a999ddaaaa21637ccd09576faf5eb55e/0_hd_hls.m3u8
+#EXTINF:-1, CapeBreton-ABTitan
+https://media-service.fanreachdata.io/edge/lhjmq/c989bda20ee448e1b44b11a93bdf6781.m3u8
+#EXTINF:-1, Gatineau-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/30d1519f18ab44518999d9befa2a921d.m3u8
+#EXTINF:-1, Québec-RimouskiOcéanic
+https://media-service.fanreachdata.io/edge/lhjmq/251b87ec59ef468fba358d4fcdaf0bb7.m3u8
+#EXTINF:-1, Blainville-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/d7537f9e050541498bb0f8692228e6ca.m3u8
+#EXTINF:-1, Sherbrooke-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/6aa1b9e2f1d242cea479869f89ae6c91.m3u8
+#EXTINF:-1, Chtown-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/1dbd43f09c694566ae5f84b995c87c71.m3u8
+#EXTINF:-1, Victoriaville-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/47a3b77abb4f40c0ae72c29f7be436f2.m3u8
+#EXTINF:-1, LondonKnights-Kingston
+https://media-service.fanreachdata.io/edge/ohl/fa6b1dbd03e244a9a22bae5d17f90f6d.m3u8
+#EXTINF:-1, Peterborough-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/6bc655db3e3242e191e679732d9e602d.m3u8
+#EXTINF:-1, Flint-NiagaraIceDogs
+https://media-service.fanreachdata.io/edge/ohl/4af946b23ba04af9bf2b83f534dcb590.m3u8
+#EXTINF:-1, OwenSound-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/1c30df23b61d4cc9869599deefac0b90.m3u8
+#EXTINF:-1, Brantford-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/f7d1632128ce45f286071c1e023be9ce.m3u8
+#EXTINF:-1, Barrie-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/d70e0658d2ce45239c1058fb9f7beefa.m3u8
+#EXTINF:-1, Brampton-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/12c9b8a2d80c44289ccc27bff1e6cca6.m3u8
+#EXTINF:-1, Windsor-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/4bd6a7bc327d4394936df084e494f4c1.m3u8
