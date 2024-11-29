@@ -1,18 +1,20 @@
 #EXTM3U
 #EXTINF:-1, RapacesdeGap-Briançon
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6725a74d1dc6516e089a017c.m3u8
-#EXTINF:-1, Chamonix-AiglesdeNice
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6725a74d1dc6516e089a0180.m3u8
 #EXTINF:-1, Marseille-Bordeaux
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6725a74d1dc6516e089a017e.m3u8
-#EXTINF:-1, Amiens-Hormadid'Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6725a74d1dc6516e089a0184.m3u8
 #EXTINF:-1, Grenoble-Cergy-Pontoise
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6725a74de689ca0066fa1a52.m3u8
 #EXTINF:-1, Ducsd'Angers-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6725a74d1dc6516e089a0182.m3u8
 #EXTINF:-1, Neuwied-Diez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67386d26af94a25608ebd99f/index.m3u8
+#EXTINF:-1, MinnState-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, St.CloudState-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Kelowna-Portland
+https://media-service.fanreachdata.io/edge/whl/84d7fb6cdc12446c8f376a86e1a2ed17.m3u8
 #EXTINF:-1, AmryWP-Massachusetts
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 #EXTINF:-1, Dartmouth-BostonC
@@ -27,3 +29,5 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newham
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls/master/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls.m3u8
 #EXTINF:-1, Clarkson-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, DesMoines-USNTDPU17
+fluidtv.php?channel=https://d28g7jh2xhk92o.cloudfront.net/a999ddaaaa21637ccd09576faf5eb55e/0_hd_hls.m3u8
