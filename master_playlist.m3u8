@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, KunlunRedStar-Lada
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, ZSCLions-EHCKloten
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, KotkanTitaanit-PEPO
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67401010c75f8964ad3e9d5f/index.m3u8
-#EXTINF:-1, ForssanPalloseura-LeKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67401010c75f8964ad3e9d61/index.m3u8
 #EXTINF:-1, LapuanVirkiä-MUIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67401010c75f8964ad3e9d5c/index.m3u8
