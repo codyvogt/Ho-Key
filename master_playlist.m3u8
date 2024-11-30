@@ -7,3 +7,7 @@ https://media-service.fanreachdata.io/edge/whl/5327374e907e42bb9216a88fdfc26173.
 https://media-service.fanreachdata.io/edge/whl/29d6e4e915f841a8861c0f06f39b900e.m3u8
 #EXTINF:-1, Seattle-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/491653770a18483cb9fcd3e0365ba571.m3u8
+#EXTINF:-1, Teräs-Kiekko-Popula
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741619092510769452062e3/index.m3u8
+#EXTINF:-1, MUIKII-S-KiekkoTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f74345b0eaa499548/index.m3u8
