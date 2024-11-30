@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1, BorlängeHF-GrumsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742ccbe74345b0eaa499949/index.m3u8
-#EXTINF:-1, KungälvsIK-Karlskrona
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742da5b92510769452067ed/index.m3u8
-#EXTINF:-1, HelsingborgHC-Hanhal
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742c66174345b0eaa499900/index.m3u8
-#EXTINF:-1, Tullinge-HuddingeTigers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742c58874345b0eaa4998ef/index.m3u8
-#EXTINF:-1, Kisa-Eagles-Nikkarit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f74345b0eaa4994e4/index.m3u8
-#EXTINF:-1, TuusKiekko-Wolfpack
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f9251076945206214/index.m3u8
-#EXTINF:-1, Peliitat-GladiatorsHT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f74345b0eaa4994e7/index.m3u8
-#EXTINF:-1, KurikanRyhti-APV
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741618f74345b0eaa4994f6/index.m3u8
-#EXTINF:-1, HighsticksHT-JPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f74345b0eaa4994fe/index.m3u8
-#EXTINF:-1, LaserHT-NivalaCowboys
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f9251076945206205/index.m3u8
-#EXTINF:-1, ParruHT-WarkisVarkaus
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741618f74345b0eaa4994e8/index.m3u8
 #EXTINF:-1, VG-62Naantali-Kiekkohait
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741618f925107694520620b/index.m3u8
 #EXTINF:-1, EVU-KellokoskenAlku
