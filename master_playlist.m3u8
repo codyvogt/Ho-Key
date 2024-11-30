@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Wasequehal-Rouen2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67396dcfaf94a25608ebda33/index.m3u8
 #EXTINF:-1, FrançaisVolants-Châlons
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67396dcfaf94a25608ebda31/index.m3u8
 #EXTINF:-1, Roanne-Annecy
@@ -13,16 +11,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67396dceaf94a25608ebd
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67396dceaf94a25608ebda1f.m3u8
 #EXTINF:-1, Valence-Toulouse
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda21/index.m3u8
-#EXTINF:-1, Hiki-Hockey-KOOVEE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741618f925107694520620a/index.m3u8
-#EXTINF:-1, LaserHTBlack-TIHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f9251076945206287/index.m3u8
-#EXTINF:-1, K-EspooIII-EVUTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f92510769452061f4/index.m3u8
-#EXTINF:-1, SpiritofHockey-Rockets
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f9251076945206291/index.m3u8
-#EXTINF:-1, EVU-Hyvinkää-Riihimäki
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741618f92510769452061fd/index.m3u8
 #EXTINF:-1, Vinschgau-Chiavenna
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6745a55d74345b0eaa499f8b/index.m3u8
 #EXTINF:-1, Montpellier-Toulouse
@@ -71,6 +59,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1d4fb9e1d37d5008
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6739beb2a55a234fbca86819/index.m3u8
 #EXTINF:-1, Toekomstteam-Charleroi
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739beb8a55a234fbca8681b/index.m3u8
+#EXTINF:-1, EVU-Hyvinkää-Riihimäki
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741618f92510769452061fd/index.m3u8
 #EXTINF:-1, RoosaPanter-HKSäde
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b498faf94a25608ebe336/index.m3u8
 #EXTINF:-1, KölnerJung.-Kaufbeuren
