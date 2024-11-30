@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DrakkarsdeCaen-Cholet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda0f/index.m3u8
 #EXTINF:-1, Valence-Toulouse
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda21/index.m3u8
 #EXTINF:-1, CapeBreton-ABTitan
@@ -43,8 +41,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarks
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, Syracuse-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Brown-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Wisconsin-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, MinnState-Dartmouth
