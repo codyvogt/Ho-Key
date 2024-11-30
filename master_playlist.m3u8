@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Valence-Toulouse
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda21/index.m3u8
-#EXTINF:-1, CapeBreton-ABTitan
-https://media-service.fanreachdata.io/edge/lhjmq/28f5f16aeec84115ab212306dff81a8b.m3u8
+#EXTINF:-1, Toekomstteam-Charleroi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739beb8a55a234fbca8681b/index.m3u8
+#EXTINF:-1, LeuvenChiefs-HYC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674ae1d4fb9e1d37d5008dd8/index.m3u8
 #EXTINF:-1, Chicoutimi-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/ad2356501c11497a8ad4ee4d3607b3dc.m3u8
 #EXTINF:-1, Sherbrooke-RNHuskies
@@ -17,8 +17,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/6b4417d6dc68497bb09ce2e3b896fed
 https://media-service.fanreachdata.io/edge/lhjmq/5ea7239cb0c64941b3bab2f84a3ff9a3.m3u8
 #EXTINF:-1, SaintJohn-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/136e44cf6a6b4e7d9acf8246737d8972.m3u8
-#EXTINF:-1, Maine-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, AirForce-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, OhioState-Princeton
@@ -39,15 +37,37 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7dd8525d-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Syracuse-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Wisconsin-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, MinnState-Dartmouth
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, BostonC-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Toekomstteam-Charleroi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739beb8a55a234fbca8681b/index.m3u8
-#EXTINF:-1, LeuvenChiefs-HYC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674ae1d4fb9e1d37d5008dd8/index.m3u8
+#EXTINF:-1, Windsor-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/d8742ee2e8ae42a99ffd0d748d16c348.m3u8
+#EXTINF:-1, Brampton-Saginaw
+https://media-service.fanreachdata.io/edge/ohl/3371485c98a14e5dbfb218989720e4b8.m3u8
+#EXTINF:-1, NorthBay-Soo
+https://media-service.fanreachdata.io/edge/ohl/741e7f5e23cf4720995532d9e9a83b38.m3u8
+#EXTINF:-1, Brantford-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/65a73fd7310f42188b8b5c1ae717449b.m3u8
+#EXTINF:-1, Lethbridge-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/8869095d9b7f4afa9bd5f91c1789223f.m3u8
+#EXTINF:-1, SwiftCurrent-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/39c426e3426a4c8ba43dbb2cb9c0620e.m3u8
+#EXTINF:-1, Calgary-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/3f4691047b7b40359f2022c18a79847b.m3u8
+#EXTINF:-1, Brandon-RedDeer
+https://media-service.fanreachdata.io/edge/whl/434a7e28014c4ba594eb810f918e022b.m3u8
+#EXTINF:-1, PrinceGeorge-Edmonton
+https://media-service.fanreachdata.io/edge/whl/f79ef34f68c8405492804bb71dd57909.m3u8
+#EXTINF:-1, ReginaPats-Kelowna
+https://media-service.fanreachdata.io/edge/whl/f827820cb77e491784e3c794d7fa2808.m3u8
+#EXTINF:-1, Portland-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/8c30752894c84e878f38ce5a1eddf1d2.m3u8
+#EXTINF:-1, WenatcheeWild-Tri-City
+https://media-service.fanreachdata.io/edge/whl/9f1496a746a74fa69239f8748726c306.m3u8
+#EXTINF:-1, Kamloops-Everett
+https://media-service.fanreachdata.io/edge/whl/c30f2e5cd0674331beb0d9027fa4b950.m3u8
+#EXTINF:-1, Seattle-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/45adf971df3d45fa9884764b57bc3167.m3u8
