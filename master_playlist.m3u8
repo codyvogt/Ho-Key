@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1, CapeBreton-ABTitan
+https://media-service.fanreachdata.io/edge/lhjmq/c989bda20ee448e1b44b11a93bdf6781.m3u8
+#EXTINF:-1, Gatineau-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/30d1519f18ab44518999d9befa2a921d.m3u8
+#EXTINF:-1, Québec-RimouskiOcéanic
+https://media-service.fanreachdata.io/edge/lhjmq/251b87ec59ef468fba358d4fcdaf0bb7.m3u8
+#EXTINF:-1, Blainville-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/d7537f9e050541498bb0f8692228e6ca.m3u8
+#EXTINF:-1, Sherbrooke-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/6aa1b9e2f1d242cea479869f89ae6c91.m3u8
+#EXTINF:-1, Chtown-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/1dbd43f09c694566ae5f84b995c87c71.m3u8
+#EXTINF:-1, Victoriaville-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/47a3b77abb4f40c0ae72c29f7be436f2.m3u8
 #EXTINF:-1, Dartmouth-BostonC
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, AirForce-Brown
@@ -19,20 +33,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/august
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, UND-BemidjiState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, CapeBreton-ABTitan
-https://media-service.fanreachdata.io/edge/lhjmq/c989bda20ee448e1b44b11a93bdf6781.m3u8
-#EXTINF:-1, Gatineau-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/30d1519f18ab44518999d9befa2a921d.m3u8
-#EXTINF:-1, Québec-RimouskiOcéanic
-https://media-service.fanreachdata.io/edge/lhjmq/251b87ec59ef468fba358d4fcdaf0bb7.m3u8
-#EXTINF:-1, Blainville-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/d7537f9e050541498bb0f8692228e6ca.m3u8
-#EXTINF:-1, Sherbrooke-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/6aa1b9e2f1d242cea479869f89ae6c91.m3u8
-#EXTINF:-1, Chtown-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/1dbd43f09c694566ae5f84b995c87c71.m3u8
-#EXTINF:-1, Victoriaville-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/47a3b77abb4f40c0ae72c29f7be436f2.m3u8
 #EXTINF:-1, MinnState-Dartmouth
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Wisconsin-Maine
