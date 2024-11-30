@@ -1,38 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Meudon-Nantes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67396dceaf94a25608ebda05/index.m3u8
-#EXTINF:-1, Chambéry-MontBlanc
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67396dceaf94a25608ebda0b/index.m3u8
-#EXTINF:-1, RempartsdeTours-Brest
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda0d/index.m3u8
-#EXTINF:-1, Morzine-Dunkerque
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67396dceaf94a25608ebda15/index.m3u8
 #EXTINF:-1, Villard-Valenciennes
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67396dceaf94a25608ebda09/index.m3u8
 #EXTINF:-1, DrakkarsdeCaen-Cholet
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda0f/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716361b90eeba7bde92d06f/index.m3u8
-#EXTINF:-1, HCAosta-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716361ad24da32d7de6745d/index.m3u8
 #EXTINF:-1, Alleghe-HCValpellice
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716361c90eeba7bde92d071/index.m3u8
-#EXTINF:-1, EVWeiden-VERSelb
-fluidtv.php?channel=https://content.aisportswatch.com/463121/master.m3u8
-#EXTINF:-1, Assumption-HolyCross
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, St.CloudState-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Syracuse-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Brown-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Wisconsin-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, MinnState-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, BostonC-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Anglet2-Montpellier
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67396dceaf94a25608ebda1f.m3u8
 #EXTINF:-1, Valence-Toulouse
@@ -75,6 +47,16 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7dd8525d-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Syracuse-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Brown-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Wisconsin-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, MinnState-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, BostonC-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Toekomstteam-Charleroi
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739beb8a55a234fbca8681b/index.m3u8
 #EXTINF:-1, LeuvenChiefs-HYC
