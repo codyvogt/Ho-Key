@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Toekomstteam-Charleroi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739beb8a55a234fbca8681b/index.m3u8
-#EXTINF:-1, LeuvenChiefs-HYC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674ae1d4fb9e1d37d5008dd8/index.m3u8
 #EXTINF:-1, Chicoutimi-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/ad2356501c11497a8ad4ee4d3607b3dc.m3u8
 #EXTINF:-1, Sherbrooke-RNHuskies
