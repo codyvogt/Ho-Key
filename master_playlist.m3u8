@@ -33,10 +33,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northe
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6741618e74345b0eaa499483/index.m3u8
 #EXTINF:-1, JälkiHiki-Hockey-KaVo
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741618f74345b0eaa49948f/index.m3u8
-#EXTINF:-1, Dijon2-Dammarie-lès-Lys
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67396dceaf94a25608ebd9f1/index.m3u8
-#EXTINF:-1, Brest2-Rennes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda01/index.m3u8
 #EXTINF:-1, HCMP-Strasbourg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda07/index.m3u8
 #EXTINF:-1, Meudon-Nantes
@@ -55,18 +51,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebd
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1cefb9e1d37d5008dd6/index.m3u8
 #EXTINF:-1, LeuvenChiefs-HYC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674ae1d4fb9e1d37d5008dd8/index.m3u8
-#EXTINF:-1, BeaufortKnights-Hasselt
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6739beb2a55a234fbca86819/index.m3u8
-#EXTINF:-1, Toekomstteam-Charleroi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739beb8a55a234fbca8681b/index.m3u8
-#EXTINF:-1, EVU-Hyvinkää-Riihimäki
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741618f92510769452061fd/index.m3u8
-#EXTINF:-1, RoosaPanter-HKSäde
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b498faf94a25608ebe336/index.m3u8
 #EXTINF:-1, KölnerJung.-Kaufbeuren
 fluidtv.php?channel=https://pool-4.cdn.sporttotal.tv/out/v1/2b3af7d21e794fb2803a8518abccf23b/index.m3u8
 #EXTINF:-1, EVWeiden-VERSelb
 fluidtv.php?channel=https://content.aisportswatch.com/463121/master.m3u8
+#EXTINF:-1, Brest2-Rennes
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda01/index.m3u8
 #EXTINF:-1, ZinnenDolomites-Pergine
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716361b90eeba7bde92d06f/index.m3u8
 #EXTINF:-1, HCAosta-SVKaltern
@@ -111,3 +101,5 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7dd8525d-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Toekomstteam-Charleroi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6739beb8a55a234fbca8681b/index.m3u8
