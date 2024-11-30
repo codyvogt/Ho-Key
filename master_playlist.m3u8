@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Edmonton-Calgary
 https://media-service.fanreachdata.io/edge/whl/26d67f8ee3e24a08a574525b1847d695.m3u8
-#EXTINF:-1, Lethbridge-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/bbab10a3d9854753a38518cfee7f29af.m3u8
 #EXTINF:-1, PARaiders-SwiftCurrent
 https://media-service.fanreachdata.io/edge/whl/19cc23df0d5b46f6bccef08ccf9a9bd3.m3u8
 #EXTINF:-1, Brandon-MedicineHat
@@ -17,5 +15,3 @@ https://media-service.fanreachdata.io/edge/whl/5327374e907e42bb9216a88fdfc26173.
 https://media-service.fanreachdata.io/edge/whl/29d6e4e915f841a8861c0f06f39b900e.m3u8
 #EXTINF:-1, Seattle-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/491653770a18483cb9fcd3e0365ba571.m3u8
-#EXTINF:-1, UND-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
