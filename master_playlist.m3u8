@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Villard-Valenciennes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67396dceaf94a25608ebda09/index.m3u8
 #EXTINF:-1, DrakkarsdeCaen-Cholet
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda0f/index.m3u8
-#EXTINF:-1, Alleghe-HCValpellice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716361c90eeba7bde92d071/index.m3u8
-#EXTINF:-1, Anglet2-Montpellier
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67396dceaf94a25608ebda1f.m3u8
 #EXTINF:-1, Valence-Toulouse
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67396dceaf94a25608ebda21/index.m3u8
 #EXTINF:-1, CapeBreton-ABTitan
