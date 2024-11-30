@@ -13,32 +13,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/6aa1b9e2f1d242cea479869f89ae6c9
 https://media-service.fanreachdata.io/edge/lhjmq/1dbd43f09c694566ae5f84b995c87c71.m3u8
 #EXTINF:-1, Victoriaville-Drummond.
 https://media-service.fanreachdata.io/edge/lhjmq/47a3b77abb4f40c0ae72c29f7be436f2.m3u8
-#EXTINF:-1, Dartmouth-BostonC
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, AirForce-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, OhioState-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, RIT-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, UMich-WesternMichigan
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls/master/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls.m3u8
-#EXTINF:-1, MTU-BowlingGreen
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, Clarkson-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, NMU-Augustana
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
-#EXTINF:-1, LakeSuperior-St.Thomas
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
-#EXTINF:-1, UND-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, MinnState-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Wisconsin-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Colgate-Syracuse
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fa6ebac4-93d4-49e1-ae60-00a482a120b3-hls/master/fa6ebac4-93d4-49e1-ae60-00a482a120b3-hls.m3u8
 #EXTINF:-1, St.CloudState-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, LondonKnights-Kingston
@@ -57,6 +33,22 @@ https://media-service.fanreachdata.io/edge/ohl/d70e0658d2ce45239c1058fb9f7beefa.
 https://media-service.fanreachdata.io/edge/ohl/12c9b8a2d80c44289ccc27bff1e6cca6.m3u8
 #EXTINF:-1, Windsor-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/4bd6a7bc327d4394936df084e494f4c1.m3u8
+#EXTINF:-1, Dartmouth-BostonC
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, AirForce-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, OhioState-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, RIT-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, UMich-WesternMichigan
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls/master/4efe61c3-8b45-40d5-a58d-1533abeeea1a-hls.m3u8
+#EXTINF:-1, MTU-BowlingGreen
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, Clarkson-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, UND-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, Edmonton-Calgary
 https://media-service.fanreachdata.io/edge/whl/26d67f8ee3e24a08a574525b1847d695.m3u8
 #EXTINF:-1, Lethbridge-Saskatoon
