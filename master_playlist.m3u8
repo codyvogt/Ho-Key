@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Victoriaville-Drummond.
-https://media-service.fanreachdata.io/edge/lhjmq/47a3b77abb4f40c0ae72c29f7be436f2.m3u8
-#EXTINF:-1, LondonKnights-Kingston
-https://media-service.fanreachdata.io/edge/ohl/fa6b1dbd03e244a9a22bae5d17f90f6d.m3u8
-#EXTINF:-1, Clarkson-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, UND-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, Edmonton-Calgary
 https://media-service.fanreachdata.io/edge/whl/26d67f8ee3e24a08a574525b1847d695.m3u8
 #EXTINF:-1, Lethbridge-Saskatoon
@@ -25,3 +17,5 @@ https://media-service.fanreachdata.io/edge/whl/5327374e907e42bb9216a88fdfc26173.
 https://media-service.fanreachdata.io/edge/whl/29d6e4e915f841a8861c0f06f39b900e.m3u8
 #EXTINF:-1, Seattle-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/491653770a18483cb9fcd3e0365ba571.m3u8
+#EXTINF:-1, UND-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
