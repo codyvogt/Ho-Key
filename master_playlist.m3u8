@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1, BKNováPaka-LiberecB
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731e4e02bab5f0222654b03/index.m3u8
-#EXTINF:-1, KobraPraha-HCSmíchov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673af534a55a234fbca86bc0/index.m3u8
+#EXTINF:-1, HKVentspils-Prizma
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674462109251076945206c60/index.m3u8
+#EXTINF:-1, Brixen/Wipptal-Valpellice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163626d24da32d7de67467/index.m3u8
+#EXTINF:-1, HCAosta-HockeyComo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163625d24da32d7de67465/index.m3u8
+#EXTINF:-1, Cortina/Alleghe-Pinerolo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163624d24da32d7de67463/index.m3u8
+#EXTINF:-1, Kaltern/Ritten-Zoldo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716362590eeba7bde92d085/index.m3u8
+#EXTINF:-1, Pergine-Merano/Bolzano
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163627d24da32d7de67469/index.m3u8
