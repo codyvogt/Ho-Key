@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1, RIT-NewHampshire
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, NMU-Augustana
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
 #EXTINF:-1, MTU-BowlingGreen
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, LakeSuperior-St.Thomas
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, BSU-NorthDakota
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7dd8525d-2520-4461-b487-506717e9cd76-hls/master/7dd8525d-2520-4461-b487-506717e9cd76-hls.m3u8
 #EXTINF:-1, Clarkson-UMassLowell
