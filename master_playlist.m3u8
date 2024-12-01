@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Niagara-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/3adf75b396224e2dae2895b8f1a3e5cc.m3u8
-#EXTINF:-1, Saginaw-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/0e368fed339a4e4eae1d7c64e9717246.m3u8
-#EXTINF:-1, Kitchener-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/e24a83437e734747bcfbe09cad1c0be9.m3u8
-#EXTINF:-1, Kingston-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/faf5383765ff4fb7b7b1dd5cc242c532.m3u8
 #EXTINF:-1, Chicoutimi-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/f39e676495604b1eb281911a9791ba8a.m3u8
 #EXTINF:-1, Chtown-Victoriaville
@@ -21,3 +13,5 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermon
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Assumption-Rensselaer
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Kingston-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/faf5383765ff4fb7b7b1dd5cc242c532.m3u8
