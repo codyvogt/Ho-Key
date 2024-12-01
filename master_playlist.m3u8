@@ -5,13 +5,17 @@ https://media-service.fanreachdata.io/edge/lhjmq/f39e676495604b1eb281911a9791ba8
 https://media-service.fanreachdata.io/edge/lhjmq/e5fd0c8f64664123b4596a5c17e59f63.m3u8
 #EXTINF:-1, Bentley-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Maine-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Dartmouth-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, HolyCross-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Assumption-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, MooseJaw-Calgary
+https://media-service.fanreachdata.io/edge/whl/41565418eafa4cf2a8990b515dd0f021.m3u8
+#EXTINF:-1, Brandon-Edmonton
+https://media-service.fanreachdata.io/edge/whl/d3a219c294a84e1aace4b63971d71976.m3u8
+#EXTINF:-1, Seattle-Vancouver
+https://media-service.fanreachdata.io/edge/whl/ea67a7299fe3467d86e855eabb33ca77.m3u8
+#EXTINF:-1, Portland-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/ec810f54dcee4eeabc68157ee08a1fb3.m3u8
 #EXTINF:-1, Kingston-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/faf5383765ff4fb7b7b1dd5cc242c532.m3u8
+#EXTINF:-1, Assumption-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
