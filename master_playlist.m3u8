@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1, SwiftCurrent-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/39c426e3426a4c8ba43dbb2cb9c0620e.m3u8
 #EXTINF:-1, Calgary-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/3f4691047b7b40359f2022c18a79847b.m3u8
-#EXTINF:-1, Brandon-RedDeer
-https://media-service.fanreachdata.io/edge/whl/434a7e28014c4ba594eb810f918e022b.m3u8
 #EXTINF:-1, PrinceGeorge-Edmonton
 https://media-service.fanreachdata.io/edge/whl/f79ef34f68c8405492804bb71dd57909.m3u8
-#EXTINF:-1, ReginaPats-Kelowna
-https://media-service.fanreachdata.io/edge/whl/f827820cb77e491784e3c794d7fa2808.m3u8
 #EXTINF:-1, Portland-SpokaneChiefs
 https://media-service.fanreachdata.io/edge/whl/8c30752894c84e878f38ce5a1eddf1d2.m3u8
 #EXTINF:-1, WenatcheeWild-Tri-City
 https://media-service.fanreachdata.io/edge/whl/9f1496a746a74fa69239f8748726c306.m3u8
-#EXTINF:-1, Kamloops-Everett
-https://media-service.fanreachdata.io/edge/whl/c30f2e5cd0674331beb0d9027fa4b950.m3u8
-#EXTINF:-1, Seattle-VictoriaRoyals
-https://media-service.fanreachdata.io/edge/whl/45adf971df3d45fa9884764b57bc3167.m3u8
-#EXTINF:-1, Quinnipiac-Cornell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
