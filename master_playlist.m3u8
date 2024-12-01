@@ -1,24 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Windsor-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/d8742ee2e8ae42a99ffd0d748d16c348.m3u8
-#EXTINF:-1, Brampton-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/3371485c98a14e5dbfb218989720e4b8.m3u8
-#EXTINF:-1, NorthBay-Soo
-https://media-service.fanreachdata.io/edge/ohl/741e7f5e23cf4720995532d9e9a83b38.m3u8
 #EXTINF:-1, Brantford-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/65a73fd7310f42188b8b5c1ae717449b.m3u8
-#EXTINF:-1, RIT-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, MTU-BowlingGreen
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, BSU-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7dd8525d-2520-4461-b487-506717e9cd76-hls/master/7dd8525d-2520-4461-b487-506717e9cd76-hls.m3u8
-#EXTINF:-1, Clarkson-UMassLowell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Cornell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, BostonC-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Lethbridge-PrinceAlbert
 https://media-service.fanreachdata.io/edge/whl/8869095d9b7f4afa9bd5f91c1789223f.m3u8
 #EXTINF:-1, SwiftCurrent-Saskatoon
@@ -39,3 +21,5 @@ https://media-service.fanreachdata.io/edge/whl/9f1496a746a74fa69239f8748726c306.
 https://media-service.fanreachdata.io/edge/whl/c30f2e5cd0674331beb0d9027fa4b950.m3u8
 #EXTINF:-1, Seattle-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/45adf971df3d45fa9884764b57bc3167.m3u8
+#EXTINF:-1, Quinnipiac-Cornell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
