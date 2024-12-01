@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Klatovy-BaníkSokolovB
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67320f185c7b9e06d61e6f52/index.m3u8
+#EXTINF:-1, SKLejon-BodensHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67441f1f9251076945206a6a/index.m3u8
+#EXTINF:-1, KortrijkSpurs-LiègeII
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673b1030af94a25608ebe271/index.m3u8
+#EXTINF:-1, LeuvenBlack-Antwerp
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b1031a55a234fbca86c14/index.m3u8
+#EXTINF:-1, Liberec-Pardubice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708f8566e0aae1e6b070c2e/index.m3u8
