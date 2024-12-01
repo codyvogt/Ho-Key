@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KölnerJung.-Kaufbeuren
-fluidtv.php?channel=https://pool-3.cdn.sporttotal.tv/out/v1/2e9496fd20214112923eb4593b5577d5/index.m3u8
-#EXTINF:-1, AIK-SödertäljeSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6746eecd92510769452070a4/index.m3u8
-#EXTINF:-1, Haninge-Björklöven
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6746eece92510769452070a8/index.m3u8
 #EXTINF:-1, Épinal-Besancon-Dijon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673abf4da55a234fbca86858/index.m3u8
 #EXTINF:-1, FrançaisVolants-Reims
