@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Bordeaux-Tours-Orléans
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/673abf4da55a234fbca8686e.m3u8
 #EXTINF:-1, Annecy-LionsdeLyon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673abf4da55a234fbca86860/index.m3u8
 #EXTINF:-1, Mechelen-LiègeBulldogs
@@ -36,12 +34,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67441c659251076945206
 #EXTINF:-1, Näädät-KeravaShakers
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742b30e9251076945206515/index.m3u8
 #EXTINF:-1, Bentley-Northeastern
-fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Maine-Rensselaer
-fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Dartmouth-Vermont
-fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, HolyCross-Brown
-fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Assumption-Rensselaer
-fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
