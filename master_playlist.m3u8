@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mechelen-LiègeBulldogs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1d8171a4a676e69dd58/index.m3u8
-#EXTINF:-1, HYC-LeuvenChiefs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1dcfb9e1d37d5008ddb/index.m3u8
-#EXTINF:-1, LeuvenBlack-Antwerp
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b1031a55a234fbca86c14/index.m3u8
-#EXTINF:-1, CapeBreton-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/0d5195d3a3c548dda42a33232ccb10e5.m3u8
-#EXTINF:-1, Gatineau-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/af1f8146aa674e63add5afb956d09aeb.m3u8
-#EXTINF:-1, Chicoutimi-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/f39e676495604b1eb281911a9791ba8a.m3u8
-#EXTINF:-1, Chtown-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/e5fd0c8f64664123b4596a5c17e59f63.m3u8
-#EXTINF:-1, London-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/b26322a8d5bb4c34b635ec67bc5d4e6e.m3u8
 #EXTINF:-1, Niagara-Peterborough
 https://media-service.fanreachdata.io/edge/ohl/3adf75b396224e2dae2895b8f1a3e5cc.m3u8
 #EXTINF:-1, Saginaw-SarniaSting
@@ -23,14 +7,10 @@ https://media-service.fanreachdata.io/edge/ohl/0e368fed339a4e4eae1d7c64e9717246.
 https://media-service.fanreachdata.io/edge/ohl/e24a83437e734747bcfbe09cad1c0be9.m3u8
 #EXTINF:-1, Kingston-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/faf5383765ff4fb7b7b1dd5cc242c532.m3u8
-#EXTINF:-1, Radomyšl-Strakonice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673c2a95af94a25608ebe3c6/index.m3u8
-#EXTINF:-1, MunkedalsBK-Fotskäl
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674418d29251076945206971/index.m3u8
-#EXTINF:-1, ÅbyHC-RambergetsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67441c6592510769452069b8/index.m3u8
-#EXTINF:-1, Näädät-KeravaShakers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742b30e9251076945206515/index.m3u8
+#EXTINF:-1, Chicoutimi-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/f39e676495604b1eb281911a9791ba8a.m3u8
+#EXTINF:-1, Chtown-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/e5fd0c8f64664123b4596a5c17e59f63.m3u8
 #EXTINF:-1, Bentley-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Maine-Rensselaer
