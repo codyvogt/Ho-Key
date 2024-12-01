@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Tullinge-VitaHästen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674416fc74345b0eaa499bad/index.m3u8
 #EXTINF:-1, Östersund-Örnsköldsvik
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6727264a1dc6516e089a09d8/index.m3u8
 #EXTINF:-1, VännäsHC-Clemensnäs
