@@ -1,25 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Frederikshavn-Rungsted
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d5da545f52d016d5898a26/index.m3u8
-#EXTINF:-1, HerningII-Gladsaxe
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66d5da5459dd270b7208bb21/index.m3u8
-#EXTINF:-1, OdenseIK-HerlevII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d5da5459dd270b7208bb1f/index.m3u8
-#EXTINF:-1, UplakersYlöjärvi-JIlves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742b30f9251076945206582/index.m3u8
-#EXTINF:-1, HYRI-PorvoonHunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742b30f9251076945206560/index.m3u8
-#EXTINF:-1, LaserHTRed-Raahe-K
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e74345b0eaa49975f/index.m3u8
-#EXTINF:-1, TuToAkatemia-RNK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742b30f925107694520658c/index.m3u8
-#EXTINF:-1, ÄssätAk-TPSAk/TarU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f925107694520657e/index.m3u8
-#EXTINF:-1, EVUTeam-EVUrheilijat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e74345b0eaa49975d/index.m3u8
-#EXTINF:-1, GävleGIK-FaluIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b6ea66e0aae1e6b07112e/index.m3u8
-#EXTINF:-1, LindlövensIF-Ockelbo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67458f3e74345b0eaa499f6e/index.m3u8
-#EXTINF:-1, SaiPa-KalPaAkatemia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742b30f74345b0eaa4997d1/index.m3u8
+#EXTINF:-1, Tullinge-VitaHästen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674416fc74345b0eaa499bad/index.m3u8
+#EXTINF:-1, Östersund-Örnsköldsvik
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6727264a1dc6516e089a09d8/index.m3u8
+#EXTINF:-1, VännäsHC-Clemensnäs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67441d4f92510769452069cb/index.m3u8
+#EXTINF:-1, SunderbySK-PiteåHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6744257e74345b0eaa499cfc/index.m3u8
+#EXTINF:-1, SKLejon-BodensHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67441f1f9251076945206a6a/index.m3u8
