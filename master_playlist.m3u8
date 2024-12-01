@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Annecy-LionsdeLyon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673abf4da55a234fbca86860/index.m3u8
 #EXTINF:-1, Mechelen-LiègeBulldogs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1d8171a4a676e69dd58/index.m3u8
 #EXTINF:-1, HYC-LeuvenChiefs
