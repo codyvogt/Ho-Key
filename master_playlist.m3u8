@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Briançon-Bordeaux
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67284a4fe689ca0066fa230c.m3u8
-#EXTINF:-1, Fassa-ValdifiemmeHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716362890eeba7bde92d089/index.m3u8
-#EXTINF:-1, Hormadid'Anglet-Gap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/673abf4da55a234fbca8686a.m3u8
-#EXTINF:-1, Strasbourg-Angers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673abf4da55a234fbca8686c/index.m3u8
 #EXTINF:-1, Bordeaux-Tours-Orléans
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/673abf4da55a234fbca8686e.m3u8
-#EXTINF:-1, Meudon-Rouen2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673abf4da55a234fbca8685a/index.m3u8
 #EXTINF:-1, Annecy-LionsdeLyon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673abf4da55a234fbca86860/index.m3u8
-#EXTINF:-1, SkärgårdensSK-Härryda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67442bd474345b0eaa499d3e/index.m3u8
 #EXTINF:-1, Mechelen-LiègeBulldogs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1d8171a4a676e69dd58/index.m3u8
 #EXTINF:-1, HYC-LeuvenChiefs
