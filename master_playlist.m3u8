@@ -1,9 +1,59 @@
 #EXTM3U
-#EXTINF:-1, SKLejon-BodensHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67441f1f9251076945206a6a/index.m3u8
-#EXTINF:-1, KortrijkSpurs-LiègeII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673b1030af94a25608ebe271/index.m3u8
+#EXTINF:-1, Briançon-Bordeaux
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67284a4fe689ca0066fa230c.m3u8
+#EXTINF:-1, Fassa-ValdifiemmeHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716362890eeba7bde92d089/index.m3u8
+#EXTINF:-1, Hormadid'Anglet-Gap
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/673abf4da55a234fbca8686a.m3u8
+#EXTINF:-1, Strasbourg-Angers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673abf4da55a234fbca8686c/index.m3u8
+#EXTINF:-1, Bordeaux-Tours-Orléans
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/673abf4da55a234fbca8686e.m3u8
+#EXTINF:-1, Meudon-Rouen2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673abf4da55a234fbca8685a/index.m3u8
+#EXTINF:-1, Annecy-LionsdeLyon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673abf4da55a234fbca86860/index.m3u8
+#EXTINF:-1, SkärgårdensSK-Härryda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67442bd474345b0eaa499d3e/index.m3u8
+#EXTINF:-1, Mechelen-LiègeBulldogs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1d8171a4a676e69dd58/index.m3u8
+#EXTINF:-1, HYC-LeuvenChiefs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ae1dcfb9e1d37d5008ddb/index.m3u8
 #EXTINF:-1, LeuvenBlack-Antwerp
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b1031a55a234fbca86c14/index.m3u8
-#EXTINF:-1, Liberec-Pardubice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6708f8566e0aae1e6b070c2e/index.m3u8
+#EXTINF:-1, CapeBreton-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/0d5195d3a3c548dda42a33232ccb10e5.m3u8
+#EXTINF:-1, Gatineau-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/af1f8146aa674e63add5afb956d09aeb.m3u8
+#EXTINF:-1, Chicoutimi-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/f39e676495604b1eb281911a9791ba8a.m3u8
+#EXTINF:-1, Chtown-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/e5fd0c8f64664123b4596a5c17e59f63.m3u8
+#EXTINF:-1, London-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/b26322a8d5bb4c34b635ec67bc5d4e6e.m3u8
+#EXTINF:-1, Niagara-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/3adf75b396224e2dae2895b8f1a3e5cc.m3u8
+#EXTINF:-1, Saginaw-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/0e368fed339a4e4eae1d7c64e9717246.m3u8
+#EXTINF:-1, Kitchener-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/e24a83437e734747bcfbe09cad1c0be9.m3u8
+#EXTINF:-1, Kingston-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/faf5383765ff4fb7b7b1dd5cc242c532.m3u8
+#EXTINF:-1, Radomyšl-Strakonice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673c2a95af94a25608ebe3c6/index.m3u8
+#EXTINF:-1, MunkedalsBK-Fotskäl
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674418d29251076945206971/index.m3u8
+#EXTINF:-1, ÅbyHC-RambergetsHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67441c6592510769452069b8/index.m3u8
+#EXTINF:-1, Näädät-KeravaShakers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742b30e9251076945206515/index.m3u8
+#EXTINF:-1, Bentley-Northeastern
+fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Maine-Rensselaer
+fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Dartmouth-Vermont
+fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, HolyCross-Brown
+fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Assumption-Rensselaer
+fluidtv.php?channel=d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
