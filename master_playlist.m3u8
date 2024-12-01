@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1, MalaxIFTeam-TUS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742b30f9251076945206576/index.m3u8
-#EXTINF:-1, SuPS-JHTAkatemia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f9251076945206578/index.m3u8
-#EXTINF:-1, Salamat-GrIFKJoukkue
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e9251076945206504/index.m3u8
-#EXTINF:-1, KraftAcademy-VirkiäII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f925107694520655a/index.m3u8
-#EXTINF:-1, LieksanHurtat-Kajastus
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f9251076945206584/index.m3u8
-#EXTINF:-1, KeuPaHTII-JyKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e74345b0eaa499750/index.m3u8
-#EXTINF:-1, VG-62II-Kiekko-67
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e9251076945206530/index.m3u8
-#EXTINF:-1, K-VantaaItä-HCLudwig
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e92510769452064fd/index.m3u8
-#EXTINF:-1, Näädät-KeravaShakers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e9251076945206515/index.m3u8
-#EXTINF:-1, HarjunKiekko-PEPOHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742b30f9251076945206579/index.m3u8
-#EXTINF:-1, TIHC-LaserHTBlack
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671c778fe689ca0066fa05d4/index.m3u8
-#EXTINF:-1, Peliitat-Kiekko-EspooIII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e74345b0eaa499754/index.m3u8
-#EXTINF:-1, UplakersYlöjärvi-JIlves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f9251076945206582/index.m3u8
-#EXTINF:-1, HYRI-PorvoonHunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f9251076945206560/index.m3u8
-#EXTINF:-1, LaserHTRed-Raahe-K
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e74345b0eaa49975f/index.m3u8
-#EXTINF:-1, TuToAkatemia-RNK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f925107694520658c/index.m3u8
-#EXTINF:-1, ÄssätAk-TPSAk/TarU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f925107694520657e/index.m3u8
-#EXTINF:-1, EVUTeam-EVUrheilijat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30e74345b0eaa49975d/index.m3u8
 #EXTINF:-1, SKKajakas-HCPanter
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f77074345b0eaa499ab8/index.m3u8
 #EXTINF:-1, IKGraip-BrinkensIF
