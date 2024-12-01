@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Gatineau-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/5ea7239cb0c64941b3bab2f84a3ff9a3.m3u8
-#EXTINF:-1, SaintJohn-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/136e44cf6a6b4e7d9acf8246737d8972.m3u8
+#EXTINF:-1, Windsor-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/d8742ee2e8ae42a99ffd0d748d16c348.m3u8
+#EXTINF:-1, Brampton-Saginaw
+https://media-service.fanreachdata.io/edge/ohl/3371485c98a14e5dbfb218989720e4b8.m3u8
+#EXTINF:-1, NorthBay-Soo
+https://media-service.fanreachdata.io/edge/ohl/741e7f5e23cf4720995532d9e9a83b38.m3u8
+#EXTINF:-1, Brantford-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/65a73fd7310f42188b8b5c1ae717449b.m3u8
 #EXTINF:-1, RIT-NewHampshire
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, MTU-BowlingGreen
@@ -13,14 +17,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7dd8525d-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Windsor-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/d8742ee2e8ae42a99ffd0d748d16c348.m3u8
-#EXTINF:-1, Brampton-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/3371485c98a14e5dbfb218989720e4b8.m3u8
-#EXTINF:-1, NorthBay-Soo
-https://media-service.fanreachdata.io/edge/ohl/741e7f5e23cf4720995532d9e9a83b38.m3u8
-#EXTINF:-1, Brantford-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/65a73fd7310f42188b8b5c1ae717449b.m3u8
 #EXTINF:-1, BostonC-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Lethbridge-PrinceAlbert
