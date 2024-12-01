@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, HIFKAk-Kiekko-EspooAk
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f74345b0eaa4997ce/index.m3u8
+#EXTINF:-1, APV-KeuruunPalloHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f74345b0eaa4997e2/index.m3u8
+#EXTINF:-1, SaiPa-KalPaAkatemia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742b30f74345b0eaa4997d1/index.m3u8
