@@ -11,3 +11,5 @@ https://media-service.fanreachdata.io/edge/whl/ec810f54dcee4eeabc68157ee08a1fb3.
 https://media-service.fanreachdata.io/edge/ohl/faf5383765ff4fb7b7b1dd5cc242c532.m3u8
 #EXTINF:-1, Assumption-Rensselaer
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Admiral-Lokomotiv
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
