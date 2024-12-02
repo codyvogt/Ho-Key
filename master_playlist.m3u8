@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rødovre-HerningBlueFox
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66d6cf4659dd270b7208bcb4/index.m3u8
 #EXTINF:-1, ÅngeIK-NjurundaSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745744574345b0eaa499f34/index.m3u8
 #EXTINF:-1, KovlandsIshF-Sundsvall
