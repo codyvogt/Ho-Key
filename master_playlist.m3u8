@@ -7,3 +7,9 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe6c567655fb0aed1ed
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6745560e74345b0eaa499ea0/index.m3u8
 #EXTINF:-1, PUS-HuntersTeam
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745560e9251076945206d96/index.m3u8
+#EXTINF:-1, AalborgPirates-Rungsted
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d865a859dd270b7208bfac/index.m3u8
+#EXTINF:-1, Esbjerg-Frederikshavn
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d865a859dd270b7208bfae/index.m3u8
+#EXTINF:-1, HerlevEagles-Odense
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d865a959dd270b7208bfb0/index.m3u8
