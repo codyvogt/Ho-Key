@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SacredHeart-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, BaníkHodonín-HKOpava
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe6c567655fb0aed1ed7cb/index.m3u8
 #EXTINF:-1, TuK-V-VG-62II
@@ -8,11 +6,11 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6745560e74345b0eaa499
 #EXTINF:-1, PUS-HuntersTeam
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745560e9251076945206d96/index.m3u8
 #EXTINF:-1, AalborgPirates-Rungsted
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d865a859dd270b7208bfac/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66d865a859dd270b7208bfac/index.m3u8
 #EXTINF:-1, Esbjerg-Frederikshavn
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d865a859dd270b7208bfae/index.m3u8
 #EXTINF:-1, HerlevEagles-Odense
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66d865a959dd270b7208bfb0/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66d865a959dd270b7208bfb0/index.m3u8
 #EXTINF:-1, Mariestad-Oskarshamn
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6746c8819251076945207074/index.m3u8
 #EXTINF:-1, Karlskrona-Troja-Ljungby
