@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1, SacredHeart-Quinnipiac
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, BaníkHodonín-HKOpava
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fe6c567655fb0aed1ed7cb/index.m3u8
+#EXTINF:-1, TuK-V-VG-62II
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745560e74345b0eaa499ea0/index.m3u8
+#EXTINF:-1, PUS-HuntersTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745560e9251076945206d96/index.m3u8
