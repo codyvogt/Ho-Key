@@ -1,27 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Valenciennes-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673eb3cd54ba8d4ac5e1d7c6/index.m3u8
-#EXTINF:-1, Dunkerque-Neuilly
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673eb3ce54ba8d4ac5e1d7ce/index.m3u8
-#EXTINF:-1, Tours-DrakkarsdeCaen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/673eb3cd54ba8d4ac5e1d7c4/index.m3u8
-#EXTINF:-1, Cholet-Villard-de-Lans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/673eb3cd54ba8d4ac5e1d7c8/index.m3u8
-#EXTINF:-1, Nantes-HCMP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673eb3cd54ba8d4ac5e1d7ca/index.m3u8
-#EXTINF:-1, Trento-EppanAppiano
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716362bd24da32d7de6746d/index.m3u8
-#EXTINF:-1, Juniorteams-AlpsAc.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716362c90eeba7bde92d08f/index.m3u8
-#EXTINF:-1, Aosta-StormPinerolo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716362cd24da32d7de6746f/index.m3u8
 #EXTINF:-1, FärjestadBK-ÖrebroHK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67481ca720730931ae5e6862/index.m3u8
 #EXTINF:-1, Frölunda-VäxjöLakers
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6748221920730931ae5e6899/index.m3u8
 #EXTINF:-1, MalungsIF-Hudiksvall
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67481d8fd31a43159862eb9f/index.m3u8
-#EXTINF:-1, ValboHC-BIKKarlskoga
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6748156520730931ae5e6834/index.m3u8
 #EXTINF:-1, StrömsbroIF-Borlänge
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67481d8fd31a43159862eb9d/index.m3u8
