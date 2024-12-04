@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1, Valpellice-Merano
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716362990eeba7bde92d08d/index.m3u8
+#EXTINF:-1, Pergine-Cortina/Alleghe
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716362ad24da32d7de6746b/index.m3u8
+#EXTINF:-1, Trento-EppanAppiano
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716362bd24da32d7de6746d/index.m3u8
+#EXTINF:-1, Juniorteams-AlpsAc.
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716362cd24da32d7de6746f/index.m3u8
+#EXTINF:-1, Aosta-StormPinerolo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716362cd24da32d7de6746f/index.m3u8
+#EXTINF:-1, GuelphStorm-Brampton
+https://media-service.fanreachdata.io/edge/ohl/34bed6d69eb34c03b6c37edf120cdfdf.m3u8
+#EXTINF:-1, Providence-BostonC
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
