@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1, ABTitan-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/54bb04485cb048b2b42c22128f446f72.m3u8
-#EXTINF:-1, Chicoutimi-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/8a991e82070249c392ee2de7effbaf6d.m3u8
-#EXTINF:-1, Blainville-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/d06632fff83e4950ada9cc9ea78fb1c6.m3u8
 #EXTINF:-1, OwenSound-London
 https://media-service.fanreachdata.io/edge/ohl/5c1b27e7449b4a769a36b0680c4ea6ee.m3u8
 #EXTINF:-1, SaultSte.Marie-Saginaw
 https://media-service.fanreachdata.io/edge/ohl/17e8aa138b754c22ad2824ad7a01840d.m3u8
 #EXTINF:-1, Ottawa-OshawaGenerals
 https://media-service.fanreachdata.io/edge/ohl/c88cb59d8766486197a9c76c0e4471b9.m3u8
+#EXTINF:-1, Chicoutimi-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/8a991e82070249c392ee2de7effbaf6d.m3u8
+#EXTINF:-1, Blainville-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/d06632fff83e4950ada9cc9ea78fb1c6.m3u8
 #EXTINF:-1, UConn-BostonCollege
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, MHTigers-SwiftCurrent
