@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1, HCAosta-HockeyComo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716362e90eeba7bde92d091/index.m3u8
-#EXTINF:-1, Varese-ValpelliceBulldogs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163631d24da32d7de67479/index.m3u8
-#EXTINF:-1, FassaFalcons-Alleghe
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163630d24da32d7de67477/index.m3u8
-#EXTINF:-1, HCFeltre-HockeyPergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716363090eeba7bde92d093/index.m3u8
-#EXTINF:-1, PiTa-Karhu-Kissat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6747f91120730931ae5e6725/index.m3u8
-#EXTINF:-1, Tavastia-KJTHaukat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6747f911d31a43159862e9d7/index.m3u8
-#EXTINF:-1, DuellsPHK-ÅbyHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671b4c6a1dc6516e0899ec67/index.m3u8
+#EXTINF:-1, Moncton-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/3d2f3f857cf64402add48a07e67cebf9.m3u8
+#EXTINF:-1, Val-d'Or-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/aef969644809498090260ef1da4505b0.m3u8
+#EXTINF:-1, Shawinigan-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/041ad1b6e89a4949b0daa9bb983cff73.m3u8
