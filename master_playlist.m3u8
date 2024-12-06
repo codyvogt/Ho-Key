@@ -21,6 +21,42 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc803/index.m3u8
 #EXTINF:-1, AlmtunaIS-Björklöven
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6749860ee01d8f384fffc77b/index.m3u8
+#EXTINF:-1, Colgate-Cornell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Union-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, UNH-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Denver-WesternMichigan
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/02439d21-514f-4c88-b52e-85e3bf7a6f78-hls/master/02439d21-514f-4c88-b52e-85e3bf7a6f78-hls.m3u8
+#EXTINF:-1, UAA-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, ColoradoC-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, LongIsland-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, NorthDakota-Miami
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1c483f1-69a1-41b1-be18-f1d956d0f6d0-hls/master/e1c483f1-69a1-41b1-be18-f1d956d0f6d0-hls.m3u8
+#EXTINF:-1, BSU-LakeSuperior
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
+#EXTINF:-1, STU-MichiganTech
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, FSU-NorthernMichigan
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, BostonC-UMassLowell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, BGSU-MinnesotaState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Omaha-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
+#EXTINF:-1, UMD-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
 #EXTINF:-1, Olomouc-WarriorsBrno
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671dd80ee689ca0066fa09cc/index.m3u8
 #EXTINF:-1, Tábor-PirátiChomutov
