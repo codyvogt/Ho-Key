@@ -3,8 +3,6 @@
 fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, IKK2-HighstickAc.
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67494a8ed31a43159862ee0d/index.m3u8
-#EXTINF:-1, Popula-Team90-HaU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67494a8ed31a43159862ee14/index.m3u8
 #EXTINF:-1, PyPo-KiilatHaapajärvi
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67494a8ed31a43159862ee0b/index.m3u8
 #EXTINF:-1, JHTAkatemia-Raahe-KII
