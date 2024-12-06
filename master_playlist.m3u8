@@ -3,17 +3,7 @@
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
 #EXTINF:-1, HCLitvínov-DuklaJihlava
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ceda34d3d999504733cccf/index.m3u8
-#EXTINF:-1, LuleåHF-DjurgårdensIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499a5ee01d8f384fffc7d1/index.m3u8
-#EXTINF:-1, BrynäsIF-MoDoHockey
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999dfe01d8f384fffc7bd/index.m3u8
-#EXTINF:-1, SkellefteåAIK-AIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999dfe01d8f384fffc7be/index.m3u8
-#EXTINF:-1, MoraIK-TimråIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499ac2e01d8f384fffc7f8/index.m3u8
-#EXTINF:-1, Rögle-MalmöRedhawks
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc802/index.m3u8
-#EXTINF:-1, HV71-SödertäljeSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc803/index.m3u8
-#EXTINF:-1, AlmtunaIS-Björklöven
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6749860ee01d8f384fffc77b/index.m3u8
+#EXTINF:-1, SCKolín-KobraPraha
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66efb38da1fe2c39f40b24c3/index.m3u8
+#EXTINF:-1, KarlovyVaryB-Ostrov
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673f05cdc75f8964ad3e9ca5/index.m3u8
