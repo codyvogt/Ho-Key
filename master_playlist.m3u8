@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, SCRapperswil-SCLTigers
+fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, HCTurnov-BKNov·Paka
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6734c01f8851d826adae5289/index.m3u8
