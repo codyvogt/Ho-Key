@@ -1,9 +1,93 @@
 #EXTM3U
-#EXTINF:-1, RimboIF-HallstaIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674999a7e01d8f384fffc7ac/index.m3u8
-#EXTINF:-1, Huddinge-NyköpingsAIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499ac2e01d8f384fffc7f4/index.m3u8
-#EXTINF:-1, BålstaHC-ÄltaIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ab77cfb9e1d37d5008db3/index.m3u8
-#EXTINF:-1, TrångsundsIF-Ormsta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674998d6e01d8f384fffc79d/index.m3u8
+#EXTINF:-1, Bordeaux-Anglet
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/672ee1cee689ca0066fa3160.m3u8
+#EXTINF:-1, Ducsd'Angers-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/672ee1ce1dc6516e089a1810.m3u8
+#EXTINF:-1, Cergy-Pontoise-Nice
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/672ee1cee689ca0066fa315e.m3u8
+#EXTINF:-1, Heerenveen-Liège
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741a7a39251076945206412/index.m3u8
+#EXTINF:-1, Heist-Toekomstteam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741a7ae74345b0eaa4996af/index.m3u8
+#EXTINF:-1, Huskies-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/a48f09a6d52c4a91944c9af8b36f34c9.m3u8
+#EXTINF:-1, SaintJohn-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/1aa7494ef4774749beb51a4027330a4d.m3u8
+#EXTINF:-1, Val-d'Or-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/659f00dcd70c4e2faa52d67d79df60fa.m3u8
+#EXTINF:-1, Rimouski-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/887de8a4a1ec46e0a29a4f19380963ba.m3u8
+#EXTINF:-1, Québec-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/75a6a25ac2ee4b6292e2a44e4ffb2d3d.m3u8
+#EXTINF:-1, Drummond.-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/f53d24541ef244b19cae0764bb8ff18f.m3u8
+#EXTINF:-1, Victoriaville-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/be85222052fb476482a0133f470bb981.m3u8
+#EXTINF:-1, Gatineau-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/0930833db2474f0898fe437e2a2d3041.m3u8
+#EXTINF:-1, Dartmouth-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Brown-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Harvard-St.Lawrence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Yale-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, BostonC-HolyCross
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, BostonUniversity-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, UConn-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Peterborough-Brantford
+https://media-service.fanreachdata.io/edge/ohl/342fad11a3fa48e4b344eef5dab87f70.m3u8
+#EXTINF:-1, BarrieColts-Kingston
+https://media-service.fanreachdata.io/edge/ohl/aacef433d7e5410890002334c076cb88.m3u8
+#EXTINF:-1, SarniaSting-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/db65186a057447808b608de5b38d8e3b.m3u8
+#EXTINF:-1, Brampton-Niagara
+https://media-service.fanreachdata.io/edge/ohl/0f3d57a29b6c48849e927dc88c2832ec.m3u8
+#EXTINF:-1, SaultSte.Marie-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/a13e99a438284cef899fdcab821d9f05.m3u8
+#EXTINF:-1, Oshawa-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/72aaf325a5df4d11af2bc1cc29bdd82e.m3u8
+#EXTINF:-1, Erie-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/b36b18cdb68145eebaa577925cfde63a.m3u8
+#EXTINF:-1, OwenSound-Guelph
+https://media-service.fanreachdata.io/edge/ohl/7b86d28cdcce4d8cae71daf65f464a80.m3u8
+#EXTINF:-1, Colgate-Cornell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Union-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, UNH-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Denver-WesternMichigan
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/02439d21-514f-4c88-b52e-85e3bf7a6f78-hls/master/02439d21-514f-4c88-b52e-85e3bf7a6f78-hls.m3u8
+#EXTINF:-1, UAA-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, ColoradoC-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, LongIsland-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, NorthDakota-Miami
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1c483f1-69a1-41b1-be18-f1d956d0f6d0-hls/master/e1c483f1-69a1-41b1-be18-f1d956d0f6d0-hls.m3u8
+#EXTINF:-1, BSU-LakeSuperior
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
+#EXTINF:-1, STU-MichiganTech
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, FSU-NorthernMichigan
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, BostonC-UMassLowell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, BGSU-MinnesotaState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Omaha-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
+#EXTINF:-1, UMD-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
