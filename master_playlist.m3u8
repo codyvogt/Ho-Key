@@ -1,65 +1,51 @@
 #EXTM3U
 #EXTINF:-1, SCRapperswil-SCLTigers
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, Odense-Rungsted
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66dbe8034b7c131998fd5b7d/index.m3u8
 #EXTINF:-1, Frederikshavn-Herning
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66dbe8034b7c131998fd5b7b/index.m3u8
-#EXTINF:-1, AalborgPirates-Esbjerg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66dbe8033453a55a1f55fbf8/index.m3u8
 #EXTINF:-1, HerlevEagles-Rødovre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66dbe8044b7c131998fd5b7f/index.m3u8
-#EXTINF:-1, BrynäsIF-MoDoHockey
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999dfe01d8f384fffc7bd/index.m3u8
-#EXTINF:-1, SkellefteåAIK-AIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999dfe01d8f384fffc7be/index.m3u8
-#EXTINF:-1, MoraIK-TimråIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499ac2e01d8f384fffc7f8/index.m3u8
-#EXTINF:-1, Rögle-MalmöRedhawks
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc802/index.m3u8
-#EXTINF:-1, HV71-SödertäljeSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc803/index.m3u8
-#EXTINF:-1, AlmtunaIS-Björklöven
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6749860ee01d8f384fffc77b/index.m3u8
-#EXTINF:-1, Colgate-Cornell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Clarkson-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Union-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, UNH-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Denver-WesternMichigan
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/02439d21-514f-4c88-b52e-85e3bf7a6f78-hls/master/02439d21-514f-4c88-b52e-85e3bf7a6f78-hls.m3u8
-#EXTINF:-1, UAA-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, ColoradoC-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, LongIsland-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, NorthDakota-Miami
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1c483f1-69a1-41b1-be18-f1d956d0f6d0-hls/master/e1c483f1-69a1-41b1-be18-f1d956d0f6d0-hls.m3u8
-#EXTINF:-1, BSU-LakeSuperior
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
-#EXTINF:-1, STU-MichiganTech
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, FSU-NorthernMichigan
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
-#EXTINF:-1, BostonC-UMassLowell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, BGSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, Omaha-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
-#EXTINF:-1, UMD-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
-#EXTINF:-1, Olomouc-WarriorsBrno
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671dd80ee689ca0066fa09cc/index.m3u8
-#EXTINF:-1, Tábor-PirátiChomutov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745650d74345b0eaa499eca/index.m3u8
-#EXTINF:-1, VHKVsetín-BeraniZlínB
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673c62d054ba8d4ac5e1d5bf/index.m3u8
+#EXTINF:-1, GladsaxeBears-Hvidovre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66dbe70f3453a55a1f55fbe6/index.m3u8
+#EXTINF:-1, KalixHC-ClemensnäsHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674d5c1c171a4a676e69e32c/index.m3u8
+#EXTINF:-1, BrunfloIK-ÅngeIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499a9773d546210f8c9e58/index.m3u8
+#EXTINF:-1, KB65HK-SollefteåHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67134af76e0aae1e6b072156/index.m3u8
+#EXTINF:-1, NorrtäljeIK-Viggbyholm
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674998d773d546210f8c9e27/index.m3u8
+#EXTINF:-1, FlemingsbergsIK-Tierp
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999a7e01d8f384fffc7b5/index.m3u8
+#EXTINF:-1, GötaTraneberg-Spånga
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67499ac373d546210f8c9e65/index.m3u8
+#EXTINF:-1, HammarbyIF-Linden
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674998d773d546210f8c9e25/index.m3u8
+#EXTINF:-1, GnestaIK-SolnaSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674abfa6171a4a676e69dd40/index.m3u8
+#EXTINF:-1, HedesundaIF-IKHuge
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6749860d73d546210f8c9e14/index.m3u8
+#EXTINF:-1, SvegsIK-GällstaIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999df73d546210f8c9e41/index.m3u8
+#EXTINF:-1, PajalaHC-Malmberget
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6749860e73d546210f8c9e18/index.m3u8
+#EXTINF:-1, KumlaHC2-NoraHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499a5d73d546210f8c9e4d/index.m3u8
+#EXTINF:-1, PickelsHC-Fellingsbro
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499a96e01d8f384fffc7de/index.m3u8
+#EXTINF:-1, SalaHK-Örnen/ÖrebroHU
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6749860d73d546210f8c9e10/index.m3u8
+#EXTINF:-1, BålstaHC-ÄltaIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ab77cfb9e1d37d5008db3/index.m3u8
+#EXTINF:-1, TrångsundsIF-Ormsta
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674998d6e01d8f384fffc79d/index.m3u8
+#EXTINF:-1, RimboIF-HallstaIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674999a7e01d8f384fffc7ac/index.m3u8
+#EXTINF:-1, Huddinge-NyköpingsAIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499ac2e01d8f384fffc7f4/index.m3u8
+#EXTINF:-1, EnköpingsSKHK-Värmdö
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674999df73d546210f8c9e3d/index.m3u8
+#EXTINF:-1, Turnov-GepardiJablonec
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673593154c3fc0496b71a255/index.m3u8
+#EXTINF:-1, TullingeTP-Sundbyberg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674998d6e01d8f384fffc7a5/index.m3u8
