@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ducsd'Angers-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/672ee1ce1dc6516e089a1810.m3u8
-#EXTINF:-1, Heist-Toekomstteam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741a7ae74345b0eaa4996af/index.m3u8
 #EXTINF:-1, Huskies-Acadie-Bathurst
 https://media-service.fanreachdata.io/edge/lhjmq/a48f09a6d52c4a91944c9af8b36f34c9.m3u8
 #EXTINF:-1, SaintJohn-CapeBreton
