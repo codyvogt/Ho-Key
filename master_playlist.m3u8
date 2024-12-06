@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Bordeaux-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/672ee1cee689ca0066fa3160.m3u8
 #EXTINF:-1, Ducsd'Angers-Grenoble
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/672ee1ce1dc6516e089a1810.m3u8
-#EXTINF:-1, Cergy-Pontoise-Nice
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/672ee1cee689ca0066fa315e.m3u8
-#EXTINF:-1, Heerenveen-Liège
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6741a7a39251076945206412/index.m3u8
 #EXTINF:-1, Heist-Toekomstteam
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6741a7ae74345b0eaa4996af/index.m3u8
 #EXTINF:-1, Huskies-Acadie-Bathurst
@@ -91,3 +85,21 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnstho
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
 #EXTINF:-1, UMD-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
+#EXTINF:-1, RedDeerRebels-Brandon
+https://media-service.fanreachdata.io/edge/whl/87273ea8cfc34f8380cdba8c091129c1.m3u8
+#EXTINF:-1, SwiftCurrent-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/7c0cb22022444fd4ae9f2c090d755bec.m3u8
+#EXTINF:-1, Calgary-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/e7ff20f2704345dd9da2bf6c691d2a58.m3u8
+#EXTINF:-1, MedicineHat-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/d50ec4bd83d7430584e25da67ed173f7.m3u8
+#EXTINF:-1, Seattle-KamloopsBlazers
+https://media-service.fanreachdata.io/edge/whl/e3381fded6a242199b7675b91cee60c3.m3u8
+#EXTINF:-1, Regina-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/31056bc5c5d0428e9138db24be143d67.m3u8
+#EXTINF:-1, Spokane-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/6069372bee0b4636ac6d5d7ed284323d.m3u8
+#EXTINF:-1, VancouverGiants-Tri-City
+https://media-service.fanreachdata.io/edge/whl/d30b5d5a9c904fa2b4936d31f09f2656.m3u8
+#EXTINF:-1, Kelowna-EverettSilvertips
+https://media-service.fanreachdata.io/edge/whl/59eed59391e344c3b06e6e53e624ab17.m3u8
