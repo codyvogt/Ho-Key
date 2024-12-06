@@ -1,9 +1,29 @@
 #EXTM3U
 #EXTINF:-1, SCRapperswil-SCLTigers
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, HCLitvínov-DuklaJihlava
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ceda34d3d999504733cccf/index.m3u8
-#EXTINF:-1, SCKolín-KobraPraha
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66efb38da1fe2c39f40b24c3/index.m3u8
-#EXTINF:-1, KarlovyVaryB-Ostrov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673f05cdc75f8964ad3e9ca5/index.m3u8
+#EXTINF:-1, Odense-Rungsted
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66dbe8034b7c131998fd5b7d/index.m3u8
+#EXTINF:-1, Frederikshavn-Herning
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66dbe8034b7c131998fd5b7b/index.m3u8
+#EXTINF:-1, AalborgPirates-Esbjerg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66dbe8033453a55a1f55fbf8/index.m3u8
+#EXTINF:-1, HerlevEagles-Rødovre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66dbe8044b7c131998fd5b7f/index.m3u8
+#EXTINF:-1, BrynäsIF-MoDoHockey
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999dfe01d8f384fffc7bd/index.m3u8
+#EXTINF:-1, SkellefteåAIK-AIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674999dfe01d8f384fffc7be/index.m3u8
+#EXTINF:-1, MoraIK-TimråIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499ac2e01d8f384fffc7f8/index.m3u8
+#EXTINF:-1, Rögle-MalmöRedhawks
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc802/index.m3u8
+#EXTINF:-1, HV71-SödertäljeSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67499afee01d8f384fffc803/index.m3u8
+#EXTINF:-1, AlmtunaIS-Björklöven
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6749860ee01d8f384fffc77b/index.m3u8
+#EXTINF:-1, Olomouc-WarriorsBrno
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671dd80ee689ca0066fa09cc/index.m3u8
+#EXTINF:-1, Tábor-PirátiChomutov
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745650d74345b0eaa499eca/index.m3u8
+#EXTINF:-1, VHKVsetín-BeraniZlínB
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673c62d054ba8d4ac5e1d5bf/index.m3u8
