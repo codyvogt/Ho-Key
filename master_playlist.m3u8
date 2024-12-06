@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sarnia-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/e77042a23a604495aab4f573f4fb69fb.m3u8
 #EXTINF:-1, Amur-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, OYUS-Kiekko-Ketut
