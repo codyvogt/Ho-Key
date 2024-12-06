@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Severstal-BarysAstana
 fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1, TornionIHC-Raahe-K
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67494a8ed31a43159862ee12/index.m3u8
-#EXTINF:-1, LahdenPelicans-HIFKGH
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67494a8ed31a43159862ee43/index.m3u8
 #EXTINF:-1, IKK2-HighstickAc.
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67494a8ed31a43159862ee0d/index.m3u8
 #EXTINF:-1, Popula-Team90-HaU
