@@ -31,6 +31,8 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycr
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, UConn-NewHampshire
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, CedarRapids-USAU18
+fluidtv.php?channel=https://d113ui9vk1ofms.cloudfront.net/f45e98320d90fb3b21971e42368114f5/0_hd_hls.m3u8
 #EXTINF:-1, Peterborough-Brantford
 https://media-service.fanreachdata.io/edge/ohl/342fad11a3fa48e4b344eef5dab87f70.m3u8
 #EXTINF:-1, BarrieColts-Kingston
@@ -83,8 +85,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnstho
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
 #EXTINF:-1, UMD-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
-#EXTINF:-1, CedarRapids-USAU18
-fluidtv.php?channel=https://d113ui9vk1ofms.cloudfront.net/f45e98320d90fb3b21971e42368114f5/0_hd_hls.m3u8
 #EXTINF:-1, RedDeerRebels-Brandon
 https://media-service.fanreachdata.io/edge/whl/87273ea8cfc34f8380cdba8c091129c1.m3u8
 #EXTINF:-1, SwiftCurrent-MooseJaw
