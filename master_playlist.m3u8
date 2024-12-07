@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Villard-de-Lans-Tours
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84e9251076945206482/index.m3u8
-#EXTINF:-1, DrakkarsdeCaen-Brest
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742a84e9251076945206484/index.m3u8
 #EXTINF:-1, ValpelliceBulldogs-Feltre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163636d24da32d7de6747f/index.m3u8
-#EXTINF:-1, AllegheHockey-HCAosta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716363590eeba7bde92d09b/index.m3u8
-#EXTINF:-1, LynxdeValence-Lyon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742a84e74345b0eaa4996f1/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Roanne
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742a84e74345b0eaa4996f9/index.m3u8
-#EXTINF:-1, FrançaisVolants-Reims
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84f92510769452064a6/index.m3u8
 #EXTINF:-1, Rouyn-Noranda-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/629db92ac0654a87b84127f7597f9761.m3u8
 #EXTINF:-1, Rimouski-Chicoutimi
@@ -23,6 +13,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/fecab43d097543d88315cfa18348a6f
 https://media-service.fanreachdata.io/edge/lhjmq/2b601417f109435fb59099512074909f.m3u8
 #EXTINF:-1, HYC-Heerenveen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742f9259251076945206821/index.m3u8
+#EXTINF:-1, FrançaisVolants-Reims
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84f92510769452064a6/index.m3u8
 #EXTINF:-1, RobertMorris-Syracuse
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls/master/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls.m3u8
 #EXTINF:-1, Harvard-Clarkson
@@ -75,3 +67,29 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northe
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5479eede-04da-4746-9caf-2e35bb46917a-hls/master/5479eede-04da-4746-9caf-2e35bb46917a-hls.m3u8
 #EXTINF:-1, BGSU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Soo-OwenSoundAttack
+https://media-service.fanreachdata.io/edge/ohl/103bf08b5b1a4abb9c11666c76e9780a.m3u8
+#EXTINF:-1, Flint-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/9efc42ad8b71431fa28ca0d67d0f0fdd.m3u8
+#EXTINF:-1, Kitchener-Windsor
+https://media-service.fanreachdata.io/edge/ohl/58f45f062c7a4c3bb94790d63ca44bc0.m3u8
+#EXTINF:-1, Oshawa-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/9aeb7686796f4f039df0d37eb868748e.m3u8
+#EXTINF:-1, RedDeer-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/0bb58ab3d46146a69105ea893b86bcff.m3u8
+#EXTINF:-1, PrinceAlbert-Brandon
+https://media-service.fanreachdata.io/edge/whl/5a271be8046d42acbeebd7e48cc4604d.m3u8
+#EXTINF:-1, Calgary-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/11dfaea4230b4c14b67bed6bf47bd7a8.m3u8
+#EXTINF:-1, Edmonton-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/cc0fe5d0c5134483a82718a066de2070.m3u8
+#EXTINF:-1, Vancouver-Portland
+https://media-service.fanreachdata.io/edge/whl/45b6b3d7dadd4859a36c33a167b3faf5.m3u8
+#EXTINF:-1, Kamloops-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/fb5f0092b6914333813d2c500f065948.m3u8
+#EXTINF:-1, WenatcheeWild-Spokane
+https://media-service.fanreachdata.io/edge/whl/e2e32c5c7eb6421f8d317dda30c26eae.m3u8
+#EXTINF:-1, Seattle-EverettSilvertips
+https://media-service.fanreachdata.io/edge/whl/546c3a8458bf469d9437587a2539a767.m3u8
+#EXTINF:-1, Kelowna-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/b8c03bca0da34d079e6d0f090747fdbe.m3u8
