@@ -1,24 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Rimouski-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/887de8a4a1ec46e0a29a4f19380963ba.m3u8
-#EXTINF:-1, Drummond.-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/f53d24541ef244b19cae0764bb8ff18f.m3u8
 #EXTINF:-1, Victoriaville-Sherbrooke
 https://media-service.fanreachdata.io/edge/lhjmq/be85222052fb476482a0133f470bb981.m3u8
 #EXTINF:-1, Gatineau-Blainville-B.
 https://media-service.fanreachdata.io/edge/lhjmq/0930833db2474f0898fe437e2a2d3041.m3u8
-#EXTINF:-1, Oshawa-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/72aaf325a5df4d11af2bc1cc29bdd82e.m3u8
-#EXTINF:-1, Erie-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/b36b18cdb68145eebaa577925cfde63a.m3u8
-#EXTINF:-1, BostonC-UMassLowell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, BGSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, Omaha-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
-#EXTINF:-1, UMD-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
 #EXTINF:-1, RedDeerRebels-Brandon
 https://media-service.fanreachdata.io/edge/whl/87273ea8cfc34f8380cdba8c091129c1.m3u8
 #EXTINF:-1, SwiftCurrent-MooseJaw
@@ -37,3 +21,9 @@ https://media-service.fanreachdata.io/edge/whl/6069372bee0b4636ac6d5d7ed284323d.
 https://media-service.fanreachdata.io/edge/whl/d30b5d5a9c904fa2b4936d31f09f2656.m3u8
 #EXTINF:-1, Kelowna-EverettSilvertips
 https://media-service.fanreachdata.io/edge/whl/59eed59391e344c3b06e6e53e624ab17.m3u8
+#EXTINF:-1, BGSU-MinnesotaState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Omaha-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
+#EXTINF:-1, UMD-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
