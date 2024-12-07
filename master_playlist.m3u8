@@ -7,26 +7,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/e840538b67c547e6964f7d78d67ae2c
 https://media-service.fanreachdata.io/edge/lhjmq/fecab43d097543d88315cfa18348a6fd.m3u8
 #EXTINF:-1, Sherbrooke-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/2b601417f109435fb59099512074909f.m3u8
-#EXTINF:-1, HYC-Heerenveen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742f9259251076945206821/index.m3u8
-#EXTINF:-1, FrançaisVolants-Reims
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84f92510769452064a6/index.m3u8
-#EXTINF:-1, RobertMorris-Syracuse
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls/master/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls.m3u8
-#EXTINF:-1, Harvard-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Yale-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Dartmouth-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Brown-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, HolyCross-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Connecticut-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Union-Quinnipiac
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, UMass-BostonUniversity
@@ -71,6 +51,8 @@ https://media-service.fanreachdata.io/edge/ohl/9efc42ad8b71431fa28ca0d67d0f0fdd.
 https://media-service.fanreachdata.io/edge/ohl/58f45f062c7a4c3bb94790d63ca44bc0.m3u8
 #EXTINF:-1, Oshawa-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/9aeb7686796f4f039df0d37eb868748e.m3u8
+#EXTINF:-1, Connecticut-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, RedDeer-SwiftCurrent
 https://media-service.fanreachdata.io/edge/whl/0bb58ab3d46146a69105ea893b86bcff.m3u8
 #EXTINF:-1, PrinceAlbert-Brandon
