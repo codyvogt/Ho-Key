@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1, HCAjoie-LausanneHC
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, Ketterä-Karhu-Kissat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dce0/index.m3u8
-#EXTINF:-1, ViikingitHelsinki-SaPKo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dcd1/index.m3u8
-#EXTINF:-1, GladiatorsHT-Pelikaanit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c0f171a4a676e69dbde/index.m3u8
+#EXTINF:-1, Kralupy-KrálovéPísek
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b0346af94a25608ebe24b/index.m3u8
