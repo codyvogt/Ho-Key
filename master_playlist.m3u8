@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, PorinÄssät-Lukko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c4d/index.m3u8
-#EXTINF:-1, LahdenPelicans-Tappara
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674a9c10fb9e1d37d5008c46/index.m3u8
-#EXTINF:-1, JYP-KouvolanKooKoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c56/index.m3u8
-#EXTINF:-1, SaiPa-OulunKärpät
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dc44/index.m3u8
-#EXTINF:-1, HIFK-Kiekko-Espoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c52/index.m3u8
-#EXTINF:-1, KalevanPallo-RoKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dc41/index.m3u8
-#EXTINF:-1, Jukurit-VaasanSport
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c71/index.m3u8
 #EXTINF:-1, RoKi-OulunKärpät
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674a9c10fb9e1d37d5008c6a/index.m3u8
 #EXTINF:-1, HIFK-TeamKuortane
