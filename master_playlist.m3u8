@@ -1,7 +1,43 @@
 #EXTM3U
-#EXTINF:-1, HCAjoie-LausanneHC
-fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, Stonehill-Maine
+#EXTINF:-1, Villard-de-Lans-Tours
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84e9251076945206482/index.m3u8
+#EXTINF:-1, DrakkarsdeCaen-Brest
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742a84e9251076945206484/index.m3u8
+#EXTINF:-1, ValpelliceBulldogs-Feltre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163636d24da32d7de6747f/index.m3u8
+#EXTINF:-1, AllegheHockey-HCAosta
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716363590eeba7bde92d09b/index.m3u8
+#EXTINF:-1, LynxdeValence-Lyon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742a84e74345b0eaa4996f1/index.m3u8
+#EXTINF:-1, Clermont-Ferrand-Roanne
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742a84e74345b0eaa4996f9/index.m3u8
+#EXTINF:-1, FrançaisVolants-Reims
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84f92510769452064a6/index.m3u8
+#EXTINF:-1, Rouyn-Noranda-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/629db92ac0654a87b84127f7597f9761.m3u8
+#EXTINF:-1, Rimouski-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/e840538b67c547e6964f7d78d67ae2cb.m3u8
+#EXTINF:-1, Québec-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/fecab43d097543d88315cfa18348a6fd.m3u8
+#EXTINF:-1, Sherbrooke-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/2b601417f109435fb59099512074909f.m3u8
+#EXTINF:-1, HYC-Heerenveen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742f9259251076945206821/index.m3u8
+#EXTINF:-1, RobertMorris-Syracuse
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls/master/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls.m3u8
+#EXTINF:-1, Harvard-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Yale-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Dartmouth-St.Lawrence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Brown-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, HolyCross-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Connecticut-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Union-Quinnipiac
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
@@ -39,61 +75,3 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northe
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5479eede-04da-4746-9caf-2e35bb46917a-hls/master/5479eede-04da-4746-9caf-2e35bb46917a-hls.m3u8
 #EXTINF:-1, BGSU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, Morzine-Avoriaz-Nantes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84e74345b0eaa499701/index.m3u8
-#EXTINF:-1, Chambéry-DogsdeCholet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742a84e925107694520647a/index.m3u8
-#EXTINF:-1, Meudon-Valenciennes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742a84e925107694520647c/index.m3u8
-#EXTINF:-1, Villard-de-Lans-Tours
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84e9251076945206482/index.m3u8
-#EXTINF:-1, DrakkarsdeCaen-Brest
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742a84e9251076945206484/index.m3u8
-#EXTINF:-1, LeuvenChiefs-Eaters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742f92474345b0eaa499a65/index.m3u8
-#EXTINF:-1, HYC-Heerenveen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742f9259251076945206821/index.m3u8
-#EXTINF:-1, AostaII-VinschgauEisfix
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745a56574345b0eaa499f93/index.m3u8
-#EXTINF:-1, HCPiné-HCPSelection
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752e50ac412906a2afce9c7/index.m3u8
-#EXTINF:-1, Cholet2-Brest2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742a84e74345b0eaa4996e9/index.m3u8
-#EXTINF:-1, PilsenWolves-HCSlavoj
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66def2853453a55a1f56034e/index.m3u8
-#EXTINF:-1, ValpelliceBulldogs-Feltre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163636d24da32d7de6747f/index.m3u8
-#EXTINF:-1, AllegheHockey-HCAosta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716363590eeba7bde92d09b/index.m3u8
-#EXTINF:-1, LynxdeValence-Lyon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6742a84e74345b0eaa4996f1/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Roanne
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742a84e74345b0eaa4996f9/index.m3u8
-#EXTINF:-1, FrançaisVolants-Reims
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84f92510769452064a6/index.m3u8
-#EXTINF:-1, RempartsdeTours-Brest
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84e9251076945206486/index.m3u8
-#EXTINF:-1, Rouyn-Noranda-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/629db92ac0654a87b84127f7597f9761.m3u8
-#EXTINF:-1, Rimouski-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/e840538b67c547e6964f7d78d67ae2cb.m3u8
-#EXTINF:-1, Québec-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/fecab43d097543d88315cfa18348a6fd.m3u8
-#EXTINF:-1, Sherbrooke-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/2b601417f109435fb59099512074909f.m3u8
-#EXTINF:-1, RobertMorris-Syracuse
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls/master/d3c1b8dd-83e8-4d65-a78b-c309816e9424-hls.m3u8
-#EXTINF:-1, Harvard-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Yale-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Dartmouth-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Brown-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, HolyCross-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Connecticut-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
