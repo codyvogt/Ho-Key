@@ -15,22 +15,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/f53d24541ef244b19cae0764bb8ff18
 https://media-service.fanreachdata.io/edge/lhjmq/be85222052fb476482a0133f470bb981.m3u8
 #EXTINF:-1, Gatineau-Blainville-B.
 https://media-service.fanreachdata.io/edge/lhjmq/0930833db2474f0898fe437e2a2d3041.m3u8
-#EXTINF:-1, RobertMorris-Syracuse
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0dab2daa-102b-48ff-987f-03eb4052096e-hls/master/0dab2daa-102b-48ff-987f-03eb4052096e-hls.m3u8
-#EXTINF:-1, Dartmouth-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Brown-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Harvard-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Yale-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, BostonC-HolyCross
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, BostonUniversity-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, UConn-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, CedarRapids-USAU18
 fluidtv.php?channel=https://d113ui9vk1ofms.cloudfront.net/f45e98320d90fb3b21971e42368114f5/0_hd_hls.m3u8
 #EXTINF:-1, Peterborough-Brantford
