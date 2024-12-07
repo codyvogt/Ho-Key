@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Villard-de-Lans-Tours
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84e9251076945206482/index.m3u8
-#EXTINF:-1, ValpelliceBulldogs-Feltre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163636d24da32d7de6747f/index.m3u8
 #EXTINF:-1, Rouyn-Noranda-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/629db92ac0654a87b84127f7597f9761.m3u8
 #EXTINF:-1, Rimouski-Chicoutimi
