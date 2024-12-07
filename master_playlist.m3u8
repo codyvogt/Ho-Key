@@ -17,8 +17,6 @@ https://media-service.fanreachdata.io/edge/whl/6069372bee0b4636ac6d5d7ed284323d.
 https://media-service.fanreachdata.io/edge/whl/d30b5d5a9c904fa2b4936d31f09f2656.m3u8
 #EXTINF:-1, Kelowna-EverettSilvertips
 https://media-service.fanreachdata.io/edge/whl/59eed59391e344c3b06e6e53e624ab17.m3u8
-#EXTINF:-1, BGSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Omaha-St.CloudState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
 #EXTINF:-1, UMD-ArizonaState
