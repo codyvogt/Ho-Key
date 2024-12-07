@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Québec-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/fecab43d097543d88315cfa18348a6fd.m3u8
 #EXTINF:-1, UMass-BostonUniversity
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, Denver-WesternMichigan
@@ -43,6 +41,8 @@ https://media-service.fanreachdata.io/edge/ohl/9efc42ad8b71431fa28ca0d67d0f0fdd.
 https://media-service.fanreachdata.io/edge/ohl/58f45f062c7a4c3bb94790d63ca44bc0.m3u8
 #EXTINF:-1, Oshawa-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/9aeb7686796f4f039df0d37eb868748e.m3u8
+#EXTINF:-1, CedarRapids-USAU18
+fluidtv.php?channel=https://dp3o9ku1s9a34.cloudfront.net/e975951ab9b6d292c893b966b499a591/0_hd_hls.m3u8
 #EXTINF:-1, Connecticut-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, RedDeer-SwiftCurrent
