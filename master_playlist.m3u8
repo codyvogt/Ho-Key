@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, CedarRapids-USAU18
-fluidtv.php?channel=https://d113ui9vk1ofms.cloudfront.net/f45e98320d90fb3b21971e42368114f5/0_hd_hls.m3u8
 #EXTINF:-1, Rimouski-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/887de8a4a1ec46e0a29a4f19380963ba.m3u8
 #EXTINF:-1, Québec-Baie-Comeau
@@ -63,6 +61,8 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnstho
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3fb3957a-d193-43d7-8411-1defd595a0f3-hls/master/3fb3957a-d193-43d7-8411-1defd595a0f3-hls.m3u8
 #EXTINF:-1, UMD-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls/master/5816849c-51e3-4508-9cc3-0dd8841db4e8-hls.m3u8
+#EXTINF:-1, CedarRapids-USAU18
+fluidtv.php?channel=https://d113ui9vk1ofms.cloudfront.net/f45e98320d90fb3b21971e42368114f5/0_hd_hls.m3u8
 #EXTINF:-1, RedDeerRebels-Brandon
 https://media-service.fanreachdata.io/edge/whl/87273ea8cfc34f8380cdba8c091129c1.m3u8
 #EXTINF:-1, SwiftCurrent-MooseJaw
