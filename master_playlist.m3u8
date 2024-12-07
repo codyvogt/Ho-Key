@@ -1,19 +1,23 @@
 #EXTM3U
-#EXTINF:-1, MedicineHat-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/d50ec4bd83d7430584e25da67ed173f7.m3u8
-#EXTINF:-1, Seattle-KamloopsBlazers
-https://media-service.fanreachdata.io/edge/whl/e3381fded6a242199b7675b91cee60c3.m3u8
-#EXTINF:-1, Regina-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/31056bc5c5d0428e9138db24be143d67.m3u8
-#EXTINF:-1, Spokane-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/6069372bee0b4636ac6d5d7ed284323d.m3u8
-#EXTINF:-1, VancouverGiants-Tri-City
-https://media-service.fanreachdata.io/edge/whl/d30b5d5a9c904fa2b4936d31f09f2656.m3u8
-#EXTINF:-1, Kelowna-EverettSilvertips
-https://media-service.fanreachdata.io/edge/whl/59eed59391e344c3b06e6e53e624ab17.m3u8
 #EXTINF:-1, PorinÄssät-Lukko
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c4d/index.m3u8
 #EXTINF:-1, LahdenPelicans-Tappara
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c46/index.m3u8
+#EXTINF:-1, JYP-KouvolanKooKoo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c56/index.m3u8
+#EXTINF:-1, SaiPa-OulunKärpät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dc44/index.m3u8
+#EXTINF:-1, HIFK-Kiekko-Espoo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c52/index.m3u8
+#EXTINF:-1, KalevanPallo-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dc41/index.m3u8
+#EXTINF:-1, Jukurit-VaasanSport
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c71/index.m3u8
 #EXTINF:-1, RoKi-OulunKärpät
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c6a/index.m3u8
+#EXTINF:-1, HIFK-TeamKuortane
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dc5f/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10171a4a676e69dc5b/index.m3u8
+#EXTINF:-1, KalevanPallo-TPS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c64/index.m3u8
