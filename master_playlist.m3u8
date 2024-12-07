@@ -11,3 +11,9 @@ https://media-service.fanreachdata.io/edge/whl/6069372bee0b4636ac6d5d7ed284323d.
 https://media-service.fanreachdata.io/edge/whl/d30b5d5a9c904fa2b4936d31f09f2656.m3u8
 #EXTINF:-1, Kelowna-EverettSilvertips
 https://media-service.fanreachdata.io/edge/whl/59eed59391e344c3b06e6e53e624ab17.m3u8
+#EXTINF:-1, PorinÄssät-Lukko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c4d/index.m3u8
+#EXTINF:-1, LahdenPelicans-Tappara
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c46/index.m3u8
+#EXTINF:-1, RoKi-OulunKärpät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674a9c10fb9e1d37d5008c6a/index.m3u8
