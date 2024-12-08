@@ -1,29 +1,7 @@
 #EXTM3U
 #EXTINF:-1, HCDavos-HCLugano
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, SønderjyskE-Herlev
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66de80033453a55a1f560044/index.m3u8
-#EXTINF:-1, Herning-Rødovre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66de80043453a55a1f560046/index.m3u8
-#EXTINF:-1, SaiPa-LahdenPelicans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008ff1/index.m3u8
-#EXTINF:-1, PorinÄssät-Ilves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674bed8ffb9e1d37d5009019/index.m3u8
-#EXTINF:-1, KalevanPallo-RoKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674bed8e171a4a676e69de25/index.m3u8
-#EXTINF:-1, HPK-TurunPalloseura
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8f171a4a676e69de56/index.m3u8
-#EXTINF:-1, DragonsdeRouen-Caen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6743f9ce925107694520687b.m3u8
-#EXTINF:-1, Cergy-Pontoise-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6743f9ce74345b0eaa499ada.m3u8
-#EXTINF:-1, Strasbourg-Amiens
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f9ce9251076945206877/index.m3u8
-#EXTINF:-1, HC74-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9ce925107694520687d.m3u8
-#EXTINF:-1, PorvoonHunters-SaPKo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674bed8efb9e1d37d5008efe/index.m3u8
-#EXTINF:-1, LempäälänKisa-RaaheK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008eea/index.m3u8
-#EXTINF:-1, Haukat-Peli-PojatHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674bed8efb9e1d37d5008ee2/index.m3u8
+#EXTINF:-1, HYRI-EVUTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f95/index.m3u8
+#EXTINF:-1, PorvoonHunters-Peliitat
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f97/index.m3u8
