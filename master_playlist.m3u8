@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Halifax-Acadie-Bathurst
-https://media-service.fanreachdata.io/edge/lhjmq/8195e6524fe64cde9ab4b7867f35eae7.m3u8
-#EXTINF:-1, Val-d'Or-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/037e0e1083c8435f96caf2088c5ca60c.m3u8
-#EXTINF:-1, Moncton-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/88fd40646fe94ec59e08bcd52836d03d.m3u8
-#EXTINF:-1, Shawinigan-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/46cc2bc637974be3a880ad23af90610a.m3u8
-#EXTINF:-1, Drummond.-Blainville
-https://media-service.fanreachdata.io/edge/lhjmq/1f9d7c18843940c08916fa1127720562.m3u8
-#EXTINF:-1, BarrieColts-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/2dd75df0885444679194699e4e720ba9.m3u8
 #EXTINF:-1, ErieOtters-Brampton
 https://media-service.fanreachdata.io/edge/ohl/8e4646e0ddc44888b8be5ab5ee738fed.m3u8
-#EXTINF:-1, Flint-NorthBayBattalion
-https://media-service.fanreachdata.io/edge/ohl/b34d72e8de1a4b7083ffb8b80def1b5e.m3u8
 #EXTINF:-1, Brantford-Niagara
 https://media-service.fanreachdata.io/edge/ohl/69538fb8e6d44fabbcf2c220837d763d.m3u8
 #EXTINF:-1, Guelph-Peterborough
 https://media-service.fanreachdata.io/edge/ohl/81b04f607b8e44d09fd9f344c3a8e9c7.m3u8
 #EXTINF:-1, Saginaw-WindsorSpitfires
 https://media-service.fanreachdata.io/edge/ohl/b662a6f0fa644cd1ac643f2ea1b0e256.m3u8
+#EXTINF:-1, Shawinigan-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/46cc2bc637974be3a880ad23af90610a.m3u8
+#EXTINF:-1, Drummond.-Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/1f9d7c18843940c08916fa1127720562.m3u8
 #EXTINF:-1, Stonehill-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, ReginaPats-Edmonton
