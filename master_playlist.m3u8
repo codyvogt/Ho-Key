@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Soo-OwenSoundAttack
-https://media-service.fanreachdata.io/edge/ohl/103bf08b5b1a4abb9c11666c76e9780a.m3u8
-#EXTINF:-1, Flint-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/9efc42ad8b71431fa28ca0d67d0f0fdd.m3u8
-#EXTINF:-1, Kitchener-Windsor
-https://media-service.fanreachdata.io/edge/ohl/58f45f062c7a4c3bb94790d63ca44bc0.m3u8
-#EXTINF:-1, Oshawa-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/9aeb7686796f4f039df0d37eb868748e.m3u8
-#EXTINF:-1, Cornell-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Clarkson-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, UMD-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4ca2db09-b02e-4052-b9ff-be3a1772ab9b-hls/master/4ca2db09-b02e-4052-b9ff-be3a1772ab9b-hls.m3u8
-#EXTINF:-1, Omaha-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/52d9c3a3-0c41-4180-aafc-4f5cf850c6ff-hls/master/52d9c3a3-0c41-4180-aafc-4f5cf850c6ff-hls.m3u8
-#EXTINF:-1, UAA-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Brown-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, NorthDakota-Miami
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5479eede-04da-4746-9caf-2e35bb46917a-hls/master/5479eede-04da-4746-9caf-2e35bb46917a-hls.m3u8
-#EXTINF:-1, BGSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, CedarRapids-USAU18
-fluidtv.php?channel=https://dp3o9ku1s9a34.cloudfront.net/e975951ab9b6d292c893b966b499a591/0_hd_hls.m3u8
-#EXTINF:-1, Connecticut-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, RedDeer-SwiftCurrent
 https://media-service.fanreachdata.io/edge/whl/0bb58ab3d46146a69105ea893b86bcff.m3u8
 #EXTINF:-1, PrinceAlbert-Brandon
