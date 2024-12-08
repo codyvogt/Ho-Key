@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Gap-Bordeaux
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/673184cf1dc6516e089a1ff9.m3u8
-#EXTINF:-1, Hormadid'Anglet-Rouen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/673184cf1dc6516e089a1ffb.m3u8
-#EXTINF:-1, Meudon-Amiens2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f9cf92510769452068a9/index.m3u8
-#EXTINF:-1, Annecy-Clermont-Ferrand
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f9ce925107694520688b/index.m3u8
-#EXTINF:-1, Strasbourg-Amiens
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f9ce9251076945206877/index.m3u8
-#EXTINF:-1, HC74-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9ce925107694520687d.m3u8
 #EXTINF:-1, Rouyn-Noranda-Chtown
 https://media-service.fanreachdata.io/edge/lhjmq/de112baf9b624661a545adf9192d94f1.m3u8
 #EXTINF:-1, Halifax-Acadie-Bathurst
@@ -27,6 +17,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/1f9d7c18843940c08916fa112772056
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67444aa274345b0eaa499dab/index.m3u8
 #EXTINF:-1, EatersLimburg-HYC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67444aa39251076945206c1c/index.m3u8
+#EXTINF:-1, Annecy-Clermont-Ferrand
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f9ce925107694520688b/index.m3u8
 #EXTINF:-1, SarniaSting-Kingston
 https://media-service.fanreachdata.io/edge/ohl/80903ba1124749238a04c62dda217cd2.m3u8
 #EXTINF:-1, BarrieColts-Ottawa67's
@@ -41,6 +33,8 @@ https://media-service.fanreachdata.io/edge/ohl/69538fb8e6d44fabbcf2c220837d763d.
 https://media-service.fanreachdata.io/edge/ohl/81b04f607b8e44d09fd9f344c3a8e9c7.m3u8
 #EXTINF:-1, Saginaw-WindsorSpitfires
 https://media-service.fanreachdata.io/edge/ohl/b662a6f0fa644cd1ac643f2ea1b0e256.m3u8
+#EXTINF:-1, HC74-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9ce925107694520687d.m3u8
 #EXTINF:-1, N‰‰d‰t-Kiekko-VantaaIt‰
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69ddcf/index.m3u8
 #EXTINF:-1, Stonehill-Maine
