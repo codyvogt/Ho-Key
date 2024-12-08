@@ -3,31 +3,37 @@
 fluidtv.php?channel=https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, SKAStPetersburg-Barys
 fluidtv.php?channel=https://ucdn.beetv.kz/btv/live/hls/000003038.m3u8
-#EXTINF:-1, Boden-KirunaCityHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5994171a4a676e69e2aa/index.m3u8
-#EXTINF:-1, UmeåDragons-Vilhelmina
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d533a171a4a676e69e22a/index.m3u8
-#EXTINF:-1, SunderbySK-KirunaAIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5fee171a4a676e69e39c/index.m3u8
-#EXTINF:-1, KilsAIK-ÅmålsSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c4d171a4a676e69e352/index.m3u8
-#EXTINF:-1, Hammarö-KarlskogaIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5d35171a4a676e69e366/index.m3u8
-#EXTINF:-1, Sölvesborg-Vänersborg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d516a171a4a676e69e20a/index.m3u8
-#EXTINF:-1, OlofströmsIK-Gislaved
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c1c171a4a676e69e325/index.m3u8
-#EXTINF:-1, KristianstadsIK-Motala
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c1c171a4a676e69e321/index.m3u8
-#EXTINF:-1, ArvikaHC-Munkfors
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d62a7171a4a676e69e3c7/index.m3u8
-#EXTINF:-1, ÄssätAkatemia-RNK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008fa7/index.m3u8
-#EXTINF:-1, HarjunKiekko-HIFKII
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f94/index.m3u8
-#EXTINF:-1, EVU-Karhu-KissatAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f89/index.m3u8
-#EXTINF:-1, HYRI-EVUTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f95/index.m3u8
-#EXTINF:-1, PorvoonHunters-Peliitat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f97/index.m3u8
+#EXTINF:-1, HCPanter-HockeyPunks
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670519de6b135e19484e113a/index.m3u8
+#EXTINF:-1, Jukurit-VaasanSport
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674bed8e171a4a676e69de0d/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-Kärpät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674bed8ffb9e1d37d5008feb/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-Jokerit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69de1a/index.m3u8
+#EXTINF:-1, SaiPa-LahdenPelicans
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008ff1/index.m3u8
+#EXTINF:-1, PorinÄssät-Ilves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5009019/index.m3u8
+#EXTINF:-1, KalevanPallo-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69de25/index.m3u8
+#EXTINF:-1, HPK-TurunPalloseura
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8f171a4a676e69de56/index.m3u8
+#EXTINF:-1, KarlovyVary-KometaBrno
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b1155a55a234fbca86c24/index.m3u8
+#EXTINF:-1, SkellefteåAIK-Djurgården
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5994171a4a676e69e2ca/index.m3u8
+#EXTINF:-1, LuleåHF-AIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c4d171a4a676e69e355/index.m3u8
+#EXTINF:-1, RögleBK-VäxjöLakers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d6730171a4a676e69e412/index.m3u8
+#EXTINF:-1, LinköpingHC-Södertälje
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d6730171a4a676e69e414/index.m3u8
+#EXTINF:-1, AlmtunaIS-MoDoHockey
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d4eb1171a4a676e69e1ce/index.m3u8
+#EXTINF:-1, HV71-VästeråsIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d6818171a4a676e69e41e/index.m3u8
+#EXTINF:-1, FrölundaHC-IFMalmö
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d6818171a4a676e69e41b/index.m3u8
+#EXTINF:-1, KölnerJung.-Mannheim
+fluidtv.php?channel=https://pool-3.cdn.sporttotal.tv/out/v1/9ed5ba17effc462aa7cf99ecc8e588fd/index.m3u8
