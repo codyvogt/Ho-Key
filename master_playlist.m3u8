@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1, EVU-SibboWolfpack
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f10/index.m3u8
+#EXTINF:-1, KOOVEE-Hokkarit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f05/index.m3u8
+#EXTINF:-1, Kralupyn.V.-Roudnice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673b033daf94a25608ebe22f/index.m3u8
+#EXTINF:-1, Nov·Paka-Kutn·Hora
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673200fe2bab5f0222654b63/index.m3u8
