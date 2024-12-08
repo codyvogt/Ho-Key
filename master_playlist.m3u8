@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1, UMass-BostonUniversity
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, Denver-WesternMichigan
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7f3b73a4-a8ab-4e00-bf46-49f480a45664-hls/master/7f3b73a4-a8ab-4e00-bf46-49f480a45664-hls.m3u8
-#EXTINF:-1, ColoradoC-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, LongIsland-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, BSU-LakeSuperior
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
-#EXTINF:-1, STU-MichiganTech
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, FSU-NorthernMichigan
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Soo-OwenSoundAttack
+https://media-service.fanreachdata.io/edge/ohl/103bf08b5b1a4abb9c11666c76e9780a.m3u8
+#EXTINF:-1, Flint-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/9efc42ad8b71431fa28ca0d67d0f0fdd.m3u8
+#EXTINF:-1, Kitchener-Windsor
+https://media-service.fanreachdata.io/edge/ohl/58f45f062c7a4c3bb94790d63ca44bc0.m3u8
+#EXTINF:-1, Oshawa-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/9aeb7686796f4f039df0d37eb868748e.m3u8
 #EXTINF:-1, Cornell-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Clarkson-Dartmouth
@@ -33,14 +27,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northe
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5479eede-04da-4746-9caf-2e35bb46917a-hls/master/5479eede-04da-4746-9caf-2e35bb46917a-hls.m3u8
 #EXTINF:-1, BGSU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, Soo-OwenSoundAttack
-https://media-service.fanreachdata.io/edge/ohl/103bf08b5b1a4abb9c11666c76e9780a.m3u8
-#EXTINF:-1, Flint-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/9efc42ad8b71431fa28ca0d67d0f0fdd.m3u8
-#EXTINF:-1, Kitchener-Windsor
-https://media-service.fanreachdata.io/edge/ohl/58f45f062c7a4c3bb94790d63ca44bc0.m3u8
-#EXTINF:-1, Oshawa-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/9aeb7686796f4f039df0d37eb868748e.m3u8
 #EXTINF:-1, CedarRapids-USAU18
 fluidtv.php?channel=https://dp3o9ku1s9a34.cloudfront.net/e975951ab9b6d292c893b966b499a591/0_hd_hls.m3u8
 #EXTINF:-1, Connecticut-Maine
