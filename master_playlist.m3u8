@@ -3,19 +3,5 @@
 fluidtv.php?channel=https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, SKAStPetersburg-Barys
 fluidtv.php?channel=https://ucdn.beetv.kz/btv/live/hls/000003038.m3u8
-#EXTINF:-1, Nynäshamn-Mariehamn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d638ffb9e1d37d5009617/index.m3u8
-#EXTINF:-1, GnestaIK-MälaröHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d62a6171a4a676e69e3b6/index.m3u8
-#EXTINF:-1, Ducsd'Angers-Gap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9ce9251076945206879.m3u8
-#EXTINF:-1, DragonsdeRouen-Caen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9ce925107694520687b.m3u8
-#EXTINF:-1, Cergy-Pontoise-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9ce74345b0eaa499ada.m3u8
-#EXTINF:-1, Strasbourg-Amiens
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f9ce9251076945206877/index.m3u8
-#EXTINF:-1, HC74-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9ce925107694520687d.m3u8
 #EXTINF:-1, HCChrudim-HCTábor
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6748080e20730931ae5e672e/index.m3u8
