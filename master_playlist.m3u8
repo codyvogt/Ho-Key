@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rouyn-Noranda-Chtown
-https://media-service.fanreachdata.io/edge/lhjmq/de112baf9b624661a545adf9192d94f1.m3u8
 #EXTINF:-1, Halifax-Acadie-Bathurst
 https://media-service.fanreachdata.io/edge/lhjmq/8195e6524fe64cde9ab4b7867f35eae7.m3u8
 #EXTINF:-1, Val-d'Or-CapeBreton
@@ -11,10 +9,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/88fd40646fe94ec59e08bcd52836d03
 https://media-service.fanreachdata.io/edge/lhjmq/46cc2bc637974be3a880ad23af90610a.m3u8
 #EXTINF:-1, Drummond.-Blainville
 https://media-service.fanreachdata.io/edge/lhjmq/1f9d7c18843940c08916fa1127720562.m3u8
-#EXTINF:-1, EatersLimburg-HYC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67444aa39251076945206c1c/index.m3u8
-#EXTINF:-1, Annecy-Clermont-Ferrand
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743f9ce925107694520688b/index.m3u8
 #EXTINF:-1, SarniaSting-Kingston
 https://media-service.fanreachdata.io/edge/ohl/80903ba1124749238a04c62dda217cd2.m3u8
 #EXTINF:-1, BarrieColts-Ottawa67's
