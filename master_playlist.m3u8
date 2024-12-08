@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, KunlunRedStar-Sibir
-fluidtv.php?channel=https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1, SKAStPetersburg-Barys
-fluidtv.php?channel=https://ucdn.beetv.kz/btv/live/hls/000003038.m3u8
 #EXTINF:-1, HCChrudim-HCTábor
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6748080e20730931ae5e672e/index.m3u8
