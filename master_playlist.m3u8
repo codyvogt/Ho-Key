@@ -1,19 +1,37 @@
 #EXTM3U
 #EXTINF:-1, HCDavos-HCLugano
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, PaimionHaka-Kiekkohait
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f56/index.m3u8
-#EXTINF:-1, Ahmat-TornionIHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69ddf7/index.m3u8
-#EXTINF:-1, KemijärvenKiekko-Et-Po
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69ddf9/index.m3u8
-#EXTINF:-1, KUKIHT-NivalaCowboys
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69ddfe/index.m3u8
-#EXTINF:-1, PESÄImatra-ParruHT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f48/index.m3u8
-#EXTINF:-1, IKKronan-APV
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f4b/index.m3u8
-#EXTINF:-1, EVU-SibboWolfpack
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f10/index.m3u8
-#EXTINF:-1, KOOVEE-Hokkarit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f05/index.m3u8
+#EXTINF:-1, Örnsköldsvik-Östersund
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c1c171a4a676e69e32e/index.m3u8
+#EXTINF:-1, UmeåDragons-Vilhelmina
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d533a171a4a676e69e22a/index.m3u8
+#EXTINF:-1, SunderbySK-KirunaAIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674d5fee171a4a676e69e39c/index.m3u8
+#EXTINF:-1, KilsAIK-ÅmålsSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c4d171a4a676e69e352/index.m3u8
+#EXTINF:-1, Hammarö-KarlskogaIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5d35171a4a676e69e366/index.m3u8
+#EXTINF:-1, Sölvesborg-Vänersborg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674d516a171a4a676e69e20a/index.m3u8
+#EXTINF:-1, OlofströmsIK-Gislaved
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c1c171a4a676e69e325/index.m3u8
+#EXTINF:-1, KristianstadsIK-Motala
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d5c1c171a4a676e69e321/index.m3u8
+#EXTINF:-1, ArvikaHC-Munkfors
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d62a7171a4a676e69e3c7/index.m3u8
+#EXTINF:-1, EVU-Karhu-KissatAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f89/index.m3u8
+#EXTINF:-1, HYRI-EVUTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f95/index.m3u8
+#EXTINF:-1, PorvoonHunters-Peliitat
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f97/index.m3u8
+#EXTINF:-1, StorumansIK-Brunflo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674d5081fb9e1d37d5009466/index.m3u8
+#EXTINF:-1, JärnaSK-KallhällsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/671f3c5de689ca0066fa0d04/index.m3u8
+#EXTINF:-1, Sollentuna-Sundbyberg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670b62d56e0aae1e6b07106f/index.m3u8
+#EXTINF:-1, TPSAkatemia-SaloHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674bed8ffb9e1d37d50090f1/index.m3u8
+#EXTINF:-1, KalPaTeam-KärpätAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674bed8ffb9e1d37d50090e7/index.m3u8
