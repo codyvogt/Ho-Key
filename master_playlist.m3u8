@@ -1,5 +1,19 @@
 #EXTM3U
 #EXTINF:-1, HCDavos-HCLugano
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, HCChrudim-HCTábor
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6748080e20730931ae5e672e/index.m3u8
+#EXTINF:-1, PaimionHaka-Kiekkohait
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8ffb9e1d37d5008f56/index.m3u8
+#EXTINF:-1, Ahmat-TornionIHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69ddf7/index.m3u8
+#EXTINF:-1, KemijärvenKiekko-Et-Po
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69ddf9/index.m3u8
+#EXTINF:-1, KUKIHT-NivalaCowboys
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8e171a4a676e69ddfe/index.m3u8
+#EXTINF:-1, PESÄImatra-ParruHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f48/index.m3u8
+#EXTINF:-1, IKKronan-APV
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f4b/index.m3u8
+#EXTINF:-1, EVU-SibboWolfpack
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f10/index.m3u8
+#EXTINF:-1, KOOVEE-Hokkarit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674bed8efb9e1d37d5008f05/index.m3u8
