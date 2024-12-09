@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rungsted-Frederikshavn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66e058c2cc7d657c51069547/index.m3u8
-#EXTINF:-1, VäsbyIKHK-Enköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674eab18171a4a676e69e5b8/index.m3u8
-#EXTINF:-1, Trångsund-Traneberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674ea3d2fb9e1d37d50097df/index.m3u8
 #EXTINF:-1, Sollentuna-Femingsberg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674eace4171a4a676e69e5ba/index.m3u8
 #EXTINF:-1, BodensHF-KalixHC
@@ -21,3 +15,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674eaa2cfb9e1d37d5009
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674eb7c7fb9e1d37d500980b/index.m3u8
 #EXTINF:-1, SpångaISIK-JärfällaHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674eb16e171a4a676e69e5c2/index.m3u8
+#EXTINF:-1, Trångsund-Traneberg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674ea3d2fb9e1d37d50097df/index.m3u8
