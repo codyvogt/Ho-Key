@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Marseille-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/673427ce8851d826adae5143.m3u8
-#EXTINF:-1, Cergy-Pontoise-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/673427ce8851d826adae5145.m3u8
+#EXTINF:-1, LongIsland-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
