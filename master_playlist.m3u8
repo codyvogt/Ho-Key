@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1, LongIsland-Princeton
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, MooseJaw-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/92b9863e54164bbcb23017b9e8817394.m3u8
+#EXTINF:-1, Saskatoon-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/4b11f315f5734cd89776f2722b1692d7.m3u8
+#EXTINF:-1, WenatcheeWild-Seattle
+https://media-service.fanreachdata.io/edge/whl/83adfeba5d9b4ed5a5b00c9068c711d4.m3u8
