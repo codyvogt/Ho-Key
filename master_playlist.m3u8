@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1, OlofströmsIK-Tingsryd
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67500035171a4a676e69e704/index.m3u8
-#EXTINF:-1, HanhalsIF-Oskarshamn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67500a30fb9e1d37d5009938/index.m3u8
-#EXTINF:-1, Kungälv-Troja-Ljungby
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67500947171a4a676e69e724/index.m3u8
-#EXTINF:-1, SollefteåHK-ÅngeIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672f063d1dc6516e089a1a6a/index.m3u8
-#EXTINF:-1, LidingöVikings-Tumba
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674fff4d171a4a676e69e700/index.m3u8
-#EXTINF:-1, SegeltorpsIF-Traneberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674fff4d171a4a676e69e701/index.m3u8
-#EXTINF:-1, KirunaAIF-KirunaCity
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6750068f171a4a676e69e71a/index.m3u8
-#EXTINF:-1, FOCFarstaIF-Mariefred
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ff63afb9e1d37d50098f8/index.m3u8
-#EXTINF:-1, ÖsteråkerVikings-Kista
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ffd7cfb9e1d37d5009916/index.m3u8
-#EXTINF:-1, UddevallaHC-LysekilsHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674fefe1fb9e1d37d50098c0/index.m3u8
-#EXTINF:-1, JonstorpsIF-MörrumsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ffd7cfb9e1d37d500991a/index.m3u8
-#EXTINF:-1, HCDalen-VästerviksIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6750068f171a4a676e69e71c/index.m3u8
-#EXTINF:-1, MjölbyHC-VitaHästen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67500a30fb9e1d37d500993d/index.m3u8
 #EXTINF:-1, NyköpingsAIK-Skarpnäck
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ff0c9171a4a676e69e6b8/index.m3u8
 #EXTINF:-1, TullingeTPHC-Kallhäll
@@ -41,6 +15,8 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/673427ce8851d826adae5143.m3u8
 #EXTINF:-1, Cergy-Pontoise-Anglet
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/673427ce8851d826adae5145.m3u8
+#EXTINF:-1, KirunaAIF-KirunaCity
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6750068f171a4a676e69e71a/index.m3u8
 #EXTINF:-1, SolnaSK-BålstaHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67500779fb9e1d37d500992c/index.m3u8
 #EXTINF:-1, Karhu-Kissat-Storm
