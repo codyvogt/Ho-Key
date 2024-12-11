@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1, HerlevEagles-Aalborg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66e2e871a25ba84eb5287028/index.m3u8
-#EXTINF:-1, Denmark-Norway
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6751c84bc412906a2afce80b/index.m3u8
+#EXTINF:-1, KovlandsIshF-ÅngeIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67514f70171a4a676e69e80f/index.m3u8
+#EXTINF:-1, ÖrnsköldsvikHF-Njurunda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6751509c171a4a676e69e81c/index.m3u8
+#EXTINF:-1, SkärgårdensSK-Lerum
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675188dc9d01ee43bd69c487/index.m3u8
+#EXTINF:-1, IFKTumbaIK-Hammarby
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67514e8ffb9e1d37d5009a53/index.m3u8
+#EXTINF:-1, JärnaSK-SollentunaHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675154b6171a4a676e69e845/index.m3u8
+#EXTINF:-1, KålleredSK-Kungsbacka
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6751509c171a4a676e69e81b/index.m3u8
+#EXTINF:-1, StenungsundHF-Härryda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67515759171a4a676e69e855/index.m3u8
+#EXTINF:-1, Nantes-Neuilly-sur-Marne
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6747ee4d20730931ae5e6716/index.m3u8
+#EXTINF:-1, KTHIF-HammarbyIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675146a6171a4a676e69e7f7/index.m3u8
+#EXTINF:-1, Como-ValdifiemmeHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716363f90eeba7bde92d0b1/index.m3u8
