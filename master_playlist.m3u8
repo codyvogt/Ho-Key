@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Sweden-CzechRepublic
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674fe210171a4a676e69e6a2/index.m3u8
+#EXTINF:-1, Finland-UnitedStates
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674fe210171a4a676e69e69c/index.m3u8
