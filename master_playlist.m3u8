@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, HerlevEagles-Aalborg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66e2e871a25ba84eb5287028/index.m3u8
+#EXTINF:-1, Denmark-Norway
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6751c84bc412906a2afce80b/index.m3u8
