@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Muskegon-USNTDPU18
-fluidtv.php?channel=https://d2spsr3x37asp3.cloudfront.net/585266e25a573ab175260fa733c488ec/0_hd_hls.m3u8
-#EXTINF:-1, Warrantti-MIFTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674fe211171a4a676e69e6b4/index.m3u8
 #EXTINF:-1, Finland-UnitedStates
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674fe210171a4a676e69e69c/index.m3u8
