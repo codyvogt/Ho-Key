@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1, Brantford-Brampton
+https://media-service.fanreachdata.io/edge/ohl/08a9189524824ed0b3ce804cf652567b.m3u8
+#EXTINF:-1, Guelph-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/66d2b727cd244f9a847db0883ceb931e.m3u8
+#EXTINF:-1, Flint-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/ef1908a6616f4d958575a1d6318e596a.m3u8
+#EXTINF:-1, Sudbury-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/edc11d3652294bf3aa5b0843ff537e4e.m3u8
+#EXTINF:-1, BostonU-Massachusetts
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Saskatoon-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/95bd754b14864bd19eff7c8d76153967.m3u8
+#EXTINF:-1, Portland-Everett
+https://media-service.fanreachdata.io/edge/whl/9400ea19bd194161aa0fdcb28bb3972a.m3u8
