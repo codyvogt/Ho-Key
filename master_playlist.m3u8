@@ -1,23 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Italy-Hungary
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67585c35fe8265670b03bfc0/index.m3u8
-#EXTINF:-1, IFSundsvall-Östersund
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67515679171a4a676e69e84f/index.m3u8
-#EXTINF:-1, TörebodaHF-LN70HC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67529583c412906a2afce90d/index.m3u8
-#EXTINF:-1, TAIFLöfstad-TibroIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752a21c9574b23fd5309674/index.m3u8
-#EXTINF:-1, Bressanone-FassaFalcons
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163641d24da32d7de67485/index.m3u8
-#EXTINF:-1, EppanAppiano-HCFeltre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716364090eeba7bde92d0b3/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Alleghe
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163641d24da32d7de67487/index.m3u8
-#EXTINF:-1, HockeyPergine-Valpellice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163642d24da32d7de67489/index.m3u8
-#EXTINF:-1, HCMVVarese-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716364390eeba7bde92d0b5/index.m3u8
-#EXTINF:-1, BrinkensIF-JärnaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67529826c412906a2afce910/index.m3u8
-#EXTINF:-1, PiTa-ApolloRangers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6751338e171a4a676e69e7b8/index.m3u8
+#EXTINF:-1, Niagara-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/1ee0d935d5da487aa07bba3056514f99.m3u8
+#EXTINF:-1, Oshawa-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/4e240e086cbe48f2a6914a8a8ce2b6f2.m3u8
+#EXTINF:-1, Erie-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/7b1db06f14e54aaf9f479c09cb32fc71.m3u8
