@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, SpainU18-RomaniaU18
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675856175702965fbac5f195/index.m3u8
-#EXTINF:-1, Hungary-Italy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675856175702965fbac5f197/index.m3u8
-#EXTINF:-1, SaiPa-KouvolanKooKoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850ec412906a2afce8dd/index.m3u8
+#EXTINF:-1, Italy-Hungary
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675855d4fe8265670b03bf86/index.m3u8
 #EXTINF:-1, RovaniemenKiekko-HIFK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850ec412906a2afce8cd/index.m3u8
 #EXTINF:-1, VaasanSport-K-Espoo
