@@ -1,38 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Italy-Hungary
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675855d4fe8265670b03bf86/index.m3u8
-#EXTINF:-1, Kvarnsveden-Långshyttan
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6753efcd9574b23fd5309a30/index.m3u8
-#EXTINF:-1, JärvsöIK-IKHuge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753e541c412906a2afcec0a/index.m3u8
-#EXTINF:-1, NäldensIF-JärpensIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753e4629574b23fd5309a10/index.m3u8
-#EXTINF:-1, NoraHC-VästeråsPickels
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753e622c412906a2afcec14/index.m3u8
-#EXTINF:-1, SkutskärsSK-Lindefallet
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753febe9574b23fd5309a5b/index.m3u8
-#EXTINF:-1, HerlevEagles-Rungsted
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66e541ae69132e7e46655ed5/index.m3u8
 #EXTINF:-1, AalborgPirates-Herning
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66e541af83d9db296f96e55d/index.m3u8
-#EXTINF:-1, Rødovre-EsbjergEnergy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66e541af69132e7e46655ed9/index.m3u8
-#EXTINF:-1, AIK-MoDoHockey
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753fb3ac412906a2afcec7a/index.m3u8
-#EXTINF:-1, HudiksvallsHC-Borlänge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753f18f9574b23fd5309a33/index.m3u8
-#EXTINF:-1, ÅngeIK-KovlandsIshF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753f432c412906a2afcec46/index.m3u8
-#EXTINF:-1, NorrtäljeIK-SpångaIS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753e7e5c412906a2afcec1a/index.m3u8
-#EXTINF:-1, Flemingsberg-Segeltorp
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753ec49c412906a2afcec20/index.m3u8
-#EXTINF:-1, GötaTranebergIK-Linden
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753fb3ac412906a2afcec76/index.m3u8
+#EXTINF:-1, NäldensIF-JärpensIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753e4629574b23fd5309a10/index.m3u8
 #EXTINF:-1, HammarbyIF-LidingöHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6753e7e5c412906a2afcec18/index.m3u8
-#EXTINF:-1, AlvestaSK-HCDalen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6753fb3ac412906a2afcec74/index.m3u8
 #EXTINF:-1, Gap-Cergy-Pontoise
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67381c50af94a25608ebd6f7.m3u8
 #EXTINF:-1, Chamonix-Rouen
