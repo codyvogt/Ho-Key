@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Italy-Hungary
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675855d4fe8265670b03bf86/index.m3u8
-#EXTINF:-1, RovaniemenKiekko-HIFK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850ec412906a2afce8cd/index.m3u8
-#EXTINF:-1, VaasanSport-K-Espoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6752850ec412906a2afce8db/index.m3u8
-#EXTINF:-1, TapparaTampere-Jokerit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6752850ec412906a2afce8d4/index.m3u8
+#EXTINF:-1, HCVítkovice-Liberec
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6751a5059574b23fd5309536/index.m3u8
