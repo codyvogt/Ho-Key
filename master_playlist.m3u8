@@ -1,7 +1,31 @@
 #EXTM3U
 #EXTINF:-1, Italy-Hungary
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675855d4fe8265670b03bf86/index.m3u8
-#EXTINF:-1, Jihlava-MountfieldHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67484054d31a43159862ec98/index.m3u8
-#EXTINF:-1, SpartaPraha-KarlovyVary
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ca925c75f8964ad3e98f8/index.m3u8
+#EXTINF:-1, SønderjyskE-Odense
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66e541ae69132e7e46655ed7/index.m3u8
+#EXTINF:-1, HerlevEagles-Rungsted
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66e541ae69132e7e46655ed5/index.m3u8
+#EXTINF:-1, AalborgPirates-Herning
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66e541af83d9db296f96e55d/index.m3u8
+#EXTINF:-1, Rødovre-EsbjergEnergy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66e541af69132e7e46655ed9/index.m3u8
+#EXTINF:-1, Italy-Poland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a6899251076945206f3a/index.m3u8
+#EXTINF:-1, LatviaU16-HKPrizma
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675719dc5702965fbac5f05f/index.m3u8
+#EXTINF:-1, LeksandsIF-Skellefteå
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753f7b6c412906a2afcec68/index.m3u8
+#EXTINF:-1, MoraIK-LuleåHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6753f979c412906a2afcec6e/index.m3u8
+#EXTINF:-1, Djurgården-Björklöven
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753eeec9574b23fd5309a2b/index.m3u8
+#EXTINF:-1, RögleBK-LinköpingHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753fddd9574b23fd5309a56/index.m3u8
+#EXTINF:-1, MalmöRedhawks-Örebro
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6753fddd9574b23fd5309a55/index.m3u8
+#EXTINF:-1, AIK-MoDoHockey
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753fb3ac412906a2afcec7a/index.m3u8
+#EXTINF:-1, TechnikaBrno-Šumperk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f2aaee58dae92cef9ea258/index.m3u8
+#EXTINF:-1, HCOlomouc-HCPoruba
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673ecd8ec75f8964ad3e9ae6/index.m3u8
