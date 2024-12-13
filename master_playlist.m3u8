@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Charleroi-Antwerp
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674ae22dfb9e1d37d5008ddf/index.m3u8
 #EXTINF:-1, Acadie-Bathurst-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/9eb519cc5eff41fa95b39b7b631ad919.m3u8
 #EXTINF:-1, Halifax-Charlottetown
