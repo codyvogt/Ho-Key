@@ -1,3 +1,29 @@
 #EXTM3U
 #EXTINF:-1, Italy-Hungary
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675855d4fe8265670b03bf86/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675855d4fe8265670b03bf86/index.m3u8
+#EXTINF:-1, Switzerland-Finland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850e9574b23fd5309627/index.m3u8
+#EXTINF:-1, Finland-Sweden
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6752850e9574b23fd5309616/index.m3u8
+#EXTINF:-1, VaasanSport-K-Espoo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6752850ec412906a2afce8db/index.m3u8
+#EXTINF:-1, TapparaTampere-Jokerit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6752850ec412906a2afce8d4/index.m3u8
+#EXTINF:-1, Raahe-Kiekko-MUIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850ec412906a2afce884/index.m3u8
+#EXTINF:-1, PorvoonHunters-FPS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850ec412906a2afce886/index.m3u8
+#EXTINF:-1, KeKi-LaserHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850ec412906a2afce8a8/index.m3u8
+#EXTINF:-1, Jää-Ahmat-KelA
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6752850ec412906a2afce890/index.m3u8
+#EXTINF:-1, JPK-Hela-Kiekko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850ec412906a2afce8b1/index.m3u8
+#EXTINF:-1, ViikingitHelsinki-GrIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6752850ec412906a2afce88a/index.m3u8
+#EXTINF:-1, MalaxIF-KurikanRyhti
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850ec412906a2afce8a4/index.m3u8
+#EXTINF:-1, Switzerland-Czechia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850ec412906a2afce88f/index.m3u8
+#EXTINF:-1, WarriorsBrno-ZlínB
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6745650d74345b0eaa499ecb/index.m3u8
