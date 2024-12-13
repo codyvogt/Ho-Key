@@ -37,3 +37,39 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8df2aec-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2bab6703-6d19-4023-8416-3405654c20cf-hls/master/2bab6703-6d19-4023-8416-3405654c20cf-hls.m3u8
 #EXTINF:-1, Denver-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls/master/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls.m3u8
+#EXTINF:-1, BarrieColts-Brantford
+https://media-service.fanreachdata.io/edge/ohl/e2b7715ec9f64e5bb074d9b9c8fdbc54.m3u8
+#EXTINF:-1, Peterborough-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/fa19e408f0ec4b51bcc2ac08938ee3f8.m3u8
+#EXTINF:-1, Kingston-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/12bff66cf4424e2b8469e0862434f9aa.m3u8
+#EXTINF:-1, Windsor-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/09c513d3d89a4cfa884a45ec794889a4.m3u8
+#EXTINF:-1, NorthBay-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/d53274e3b3fb4292b4911b71e8227620.m3u8
+#EXTINF:-1, Brampton-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/3e2f13f4979f49cf8a12c8e16024764d.m3u8
+#EXTINF:-1, OwenSound-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/f6a793e117bb4039986daeb3c5ac8da0.m3u8
+#EXTINF:-1, Niagara-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/c8bf07bbdd0044e9b227fdff3f54b577.m3u8
+#EXTINF:-1, Saginaw-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/606e21549d404100966abdd7b6ef9d30.m3u8
+#EXTINF:-1, MedicineHat-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/d4d1130f584e470693b55eb1f151cdc1.m3u8
+#EXTINF:-1, Saskatoon-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/7e49b25e52f3436abc15658f0ea5871a.m3u8
+#EXTINF:-1, Kamloops-CalgaryHitmen
+https://media-service.fanreachdata.io/edge/whl/ffc29ccba3614fe8b8d41f55f4db6ed5.m3u8
+#EXTINF:-1, RedDeer-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/2e437b624a4c40f2816b76de6101cf9f.m3u8
+#EXTINF:-1, PrinceGeorge-Portland
+https://media-service.fanreachdata.io/edge/whl/7219a944255e43cb8cac457cfb809a37.m3u8
+#EXTINF:-1, SpokaneChiefs-Seattle
+https://media-service.fanreachdata.io/edge/whl/38b4817146974017b5761478192e56de.m3u8
+#EXTINF:-1, KelownaRockets-Tri-City
+https://media-service.fanreachdata.io/edge/whl/62760a33c2134a4cbf7bd7975c0c962e.m3u8
+#EXTINF:-1, WenatcheeWild-Everett
+https://media-service.fanreachdata.io/edge/whl/49456d70e208458aa2dbb752fc66f8f4.m3u8
+#EXTINF:-1, Vancouver-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/f2c85dc8d9c5411080dc4543d8eed01c.m3u8
