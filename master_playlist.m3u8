@@ -5,3 +5,13 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6751c84dc412906a2afce
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850e9574b23fd530962f/index.m3u8
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850e9574b23fd5309627/index.m3u8
+#EXTINF:-1, CzechRepublic-Sweden
+fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:-1, France-Hungary
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6751c844c412906a2afce805/index.m3u8
+#EXTINF:-1, Japan-Denmark
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6751c846c412906a2afce807/index.m3u8
+#EXTINF:-1, Finland-Sweden
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850ec412906a2afce87e/index.m3u8
+#EXTINF:-1, Switzerland-Czechia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850ec412906a2afce88f/index.m3u8
