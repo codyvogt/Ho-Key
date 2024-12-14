@@ -3,11 +3,9 @@
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
 #EXTINF:-1, Kazakhstan-KHLWorld
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, UnitedStates-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6753d68fc412906a2afcebe2/index.m3u8
-#EXTINF:-1, Switzerland-Czechia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68fc412906a2afcebcf/index.m3u8
-#EXTINF:-1, Sweden-Finland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68fc412906a2afcebd6/index.m3u8
-#EXTINF:-1, Italy-SpainU18
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675856195702965fbac5f199/index.m3u8
+#EXTINF:-1, KometaBrno-Mountfield
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673d7c1454ba8d4ac5e1d69d/index.m3u8
+#EXTINF:-1, BenátkynadJizerou-Kolín
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674467ee9251076945206c92/index.m3u8
+#EXTINF:-1, Roudnicen.Labem-Slaný
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731f2ee4b866a4ddbb6c7d7/index.m3u8
