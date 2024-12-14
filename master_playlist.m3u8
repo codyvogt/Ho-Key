@@ -1,42 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Brampton-Sudbury
-https://media-service.fanreachdata.io/edge/ohl/3e2f13f4979f49cf8a12c8e16024764d.m3u8
-#EXTINF:-1, Chicoutimi-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/701b81a1e3e24d0382b64ccc8f5102fb.m3u8
-#EXTINF:-1, MedicineHat-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/d4d1130f584e470693b55eb1f151cdc1.m3u8
-#EXTINF:-1, Saskatoon-ReginaPats
-https://media-service.fanreachdata.io/edge/whl/7e49b25e52f3436abc15658f0ea5871a.m3u8
-#EXTINF:-1, Kamloops-CalgaryHitmen
-https://media-service.fanreachdata.io/edge/whl/ffc29ccba3614fe8b8d41f55f4db6ed5.m3u8
-#EXTINF:-1, RedDeer-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/2e437b624a4c40f2816b76de6101cf9f.m3u8
-#EXTINF:-1, PrinceGeorge-Portland
-https://media-service.fanreachdata.io/edge/whl/7219a944255e43cb8cac457cfb809a37.m3u8
-#EXTINF:-1, SpokaneChiefs-Seattle
-https://media-service.fanreachdata.io/edge/whl/38b4817146974017b5761478192e56de.m3u8
-#EXTINF:-1, KelownaRockets-Tri-City
-https://media-service.fanreachdata.io/edge/whl/62760a33c2134a4cbf7bd7975c0c962e.m3u8
-#EXTINF:-1, WenatcheeWild-Everett
-https://media-service.fanreachdata.io/edge/whl/49456d70e208458aa2dbb752fc66f8f4.m3u8
-#EXTINF:-1, Vancouver-VictoriaRoyals
-https://media-service.fanreachdata.io/edge/whl/f2c85dc8d9c5411080dc4543d8eed01c.m3u8
-#EXTINF:-1, MTU-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, LSSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, SCSU-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8df2aec-0485-447c-a677-eb8e061df9b1-hls/master/e8df2aec-0485-447c-a677-eb8e061df9b1-hls.m3u8
-#EXTINF:-1, Lindenwood-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2bab6703-6d19-4023-8416-3405654c20cf-hls/master/2bab6703-6d19-4023-8416-3405654c20cf-hls.m3u8
-#EXTINF:-1, Denver-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls/master/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls.m3u8
 #EXTINF:-1, Peli-Toverit-Sepot
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850e9574b23fd5309634/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850e9574b23fd5309634/index.m3u8
 #EXTINF:-1, HCEurajoki-PKW
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309837/index.m3u8
 #EXTINF:-1, RomaniaU18-Hungary
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67585619fe8265670b03bf8b/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67585619fe8265670b03bf8b/index.m3u8
 #EXTINF:-1, Skövde-MariestadBoIS
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554774c412906a2afcef8d/index.m3u8
 #EXTINF:-1, LahdenPelicans-HPK
