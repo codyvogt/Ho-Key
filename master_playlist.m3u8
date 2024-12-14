@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Peli-Toverit-Sepot
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6752850e9574b23fd5309634/index.m3u8
-#EXTINF:-1, HCEurajoki-PKW
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309837/index.m3u8
 #EXTINF:-1, RomaniaU18-Hungary
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67585619fe8265670b03bf8b/index.m3u8
 #EXTINF:-1, Skövde-MariestadBoIS
@@ -26,7 +22,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68ec412906a2afce
 #EXTINF:-1, OulunKärpät-HIFK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd530993b/index.m3u8
 #EXTINF:-1, RovaniemenKiekko-JYP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd5309920/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6753d68f9574b23fd5309920/index.m3u8
 #EXTINF:-1, TimråIK-BrynäsIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67554bda9574b23fd5309db3/index.m3u8
 #EXTINF:-1, MoraIK-LuleåHF
@@ -39,6 +35,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554f5dc412906a2afcf
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67570b90fe8265670b03be59/index.m3u8
 #EXTINF:-1, JYPAkatemia-SaPKo
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd53099ff/index.m3u8
+#EXTINF:-1, HCEurajoki-PKW
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309837/index.m3u8
 #EXTINF:-1, France-Italy
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674be2cefb9e1d37d5008e88/index.m3u8
 #EXTINF:-1, Everest-RoosaPanter
