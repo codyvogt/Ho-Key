@@ -17,8 +17,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/d795f5cb3b5f481dbe549154a933b31
 https://media-service.fanreachdata.io/edge/lhjmq/a14438668a2743faaeca92646b683a89.m3u8
 #EXTINF:-1, Charlottetown-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/1f4bdc4315fe4e88a8ebc0614ff52dec.m3u8
-#EXTINF:-1, Caen-Villard-de-Lans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674be2cefb9e1d37d5008e5e/index.m3u8
 #EXTINF:-1, Vermont-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Northeastern-Merrimack
