@@ -17,30 +17,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/d795f5cb3b5f481dbe549154a933b31
 https://media-service.fanreachdata.io/edge/lhjmq/a14438668a2743faaeca92646b683a89.m3u8
 #EXTINF:-1, Charlottetown-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/1f4bdc4315fe4e88a8ebc0614ff52dec.m3u8
-#EXTINF:-1, Kingston-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/7fcb4434eb5045909353e40cd7e22305.m3u8
-#EXTINF:-1, Saginaw-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/6f893663e33f4e5299b26e2383fa6383.m3u8
-#EXTINF:-1, OwenSound-Flint
-https://media-service.fanreachdata.io/edge/ohl/ba75ca4d16c64fab95cce5264ed7983f.m3u8
-#EXTINF:-1, London-WindsorSpitfires
-https://media-service.fanreachdata.io/edge/ohl/5dbba40207d1425181714036c70d3aea.m3u8
-#EXTINF:-1, Ottawa67's-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/553f9a238beb408eb0df985901bccb88.m3u8
 #EXTINF:-1, Caen-Villard-de-Lans
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674be2cefb9e1d37d5008e5e/index.m3u8
-#EXTINF:-1, Alleghe-HockeyComo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716364790eeba7bde92d0b9/index.m3u8
-#EXTINF:-1, FassaFalcons-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163647d24da32d7de67493/index.m3u8
-#EXTINF:-1, Annecy-Clermont-Ferrand
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674be2cefb9e1d37d5008e6c/index.m3u8
-#EXTINF:-1, Anglet2-Toulouse
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674be2cefb9e1d37d5008e66.m3u8
-#EXTINF:-1, Briançon2-Avignon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2cdfb9e1d37d5008e44.m3u8
-#EXTINF:-1, Chambéry-Grenoble
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674be2cffb9e1d37d5008ea2/index.m3u8
 #EXTINF:-1, Vermont-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Northeastern-Merrimack
@@ -61,3 +39,31 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af102c64-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls/master/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls.m3u8
 #EXTINF:-1, Merrimack-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, WenatcheeWild-Kelowna
+https://media-service.fanreachdata.io/edge/whl/d41b0f671984456fad30c6ca03a0ece0.m3u8
+#EXTINF:-1, MooseJaw-ReginaPats
+https://media-service.fanreachdata.io/edge/whl/a48d893879c24f8286a768f8acba6981.m3u8
+#EXTINF:-1, Brandon-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/6c8d86a762984d7babd420bfdced7d8a.m3u8
+#EXTINF:-1, Lethbridge-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/0ad6a952787d412e88edd8a58d740c9d.m3u8
+#EXTINF:-1, Seattle-Portland
+https://media-service.fanreachdata.io/edge/whl/f56d8b1b736c4d1688e660a678285a4f.m3u8
+#EXTINF:-1, Kamloops-RedDeer
+https://media-service.fanreachdata.io/edge/whl/5f3f20d75a9b459588ceda0cb32e4e0a.m3u8
+#EXTINF:-1, SwiftCurrent-Edmonton
+https://media-service.fanreachdata.io/edge/whl/832768b836a94d23aed44975a2f5a927.m3u8
+#EXTINF:-1, PrinceGeorge-Spokane
+https://media-service.fanreachdata.io/edge/whl/6880d053a41941ef8837e75ab9c1c865.m3u8
+#EXTINF:-1, Tri-City-EverettSilvertips
+https://media-service.fanreachdata.io/edge/whl/3650908c453f45c6b00afb710de50ac9.m3u8
+#EXTINF:-1, Victoria-VancouverGiants
+https://media-service.fanreachdata.io/edge/whl/af54b0412d7649aa8259ab7a81b1943e.m3u8
+#EXTINF:-1, Saginaw-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/6f893663e33f4e5299b26e2383fa6383.m3u8
+#EXTINF:-1, OwenSound-Flint
+https://media-service.fanreachdata.io/edge/ohl/ba75ca4d16c64fab95cce5264ed7983f.m3u8
+#EXTINF:-1, London-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/5dbba40207d1425181714036c70d3aea.m3u8
+#EXTINF:-1, Ottawa67's-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/553f9a238beb408eb0df985901bccb88.m3u8
