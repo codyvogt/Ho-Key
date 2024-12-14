@@ -3,16 +3,6 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Finland-Sweden
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, MalmöRedhawks-Örebro
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554f5dc412906a2afcf05c/index.m3u8
-#EXTINF:-1, Djurgården-Björklöven
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6755406c9574b23fd5309d34/index.m3u8
-#EXTINF:-1, LeksandsIF-Skellefteå
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554937c412906a2afcefc3/index.m3u8
-#EXTINF:-1, VäxjöLakers-Färjestad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6755503e9574b23fd5309df7/index.m3u8
-#EXTINF:-1, AIK-MoDoHockey
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554cbb9574b23fd5309dbc/index.m3u8
 #EXTINF:-1, StrömsbroIF-GrumsIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554bda9574b23fd5309da7/index.m3u8
 #EXTINF:-1, TingsrydsAIF-Kungälv
