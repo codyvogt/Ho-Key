@@ -27,6 +27,24 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674be2cefb9e1d37d5008
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674be2cefb9e1d37d5008e76/index.m3u8
 #EXTINF:-1, Caen-Villard-de-Lans
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674be2cefb9e1d37d5008e5e/index.m3u8
+#EXTINF:-1, Vermont-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Northeastern-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, NMU-BowlingGreen
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, MTU-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, LSSU-MinnesotaState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, SCSU-NorthDakota
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c4a7660e-6e70-4d70-949f-345351e84afd-hls/master/c4a7660e-6e70-4d70-949f-345351e84afd-hls.m3u8
+#EXTINF:-1, USAU18-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Lindenwood-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls/master/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls.m3u8
+#EXTINF:-1, ColoradoCollege-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls/master/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls.m3u8
 #EXTINF:-1, HCGherdëina-Cadore
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745a5d774345b0eaa499fff/index.m3u8
 #EXTINF:-1, HCPiné-Valpellice
@@ -77,6 +95,8 @@ https://media-service.fanreachdata.io/edge/lhjmq/1f4bdc4315fe4e88a8ebc0614ff52de
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674be2cefb9e1d37d5008e96/index.m3u8
 #EXTINF:-1, Chambéry-Grenoble
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674be2cffb9e1d37d5008ea2/index.m3u8
+#EXTINF:-1, Merrimack-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Kingston-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/7fcb4434eb5045909353e40cd7e22305.m3u8
 #EXTINF:-1, Saginaw-ErieOtters
