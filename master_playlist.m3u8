@@ -61,3 +61,11 @@ https://media-service.fanreachdata.io/edge/whl/62760a33c2134a4cbf7bd7975c0c962e.
 https://media-service.fanreachdata.io/edge/whl/49456d70e208458aa2dbb752fc66f8f4.m3u8
 #EXTINF:-1, Vancouver-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/f2c85dc8d9c5411080dc4543d8eed01c.m3u8
+#EXTINF:-1, Peli-Toverit-Sepot
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850e9574b23fd5309634/index.m3u8
+#EXTINF:-1, HCEurajoki-PKW
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309837/index.m3u8
+#EXTINF:-1, RomaniaU18-Hungary
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67585619fe8265670b03bf8b/index.m3u8
+#EXTINF:-1, Skövde-MariestadBoIS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554774c412906a2afcef8d/index.m3u8
