@@ -1,48 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Baie-Comeau-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/5b06e5ef2ff74d3a9075b0aff85ee972.m3u8
-#EXTINF:-1, Shawinigan-RNHuskies
-https://media-service.fanreachdata.io/edge/lhjmq/3fad80ee8f494c65971d0231d850ea13.m3u8
-#EXTINF:-1, Sherbrooke-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/4440a8ccf4f2490db1d74d743d52bab2.m3u8
-#EXTINF:-1, Victoriaville-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/b2e02a9babd54310acce7df56a196d25.m3u8
-#EXTINF:-1, Québec-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/ce3e9381fb1a4dc6b2d61bfae6d3617c.m3u8
-#EXTINF:-1, Chicoutimi-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/701b81a1e3e24d0382b64ccc8f5102fb.m3u8
-#EXTINF:-1, BarrieColts-Brantford
-https://media-service.fanreachdata.io/edge/ohl/e2b7715ec9f64e5bb074d9b9c8fdbc54.m3u8
-#EXTINF:-1, Peterborough-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/fa19e408f0ec4b51bcc2ac08938ee3f8.m3u8
-#EXTINF:-1, Kingston-Kitchener
-https://media-service.fanreachdata.io/edge/ohl/12bff66cf4424e2b8469e0862434f9aa.m3u8
-#EXTINF:-1, Windsor-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/09c513d3d89a4cfa884a45ec794889a4.m3u8
-#EXTINF:-1, NorthBay-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/d53274e3b3fb4292b4911b71e8227620.m3u8
 #EXTINF:-1, Brampton-Sudbury
 https://media-service.fanreachdata.io/edge/ohl/3e2f13f4979f49cf8a12c8e16024764d.m3u8
-#EXTINF:-1, OwenSound-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/f6a793e117bb4039986daeb3c5ac8da0.m3u8
-#EXTINF:-1, Niagara-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/c8bf07bbdd0044e9b227fdff3f54b577.m3u8
-#EXTINF:-1, Saginaw-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/606e21549d404100966abdd7b6ef9d30.m3u8
-#EXTINF:-1, UNH-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, NMU-BowlingGreen
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, MTU-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, LSSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, SCSU-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8df2aec-0485-447c-a677-eb8e061df9b1-hls/master/e8df2aec-0485-447c-a677-eb8e061df9b1-hls.m3u8
-#EXTINF:-1, Lindenwood-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2bab6703-6d19-4023-8416-3405654c20cf-hls/master/2bab6703-6d19-4023-8416-3405654c20cf-hls.m3u8
-#EXTINF:-1, Denver-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls/master/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls.m3u8
+#EXTINF:-1, Chicoutimi-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/701b81a1e3e24d0382b64ccc8f5102fb.m3u8
 #EXTINF:-1, MedicineHat-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/d4d1130f584e470693b55eb1f151cdc1.m3u8
 #EXTINF:-1, Saskatoon-ReginaPats
@@ -61,6 +21,16 @@ https://media-service.fanreachdata.io/edge/whl/62760a33c2134a4cbf7bd7975c0c962e.
 https://media-service.fanreachdata.io/edge/whl/49456d70e208458aa2dbb752fc66f8f4.m3u8
 #EXTINF:-1, Vancouver-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/f2c85dc8d9c5411080dc4543d8eed01c.m3u8
+#EXTINF:-1, MTU-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, LSSU-MinnesotaState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, SCSU-NorthDakota
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8df2aec-0485-447c-a677-eb8e061df9b1-hls/master/e8df2aec-0485-447c-a677-eb8e061df9b1-hls.m3u8
+#EXTINF:-1, Lindenwood-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2bab6703-6d19-4023-8416-3405654c20cf-hls/master/2bab6703-6d19-4023-8416-3405654c20cf-hls.m3u8
+#EXTINF:-1, Denver-ColoradoCollege
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls/master/7b0c6539-b3a7-4654-9350-e2eac4a92195-hls.m3u8
 #EXTINF:-1, Peli-Toverit-Sepot
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752850e9574b23fd5309634/index.m3u8
 #EXTINF:-1, HCEurajoki-PKW
@@ -69,3 +39,21 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67585619fe8265670b03bf8b/index.m3u8
 #EXTINF:-1, Skövde-MariestadBoIS
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554774c412906a2afcef8d/index.m3u8
+#EXTINF:-1, LahdenPelicans-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd5309935/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-Lukko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68ec412906a2afceb6f/index.m3u8
+#EXTINF:-1, OulunKärpät-HIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd530993b/index.m3u8
+#EXTINF:-1, RovaniemenKiekko-JYP
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd5309920/index.m3u8
+#EXTINF:-1, TimråIK-BrynäsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554bda9574b23fd5309db3/index.m3u8
+#EXTINF:-1, LatviaU18-HKMogo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67570b90fe8265670b03be59/index.m3u8
+#EXTINF:-1, JYPAkatemia-SaPKo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd53099ff/index.m3u8
+#EXTINF:-1, France-Italy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674be2cefb9e1d37d5008e88/index.m3u8
+#EXTINF:-1, Everest-RoosaPanter
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674af15ffb9e1d37d5008df6/index.m3u8
