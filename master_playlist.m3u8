@@ -1,27 +1,5 @@
 #EXTM3U
-#EXTINF:-1, JärvenpäänHaukat-JHT
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6753d68e9574b23fd530983d/index.m3u8
 #EXTINF:-1, NokianPyry-Riemu
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6753d68e9574b23fd530982f/index.m3u8
 #EXTINF:-1, Seinäjoen-Kiekko-RaaheK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6753d68ec412906a2afceafe/index.m3u8
-#EXTINF:-1, LuvianKiekko-82-KuKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309874/index.m3u8
-#EXTINF:-1, TornionIHC-Cowboys
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309863/index.m3u8
-#EXTINF:-1, KurikanRyhti-JPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309883/index.m3u8
-#EXTINF:-1, HeinolanPeliitat-SuKiKa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68ec412906a2afceae7/index.m3u8
-#EXTINF:-1, PaimionHaka-Chiefs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309877/index.m3u8
-#EXTINF:-1, VG-62Naantali-RNKHoci
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6753d68e9574b23fd5309878/index.m3u8
-#EXTINF:-1, KankaanpäänJK-KPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68ec412906a2afceaf0/index.m3u8
-#EXTINF:-1, KuhmonKivaHT-UU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309873/index.m3u8
-#EXTINF:-1, RaumaTigers-LaJy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd53098a1/index.m3u8
-#EXTINF:-1, HiHo-UplakersYlöjärvi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68ec412906a2afcead9/index.m3u8
