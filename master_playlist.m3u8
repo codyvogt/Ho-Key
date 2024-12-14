@@ -7,6 +7,18 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68e9574b23fd5309
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67585619fe8265670b03bf8b/index.m3u8
 #EXTINF:-1, Skövde-MariestadBoIS
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554774c412906a2afcef8d/index.m3u8
+#EXTINF:-1, NorIKJ23-ÖrebroHUF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67553f8bc412906a2afceee7/index.m3u8
+#EXTINF:-1, GlimmaHK-TrelleborgsIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554af8c412906a2afcefe4/index.m3u8
+#EXTINF:-1, KRIFHockey-IFLejonet
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554936c412906a2afcefae/index.m3u8
+#EXTINF:-1, VänersborgsHC-Hisingen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554a17c412906a2afcefd9/index.m3u8
+#EXTINF:-1, Värnamo-TingsrydUtv.
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675546939574b23fd5309d87/index.m3u8
+#EXTINF:-1, FaluIF-LudvikaHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675544d19574b23fd5309d7d/index.m3u8
 #EXTINF:-1, LahdenPelicans-HPK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd5309935/index.m3u8
 #EXTINF:-1, KouvolanKooKoo-Lukko
@@ -16,7 +28,13 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd5309
 #EXTINF:-1, RovaniemenKiekko-JYP
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd5309920/index.m3u8
 #EXTINF:-1, TimråIK-BrynäsIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554bda9574b23fd5309db3/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67554bda9574b23fd5309db3/index.m3u8
+#EXTINF:-1, MoraIK-LuleåHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554af8c412906a2afceff0/index.m3u8
+#EXTINF:-1, RögleBK-LinköpingHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554f5dc412906a2afcf05b/index.m3u8
+#EXTINF:-1, MalmöRedhawks-Örebro
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67554f5dc412906a2afcf05c/index.m3u8
 #EXTINF:-1, LatviaU18-HKMogo
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67570b90fe8265670b03be59/index.m3u8
 #EXTINF:-1, JYPAkatemia-SaPKo
@@ -25,3 +43,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6753d68f9574b23fd5309
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674be2cefb9e1d37d5008e88/index.m3u8
 #EXTINF:-1, Everest-RoosaPanter
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674af15ffb9e1d37d5008df6/index.m3u8
+#EXTINF:-1, DuklaJihlava-Pardubice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745651874345b0eaa499f12/index.m3u8
