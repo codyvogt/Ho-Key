@@ -31,10 +31,6 @@ https://media-service.fanreachdata.io/edge/ohl/c8bf07bbdd0044e9b227fdff3f54b577.
 https://media-service.fanreachdata.io/edge/ohl/606e21549d404100966abdd7b6ef9d30.m3u8
 #EXTINF:-1, UNH-Dartmouth
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Vermont-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, USNTDPU18-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, NMU-BowlingGreen
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, MTU-BemidjiState
