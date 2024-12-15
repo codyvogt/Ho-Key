@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1, Switzerland-Finland
-fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
 #EXTINF:-1, UnisFlyers-HijsHokij
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675c679fa83d4f176bc9db62/index.m3u8
-#EXTINF:-1, KeuPa/Diskos-K-Kissat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67552812c412906a2afcee43/index.m3u8
-#EXTINF:-1, Kiekko-Vantaa-Ketterä
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675528129574b23fd5309cda/index.m3u8
-#EXTINF:-1, JYPAk-Kiekko-EspooAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cbf/index.m3u8
-#EXTINF:-1, IFTroja-Ljungby-Tranås
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675698f55702965fbac5ed59/index.m3u8
-#EXTINF:-1, Nikkarit-PyryTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528119574b23fd5309b29/index.m3u8
-#EXTINF:-1, Vrchlabí-HCFrýdlant
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6743085f9251076945206838/index.m3u8
-#EXTINF:-1, Benátkyn.J.-KutnáHora
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67443dbd9251076945206bf2/index.m3u8
-#EXTINF:-1, NováPaka-VlciJablonec
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731e4e02bab5f0222654b05/index.m3u8
-#EXTINF:-1, Klatovy-SpartakŽebrák
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674fff1d171a4a676e69e6fe/index.m3u8
-#EXTINF:-1, OrliZnojmo-HKOpava
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745e39d74345b0eaa49a0ec/index.m3u8
+#EXTINF:-1, HighsticksHTAc-KraftAc
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552811c412906a2afced7a/index.m3u8
+#EXTINF:-1, VG-62IINaantali-PKS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675528119574b23fd5309b56/index.m3u8
+#EXTINF:-1, K-VantaaItä-Hunters
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552810c412906a2afced0b/index.m3u8
+#EXTINF:-1, Näädät-EVUTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552810c412906a2afced07/index.m3u8
+#EXTINF:-1, SödertäljeSK-Västerås
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569ab7c412906a2afcf2ba/index.m3u8
+#EXTINF:-1, KotkanTitaanit-Pyry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528119574b23fd5309b31/index.m3u8
+#EXTINF:-1, Peli-PojatHC-LeKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528119574b23fd5309b2b/index.m3u8
+#EXTINF:-1, ForssanPalloseura-JHT
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67552810c412906a2afced1d/index.m3u8
