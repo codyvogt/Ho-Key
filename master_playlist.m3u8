@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, Caen2-Meudon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674d344e171a4a676e69e17a/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Lyon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d344e171a4a676e69e174/index.m3u8
