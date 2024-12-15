@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kitchener-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/905fb265ba384f29894db82e70bcd3ec.m3u8
-#EXTINF:-1, Brampton-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/d1d82210635143fb947c7aa5bafeb97c.m3u8
 #EXTINF:-1, Brandon-Saskatoon
 https://media-service.fanreachdata.io/edge/whl/e6396f4de08e45738b1a5d75e8d5e211.m3u8
 #EXTINF:-1, SwiftCurrent-Calgary
@@ -13,3 +9,5 @@ https://media-service.fanreachdata.io/edge/whl/8eb072d46ec1421c93d7efac87ec6036.
 https://media-service.fanreachdata.io/edge/whl/80185ca599974774a73a187c3b782627.m3u8
 #EXTINF:-1, MedicineHat-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/4ec1f135580f449db56728d8d07176a1.m3u8
+#EXTINF:-1, Brampton-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/d1d82210635143fb947c7aa5bafeb97c.m3u8
