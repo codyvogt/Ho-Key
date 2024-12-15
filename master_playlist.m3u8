@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Saginaw-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/6f893663e33f4e5299b26e2383fa6383.m3u8
-#EXTINF:-1, Ottawa67's-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/553f9a238beb408eb0df985901bccb88.m3u8
 #EXTINF:-1, MooseJaw-ReginaPats
 https://media-service.fanreachdata.io/edge/whl/a48d893879c24f8286a768f8acba6981.m3u8
 #EXTINF:-1, Brandon-PrinceAlbert
@@ -21,12 +17,8 @@ https://media-service.fanreachdata.io/edge/whl/6880d053a41941ef8837e75ab9c1c865.
 https://media-service.fanreachdata.io/edge/whl/3650908c453f45c6b00afb710de50ac9.m3u8
 #EXTINF:-1, Victoria-VancouverGiants
 https://media-service.fanreachdata.io/edge/whl/af54b0412d7649aa8259ab7a81b1943e.m3u8
-#EXTINF:-1, LSSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, SCSU-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c4a7660e-6e70-4d70-949f-345351e84afd-hls/master/c4a7660e-6e70-4d70-949f-345351e84afd-hls.m3u8
-#EXTINF:-1, USAU18-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Ottawa67's-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/553f9a238beb408eb0df985901bccb88.m3u8
 #EXTINF:-1, Lindenwood-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls/master/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls.m3u8
 #EXTINF:-1, ColoradoCollege-Denver
