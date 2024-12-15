@@ -1,13 +1,3 @@
 #EXTM3U
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, Czechia-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cb5/index.m3u8
-#EXTINF:-1, UnitedStates-Finland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675528129574b23fd5309cc7/index.m3u8
-#EXTINF:-1, ItalyU20-StevensonU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745a75d9251076945206f50/index.m3u8
-#EXTINF:-1, ÖstersundsIK-Sundsvall
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6756dcec5702965fbac5eeca/index.m3u8
-#EXTINF:-1, IFTroja-Ljungby-Tranås
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675698f55702965fbac5ed59/index.m3u8
