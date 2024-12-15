@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, UnisFlyers-HijsHokij
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675c679fa83d4f176bc9db62/index.m3u8
-#EXTINF:-1, HighsticksHTAc-KraftAc
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552811c412906a2afced7a/index.m3u8
-#EXTINF:-1, VG-62IINaantali-PKS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675528119574b23fd5309b56/index.m3u8
-#EXTINF:-1, K-VantaaItä-Hunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552810c412906a2afced0b/index.m3u8
-#EXTINF:-1, Näädät-EVUTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552810c412906a2afced07/index.m3u8
 #EXTINF:-1, SödertäljeSK-Västerås
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569ab7c412906a2afcf2ba/index.m3u8
 #EXTINF:-1, KotkanTitaanit-Pyry
