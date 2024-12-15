@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1, CzechRepublic-Sweden
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, Sweden-CzechRepublic
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67552811c412906a2afced38/index.m3u8
-#EXTINF:-1, Finland-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552811c412906a2afced40/index.m3u8
-#EXTINF:-1, Storuman-Björklöven2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67568bc6c412906a2afcf192/index.m3u8
 #EXTINF:-1, VHKVsetín-HCOlomouc
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674da26dfb9e1d37d50096fd/index.m3u8
