@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Brandon-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/6c8d86a762984d7babd420bfdced7d8a.m3u8
 #EXTINF:-1, Lethbridge-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/0ad6a952787d412e88edd8a58d740c9d.m3u8
 #EXTINF:-1, Seattle-Portland
@@ -15,7 +13,5 @@ https://media-service.fanreachdata.io/edge/whl/6880d053a41941ef8837e75ab9c1c865.
 https://media-service.fanreachdata.io/edge/whl/3650908c453f45c6b00afb710de50ac9.m3u8
 #EXTINF:-1, Victoria-VancouverGiants
 https://media-service.fanreachdata.io/edge/whl/af54b0412d7649aa8259ab7a81b1943e.m3u8
-#EXTINF:-1, Lindenwood-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls/master/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls.m3u8
 #EXTINF:-1, ColoradoCollege-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls/master/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls.m3u8
