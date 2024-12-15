@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Kingston-Brantford
-https://media-service.fanreachdata.io/edge/ohl/b61ba6c216a244b1a5e4cec8b392ae02.m3u8
 #EXTINF:-1, Niagara-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/30c1aec37dbc40dfa5313cc1ccf966e2.m3u8
-#EXTINF:-1, Sarnia-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/932720300ce84867b37f7c4902e05d03.m3u8
 #EXTINF:-1, Kitchener-LondonKnights
 https://media-service.fanreachdata.io/edge/ohl/905fb265ba384f29894db82e70bcd3ec.m3u8
 #EXTINF:-1, Brampton-Oshawa
