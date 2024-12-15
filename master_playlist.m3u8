@@ -15,3 +15,9 @@ https://media-service.fanreachdata.io/edge/whl/3650908c453f45c6b00afb710de50ac9.
 https://media-service.fanreachdata.io/edge/whl/af54b0412d7649aa8259ab7a81b1943e.m3u8
 #EXTINF:-1, ColoradoCollege-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls/master/e3d644e9-39f4-427f-bf49-ea86a2f13a04-hls.m3u8
+#EXTINF:-1, Sweden-CzechRepublic
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552811c412906a2afced38/index.m3u8
+#EXTINF:-1, Storuman-Björklöven2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67568bc6c412906a2afcf192/index.m3u8
+#EXTINF:-1, VHKVsetín-HCOlomouc
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674da26dfb9e1d37d50096fd/index.m3u8
