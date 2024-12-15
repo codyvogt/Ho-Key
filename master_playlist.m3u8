@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Saginaw-ErieOtters
 https://media-service.fanreachdata.io/edge/ohl/6f893663e33f4e5299b26e2383fa6383.m3u8
-#EXTINF:-1, OwenSound-Flint
-https://media-service.fanreachdata.io/edge/ohl/ba75ca4d16c64fab95cce5264ed7983f.m3u8
-#EXTINF:-1, London-WindsorSpitfires
-https://media-service.fanreachdata.io/edge/ohl/5dbba40207d1425181714036c70d3aea.m3u8
 #EXTINF:-1, Ottawa67's-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/553f9a238beb408eb0df985901bccb88.m3u8
 #EXTINF:-1, MooseJaw-ReginaPats
@@ -25,10 +21,6 @@ https://media-service.fanreachdata.io/edge/whl/6880d053a41941ef8837e75ab9c1c865.
 https://media-service.fanreachdata.io/edge/whl/3650908c453f45c6b00afb710de50ac9.m3u8
 #EXTINF:-1, Victoria-VancouverGiants
 https://media-service.fanreachdata.io/edge/whl/af54b0412d7649aa8259ab7a81b1943e.m3u8
-#EXTINF:-1, NMU-BowlingGreen
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, MTU-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, LSSU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, SCSU-NorthDakota
