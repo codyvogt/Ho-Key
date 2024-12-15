@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, MooseJaw-ReginaPats
-https://media-service.fanreachdata.io/edge/whl/a48d893879c24f8286a768f8acba6981.m3u8
+#EXTINF:-1, Ottawa67's-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/553f9a238beb408eb0df985901bccb88.m3u8
 #EXTINF:-1, Brandon-PrinceAlbert
 https://media-service.fanreachdata.io/edge/whl/6c8d86a762984d7babd420bfdced7d8a.m3u8
 #EXTINF:-1, Lethbridge-MedicineHat
@@ -17,8 +17,6 @@ https://media-service.fanreachdata.io/edge/whl/6880d053a41941ef8837e75ab9c1c865.
 https://media-service.fanreachdata.io/edge/whl/3650908c453f45c6b00afb710de50ac9.m3u8
 #EXTINF:-1, Victoria-VancouverGiants
 https://media-service.fanreachdata.io/edge/whl/af54b0412d7649aa8259ab7a81b1943e.m3u8
-#EXTINF:-1, Ottawa67's-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/553f9a238beb408eb0df985901bccb88.m3u8
 #EXTINF:-1, Lindenwood-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls/master/af102c64-3fdc-40b1-bb47-460e0e3d4c9b-hls.m3u8
 #EXTINF:-1, ColoradoCollege-Denver
