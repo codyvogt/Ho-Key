@@ -1,5 +1,23 @@
 #EXTM3U
 #EXTINF:-1, CzechRepublic-Sweden
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, VHKVsetín-HCOlomouc
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674da26dfb9e1d37d50096fd/index.m3u8
+#EXTINF:-1, Switzerland-Finland
+fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:-1, LeksandsIF-LuleåHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569ab7c412906a2afcf2b9/index.m3u8
+#EXTINF:-1, MoraIK-SkellefteåAIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569c795702965fbac5edae/index.m3u8
+#EXTINF:-1, AIK-IFBjörklöven
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67569e3b5702965fbac5edda/index.m3u8
+#EXTINF:-1, VäxjöLakers-Örebro
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6756a1bfc412906a2afcf325/index.m3u8
+#EXTINF:-1, RögleBK-HV71
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6756a0dec412906a2afcf31f/index.m3u8
+#EXTINF:-1, IFMalmö-FärjestadBK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6756a0dec412906a2afcf31d/index.m3u8
+#EXTINF:-1, DjurgårdensIF-MoDo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675691ef5702965fbac5ed0e/index.m3u8
+#EXTINF:-1, TimråIK-AlmtunaIS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569d5ac412906a2afcf2e9/index.m3u8
+#EXTINF:-1, SödertäljeSK-Västerås
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569ab7c412906a2afcf2ba/index.m3u8
