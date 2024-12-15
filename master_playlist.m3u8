@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, HCPanter-Välk494
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674c7b20171a4a676e69e145/index.m3u8
 #EXTINF:-1, UnisFlyers-HijsHokij
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675c679fa83d4f176bc9db62/index.m3u8
 #EXTINF:-1, KeuPa/Diskos-K-Kissat
