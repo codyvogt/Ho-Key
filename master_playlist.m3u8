@@ -1,28 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, IFMalmö-FärjestadBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6756a0dec412906a2afcf31d/index.m3u8
-#EXTINF:-1, DjurgårdensIF-MoDo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675691ef5702965fbac5ed0e/index.m3u8
-#EXTINF:-1, TimråIK-AlmtunaIS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569d5ac412906a2afcf2e9/index.m3u8
-#EXTINF:-1, SödertäljeSK-Västerås
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569ab7c412906a2afcf2ba/index.m3u8
-#EXTINF:-1, KJTHaukat-IPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675528129574b23fd5309ccf/index.m3u8
-#EXTINF:-1, KOOVEE-Jokipojat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67552812c412906a2afcee4e/index.m3u8
-#EXTINF:-1, TUTO-KokkolanHermes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cc8/index.m3u8
-#EXTINF:-1, SaPKo-KajaaninHokki
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cd4/index.m3u8
-#EXTINF:-1, KeuPa/Diskos-K-Kissat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67552812c412906a2afcee43/index.m3u8
-#EXTINF:-1, Kiekko-Vantaa-Ketterä
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cda/index.m3u8
-#EXTINF:-1, JYPAk-Kiekko-EspooAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cbf/index.m3u8
 #EXTINF:-1, Caen2-Meudon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/674d344e171a4a676e69e17a/index.m3u8
 #EXTINF:-1, Clermont-Ferrand-Lyon
