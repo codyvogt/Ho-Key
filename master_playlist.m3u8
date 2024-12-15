@@ -1,27 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, KålleredSK-HovåsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67569ab75702965fbac5ed84/index.m3u8
-#EXTINF:-1, Hille/Åbyggeby-Huge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675693afc412906a2afcf20b/index.m3u8
-#EXTINF:-1, IFKFalköping-Uddevalla
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569ab75702965fbac5ed87/index.m3u8
-#EXTINF:-1, Falkenberg-Stenungsund
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569f1cc412906a2afcf30d/index.m3u8
-#EXTINF:-1, GutsFinspång-Lenhovda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675698f55702965fbac5ed58/index.m3u8
-#EXTINF:-1, OsbyIK-ÅstorpsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67568f4a5702965fbac5ecd8/index.m3u8
-#EXTINF:-1, SalaHK-KumlaHC2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67568762c412906a2afcf145/index.m3u8
-#EXTINF:-1, Örnen/Örebro-Linden2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569d5ac412906a2afcf2c6/index.m3u8
-#EXTINF:-1, UlricehamnsIF-SkaraIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67568bc6c412906a2afcf187/index.m3u8
-#EXTINF:-1, MightyRavens-Eksjö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6756a0dd5702965fbac5ee25/index.m3u8
-#EXTINF:-1, LundGiants-GlimmaHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569c795702965fbac5eda6/index.m3u8
-#EXTINF:-1, HärrydaHC-VarbergHK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6756a0dd5702965fbac5ee24/index.m3u8
+#EXTINF:-1, BeraniZlínB-Poruba
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6750375dfb9e1d37d5009967/index.m3u8
