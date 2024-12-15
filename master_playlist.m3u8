@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:-1, Sweden-Slovakia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675528129574b23fd5309cc4/index.m3u8
+#EXTINF:-1, Czechia-Switzerland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cb5/index.m3u8
+#EXTINF:-1, UnitedStates-Finland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675528129574b23fd5309cc7/index.m3u8
+#EXTINF:-1, DjurgårdensIF-MoDo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675691ef5702965fbac5ed0e/index.m3u8
+#EXTINF:-1, TimråIK-AlmtunaIS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569d5ac412906a2afcf2e9/index.m3u8
+#EXTINF:-1, SödertäljeSK-Västerås
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67569ab7c412906a2afcf2ba/index.m3u8
+#EXTINF:-1, Šumperk-WarriorsBrno
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674ff10d171a4a676e69e6bc/index.m3u8
+#EXTINF:-1, BeraniZlínB-Poruba
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6750375dfb9e1d37d5009967/index.m3u8
