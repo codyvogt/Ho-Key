@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1, LerumsBK-PartilleHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67568a04c412906a2afcf165/index.m3u8
+#EXTINF:-1, LundGiants-GlimmaHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67569c795702965fbac5eda6/index.m3u8
+#EXTINF:-1, HärrydaHC-VarbergHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6756a0dd5702965fbac5ee24/index.m3u8
+#EXTINF:-1, OrliZnojmo-HKOpava
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745e39d74345b0eaa49a0ec/index.m3u8
