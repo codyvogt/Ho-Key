@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Grenoble-Cergy-Pontoise
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/673abf4eaf94a25608ebde8b.m3u8
-#EXTINF:-1, Cergy-Pontoise-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66f4dfd089f7b22b217b6b7a.m3u8
-#EXTINF:-1, Anglet-Villard-de-Lans
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674d344f171a4a676e69e186.m3u8
-#EXTINF:-1, RapacesdeGap-HC74
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674d344f171a4a676e69e182.m3u8
 #EXTINF:-1, Caen-Ducsd'Angers
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d344f171a4a676e69e180/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Lyon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674d344e171a4a676e69e174/index.m3u8
-#EXTINF:-1, KnivstaIK-HallstaIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67568f4a5702965fbac5ecda/index.m3u8
-#EXTINF:-1, BaníkSokolovB-Ostrov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673f21f4c75f8964ad3e9cef/index.m3u8
-#EXTINF:-1, K-VantaaItä-Hunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67552810c412906a2afced0b/index.m3u8
-#EXTINF:-1, Näädät-EVUTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67552810c412906a2afced07/index.m3u8
-#EXTINF:-1, Hawks-IceTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675528119574b23fd5309b62/index.m3u8
 #EXTINF:-1, Eaters-Diez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675962a2a83d4f176bc9d67b/index.m3u8
 #EXTINF:-1, LiègeBulldogs-Neuwied
@@ -39,3 +19,5 @@ https://media-service.fanreachdata.io/edge/ohl/932720300ce84867b37f7c4902e05d03.
 https://media-service.fanreachdata.io/edge/ohl/905fb265ba384f29894db82e70bcd3ec.m3u8
 #EXTINF:-1, Brampton-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/d1d82210635143fb947c7aa5bafeb97c.m3u8
+#EXTINF:-1, Näädät-EVUTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67552810c412906a2afced07/index.m3u8
