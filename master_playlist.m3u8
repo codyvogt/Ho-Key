@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sibir-AvangardOmsk
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, KJTAk-KJTHaukat
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6757cb0e5702965fbac5f08c/index.m3u8
 #EXTINF:-1, OrliZnojmo-Hodonín
