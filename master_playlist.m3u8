@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Neuwied-LiègeBulldogs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675962a3a83d4f176bc9d67f/index.m3u8
-#EXTINF:-1, AalborgII-Frederikshavn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ea79e083d9db296f96ee33/index.m3u8
 #EXTINF:-1, ÉpinalHC-Briançon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/674fd74dfb9e1d37d50098b4/index.m3u8
 #EXTINF:-1, Ducsd'Angers-Nice
