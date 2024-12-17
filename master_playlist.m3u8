@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1, MooseJaw-Brandon
+https://media-service.fanreachdata.io/edge/whl/28c3b6a5a3ae4d919d212b39dfc6031c.m3u8
+#EXTINF:-1, SwiftCurrent-RedDeer
+https://media-service.fanreachdata.io/edge/whl/d9b8c78b4e2c412b868d451e344f79fa.m3u8
+#EXTINF:-1, PrinceAlbert-Edmonton
+https://media-service.fanreachdata.io/edge/whl/4190d0aa13b745668f7d21d9dae9df2f.m3u8
+#EXTINF:-1, SpokaneChiefs-Portland
+https://media-service.fanreachdata.io/edge/whl/42ca421449a448e89d22b0b59ca6e6bb.m3u8
