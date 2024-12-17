@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Österåker-Åker/Strängnäs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6759378f5702965fbac5f265/index.m3u8
-#EXTINF:-1, StrömsbroIF-OckelboHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67594059fe8265670b03c06a/index.m3u8
 #EXTINF:-1, Neuwied-LiègeBulldogs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675962a3a83d4f176bc9d67f/index.m3u8
 #EXTINF:-1, AalborgII-Frederikshavn
