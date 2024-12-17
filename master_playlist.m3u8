@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KJTAk-KJTHaukat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6757cb0e5702965fbac5f08c/index.m3u8
 #EXTINF:-1, OrliZnojmo-Hodonín
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/673db44dc75f8964ad3e9a12/index.m3u8
 #EXTINF:-1, EsbjergEnergy-Aalborg
@@ -58,7 +56,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66ea79e183d9db296f96e
 #EXTINF:-1, RødovreSIK-Gladsaxe
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ea79e183d9db296f96ee37/index.m3u8
 #EXTINF:-1, AalborgII-Frederikshavn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66ea79e083d9db296f96ee33/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66ea79e083d9db296f96ee33/index.m3u8
 #EXTINF:-1, Österåker-Åker/Strängnäs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6759378f5702965fbac5f265/index.m3u8
 #EXTINF:-1, UddevallaHC-Ulricehamn
@@ -76,7 +74,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67593db65702965fbac5f
 #EXTINF:-1, LaserHTB-LaserHTR
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6757cb0efe8265670b03be7d/index.m3u8
 #EXTINF:-1, Neuwied-LiègeBulldogs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675962a3a83d4f176bc9d67f/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675962a3a83d4f176bc9d67f/index.m3u8
 #EXTINF:-1, ÉpinalHC-Briançon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/674fd74dfb9e1d37d50098b4/index.m3u8
 #EXTINF:-1, Ducsd'Angers-Nice
