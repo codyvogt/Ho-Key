@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1, NackaHK-IFKTumbaIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f7b3033bd78e5d711b4afe/index.m3u8
+#EXTINF:-1, JonstorpsIF-AlvestaSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6759378f5702965fbac5f26b/index.m3u8
+#EXTINF:-1, HCDalen-HovåsHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6759413afe8265670b03c06d/index.m3u8
 #EXTINF:-1, BrunfloIK-Kramfors
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67593e985702965fbac5f28f/index.m3u8
 #EXTINF:-1, KovlandsIshF-Njurunda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675938705702965fbac5f275/index.m3u8
 #EXTINF:-1, StrömsbroIF-OckelboHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67594059fe8265670b03c06a/index.m3u8
-#EXTINF:-1, JonstorpsIF-AlvestaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6759378f5702965fbac5f26b/index.m3u8
-#EXTINF:-1, HCDalen-HovåsHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6759413afe8265670b03c06d/index.m3u8
 #EXTINF:-1, Österåker-Åker/Strängnäs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6759378f5702965fbac5f265/index.m3u8
 #EXTINF:-1, UddevallaHC-Ulricehamn
