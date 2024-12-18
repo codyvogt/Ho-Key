@@ -1,23 +1,9 @@
 #EXTM3U
-#EXTINF:-1, NittorpsIK-VitaHästen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a858bc8616b072d4329bd/index.m3u8
-#EXTINF:-1, JonstorpsIF-Värnamo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a890fa83d4f176bc9d7f8/index.m3u8
 #EXTINF:-1, VännäsHC-Örnsköldsvik
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a866cc8616b072d4329c5/index.m3u8
 #EXTINF:-1, BodensHF-Clemensnäs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a882ec8616b072d4329ce/index.m3u8
-#EXTINF:-1, HCBFoxesAc.-Merano
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716364f90eeba7bde92d0c1/index.m3u8
-#EXTINF:-1, Juniorteams-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163650d24da32d7de674a3/index.m3u8
 #EXTINF:-1, SkärgårdensSK-Sörhaga
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a947ca83d4f176bc9d824/index.m3u8
-#EXTINF:-1, Enköping-GötaTraneberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a874dc8616b072d4329cb/index.m3u8
-#EXTINF:-1, Ockelbo-Hille/Åbyggeby
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a8f36c8616b072d432a14/index.m3u8
-#EXTINF:-1, GävleGIK-SkutskärsSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a866cc8616b072d4329c7/index.m3u8
 #EXTINF:-1, StenungsundHF-Hovås
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a8b1ca83d4f176bc9d803/index.m3u8
