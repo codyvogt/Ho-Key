@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1, VännäsHC-Örnsköldsvik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a866cc8616b072d4329c5/index.m3u8
-#EXTINF:-1, BodensHF-Clemensnäs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a882ec8616b072d4329ce/index.m3u8
-#EXTINF:-1, SkärgårdensSK-Sörhaga
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a947ca83d4f176bc9d824/index.m3u8
-#EXTINF:-1, StenungsundHF-Hovås
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a8b1ca83d4f176bc9d803/index.m3u8
