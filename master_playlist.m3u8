@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1, BrinkensIF-HammarbyIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67480c52d31a43159862ea53/index.m3u8
-#EXTINF:-1, HerringsHC-IKRaid
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675be7bfc8616b072d432cb8/index.m3u8
 #EXTINF:-1, Pergine-ValdifiemmeHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716365390eeba7bde92d0c7/index.m3u8
 #EXTINF:-1, AllegheHockey-HCFeltre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716365290eeba7bde92d0c5/index.m3u8
-#EXTINF:-1, SVKaltern-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716365390eeba7bde92d0c9/index.m3u8
 #EXTINF:-1, FassaFalcons-HCEppan
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716365490eeba7bde92d0cb/index.m3u8
 #EXTINF:-1, HCMP-StevensonU
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67584cf1fe8265670b03bf78/index.m3u8
+#EXTINF:-1, HerringsHC-IKRaid
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675be7bfc8616b072d432cb8/index.m3u8
