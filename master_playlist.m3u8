@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1, PartilleHK-RonnebyIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be51bc8616b072d432cae/index.m3u8
 #EXTINF:-1, BrinkensIF-HammarbyIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67480c52d31a43159862ea53/index.m3u8
 #EXTINF:-1, HerringsHC-IKRaid
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675be7bfc8616b072d432cb8/index.m3u8
-#EXTINF:-1, EaglesSüdtirol-Dolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163651d24da32d7de674a5/index.m3u8
 #EXTINF:-1, Pergine-ValdifiemmeHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716365390eeba7bde92d0c7/index.m3u8
 #EXTINF:-1, AllegheHockey-HCFeltre
