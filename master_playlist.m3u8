@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, CSKAMoscow-Spartak
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, MoraJ20-NorwayU20
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6761af3c8edf8a54162c6edb/index.m3u8
-#EXTINF:-1, HCMP-StevensonU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67584cf1fe8265670b03bf78/index.m3u8
-#EXTINF:-1, TechnikaBrno-HCPoruba
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f2aaee58dae92cef9ea25c/index.m3u8
-#EXTINF:-1, Šumperk-WarriorsBrno
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/672c588de689ca0066fa2bcd/index.m3u8
 #EXTINF:-1, HCTábor-KrálovéPísek
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675971ddc8616b072d43288a/index.m3u8
 #EXTINF:-1, MalungsIF-BorlängeHF
@@ -55,3 +45,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716365290eeba7bde92d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716365390eeba7bde92d0c9/index.m3u8
 #EXTINF:-1, FassaFalcons-HCEppan
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716365490eeba7bde92d0cb/index.m3u8
+#EXTINF:-1, HCMP-StevensonU
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67584cf1fe8265670b03bf78/index.m3u8
