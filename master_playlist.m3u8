@@ -1,22 +1,14 @@
 #EXTM3U
-#EXTINF:-1, MalungsIF-BorlängeHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be359c8616b072d432caa/index.m3u8
-#EXTINF:-1, TegsSK-SKLejon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752a2b29574b23fd530967a/index.m3u8
-#EXTINF:-1, TrelleborgsIF-LerumsBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675bde14a83d4f176bc9da2c/index.m3u8
-#EXTINF:-1, IFLejonet-Skillingaryd
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675bd2a6c8616b072d432c76/index.m3u8
-#EXTINF:-1, Töreboda-Valdemarsvik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675bd003a83d4f176bc9da06/index.m3u8
-#EXTINF:-1, PartilleHK-RonnebyIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be51bc8616b072d432cae/index.m3u8
-#EXTINF:-1, KvarnsvedensIK-HSS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672328b41dc6516e0899fcfd/index.m3u8
 #EXTINF:-1, Sörhaga-VänersborgsHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675bd0e5a83d4f176bc9da08/index.m3u8
 #EXTINF:-1, EsbjergII-OdenseIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66cd9046d3d999504733c944/index.m3u8
+#EXTINF:-1, TegsSK-SKLejon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752a2b29574b23fd530967a/index.m3u8
+#EXTINF:-1, Töreboda-Valdemarsvik
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675bd003a83d4f176bc9da06/index.m3u8
+#EXTINF:-1, PartilleHK-RonnebyIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be51bc8616b072d432cae/index.m3u8
 #EXTINF:-1, KungsbackaHC-Härryda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be6ddc8616b072d432cb6/index.m3u8
 #EXTINF:-1, Järna-HuddingeTigers
