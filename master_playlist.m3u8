@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, HCTábor-KrálovéPísek
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675971ddc8616b072d43288a/index.m3u8
 #EXTINF:-1, MalungsIF-BorlängeHF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be359c8616b072d432caa/index.m3u8
 #EXTINF:-1, BoråsHC-TingsrydsAIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be51bc8616b072d432cac/index.m3u8
 #EXTINF:-1, TegsSK-SKLejon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6752a2b29574b23fd530967a/index.m3u8
-#EXTINF:-1, NässjöHC-TAIFLöfstad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675bdd32c8616b072d432ca0/index.m3u8
 #EXTINF:-1, TrelleborgsIF-LerumsBK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675bde14a83d4f176bc9da2c/index.m3u8
 #EXTINF:-1, IFLejonet-Skillingaryd
@@ -21,8 +17,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be51bc8616b072d432
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/672328b41dc6516e0899fcfd/index.m3u8
 #EXTINF:-1, Sörhaga-VänersborgsHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675bd0e5a83d4f176bc9da08/index.m3u8
-#EXTINF:-1, SödertäljeSK-Hammarby
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be0b7a83d4f176bc9da32/index.m3u8
 #EXTINF:-1, LaserHTR-LaserHTB
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a6e0ea83d4f176bc9d7bd/index.m3u8
 #EXTINF:-1, EsbjergII-OdenseIK
@@ -34,7 +28,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be0b6a83d4f176bc9d
 #EXTINF:-1, BrinkensIF-HammarbyIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67480c52d31a43159862ea53/index.m3u8
 #EXTINF:-1, HerringsHC-IKRaid
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675be7bfc8616b072d432cb8/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675be7bfc8616b072d432cb8/index.m3u8
 #EXTINF:-1, EaglesSüdtirol-Dolomites
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163651d24da32d7de674a5/index.m3u8
 #EXTINF:-1, Pergine-ValdifiemmeHC
