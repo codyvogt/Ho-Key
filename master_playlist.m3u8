@@ -1,3 +1,23 @@
 #EXTM3U
-#EXTINF:-1, Liberec-Pardubice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675fed49a83d4f176bc9df96/index.m3u8
+#EXTINF:-1, AkBars-DinamoMinsk
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, KouvolanKooKoo-HIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432ac8/index.m3u8
+#EXTINF:-1, OulunKärpät-K-Espoo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432aa5/index.m3u8
+#EXTINF:-1, KalevanPallo-TPS
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432aa7/index.m3u8
+#EXTINF:-1, RoKi-LahdenPelicans
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432afe/index.m3u8
+#EXTINF:-1, TapparaTampere-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432aeb/index.m3u8
+#EXTINF:-1, PorinÄssät-Jukurit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432b10/index.m3u8
+#EXTINF:-1, Lukko-VaasanSport
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432ab0/index.m3u8
+#EXTINF:-1, TampereenIlves-SaiPa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432aba/index.m3u8
+#EXTINF:-1, HelsinginJokerit-JYP
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc2a83d4f176bc9d8b3/index.m3u8
+#EXTINF:-1, MoraJ20-NorwayU20
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6761af3c8edf8a54162c6eda/index.m3u8
