@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1, AkBars-DinamoMinsk
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, KouvolanKooKoo-HIFK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432ac8/index.m3u8
-#EXTINF:-1, RoKi-LahdenPelicans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432afe/index.m3u8
-#EXTINF:-1, TapparaTampere-HPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432aeb/index.m3u8
-#EXTINF:-1, PorinÄssät-Jukurit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a9bc3c8616b072d432b10/index.m3u8
-#EXTINF:-1, Lukko-VaasanSport
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432ab0/index.m3u8
-#EXTINF:-1, TampereenIlves-SaiPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432aba/index.m3u8
-#EXTINF:-1, HelsinginJokerit-JYP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a9bc2a83d4f176bc9d8b3/index.m3u8
+#EXTINF:-1, Peterborough-Kingston
+https://media-service.fanreachdata.io/edge/ohl/f67ade8e8d6c42f98fa7c47cfbde4aeb.m3u8
+#EXTINF:-1, Niagara-Brampton
+https://media-service.fanreachdata.io/edge/ohl/7ee963d8fea6459ea1c46b59cfb4f92e.m3u8
+#EXTINF:-1, Ottawa-KitchenerRangers
+https://media-service.fanreachdata.io/edge/ohl/0d514fc6203342e69656a58ff1281797.m3u8
+#EXTINF:-1, Sarnia-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/c854963da3a6493c9c1bf08f2e66d65c.m3u8
+#EXTINF:-1, Flint-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/979181d799e14c8b90d21bdb08afaa94.m3u8
+#EXTINF:-1, Brantford-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/7999589664c24fa6a6c1d50b78a15aef.m3u8
+#EXTINF:-1, NorthBay-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/bd4c1848047f4c7da17e82673d2e37e5.m3u8
+#EXTINF:-1, SaultSte.Marie-Guelph
+https://media-service.fanreachdata.io/edge/ohl/51dafbbce7884d98b06f4cec86f6d1d0.m3u8
