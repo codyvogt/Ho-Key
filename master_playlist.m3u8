@@ -1,15 +1,7 @@
 #EXTM3U
 #EXTINF:-1, SKA-AdmiralVladivostok
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, HIFK-HelsinginJokerit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc2a83d4f176bc9d89a/index.m3u8
-#EXTINF:-1, JYP-TurunPalloseura
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a9bc2a83d4f176bc9d8b9/index.m3u8
-#EXTINF:-1, VaasanSport-Jukurit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432ad2/index.m3u8
 #EXTINF:-1, Liberec-DuklaJihlava
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675fc314a83d4f176bc9dea3/index.m3u8
-#EXTINF:-1, Ml.Boleslav-Mountfield
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67600965a83d4f176bc9e00a/index.m3u8
 #EXTINF:-1, KarlovyVary-Vítkovice
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675fdf2ea83d4f176bc9df24/index.m3u8
