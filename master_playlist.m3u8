@@ -3,8 +3,6 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, SKA-AdmiralVladivostok
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, KalevanPallo-SaiPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432aae/index.m3u8
 #EXTINF:-1, Kärpät-LahdenPelicans
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a9bc3c8616b072d432ad8/index.m3u8
 #EXTINF:-1, RoKi-Kiekko-Espoo
@@ -15,3 +13,61 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc2a83d4f176bc9d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc2a83d4f176bc9d8b9/index.m3u8
 #EXTINF:-1, VaasanSport-Jukurit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432ad2/index.m3u8
+#EXTINF:-1, IKGraip-HammarbyIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7222c8616b072d432f12/index.m3u8
+#EXTINF:-1, IFKSalem-Skarpnäck
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675e75a6a83d4f176bc9dd73/index.m3u8
+#EXTINF:-1, BooHC-KTHIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675e7bcdc8616b072d432f2e/index.m3u8
+#EXTINF:-1, IFTroja-HelsingborgHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e81f4a83d4f176bc9ddbb/index.m3u8
+#EXTINF:-1, Karlskrona-Oskarshamn
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675e88fcc8616b072d432f8e/index.m3u8
+#EXTINF:-1, TyresöHanviken-Nacka
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e873ac8616b072d432f72/index.m3u8
+#EXTINF:-1, SollentunaHC-Huddinge
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7e71a83d4f176bc9ddb3/index.m3u8
+#EXTINF:-1, HanhalsIF-MariestadHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e89ddc8616b072d432f97/index.m3u8
+#EXTINF:-1, Linden-NyköpingsSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7d8fa83d4f176bc9dda2/index.m3u8
+#EXTINF:-1, KungälvsIK-TranåsAIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e88fcc8616b072d432f91/index.m3u8
+#EXTINF:-1, Flemingsberg-Arlanda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e784aa83d4f176bc9dd87/index.m3u8
+#EXTINF:-1, Vallentuna-SDEHF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7d8fa83d4f176bc9dda1/index.m3u8
+#EXTINF:-1, KirunaAIF-ÖverkalixIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6731b3391dc6516e089a222b/index.m3u8
+#EXTINF:-1, HedesundaIF-MoraIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675e7222c8616b072d432f16/index.m3u8
+#EXTINF:-1, TPS-OulunKärpät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67617985a83d4f176bc9e218/index.m3u8
+#EXTINF:-1, HIFK-KalevanPallo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432aa4/index.m3u8
+#EXTINF:-1, TeamKuortane-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432ade/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-RoKi
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc2a83d4f176bc9d8c0/index.m3u8
+#EXTINF:-1, Strasbourg2-Dijon2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742a84d74345b0eaa4996e5/index.m3u8
+#EXTINF:-1, Meudon2-Asnières
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4ec412906a2afcecf3/index.m3u8
+#EXTINF:-1, Caen2-Brest2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4e9574b23fd5309af1/index.m3u8
+#EXTINF:-1, Tours2-Nantes2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4ec412906a2afcecf5/index.m3u8
+#EXTINF:-1, EnköpingsSK-Trångsund
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675e7bcdc8616b072d432f2c/index.m3u8
+#EXTINF:-1, IFKTumba-Visby/Roma
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7d8fa83d4f176bc9dd9d/index.m3u8
+#EXTINF:-1, HammarbyIF-VärmdöHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e73e4c8616b072d432f20/index.m3u8
+#EXTINF:-1, VäsbyIKHK-BrinkensIF
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7caec8616b072d432f34/index.m3u8
+#EXTINF:-1, Liberec-DuklaJihlava
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675fc314a83d4f176bc9dea3/index.m3u8
+#EXTINF:-1, Ml.Boleslav-Mountfield
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67600965a83d4f176bc9e00a/index.m3u8
+#EXTINF:-1, KarlovyVary-Vítkovice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675fdf2ea83d4f176bc9df24/index.m3u8
