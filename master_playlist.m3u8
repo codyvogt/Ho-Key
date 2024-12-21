@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1, SKA-AdmiralVladivostok
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, IFTroja-HelsingborgHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e81f4a83d4f176bc9ddbb/index.m3u8
-#EXTINF:-1, Karlskrona-Oskarshamn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675e88fcc8616b072d432f8e/index.m3u8
-#EXTINF:-1, TyresöHanviken-Nacka
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e873ac8616b072d432f72/index.m3u8
-#EXTINF:-1, SollentunaHC-Huddinge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7e71a83d4f176bc9ddb3/index.m3u8
-#EXTINF:-1, HanhalsIF-MariestadHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e89ddc8616b072d432f97/index.m3u8
-#EXTINF:-1, Linden-NyköpingsSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7d8fa83d4f176bc9dda2/index.m3u8
-#EXTINF:-1, KungälvsIK-TranåsAIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e88fcc8616b072d432f91/index.m3u8
-#EXTINF:-1, Flemingsberg-Arlanda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e784aa83d4f176bc9dd87/index.m3u8
-#EXTINF:-1, Vallentuna-SDEHF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675e7d8fa83d4f176bc9dda1/index.m3u8
 #EXTINF:-1, KirunaAIF-ÖverkalixIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6731b3391dc6516e089a222b/index.m3u8
 #EXTINF:-1, HedesundaIF-MoraIK
