@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1, FrançaisVolants-Orléans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67551d4f9574b23fd5309b1b/index.m3u8
-#EXTINF:-1, Reims-Wasquehal
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4f9574b23fd5309b1d/index.m3u8
+#EXTINF:-1, HCFeltre-SVKaltern
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6761b7068edf8a54162c6ede/index.m3u8
+#EXTINF:-1, HCAosta-FassaFalcons
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716365ad24da32d7de674b3/index.m3u8
+#EXTINF:-1, Alleghe-HCMVVarese
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716365b90eeba7bde92d0d1/index.m3u8
 #EXTINF:-1, LionsdeLyon-Anglet2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67551d4f9574b23fd5309b01/index.m3u8
 #EXTINF:-1, Toulouse-Blagnac-Roanne
@@ -15,26 +17,16 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67551d4f9574b23fd5309
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4fc412906a2afcecf9/index.m3u8
 #EXTINF:-1, Clermont-FD-Montpellier
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67551d4f9574b23fd5309b05/index.m3u8
-#EXTINF:-1, Mont-Blanc-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67551d4ec412906a2afcece1/index.m3u8
-#EXTINF:-1, Dunkerque-Morzine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67551d4ec412906a2afcecd7/index.m3u8
-#EXTINF:-1, AlbatrosdeBrest-Tours
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67551d4ec412906a2afcece9/index.m3u8
-#EXTINF:-1, DogsdeCholet-Caen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4ec412906a2afcece5/index.m3u8
-#EXTINF:-1, HCFeltre-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6761b7068edf8a54162c6ede/index.m3u8
-#EXTINF:-1, HCAosta-FassaFalcons
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716365ad24da32d7de674b3/index.m3u8
-#EXTINF:-1, Alleghe-HCMVVarese
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716365b90eeba7bde92d0d1/index.m3u8
 #EXTINF:-1, Meudon2-Asnières
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67551d4ec412906a2afcecf3/index.m3u8
 #EXTINF:-1, Caen2-Brest2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67551d4e9574b23fd5309af1/index.m3u8
 #EXTINF:-1, Tours2-Nantes2
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4ec412906a2afcecf5/index.m3u8
+#EXTINF:-1, AlbatrosdeBrest-Tours
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67551d4ec412906a2afcece9/index.m3u8
+#EXTINF:-1, DogsdeCholet-Caen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4ec412906a2afcece5/index.m3u8
 #EXTINF:-1, LeuvenChiefs-Neuwied
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67556e23c412906a2afcf06f/index.m3u8
 #EXTINF:-1, HYC-EGDiez-Limburg
