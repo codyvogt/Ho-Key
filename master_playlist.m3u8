@@ -1,11 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Jokipojat-K-EspooCh
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675a9bc2a83d4f176bc9d8cb/index.m3u8
-#EXTINF:-1, KajaaninHokki-KOOVEE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432ae0/index.m3u8
-#EXTINF:-1, KokkolanHermes-Ketterä
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432b27/index.m3u8
-#EXTINF:-1, GrankullaIFK-LeKi
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432b21/index.m3u8
-#EXTINF:-1, Žabonosy-LevBenešov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6703ea946e0aae1e6b07040d/index.m3u8
