@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HCPiné-VinschgauEisfix
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745a5919251076945206e8a/index.m3u8
 #EXTINF:-1, FrançaisVolants-Orléans
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67551d4f9574b23fd5309b1b/index.m3u8
 #EXTINF:-1, Reims-Wasquehal
@@ -17,8 +15,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67551d4f9574b23fd5309
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4fc412906a2afcecf9/index.m3u8
 #EXTINF:-1, Clermont-FD-Montpellier
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67551d4f9574b23fd5309b05/index.m3u8
-#EXTINF:-1, Strasbourg-HCMP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4ec412906a2afcecdd/index.m3u8
 #EXTINF:-1, Mont-Blanc-Chambéry
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67551d4ec412906a2afcece1/index.m3u8
 #EXTINF:-1, Dunkerque-Morzine
@@ -43,6 +39,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67551d4ec412906a2afce
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67556e23c412906a2afcf06f/index.m3u8
 #EXTINF:-1, HYC-EGDiez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67556e239574b23fd5309e06/index.m3u8
+#EXTINF:-1, HCPiné-VinschgauEisfix
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745a5919251076945206e8a/index.m3u8
 #EXTINF:-1, Grenoble-Toulouse
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67551d4e9574b23fd5309af3.m3u8
 #EXTINF:-1, Chambéry-HC74
