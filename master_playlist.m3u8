@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1, SKA-AdmiralVladivostok
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, HCLitvínov-Pardubice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67600965a83d4f176bc9e00b/index.m3u8
