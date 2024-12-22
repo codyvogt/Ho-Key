@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Amiens-Bordeaux
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6743f9cf74345b0eaa499ae0.m3u8
+#EXTINF:-1, Pergine-Kaltern/Ritten
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163666d24da32d7de674c7/index.m3u8
+#EXTINF:-1, Merano-PustertalJr
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716366790eeba7bde92d0e1/index.m3u8
 #EXTINF:-1, Marseille-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9cf74345b0eaa499adc.m3u8
 #EXTINF:-1, RapacesdeGap-Briançon
@@ -9,12 +11,6 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6743f9d074345b0eaa499ae6.m3u8
 #EXTINF:-1, Chamonix-AiglesdeNice
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6743f9d074345b0eaa499ae4.m3u8
-#EXTINF:-1, ESVBurgau-Lechbruck
-fluidtv.php?channel=https://content.aisportswatch.com/316986/master.m3u8
-#EXTINF:-1, Pergine-Kaltern/Ritten
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163666d24da32d7de674c7/index.m3u8
-#EXTINF:-1, Merano-PustertalJr
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716366790eeba7bde92d0e1/index.m3u8
 #EXTINF:-1, Hormadid'Anglet-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67566ecf5702965fbac5ec70.m3u8
 #EXTINF:-1, Villard-de-Lans-Amiens
