@@ -1,13 +1,29 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-Spartak
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Jokipojat-TurunToverit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc2a83d4f176bc9d8c9/index.m3u8
+#EXTINF:-1, Asiago-Cortina/Alleghe
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745a59774345b0eaa499fbf/index.m3u8
+#EXTINF:-1, StormPinerolo-Valpellice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163661d24da32d7de674c1/index.m3u8
+#EXTINF:-1, Juniorteams-HCEppan
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163665d24da32d7de674c5/index.m3u8
+#EXTINF:-1, Pergine-Kaltern/Ritten
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163666d24da32d7de674c7/index.m3u8
+#EXTINF:-1, Merano-PustertalJr
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716366790eeba7bde92d0e1/index.m3u8
 #EXTINF:-1, S-Kiekko-ImatranKetterä
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432b11/index.m3u8
 #EXTINF:-1, Hokki-JYPAkatemia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432aa8/index.m3u8
 #EXTINF:-1, SaPKo-Kiekko-EspooCh
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432b16/index.m3u8
-#EXTINF:-1, FlyersHT-VelkéPopovice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675ed405a83d4f176bc9de34/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-KalPa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc2a83d4f176bc9d8c1/index.m3u8
+#EXTINF:-1, HPK-OulunKärpät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432abd/index.m3u8
+#EXTINF:-1, HerlevII-Hvidovre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f25fbd9e468a0f77baf657/index.m3u8
+#EXTINF:-1, HerningII-RungstedIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f25fbea1fe2c39f40b2867/index.m3u8
+#EXTINF:-1, Ducsd'Angers-Cholet
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/67566ed05702965fbac5ec76.m3u8
