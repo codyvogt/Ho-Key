@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Cergy-Pont.-Strasbourg
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67566ece5702965fbac5ec5e.m3u8
-#EXTINF:-1, Hormadid'Anglet-Rouen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67566ecf5702965fbac5ec70.m3u8
-#EXTINF:-1, Villard-de-Lans-Amiens
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67566ece5702965fbac5ec60/index.m3u8
-#EXTINF:-1, Juniorteams-HCEppan
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163665d24da32d7de674c5/index.m3u8
-#EXTINF:-1, Pergine-Kaltern/Ritten
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163666d24da32d7de674c7/index.m3u8
-#EXTINF:-1, Merano-PustertalJr
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716366790eeba7bde92d0e1/index.m3u8
 #EXTINF:-1, VlciJablonec-Benátky
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6742c20d925107694520666d/index.m3u8
