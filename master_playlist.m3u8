@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1, DinamoMinsk-Spartak
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Jokipojat-TurunToverit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc2a83d4f176bc9d8c9/index.m3u8
 #EXTINF:-1, S-Kiekko-ImatranKetterä
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432b11/index.m3u8
 #EXTINF:-1, Hokki-JYPAkatemia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432aa8/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675a9bc3c8616b072d432aa8/index.m3u8
 #EXTINF:-1, SaPKo-Kiekko-EspooCh
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675a9bc3c8616b072d432b16/index.m3u8
 #EXTINF:-1, FlyersHT-VelkéPopovice
