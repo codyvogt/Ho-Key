@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SønderjyskE-Esbjerg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f947bc3bd78e5d711b4f0c/index.m3u8
 #EXTINF:-1, HerningBlueFox-Odense
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bb2ad3f109382cba0c/index.m3u8
 #EXTINF:-1, Frederikshavn-Aalborg
