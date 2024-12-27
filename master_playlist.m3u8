@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HerningBlueFox-Odense
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bb2ad3f109382cba0c/index.m3u8
-#EXTINF:-1, Frederikshavn-Aalborg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f947bc3bd78e5d711b4f0e/index.m3u8
-#EXTINF:-1, Rødovre-Rungsted
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f947bc3bd78e5d711b4f10/index.m3u8
-#EXTINF:-1, Mont-Blanc-HCMP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6762f50edced5b485734ad17/index.m3u8
 #EXTINF:-1, ZinnenDolomites-Feltre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716366c90eeba7bde92d0e9/index.m3u8
 #EXTINF:-1, Bressanone-Alleghe
