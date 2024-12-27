@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-DynamoM
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Cadore-HCGherdëina
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5769251076945206e6a/index.m3u8
 #EXTINF:-1, Pergine-HCMVVarese
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716366990eeba7bde92d0e5/index.m3u8
 #EXTINF:-1, ZinnenDolomites-Feltre
