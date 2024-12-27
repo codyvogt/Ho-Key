@@ -3,3 +3,21 @@
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Canada-Latvia
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1, ReginaPats-Brandon
+https://media-service.fanreachdata.io/edge/whl/574cd2bedec64dccb154a4a6253d9e48.m3u8
+#EXTINF:-1, SCBroncos-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/03718a4fd119427a9f66887cfd7ad88d.m3u8
+#EXTINF:-1, MooseJaw-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/4032757576c64b2ea55f4c4d4932b57f.m3u8
+#EXTINF:-1, Calgary-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/9eca1768fc00448a8f1e5ba2641ae195.m3u8
+#EXTINF:-1, Edmonton-RedDeer
+https://media-service.fanreachdata.io/edge/whl/5a18ce6982f2494c861a56e33c44d2dd.m3u8
+#EXTINF:-1, Vancouver-Kamloops
+https://media-service.fanreachdata.io/edge/whl/c4576af4c4ad4314b7203cc4fb729e69.m3u8
+#EXTINF:-1, Tri-City-Portland
+https://media-service.fanreachdata.io/edge/whl/9279b3996abb4803b3e4f32117e6e447.m3u8
+#EXTINF:-1, EverettSilvertips-Seattle
+https://media-service.fanreachdata.io/edge/whl/dd94b890ff314c9ca5655b1495a19c69.m3u8
+#EXTINF:-1, WenatcheeWild-Spokane
+https://media-service.fanreachdata.io/edge/whl/91237250d2bb472abaa7eec4fadc32b1.m3u8
