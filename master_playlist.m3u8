@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Briançon-Chamonix
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eb0.m3u8
 #EXTINF:-1, SaintJohn-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/59ea8ddcd82a4362bb3c10049d94a0c7.m3u8
 #EXTINF:-1, Sherbrooke-Chicoutimi
