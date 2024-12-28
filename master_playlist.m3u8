@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1, Esbjerg-SønderjyskE
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f947bd2ad3f109382cba0e/index.m3u8
-#EXTINF:-1, OdenseBulldogs-Herning
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f947be3bd78e5d711b4f12/index.m3u8
 #EXTINF:-1, Aalborg-Frederikshavn
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bd2ad3f109382cba10/index.m3u8
 #EXTINF:-1, UNH-Rensselaer
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, USAU18-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls/master/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls.m3u8
+#EXTINF:-1, UNLV-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls/master/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls.m3u8
 #EXTINF:-1, Wolferines-RoosaPanter
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675e556fc8616b072d432ee2/index.m3u8
 #EXTINF:-1, Rouen-Amiens
@@ -41,3 +43,17 @@ https://media-service.fanreachdata.io/edge/lhjmq/36c6459159304af8aa438f2b751895b
 https://media-service.fanreachdata.io/edge/lhjmq/55b51e3f45aa4e11be41d0eefe85f239.m3u8
 #EXTINF:-1, CapeBreton-Chtown
 https://media-service.fanreachdata.io/edge/lhjmq/21b01dae742443799d4a5a85036796b4.m3u8
+#EXTINF:-1, Ottawa67's-Brampton
+https://media-service.fanreachdata.io/edge/ohl/204b6c4cb2834f43a8401b94313915cb.m3u8
+#EXTINF:-1, Niagara-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/9104ddf43af34e42b3cfedf1f207f377.m3u8
+#EXTINF:-1, Guelph-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/7cd3b756e66b40559cb33c8a1ae6dde5.m3u8
+#EXTINF:-1, Brantford-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/b2743f1b693d480988f263884c0bd3e7.m3u8
+#EXTINF:-1, Sarnia-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/343673dc5e34437f9c8fe2411b43a590.m3u8
+#EXTINF:-1, Windsor-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/739553383c344541b26e02a9f2dacb61.m3u8
+#EXTINF:-1, NorthBay-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/dfbb64096ac441599ad8725846bac6c7.m3u8
