@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ColoradoAvalanche-Utah
 fluidtv.php?channel=http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1, ReginaPats-Brandon
-https://media-service.fanreachdata.io/edge/whl/574cd2bedec64dccb154a4a6253d9e48.m3u8
-#EXTINF:-1, SCBroncos-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/03718a4fd119427a9f66887cfd7ad88d.m3u8
-#EXTINF:-1, MooseJaw-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/4032757576c64b2ea55f4c4d4932b57f.m3u8
 #EXTINF:-1, Calgary-Lethbridge
 https://media-service.fanreachdata.io/edge/whl/9eca1768fc00448a8f1e5ba2641ae195.m3u8
 #EXTINF:-1, Edmonton-RedDeer
