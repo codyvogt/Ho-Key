@@ -1,20 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Sherbrooke-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/d22c163dd48c4ad99d15024bdf9bab7d.m3u8
-#EXTINF:-1, Québec-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/30bf1d01ab6d486494d0a754e1f42d86.m3u8
-#EXTINF:-1, Blainville-B.-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/dac7c984c96e4e55a58c5184644dedc0.m3u8
-#EXTINF:-1, Rimouski-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/a1ca78656e034f339ee534bdf5184e11.m3u8
-#EXTINF:-1, Shawinigan-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/36c6459159304af8aa438f2b751895bc.m3u8
 #EXTINF:-1, Halifax-Acadie-Bathurst
 https://media-service.fanreachdata.io/edge/lhjmq/55b51e3f45aa4e11be41d0eefe85f239.m3u8
 #EXTINF:-1, CapeBreton-Chtown
 https://media-service.fanreachdata.io/edge/lhjmq/21b01dae742443799d4a5a85036796b4.m3u8
-#EXTINF:-1, Ottawa67's-Brampton
-https://media-service.fanreachdata.io/edge/ohl/204b6c4cb2834f43a8401b94313915cb.m3u8
+#EXTINF:-1, UNLV-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls/master/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls.m3u8
 #EXTINF:-1, Niagara-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/9104ddf43af34e42b3cfedf1f207f377.m3u8
 #EXTINF:-1, Guelph-ErieOtters
@@ -27,8 +17,6 @@ https://media-service.fanreachdata.io/edge/ohl/343673dc5e34437f9c8fe2411b43a590.
 https://media-service.fanreachdata.io/edge/ohl/739553383c344541b26e02a9f2dacb61.m3u8
 #EXTINF:-1, NorthBay-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/dfbb64096ac441599ad8725846bac6c7.m3u8
-#EXTINF:-1, UNLV-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls/master/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls.m3u8
 #EXTINF:-1, Saskatoon-ReginaPats
 https://media-service.fanreachdata.io/edge/whl/102faab102b04d189d12f854e555a675.m3u8
 #EXTINF:-1, Brandon-MooseJaw
