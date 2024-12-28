@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Briançon-Chamonix
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eb0.m3u8
-#EXTINF:-1, Hormadid'Anglet-Gap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2d0fb9e1d37d5008eb2.m3u8
-#EXTINF:-1, UNH-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, USAU18-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls/master/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls.m3u8
-#EXTINF:-1, UNLV-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls/master/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls.m3u8
 #EXTINF:-1, SaintJohn-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/59ea8ddcd82a4362bb3c10049d94a0c7.m3u8
 #EXTINF:-1, Sherbrooke-Chicoutimi
@@ -25,6 +17,12 @@ https://media-service.fanreachdata.io/edge/lhjmq/36c6459159304af8aa438f2b751895b
 https://media-service.fanreachdata.io/edge/lhjmq/55b51e3f45aa4e11be41d0eefe85f239.m3u8
 #EXTINF:-1, CapeBreton-Chtown
 https://media-service.fanreachdata.io/edge/lhjmq/21b01dae742443799d4a5a85036796b4.m3u8
+#EXTINF:-1, UNH-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, USAU18-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls/master/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls.m3u8
+#EXTINF:-1, UNLV-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls/master/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls.m3u8
 #EXTINF:-1, Ottawa67's-Brampton
 https://media-service.fanreachdata.io/edge/ohl/204b6c4cb2834f43a8401b94313915cb.m3u8
 #EXTINF:-1, Niagara-FlintFirebirds
