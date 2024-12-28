@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1, Avtomobilist-Metallurg
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, AkBarsKazan-Traktor
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Canada-StraubingTigers
+fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_3/index.m3u8
