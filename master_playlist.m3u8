@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rungsted-HerlevEagles
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bdc0106b3acc7867dd/index.m3u8
-#EXTINF:-1, Esbjerg-SønderjyskE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f947bd2ad3f109382cba0e/index.m3u8
-#EXTINF:-1, OdenseBulldogs-Herning
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f947be3bd78e5d711b4f12/index.m3u8
-#EXTINF:-1, Aalborg-Frederikshavn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bd2ad3f109382cba10/index.m3u8
 #EXTINF:-1, Bordeaux-Grenoble
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eae.m3u8
 #EXTINF:-1, Rouen-Amiens
@@ -15,12 +7,20 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674be2d0fb9e1d37d5008eb6.m3u8
 #EXTINF:-1, Cergy-Pontoise-Marseille
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674be2d0fb9e1d37d5008eb8.m3u8
+#EXTINF:-1, Briançon-Chamonix
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eb0.m3u8
 #EXTINF:-1, Hormadid'Anglet-Gap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eb2.m3u8
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2d0fb9e1d37d5008eb2.m3u8
 #EXTINF:-1, Finland-Germany
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6740656874345b0eaa499376/index.m3u8
 #EXTINF:-1, HSKurbads-L&LHope
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67613d18c8616b072d433326/index.m3u8
+#EXTINF:-1, Esbjerg-SønderjyskE
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f947bd2ad3f109382cba0e/index.m3u8
+#EXTINF:-1, OdenseBulldogs-Herning
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66f947be3bd78e5d711b4f12/index.m3u8
+#EXTINF:-1, Aalborg-Frederikshavn
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bd2ad3f109382cba10/index.m3u8
 #EXTINF:-1, UNH-Rensselaer
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Wolferines-RoosaPanter
@@ -31,3 +31,19 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ea8a6a83d4f176bc9d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675c54a5c8616b072d432da8/index.m3u8
 #EXTINF:-1, Villard-de-Lans-Vaujany
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675e57cfc8616b072d432ee4/index.m3u8
+#EXTINF:-1, SaintJohn-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/59ea8ddcd82a4362bb3c10049d94a0c7.m3u8
+#EXTINF:-1, Sherbrooke-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/d22c163dd48c4ad99d15024bdf9bab7d.m3u8
+#EXTINF:-1, Québec-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/30bf1d01ab6d486494d0a754e1f42d86.m3u8
+#EXTINF:-1, Blainville-B.-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/dac7c984c96e4e55a58c5184644dedc0.m3u8
+#EXTINF:-1, Rimouski-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/a1ca78656e034f339ee534bdf5184e11.m3u8
+#EXTINF:-1, Shawinigan-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/36c6459159304af8aa438f2b751895bc.m3u8
+#EXTINF:-1, Halifax-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/55b51e3f45aa4e11be41d0eefe85f239.m3u8
+#EXTINF:-1, CapeBreton-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/21b01dae742443799d4a5a85036796b4.m3u8
