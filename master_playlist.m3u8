@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Esbjerg-SønderjyskE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f947bd2ad3f109382cba0e/index.m3u8
 #EXTINF:-1, Aalborg-Frederikshavn
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bd2ad3f109382cba10/index.m3u8
-#EXTINF:-1, UNH-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, USAU18-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls/master/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls.m3u8
-#EXTINF:-1, UNLV-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls/master/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls.m3u8
-#EXTINF:-1, Wolferines-RoosaPanter
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675e556fc8616b072d432ee2/index.m3u8
 #EXTINF:-1, Rouen-Amiens
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2d0fb9e1d37d5008eb4.m3u8
 #EXTINF:-1, AiglesdeNice-Angers
@@ -27,6 +17,12 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ea8a6a83d4f176bc9d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675c54a5c8616b072d432da8/index.m3u8
 #EXTINF:-1, Villard-de-Lans-Vaujany
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/675e57cfc8616b072d432ee4/index.m3u8
+#EXTINF:-1, UNH-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, USAU18-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls/master/9e82ee9a-eb9b-467b-aaa7-b3f0783a75a5-hls.m3u8
+#EXTINF:-1, UNLV-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls/master/22d3cb32-5afd-44f9-b677-b76fa1591f23-hls.m3u8
 #EXTINF:-1, SaintJohn-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/59ea8ddcd82a4362bb3c10049d94a0c7.m3u8
 #EXTINF:-1, Sherbrooke-Chicoutimi
