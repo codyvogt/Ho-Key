@@ -13,3 +13,5 @@ https://media-service.fanreachdata.io/edge/whl/9279b3996abb4803b3e4f32117e6e447.
 https://media-service.fanreachdata.io/edge/whl/dd94b890ff314c9ca5655b1495a19c69.m3u8
 #EXTINF:-1, WenatcheeWild-Spokane
 https://media-service.fanreachdata.io/edge/whl/91237250d2bb472abaa7eec4fadc32b1.m3u8
+#EXTINF:-1, AdmiralVladivostok-Sibir
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
