@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Bordeaux-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eae.m3u8
-#EXTINF:-1, Rouen-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2d0fb9e1d37d5008eb4.m3u8
-#EXTINF:-1, AiglesdeNice-Angers
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674be2d0fb9e1d37d5008eb6.m3u8
-#EXTINF:-1, Cergy-Pontoise-Marseille
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674be2d0fb9e1d37d5008eb8.m3u8
-#EXTINF:-1, Briançon-Chamonix
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eb0.m3u8
-#EXTINF:-1, Hormadid'Anglet-Gap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2d0fb9e1d37d5008eb2.m3u8
 #EXTINF:-1, Esbjerg-SønderjyskE
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66f947bd2ad3f109382cba0e/index.m3u8
 #EXTINF:-1, OdenseBulldogs-Herning
@@ -21,6 +9,16 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66f947bd2ad3f109382cb
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Wolferines-RoosaPanter
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675e556fc8616b072d432ee2/index.m3u8
+#EXTINF:-1, Rouen-Amiens
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2d0fb9e1d37d5008eb4.m3u8
+#EXTINF:-1, AiglesdeNice-Angers
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674be2d0fb9e1d37d5008eb6.m3u8
+#EXTINF:-1, Cergy-Pontoise-Marseille
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674be2d0fb9e1d37d5008eb8.m3u8
+#EXTINF:-1, Briançon-Chamonix
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674be2d0fb9e1d37d5008eb0.m3u8
+#EXTINF:-1, Hormadid'Anglet-Gap
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674be2d0fb9e1d37d5008eb2.m3u8
 #EXTINF:-1, Heerenveen-Eaters
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ea8a6a83d4f176bc9ddfd/index.m3u8
 #EXTINF:-1, Chambéry-TrineU
