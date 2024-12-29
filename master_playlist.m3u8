@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1, WMU-MichiganTech
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, AmericanInt'l-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, BostonUniversity-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Concordia-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, UNLV-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls/master/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls.m3u8
-#EXTINF:-1, STU-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c28d126c-01be-4f88-b27b-421ceca8050d-hls/master/c28d126c-01be-4f88-b27b-421ceca8050d-hls.m3u8
-#EXTINF:-1, Dartmouth-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Victoriaville-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
+#EXTINF:-1, Sherbrooke-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08f.m3u8
+#EXTINF:-1, Rimouski-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
+#EXTINF:-1, Gatineau-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
 #EXTINF:-1, London-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/e45449fb9c264e5c855354e181a25db6.m3u8
 #EXTINF:-1, Niagara-SaginawSpirit
@@ -25,11 +19,13 @@ https://media-service.fanreachdata.io/edge/whl/889af1420d174a6a8e285fd28002fb8e.
 https://media-service.fanreachdata.io/edge/whl/550434ec82dd45f4929479c6da109276.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/93fa1d5863574e819f1f9a77d47873ad.m3u8
-#EXTINF:-1, Victoriaville-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
-#EXTINF:-1, Sherbrooke-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08f.m3u8
-#EXTINF:-1, Rimouski-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
-#EXTINF:-1, Gatineau-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
+#EXTINF:-1, AmericanInt'l-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, BostonUniversity-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, UNLV-ColoradoCollege
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls/master/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls.m3u8
+#EXTINF:-1, STU-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c28d126c-01be-4f88-b27b-421ceca8050d-hls/master/c28d126c-01be-4f88-b27b-421ceca8050d-hls.m3u8
+#EXTINF:-1, Dartmouth-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
