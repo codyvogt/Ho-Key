@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Pardubice-Straubing
-fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Sweden-Switzerland
-fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Zoldo-PiemontRebelles
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367090eeba7bde92d0ef/index.m3u8
 #EXTINF:-1, HCBFoxes-Pergine
@@ -29,3 +25,19 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163677d24da32d7de67
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
 #EXTINF:-1, RapacesdeGap-Grenoble
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/675fa94ec8616b072d433020.m3u8
+#EXTINF:-1, HerlevEagles-Rødovre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fcea257655fb0aed1ed50f/index.m3u8
+#EXTINF:-1, Moncton-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/f68d72d88a6441279f8aa7ff11622cda.m3u8
+#EXTINF:-1, Rouyn-Noranda-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/36712493278b42d5be35d43828c0f3da.m3u8
+#EXTINF:-1, Victoriaville-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
+#EXTINF:-1, Sherbrooke-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08f.m3u8
+#EXTINF:-1, Rimouski-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
+#EXTINF:-1, Gatineau-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
+#EXTINF:-1, Eaters-Diez-Limburg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ffa25a83d4f176bc9dfd6/index.m3u8
