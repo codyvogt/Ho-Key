@@ -3,5 +3,29 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Pardubice-Straubing
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, RögleBK-Troja-Ljungby
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676907cd5969d50f8878875a/index.m3u8
+#EXTINF:-1, K-Espoo-StBenedict
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676257118edf8a54162c6f1f/index.m3u8
+#EXTINF:-1, HuddingeIK-Linden
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676935cc840b7877dbe03956/index.m3u8
+#EXTINF:-1, StormPinerolo-Eppan
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716366e90eeba7bde92d0ed/index.m3u8
+#EXTINF:-1, HCBFoxes-Pergine
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163670d24da32d7de674d3/index.m3u8
+#EXTINF:-1, Kaltern/Ritten-Cortina
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367190eeba7bde92d0f1/index.m3u8
+#EXTINF:-1, Merano/Bolzano-Aosta
+fluidtv.php?channel=https://content.aisportswatch.com/472147/master.m3u8
+#EXTINF:-1, Como-Juniorteams
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367390eeba7bde92d0f5/index.m3u8
+#EXTINF:-1, NarvaPSK-HKVipers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675ee20fdf782100e074c37f/index.m3u8
+#EXTINF:-1, Välk494-HCEverest
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/675ee20fdf782100e074c37b/index.m3u8
+#EXTINF:-1, ViruSputnik-HCPanter
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ee20fdf782100e074c37d/index.m3u8
+#EXTINF:-1, HKVentspils-Zemgale
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676905c05969d50f8878873d/index.m3u8
+#EXTINF:-1, Zoldo-PiemontRebelles
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367090eeba7bde92d0ef/index.m3u8
+#EXTINF:-1, CzechRepublic-Slovakia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
