@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, HCBFoxes-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163670d24da32d7de674d3/index.m3u8
 #EXTINF:-1, Kaltern/Ritten-Cortina
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716367190eeba7bde92d0f1/index.m3u8
 #EXTINF:-1, Merano/Bolzano-Aosta
 fluidtv.php?channel=https://content.aisportswatch.com/472147/master.m3u8
 #EXTINF:-1, Como-Juniorteams
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367390eeba7bde92d0f5/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716367390eeba7bde92d0f5/index.m3u8
 #EXTINF:-1, SVKaltern-Pergine
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163672d24da32d7de674d5/index.m3u8
 #EXTINF:-1, Varese-EppanAppiano
@@ -21,8 +19,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367590eeba7bde92d
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163677d24da32d7de674dd/index.m3u8
 #EXTINF:-1, CzechRepublic-Slovakia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
-#EXTINF:-1, RapacesdeGap-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/675fa94ec8616b072d433020.m3u8
 #EXTINF:-1, HerlevEagles-Rødovre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fcea257655fb0aed1ed50f/index.m3u8
 #EXTINF:-1, Moncton-Charlottetown
@@ -39,3 +35,43 @@ https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc199605
 https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
 #EXTINF:-1, Eaters-Diez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ffa25a83d4f176bc9dfd6/index.m3u8
+#EXTINF:-1, BarrieColts-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/8d62c3dfe5854d79a630f183fde90a3d.m3u8
+#EXTINF:-1, Ottawa-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/6d7ee0be68684b8caf4391dad33da265.m3u8
+#EXTINF:-1, Kitchener-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/3ab960ea2c30468a991d1be231497544.m3u8
+#EXTINF:-1, Windsor-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/29ec87e7e89d41a09e365bb62e72f2f8.m3u8
+#EXTINF:-1, London-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/e45449fb9c264e5c855354e181a25db6.m3u8
+#EXTINF:-1, Niagara-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/e7e73fff94fb4d618daccb82d5b0e8bc.m3u8
+#EXTINF:-1, Kingston-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/e80db007457541ebb7b5c75528e1fb94.m3u8
+#EXTINF:-1, LongIsland-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, RIT-BowlingGreen
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, USAU18-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/384e42bd-6f0a-40f1-87f9-93817c4379ea-hls/master/384e42bd-6f0a-40f1-87f9-93817c4379ea-hls.m3u8
+#EXTINF:-1, Manitoba-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/74fe8c36-321e-4444-b4ba-64579b64571b-hls/master/74fe8c36-321e-4444-b4ba-64579b64571b-hls.m3u8
+#EXTINF:-1, SFU-UMassLowell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, Bentley-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, AmericanInt'l-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, BostonUniversity-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Concordia-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, UNLV-ColoradoCollege
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls/master/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls.m3u8
+#EXTINF:-1, STU-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c28d126c-01be-4f88-b27b-421ceca8050d-hls/master/c28d126c-01be-4f88-b27b-421ceca8050d-hls.m3u8
+#EXTINF:-1, Dartmouth-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Villard-de-Lans-Stevenson
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675fa94ec8616b072d43301e/index.m3u8
