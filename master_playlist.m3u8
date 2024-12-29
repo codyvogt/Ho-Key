@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DinamoMn-Lokomotiv
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Pardubice-Straubing
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Sweden-Switzerland
