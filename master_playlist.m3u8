@@ -3,9 +3,5 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, DinamoMn-Lokomotiv
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Switzerland-Finland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656874345b0eaa499374/index.m3u8
-#EXTINF:-1, CzechRepublic-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
 #EXTINF:-1, RögleBK-Troja-Ljungby
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676907cd5969d50f8878875a/index.m3u8
