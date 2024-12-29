@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, BarrieColts-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/8d62c3dfe5854d79a630f183fde90a3d.m3u8
-#EXTINF:-1, Ottawa-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/6d7ee0be68684b8caf4391dad33da265.m3u8
 #EXTINF:-1, Kitchener-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/3ab960ea2c30468a991d1be231497544.m3u8
 #EXTINF:-1, Windsor-SaultSte.Marie
@@ -35,8 +31,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b749d495-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c28d126c-01be-4f88-b27b-421ceca8050d-hls/master/c28d126c-01be-4f88-b27b-421ceca8050d-hls.m3u8
 #EXTINF:-1, Dartmouth-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Valpellice-Dolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163676d24da32d7de674db/index.m3u8
 #EXTINF:-1, Alleghe-Valdifiemme
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716367590eeba7bde92d0f7/index.m3u8
 #EXTINF:-1, FassaFalcons-Como
