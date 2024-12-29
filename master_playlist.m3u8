@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Vityaz-SpartakMoscow
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, DinamoMn-Lokomotiv
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Pardubice-Straubing
+fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, RögleBK-Troja-Ljungby
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676907cd5969d50f8878875a/index.m3u8
