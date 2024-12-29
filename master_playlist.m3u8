@@ -5,10 +5,6 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Sweden-Switzerland
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, ViruSputnik-HCPanter
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ee20fdf782100e074c37d/index.m3u8
-#EXTINF:-1, HKVentspils-Zemgale
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676905c05969d50f8878873d/index.m3u8
 #EXTINF:-1, Zoldo-PiemontRebelles
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367090eeba7bde92d0ef/index.m3u8
 #EXTINF:-1, HCBFoxes-Pergine
@@ -19,5 +15,19 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716367190eeba7bde92d
 fluidtv.php?channel=https://content.aisportswatch.com/472147/master.m3u8
 #EXTINF:-1, Como-Juniorteams
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367390eeba7bde92d0f5/index.m3u8
+#EXTINF:-1, SVKaltern-Pergine
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163672d24da32d7de674d5/index.m3u8
+#EXTINF:-1, Varese-EppanAppiano
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163674d24da32d7de674d7/index.m3u8
+#EXTINF:-1, HCAosta-Bressanone
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163675d24da32d7de674d9/index.m3u8
+#EXTINF:-1, Valpellice-Dolomites
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163676d24da32d7de674db/index.m3u8
+#EXTINF:-1, Alleghe-Valdifiemme
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367590eeba7bde92d0f7/index.m3u8
+#EXTINF:-1, FassaFalcons-Como
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163677d24da32d7de674dd/index.m3u8
 #EXTINF:-1, CzechRepublic-Slovakia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
+#EXTINF:-1, RapacesdeGap-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/675fa94ec8616b072d433020.m3u8
