@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rouyn-Noranda-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/36712493278b42d5be35d43828c0f3da.m3u8
-#EXTINF:-1, Victoriaville-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
-#EXTINF:-1, Sherbrooke-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08f.m3u8
-#EXTINF:-1, Rimouski-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
-#EXTINF:-1, Gatineau-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
-#EXTINF:-1, SFU-UMassLowell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, WMU-MichiganTech
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, AmericanInt'l-Quinnipiac
@@ -37,3 +25,11 @@ https://media-service.fanreachdata.io/edge/whl/889af1420d174a6a8e285fd28002fb8e.
 https://media-service.fanreachdata.io/edge/whl/550434ec82dd45f4929479c6da109276.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/93fa1d5863574e819f1f9a77d47873ad.m3u8
+#EXTINF:-1, Victoriaville-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
+#EXTINF:-1, Sherbrooke-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08f.m3u8
+#EXTINF:-1, Rimouski-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
+#EXTINF:-1, Gatineau-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
