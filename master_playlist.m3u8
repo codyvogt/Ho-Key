@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SVKaltern-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163672d24da32d7de674d5/index.m3u8
-#EXTINF:-1, Varese-EppanAppiano
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163674d24da32d7de674d7/index.m3u8
-#EXTINF:-1, HCAosta-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163675d24da32d7de674d9/index.m3u8
-#EXTINF:-1, Valpellice-Dolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163676d24da32d7de674db/index.m3u8
-#EXTINF:-1, Alleghe-Valdifiemme
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367590eeba7bde92d0f7/index.m3u8
-#EXTINF:-1, FassaFalcons-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163677d24da32d7de674dd/index.m3u8
 #EXTINF:-1, CzechRepublic-Slovakia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
 #EXTINF:-1, Como-Juniorteams
@@ -31,6 +19,16 @@ https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc199605
 https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
 #EXTINF:-1, Eaters-Diez-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/675ffa25a83d4f176bc9dfd6/index.m3u8
+#EXTINF:-1, Varese-EppanAppiano
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163674d24da32d7de674d7/index.m3u8
+#EXTINF:-1, HCAosta-Bressanone
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163675d24da32d7de674d9/index.m3u8
+#EXTINF:-1, Valpellice-Dolomites
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163676d24da32d7de674db/index.m3u8
+#EXTINF:-1, Alleghe-Valdifiemme
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367590eeba7bde92d0f7/index.m3u8
+#EXTINF:-1, FassaFalcons-Como
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163677d24da32d7de674dd/index.m3u8
 #EXTINF:-1, BarrieColts-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/8d62c3dfe5854d79a630f183fde90a3d.m3u8
 #EXTINF:-1, Ottawa-Peterborough
