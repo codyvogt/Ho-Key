@@ -7,3 +7,9 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656874345b0eaa499374/index.m3u8
 #EXTINF:-1, CzechRepublic-Slovakia
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
+#EXTINF:-1, MastiniDevils-Eagles
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5b39251076945206eaa/index.m3u8
+#EXTINF:-1, Zoldo-PiemontRebelles
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6716367090eeba7bde92d0ef/index.m3u8
+#EXTINF:-1, RögleBK-Troja-Ljungby
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676907cd5969d50f8878875a/index.m3u8
