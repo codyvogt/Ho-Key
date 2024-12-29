@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Germany-Canada
+fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1, Victoriaville-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
 #EXTINF:-1, Sherbrooke-Baie-Comeau
@@ -19,8 +21,6 @@ https://media-service.fanreachdata.io/edge/whl/889af1420d174a6a8e285fd28002fb8e.
 https://media-service.fanreachdata.io/edge/whl/550434ec82dd45f4929479c6da109276.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/93fa1d5863574e819f1f9a77d47873ad.m3u8
-#EXTINF:-1, AmericanInt'l-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, BostonUniversity-Yale
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, UNLV-ColoradoCollege
