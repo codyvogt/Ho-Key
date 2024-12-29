@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Germany-Canada
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1, Victoriaville-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
-#EXTINF:-1, Rimouski-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
-#EXTINF:-1, Gatineau-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
 #EXTINF:-1, UNLV-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls/master/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls.m3u8
 #EXTINF:-1, STU-St.CloudState
