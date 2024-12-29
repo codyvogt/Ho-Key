@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, FassaFalcons-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163677d24da32d7de674dd/index.m3u8
 #EXTINF:-1, Rouyn-Noranda-Val-d'Or
 https://media-service.fanreachdata.io/edge/lhjmq/36712493278b42d5be35d43828c0f3da.m3u8
 #EXTINF:-1, Victoriaville-Chicoutimi
@@ -13,10 +11,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc199605
 https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
 #EXTINF:-1, RIT-BowlingGreen
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, USAU18-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/384e42bd-6f0a-40f1-87f9-93817c4379ea-hls/master/384e42bd-6f0a-40f1-87f9-93817c4379ea-hls.m3u8
-#EXTINF:-1, Manitoba-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/74fe8c36-321e-4444-b4ba-64579b64571b-hls/master/74fe8c36-321e-4444-b4ba-64579b64571b-hls.m3u8
 #EXTINF:-1, SFU-UMassLowell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, WMU-MichiganTech
