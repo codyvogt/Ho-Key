@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Kitchener-SudburyWolves
-https://media-service.fanreachdata.io/edge/ohl/3ab960ea2c30468a991d1be231497544.m3u8
-#EXTINF:-1, Windsor-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/29ec87e7e89d41a09e365bb62e72f2f8.m3u8
-#EXTINF:-1, London-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/e45449fb9c264e5c855354e181a25db6.m3u8
-#EXTINF:-1, Niagara-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/e7e73fff94fb4d618daccb82d5b0e8bc.m3u8
-#EXTINF:-1, Kingston-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/e80db007457541ebb7b5c75528e1fb94.m3u8
+#EXTINF:-1, FassaFalcons-Como
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163677d24da32d7de674dd/index.m3u8
+#EXTINF:-1, Rouyn-Noranda-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/36712493278b42d5be35d43828c0f3da.m3u8
+#EXTINF:-1, Victoriaville-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
+#EXTINF:-1, Sherbrooke-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08f.m3u8
+#EXTINF:-1, Rimouski-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
+#EXTINF:-1, Gatineau-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
 #EXTINF:-1, RIT-BowlingGreen
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, USAU18-ArizonaState
@@ -31,20 +33,12 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b749d495-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c28d126c-01be-4f88-b27b-421ceca8050d-hls/master/c28d126c-01be-4f88-b27b-421ceca8050d-hls.m3u8
 #EXTINF:-1, Dartmouth-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Alleghe-Valdifiemme
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716367590eeba7bde92d0f7/index.m3u8
-#EXTINF:-1, FassaFalcons-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163677d24da32d7de674dd/index.m3u8
-#EXTINF:-1, Rouyn-Noranda-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/36712493278b42d5be35d43828c0f3da.m3u8
-#EXTINF:-1, Victoriaville-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/013b0407508e49a29d2f954bae61ab4f.m3u8
-#EXTINF:-1, Sherbrooke-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08f.m3u8
-#EXTINF:-1, Rimouski-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
-#EXTINF:-1, Gatineau-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
+#EXTINF:-1, London-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/e45449fb9c264e5c855354e181a25db6.m3u8
+#EXTINF:-1, Niagara-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/e7e73fff94fb4d618daccb82d5b0e8bc.m3u8
+#EXTINF:-1, Kingston-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/e80db007457541ebb7b5c75528e1fb94.m3u8
 #EXTINF:-1, MedicineHat-Calgary
 https://media-service.fanreachdata.io/edge/whl/889af1420d174a6a8e285fd28002fb8e.m3u8
 #EXTINF:-1, RedDeer-Edmonton
