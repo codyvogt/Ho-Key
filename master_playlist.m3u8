@@ -9,8 +9,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/ac1bc0c75df44e55b96c49a2836ff08
 https://media-service.fanreachdata.io/edge/lhjmq/77878ee144bd473191d52becc1996059.m3u8
 #EXTINF:-1, Gatineau-Drummondville
 https://media-service.fanreachdata.io/edge/lhjmq/508f45e218b844e5ae7a816888248036.m3u8
-#EXTINF:-1, RIT-BowlingGreen
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, SFU-UMassLowell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, WMU-MichiganTech
