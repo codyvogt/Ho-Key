@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Finland-UnitedStates
-fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1, CzechRepublic-Slovakia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
 #EXTINF:-1, Como-Juniorteams
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6716367390eeba7bde92d0f5/index.m3u8
 #EXTINF:-1, HerlevEagles-Rødovre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66fcea257655fb0aed1ed50f/index.m3u8
+#EXTINF:-1, CzechRepublic-Slovakia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6740656974345b0eaa499384/index.m3u8
 #EXTINF:-1, Moncton-Charlottetown
 https://media-service.fanreachdata.io/edge/lhjmq/f68d72d88a6441279f8aa7ff11622cda.m3u8
 #EXTINF:-1, Rouyn-Noranda-Val-d'Or
@@ -30,7 +28,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67163676d24da32d7de67
 #EXTINF:-1, Alleghe-Valdifiemme
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6716367590eeba7bde92d0f7/index.m3u8
 #EXTINF:-1, FassaFalcons-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67163677d24da32d7de674dd/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67163677d24da32d7de674dd/index.m3u8
 #EXTINF:-1, BarrieColts-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/8d62c3dfe5854d79a630f183fde90a3d.m3u8
 #EXTINF:-1, Ottawa-Peterborough
