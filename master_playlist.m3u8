@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, STU-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c28d126c-01be-4f88-b27b-421ceca8050d-hls/master/c28d126c-01be-4f88-b27b-421ceca8050d-hls.m3u8
-#EXTINF:-1, Dartmouth-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Niagara-SaginawSpirit
 https://media-service.fanreachdata.io/edge/ohl/e7e73fff94fb4d618daccb82d5b0e8bc.m3u8
 #EXTINF:-1, Kingston-Oshawa
@@ -11,3 +7,5 @@ https://media-service.fanreachdata.io/edge/ohl/e80db007457541ebb7b5c75528e1fb94.
 https://media-service.fanreachdata.io/edge/whl/550434ec82dd45f4929479c6da109276.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/93fa1d5863574e819f1f9a77d47873ad.m3u8
+#EXTINF:-1, Dartmouth-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
