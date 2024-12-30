@@ -3,3 +3,5 @@
 https://media-service.fanreachdata.io/edge/whl/93fa1d5863574e819f1f9a77d47873ad.m3u8
 #EXTINF:-1, Dartmouth-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, AmurKhabarovsk-Sibir
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
