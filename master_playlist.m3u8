@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1, NMU-MichiganTech
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, Halifax-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/fcdba4788c044930acbf59dfa5d138e9.m3u8
+#EXTINF:-1, Québec-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/3a5bce6d13f44e27a2beace2862c1f61.m3u8
 #EXTINF:-1, Dartmouth-UNH
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
