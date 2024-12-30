@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Germany-Canada
-fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1, UNLV-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls/master/b749d495-f5ee-40ed-908f-f3b325c9fcdf-hls.m3u8
 #EXTINF:-1, STU-St.CloudState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c28d126c-01be-4f88-b27b-421ceca8050d-hls/master/c28d126c-01be-4f88-b27b-421ceca8050d-hls.m3u8
 #EXTINF:-1, Dartmouth-Providence
