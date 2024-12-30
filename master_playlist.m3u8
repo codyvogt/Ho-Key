@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Latvia-Germany
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Rungsted-Odense
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/66fcea257655fb0aed1ed511/index.m3u8
-#EXTINF:-1, EsbjergEnergy-Herning
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/66fcea259ae3c54b26871cb6/index.m3u8
-#EXTINF:-1, KilsAIK-NorIKJ23
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6742d05f74345b0eaa4999b1/index.m3u8
 #EXTINF:-1, Marseille-AiglesdeNice
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674e85cefb9e1d37d5009787.m3u8
 #EXTINF:-1, Chamonix-Anglet
