@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Marseille-AiglesdeNice
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674e85cefb9e1d37d5009787.m3u8
-#EXTINF:-1, Chamonix-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674e85cefb9e1d37d500978f.m3u8
 #EXTINF:-1, Bordeaux-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674e85cefb9e1d37d5009785.m3u8
-#EXTINF:-1, Amiens-Cergy-Pontoise
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/674e85cefb9e1d37d500978b.m3u8
-#EXTINF:-1, Grenoble-RapacesdeGap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/674e85cefb9e1d37d500978d.m3u8
-#EXTINF:-1, Ducsd'Angers-Briançon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/674e85cefb9e1d37d5009789.m3u8
 #EXTINF:-1, NMU-MichiganTech
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, Manitoba-MinnState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, Morzine-Stevenson
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6760facfa83d4f176bc9e0f1/index.m3u8
 #EXTINF:-1, Dartmouth-UNH
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
