@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, RedDeer-Edmonton
-https://media-service.fanreachdata.io/edge/whl/550434ec82dd45f4929479c6da109276.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/93fa1d5863574e819f1f9a77d47873ad.m3u8
-#EXTINF:-1, Kingston-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/e80db007457541ebb7b5c75528e1fb94.m3u8
 #EXTINF:-1, Dartmouth-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
