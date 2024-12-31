@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, ItalyU18-GrotonSchool
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/code/index.m3u8
+#EXTINF:-1, StraubingTigers-HCFG
+fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_3/index.m3u8
