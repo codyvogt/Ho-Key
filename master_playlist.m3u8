@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Latvia-Finland
-fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1, CzechRepublic-Sweden
-fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, St.LouisBlues-Chicago
-fluidtv.php?channel=http://fl2.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1, SaintJohn-ABTitan
 https://media-service.fanreachdata.io/edge/lhjmq/7d66d509dd804e7784b9885a9a0fad50.m3u8
 #EXTINF:-1, CapeBreton-Halifax
