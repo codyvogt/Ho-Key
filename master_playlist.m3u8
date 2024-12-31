@@ -37,3 +37,5 @@ https://media-service.fanreachdata.io/edge/ohl/1691ba992d8544508cb571462346c619.
 https://media-service.fanreachdata.io/edge/ohl/37d848eeb03049a99ebc08be44b774fb.m3u8
 #EXTINF:-1, Oshawa-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/6935f2d5f595404fbdf263f084c5f00c.m3u8
+#EXTINF:-1, UMD-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
