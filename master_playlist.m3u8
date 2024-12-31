@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SaintJohn-ABTitan
-https://media-service.fanreachdata.io/edge/lhjmq/7d66d509dd804e7784b9885a9a0fad50.m3u8
-#EXTINF:-1, CapeBreton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/2de61be15304442a9e974688eb861e45.m3u8
 #EXTINF:-1, Gatineau-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/633ff24df6604d26930da376eac4bad4.m3u8
 #EXTINF:-1, Drummondville-Rimouski
@@ -17,8 +13,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/c0e7dbd0e77b49e0b9d1eb300afe440
 https://media-service.fanreachdata.io/edge/lhjmq/ff778251f9194f4693b5a20f49a35824.m3u8
 #EXTINF:-1, Charlottetown-Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/96199e44a42f4aeca7219d785e491794.m3u8
-#EXTINF:-1, Kitchener-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/f56c4621a6fe42089014fe66e359f71e.m3u8
 #EXTINF:-1, Sudbury-Brampton
 https://media-service.fanreachdata.io/edge/ohl/3f989d4e443b459091b56be1d85a0996.m3u8
 #EXTINF:-1, Flint-WindsorSpitfires
@@ -31,5 +25,17 @@ https://media-service.fanreachdata.io/edge/ohl/1691ba992d8544508cb571462346c619.
 https://media-service.fanreachdata.io/edge/ohl/37d848eeb03049a99ebc08be44b774fb.m3u8
 #EXTINF:-1, Oshawa-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/6935f2d5f595404fbdf263f084c5f00c.m3u8
+#EXTINF:-1, Vancouver-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/06f180718ee94fecbf257c5891251a0d.m3u8
+#EXTINF:-1, ReginaPats-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/459feb7b6b4140bd868244a4af5fb4f2.m3u8
+#EXTINF:-1, EverettSilvertips-Portland
+https://media-service.fanreachdata.io/edge/whl/69a2070a126a42f5b66c0b765f2a8c9a.m3u8
+#EXTINF:-1, Kelowna-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/130c98334d104bfa995aee5ee8c92903.m3u8
+#EXTINF:-1, SpokaneChiefs-Tri-City
+https://media-service.fanreachdata.io/edge/whl/d1e2c2f81b2c47d1a13a2551cd798354.m3u8
+#EXTINF:-1, PrinceGeorge-Seattle
+https://media-service.fanreachdata.io/edge/whl/4dc6529a1f0a40058dc0fe9aa4e2d609.m3u8
 #EXTINF:-1, UMD-BemidjiState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
