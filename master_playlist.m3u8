@@ -15,3 +15,5 @@ https://media-service.fanreachdata.io/edge/whl/1569512c597b4c3eab6d92c6bf3575dc.
 https://media-service.fanreachdata.io/edge/whl/fbd230862a524df3a5beb0f2267a1487.m3u8
 #EXTINF:-1, PrinceAlbert-Saskatoon
 https://media-service.fanreachdata.io/edge/whl/1610b16e5da34f4984ca5a254b4f09d3.m3u8
+#EXTINF:-1, Quinnipiac-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
