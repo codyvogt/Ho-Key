@@ -1,19 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Brantford-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/1691ba992d8544508cb571462346c619.m3u8
-#EXTINF:-1, Peterborough-Niagara
-https://media-service.fanreachdata.io/edge/ohl/37d848eeb03049a99ebc08be44b774fb.m3u8
-#EXTINF:-1, Oshawa-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/6935f2d5f595404fbdf263f084c5f00c.m3u8
-#EXTINF:-1, ReginaPats-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/459feb7b6b4140bd868244a4af5fb4f2.m3u8
-#EXTINF:-1, EverettSilvertips-Portland
-https://media-service.fanreachdata.io/edge/whl/69a2070a126a42f5b66c0b765f2a8c9a.m3u8
-#EXTINF:-1, Kelowna-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/130c98334d104bfa995aee5ee8c92903.m3u8
-#EXTINF:-1, SpokaneChiefs-Tri-City
-https://media-service.fanreachdata.io/edge/whl/d1e2c2f81b2c47d1a13a2551cd798354.m3u8
-#EXTINF:-1, PrinceGeorge-Seattle
-https://media-service.fanreachdata.io/edge/whl/4dc6529a1f0a40058dc0fe9aa4e2d609.m3u8
-#EXTINF:-1, UMD-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
