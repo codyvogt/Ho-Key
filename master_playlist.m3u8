@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sweden-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6763a88f437b23251ee5b3e0/index.m3u8
 #EXTINF:-1, Germany-Kazakhstan
 fluidtv.php?channel=http://fl2.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1, Pinerolo-HCBFoxes
