@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Kaltern/Ritten-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67726a96840b7877dbe045fa/index.m3u8
-#EXTINF:-1, StormPinerolo-HCBFoxes
+#EXTINF:-1, Sweden-Switzerland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6763a88f437b23251ee5b3e0/index.m3u8
+#EXTINF:-1, Pinerolo-HCBFoxes
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726ae95969d50f8878951c/index.m3u8
 #EXTINF:-1, HCAosta-AsiagoJunior
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726a62840b7877dbe045f6/index.m3u8
@@ -9,5 +9,3 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726a62840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726ad25969d50f8878951a/index.m3u8
 #EXTINF:-1, Merano/Bolzano-Brixen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726a6c5969d50f88789518/index.m3u8
-#EXTINF:-1, Sweden-Switzerland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6763a88f437b23251ee5b3e0/index.m3u8
