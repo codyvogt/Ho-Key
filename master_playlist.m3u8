@@ -1,1 +1,15 @@
 #EXTM3U
+#EXTINF:-1, Shawinigan-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/3fed23704268421580c69bce55a8cc63.m3u8
+#EXTINF:-1, Kitchener-Brantford
+https://media-service.fanreachdata.io/edge/ohl/37b14c98ba5a4157a5fc69c6972fe575.m3u8
+#EXTINF:-1, Sudbury-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/ec0810f2b55648b29ad877429587876c.m3u8
+#EXTINF:-1, Peterborough-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/8e64b8885a6e45faa56c8fbb66e46064.m3u8
+#EXTINF:-1, Guelph-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/2b69953a205540919e3a3de4fbecfd39.m3u8
+#EXTINF:-1, Ottawa-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/dee4e6430df041fc97e4de570b71199f.m3u8
+#EXTINF:-1, SpokaneChiefs-Portland
+https://media-service.fanreachdata.io/edge/whl/12a447ea06b542e8aa57479117111b8b.m3u8
