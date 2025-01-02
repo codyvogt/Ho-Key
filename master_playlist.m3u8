@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Brampton-Kingston
-https://media-service.fanreachdata.io/edge/ohl/12ea0310816a43d3a32081b95a258995.m3u8
-#EXTINF:-1, Calgary-Edmonton
-https://media-service.fanreachdata.io/edge/whl/72e987e9c0cf403890e8f3ad0e91e179.m3u8
-#EXTINF:-1, VictoriaRoyals-Vancouver
-https://media-service.fanreachdata.io/edge/whl/1569512c597b4c3eab6d92c6bf3575dc.m3u8
-#EXTINF:-1, MooseJaw-ReginaPats
-https://media-service.fanreachdata.io/edge/whl/fbd230862a524df3a5beb0f2267a1487.m3u8
-#EXTINF:-1, PrinceAlbert-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/1610b16e5da34f4984ca5a254b4f09d3.m3u8
-#EXTINF:-1, Quinnipiac-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
