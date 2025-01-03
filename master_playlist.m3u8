@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Briançon-Marseille
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6753cbce9574b23fd5309819.m3u8
-#EXTINF:-1, Gap-Chamonix
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6753cbce9574b23fd530981d.m3u8
-#EXTINF:-1, AiglesdeNice-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6753cbce9574b23fd530981f.m3u8
-#EXTINF:-1, Rouen-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6753cbce9574b23fd5309821.m3u8
-#EXTINF:-1, Hormadid'Anglet-Angers
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6753cbce9574b23fd530981b.m3u8
 #EXTINF:-1, Cergy-Pontoise-Bordeaux
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6753cbce9574b23fd5309823.m3u8
-#EXTINF:-1, Diez-Limburg-Limburg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767e3245969d50f887885fc/index.m3u8
-#EXTINF:-1, DieBärenNeuwied-Liège
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767e324840b7877dbe037be/index.m3u8
-#EXTINF:-1, HijsHokij-Heerenveen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6767e325840b7877dbe037c0/index.m3u8
-#EXTINF:-1, Mechelen-HYCHerentals
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767e3255969d50f887885fe/index.m3u8
+#EXTINF:-1, Dartmouth-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
