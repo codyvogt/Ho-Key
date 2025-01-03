@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1, KalPa-TapparaTampere
 fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1, SønderjyskE-Rungsted
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670e1fc56b135e19484e23a8/index.m3u8
+#EXTINF:-1, EsbjergEnergy-Odense
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e1fc66b135e19484e23aa/index.m3u8
+#EXTINF:-1, Herning-Frederikshavn
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670e1fc56b135e19484e23a6/index.m3u8
+#EXTINF:-1, Rødovre-HerlevEagles
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670e1fc66b135e19484e23ac/index.m3u8
