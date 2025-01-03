@@ -3,3 +3,7 @@
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677691ef840b7877dbe04a7b/index.m3u8
 #EXTINF:-1, Poland-HKNitra
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67769257840b7877dbe04a7d/index.m3u8
+#EXTINF:-1, TraktorChelyabinsk-Amur
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, SKAStPetersburg-CSKA
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
