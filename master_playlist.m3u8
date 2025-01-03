@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, SpokaneChiefs-Portland
-https://media-service.fanreachdata.io/edge/whl/12a447ea06b542e8aa57479117111b8b.m3u8
+#EXTINF:-1, ItalianHDP-Salzburg
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677691ef840b7877dbe04a7b/index.m3u8
+#EXTINF:-1, Poland-HKNitra
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67769257840b7877dbe04a7d/index.m3u8
