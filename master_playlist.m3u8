@@ -1,5 +1,19 @@
 #EXTM3U
 #EXTINF:-1, SKAStPetersburg-CSKA
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, OulunKärpät-Jukurit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd274/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-Ässät
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd26c/index.m3u8
+#EXTINF:-1, RoKi-RaumanLukko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd267/index.m3u8
+#EXTINF:-1, TurunPalloseura-HIFK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd268/index.m3u8
+#EXTINF:-1, VaasanSport-Tappara
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd26f/index.m3u8
+#EXTINF:-1, HPK-TampereenIlves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd26e/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-KalPa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd26d/index.m3u8
 #EXTINF:-1, Ml.Boleslav-KarlovyVary
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6763efd5437b23251ee5b4a5/index.m3u8
