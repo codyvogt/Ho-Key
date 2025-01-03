@@ -55,3 +55,19 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northe
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Providence-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Oshawa-Kingston
+https://media-service.fanreachdata.io/edge/ohl/9999d5e6fee04202b12b4a9b302d8cd0.m3u8
+#EXTINF:-1, Ottawa-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/a2df85b2b37b4290a3b3233ead22d8ab.m3u8
+#EXTINF:-1, Erie-KitchenerRangers
+https://media-service.fanreachdata.io/edge/ohl/4a475a87163948408977d62b74eb10d3.m3u8
+#EXTINF:-1, Niagara-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/c62069280822491bbf88fb8c9a9747bb.m3u8
+#EXTINF:-1, NorthBay-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/522ddb8c62f54ca894463543fcbbaf08.m3u8
+#EXTINF:-1, Brantford-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/f00b96cb632d4322a69a27fbffd91fb9.m3u8
+#EXTINF:-1, PeterboroughPetes-Soo
+https://media-service.fanreachdata.io/edge/ohl/197eb3a8cd72450c8deeeabde16b6f13.m3u8
+#EXTINF:-1, OwenSound-Guelph
+https://media-service.fanreachdata.io/edge/ohl/dfb3d480c3254875bc61ecd1bf26de37.m3u8
