@@ -1,11 +1,3 @@
 #EXTM3U
 #EXTINF:-1, KalPa-TapparaTampere
 fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1, VaasanSport-Tappara
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6764fa10e5d25478562dd26f/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-KalPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6764fa10e5d25478562dd26d/index.m3u8
-#EXTINF:-1, KotkanTitaanit-Hunters
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd243/index.m3u8
-#EXTINF:-1, LeKi-NokianPyry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd244/index.m3u8
