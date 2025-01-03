@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dartmouth-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Cornell-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Princeton-Rensselaer
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Colgate-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, UConn-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, BostonU-HolyCross
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, Merrimack-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Maine-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Providence-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Massachusetts-Cornell
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7f8f687c-0d42-470b-bcae-85fa2f8b56f6-hls/master/7f8f687c-0d42-470b-bcae-85fa2f8b56f6-hls.m3u8
 #EXTINF:-1, Union-Brown
@@ -41,3 +21,37 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidj
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0f4723f7-3068-4d25-be31-045eca1b02b4-hls/master/0f4723f7-3068-4d25-be31-045eca1b02b4-hls.m3u8
 #EXTINF:-1, RMU-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9f205e4b-d568-4e81-99fa-c1d324c758c9-hls/master/9f205e4b-d568-4e81-99fa-c1d324c758c9-hls.m3u8
+#EXTINF:-1, Halifax-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/6ac92eb2361448c1b84183afe76efa1c.m3u8
+#EXTINF:-1, ABTitan-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/8e77a8a79c714c77a152fd1340e337c5.m3u8
+#EXTINF:-1, SaintJohn-Chtown
+https://media-service.fanreachdata.io/edge/lhjmq/b9476954a89248b1aa08ea592f89ef3f.m3u8
+#EXTINF:-1, Rouyn-Noranda-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/20669a5842fa4e7096e24850c1d6c675.m3u8
+#EXTINF:-1, Blainville-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/9d31f89349474e148c2298c44d83a8fc.m3u8
+#EXTINF:-1, Shawinigan-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/22268ca573bb467983e2cd6c539c1eee.m3u8
+#EXTINF:-1, Rimouski-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/a88e780379c04d6f9c9d9a301ce4dde7.m3u8
+#EXTINF:-1, Drummond.-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/da39ff4ef30e49fd9d9f8ef5541d37da.m3u8
+#EXTINF:-1, Cornell-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Princeton-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Colgate-St.Lawrence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, UConn-BostonCollege
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, BostonU-HolyCross
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Merrimack-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Maine-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Providence-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
