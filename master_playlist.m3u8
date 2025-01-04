@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1, LerumsBK-HisingensIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770d9f35969d50f887890b0/index.m3u8
+#EXTINF:-1, Vinschgau-Valpellice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5c374345b0eaa499fdd/index.m3u8
+#EXTINF:-1, Strasbourg2-Mulhouse2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6767924d5969d50f887884a2/index.m3u8
+#EXTINF:-1, DucsdeDijon2-Metz
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6767924d5969d50f88788490/index.m3u8
+#EXTINF:-1, AiglesdeNice2-Nîmes
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6767924d5969d50f887884a4.m3u8
+#EXTINF:-1, Brest2-Nantes2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6767924d5969d50f887884a6/index.m3u8
+#EXTINF:-1, DogsdeCholet2-Poitiers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767924d5969d50f8878849a/index.m3u8
+#EXTINF:-1, Briançon2-Chambéry2
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6767924d5969d50f8878849e.m3u8
+#EXTINF:-1, Tours2-Rennes
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767924d5969d50f88788496/index.m3u8
