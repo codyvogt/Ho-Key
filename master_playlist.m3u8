@@ -1,30 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Torpedo-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, K-Kissat-KJTHaukatAk
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe03542/index.m3u8
-#EXTINF:-1, Seinäjoen-Kiekko-IPK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8fae0a1433698f8b16/index.m3u8
-#EXTINF:-1, SaPKo-Kiekko-Vantaa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8fae0a1433698f8aea/index.m3u8
-#EXTINF:-1, KJTHaukat-Ketterä
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe03547/index.m3u8
-#EXTINF:-1, Hermes-KOOVEE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe03548/index.m3u8
-#EXTINF:-1, ViikingitHelsinki-FoPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8fae0a1433698f8ae6/index.m3u8
-#EXTINF:-1, JYPAkatemia-TUTO
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe03541/index.m3u8
-#EXTINF:-1, LaserHTAk-LaserHTHot
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67664b8f840b7877dbe034e8/index.m3u8
-#EXTINF:-1, JHTAkatemia-HaU
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd24c/index.m3u8
-#EXTINF:-1, Popula-Kiekko-Ketut
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034e4/index.m3u8
-#EXTINF:-1, Pallo-Karhut-SuPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8fae0a1433698f8ae3/index.m3u8
-#EXTINF:-1, Raahe-KiekkoII-OYUS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6764fa10e5d25478562dd24b/index.m3u8
 #EXTINF:-1, VaasanSport-Jukurit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67664b8f840b7877dbe03505/index.m3u8
 #EXTINF:-1, OulunKärpät-Lukko
@@ -54,7 +30,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770f0cd840b7877dbe04
 #EXTINF:-1, BorlängeHF-Karlskoga
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770e2bd840b7877dbe04150/index.m3u8
 #EXTINF:-1, TingsrydsAIF-Halmstad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770efec840b7877dbe04226/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770efec840b7877dbe04226/index.m3u8
 #EXTINF:-1, MariestadHC-Olofström
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770e9c55969d50f88789139/index.m3u8
 #EXTINF:-1, ValboHC-OrsaIK
