@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Meudon-Mont-Blanc
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6767924c5969d50f8878848c/index.m3u8
-#EXTINF:-1, Chambéry-Valenciennes
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6767924d5969d50f8878848e/index.m3u8
 #EXTINF:-1, Morzine-Strasbourg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6767924d5969d50f88788494/index.m3u8
 #EXTINF:-1, HCMP-Nantes
@@ -11,16 +7,10 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767924d5969d50f88788
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6767924c5969d50f8878848a/index.m3u8
 #EXTINF:-1, DrakkarsdeCaen-Tours
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767924c5969d50f88788488/index.m3u8
-#EXTINF:-1, Bressanone-Pergine
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fac65969d50f88789661/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Fassa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fac8840b7877dbe0476d/index.m3u8
 #EXTINF:-1, Alleghe-HCAosta
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fac95969d50f88789665/index.m3u8
 #EXTINF:-1, Valdifiemme-Valpellice
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773faca5969d50f88789667/index.m3u8
-#EXTINF:-1, DogsdeCholet2-Poitiers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6767924d5969d50f8878849a/index.m3u8
 #EXTINF:-1, Briançon2-Chambéry2
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6767924d5969d50f8878849e.m3u8
 #EXTINF:-1, Tours2-Rennes
