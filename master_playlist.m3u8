@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Shawinigan-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/22268ca573bb467983e2cd6c539c1eee.m3u8
-#EXTINF:-1, Erie-KitchenerRangers
-https://media-service.fanreachdata.io/edge/ohl/4a475a87163948408977d62b74eb10d3.m3u8
-#EXTINF:-1, Brantford-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/f00b96cb632d4322a69a27fbffd91fb9.m3u8
-#EXTINF:-1, Union-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Denver-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, NewHampshire-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, UAA-WesternMichigan
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/47719d0e-2410-4839-9355-5bd7a9552bcd-hls/master/47719d0e-2410-4839-9355-5bd7a9552bcd-hls.m3u8
-#EXTINF:-1, BGSU-LakeSuperior
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/lakesuperiorhockey/playlist.m3u8
-#EXTINF:-1, Alaska-MinnesotaDuluth
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2d47b07f-df11-477b-b1f3-f7f7663c60ef-hls/master/2d47b07f-df11-477b-b1f3-f7f7663c60ef-hls.m3u8
-#EXTINF:-1, Manitoba-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, Augustana-ColoradoC
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0f4723f7-3068-4d25-be31-045eca1b02b4-hls/master/0f4723f7-3068-4d25-be31-045eca1b02b4-hls.m3u8
-#EXTINF:-1, RMU-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9f205e4b-d568-4e81-99fa-c1d324c758c9-hls/master/9f205e4b-d568-4e81-99fa-c1d324c758c9-hls.m3u8
 #EXTINF:-1, PrinceAlbert-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/148f2e798c7d4ce38322950a8983e0a6.m3u8
 #EXTINF:-1, Brandon-Saskatoon
@@ -45,3 +19,11 @@ https://media-service.fanreachdata.io/edge/whl/06e5ed7d0d3e45e58edd387453b93090.
 https://media-service.fanreachdata.io/edge/whl/778fcf3204e34474b74f6c3ffab5c0a8.m3u8
 #EXTINF:-1, Everett-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/e8ba5f33df0240ed9482d9fc7ac7f4b2.m3u8
+#EXTINF:-1, Alaska-MinnesotaDuluth
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2d47b07f-df11-477b-b1f3-f7f7663c60ef-hls/master/2d47b07f-df11-477b-b1f3-f7f7663c60ef-hls.m3u8
+#EXTINF:-1, Manitoba-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, Augustana-ColoradoC
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0f4723f7-3068-4d25-be31-045eca1b02b4-hls/master/0f4723f7-3068-4d25-be31-045eca1b02b4-hls.m3u8
+#EXTINF:-1, RMU-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9f205e4b-d568-4e81-99fa-c1d324c758c9-hls/master/9f205e4b-d568-4e81-99fa-c1d324c758c9-hls.m3u8
