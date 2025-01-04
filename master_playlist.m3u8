@@ -1,28 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Rouyn-Noranda-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/0f27fbd377ca4b05a5868df8de88a7be.m3u8
 #EXTINF:-1, Blainville-Baie-Comeau
 https://media-service.fanreachdata.io/edge/lhjmq/fd97b176eb0f4c6fa6654cf199b017f7.m3u8
-#EXTINF:-1, Val-d'Or-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/4a507f7c2f104c49a0caef5f95e1f03e.m3u8
 #EXTINF:-1, ABTitan-CapeBreton
 https://media-service.fanreachdata.io/edge/lhjmq/80ea6d0be67840e9a44da03cbc2cb44b.m3u8
 #EXTINF:-1, SaintJohn-Charlottetown
 https://media-service.fanreachdata.io/edge/lhjmq/4440cc3d1fd1465db1b7e0fa5803272c.m3u8
-#EXTINF:-1, FlintFirebirds-Brampton
-https://media-service.fanreachdata.io/edge/ohl/a037f231572a46e19560db1b7b30cf1d.m3u8
-#EXTINF:-1, Windsor-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/711e384d579344a9a744a8ea11cdba96.m3u8
-#EXTINF:-1, Niagara-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/f7317b788dad47c8b67f493ee45754f8.m3u8
-#EXTINF:-1, SaultSte.Marie	-Saginaw
-https://media-service.fanreachdata.io/edge/ohl/874872f5c7cc4efd9fd747eb2f69922f.m3u8
-#EXTINF:-1, NewHampshire-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Northeastern-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Concordia-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Rensselaer-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, UMass-RobertMorris
@@ -53,6 +35,12 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/124afe48-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, HolyCross-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Windsor-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/711e384d579344a9a744a8ea11cdba96.m3u8
+#EXTINF:-1, Niagara-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/f7317b788dad47c8b67f493ee45754f8.m3u8
+#EXTINF:-1, SaultSte.Marie	-Saginaw
+https://media-service.fanreachdata.io/edge/ohl/874872f5c7cc4efd9fd747eb2f69922f.m3u8
 #EXTINF:-1, Saskatoon-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/1e22056be9824dbcb25427cc03521e2e.m3u8
 #EXTINF:-1, Brandon-PrinceAlbert
