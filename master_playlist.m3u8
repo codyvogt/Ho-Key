@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Massachusetts-Cornell
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7f8f687c-0d42-470b-bcae-85fa2f8b56f6-hls/master/7f8f687c-0d42-470b-bcae-85fa2f8b56f6-hls.m3u8
 #EXTINF:-1, Union-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Rensselaer-Yale
@@ -71,3 +69,23 @@ https://media-service.fanreachdata.io/edge/ohl/f00b96cb632d4322a69a27fbffd91fb9.
 https://media-service.fanreachdata.io/edge/ohl/197eb3a8cd72450c8deeeabde16b6f13.m3u8
 #EXTINF:-1, OwenSound-Guelph
 https://media-service.fanreachdata.io/edge/ohl/dfb3d480c3254875bc61ecd1bf26de37.m3u8
+#EXTINF:-1, PrinceAlbert-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/148f2e798c7d4ce38322950a8983e0a6.m3u8
+#EXTINF:-1, Brandon-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/7a1aecf2496c42c68c34829f1d6649df.m3u8
+#EXTINF:-1, MedicineHat-SCBroncos
+https://media-service.fanreachdata.io/edge/whl/490accd2764746edbd7ea306f30c4b39.m3u8
+#EXTINF:-1, Edmonton-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/3fe10308fa934814a6b6fb0043c77721.m3u8
+#EXTINF:-1, Calgary-RedDeerRebels
+https://media-service.fanreachdata.io/edge/whl/cb3608d90ebf4e989a411e95b1ddffbf.m3u8
+#EXTINF:-1, Kelowna-Kamloops
+https://media-service.fanreachdata.io/edge/whl/6f3ad90a5e344cde938abfb660ba2ad5.m3u8
+#EXTINF:-1, Seattle-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/5bd555665f8f486aab99596e610f231f.m3u8
+#EXTINF:-1, Wenatchee-Vancouver
+https://media-service.fanreachdata.io/edge/whl/06e5ed7d0d3e45e58edd387453b93090.m3u8
+#EXTINF:-1, Portland-Tri-City
+https://media-service.fanreachdata.io/edge/whl/778fcf3204e34474b74f6c3ffab5c0a8.m3u8
+#EXTINF:-1, Everett-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/e8ba5f33df0240ed9482d9fc7ac7f4b2.m3u8
