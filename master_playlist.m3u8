@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Torpedo-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, WingsArlanda-Nyköping
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770de58840b7877dbe0413f/index.m3u8
+#EXTINF:-1, PadovaWaves-Pinerolo
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6745a5c79251076945206ec0/index.m3u8
+#EXTINF:-1, Aosta-HCPSelection
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5c174345b0eaa499fdb/index.m3u8
+#EXTINF:-1, Vinschgau-Valpellice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5c374345b0eaa499fdd/index.m3u8
 #EXTINF:-1, BoråsHC-Troja-Ljungby
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770ef0b5969d50f88789166/index.m3u8
 #EXTINF:-1, BäckenHC-Oskarshamn
@@ -27,12 +31,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770ee2a840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770e5605969d50f887890f2/index.m3u8
 #EXTINF:-1, FlemingsbergsIK-Linden
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770df395969d50f887890c4/index.m3u8
-#EXTINF:-1, PadovaWaves-Pinerolo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6745a5c79251076945206ec0/index.m3u8
-#EXTINF:-1, Aosta-HCPSelection
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5c174345b0eaa499fdb/index.m3u8
-#EXTINF:-1, Vinschgau-Valpellice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5c374345b0eaa499fdd/index.m3u8
 #EXTINF:-1, UplakersYlöjärvi-Hokkarit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034b9/index.m3u8
 #EXTINF:-1, LiminganKiekko-KeKi
