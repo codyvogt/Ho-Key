@@ -83,6 +83,12 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinni
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Rensselaer-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, UMass-RobertMorris
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6ce59cf5-0d30-4b2d-9946-1c63e05ab310-hls/master/6ce59cf5-0d30-4b2d-9946-1c63e05ab310-hls.m3u8
+#EXTINF:-1, Augustana-ColoradoC
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2f022448-f883-4d51-b5c5-3f027559a6ce-hls/master/2f022448-f883-4d51-b5c5-3f027559a6ce-hls.m3u8
+#EXTINF:-1, UAA-WesternMichigan
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/851920fa-9071-4c3f-a4c9-475d1e18b9a4-hls/master/851920fa-9071-4c3f-a4c9-475d1e18b9a4-hls.m3u8
 #EXTINF:-1, St.Lawrence-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, BGSU-LakeSuperior
@@ -95,3 +101,9 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Connecticut-Harvard
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Alaska-MinnesotaDuluth
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f887582a-a3e0-47e2-922a-53763811cffd-hls/master/f887582a-a3e0-47e2-922a-53763811cffd-hls.m3u8
+#EXTINF:-1, Manitoba-NorthDakota
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7d5391c6-be86-4aaf-ab28-c42a67a2d035-hls/master/7d5391c6-be86-4aaf-ab28-c42a67a2d035-hls.m3u8
+#EXTINF:-1, Cornell-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/124afe48-7001-48df-ba9a-01a8e867af3e-hls/master/124afe48-7001-48df-ba9a-01a8e867af3e-hls.m3u8
