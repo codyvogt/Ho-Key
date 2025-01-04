@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ABTitan-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/8e77a8a79c714c77a152fd1340e337c5.m3u8
 #EXTINF:-1, Rouyn-Noranda-Québec
 https://media-service.fanreachdata.io/edge/lhjmq/20669a5842fa4e7096e24850c1d6c675.m3u8
 #EXTINF:-1, Blainville-Chicoutimi
@@ -11,8 +9,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/22268ca573bb467983e2cd6c539c1ee
 https://media-service.fanreachdata.io/edge/lhjmq/a88e780379c04d6f9c9d9a301ce4dde7.m3u8
 #EXTINF:-1, Drummond.-Sherbrooke
 https://media-service.fanreachdata.io/edge/lhjmq/da39ff4ef30e49fd9d9f8ef5541d37da.m3u8
-#EXTINF:-1, UConn-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Oshawa-Kingston
 https://media-service.fanreachdata.io/edge/ohl/9999d5e6fee04202b12b4a9b302d8cd0.m3u8
 #EXTINF:-1, Ottawa-FlintFirebirds
