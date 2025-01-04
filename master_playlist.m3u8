@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, LapuanVirkiä-RaaheK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034b3/index.m3u8
-#EXTINF:-1, PorvoonHunters-SaPKo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67664b8fae0a1433698f8abb/index.m3u8
-#EXTINF:-1, LeKi-KotkanTitaanit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034b5/index.m3u8
-#EXTINF:-1, Seinäjoen-Kiekko-FPS
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67664b8fae0a1433698f8ac2/index.m3u8
+#EXTINF:-1, HCLitvínov-KometaBrno
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6762ac648edf8a54162c6fed/index.m3u8
