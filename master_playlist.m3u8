@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Torpedo-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, VaasanSport-Jukurit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67664b8f840b7877dbe03505/index.m3u8
-#EXTINF:-1, HelsinginJokerit-Tappara
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034f2/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-Ilves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe03503/index.m3u8
-#EXTINF:-1, TurunPalloseura-JYP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034f4/index.m3u8
-#EXTINF:-1, SaiPa-PorinÄssät
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe03506/index.m3u8
-#EXTINF:-1, LahdenPelicans-KalPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034f1/index.m3u8
-#EXTINF:-1, HIFK-KouvolanKooKoo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67664b8f840b7877dbe034f7/index.m3u8
 #EXTINF:-1, WingsArlanda-Nyköping
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770de58840b7877dbe0413f/index.m3u8
 #EXTINF:-1, BoråsHC-Troja-Ljungby
@@ -94,7 +80,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770eb875969d50f88789
 #EXTINF:-1, TrelleborgsIF-Tyringe
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770e803840b7877dbe041c2/index.m3u8
 #EXTINF:-1, JonstorpsIF-Västervik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770e47f5969d50f887890ea/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770e47f5969d50f887890ea/index.m3u8
 #EXTINF:-1, RydaholmsSK-Vimmerby
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d9f35969d50f887890b2/index.m3u8
 #EXTINF:-1, Boro/Vetlanda-Limhamn
