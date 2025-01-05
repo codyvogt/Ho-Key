@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Limburg-HijsHokij
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676934a8840b7877dbe03954/index.m3u8
-#EXTINF:-1, HYC-LeuvenChiefs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676934a85969d50f88788776/index.m3u8
 #EXTINF:-1, Moncton-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/d491f8b1403c4eaba08720427c63631b.m3u8
 #EXTINF:-1, Rouyn-Noranda-Rimouski
@@ -25,6 +21,8 @@ https://media-service.fanreachdata.io/edge/ohl/92f0b45089f44924a14e77da27d465b2.
 https://media-service.fanreachdata.io/edge/ohl/1c3e1c371b684dffbe76e900467a74de.m3u8
 #EXTINF:-1, Dartmouth-Merrimack
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, HYC-LeuvenChiefs
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676934a85969d50f88788776/index.m3u8
 #EXTINF:-1, Maine-BostonCollege
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Vermont-Connecticut
