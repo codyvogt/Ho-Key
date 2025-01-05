@@ -3,18 +3,10 @@
 https://media-service.fanreachdata.io/edge/ohl/711e384d579344a9a744a8ea11cdba96.m3u8
 #EXTINF:-1, SaultSte.Marie	-Saginaw
 https://media-service.fanreachdata.io/edge/ohl/874872f5c7cc4efd9fd747eb2f69922f.m3u8
-#EXTINF:-1, Union-Yale
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Connecticut-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
 #EXTINF:-1, Alaska-MinnesotaDuluth
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f887582a-a3e0-47e2-922a-53763811cffd-hls/master/f887582a-a3e0-47e2-922a-53763811cffd-hls.m3u8
-#EXTINF:-1, Manitoba-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7d5391c6-be86-4aaf-ab28-c42a67a2d035-hls/master/7d5391c6-be86-4aaf-ab28-c42a67a2d035-hls.m3u8
 #EXTINF:-1, Cornell-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/124afe48-7001-48df-ba9a-01a8e867af3e-hls/master/124afe48-7001-48df-ba9a-01a8e867af3e-hls.m3u8
-#EXTINF:-1, HolyCross-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Saskatoon-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/1e22056be9824dbcb25427cc03521e2e.m3u8
 #EXTINF:-1, Brandon-PrinceAlbert
