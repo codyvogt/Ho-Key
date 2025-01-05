@@ -19,14 +19,6 @@ https://media-service.fanreachdata.io/edge/ohl/264c95eebacf47b7b73a7a8fcd7b32c3.
 https://media-service.fanreachdata.io/edge/ohl/92f0b45089f44924a14e77da27d465b2.m3u8
 #EXTINF:-1, Kitchener-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/1c3e1c371b684dffbe76e900467a74de.m3u8
-#EXTINF:-1, Dartmouth-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, HYC-LeuvenChiefs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676934a85969d50f88788776/index.m3u8
-#EXTINF:-1, Maine-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Vermont-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, ReginaPats-Calgary
 https://media-service.fanreachdata.io/edge/whl/da0650cc7a1443c488d936fe2883fc32.m3u8
 #EXTINF:-1, Lethbridge-Edmonton
@@ -35,3 +27,5 @@ https://media-service.fanreachdata.io/edge/whl/cced233e40cc4acd9b67a7bb6b40a09c.
 https://media-service.fanreachdata.io/edge/whl/c4013796e4364e41afd09ea488e0ea7f.m3u8
 #EXTINF:-1, Kamloops-SpokaneChiefs
 https://media-service.fanreachdata.io/edge/whl/dd86dcbeca1147eca8d0ef04f2ec4080.m3u8
+#EXTINF:-1, Vermont-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
