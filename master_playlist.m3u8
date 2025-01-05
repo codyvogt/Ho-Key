@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Briançon-Cergy-Pontoise
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66e50dd483d9db296f96e2d6.m3u8
-#EXTINF:-1, Chamonix-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67566ed2c412906a2afcf113.m3u8
 #EXTINF:-1, Strasbourg-Villard
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6768e3cd5969d50f88788678/index.m3u8
 #EXTINF:-1, DrakkarsdeCaen-Gap
