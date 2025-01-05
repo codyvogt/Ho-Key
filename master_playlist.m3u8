@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, Providence-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, HolyCross-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, ABTitan-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/80ea6d0be67840e9a44da03cbc2cb44b.m3u8
+#EXTINF:-1, SaintJohn-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/4440cc3d1fd1465db1b7e0fa5803272c.m3u8
 #EXTINF:-1, Augustana-ColoradoC
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2f022448-f883-4d51-b5c5-3f027559a6ce-hls/master/2f022448-f883-4d51-b5c5-3f027559a6ce-hls.m3u8
 #EXTINF:-1, UAA-WesternMichigan
@@ -21,14 +29,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f887582a-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7d5391c6-be86-4aaf-ab28-c42a67a2d035-hls/master/7d5391c6-be86-4aaf-ab28-c42a67a2d035-hls.m3u8
 #EXTINF:-1, Cornell-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/124afe48-7001-48df-ba9a-01a8e867af3e-hls/master/124afe48-7001-48df-ba9a-01a8e867af3e-hls.m3u8
-#EXTINF:-1, Providence-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, HolyCross-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, ABTitan-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/80ea6d0be67840e9a44da03cbc2cb44b.m3u8
-#EXTINF:-1, SaintJohn-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/4440cc3d1fd1465db1b7e0fa5803272c.m3u8
 #EXTINF:-1, Windsor-ErieOtters
 https://media-service.fanreachdata.io/edge/ohl/711e384d579344a9a744a8ea11cdba96.m3u8
 #EXTINF:-1, Niagara-OwenSound
