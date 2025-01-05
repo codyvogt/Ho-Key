@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv-CSKAMoscow
-fluidtv.php?channel=https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Sochi-DynamoMoscow
-fluidtv.php?channel=https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, StrömsbroIF-Hudiksvall
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67723ec95969d50f887893ce/index.m3u8
 #EXTINF:-1, Dunkerque-Caen2
