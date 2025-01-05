@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Strasbourg-Villard
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6768e3cd5969d50f88788678/index.m3u8
-#EXTINF:-1, DrakkarsdeCaen-Gap
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6768e3cd5969d50f88788676/index.m3u8
 #EXTINF:-1, Limburg-HijsHokij
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676934a8840b7877dbe03954/index.m3u8
 #EXTINF:-1, HYC-LeuvenChiefs
