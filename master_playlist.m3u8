@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, VlciJablonec-Vrchlabí
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6747270eb1a3b1008e7e22f5/index.m3u8
 #EXTINF:-1, Rungsted-Rødovre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e1fc76b135e19484e23b4/index.m3u8
 #EXTINF:-1, Valpellice-HCPSelection
@@ -20,7 +18,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6768e3cd5969d50f88788
 #EXTINF:-1, Limburg-HijsHokij
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676934a8840b7877dbe03954/index.m3u8
 #EXTINF:-1, HYC-LeuvenChiefs
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676934a85969d50f88788776/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676934a85969d50f88788776/index.m3u8
 #EXTINF:-1, Moncton-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/d491f8b1403c4eaba08720427c63631b.m3u8
 #EXTINF:-1, Rouyn-Noranda-Rimouski
