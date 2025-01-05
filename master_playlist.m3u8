@@ -1,19 +1,13 @@
 #EXTM3U
 #EXTINF:-1, Rouyn-Noranda-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/3c028bdb2aca42ea8154f14fa1c2bd59.m3u8
-#EXTINF:-1, Victoriaville-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/b89e3e56e9d3424cb9f5f0c99aca937a.m3u8
 #EXTINF:-1, Sherbrooke-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/86484e4cce0b468b9c5223c9a7b14b05.m3u8
 #EXTINF:-1, Val-d'Or-Drummondville
 https://media-service.fanreachdata.io/edge/lhjmq/5869299d8edc40b5a52bdb8b9d34dda3.m3u8
-#EXTINF:-1, ReginaPats-Calgary
-https://media-service.fanreachdata.io/edge/whl/da0650cc7a1443c488d936fe2883fc32.m3u8
 #EXTINF:-1, Lethbridge-Edmonton
 https://media-service.fanreachdata.io/edge/whl/cced233e40cc4acd9b67a7bb6b40a09c.m3u8
 #EXTINF:-1, WenatcheeWild-Tri-City
 https://media-service.fanreachdata.io/edge/whl/c4013796e4364e41afd09ea488e0ea7f.m3u8
 #EXTINF:-1, Kamloops-SpokaneChiefs
 https://media-service.fanreachdata.io/edge/whl/dd86dcbeca1147eca8d0ef04f2ec4080.m3u8
-#EXTINF:-1, Vermont-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
