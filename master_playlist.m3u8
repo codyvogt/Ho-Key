@@ -1,9 +1,3 @@
 #EXTM3U
 #EXTINF:-1, BarysAstana-Lada
 fluidtv.php?channel=https://ucdn.beetv.kz/btv/live/hls/000003038.m3u8
-#EXTINF:-1, Poland-RedBullSalzburg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677692595969d50f887899d4/index.m3u8
-#EXTINF:-1, HKNitra-ItalianHDP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6776925a5969d50f887899d6/index.m3u8
-#EXTINF:-1, Finland-Japan
-fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
