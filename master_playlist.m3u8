@@ -1,19 +1,1 @@
 #EXTM3U
-#EXTINF:-1, SCBroncos-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/6c4b8284451a44e8ac8c32563320e230.m3u8
-#EXTINF:-1, Wenatchee-Portland
-https://media-service.fanreachdata.io/edge/whl/9399615747c94e1da893144de7b8255d.m3u8
-#EXTINF:-1, Seattle-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/2e99623d680a4cc691cc90f8e41ccce8.m3u8
-#EXTINF:-1, ReginaPats-RedDeer
-https://media-service.fanreachdata.io/edge/whl/aec683794bf042c086417fe8fbe57991.m3u8
-#EXTINF:-1, Lethbridge-Edmonton
-https://media-service.fanreachdata.io/edge/whl/f8d7ac72bdfc410494eac5408b95f8ff.m3u8
-#EXTINF:-1, VictoriaRoyals-Everett
-https://media-service.fanreachdata.io/edge/whl/bea61375ba3443d4b496a4870bbb306e.m3u8
-#EXTINF:-1, Vancouver-Kelowna
-https://media-service.fanreachdata.io/edge/whl/74c98444593f433eb4a612551166ee1e.m3u8
-#EXTINF:-1, Kamloops-Spokane
-https://media-service.fanreachdata.io/edge/whl/bbd8af9245a94d66bdd6088cdc0cb71f.m3u8
-#EXTINF:-1, Cornell-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/124afe48-7001-48df-ba9a-01a8e867af3e-hls/master/124afe48-7001-48df-ba9a-01a8e867af3e-hls.m3u8
