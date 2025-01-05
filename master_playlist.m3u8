@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Lokomotiv-CSKAMoscow
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, HerlevEagles-Odense
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e1fc76b135e19484e23b2/index.m3u8
-#EXTINF:-1, Aalborg-SønderjyskE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670e1fc76b135e19484e23b0/index.m3u8
-#EXTINF:-1, Frederikshavn-Esbjerg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/670e1fc66b135e19484e23ae/index.m3u8
-#EXTINF:-1, Rungsted-Rødovre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e1fc76b135e19484e23b4/index.m3u8
-#EXTINF:-1, UplakersYlöjärvi-Pyry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67679d0f840b7877dbe036cb/index.m3u8
-#EXTINF:-1, RNK-SpiritofHockey
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67679d0f840b7877dbe036c2/index.m3u8
 #EXTINF:-1, LuleåHF-MoDoHockey
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67723de8840b7877dbe0450c/index.m3u8
 #EXTINF:-1, SkellefteåAIK-Björklöven
