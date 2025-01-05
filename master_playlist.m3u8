@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Moncton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/d491f8b1403c4eaba08720427c63631b.m3u8
 #EXTINF:-1, Rouyn-Noranda-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/3c028bdb2aca42ea8154f14fa1c2bd59.m3u8
 #EXTINF:-1, Victoriaville-Gatineau
@@ -9,16 +7,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/b89e3e56e9d3424cb9f5f0c99aca937
 https://media-service.fanreachdata.io/edge/lhjmq/86484e4cce0b468b9c5223c9a7b14b05.m3u8
 #EXTINF:-1, Val-d'Or-Drummondville
 https://media-service.fanreachdata.io/edge/lhjmq/5869299d8edc40b5a52bdb8b9d34dda3.m3u8
-#EXTINF:-1, Ottawa67's-Brantford
-https://media-service.fanreachdata.io/edge/ohl/ce7f8039a27140f5a73ee01a21728007.m3u8
-#EXTINF:-1, Windsor-NiagaraIceDogs
-https://media-service.fanreachdata.io/edge/ohl/3b570872312346ddb35d457468f35837.m3u8
-#EXTINF:-1, Flint-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/264c95eebacf47b7b73a7a8fcd7b32c3.m3u8
-#EXTINF:-1, Peterborough-Sudbury
-https://media-service.fanreachdata.io/edge/ohl/92f0b45089f44924a14e77da27d465b2.m3u8
-#EXTINF:-1, Kitchener-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/1c3e1c371b684dffbe76e900467a74de.m3u8
 #EXTINF:-1, ReginaPats-Calgary
 https://media-service.fanreachdata.io/edge/whl/da0650cc7a1443c488d936fe2883fc32.m3u8
 #EXTINF:-1, Lethbridge-Edmonton
