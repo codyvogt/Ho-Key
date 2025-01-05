@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rensselaer-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, UMass-RobertMorris
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6ce59cf5-0d30-4b2d-9946-1c63e05ab310-hls/master/6ce59cf5-0d30-4b2d-9946-1c63e05ab310-hls.m3u8
 #EXTINF:-1, Augustana-ColoradoC
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2f022448-f883-4d51-b5c5-3f027559a6ce-hls/master/2f022448-f883-4d51-b5c5-3f027559a6ce-hls.m3u8
 #EXTINF:-1, UAA-WesternMichigan
