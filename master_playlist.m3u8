@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1, AlmtunaIS-ÖrebroHK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67723b455969d50f8878938a/index.m3u8
+#EXTINF:-1, Cergy-Pontoise-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6768e3cd5969d50f88788674.m3u8
+#EXTINF:-1, Ducsd'Angers-Anglet
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6768e3cd5969d50f8878866c.m3u8
+#EXTINF:-1, Strasbourg-Villard
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6768e3cd5969d50f88788678/index.m3u8
+#EXTINF:-1, DrakkarsdeCaen-Gap
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6768e3cd5969d50f88788676/index.m3u8
