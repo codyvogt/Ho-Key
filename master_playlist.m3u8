@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Lindefallet-Hedesunda
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6741787d74345b0eaa49962e/index.m3u8
-#EXTINF:-1, SandvikensIK-IKHuge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677389415969d50f887895db/index.m3u8
 #EXTINF:-1, EppanAppiano-Feltre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773faca5969d50f88789669/index.m3u8
 #EXTINF:-1, Pergine-ZinnenDolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773facb5969d50f8878966b/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773facb5969d50f8878966b/index.m3u8
 #EXTINF:-1, HCMVVarese-Alleghe
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773facc840b7877dbe04771/index.m3u8
 #EXTINF:-1, Como-ValdifiemmeHC
@@ -17,6 +13,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773facd840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773face840b7877dbe04775/index.m3u8
 #EXTINF:-1, Pelikaanit-GladiatorsHT
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6768ee91840b7877dbe0383c/index.m3u8
+#EXTINF:-1, SandvikensIK-IKHuge
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677389415969d50f887895db/index.m3u8
 #EXTINF:-1, SDEHF-WingsArlanda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677385bd840b7877dbe046df/index.m3u8
 #EXTINF:-1, SollentunaHC-Nyköping
