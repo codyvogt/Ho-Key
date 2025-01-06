@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SkellefteåAIK-MoDo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67738e87840b7877dbe0471f/index.m3u8
 #EXTINF:-1, Lindefallet-Hedesunda
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6741787d74345b0eaa49962e/index.m3u8
 #EXTINF:-1, SandvikensIK-IKHuge
@@ -19,3 +17,21 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773facd840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773face840b7877dbe04775/index.m3u8
 #EXTINF:-1, Pelikaanit-GladiatorsHT
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6768ee91840b7877dbe0383c/index.m3u8
+#EXTINF:-1, SDEHF-WingsArlanda
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677385bd840b7877dbe046df/index.m3u8
+#EXTINF:-1, SollentunaHC-Nyköping
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67738860840b7877dbe046f1/index.m3u8
+#EXTINF:-1, EskilstunaLinden-Nacka
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773877f840b7877dbe046eb/index.m3u8
+#EXTINF:-1, FlemingsbergsIK-Tyresö
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67738239840b7877dbe046d5/index.m3u8
+#EXTINF:-1, Vallentuna-HuddingeIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773877f840b7877dbe046e9/index.m3u8
+#EXTINF:-1, IFKTumbaIK-Trångsund
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773877f840b7877dbe046e5/index.m3u8
+#EXTINF:-1, HammarbyIF-JärnaSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67737dd4840b7877dbe046cd/index.m3u8
+#EXTINF:-1, BrinkensIF-VärmdöHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67737f96840b7877dbe046d3/index.m3u8
+#EXTINF:-1, SegeltorpsIF-Järfälla
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677389415969d50f887895d8/index.m3u8
