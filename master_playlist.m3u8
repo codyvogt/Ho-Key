@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, IFBjörklöven-Hammarby
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67738a225969d50f88789616/index.m3u8
 #EXTINF:-1, SkellefteåAIK-MoDo
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67738e87840b7877dbe0471f/index.m3u8
 #EXTINF:-1, SödertäljeSK-ÖrebroHK
