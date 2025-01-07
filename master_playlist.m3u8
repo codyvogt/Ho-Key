@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, EHCBiel-Bienne-Lugano
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, LiberecB-HCTurnov
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67061d0e6b135e19484e125c/index.m3u8
 #EXTINF:-1, OdenseBulldogs-Rødovre
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670e1fc86b135e19484e23b6/index.m3u8
 #EXTINF:-1, TranåsAIF-MariestadHC
@@ -34,7 +32,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774e2aa840b7877dbe04
 #EXTINF:-1, BurträskHC-SKLejon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774cbd05969d50f88789711/index.m3u8
 #EXTINF:-1, BrunfloIK-KB65HK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774e007840b7877dbe04847/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6774e007840b7877dbe04847/index.m3u8
 #EXTINF:-1, NjurundaSK-Kramfors
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774dd64840b7877dbe0483f/index.m3u8
 #EXTINF:-1, SollefteåHK-ÅngeIK
@@ -58,7 +56,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774d8ff840b7877dbe04
 #EXTINF:-1, HedesundaIF-Skutskär
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774cd92840b7877dbe04809/index.m3u8
 #EXTINF:-1, FOCFarstaIF-Österåker
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774d1f75969d50f8878974d/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6774d1f75969d50f8878974d/index.m3u8
 #EXTINF:-1, Åker/Strängnäs-Kallhäll
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774e46c5969d50f8878977b/index.m3u8
 #EXTINF:-1, Hille/Åbyggeby-Hofors
