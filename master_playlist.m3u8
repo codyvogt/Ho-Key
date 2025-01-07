@@ -3,3 +3,5 @@
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67779c2b840b7877dbe04c0d/index.m3u8
 #EXTINF:-1, LiberecB-HCTurnov
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67061d0e6b135e19484e125c/index.m3u8
+#EXTINF:-1, OdenseBulldogs-Rødovre
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670e1fc86b135e19484e23b6/index.m3u8
