@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, EHCBiel-Bienne-Lugano
+fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, Estonia-Japan
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67779c2b840b7877dbe04c0d/index.m3u8
 #EXTINF:-1, LiberecB-HCTurnov
@@ -73,8 +75,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774e54d840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774e2aa840b7877dbe04851/index.m3u8
 #EXTINF:-1, Troja-Ljungby-RögleBK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774dd645969d50f88789769/index.m3u8
-#EXTINF:-1, EHCBiel-Bienne-Lugano
-fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, NyköpingsAIK-MB
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774ccb15969d50f88789745/index.m3u8
 #EXTINF:-1, BooHC-BrinkensIF
