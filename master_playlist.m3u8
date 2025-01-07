@@ -73,7 +73,19 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774e54d840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774e2aa840b7877dbe04851/index.m3u8
 #EXTINF:-1, Troja-Ljungby-RögleBK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774dd645969d50f88789769/index.m3u8
+#EXTINF:-1, EHCBiel-Bienne-Lugano
+fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, NyköpingsAIK-MB
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774ccb15969d50f88789745/index.m3u8
 #EXTINF:-1, BooHC-BrinkensIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6774d73d840b7877dbe04813/index.m3u8
+#EXTINF:-1, Gap-Cergy-Pontoise
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/671c6ccde689ca0066fa052a.m3u8
+#EXTINF:-1, Briançon-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/676b86cd840b7877dbe03a17.m3u8
+#EXTINF:-1, DragonsdeRouen-Angers
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/676b86cd840b7877dbe03a19.m3u8
+#EXTINF:-1, PUS-KHKiekko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6768ee91840b7877dbe03848/index.m3u8
+#EXTINF:-1, Karhu-Kissat-Shakers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676a40115969d50f887887f9/index.m3u8
