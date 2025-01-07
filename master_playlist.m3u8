@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-CSKA
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Estonia-Japan
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67779c2b840b7877dbe04c0d/index.m3u8
 #EXTINF:-1, LiberecB-HCTurnov
