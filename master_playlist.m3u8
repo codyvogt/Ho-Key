@@ -3,3 +3,7 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Estonia-Italy
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67779c9e5969d50f88789bd3/index.m3u8
+#EXTINF:-1, HarjunKiekko-HYRI
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676b918f840b7877dbe03a24/index.m3u8
+#EXTINF:-1, K-Kissat-K-KissatAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676b918f840b7877dbe03a28/index.m3u8
