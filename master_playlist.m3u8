@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SKA-SpartakMoscow
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Estonia-Italy
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67779c9e5969d50f88789bd3/index.m3u8
 #EXTINF:-1, HarjunKiekko-HYRI
