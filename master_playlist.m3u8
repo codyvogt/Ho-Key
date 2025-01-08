@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, SouthKorea-Japan
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67779c665969d50f88789bcf/index.m3u8
+#EXTINF:-1, Estonia-Italy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67779c9e5969d50f88789bd3/index.m3u8
