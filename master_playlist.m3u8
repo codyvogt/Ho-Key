@@ -19,3 +19,9 @@ https://media-service.fanreachdata.io/edge/ohl/d73ce4d6e6e045149bb86817c69ede2a.
 https://media-service.fanreachdata.io/edge/ohl/e1f2d84efaee481082fd2cf03e931eb0.m3u8
 #EXTINF:-1, SacredHeart-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, PARaiders-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/5c3bff470e804fbaaed68bf1bccac9ec.m3u8
+#EXTINF:-1, Saskatoon-Edmonton
+https://media-service.fanreachdata.io/edge/whl/e11eaf9b39834a1492b1e9c95d94d191.m3u8
+#EXTINF:-1, Vancouver-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/da61e8e9bf6947d5a21145ad8db1805a.m3u8
