@@ -1,29 +1,11 @@
 #EXTM3U
-#EXTINF:-1, TibroIK-LN70HC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67776fb1840b7877dbe04b94/index.m3u8
-#EXTINF:-1, NässjöHC-RönnängsIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67777ea25969d50f88789b82/index.m3u8
-#EXTINF:-1, TrelleborgsIF-Partille
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67777f835969d50f88789b9b/index.m3u8
-#EXTINF:-1, RonnebyIK-Skillingaryd
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677782265969d50f88789ba4/index.m3u8
-#EXTINF:-1, LenhovdaIF-Virserum
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67777254840b7877dbe04b96/index.m3u8
-#EXTINF:-1, MightyRavens-IKGuts
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6777884d5969d50f88789bba/index.m3u8
-#EXTINF:-1, Trollhättan-Uddevalla
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67777f835969d50f88789b9a/index.m3u8
-#EXTINF:-1, VimmerbyHC-Gislaved
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67554774c412906a2afcef8f/index.m3u8
-#EXTINF:-1, KålleredSK-LerumsBK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677782265969d50f88789ba8/index.m3u8
-#EXTINF:-1, VärmdöHC-JärnaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6777868b840b7877dbe04bf4/index.m3u8
-#EXTINF:-1, LaserHT-TornionIHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676ce311840b7877dbe03a8a/index.m3u8
-#EXTINF:-1, HKOpava-HCStudénka
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677d186d5969d50f8878a91d/index.m3u8
 #EXTINF:-1, KalixHC-BodensHF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67778145840b7877dbe04be2/index.m3u8
 #EXTINF:-1, VännäsHC-Clemensnäs
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6777795c840b7877dbe04ba8/index.m3u8
+#EXTINF:-1, MightyRavens-IKGuts
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6777884d5969d50f88789bba/index.m3u8
+#EXTINF:-1, Trollhättan-Uddevalla
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67777f835969d50f88789b9a/index.m3u8
+#EXTINF:-1, VärmdöHC-JärnaSK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6777868b840b7877dbe04bf4/index.m3u8
