@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Chtown-Acadie-Bathurst
-https://media-service.fanreachdata.io/edge/lhjmq/d687ed409e8942b4bb4a6d08384c5432.m3u8
-#EXTINF:-1, Québec-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/a46d114401c646489a9c174f73dea037.m3u8
-#EXTINF:-1, Sherbrooke-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/39c62c0ac34c461591574f68942a295e.m3u8
 #EXTINF:-1, Erie-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/95ab7707d75b49daafb225c192381c1c.m3u8
 #EXTINF:-1, Barrie-OwenSound
@@ -15,6 +9,10 @@ https://media-service.fanreachdata.io/edge/ohl/f5b8605990c541b2b09a6c979abc9cbc.
 https://media-service.fanreachdata.io/edge/ohl/d73ce4d6e6e045149bb86817c69ede2a.m3u8
 #EXTINF:-1, SaultSte.Marie-Sudbury
 https://media-service.fanreachdata.io/edge/ohl/e1f2d84efaee481082fd2cf03e931eb0.m3u8
+#EXTINF:-1, Québec-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/a46d114401c646489a9c174f73dea037.m3u8
+#EXTINF:-1, Sherbrooke-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/39c62c0ac34c461591574f68942a295e.m3u8
 #EXTINF:-1, SacredHeart-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, PARaiders-MedicineHat
