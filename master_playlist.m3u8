@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1, KouvolanKooKoo-Kärpät
-fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1, HCAmbri-Piotta-GSHC
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, SCLTigers-ZSCLions
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, HerlevII-GentofteStars
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670e1e9d6b135e19484e233a/index.m3u8
+#EXTINF:-1, Jää-Tiikerit-Storm
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676ce3115969d50f887888f3/index.m3u8
+#EXTINF:-1, NummelanKV-KlaGe
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676ce3115969d50f887888f2/index.m3u8
+#EXTINF:-1, GrIFKJoukkue-Tiikerit
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676e34925969d50f88788aa3/index.m3u8
+#EXTINF:-1, DjurgårdensIF-Färjestad
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677d293d5969d50f8878a932/index.m3u8
+#EXTINF:-1, FrölundaHC-HV71
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778daae5969d50f88789f9a/index.m3u8
+#EXTINF:-1, HCOlomouc-HCChrudim
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676692cd840b7877dbe03639/index.m3u8
