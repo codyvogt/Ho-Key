@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1, NováPaka-HCFrýdlant
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731e4e02bab5f0222654b04/index.m3u8
-#EXTINF:-1, Amiens-Briançon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/675d0651a83d4f176bc9dc06.m3u8
-#EXTINF:-1, Grenoble-Chamonix
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/678170bfcd09a86d42e741ef/index.m3u8
-#EXTINF:-1, Ducsd'Angers-Gap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/675d0651a83d4f176bc9dc04.m3u8
 #EXTINF:-1, SønderjyskE-Herning
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677d0500840b7877dbe05aa5/index.m3u8
+#EXTINF:-1, Ducsd'Angers-Gap
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/675d0651a83d4f176bc9dc04.m3u8
 #EXTINF:-1, GrIFKJoukkue-Tiikerit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676e34925969d50f88788aa3/index.m3u8
 #EXTINF:-1, Mechelen-HijsHokij
