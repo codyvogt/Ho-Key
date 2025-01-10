@@ -3,14 +3,8 @@
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, SCLTigers-ZSCLions
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, DjurgårdensIF-Färjestad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677d293d5969d50f8878a932/index.m3u8
-#EXTINF:-1, FagerstaAIK-Hallsberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d3a7840b7877dbe04fe0/index.m3u8
-#EXTINF:-1, Guldsmedshytte-Arboga
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c0505969d50f88789dbd/index.m3u8
-#EXTINF:-1, TierpsHK-SpångaISIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d103840b7877dbe04fd6/index.m3u8
+#EXTINF:-1, Dunkerque-ÉpinalHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676f7b4d5969d50f88788c2b/index.m3u8
 #EXTINF:-1, SKLejon-RosvikIK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778cc9e5969d50f88789f40/index.m3u8
 #EXTINF:-1, SunderbySK-BurträskHC
@@ -29,12 +23,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6778c839840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6778d72a840b7877dbe04ff4/index.m3u8
 #EXTINF:-1, HammarbyIF-SKIron
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c3d4840b7877dbe04f6a/index.m3u8
-#EXTINF:-1, NynäshamnsIF-Solna
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6778d649840b7877dbe04fec/index.m3u8
-#EXTINF:-1, Filipstad-Kristinehamn
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c91a840b7877dbe04f99/index.m3u8
-#EXTINF:-1, HäradsbygdensSS-Björbo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c212840b7877dbe04f62/index.m3u8
 #EXTINF:-1, GnestaIK-ÄltaIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d568840b7877dbe04fe8/index.m3u8
 #EXTINF:-1, TörebodaHF-Strömstad
@@ -57,8 +45,6 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778daae5969d50f88789
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6778cd7f840b7877dbe04fa8/index.m3u8
 #EXTINF:-1, TrångsundsIF-FOCFarsta
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c596840b7877dbe04f7c/index.m3u8
-#EXTINF:-1, Dunkerque-ÉpinalHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676f7b4d5969d50f88788c2b/index.m3u8
 #EXTINF:-1, NummelanKV-KlaGe
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676ce3115969d50f887888f2/index.m3u8
 #EXTINF:-1, GrIFKJoukkue-Tiikerit
