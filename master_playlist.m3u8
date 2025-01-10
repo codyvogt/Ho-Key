@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Bordeaux-AiglesdeNice
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/675d0651a83d4f176bc9dbfe.m3u8
+#EXTINF:-1, NováPaka-HCFrýdlant
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731e4e02bab5f0222654b04/index.m3u8
 #EXTINF:-1, Amiens-Briançon
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/675d0651a83d4f176bc9dc06.m3u8
 #EXTINF:-1, Grenoble-Chamonix
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/678170bfcd09a86d42e741ef/index.m3u8
-#EXTINF:-1, Marseille-Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/675d0651c8616b072d432dfd.m3u8
 #EXTINF:-1, Ducsd'Angers-Gap
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/675d0651a83d4f176bc9dc04.m3u8
-#EXTINF:-1, NováPaka-HCFrýdlant
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731e4e02bab5f0222654b04/index.m3u8
 #EXTINF:-1, SønderjyskE-Herning
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677d0500840b7877dbe05aa5/index.m3u8
 #EXTINF:-1, GrIFKJoukkue-Tiikerit
@@ -69,3 +65,45 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f26553b8-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1a38b010-ce95-46f6-bebd-c71f4db1c894-hls/master/1a38b010-ce95-46f6-bebd-c71f4db1c894-hls.m3u8
 #EXTINF:-1, Miami-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls/master/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls.m3u8
+#EXTINF:-1, Baie-Comeau-Québec
+https://media-service.fanreachdata.io/edge/lhjmq/5410043198e947178a7b27faa1bfb6d8.m3u8
+#EXTINF:-1, Blainville-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/df2fbd55b55c413eb41e6d635a66d65f.m3u8
+#EXTINF:-1, Victoriaville-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/7e491e0f5ae44f33a16e43922d4181b5.m3u8
+#EXTINF:-1, Oshawa-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/3c95ffb28bfe47b1bb8c9a3d992e636e.m3u8
+#EXTINF:-1, Guelph-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/a812d951cb384781ab5e5f6b8793c5db.m3u8
+#EXTINF:-1, Saginaw-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/9840e8c3c7224d4d81ee71b20bd1ce8c.m3u8
+#EXTINF:-1, Brampton-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/0995a0e7fb9d42e0b23b3a4fe35e693a.m3u8
+#EXTINF:-1, Niagara-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/a9256c180534435b8b7c7bd065e0f452.m3u8
+#EXTINF:-1, OwenSound-Sarnia
+https://media-service.fanreachdata.io/edge/ohl/c6b56001670f4d1abc4c13e1b5f5001d.m3u8
+#EXTINF:-1, Kingston-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/e2f3a1c8ddce421e8fd926467b7f9354.m3u8
+#EXTINF:-1, Portland-Brandon
+https://media-service.fanreachdata.io/edge/whl/cfca63a621264d199c5001a5c2ad0ced.m3u8
+#EXTINF:-1, ReginaPats-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/ea3e8c50905f4dc589cb2a6bd0ef9752.m3u8
+#EXTINF:-1, Lethbridge-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/049c897f0fe9455fb22d47c1c89ff5e7.m3u8
+#EXTINF:-1, PrinceAlbert-Edmonton
+https://media-service.fanreachdata.io/edge/whl/e94be8618a8c46f59326d2735ea4771c.m3u8
+#EXTINF:-1, Saskatoon-Calgary
+https://media-service.fanreachdata.io/edge/whl/c0349794fc464ec48eaa0b2a1382e51d.m3u8
+#EXTINF:-1, RedDeer-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/50928cb154d746a1b494439ab9a90216.m3u8
+#EXTINF:-1, Vancouver-Kamloops
+https://media-service.fanreachdata.io/edge/whl/bed747389b0e4e6bbcd915d16fb8cbb3.m3u8
+#EXTINF:-1, Victoria-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/aca44e78b27242a6b63b14626e5c7af2.m3u8
+#EXTINF:-1, Seattle-Tri-CityAmericans
+https://media-service.fanreachdata.io/edge/whl/ad67fdbf76e54b9bbe68e709f65b2890.m3u8
+#EXTINF:-1, SpokaneChiefs-Everett
+https://media-service.fanreachdata.io/edge/whl/f1214d967c3b46dd81054b8891627e44.m3u8
+#EXTINF:-1, PrinceGeorge-Kelowna
+https://media-service.fanreachdata.io/edge/whl/4c35abcebd2644b3a9193fab1c00642c.m3u8
