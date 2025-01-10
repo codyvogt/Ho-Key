@@ -1,55 +1,71 @@
 #EXTM3U
-#EXTINF:-1, HCAmbri-Piotta-GSHC
-fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, SCLTigers-ZSCLions
-fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, Dunkerque-ÉpinalHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676f7b4d5969d50f88788c2b/index.m3u8
-#EXTINF:-1, SKLejon-RosvikIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778cc9e5969d50f88789f40/index.m3u8
-#EXTINF:-1, SunderbySK-BurträskHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d2c55969d50f88789f8c/index.m3u8
-#EXTINF:-1, KovlandsIshF-Sollefteå
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778ce61840b7877dbe04fb0/index.m3u8
-#EXTINF:-1, ÅngeIK-NjurundaSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d022840b7877dbe04fd1/index.m3u8
-#EXTINF:-1, KB65-Kramfors-Alliansen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c0505969d50f88789dbc/index.m3u8
-#EXTINF:-1, Viggbyholm-SegeltorpsIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778cc9e5969d50f88789f44/index.m3u8
-#EXTINF:-1, FlemingsbergsIK-Nacka
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6778c839840b7877dbe04f90/index.m3u8
-#EXTINF:-1, GötaTraneberg-Lidingö
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6778d72a840b7877dbe04ff4/index.m3u8
-#EXTINF:-1, HammarbyIF-SKIron
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c3d4840b7877dbe04f6a/index.m3u8
-#EXTINF:-1, GnestaIK-ÄltaIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d568840b7877dbe04fe8/index.m3u8
-#EXTINF:-1, TörebodaHF-Strömstad
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c2f3840b7877dbe04f66/index.m3u8
-#EXTINF:-1, LindefalletsSK-Hofors
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6778c9fb840b7877dbe04f9d/index.m3u8
-#EXTINF:-1, JärvsöIK-HedesundaIF
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c131840b7877dbe04f5e/index.m3u8
-#EXTINF:-1, TidaholmsHF-SkaraIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d1e45969d50f88789f8a/index.m3u8
-#EXTINF:-1, KungsbackaHC-Hovås
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d9cd840b7877dbe05005/index.m3u8
-#EXTINF:-1, SäffleHC-Charlottenberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c91a840b7877dbe04f97/index.m3u8
-#EXTINF:-1, VästeråsPickels-Örnen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677923ec840b7877dbe05065/index.m3u8
-#EXTINF:-1, SkutskärsSK-IKHuge
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778daae5969d50f88789f98/index.m3u8
-#EXTINF:-1, Vallentuna-Ormsta-Åker
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6778cd7f840b7877dbe04fa8/index.m3u8
-#EXTINF:-1, TrångsundsIF-FOCFarsta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c596840b7877dbe04f7c/index.m3u8
-#EXTINF:-1, NummelanKV-KlaGe
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676ce3115969d50f887888f2/index.m3u8
+#EXTINF:-1, Bordeaux-AiglesdeNice
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/675d0651a83d4f176bc9dbfe.m3u8
+#EXTINF:-1, Amiens-Briançon
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/675d0651a83d4f176bc9dc06.m3u8
+#EXTINF:-1, Grenoble-Chamonix
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/678170bfcd09a86d42e741ef/index.m3u8
+#EXTINF:-1, Marseille-Anglet
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/675d0651c8616b072d432dfd.m3u8
+#EXTINF:-1, Ducsd'Angers-Gap
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/675d0651a83d4f176bc9dc04.m3u8
+#EXTINF:-1, NováPaka-HCFrýdlant
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6731e4e02bab5f0222654b04/index.m3u8
+#EXTINF:-1, SønderjyskE-Herning
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677d0500840b7877dbe05aa5/index.m3u8
 #EXTINF:-1, GrIFKJoukkue-Tiikerit
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676e34925969d50f88788aa3/index.m3u8
-#EXTINF:-1, ÖstervålaIF-Ullfors
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778c131840b7877dbe04f5c/index.m3u8
-#EXTINF:-1, Huddinge-Flemingsberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6778d72a840b7877dbe04ff3/index.m3u8
+#EXTINF:-1, Mechelen-HijsHokij
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676fcc245969d50f88788e8f/index.m3u8
+#EXTINF:-1, Cornell-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Maine-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Princeton-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Clarkson-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, UNH-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, HolyCross-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, BostonU-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Union-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Yale-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Brown-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo7/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer-St.Lawrence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Merrimack-BostonCollege
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Vermont-BostonU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, UMass-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, UConn-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, BSU-BowlingGreen
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, LSSU-MichiganTech
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, MinnesotaState-NMU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Maine-UMassLowell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, LongIsland-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, FerrisState-St.Thomas
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, SCSU-MinnesotaDuluth
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f26553b8-7a18-4a5b-aba7-97eb39ff4022-hls/master/f26553b8-7a18-4a5b-aba7-97eb39ff4022-hls.m3u8
+#EXTINF:-1, ColoradoCollege-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1a38b010-ce95-46f6-bebd-c71f4db1c894-hls/master/1a38b010-ce95-46f6-bebd-c71f4db1c894-hls.m3u8
+#EXTINF:-1, Miami-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls/master/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls.m3u8
