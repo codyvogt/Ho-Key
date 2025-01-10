@@ -69,6 +69,8 @@ https://media-service.fanreachdata.io/edge/ohl/a9256c180534435b8b7c7bd065e0f452.
 https://media-service.fanreachdata.io/edge/ohl/c6b56001670f4d1abc4c13e1b5f5001d.m3u8
 #EXTINF:-1, Kingston-SaultSte.Marie
 https://media-service.fanreachdata.io/edge/ohl/e2f3a1c8ddce421e8fd926467b7f9354.m3u8
+#EXTINF:-1, Tri-City-USNTDPU18
+fluidtv.php?channel=https://d1xso0xd9k0pw7.cloudfront.net/02dce46a68065c1ca967e4332c3ec784/0_hd_hls.m3u8
 #EXTINF:-1, Portland-Brandon
 https://media-service.fanreachdata.io/edge/whl/cfca63a621264d199c5001a5c2ad0ced.m3u8
 #EXTINF:-1, ReginaPats-MooseJaw
