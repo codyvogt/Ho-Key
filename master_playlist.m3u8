@@ -35,6 +35,8 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f26553b8-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1a38b010-ce95-46f6-bebd-c71f4db1c894-hls/master/1a38b010-ce95-46f6-bebd-c71f4db1c894-hls.m3u8
 #EXTINF:-1, Miami-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls/master/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls.m3u8
+#EXTINF:-1, Mercyhurst-Syracuse
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0118427f-1b22-4d44-a4f0-804aaee630d1-hls/master/0118427f-1b22-4d44-a4f0-804aaee630d1-hls.m3u8
 #EXTINF:-1, Princeton-Quinnipiac
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Clarkson-Rensselaer
