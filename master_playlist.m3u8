@@ -3,15 +3,7 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, KouvolanKooKoo-Kärpät
 fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1, RoKi-HelsinginJokerit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e3492840b7877dbe03c17/index.m3u8
-#EXTINF:-1, PorinÄssät-Ilves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e3492840b7877dbe03c2e/index.m3u8
-#EXTINF:-1, Tappara-LahdenPelicans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e3492840b7877dbe03c14/index.m3u8
-#EXTINF:-1, HPK-IFK,Helsingfors
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676e3492840b7877dbe03c2c/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-SaiPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676e3492840b7877dbe03c32/index.m3u8
-#EXTINF:-1, KalPa-RaumanLukko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676e3492840b7877dbe03c33/index.m3u8
+#EXTINF:-1, HCAmbri-Piotta-GSHC
+fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1, SCLTigers-ZSCLions
+fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
