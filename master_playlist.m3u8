@@ -5,3 +5,5 @@ fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, SCLTigers-ZSCLions
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, HerlevII-GentofteStars
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/670e1e9d6b135e19484e233a/index.m3u8
