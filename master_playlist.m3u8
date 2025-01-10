@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1, DinamoMinsk-Sibir
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, KouvolanKooKoo-Kärpät
+fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1, HCVítkovice-SlaviaPraha
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676517244c35fa491f0da654/index.m3u8
