@@ -5,15 +5,7 @@ fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, SCLTigers-ZSCLions
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, JunkkaritHT-RaaheK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e3491840b7877dbe03bc7/index.m3u8
-#EXTINF:-1, MUIK-LapuanVirkiä
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e3491840b7877dbe03bc8/index.m3u8
 #EXTINF:-1, HerlevEagles-Odense
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677d0500840b7877dbe05aa5/index.m3u8
 #EXTINF:-1, SønderjyskE-Herning
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677678c55969d50f887899b7/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-SaiPa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676e3492840b7877dbe03c32/index.m3u8
-#EXTINF:-1, KalPa-RaumanLukko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676e3492840b7877dbe03c33/index.m3u8
