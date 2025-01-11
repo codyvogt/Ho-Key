@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SouthKorea-Japan
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677e2755fe7de23a39a94a46/index.m3u8
-#EXTINF:-1, Valenciennes-Meudon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe04018/index.m3u8
-#EXTINF:-1, Strasbourg-Neuilly
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe04014/index.m3u8
-#EXTINF:-1, Mont-Blanc-HCMP
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe0401a/index.m3u8
-#EXTINF:-1, AlbatrosdeBrest-Caen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe04020/index.m3u8
-#EXTINF:-1, Tours-Villard-de-Lans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0401c/index.m3u8
-#EXTINF:-1, DogsdeCholet-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe0401e/index.m3u8
-#EXTINF:-1, FrançaisVolants-Évry-Viry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe04022/index.m3u8
-#EXTINF:-1, Vaujany-Anglet2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe04056/index.m3u8
-#EXTINF:-1, Montpellier-Hogly
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe04042/index.m3u8
 #EXTINF:-1, Roanne-LionsdeLyon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0403e/index.m3u8
 #EXTINF:-1, Rouen2-DucsdeDijon
@@ -27,28 +7,12 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed16e0aae1e6b06fd18/index.m3u8
 #EXTINF:-1, Annecy-Toulouse-Blagnac
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0403a/index.m3u8
-#EXTINF:-1, HerningBlueFox-Herlev
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677678c55969d50f887899b7/index.m3u8
-#EXTINF:-1, Gherdëina-PadovaWaves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5e474345b0eaa49a013/index.m3u8
-#EXTINF:-1, KaukastenVoima-PK83
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676f86105969d50f88788cbf/index.m3u8
-#EXTINF:-1, KlaGe-GrIFKJoukkue
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788d71/index.m3u8
-#EXTINF:-1, HCFeltre-HCAosta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6780f580cd09a86d42e7414f/index.m3u8
-#EXTINF:-1, EppanAppiano-Varese
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773facf5969d50f8878966d/index.m3u8
-#EXTINF:-1, ZinnenDolomites-Como
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad0840b7877dbe04777/index.m3u8
-#EXTINF:-1, Valdifiemme-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad25969d50f88789673/index.m3u8
-#EXTINF:-1, Fassa-Valpellice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad1840b7877dbe04779/index.m3u8
-#EXTINF:-1, Alleghe-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad15969d50f88789671/index.m3u8
-#EXTINF:-1, KölnerJung.-Regensburg
-fluidtv.php?channel=https://pool-4.cdn.sporttotal.tv/out/v1/c878d12688244b63a9f252579f484127/index.m3u8
+#EXTINF:-1, AlbatrosdeBrest-Caen
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe04020/index.m3u8
+#EXTINF:-1, Tours-Villard-de-Lans
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0401c/index.m3u8
+#EXTINF:-1, DogsdeCholet-Chambéry
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe0401e/index.m3u8
 #EXTINF:-1, LeuvenChiefs-Limburg
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67711da45969d50f887891fd/index.m3u8
 #EXTINF:-1, HijsHokij-Neuwied
@@ -75,6 +39,14 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/provid
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, BostonU-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Valdifiemme-Bressanone
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad25969d50f88789673/index.m3u8
+#EXTINF:-1, Fassa-Valpellice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad1840b7877dbe04779/index.m3u8
+#EXTINF:-1, Alleghe-SVKaltern
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad15969d50f88789671/index.m3u8
+#EXTINF:-1, Gherdëina-PadovaWaves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5e474345b0eaa49a013/index.m3u8
 #EXTINF:-1, UNH-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Baie-Comeau-Québec
