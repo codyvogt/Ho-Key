@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, PrinceAlbert-Edmonton
-https://media-service.fanreachdata.io/edge/whl/e94be8618a8c46f59326d2735ea4771c.m3u8
 #EXTINF:-1, Vancouver-Kamloops
 https://media-service.fanreachdata.io/edge/whl/bed747389b0e4e6bbcd915d16fb8cbb3.m3u8
 #EXTINF:-1, Victoria-WenatcheeWild
@@ -11,5 +9,3 @@ https://media-service.fanreachdata.io/edge/whl/ad67fdbf76e54b9bbe68e709f65b2890.
 https://media-service.fanreachdata.io/edge/whl/f1214d967c3b46dd81054b8891627e44.m3u8
 #EXTINF:-1, PrinceGeorge-Kelowna
 https://media-service.fanreachdata.io/edge/whl/4c35abcebd2644b3a9193fab1c00642c.m3u8
-#EXTINF:-1, Miami-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls/master/d649719a-de43-42b1-80ac-bbbbb2b42b26-hls.m3u8
