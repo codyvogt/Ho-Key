@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1, AkBarsKazan-Barys
 fluidtv.php?channel=https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, BeraniZlín-SlaviaPraha
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6772a895840b7877dbe04672/index.m3u8
