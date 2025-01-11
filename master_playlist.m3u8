@@ -9,3 +9,9 @@ https://media-service.fanreachdata.io/edge/whl/ad67fdbf76e54b9bbe68e709f65b2890.
 https://media-service.fanreachdata.io/edge/whl/f1214d967c3b46dd81054b8891627e44.m3u8
 #EXTINF:-1, PrinceGeorge-Kelowna
 https://media-service.fanreachdata.io/edge/whl/4c35abcebd2644b3a9193fab1c00642c.m3u8
+#EXTINF:-1, NokianPyry-RNK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e3491840b7877dbe03bfa/index.m3u8
+#EXTINF:-1, KeuruunPalloHT-APV
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788d61/index.m3u8
+#EXTINF:-1, K-EspooAk-Lukko/PaRa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788d45/index.m3u8
