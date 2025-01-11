@@ -1,12 +1,28 @@
 #EXTM3U
 #EXTINF:-1, NokianPyry-RNK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676e3491840b7877dbe03bfa/index.m3u8
+#EXTINF:-1, LaserHTBlack-Raahe-K
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788cb8/index.m3u8
+#EXTINF:-1, Kisa-Eagles-JIlves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f860f840b7877dbe03e61/index.m3u8
+#EXTINF:-1, Uplakers-TuToAkatemia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f860f840b7877dbe03e3d/index.m3u8
+#EXTINF:-1, Kiekko-EspooIII-Hunters
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f860f840b7877dbe03e32/index.m3u8
+#EXTINF:-1, HIFKII-EVUTeam
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e3491840b7877dbe03bfd/index.m3u8
+#EXTINF:-1, Spirit-TPSAkatemia/TarU
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f8610840b7877dbe03e98/index.m3u8
 #EXTINF:-1, Japan-Slovakia
 fluidtv.php?channel=https://nn.geo.joj.sk/huste/a9c5ae1a-2e2b-42cb-9514-230f1b0fbdd0/a9c5ae1a-2e2b-42cb-9514-230f1b0fbdd0/playlist.m3u8
 #EXTINF:-1, KeuruunPalloHT-APV
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788d61/index.m3u8
 #EXTINF:-1, K-EspooAk-Lukko/PaRa
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788d45/index.m3u8
+#EXTINF:-1, KalPaAkatemia-HIFKAk
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788d46/index.m3u8
+#EXTINF:-1, HPKAkatemia-SaiPa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f8610840b7877dbe03eb7/index.m3u8
 #EXTINF:-1, Pelicans-PaRa/Lukko
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f8610840b7877dbe03f03/index.m3u8
 #EXTINF:-1, MIFNaiset-S-Kiekko
