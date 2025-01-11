@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Tours-Villard-de-Lans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0401c/index.m3u8
-#EXTINF:-1, Toulouse2-Poitiers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe0402a/index.m3u8
-#EXTINF:-1, Chambéry2-Toulon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe04024/index.m3u8
-#EXTINF:-1, Valdifiemme-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad25969d50f88789673/index.m3u8
-#EXTINF:-1, Fassa-Valpellice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad1840b7877dbe04779/index.m3u8
-#EXTINF:-1, Alleghe-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad15969d50f88789671/index.m3u8
 #EXTINF:-1, Heerenveen-Liège
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67711da5840b7877dbe042b8/index.m3u8
 #EXTINF:-1, Valence-Clermont-Ferrand
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed16e0aae1e6b06fd18/index.m3u8
-#EXTINF:-1, Annecy-Toulouse-Blagnac
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0403a/index.m3u8
-#EXTINF:-1, Gherdëina-PadovaWaves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5e474345b0eaa49a013/index.m3u8
+#EXTINF:-1, Chambéry2-Toulon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe04024/index.m3u8
 #EXTINF:-1, Mercyhurst-Syracuse
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/39633e74-13f3-4216-91f0-f8ba36de7442-hls/master/39633e74-13f3-4216-91f0-f8ba36de7442-hls.m3u8
 #EXTINF:-1, Colgate-Cornell
@@ -79,5 +65,23 @@ https://media-service.fanreachdata.io/edge/lhjmq/20e00474b2ad46618f7b82001111ca4
 https://media-service.fanreachdata.io/edge/lhjmq/a9a17abf76334187b46c8cb39f666323.m3u8
 #EXTINF:-1, Chicoutimi-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/83c317e88f954927b9cb1f68f1660e62.m3u8
+#EXTINF:-1, Rimouski-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/a6951cf46f2c46ffa9f58525986f4605.m3u8
+#EXTINF:-1, Drummond.-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/9d2d86948ea6497f8e6982fd585576f2.m3u8
+#EXTINF:-1, SaintJohn-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/3e82c5f4f789430f8ddc012ac7510dc5.m3u8
 #EXTINF:-1, NorthBay-Brampton
 https://media-service.fanreachdata.io/edge/ohl/35e6799a14c547af98f3fc44c11a91c7.m3u8
+#EXTINF:-1, Windsor-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/ffef8de7fe46447c86b3838e4218d02e.m3u8
+#EXTINF:-1, Sarnia-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/9f9e3349048c49e4bf0a3f7d286b27f6.m3u8
+#EXTINF:-1, London-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/f5674517d4984f7fa94393d001106ee3.m3u8
+#EXTINF:-1, Brantford-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/fb0e3a77af704412b933e63ca4a2a64b.m3u8
+#EXTINF:-1, Guelph-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/4b45340ae08d4043abec89b2722651e6.m3u8
+#EXTINF:-1, Kitchener-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/339772a3b05e4e3d8e0f54653cd4c9a9.m3u8
