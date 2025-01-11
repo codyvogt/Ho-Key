@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Heerenveen-Liège
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67711da5840b7877dbe042b8/index.m3u8
-#EXTINF:-1, Valence-Clermont-Ferrand
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed16e0aae1e6b06fd18/index.m3u8
-#EXTINF:-1, Chambéry2-Toulon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe04024/index.m3u8
 #EXTINF:-1, Mercyhurst-Syracuse
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/39633e74-13f3-4216-91f0-f8ba36de7442-hls/master/39633e74-13f3-4216-91f0-f8ba36de7442-hls.m3u8
 #EXTINF:-1, Colgate-Cornell
