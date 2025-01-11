@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1, KouvolanKooKoo-HPK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676f86105969d50f88788ce1/index.m3u8
+#EXTINF:-1, LeksandsIF-AIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677a2526840b7877dbe0543c/index.m3u8
+#EXTINF:-1, FrölundaHC-Linköping
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677a2c2e840b7877dbe054e5/index.m3u8
+#EXTINF:-1, LempäälänKisa-S-Kiekko
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676f860f840b7877dbe03ddb/index.m3u8
+#EXTINF:-1, NokianPyry-Hunters
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f860f840b7877dbe03dde/index.m3u8
+#EXTINF:-1, FPS-LiikunnanRiemu
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/676f860f840b7877dbe03df3/index.m3u8
