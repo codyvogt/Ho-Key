@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Baie-Comeau-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/16ab1af3ff054c4694cc4a8b03390fe5.m3u8
-#EXTINF:-1, Moncton-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/20e00474b2ad46618f7b82001111ca46.m3u8
-#EXTINF:-1, Chicoutimi-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/83c317e88f954927b9cb1f68f1660e62.m3u8
-#EXTINF:-1, Rimouski-Acadie-Bathurst
-https://media-service.fanreachdata.io/edge/lhjmq/a6951cf46f2c46ffa9f58525986f4605.m3u8
-#EXTINF:-1, Drummond.-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/9d2d86948ea6497f8e6982fd585576f2.m3u8
-#EXTINF:-1, SaintJohn-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/3e82c5f4f789430f8ddc012ac7510dc5.m3u8
-#EXTINF:-1, NorthBay-Brampton
-https://media-service.fanreachdata.io/edge/ohl/35e6799a14c547af98f3fc44c11a91c7.m3u8
-#EXTINF:-1, Windsor-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/ffef8de7fe46447c86b3838e4218d02e.m3u8
-#EXTINF:-1, Sarnia-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/9f9e3349048c49e4bf0a3f7d286b27f6.m3u8
-#EXTINF:-1, London-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/f5674517d4984f7fa94393d001106ee3.m3u8
-#EXTINF:-1, Brantford-Peterborough
-https://media-service.fanreachdata.io/edge/ohl/fb0e3a77af704412b933e63ca4a2a64b.m3u8
-#EXTINF:-1, Guelph-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/4b45340ae08d4043abec89b2722651e6.m3u8
-#EXTINF:-1, Kitchener-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/339772a3b05e4e3d8e0f54653cd4c9a9.m3u8
 #EXTINF:-1, LongIsland-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Vermont-BostonU
@@ -61,8 +35,28 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b125dee2-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5dbe9c3e-1099-41c8-9717-48a067a3de6b-hls/master/5dbe9c3e-1099-41c8-9717-48a067a3de6b-hls.m3u8
 #EXTINF:-1, ColoradoCollege-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls/master/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls.m3u8
+#EXTINF:-1, Rimouski-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/a6951cf46f2c46ffa9f58525986f4605.m3u8
+#EXTINF:-1, Drummond.-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/9d2d86948ea6497f8e6982fd585576f2.m3u8
+#EXTINF:-1, SaintJohn-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/3e82c5f4f789430f8ddc012ac7510dc5.m3u8
 #EXTINF:-1, BostonU-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Tri-City-USNTDPU18
+fluidtv.php?channel=https://d21lfhqm332px0.cloudfront.net/f05154e3cdd8ba5c7fd21b5879a502fb/0_hd_hls.m3u8
+#EXTINF:-1, Windsor-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/ffef8de7fe46447c86b3838e4218d02e.m3u8
+#EXTINF:-1, Sarnia-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/9f9e3349048c49e4bf0a3f7d286b27f6.m3u8
+#EXTINF:-1, London-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/f5674517d4984f7fa94393d001106ee3.m3u8
+#EXTINF:-1, Brantford-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/fb0e3a77af704412b933e63ca4a2a64b.m3u8
+#EXTINF:-1, Guelph-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/4b45340ae08d4043abec89b2722651e6.m3u8
+#EXTINF:-1, Kitchener-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/339772a3b05e4e3d8e0f54653cd4c9a9.m3u8
 #EXTINF:-1, Portland-ReginaPats
 https://media-service.fanreachdata.io/edge/whl/3ed6a48d13e944058a8f053296bd37cc.m3u8
 #EXTINF:-1, Lethbridge-MooseJaw
