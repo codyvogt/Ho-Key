@@ -61,6 +61,8 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe04
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe0402c/index.m3u8
 #EXTINF:-1, Chambéry2-Toulon
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe04024/index.m3u8
+#EXTINF:-1, Mercyhurst-Syracuse
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/39633e74-13f3-4216-91f0-f8ba36de7442-hls/master/39633e74-13f3-4216-91f0-f8ba36de7442-hls.m3u8
 #EXTINF:-1, Colgate-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, St.Lawrence-Rensselaer
@@ -73,3 +75,5 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/provid
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, BostonU-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, UNH-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
