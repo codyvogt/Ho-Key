@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, AkBarsKazan-Barys
 fluidtv.php?channel=https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, Pelicans-PaRa/Lukko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f8610840b7877dbe03f03/index.m3u8
-#EXTINF:-1, MIFNaiset-S-Kiekko
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676f8610840b7877dbe03f02/index.m3u8
-#EXTINF:-1, TurkuHC-HIFKGH
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676e34925969d50f88788aca/index.m3u8
 #EXTINF:-1, Poland-Italy
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e2595fe7de23a39a94a42/index.m3u8
 #EXTINF:-1, Estonia-Ukraine
