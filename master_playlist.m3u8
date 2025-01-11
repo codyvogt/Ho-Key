@@ -1,30 +1,24 @@
 #EXTM3U
-#EXTINF:-1, Roanne-LionsdeLyon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0403e/index.m3u8
-#EXTINF:-1, Rouen2-DucsdeDijon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6770cccd840b7877dbe04052.m3u8
+#EXTINF:-1, Tours-Villard-de-Lans
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0401c/index.m3u8
+#EXTINF:-1, Toulouse2-Poitiers
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe0402a/index.m3u8
+#EXTINF:-1, Chambéry2-Toulon
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe04024/index.m3u8
+#EXTINF:-1, Valdifiemme-Bressanone
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad25969d50f88789673/index.m3u8
+#EXTINF:-1, Fassa-Valpellice
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad1840b7877dbe04779/index.m3u8
+#EXTINF:-1, Alleghe-SVKaltern
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad15969d50f88789671/index.m3u8
+#EXTINF:-1, Heerenveen-Liège
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67711da5840b7877dbe042b8/index.m3u8
 #EXTINF:-1, Valence-Clermont-Ferrand
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67020ed16e0aae1e6b06fd18/index.m3u8
 #EXTINF:-1, Annecy-Toulouse-Blagnac
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0403a/index.m3u8
-#EXTINF:-1, AlbatrosdeBrest-Caen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe04020/index.m3u8
-#EXTINF:-1, Tours-Villard-de-Lans
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6770cccd840b7877dbe0401c/index.m3u8
-#EXTINF:-1, DogsdeCholet-Chambéry
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe0401e/index.m3u8
-#EXTINF:-1, LeuvenChiefs-Limburg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67711da45969d50f887891fd/index.m3u8
-#EXTINF:-1, HijsHokij-Neuwied
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67711da45969d50f887891ff/index.m3u8
-#EXTINF:-1, Heerenveen-Liège
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67711da5840b7877dbe042b8/index.m3u8
-#EXTINF:-1, Toulouse2-Poitiers
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe0402a/index.m3u8
-#EXTINF:-1, Caen2-Meudon2
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770cccd840b7877dbe0402c/index.m3u8
-#EXTINF:-1, Chambéry2-Toulon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770cccd840b7877dbe04024/index.m3u8
+#EXTINF:-1, Gherdëina-PadovaWaves
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5e474345b0eaa49a013/index.m3u8
 #EXTINF:-1, Mercyhurst-Syracuse
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/39633e74-13f3-4216-91f0-f8ba36de7442-hls/master/39633e74-13f3-4216-91f0-f8ba36de7442-hls.m3u8
 #EXTINF:-1, Colgate-Cornell
@@ -39,14 +33,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/provid
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, BostonU-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Valdifiemme-Bressanone
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad25969d50f88789673/index.m3u8
-#EXTINF:-1, Fassa-Valpellice
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad1840b7877dbe04779/index.m3u8
-#EXTINF:-1, Alleghe-SVKaltern
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad15969d50f88789671/index.m3u8
-#EXTINF:-1, Gherdëina-PadovaWaves
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745a5e474345b0eaa49a013/index.m3u8
 #EXTINF:-1, UNH-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Baie-Comeau-Québec
