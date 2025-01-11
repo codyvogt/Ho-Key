@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, PrinceAlbert-Edmonton
 https://media-service.fanreachdata.io/edge/whl/e94be8618a8c46f59326d2735ea4771c.m3u8
-#EXTINF:-1, Saskatoon-Calgary
-https://media-service.fanreachdata.io/edge/whl/c0349794fc464ec48eaa0b2a1382e51d.m3u8
-#EXTINF:-1, RedDeer-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/50928cb154d746a1b494439ab9a90216.m3u8
 #EXTINF:-1, Vancouver-Kamloops
 https://media-service.fanreachdata.io/edge/whl/bed747389b0e4e6bbcd915d16fb8cbb3.m3u8
 #EXTINF:-1, Victoria-WenatcheeWild
