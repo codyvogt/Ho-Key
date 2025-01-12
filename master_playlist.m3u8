@@ -1,15 +1,33 @@
 #EXTM3U
-#EXTINF:-1, Diez-Limburg-Mechelen
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67726f24840b7877dbe04608/index.m3u8
+#EXTINF:-1, Caen-Grenoble
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67721e4d840b7877dbe04372/index.m3u8
+#EXTINF:-1, LionsdeLyon-Annecy
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67721e4d840b7877dbe04384/index.m3u8
 #EXTINF:-1, LiègeBulldogs-Leuven
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726f255969d50f88789522/index.m3u8
 #EXTINF:-1, HYC-Heerenveen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726f25840b7877dbe0460a/index.m3u8
-#EXTINF:-1, HC74-Hormadid'Anglet
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4d840b7877dbe04368.m3u8
-#EXTINF:-1, Caen-Grenoble
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67721e4d840b7877dbe04372/index.m3u8
-#EXTINF:-1, SaloHT-Kiekko-EspooCh
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f86105969d50f88788e01/index.m3u8
-#EXTINF:-1, HärrydaHC-KålleredSK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677b7ccd5969d50f8878a708/index.m3u8
+#EXTINF:-1, Chtown-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/3158846efab64d3e8685c71a9e84b4c2.m3u8
+#EXTINF:-1, Halifax-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/45b550b2754f4eef960865ccef337409.m3u8
+#EXTINF:-1, Moncton-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/2ff8c1486c0a4d5c95def7390d4beeb4.m3u8
+#EXTINF:-1, Victoriaville-Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/1cb95d4c2ecc41f6a528ebc97f39004d.m3u8
+#EXTINF:-1, Chicoutimi-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/ab1671d9b6394e2d9d2ab55c0c4deedc.m3u8
+#EXTINF:-1, Gatineau-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/92b1f4407bc743b6b4d18932ebd4e088.m3u8
+#EXTINF:-1, Peterborough-Niagara
+https://media-service.fanreachdata.io/edge/ohl/5146c1bc33774dcdb8c61f02b683d1c7.m3u8
+#EXTINF:-1, Kingston-SudburyWolves
+https://media-service.fanreachdata.io/edge/ohl/1179e5e711b14e368aaa5f288a3acb13.m3u8
+#EXTINF:-1, SaginawSpirit-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/c37bda57ffc0492f8d4d8077eceaef78.m3u8
+#EXTINF:-1, Ottawa-OshawaGenerals
+https://media-service.fanreachdata.io/edge/ohl/13faad01e5c741239c26f5ab4d2aafd0.m3u8
+#EXTINF:-1, Ukraine-Slovakia
+fluidtv.php?channel=https://content.aisportswatch.com/473822/master.m3u8
+#EXTINF:-1, HernesaarenNäädät-PiTa
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676f86105969d50f88788d79/index.m3u8
