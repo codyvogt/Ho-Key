@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist-DinamoMn
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, IPK-Kiekko-Vantaa
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d7905969d50f8878908f/index.m3u8
-#EXTINF:-1, JYPAkatemia-Viikingit
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d7905969d50f88789073/index.m3u8
-#EXTINF:-1, Kiekko-EspooCh-TUTO
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6770d78f840b7877dbe0412b/index.m3u8
-#EXTINF:-1, KJTHaukatAk-Jokipojat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d7905969d50f88789077/index.m3u8
-#EXTINF:-1, Hermes-Karhu-Kissat
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d7905969d50f88789062/index.m3u8
-#EXTINF:-1, KJTHaukat-SaPKo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d7905969d50f88789085/index.m3u8
-#EXTINF:-1, ImatranKetterä-KOOVEE
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d7905969d50f88789080/index.m3u8
-#EXTINF:-1, KeuPaHT/Diskos-GrIFK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6770d7905969d50f88789074/index.m3u8
 #EXTINF:-1, LeksandsIF-BrynäsIF
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677b76a7840b7877dbe05859/index.m3u8
 #EXTINF:-1, VäxjöLakersHC-Luleå
