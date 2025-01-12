@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Rimouski-Acadie-Bathurst
 https://media-service.fanreachdata.io/edge/lhjmq/a6951cf46f2c46ffa9f58525986f4605.m3u8
-#EXTINF:-1, Drummond.-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/9d2d86948ea6497f8e6982fd585576f2.m3u8
 #EXTINF:-1, SaintJohn-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/3e82c5f4f789430f8ddc012ac7510dc5.m3u8
-#EXTINF:-1, Northeastern-UMass
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Maine-UMassLowell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, LSSU-MichiganTech
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, MinnesotaState-NMU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
 #EXTINF:-1, Rensselaer-Clarkson
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Brown-Dartmouth
@@ -35,8 +25,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b125dee2-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5dbe9c3e-1099-41c8-9717-48a067a3de6b-hls/master/5dbe9c3e-1099-41c8-9717-48a067a3de6b-hls.m3u8
 #EXTINF:-1, ColoradoCollege-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls/master/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls.m3u8
-#EXTINF:-1, BostonU-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Windsor-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/ffef8de7fe46447c86b3838e4218d02e.m3u8
 #EXTINF:-1, Sarnia-ErieOtters
