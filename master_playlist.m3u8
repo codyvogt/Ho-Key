@@ -37,8 +37,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5dbe9c3e-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls/master/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls.m3u8
 #EXTINF:-1, BostonU-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Tri-City-USNTDPU18
-fluidtv.php?channel=https://d21lfhqm332px0.cloudfront.net/f05154e3cdd8ba5c7fd21b5879a502fb/0_hd_hls.m3u8
 #EXTINF:-1, Windsor-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/ffef8de7fe46447c86b3838e4218d02e.m3u8
 #EXTINF:-1, Sarnia-ErieOtters
@@ -69,3 +67,5 @@ https://media-service.fanreachdata.io/edge/whl/30596a5a266940db9de78f13af0a13be.
 https://media-service.fanreachdata.io/edge/whl/f9f0ec84652340ae9e52dccefbe6cb20.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/c4668d3c0fad47dc8daea82be8b7ceb0.m3u8
+#EXTINF:-1, Tri-City-USNTDPU18
+fluidtv.php?channel=https://d21lfhqm332px0.cloudfront.net/f05154e3cdd8ba5c7fd21b5879a502fb/0_hd_hls.m3u8
