@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lethbridge-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/0f2a0a05d2d54f88b57ff26392b1a588.m3u8
 #EXTINF:-1, PrinceGeorge-Kamloops
 https://media-service.fanreachdata.io/edge/whl/ffa34a78a52c439ca62850220b20b2c2.m3u8
 #EXTINF:-1, PrinceAlbert-RedDeer
@@ -15,7 +13,3 @@ https://media-service.fanreachdata.io/edge/whl/30596a5a266940db9de78f13af0a13be.
 https://media-service.fanreachdata.io/edge/whl/f9f0ec84652340ae9e52dccefbe6cb20.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/c4668d3c0fad47dc8daea82be8b7ceb0.m3u8
-#EXTINF:-1, Miami-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5dbe9c3e-1099-41c8-9717-48a067a3de6b-hls/master/5dbe9c3e-1099-41c8-9717-48a067a3de6b-hls.m3u8
-#EXTINF:-1, ColoradoCollege-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls/master/9a45f716-a8ee-457e-b3bd-bc54992e0ed0-hls.m3u8
