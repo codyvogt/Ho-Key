@@ -27,3 +27,9 @@ https://media-service.fanreachdata.io/edge/ohl/13faad01e5c741239c26f5ab4d2aafd0.
 fluidtv.php?channel=https://content.aisportswatch.com/473822/master.m3u8
 #EXTINF:-1, HernesaarenN‰‰d‰t-PiTa
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/676f86105969d50f88788d79/index.m3u8
+#EXTINF:-1, GreenBay-USNTDPU18
+fluidtv.php?channel=https://d36zf2b4i6e3gr.cloudfront.net/8a71b7e4e7965d87c21774e3cf2e66a3/0_hd_hls.m3u8
+#EXTINF:-1, Brandon-CalgaryHitmen
+https://media-service.fanreachdata.io/edge/whl/89af2a22db1246519bec8ccf885c21e9.m3u8
+#EXTINF:-1, Tri-City-EverettSilvertips
+https://media-service.fanreachdata.io/edge/whl/6aa75e2da50d42efbadd36d9b4a3db4c.m3u8
