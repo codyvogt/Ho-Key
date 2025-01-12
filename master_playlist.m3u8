@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Caen-Grenoble
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67721e4d840b7877dbe04372/index.m3u8
-#EXTINF:-1, LionsdeLyon-Annecy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67721e4d840b7877dbe04384/index.m3u8
 #EXTINF:-1, LiègeBulldogs-Leuven
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67726f255969d50f88789522/index.m3u8
 #EXTINF:-1, HYC-Heerenveen
