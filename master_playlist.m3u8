@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Chambéry-Clermont-FD
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67721e4d840b7877dbe04386/index.m3u8
-#EXTINF:-1, FrançaisVol.-Besancon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/67721e4c840b7877dbe04360/index.m3u8
-#EXTINF:-1, LionsdeLyon-Annecy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67721e4d840b7877dbe04384/index.m3u8
 #EXTINF:-1, Diez-Limburg-Mechelen
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67726f24840b7877dbe04608/index.m3u8
 #EXTINF:-1, LiègeBulldogs-Leuven
