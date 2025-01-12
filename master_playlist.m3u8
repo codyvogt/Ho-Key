@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Chtown-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/3158846efab64d3e8685c71a9e84b4c2.m3u8
 #EXTINF:-1, Halifax-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/45b550b2754f4eef960865ccef337409.m3u8
 #EXTINF:-1, Moncton-Val-d'Or
@@ -11,8 +9,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/1cb95d4c2ecc41f6a528ebc97f39004
 https://media-service.fanreachdata.io/edge/lhjmq/ab1671d9b6394e2d9d2ab55c0c4deedc.m3u8
 #EXTINF:-1, Gatineau-Rouyn-Noranda
 https://media-service.fanreachdata.io/edge/lhjmq/92b1f4407bc743b6b4d18932ebd4e088.m3u8
-#EXTINF:-1, Peterborough-Niagara
-https://media-service.fanreachdata.io/edge/ohl/5146c1bc33774dcdb8c61f02b683d1c7.m3u8
 #EXTINF:-1, Kingston-SudburyWolves
 https://media-service.fanreachdata.io/edge/ohl/1179e5e711b14e368aaa5f288a3acb13.m3u8
 #EXTINF:-1, SaginawSpirit-Kitchener
