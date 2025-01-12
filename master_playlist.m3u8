@@ -3,12 +3,6 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Lada-KunlunRedStar
 fluidtv.php?channel=https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1, Ukraine-Poland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e27d0fe7de23a39a94a48/index.m3u8
-#EXTINF:-1, Japan-Estonia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e27eefe7de23a39a94a4a/index.m3u8
-#EXTINF:-1, Italy-SouthKorea
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e2803cd09a86d42e73c67/index.m3u8
 #EXTINF:-1, KirunaAIF-TegsSK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677b79495969d50f8878a68e/index.m3u8
 #EXTINF:-1, HaparandaHF-LN91
