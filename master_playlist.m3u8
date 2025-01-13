@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Gatineau-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/92b1f4407bc743b6b4d18932ebd4e088.m3u8
-#EXTINF:-1, Brandon-CalgaryHitmen
-https://media-service.fanreachdata.io/edge/whl/89af2a22db1246519bec8ccf885c21e9.m3u8
-#EXTINF:-1, Tri-City-EverettSilvertips
-https://media-service.fanreachdata.io/edge/whl/6aa75e2da50d42efbadd36d9b4a3db4c.m3u8
-#EXTINF:-1, GreenBay-USNTDPU18
-fluidtv.php?channel=https://d36zf2b4i6e3gr.cloudfront.net/8a71b7e4e7965d87c21774e3cf2e66a3/0_hd_hls.m3u8
 #EXTINF:-1, SaginawSpirit-Kitchener
 https://media-service.fanreachdata.io/edge/ohl/c37bda57ffc0492f8d4d8077eceaef78.m3u8
 #EXTINF:-1, Ottawa-OshawaGenerals
 https://media-service.fanreachdata.io/edge/ohl/13faad01e5c741239c26f5ab4d2aafd0.m3u8
+#EXTINF:-1, Tri-City-EverettSilvertips
+https://media-service.fanreachdata.io/edge/whl/6aa75e2da50d42efbadd36d9b4a3db4c.m3u8
