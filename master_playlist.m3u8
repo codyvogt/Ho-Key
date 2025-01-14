@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ukraine-Italy
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677e283ffe7de23a39a94a4e/index.m3u8
-#EXTINF:-1, SouthKorea-Estonia
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e2871cd09a86d42e73c6b/index.m3u8
 #EXTINF:-1, Lada-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, DynamoM-Severstal
@@ -11,3 +7,5 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=https://nn.geo.joj.sk/huste/b6a9cdd3-bb06-4219-bb67-3e76270011d7/b6a9cdd3-bb06-4219-bb67-3e76270011d7/playlist.m3u8
 #EXTINF:-1, RoKi-KokkolanHermes
 fluidtv.php?channel=https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:-1, SouthKorea-Estonia
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e2871cd09a86d42e73c6b/index.m3u8
