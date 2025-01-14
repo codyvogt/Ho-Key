@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Harvard-BostonUniversity
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Cornell-Syracuse
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0fb8c10d-d226-4657-b84a-29dce7d37d9c-hls/master/0fb8c10d-d226-4657-b84a-29dce7d37d9c-hls.m3u8
 #EXTINF:-1, BostonC-Northeastern
