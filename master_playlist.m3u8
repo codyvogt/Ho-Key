@@ -9,3 +9,5 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, SlovakiaU18-Dubnica
 fluidtv.php?channel=https://nn.geo.joj.sk/huste/b6a9cdd3-bb06-4219-bb67-3e76270011d7/b6a9cdd3-bb06-4219-bb67-3e76270011d7/playlist.m3u8
+#EXTINF:-1, RoKi-KokkolanHermes
+fluidtv.php?channel=https://live-fi.tvkaista.net/sub/live.m3u8
