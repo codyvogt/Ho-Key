@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Chambéry-Tours
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677612cd840b7877dbe048e2/index.m3u8
-#EXTINF:-1, DogsdeCholet-Meudon
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677612cd840b7877dbe048e6/index.m3u8
 #EXTINF:-1, Morzine-MontBlanc
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677612cd840b7877dbe048ea/index.m3u8
-#EXTINF:-1, HässelbyKälvestaHC-MB
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677f617bfe7de23a39a94bf9/index.m3u8
