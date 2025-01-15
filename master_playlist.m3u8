@@ -1,3 +1,17 @@
 #EXTM3U
-#EXTINF:-1, AalborgPirates-Herlev
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/671f40a0e689ca0066fa0db0/index.m3u8
+#EXTINF:-1, IFKSalem-Skarpnäck
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677f5d17cd09a86d42e73e0e/index.m3u8
+#EXTINF:-1, KTHIF-FlensHCFlames
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677f5d17cd09a86d42e73e0f/index.m3u8
+#EXTINF:-1, HässelbyKälvestaHC-MB
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677f617bfe7de23a39a94bf9/index.m3u8
+#EXTINF:-1, ÖrebroHUF-HammaröHC
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/670783346b135e19484e14f4/index.m3u8
+#EXTINF:-1, Sörhaga/Alingsås-Lerum
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677f5b54fe7de23a39a94be7/index.m3u8
+#EXTINF:-1, HammarbyIF-Södertälje
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67850ec7622f80735a0231a4/index.m3u8
+#EXTINF:-1, HaningeAnchorsHC-AIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677f65e2cd09a86d42e73e2e/index.m3u8
+#EXTINF:-1, SHKHC-SDEHF2
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677f58b1fe7de23a39a94bd9/index.m3u8
