@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Turnov-Benátkyn.J.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745651074345b0eaa499ed4/index.m3u8
-#EXTINF:-1, ChiefsTurku-Haka
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67761d8f840b7877dbe048f5/index.m3u8
 #EXTINF:-1, Estonia-Poland
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/677e28d2cd09a86d42e73c6f/index.m3u8
