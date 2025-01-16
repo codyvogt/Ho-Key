@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Ukraine-SouthKorea
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/677e28b4fe7de23a39a94a50/index.m3u8
-#EXTINF:-1, Estonia-Poland
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e28d2cd09a86d42e73c6f/index.m3u8
 #EXTINF:-1, HCOlomouc-Šumperk
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/676f95165969d50f88788e2f/index.m3u8
 #EXTINF:-1, Turnov-Benátkyn.J.
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6745651074345b0eaa499ed4/index.m3u8
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6745651074345b0eaa499ed4/index.m3u8
 #EXTINF:-1, KalPa-OulunKärpät
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67761d8f5969d50f887897fe/index.m3u8
 #EXTINF:-1, ChiefsTurku-Haka
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67761d8f840b7877dbe048f5/index.m3u8
+#EXTINF:-1, Estonia-Poland
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/677e28d2cd09a86d42e73c6f/index.m3u8
