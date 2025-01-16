@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SKLejon-SunderbySK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6780b59ecd09a86d42e740a2/index.m3u8
-#EXTINF:-1, Bressanone-Dolomites
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad3840b7877dbe0477b/index.m3u8
 #EXTINF:-1, Alleghe-EppanAppiano
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad3840b7877dbe0477d/index.m3u8
 #EXTINF:-1, SVKaltern-HCFeltre
@@ -13,7 +9,5 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad65969d50f88789
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad4840b7877dbe0477f/index.m3u8
 #EXTINF:-1, Fassa-ValdifiemmeHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad5840b7877dbe04783/index.m3u8
-#EXTINF:-1, TrångsundsIF-VäsbyIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6780ae96cd09a86d42e7408c/index.m3u8
 #EXTINF:-1, TavastiaPharmi-PT-80
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67761d8f5969d50f8878981a/index.m3u8
