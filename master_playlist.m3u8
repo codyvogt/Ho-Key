@@ -1,24 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Sundsvall-Örnsköldsvik
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6780be69cd09a86d42e740d2/index.m3u8
 #EXTINF:-1, SKLejon-SunderbySK
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6780b59ecd09a86d42e740a2/index.m3u8
-#EXTINF:-1, ÅmålsSK-KilsAIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6780ba04fe7de23a39a94ecb/index.m3u8
-#EXTINF:-1, TrångsundsIF-VäsbyIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6780ae96cd09a86d42e7408c/index.m3u8
-#EXTINF:-1, JärnaSK-DuvboIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6780bca7cd09a86d42e740cc/index.m3u8
-#EXTINF:-1, UppsalaHC-Sundbyberg
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6780bbc6cd09a86d42e740c2/index.m3u8
-#EXTINF:-1, TrollhättansHC-Munkedal
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6780ba04fe7de23a39a94ecd/index.m3u8
-#EXTINF:-1, RødovreSIK-RungstedIK
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/66cd9064e6affb23b065aa44/index.m3u8
-#EXTINF:-1, EVUTeam-HuntersTeam
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/67776f0f840b7877dbe04b5a/index.m3u8
-#EXTINF:-1, TullingeTPHC-Järna
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6780adb6cd09a86d42e7408a/index.m3u8
 #EXTINF:-1, Bressanone-Dolomites
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad3840b7877dbe0477b/index.m3u8
 #EXTINF:-1, Alleghe-EppanAppiano
@@ -31,5 +13,7 @@ fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad65969d50f88789
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad4840b7877dbe0477f/index.m3u8
 #EXTINF:-1, Fassa-ValdifiemmeHC
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad5840b7877dbe04783/index.m3u8
+#EXTINF:-1, TrångsundsIF-VäsbyIK
+fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6780ae96cd09a86d42e7408c/index.m3u8
 #EXTINF:-1, TavastiaPharmi-PT-80
 fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/67761d8f5969d50f8878981a/index.m3u8
