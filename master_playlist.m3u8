@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Alleghe-EppanAppiano
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad3840b7877dbe0477d/index.m3u8
-#EXTINF:-1, SVKaltern-HCFeltre
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad5840b7877dbe04781/index.m3u8
-#EXTINF:-1, HCMVVarese-HCAosta
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs0/6773fad65969d50f88789675/index.m3u8
-#EXTINF:-1, Pergine-HockeyComo
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs2/6773fad4840b7877dbe0477f/index.m3u8
-#EXTINF:-1, Fassa-ValdifiemmeHC
-fluidtv.php?channel=https://cdn.livearenasports.com/blobs1/6773fad5840b7877dbe04783/index.m3u8
+#EXTINF:-1, Charlottetown-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/9c8d433f93b3449a92e94e141175ba0d.m3u8
+#EXTINF:-1, Chicoutimi-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/b7a379c0c6764009a77161a3d1da6b2d.m3u8
+#EXTINF:-1, CapeBreton-Drummond.
+https://media-service.fanreachdata.io/edge/lhjmq/dbec1554f6184431adc422e916994a59.m3u8
