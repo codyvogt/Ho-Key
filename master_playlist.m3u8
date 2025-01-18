@@ -15,26 +15,8 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/f8e828de2cf
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/2c2abe5c15b54435a4b478144801c65b.m3u8
 #EXTINF:-1, Rouyn-Noranda-Blainville
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/21b7fe4997eb4302be222f59b6ff8ab9.m3u8
-#EXTINF:-1, Yale-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, PennState-Syracuse
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5ed808eb-c0db-49e0-ae3d-9cdeec13c03e-hls/master/5ed808eb-c0db-49e0-ae3d-9cdeec13c03e-hls.m3u8
-#EXTINF:-1, Quinnipiac-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Princeton-Cornell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Union-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Brown-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Merrimack-HolyCross
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Maine-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Northeastern-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, SaultSte.Marie-Kingston
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/8812c3edfa3146028c606bbb00bb4767.m3u8
 #EXTINF:-1, ErieOtters-Ottawa67's
