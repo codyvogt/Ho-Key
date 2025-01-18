@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, HKMogo-HCPanter
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67879aa195b6797c4f0c0a37/index.m3u8
-#EXTINF:-1, KalPa-Kiekko-Espoo
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6778c0905969d50f88789e91/index.m3u8
-#EXTINF:-1, FPS-Seinäjoen-Kiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6778c08f5969d50f88789e1b/index.m3u8
-#EXTINF:-1, KotkanTitaanit-Riemu
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6778c08f5969d50f88789e1e/index.m3u8
 #EXTINF:-1, ÚstínadLabem-Cheb
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66ff93a69ae3c54b26872062/index.m3u8
