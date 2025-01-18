@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SolnaSK-IFKMariehamn
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6783632afe7de23a39a9571b/index.m3u8
-#EXTINF:-1, GnestaIK-SudretsHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67836169fe7de23a39a956eb/index.m3u8
-#EXTINF:-1, PickelsHC-Linden2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67836088cd09a86d42e74830/index.m3u8
 #EXTINF:-1, PorinÄssät-Tappara
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6778c090840b7877dbe04e5a/index.m3u8
 #EXTINF:-1, OulunKärpät-RoKi
