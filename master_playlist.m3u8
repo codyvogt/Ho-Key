@@ -9,20 +9,6 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/045d57ece14
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5f8ff9646311415d9bdc051ef7c50034.m3u8
 #EXTINF:-1, Acadie-Bathurst-Chtown
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/6298a8195e25408c82cd7b75e8c2c035.m3u8
-#EXTINF:-1, Princeton-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Rensselaer-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Union-Harvard
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Yale-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, HolyCross-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Providence-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Maine-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Oshawa-Brantford
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/9caf8a9ded7248218bdb886d3a8dd2f7.m3u8
 #EXTINF:-1, Kitchener-Brampton
@@ -79,6 +65,8 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c2a2c18-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
 #EXTINF:-1, UMD-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/14080345-c162-4ac7-af23-505e799b3199-hls/master/14080345-c162-4ac7-af23-505e799b3199-hls.m3u8
+#EXTINF:-1, Maine-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Edmonton-MooseJaw
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/7e8365f792094f0b9a05eba9a943c151.m3u8
 #EXTINF:-1, RedDeer-PrinceAlbert
