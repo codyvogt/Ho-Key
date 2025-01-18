@@ -93,3 +93,17 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/045d57ece14
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5f8ff9646311415d9bdc051ef7c50034.m3u8
 #EXTINF:-1, Acadie-Bathurst-Chtown
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/6298a8195e25408c82cd7b75e8c2c035.m3u8
+#EXTINF:-1, Oshawa-Brantford
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/9caf8a9ded7248218bdb886d3a8dd2f7.m3u8
+#EXTINF:-1, Kitchener-Brampton
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/3b88854b0863442a9c438764b9582d9b.m3u8
+#EXTINF:-1, Guelph-SaginawSpirit
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/e97176fdc0954c65a5bb4ce58689531e.m3u8
+#EXTINF:-1, NorthBay-Niagara
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/2d35b84b24834503b69aef40578a5e74.m3u8
+#EXTINF:-1, Flint-OwenSoundAttack
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/638ed9b5d1514181a3e74da833e76354.m3u8
+#EXTINF:-1, Erie-PeterboroughPetes
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/ad7c43716613447fa719db6ffd034fd1.m3u8
+#EXTINF:-1, Windsor-BarrieColts
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/d06086e693234daaa6dc91f045362e8c.m3u8
