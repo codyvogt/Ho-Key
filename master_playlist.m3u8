@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rouyn-Noranda-Blainville
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/21b7fe4997eb4302be222f59b6ff8ab9.m3u8
-#EXTINF:-1, Portland-MooseJaw
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/59bae61cad4f4d2a9a90c1b9a7589fa7.m3u8
-#EXTINF:-1, SCBroncos-PrinceAlbert
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/dfa4eba3286f4afbb69ee65b0366e611.m3u8
-#EXTINF:-1, Edmonton-ReginaPats
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/ebe011f6e7a647cc84b4a75d919e37a1.m3u8
-#EXTINF:-1, RedDeer-Saskatoon
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/afd51321f2a849dfb63600240ad31310.m3u8
 #EXTINF:-1, MedicineHat-Calgary
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/d5c1e2515e1b449a9d21e21134f4177c.m3u8
 #EXTINF:-1, Lethbridge-Wenatchee
@@ -23,11 +13,5 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/4fa817dd9ce74
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/0720f9354dbc4c3996203b8d854db998.m3u8
 #EXTINF:-1, Seattle-KelownaRockets
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/d80727936a114c70954febad86df49a5.m3u8
-#EXTINF:-1, NMU-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, MTU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, WMU-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b4033b0a-f569-45e9-92bd-1d16ce9c39ac-hls/master/b4033b0a-f569-45e9-92bd-1d16ce9c39ac-hls.m3u8
 #EXTINF:-1, ASU-St.CloudState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7d068f18-6663-4ada-9caf-23a1bc7aa48a-hls/master/7d068f18-6663-4ada-9caf-23a1bc7aa48a-hls.m3u8
