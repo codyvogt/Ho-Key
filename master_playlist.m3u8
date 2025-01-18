@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Villard-de-Lans-Brest
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074e5969d50f8878a0ac/index.m3u8
 #EXTINF:-1, Québec-Moncton
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/73e25be7a24f42378013d97f22e5d13a.m3u8
 #EXTINF:-1, Val-d'Or-Chicoutimi
