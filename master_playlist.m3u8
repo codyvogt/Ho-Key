@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Amur-MetallurgMg
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, TPS-TampereenIlves
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6778c0905969d50f88789e98/index.m3u8
 #EXTINF:-1, MikkelinJukurit-JYP
@@ -17,3 +15,13 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678357bdfe7de23a39a955bf/index.m3u8
 #EXTINF:-1, SollentunaHC-Tyresö
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67835a61cd09a86d42e747ce/index.m3u8
+#EXTINF:-1, HäradsbygdensSS-Falu
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834e12cd09a86d42e7472e/index.m3u8
+#EXTINF:-1, VäsbyIKHK-Hammarby
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6783589ecd09a86d42e74796/index.m3u8
+#EXTINF:-1, Trelleborg-LundGiants
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67835d04fe7de23a39a95694/index.m3u8
+#EXTINF:-1, UlricehamnsIF-Lerum
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678350b6cd09a86d42e7473d/index.m3u8
+#EXTINF:-1, Benátky-VelkéPopovice
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67753d7d840b7877dbe04875/index.m3u8
