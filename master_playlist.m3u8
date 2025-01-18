@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lethbridge-Wenatchee
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/e3ff0d9d08a841cb8883c46713d24cc4.m3u8
-#EXTINF:-1, Tri-City-Vancouver
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/8de92832e8da4c419d4c3786ea753c4a.m3u8
-#EXTINF:-1, PrinceGeorge-Spokane
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/b62e5a95ec89455d8da3774606c10531.m3u8
-#EXTINF:-1, Brandon-EverettSilvertips
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/4fa817dd9ce74f7d93b3c70565483d27.m3u8
-#EXTINF:-1, Kamloops-VictoriaRoyals
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/0720f9354dbc4c3996203b8d854db998.m3u8
-#EXTINF:-1, Seattle-KelownaRockets
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/d80727936a114c70954febad86df49a5.m3u8
 #EXTINF:-1, Amur-MetallurgMg
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, TPS-TampereenIlves
