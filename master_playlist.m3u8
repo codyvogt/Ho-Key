@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Québec-Acadie-Bathurst
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/f479c03c25cd4d628590752af859f47c.m3u8
-#EXTINF:-1, Charlottetown-SaintJohn
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/f01a14257530409ca32efc4dd5ac1daa.m3u8
 #EXTINF:-1, Val-d'Or-Baie-Comeau
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/3843a462d5944d89895ceace2fd24558.m3u8
 #EXTINF:-1, Shawinigan-Rimouski
