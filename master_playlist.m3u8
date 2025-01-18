@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HCFeltre-Alleghe
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678a3da6a4b67c7e7265cdc9/index.m3u8
-#EXTINF:-1, Dolomites-Valdifiemme
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773fada5969d50f8878967f/index.m3u8
-#EXTINF:-1, HCAosta-EppanAppiano
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773fada5969d50f8878967d/index.m3u8
 #EXTINF:-1, Toulouse-Montpellier
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074c5969d50f8878a068/index.m3u8
 #EXTINF:-1, DucsdeDijon-Évry-Viry
@@ -19,6 +13,8 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074e5969d50f8878a0ac/index.m3u8
 #EXTINF:-1, Caen-Chambéry
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677a074e5969d50f8878a0ae/index.m3u8
+#EXTINF:-1, HCAosta-EppanAppiano
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773fada5969d50f8878967d/index.m3u8
 #EXTINF:-1, Leuven-Diez-Limburg
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a5826840b7877dbe0552c/index.m3u8
 #EXTINF:-1, PennState-Syracuse
