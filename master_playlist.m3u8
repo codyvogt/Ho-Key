@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1, PKW-KiekkohaitAk
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6778c0905969d50f88789e66/index.m3u8
+#EXTINF:-1, Kiekko-EspooEKS-Storm
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6778c090840b7877dbe04e9a/index.m3u8
+#EXTINF:-1, KlaGe-ApolloRangers
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6778c090840b7877dbe04e94/index.m3u8
