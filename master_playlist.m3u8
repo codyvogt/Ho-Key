@@ -1,22 +1,24 @@
 #EXTM3U
-#EXTINF:-1, Toulouse-Montpellier
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074c5969d50f8878a068/index.m3u8
-#EXTINF:-1, DucsdeDijon-Évry-Viry
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074d5969d50f8878a07a/index.m3u8
-#EXTINF:-1, Valence-Anglet2
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074c5969d50f8878a06a/index.m3u8
 #EXTINF:-1, Tours-Meudon
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074d5969d50f8878a0aa/index.m3u8
-#EXTINF:-1, DogsdeCholet-HCMP
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a074d5969d50f8878a0a6/index.m3u8
 #EXTINF:-1, Villard-de-Lans-Brest
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074e5969d50f8878a0ac/index.m3u8
 #EXTINF:-1, Caen-Chambéry
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677a074e5969d50f8878a0ae/index.m3u8
-#EXTINF:-1, HCAosta-EppanAppiano
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773fada5969d50f8878967d/index.m3u8
-#EXTINF:-1, Leuven-Diez-Limburg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a5826840b7877dbe0552c/index.m3u8
+#EXTINF:-1, Valence-Anglet2
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a074c5969d50f8878a06a/index.m3u8
+#EXTINF:-1, Chambéry2-HCMP2
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677a074d5969d50f8878a09a/index.m3u8
+#EXTINF:-1, Québec-Moncton
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/73e25be7a24f42378013d97f22e5d13a.m3u8
+#EXTINF:-1, Val-d'Or-Chicoutimi
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/945f9f371e7e429f9ace2f816964eca0.m3u8
+#EXTINF:-1, Halifax-Blainville-B.
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/045d57ece14747dcade19cb946bf3bf2.m3u8
+#EXTINF:-1, RNHuskies-Sherbrooke
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5f8ff9646311415d9bdc051ef7c50034.m3u8
+#EXTINF:-1, Acadie-Bathurst-Chtown
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/6298a8195e25408c82cd7b75e8c2c035.m3u8
 #EXTINF:-1, PennState-Syracuse
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3317f40f-6347-4527-a334-1c9b63845700-hls/master/3317f40f-6347-4527-a334-1c9b63845700-hls.m3u8
 #EXTINF:-1, Brown-Clarkson
@@ -37,20 +39,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrim
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Maine-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Toulouse-Tours
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a074e5969d50f8878a0b2/index.m3u8
-#EXTINF:-1, Chambéry2-HCMP2
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677a074d5969d50f8878a09a/index.m3u8
-#EXTINF:-1, Québec-MonctonWildcats
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/73e25be7a24f42378013d97f22e5d13a.m3u8
-#EXTINF:-1, Val-d'Or-Chicoutimi
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/945f9f371e7e429f9ace2f816964eca0.m3u8
-#EXTINF:-1, Halifax-Blainville-B.
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/045d57ece14747dcade19cb946bf3bf2.m3u8
-#EXTINF:-1, RNHuskies-Sherbrooke
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5f8ff9646311415d9bdc051ef7c50034.m3u8
-#EXTINF:-1, Acadie-Bathurst-Chtown
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/6298a8195e25408c82cd7b75e8c2c035.m3u8
 #EXTINF:-1, Oshawa-Brantford
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/9caf8a9ded7248218bdb886d3a8dd2f7.m3u8
 #EXTINF:-1, Kitchener-Brampton
