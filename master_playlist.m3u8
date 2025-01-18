@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, MedicineHat-Calgary
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/d5c1e2515e1b449a9d21e21134f4177c.m3u8
 #EXTINF:-1, Lethbridge-Wenatchee
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/e3ff0d9d08a841cb8883c46713d24cc4.m3u8
 #EXTINF:-1, Tri-City-Vancouver
@@ -13,3 +11,5 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/4fa817dd9ce74
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/0720f9354dbc4c3996203b8d854db998.m3u8
 #EXTINF:-1, Seattle-KelownaRockets
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/d80727936a114c70954febad86df49a5.m3u8
+#EXTINF:-1, Amur-MetallurgMg
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
