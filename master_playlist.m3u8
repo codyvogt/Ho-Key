@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Val-d'Or-Baie-Comeau
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/3843a462d5944d89895ceace2fd24558.m3u8
-#EXTINF:-1, Victoriaville-Gatineau
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/9aae06ecb86b4417a1bf459726b23cbf.m3u8
-#EXTINF:-1, CapeBreton-Sherbrooke
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/2c2abe5c15b54435a4b478144801c65b.m3u8
 #EXTINF:-1, Rouyn-Noranda-Blainville
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/21b7fe4997eb4302be222f59b6ff8ab9.m3u8
-#EXTINF:-1, Flint-KitchenerRangers
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/6cb284cdc69c4608aae656ea7b7f580a.m3u8
-#EXTINF:-1, Sudbury-SarniaSting
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/df0c8326ad58433ba400bdc1ca07fabb.m3u8
 #EXTINF:-1, Portland-MooseJaw
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/59bae61cad4f4d2a9a90c1b9a7589fa7.m3u8
 #EXTINF:-1, SCBroncos-PrinceAlbert
