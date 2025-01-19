@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, GrIFK-SibboWolfpack
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a120f840b7877dbe05167/index.m3u8
-#EXTINF:-1, UU-TornionIHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05191/index.m3u8
-#EXTINF:-1, KurraHT-J‰‰-Ahmat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f5969d50f8878a117/index.m3u8
-#EXTINF:-1, AalborgPirates-Rungsted
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/671f40a1e689ca0066fa0dba/index.m3u8
-#EXTINF:-1, KokkolanHermes-SaPKo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a12105969d50f8878a1f7/index.m3u8
-#EXTINF:-1, TampereenKOOVEE-IPK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a12105969d50f8878a1e7/index.m3u8
-#EXTINF:-1, ImatranKetter‰-LeKi
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05225/index.m3u8
-#EXTINF:-1, JYPAkatemia-Jokipojat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05231/index.m3u8
 #EXTINF:-1, Kr·lovÈPÌsek-Kladno
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/676176fda83d4f176bc9e1e9/index.m3u8
 #EXTINF:-1, WarriorsBrno-Olomouc
