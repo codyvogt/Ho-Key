@@ -1,3 +1,27 @@
 #EXTM3U
-#EXTINF:-1, KurraHT-Jää-Ahmat
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677a120f5969d50f8878a117/index.m3u8
+#EXTINF:-1, FrançaisVolants-Meudon
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe0564d/index.m3u8
+#EXTINF:-1, Clermont-Ferrand-Annecy
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05645/index.m3u8
+#EXTINF:-1, Tours(Orléans)-Bordeaux
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe05659/index.m3u8
+#EXTINF:-1, LionsdeLyon-Chambéry
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe05643/index.m3u8
+#EXTINF:-1, Briançon-Ducsd'Angers
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66dd24ce4b7c131998fd5cb3.m3u8
+#EXTINF:-1, Chamonix-Rouen
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6768e3ce840b7877dbe03839.m3u8
+#EXTINF:-1, Diez-Limburg-HijsHokij
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677ba9a65969d50f8878a7a0/index.m3u8
+#EXTINF:-1, Neuwied-Heerenveen
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677ba9a65969d50f8878a7a2/index.m3u8
+#EXTINF:-1, EatersLimburg-Mechelen
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677ba9a75969d50f8878a7a4/index.m3u8
+#EXTINF:-1, HYC-LiègeBulldogs
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677ba9a7840b7877dbe05956/index.m3u8
+#EXTINF:-1, Hormadid'Anglet-Caen
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66caafcbd3d999504733c41f.m3u8
+#EXTINF:-1, RapacesdeGap-Amiens
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/677b58cd840b7877dbe0563f.m3u8
+#EXTINF:-1, Asiago-Juniorteams
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774045d840b7877dbe047bb/index.m3u8
