@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Amiens2-ÉpinalHC
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/677b58cd840b7877dbe0564b.m3u8
-#EXTINF:-1, FrançaisVolants-Meudon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe0564d/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Annecy
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05645/index.m3u8
-#EXTINF:-1, Tours(Orléans)-Bordeaux
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe05659/index.m3u8
-#EXTINF:-1, LionsdeLyon-Chambéry
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe05643/index.m3u8
 #EXTINF:-1, JYPAkatemia-Jokipojat
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a120f840b7877dbe05231/index.m3u8
 #EXTINF:-1, Kaltern/Ritten-AlpsIA
