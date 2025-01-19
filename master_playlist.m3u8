@@ -1,9 +1,41 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Kr·lovÈPÌsek-Kladno
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/676176fda83d4f176bc9e1e9/index.m3u8
-#EXTINF:-1, WarriorsBrno-Olomouc
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6770f4a45969d50f88789172/index.m3u8
+#EXTINF:-1, TimrÂIK-AlmtunaIS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b3cafe7de23a39a95b9a/index.m3u8
+#EXTINF:-1, Vojens-HerningII
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/671f3f731dc6516e0899f533/index.m3u8
+#EXTINF:-1, Rouen-Villard-de-Lans
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/677b58cd840b7877dbe0563d.m3u8
+#EXTINF:-1, Angers-Cergy-Pontoise
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/677b58cd840b7877dbe0563b.m3u8
+#EXTINF:-1, HC74-Strasbourg
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/677b58cd840b7877dbe05641.m3u8
+#EXTINF:-1, Hormadid'Anglet-Caen
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66caafcbd3d999504733c41f.m3u8
+#EXTINF:-1, RapacesdeGap-Amiens
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/677b58cd840b7877dbe0563f.m3u8
+#EXTINF:-1, TampereenKOOVEE-IPK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a12105969d50f8878a1e7/index.m3u8
+#EXTINF:-1, ImatranKetter‰-LeKi
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05225/index.m3u8
+#EXTINF:-1, JYPAkatemia-Jokipojat
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a120f840b7877dbe05231/index.m3u8
+#EXTINF:-1, UU-TornionIHC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05191/index.m3u8
+#EXTINF:-1, KurraHT-J‰‰-Ahmat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f5969d50f8878a117/index.m3u8
+#EXTINF:-1, Pingviinit-VaPSHockey
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6778c08f840b7877dbe04de7/index.m3u8
+#EXTINF:-1, MUIKII-Warrantti
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe0519b/index.m3u8
+#EXTINF:-1, KraftHockey-TUS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05199/index.m3u8
+#EXTINF:-1, IKKronan2-Virki‰II
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe051a3/index.m3u8
+#EXTINF:-1, HernesaarenN‰‰d‰t-KHK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6778c0905969d50f88789eb2/index.m3u8
+#EXTINF:-1, HCPanter-ViruSputnik
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67814443cd09a86d42e741da/index.m3u8
 #EXTINF:-1, BeraniZlÌnB-VHKVsetÌn
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677907d5840b7877dbe05039/index.m3u8
