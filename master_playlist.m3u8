@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Edmonton-MooseJaw
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/7e8365f792094f0b9a05eba9a943c151.m3u8
 #EXTINF:-1, RedDeer-PrinceAlbert
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/96591ece57a1491683b2f698a431137b.m3u8
 #EXTINF:-1, Portland-SwiftCurrent
