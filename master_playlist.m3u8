@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, HYRI-HeinolanPeliitat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe051a2/index.m3u8
-#EXTINF:-1, RNK-TuToAkatemia
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05184/index.m3u8
-#EXTINF:-1, PorvoonHunters-HIFKII
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe0519d/index.m3u8
-#EXTINF:-1, Kiekko-VantaaItä-KlaGe
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67776f0f840b7877dbe04b6d/index.m3u8
-#EXTINF:-1, TuK-V-LännenKiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe051ae/index.m3u8
 #EXTINF:-1, ZemgaleJrs-Dinaburga
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784d160cd09a86d42e74c11/index.m3u8
 #EXTINF:-1, OdenseIK-Frederikshavn
@@ -52,7 +42,7 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, Queens-Munksund
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6784a236fe7de23a39a95953/index.m3u8
 #EXTINF:-1, SollentunaHC-JärnaSK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67849f92cd09a86d42e74a2d/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67849f92cd09a86d42e74a2d/index.m3u8
 #EXTINF:-1, GrIFK-SibboWolfpack
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677a120f840b7877dbe05167/index.m3u8
 #EXTINF:-1, UU-TornionIHC
