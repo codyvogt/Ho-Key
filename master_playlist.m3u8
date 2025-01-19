@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Rouen2-Besançon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/677b58cd840b7877dbe05649.m3u8
-#EXTINF:-1, DogsdeCholet-Nantes
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe0565b/index.m3u8
-#EXTINF:-1, Dunkerque-Compiègne
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677b58cd840b7877dbe05651/index.m3u8
-#EXTINF:-1, Amiens2-ÉpinalHC
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/677b58cd840b7877dbe0564b.m3u8
-#EXTINF:-1, FrançaisVolants-Meudon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe0564d/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Annecy
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05645/index.m3u8
-#EXTINF:-1, Tours(Orléans)-Bordeaux
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05659/index.m3u8
-#EXTINF:-1, LionsdeLyon-Chambéry
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05643/index.m3u8
 #EXTINF:-1, LuleåHF-VästeråsIK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784ada3fe7de23a39a95ab5/index.m3u8
 #EXTINF:-1, SkellefteåAIK-ÖrebroHK
