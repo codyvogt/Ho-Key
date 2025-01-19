@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, LuleåHF-VästeråsIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784ada3fe7de23a39a95ab5/index.m3u8
-#EXTINF:-1, SkellefteåAIK-ÖrebroHK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b207cd09a86d42e74b3b/index.m3u8
-#EXTINF:-1, MoDo-MalmöRedhawks
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b207cd09a86d42e74b3c/index.m3u8
 #EXTINF:-1, LinköpingHC-Färjestad
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784b74ecd09a86d42e74bc3/index.m3u8
 #EXTINF:-1, AIK-FrölundaHC
@@ -15,7 +9,3 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b58bcd09a86d42e74b9c/index.m3u8
 #EXTINF:-1, TimråIK-AlmtunaIS
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b3cafe7de23a39a95b9a/index.m3u8
-#EXTINF:-1, KölnerJung.-Ingolstadt
-fluidtv.php?channel=https://pool-3.cdn.sporttotal.tv/out/v1/ad5c0d1d0dca49c992e60ddc7ad662ee/index.m3u8
-#EXTINF:-1, PirátiChomutov-Tábor
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677d0a5c5969d50f8878a8e1/index.m3u8
