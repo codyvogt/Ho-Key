@@ -1,5 +1,37 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, LiberecB-KutnáHora
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6734a3fe8851d826adae5263/index.m3u8
+#EXTINF:-1, Rouen2-Besançon
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/677b58cd840b7877dbe05649.m3u8
+#EXTINF:-1, DogsdeCholet-Nantes
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe0565b/index.m3u8
+#EXTINF:-1, Dunkerque-Compiègne
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677b58cd840b7877dbe05651/index.m3u8
+#EXTINF:-1, Amiens2-ÉpinalHC
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/677b58cd840b7877dbe0564b.m3u8
+#EXTINF:-1, FrançaisVolants-Meudon
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe0564d/index.m3u8
+#EXTINF:-1, Clermont-Ferrand-Annecy
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05645/index.m3u8
+#EXTINF:-1, Tours(Orléans)-Bordeaux
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05659/index.m3u8
+#EXTINF:-1, LionsdeLyon-Chambéry
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05643/index.m3u8
+#EXTINF:-1, LuleåHF-VästeråsIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784ada3fe7de23a39a95ab5/index.m3u8
+#EXTINF:-1, SkellefteåAIK-ÖrebroHK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b207cd09a86d42e74b3b/index.m3u8
+#EXTINF:-1, MoDo-MalmöRedhawks
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b207cd09a86d42e74b3c/index.m3u8
+#EXTINF:-1, LinköpingHC-Färjestad
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784b74ecd09a86d42e74bc3/index.m3u8
+#EXTINF:-1, AIK-FrölundaHC
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6784b4aafe7de23a39a95baf/index.m3u8
+#EXTINF:-1, HV71-DjurgårdensIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b58bcd09a86d42e74b9c/index.m3u8
+#EXTINF:-1, TimråIK-AlmtunaIS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784b3cafe7de23a39a95b9a/index.m3u8
+#EXTINF:-1, KölnerJung.-Ingolstadt
+fluidtv.php?channel=https://pool-3.cdn.sporttotal.tv/out/v1/ad5c0d1d0dca49c992e60ddc7ad662ee/index.m3u8
+#EXTINF:-1, PirátiChomutov-Tábor
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677d0a5c5969d50f8878a8e1/index.m3u8
