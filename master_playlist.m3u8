@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, RedDeer-PrinceAlbert
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/96591ece57a1491683b2f698a431137b.m3u8
-#EXTINF:-1, Portland-SwiftCurrent
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/2c3b92da8e374f8ca34767129c3f0882.m3u8
 #EXTINF:-1, Calgary-MedicineHat
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/8f787cda15924ef99604049bf2e20661.m3u8
 #EXTINF:-1, KelownaRockets-Seattle
@@ -15,5 +11,3 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/4c31c24e801b4
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a06110dd408f41ff9fa735cc4903e76b.m3u8
 #EXTINF:-1, Kamloops-VictoriaRoyals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/964194ef23ba42afa7c179fe468c4f95.m3u8
-#EXTINF:-1, UMD-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/14080345-c162-4ac7-af23-505e799b3199-hls/master/14080345-c162-4ac7-af23-505e799b3199-hls.m3u8
