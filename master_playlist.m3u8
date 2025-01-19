@@ -25,3 +25,11 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/93b99b1b9aa24
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/2552e9385399498b94ba20b174b20b77.m3u8
 #EXTINF:-1, Windsor-Oshawa
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/6f68abd56c684e05a0624c237647d980.m3u8
+#EXTINF:-1, Brandon-Vancouver
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/29897c7e6aba4acd8ef2415d5f83d185.m3u8
+#EXTINF:-1, SwiftCurrent-Saskatoon
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/6395d0ecf03d47c980978bd4b57becef.m3u8
+#EXTINF:-1, Regina-CalgaryHitmen
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/415647941eec46ca997e4ffea12610ed.m3u8
+#EXTINF:-1, Tri-City-WenatcheeWild
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/b4cd39c5701d43ee874f0d26672f11cf.m3u8
