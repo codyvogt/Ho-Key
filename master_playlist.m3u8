@@ -1,27 +1,41 @@
 #EXTM3U
-#EXTINF:-1, FrançaisVolants-Meudon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe0564d/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Annecy
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b58cd840b7877dbe05645/index.m3u8
-#EXTINF:-1, Tours(Orléans)-Bordeaux
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe05659/index.m3u8
-#EXTINF:-1, LionsdeLyon-Chambéry
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677b58cd840b7877dbe05643/index.m3u8
-#EXTINF:-1, Briançon-Ducsd'Angers
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/66dd24ce4b7c131998fd5cb3.m3u8
-#EXTINF:-1, Chamonix-Rouen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6768e3ce840b7877dbe03839.m3u8
-#EXTINF:-1, Diez-Limburg-HijsHokij
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677ba9a65969d50f8878a7a0/index.m3u8
 #EXTINF:-1, Neuwied-Heerenveen
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677ba9a65969d50f8878a7a2/index.m3u8
 #EXTINF:-1, EatersLimburg-Mechelen
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677ba9a75969d50f8878a7a4/index.m3u8
 #EXTINF:-1, HYC-LiègeBulldogs
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677ba9a7840b7877dbe05956/index.m3u8
-#EXTINF:-1, Hormadid'Anglet-Caen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/66caafcbd3d999504733c41f.m3u8
-#EXTINF:-1, RapacesdeGap-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/677b58cd840b7877dbe0563f.m3u8
-#EXTINF:-1, Asiago-Juniorteams
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774045d840b7877dbe047bb/index.m3u8
+#EXTINF:-1, SokolovB-HCDomažlice
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/676eb40f840b7877dbe03d43/index.m3u8
+#EXTINF:-1, Stenungsund-Kungsbacka
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6784b3cafe7de23a39a95b85/index.m3u8
+#EXTINF:-1, Moncton-Acadie-Bathurst
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/b0583a9a25ea426a8fdde98770ef10ab.m3u8
+#EXTINF:-1, Québec-SaintJohn
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/c1b97fe6cd4c4d6694ae956b55dd6016.m3u8
+#EXTINF:-1, CapeBreton-Rimouski
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/d9a35f5af17c49bc9f85e5d81aecd147.m3u8
+#EXTINF:-1, Val-d'Or-Chicoutimi
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/c1934880a09347abbb66f47d883f89e3.m3u8
+#EXTINF:-1, Drummond.-Baie-Comeau
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/9a994603ca444dbda7d20abfde46715b.m3u8
+#EXTINF:-1, Gatineau-Shawinigan
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/f132c10588624768958f9153c68f644a.m3u8
+#EXTINF:-1, Blainville-Victoriaville
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/2f2e0cb34b1d4d1d9c77a991de45a6a0.m3u8
+#EXTINF:-1, Erie-KingstonFrontenacs
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/b70c989b097349498299bef2af357d0a.m3u8
+#EXTINF:-1, SaultSte.Marie-Ottawa
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/dcab18813bf04421abbb3f5909bdd967.m3u8
+#EXTINF:-1, Barrie-NiagaraIceDogs
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/d3b043324ce8492996e6ae7d64db06b8.m3u8
+#EXTINF:-1, Sudbury-LondonKnights
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/93b99b1b9aa24a238114b7286292ec8d.m3u8
+#EXTINF:-1, NorthBay-Brantford
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/2552e9385399498b94ba20b174b20b77.m3u8
+#EXTINF:-1, Windsor-Oshawa
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/6f68abd56c684e05a0624c237647d980.m3u8
+#EXTINF:-1, SiouxFalls-USNTDPU17
+fluidtv.php?channel=https://d2xz4jq54tdibj.cloudfront.net/1779ba819b6562ddf5b20cdecd8d9161/0_hd_hls.m3u8
+#EXTINF:-1, HernesaarenNäädät-KHK
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6778c0905969d50f88789eb2/index.m3u8
