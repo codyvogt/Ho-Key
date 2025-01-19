@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, CapeBreton-Rimouski
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/d9a35f5af17c49bc9f85e5d81aecd147.m3u8
 #EXTINF:-1, Val-d'Or-Chicoutimi
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/c1934880a09347abbb66f47d883f89e3.m3u8
 #EXTINF:-1, Drummond.-Baie-Comeau
