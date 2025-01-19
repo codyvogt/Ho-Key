@@ -3,10 +3,6 @@
 fluidtv.php?channel=https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, HCSochi-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, IFBjörklöven-AIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784a316fe7de23a39a95957/index.m3u8
-#EXTINF:-1, FärjestadBK-IFMalmö
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784a77bfe7de23a39a95996/index.m3u8
 #EXTINF:-1, BrynäsIF-RögleBK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784a77bfe7de23a39a9599f/index.m3u8
 #EXTINF:-1, LuleåHF-VästeråsIK
