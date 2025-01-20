@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Tri-City-WenatcheeWild
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/b4cd39c5701d43ee874f0d26672f11cf.m3u8
+#EXTINF:-1, Admiral-AkBarsKazan
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Netherlands-Taipei
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6786929e95b6797c4f0c090b/index.m3u8
