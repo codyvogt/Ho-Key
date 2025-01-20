@@ -1,3 +1,31 @@
 #EXTM3U
 #EXTINF:-1, NewZealand-Latvia
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678694b295b6797c4f0c0910/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678694b295b6797c4f0c0910/index.m3u8
+#EXTINF:-1, JärfällaHC-SpångaIS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6785ff2295b6797c4f0c07ec/index.m3u8
+#EXTINF:-1, HaningeHC-Östhammar
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6785fd61622f80735a02322a/index.m3u8
+#EXTINF:-1, JärnaSK-BrinkensIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678602a6622f80735a02323c/index.m3u8
+#EXTINF:-1, HammarbyIF-IFKTumba
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6785f2d4622f80735a023222/index.m3u8
+#EXTINF:-1, EnköpingsSKHK-Väsby
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6785fabd95b6797c4f0c079a/index.m3u8
+#EXTINF:-1, TranebergIK-Trångsund
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678601c695b6797c4f0c07f4/index.m3u8
+#EXTINF:-1, Segeltorp-Åker/Strängnäs
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6785fe4195b6797c4f0c07a6/index.m3u8
+#EXTINF:-1, TyresöHanviken-SDEHF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6786062a95b6797c4f0c07f6/index.m3u8
+#EXTINF:-1, Flemingsberg-Sollentuna
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6785f73a622f80735a023224/index.m3u8
+#EXTINF:-1, LindenHockey-Vallentuna
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6785fc80622f80735a023226/index.m3u8
+#EXTINF:-1, Huddinge-WingsArlanda
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6786062a95b6797c4f0c07f7/index.m3u8
+#EXTINF:-1, NackaHK-NyköpingsSK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6786062a95b6797c4f0c07f8/index.m3u8
+#EXTINF:-1, KoskenPojat-Tiikerit
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677a120f840b7877dbe05224/index.m3u8
+#EXTINF:-1, HCLudwig-Karhu-Kissat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677b6391840b7877dbe0568a/index.m3u8
