@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Brandon-Vancouver
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/29897c7e6aba4acd8ef2415d5f83d185.m3u8
-#EXTINF:-1, SwiftCurrent-Saskatoon
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/6395d0ecf03d47c980978bd4b57becef.m3u8
 #EXTINF:-1, Regina-CalgaryHitmen
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/415647941eec46ca997e4ffea12610ed.m3u8
 #EXTINF:-1, Tri-City-WenatcheeWild
