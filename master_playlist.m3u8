@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Roudnicen.L.-Klášterec
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6731f2f52bab5f0222654b44/index.m3u8
 #EXTINF:-1, Herning-Rungsted
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/671f40a2e689ca0066fa0dbc/index.m3u8
 #EXTINF:-1, Rødovre-OdenseBulldogs
@@ -79,3 +77,9 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678a5820a4b67c7e7265ce2b/index.m3u8
 #EXTINF:-1, Karhu-Kissat-EVUTeam
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cb512840b7877dbe05a2e/index.m3u8
+#EXTINF:-1, OhioState-Mercyhurst
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, BostonCollege-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, BostonU-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
