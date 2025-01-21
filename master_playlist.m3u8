@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1, RittnerBuam-HCMeran/o
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678a5820a4b67c7e7265ce29/index.m3u8
-#EXTINF:-1, SGCortina-HCGherdëina
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678a5820a4b67c7e7265ce2b/index.m3u8
-#EXTINF:-1, Anglet-Cergy-Pontoise
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/676b86ce5969d50f88788867.m3u8
-#EXTINF:-1, Ducsd'Angers-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/676b86ce5969d50f8878886f.m3u8
 #EXTINF:-1, BostonCollege-Harvard
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, BostonU-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, London-Kitchener
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/17ab049ce15d469f9b0e40f3a7708c61.m3u8
