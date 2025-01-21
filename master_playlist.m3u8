@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Herning-Rungsted
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/671f40a2e689ca0066fa0dbc/index.m3u8
-#EXTINF:-1, Rødovre-OdenseBulldogs
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/671f40a2e689ca0066fa0dbe/index.m3u8
-#EXTINF:-1, Frederikshavn-Esbjerg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/671f40a31dc6516e0899f580/index.m3u8
-#EXTINF:-1, HaparandaHF-Sunderby
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678746f795b6797c4f0c0981/index.m3u8
 #EXTINF:-1, Söderhamn-OckelboHC
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67875346622f80735a023464/index.m3u8
-#EXTINF:-1, GävleGIK-MalungsIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67874b5c95b6797c4f0c098a/index.m3u8
-#EXTINF:-1, OrsaIK-Skedvi/SäterIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67874ee195b6797c4f0c09a6/index.m3u8
-#EXTINF:-1, ValboHC-StrömsbroIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67874ee195b6797c4f0c09a5/index.m3u8
-#EXTINF:-1, Vännäs-UmeåDragons
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67874b5c622f80735a023428/index.m3u8
 #EXTINF:-1, Boden-Överkalix/Kalix
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67874d1e95b6797c4f0c0999/index.m3u8
 #EXTINF:-1, KB65HK-KovlandsIshF
@@ -25,8 +9,6 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678750a2622f80735a023456/index.m3u8
 #EXTINF:-1, NjurundaSK-Sollefteå
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67875264622f80735a02345e/index.m3u8
-#EXTINF:-1, NorIK-VikingHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6741796a74345b0eaa499639/index.m3u8
 #EXTINF:-1, MälaröHF-SolnaSK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678746f795b6797c4f0c0985/index.m3u8
 #EXTINF:-1, Kvarnsveden-Hedemora
@@ -39,8 +21,12 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67874dff95b6797c4f0c099e/index.m3u8
 #EXTINF:-1, UddevallaHC-Falköping
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678740d1622f80735a0233d7/index.m3u8
-#EXTINF:-1, UlricehamnsIF-Hisingen
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67874536622f80735a023418/index.m3u8
+#EXTINF:-1, HalmstadHC-TranåsAIF
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67874dff95b6797c4f0c099f/index.m3u8
+#EXTINF:-1, BäckenHC-TingsrydsAIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67875a4d95b6797c4f0c09ed/index.m3u8
+#EXTINF:-1, IKOskarshamn-Olofström
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67875b2e95b6797c4f0c09ef/index.m3u8
 #EXTINF:-1, LerumsBK-KålleredSK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787437395b6797c4f0c0975/index.m3u8
 #EXTINF:-1, VänersborgsHC-Sörhaga
@@ -49,14 +35,6 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678741b195b6797c4f0c096b/index.m3u8
 #EXTINF:-1, TyringeSoSS-IFLejonet
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674c072c171a4a676e69dfe9/index.m3u8
-#EXTINF:-1, HaningeHC-SödertäljeSK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67874ee195b6797c4f0c09a7/index.m3u8
-#EXTINF:-1, HalmstadHC-TranåsAIF
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67874dff95b6797c4f0c099f/index.m3u8
-#EXTINF:-1, BäckenHC-TingsrydsAIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67875a4d95b6797c4f0c09ed/index.m3u8
-#EXTINF:-1, IKOskarshamn-Olofström
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67875b2e95b6797c4f0c09ef/index.m3u8
 #EXTINF:-1, Hvidovre-Rødovre
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66f68ad42ad3f109382cb279/index.m3u8
 #EXTINF:-1, Briançon-AiglesdeNice
