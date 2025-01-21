@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Gr.Britain-Netherlands
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67869518622f80735a02337c/index.m3u8
+#EXTINF:-1, Kazakhstan-NewZealand
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67869540622f80735a02337e/index.m3u8
+#EXTINF:-1, ChineseTaipei-Latvia
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6786956795b6797c4f0c0912/index.m3u8
