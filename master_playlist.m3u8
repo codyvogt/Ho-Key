@@ -5,3 +5,11 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockey
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, London-Kitchener
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/17ab049ce15d469f9b0e40f3a7708c61.m3u8
+#EXTINF:-1, Brown-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Regina-MedicineHat
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/5914dc05d2df44029c179472f1ecaa96.m3u8
+#EXTINF:-1, Brandon-Kelowna
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/2a1d537defbf439f97e6bd1bb84da914.m3u8
+#EXTINF:-1, Vancouver-Seattle
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/9577998dbe2f4dc1835f7d0cab172cad.m3u8
