@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Kazakhstan-NewZealand
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67869540622f80735a02337e/index.m3u8
-#EXTINF:-1, ChineseTaipei-Latvia
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6786956795b6797c4f0c0912/index.m3u8
 #EXTINF:-1, SlovakiaU18-Trebišov
 fluidtv.php?channel=https://nn.geo.joj.sk/huste/fca72bf3-be4a-4351-ba02-a665b3268716/fca72bf3-be4a-4351-ba02-a665b3268716/playlist.m3u8
