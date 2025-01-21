@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Roudnicen.L.-Klášterec
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6731f2f52bab5f0222654b44/index.m3u8
-#EXTINF:-1, ChineseTaipei-Latvia
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6786956795b6797c4f0c0912/index.m3u8
 #EXTINF:-1, Herning-Rungsted
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/671f40a2e689ca0066fa0dbc/index.m3u8
 #EXTINF:-1, Rødovre-OdenseBulldogs
