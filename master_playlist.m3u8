@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1, Herlev-SønderjyskE
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/671f40a31dc6516e0899f582/index.m3u8
+#EXTINF:-1, LeksandsIF-MoraIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788a5a795b6797c4f0c0bdd/index.m3u8
+#EXTINF:-1, LinköpingHC-HV71
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788abcd95b6797c4f0c0c03/index.m3u8
+#EXTINF:-1, DraciBílina-HCLouny
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66c737857959d90e21c27f58/index.m3u8
