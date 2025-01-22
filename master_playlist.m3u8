@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1, Herlev-SønderjyskE
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/671f40a31dc6516e0899f582/index.m3u8
-#EXTINF:-1, LeksandsIF-MoraIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788a5a795b6797c4f0c0bdd/index.m3u8
-#EXTINF:-1, LinköpingHC-HV71
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788abcd95b6797c4f0c0c03/index.m3u8
-#EXTINF:-1, DraciBílina-HCLouny
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66c737857959d90e21c27f58/index.m3u8
+#EXTINF:-1, Gothiquesd'Amiens-HC74
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6777644d840b7877dbe04b36.m3u8
+#EXTINF:-1, ÅngeIK-KovlandsIshF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788a222622f80735a023652/index.m3u8
+#EXTINF:-1, SKLejon-TegsSK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788a68795b6797c4f0c0be0/index.m3u8
+#EXTINF:-1, NjurundaSK-Sundsvall
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788a3e495b6797c4f0c0bc9/index.m3u8
+#EXTINF:-1, IFKSalem-DuvboIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788979795b6797c4f0c0b8b/index.m3u8
+#EXTINF:-1, HärrydaHC-JonstorpsIF
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774e54d840b7877dbe0485b/index.m3u8
+#EXTINF:-1, Hille/ÅbyggebyIK-Gävle
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678cce4ca4b67c7e7265d540/index.m3u8
+#EXTINF:-1, Värmdö-GötaTraneberg
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6788aa0b95b6797c4f0c0bf3/index.m3u8
+#EXTINF:-1, HammarbyIF-AIK
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678e3c65a639c257a5d363ef/index.m3u8
+#EXTINF:-1, EsbjergII-Vojens
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/671f3f731dc6516e0899f535/index.m3u8
