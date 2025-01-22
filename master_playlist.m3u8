@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1, Barrie-OwenSound
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/30603fa8e37a4e04b4e0b14809397b79.m3u8
+#EXTINF:-1, Niagara-Brantford
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/33bae88b85794816ae26c471aa037f25.m3u8
+#EXTINF:-1, Ottawa67's-Kingston
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/94e7d4db57d1423ca70053411541dfaf.m3u8
