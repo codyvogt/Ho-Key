@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, BostonU-Northeastern
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, Regina-MedicineHat
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/5914dc05d2df44029c179472f1ecaa96.m3u8
 #EXTINF:-1, Brandon-Kelowna
