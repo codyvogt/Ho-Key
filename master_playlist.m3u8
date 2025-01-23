@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, LiberecB-BKNov·Paka
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6741708e74345b0eaa499604/index.m3u8
+#EXTINF:-1, Gatineau-CapeBreton
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/73a4eca1388040979ed32999ac899600.m3u8
+#EXTINF:-1, Acadie-Bathurst-Halifax
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/4398c18502ef40528c424ab06bd31d89.m3u8
+#EXTINF:-1, Chicoutimi-SaintJohn
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/05a9d6e70f6343aca89456f14308b847.m3u8
+#EXTINF:-1, Drummondville-Val-d'Or
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/ca66df541e3644e395a35042bf15967f.m3u8
