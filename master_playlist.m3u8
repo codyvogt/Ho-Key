@@ -3,9 +3,5 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Severstal-KunlunRedStar
 fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1, Taipei-Kazakhstan
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678695b295b6797c4f0c0916/index.m3u8
-#EXTINF:-1, Netherlands-Latvia
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678695d5622f80735a023380/index.m3u8
 #EXTINF:-1, RoKi-OulunKärpät
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677f580ffe7de23a39a94bca/index.m3u8
