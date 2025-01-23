@@ -7,3 +7,9 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/4398c18502e
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/05a9d6e70f6343aca89456f14308b847.m3u8
 #EXTINF:-1, Drummondville-Val-d'Or
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/ca66df541e3644e395a35042bf15967f.m3u8
+#EXTINF:-1, Brampton-BarrieColts
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/d263e57b2c274f21ba74deceb10ff22d.m3u8
+#EXTINF:-1, London-NorthBay
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/e8f55b83f2ac4b83abe52552a713c092.m3u8
+#EXTINF:-1, Saginaw-Peterborough
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/741022c2e5cc42a1a8d79348238f286f.m3u8
