@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Regina-Lethbridge
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/c8ce49e8d4ae4cb6ad7ebeb4f8b9b81e.m3u8
-#EXTINF:-1, Brandon-Kamloops
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/19d88f36b71141c68938bf5a9ebfc4e0.m3u8
+#EXTINF:-1, Gr.Britain-NewZealand
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6786958a95b6797c4f0c0914/index.m3u8
+#EXTINF:-1, Taipei-Kazakhstan
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678695b295b6797c4f0c0916/index.m3u8
+#EXTINF:-1, Netherlands-Latvia
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678695d5622f80735a023380/index.m3u8
