@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kingston-Ottawa67's
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/42312787cac1406295adb8745f715500.m3u8
-#EXTINF:-1, Brampton-FlintFirebirds
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/04e5ba6a9c394df3b55da3988f0fa3a3.m3u8
-#EXTINF:-1, Kitchener-ErieOtters
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76b6870fa5b24607996080878e768690.m3u8
-#EXTINF:-1, SarniaSting-OwenSound
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/72b09f2f136a4c63945a9e532c11d46c.m3u8
-#EXTINF:-1, Brantford-BarrieColts
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c4d58ebfaaf84ed7999d9ccfc37a20be.m3u8
-#EXTINF:-1, Brown-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, HolyCross-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, NewHampshire-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Connecticut-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Northeastern-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Baie-Comeau-RNHuskies
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/0d5dfb5e1a684a9cb7b3a443c91f7b98.m3u8
 #EXTINF:-1, Sherbrooke-Shawinigan
@@ -63,6 +43,22 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f01d37f2-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, SCSU-Nebraska-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f7951080-c9a6-481b-bdca-e009501f35d9-hls/master/f7951080-c9a6-481b-bdca-e009501f35d9-hls.m3u8
+#EXTINF:-1, HolyCross-BostonU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, NewHampshire-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Connecticut-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Northeastern-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Brampton-FlintFirebirds
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/04e5ba6a9c394df3b55da3988f0fa3a3.m3u8
+#EXTINF:-1, Kitchener-ErieOtters
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76b6870fa5b24607996080878e768690.m3u8
+#EXTINF:-1, SarniaSting-OwenSound
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/72b09f2f136a4c63945a9e532c11d46c.m3u8
+#EXTINF:-1, Brantford-BarrieColts
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c4d58ebfaaf84ed7999d9ccfc37a20be.m3u8
 #EXTINF:-1, PrinceAlbert-Regina
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/8440e4d6c6794f9594d69e16c314d71b.m3u8
 #EXTINF:-1, Calgary-Lethbridge
