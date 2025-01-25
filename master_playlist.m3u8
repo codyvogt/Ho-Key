@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1, SKA-SalavatYulaevUfa
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, KouvolanKooKoo-Jokerit
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e7433c/index.m3u8
+#EXTINF:-1, KJTHaukat-Diskos
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10fe7de23a39a95174/index.m3u8
+#EXTINF:-1, IPK-ImatranKetterä
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10fe7de23a39a95154/index.m3u8
 #EXTINF:-1, RaumanLukko-Tappara
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e74345/index.m3u8
 #EXTINF:-1, JYP-KalevanPallo
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6781fb10cd09a86d42e74331/index.m3u8
-#EXTINF:-1, BrynäsIF2-HedesundaIF
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c907ba4b67c7e7265d362/index.m3u8
-#EXTINF:-1, KJTHaukat-Diskos
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10fe7de23a39a95174/index.m3u8
+#EXTINF:-1, Kiekko-Espoo-HPK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e74333/index.m3u8
 #EXTINF:-1, NyköpingsSK-Tyresö
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9ccba4b67c7e7265d4d0/index.m3u8
 #EXTINF:-1, WingsArlanda-Vallentuna
@@ -25,6 +25,10 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9401d6975d5c558a1765/index.m3u8
 #EXTINF:-1, Mariestad-Oskarshamn
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9a27a4b67c7e7265d46a/index.m3u8
+#EXTINF:-1, OlofströmsIK-Halmstad
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c96a2a4b67c7e7265d412/index.m3u8
+#EXTINF:-1, HanhalsIF-KungälvsIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ca04dd6975d5c558a186f/index.m3u8
 #EXTINF:-1, LN91-KirunaAIF
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c9b07d6975d5c558a1812/index.m3u8
 #EXTINF:-1, Teg-AsplövenHaparanda
