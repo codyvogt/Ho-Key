@@ -13,16 +13,12 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/58858cd5a95
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/70fa0fb622a54aae8bcfcf6b5d4e4320.m3u8
 #EXTINF:-1, Shawinigan-Blainville-B.
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/ac47254dc781469e9c5a4f6edc041ba1.m3u8
-#EXTINF:-1, St.Lawrence-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Cornell-Dartmouth
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Colgate-Harvard
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
 #EXTINF:-1, Brown-Princeton
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Yale-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Rensselaer-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, BostonU-HolyCross
@@ -31,8 +27,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycr
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Connecticut-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, BostonC-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Merrimack-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Niagara-ErieOtters
