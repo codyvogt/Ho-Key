@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1, TuusKiekko-GrankullaIFK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0ffe7de23a39a950c5/index.m3u8
-#EXTINF:-1, KPK-UplakersYlöjärvi
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0fcd09a86d42e742c4/index.m3u8
-#EXTINF:-1, KUKIHT-NivalaCowboys
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0ffe7de23a39a950cd/index.m3u8
-#EXTINF:-1, HeinolanPeliitat-Urho
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742d8/index.m3u8
-#EXTINF:-1, KurikanRyhti-Hela-Kiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742f2/index.m3u8
-#EXTINF:-1, MalaxIF-AlavudenPV
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742f8/index.m3u8
-#EXTINF:-1, JPK-HighsticksHT
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742fd/index.m3u8
-#EXTINF:-1, VG-62Naantali-LaJy
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6781fb0fcd09a86d42e742cc/index.m3u8
-#EXTINF:-1, PaimionHaka-Chiefs
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742d6/index.m3u8
-#EXTINF:-1, RaumaTigers-RNKHoci
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0ffe7de23a39a950bd/index.m3u8
-#EXTINF:-1, GladiatorsHT-ParruHT
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0fcd09a86d42e742c1/index.m3u8
 #EXTINF:-1, Örebro-MalmöRedhawks
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9ccca4b67c7e7265d4d6/index.m3u8
 #EXTINF:-1, Västerås-VäxjöLakers
@@ -45,6 +23,26 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9e8bd6975d5c558a185a/index.m3u8
 #EXTINF:-1, KalixHC-ÖstersundsIK
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c9a27a4b67c7e7265d465/index.m3u8
+#EXTINF:-1, KPK-UplakersYlöjärvi
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0fcd09a86d42e742c4/index.m3u8
+#EXTINF:-1, KUKIHT-NivalaCowboys
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0ffe7de23a39a950cd/index.m3u8
+#EXTINF:-1, HeinolanPeliitat-Urho
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742d8/index.m3u8
+#EXTINF:-1, KurikanRyhti-Hela-Kiekko
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742f2/index.m3u8
+#EXTINF:-1, MalaxIF-AlavudenPV
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742f8/index.m3u8
+#EXTINF:-1, JPK-HighsticksHT
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742fd/index.m3u8
+#EXTINF:-1, VG-62Naantali-LaJy
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6781fb0fcd09a86d42e742cc/index.m3u8
+#EXTINF:-1, PaimionHaka-Chiefs
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e742d6/index.m3u8
+#EXTINF:-1, RaumaTigers-RNKHoci
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0ffe7de23a39a950bd/index.m3u8
+#EXTINF:-1, GladiatorsHT-ParruHT
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0fcd09a86d42e742c1/index.m3u8
 #EXTINF:-1, Fagersta-Guldsmedshytte
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9a27d6975d5c558a180a/index.m3u8
 #EXTINF:-1, OrsaIK-MalungsIF
