@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dunkerque-Nantes
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678341cecd09a86d42e74572/index.m3u8
-#EXTINF:-1, Brest-Straubing
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678341cecd09a86d42e74578/index.m3u8
-#EXTINF:-1, Meudon-Caen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cefe7de23a39a953a3/index.m3u8
-#EXTINF:-1, Morzine-Avoriaz-Cholet
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cefe7de23a39a953b1/index.m3u8
-#EXTINF:-1, EppanAppiano-Kaltern
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773fade840b7877dbe04789/index.m3u8
-#EXTINF:-1, HCAosta-Alleghe
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773fade5969d50f88789687/index.m3u8
-#EXTINF:-1, FassaFalcons-Pergine
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773fadf5969d50f88789689/index.m3u8
-#EXTINF:-1, LiègeBulldogs-Mechelen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678392a6cd09a86d42e748c9/index.m3u8
-#EXTINF:-1, LeuvenChiefs-HijsHokij
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678392a7fe7de23a39a957eb/index.m3u8
-#EXTINF:-1, HYC-EatersLimburg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678392a7fe7de23a39a957ed/index.m3u8
-#EXTINF:-1, DogsdeCholet2-Brive
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cefe7de23a39a953b5/index.m3u8
-#EXTINF:-1, Caen2-Rennes
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678341cefe7de23a39a953b3/index.m3u8
-#EXTINF:-1, Briançon2-Nice2
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/678341cefe7de23a39a953ab.m3u8
-#EXTINF:-1, Tours2-Bordeaux2
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678341cefe7de23a39a953b9/index.m3u8
 #EXTINF:-1, Providence-BostonC
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, RochesterIT-Syracuse
@@ -51,10 +23,18 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermon
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, SGCortina-RittnerBuam
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679350145fe3d9289f89dc78/index.m3u8
+#EXTINF:-1, Morzine-Avoriaz-Cholet
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cefe7de23a39a953b1/index.m3u8
+#EXTINF:-1, FassaFalcons-Pergine
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773fadf5969d50f88789689/index.m3u8
 #EXTINF:-1, Clermont-FD-Toulouse
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cdfe7de23a39a95369/index.m3u8
 #EXTINF:-1, Annecy-Vaujany-Grenoble
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678341cdfe7de23a39a95365/index.m3u8
+#EXTINF:-1, Briançon2-Nice2
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/678341cefe7de23a39a953ab.m3u8
+#EXTINF:-1, Tours2-Bordeaux2
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678341cefe7de23a39a953b9/index.m3u8
 #EXTINF:-1, Kingston-Ottawa67's
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/42312787cac1406295adb8745f715500.m3u8
 #EXTINF:-1, Brampton-FlintFirebirds
@@ -65,6 +45,8 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76b6870fa5b24
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/72b09f2f136a4c63945a9e532c11d46c.m3u8
 #EXTINF:-1, Brantford-BarrieColts
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c4d58ebfaaf84ed7999d9ccfc37a20be.m3u8
+#EXTINF:-1, HYC-EatersLimburg
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678392a7fe7de23a39a957ed/index.m3u8
 #EXTINF:-1, Baie-Comeau-RNHuskies
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/0d5dfb5e1a684a9cb7b3a443c91f7b98.m3u8
 #EXTINF:-1, Sherbrooke-Shawinigan
