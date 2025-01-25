@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1, HCPanter-HKMogo
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67950b9478f8a77af35ab045/index.m3u8
-#EXTINF:-1, KölnerJunghaie-Krefeld
-fluidtv.php?channel=https://pool-4.cdn.sporttotal.tv/out/v1/b11fdae2128349d8a6b2366e29291dfd/index.m3u8
-#EXTINF:-1, GladiatorsHT-ParruHT
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb0fcd09a86d42e742c1/index.m3u8
-#EXTINF:-1, Turnov-LomnicenadP.
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67824254cd09a86d42e744ce/index.m3u8
-#EXTINF:-1, HKKrnov-HCBohumín
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67319e951dc6516e089a2027/index.m3u8
+#EXTINF:-1, Säter-Hille/Åbyggeby
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c8cf7a4b67c7e7265d32e/index.m3u8
+#EXTINF:-1, TrångsundsIF-JärnaSK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c8cf7a4b67c7e7265d324/index.m3u8
+#EXTINF:-1, SaltsjöbadensIF-Järfälla
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9daad6975d5c558a183a/index.m3u8
+#EXTINF:-1, KålleredSK-Vänersborg
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c9a27d6975d5c558a1806/index.m3u8
