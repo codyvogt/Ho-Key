@@ -105,8 +105,6 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c9ccba4b67c7e7265d4ce/index.m3u8
 #EXTINF:-1, HCAostaII-Chiavenna
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6745a5d974345b0eaa49a001/index.m3u8
-#EXTINF:-1, MilanoDevils-Pinerolo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6745a5ce9251076945206ec8/index.m3u8
 #EXTINF:-1, Vinschgau-HCPSelection
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6745a5df74345b0eaa49a00b/index.m3u8
 #EXTINF:-1, Storm-ApolloRangers
@@ -116,7 +114,7 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, K-VantaaItä-GrIFKJouk.
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6781fb10fe7de23a39a95161/index.m3u8
 #EXTINF:-1, Kiekko-67Turku-TuK-V
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e7430e/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6781fb10cd09a86d42e7430e/index.m3u8
 #EXTINF:-1, Kiekko-EspooEKS-KlaGe
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e74371/index.m3u8
 #EXTINF:-1, RødovreSIK-HerningII
