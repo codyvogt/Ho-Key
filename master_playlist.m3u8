@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Acadie-Bathurst-Moncton
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/94d7e92c0c144ac188fa5df049c33b60.m3u8
-#EXTINF:-1, Chicoutimi-Halifax
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/f36af14d6deb413b92194c0ebfa44c79.m3u8
-#EXTINF:-1, Rimouski-SaintJohn
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/15e33a6fa79048d1a2759d498a4734e9.m3u8
 #EXTINF:-1, Sherbrooke-Québec
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/51a0c376f46c486cb793c6eef066820a.m3u8
 #EXTINF:-1, Drumm.-Rouyn-Noranda
