@@ -11,8 +11,6 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76b6870fa5b24
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/72b09f2f136a4c63945a9e532c11d46c.m3u8
 #EXTINF:-1, Brantford-BarrieColts
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c4d58ebfaaf84ed7999d9ccfc37a20be.m3u8
-#EXTINF:-1, HYC-EatersLimburg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678392a7fe7de23a39a957ed/index.m3u8
 #EXTINF:-1, RochesterIT-Syracuse
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/01b44d42-df25-45ce-9279-7d4661b1c4f7-hls/master/01b44d42-df25-45ce-9279-7d4661b1c4f7-hls.m3u8
 #EXTINF:-1, Colgate-Dartmouth
