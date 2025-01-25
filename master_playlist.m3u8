@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, RedDeer-Lethbridge
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/9313cd0f461440b5959aebdf4e17c821.m3u8
-#EXTINF:-1, MooseJaw-Edmonton
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/78763384a6bb4ec2ba05f12760d0664c.m3u8
 #EXTINF:-1, Everett-Wenatchee
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/edf9443e86a1482488394c771e25fe84.m3u8
 #EXTINF:-1, Kelowna-Kamloops
@@ -15,5 +11,3 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/616f4d8175334
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/1b317aa00f54476bb3e860517b3500a7.m3u8
 #EXTINF:-1, MedicineHat-Spokane
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/45f3ffb0fe184239b2aebf13ed02d83f.m3u8
-#EXTINF:-1, ColoradoC-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/df3e4c66-5a1a-4405-aa12-d46bfe6ff4e2-hls/master/df3e4c66-5a1a-4405-aa12-d46bfe6ff4e2-hls.m3u8
