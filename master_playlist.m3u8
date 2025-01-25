@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, FrançaisVolants-Dijon
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678341cdcd09a86d42e74568/index.m3u8
-#EXTINF:-1, Rouen2-Reims
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/678341cdfe7de23a39a95373.m3u8
-#EXTINF:-1, Clermont-FD-Toulouse
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cdfe7de23a39a95369/index.m3u8
-#EXTINF:-1, Annecy-Vaujany-Grenoble
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678341cdfe7de23a39a95365/index.m3u8
 #EXTINF:-1, Dunkerque-Nantes
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678341cecd09a86d42e74572/index.m3u8
 #EXTINF:-1, Brest-Straubing
@@ -27,8 +19,6 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678392a7fe7de23a39a957eb/index.m3u8
 #EXTINF:-1, HYC-EatersLimburg
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678392a7fe7de23a39a957ed/index.m3u8
-#EXTINF:-1, EVUTeam-K-KissatAk
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10fe7de23a39a950f9/index.m3u8
 #EXTINF:-1, DogsdeCholet2-Brive
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cefe7de23a39a953b5/index.m3u8
 #EXTINF:-1, Caen2-Rennes
@@ -61,6 +51,10 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermon
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, SGCortina-RittnerBuam
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679350145fe3d9289f89dc78/index.m3u8
+#EXTINF:-1, Clermont-FD-Toulouse
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678341cdfe7de23a39a95369/index.m3u8
+#EXTINF:-1, Annecy-Vaujany-Grenoble
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678341cdfe7de23a39a95365/index.m3u8
 #EXTINF:-1, Kingston-Ottawa67's
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/42312787cac1406295adb8745f715500.m3u8
 #EXTINF:-1, Brampton-FlintFirebirds
