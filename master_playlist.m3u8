@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Everett-Wenatchee
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/edf9443e86a1482488394c771e25fe84.m3u8
-#EXTINF:-1, Kelowna-Kamloops
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/6b038305748d4065bf2b55846a3cba28.m3u8
-#EXTINF:-1, Tri-City-Portland
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/aef856e6182649d1b1ceb8701c93a4b0.m3u8
-#EXTINF:-1, Brandon-PrinceGeorge
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/616f4d81753346df931c0f670410706f.m3u8
-#EXTINF:-1, VictoriaRoyals-Seattle
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/1b317aa00f54476bb3e860517b3500a7.m3u8
-#EXTINF:-1, MedicineHat-Spokane
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/45f3ffb0fe184239b2aebf13ed02d83f.m3u8
 #EXTINF:-1, KouvolanKooKoo-Jokerit
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6781fb10cd09a86d42e7433c/index.m3u8
 #EXTINF:-1, RaumanLukko-Tappara
