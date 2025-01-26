@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, RapacesdeGap-Nice
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4e840b7877dbe043a2.m3u8
-#EXTINF:-1, Anglet-Briançon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67721e4e840b7877dbe0439c.m3u8
 #EXTINF:-1, Rimouski-Charlottetown
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/b83cbea5d82648518aaedece4b314e4e.m3u8
 #EXTINF:-1, Chicoutimi-CapeBreton
@@ -27,9 +23,5 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/282ec5dc84ac4
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/3215b2d82ef546079d986cc64988bb7c.m3u8
 #EXTINF:-1, RedDeer-CalgaryHitmen
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/441b1d6c999f404e960062069e269e16.m3u8
-#EXTINF:-1, EatersLimburg-Neuwied
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784e427cd09a86d42e74c43/index.m3u8
 #EXTINF:-1, Strasbourg-Gap
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784934dcd09a86d42e74999/index.m3u8
-#EXTINF:-1, BKOckra-ÄlvdalensHK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6753f351c412906a2afcec3d/index.m3u8
