@@ -1,17 +1,3 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, LeksandsIF-RögleBK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678dda137335c942ac5d5a4e/index.m3u8
-#EXTINF:-1, SödertäljeSK-LuleåHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dec887335c942ac5d5bd3/index.m3u8
-#EXTINF:-1, FärjestadBK-BrynäsIF
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678dee4b7335c942ac5d5bfc/index.m3u8
-#EXTINF:-1, MoraIK-FrölundaHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ded69a4b67c7e7265d7b7/index.m3u8
-#EXTINF:-1, ÖrebroHK-VäxjöLakers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dec887335c942ac5d5bd2/index.m3u8
-#EXTINF:-1, VästeråsIK-IFMalmö
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dee4b7335c942ac5d5bfd/index.m3u8
-#EXTINF:-1, TimråIK-IFBjörklöven
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dee4b7335c942ac5d5bfa/index.m3u8
