@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Pergine-EppanAppiano
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740462840b7877dbe047c3/index.m3u8
 #EXTINF:-1, Marseille-Bordeaux
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4e840b7877dbe0439e.m3u8
 #EXTINF:-1, RapacesdeGap-Nice
@@ -15,8 +13,6 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784934ccd09a86d42e7498d/index.m3u8
 #EXTINF:-1, Bordeaux-Nantes
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6784934dcd09a86d42e749ba.m3u8
-#EXTINF:-1, Huddinge-NyköpingsAIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678df00c7335c942ac5d5c1a/index.m3u8
 #EXTINF:-1, Latvia-Kazakhstan
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6786968d95b6797c4f0c0920/index.m3u8
 #EXTINF:-1, Rimouski-Charlottetown
