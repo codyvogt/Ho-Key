@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Amiens-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67721e4f840b7877dbe043a4.m3u8
+#EXTINF:-1, Pergine-EppanAppiano
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740462840b7877dbe047c3/index.m3u8
 #EXTINF:-1, Marseille-Bordeaux
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4e840b7877dbe0439e.m3u8
 #EXTINF:-1, RapacesdeGap-Nice
@@ -9,7 +9,43 @@ fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/67721e4e840b7877dbe043a0.m3u8
 #EXTINF:-1, Anglet-Briançon
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67721e4e840b7877dbe0439c.m3u8
-#EXTINF:-1, HCChrudim-HCNáchod
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67738995840b7877dbe04703/index.m3u8
-#EXTINF:-1, VlciJablonec-Frýdlant
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67629e538edf8a54162c6f9c/index.m3u8
+#EXTINF:-1, Caen2-Rouen2
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6784934ccd09a86d42e74989/index.m3u8
+#EXTINF:-1, FrançaisVolants-Épinal
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784934ccd09a86d42e7498d/index.m3u8
+#EXTINF:-1, Bordeaux-Nantes
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6784934dcd09a86d42e749ba.m3u8
+#EXTINF:-1, Huddinge-NyköpingsAIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678df00c7335c942ac5d5c1a/index.m3u8
+#EXTINF:-1, Latvia-Kazakhstan
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6786968d95b6797c4f0c0920/index.m3u8
+#EXTINF:-1, Rimouski-Charlottetown
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/b83cbea5d82648518aaedece4b314e4e.m3u8
+#EXTINF:-1, Chicoutimi-CapeBreton
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5774f02f26f34811a883221b01ebafb1.m3u8
+#EXTINF:-1, SaintJohn-Halifax
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/357346b6521a4a0ca02bdb4e6d347673.m3u8
+#EXTINF:-1, Gatineau-Acadie-Bathurst
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5ab1ca08c9a8459b90b5b884ac243b37.m3u8
+#EXTINF:-1, Baie-Comeau-Val-d'Or
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/d692027ebf45419c886d8b513d2d402d.m3u8
+#EXTINF:-1, Québec-Shawinigan
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/afdbeec395014a72ac2643df2557fb2e.m3u8
+#EXTINF:-1, Victoriaville-Drummond.
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/3a2582f942cf4714b2bb552b3f9f7768.m3u8
+#EXTINF:-1, PrinceAlbert-Saskatoon
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/958335c65b0b44b895b7df7c87d2cc98.m3u8
+#EXTINF:-1, SwiftCurrent-Vancouver
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/d8c6d6642c6b44b0ba4d2ffa6e07cb42.m3u8
+#EXTINF:-1, Tri-City-EverettSilvertips
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/282ec5dc84ac4034a0690297314546d2.m3u8
+#EXTINF:-1, Lethbridge-Edmonton
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/3215b2d82ef546079d986cc64988bb7c.m3u8
+#EXTINF:-1, RedDeer-CalgaryHitmen
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/441b1d6c999f404e960062069e269e16.m3u8
+#EXTINF:-1, EatersLimburg-Neuwied
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784e427cd09a86d42e74c43/index.m3u8
+#EXTINF:-1, Strasbourg-Gap
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784934dcd09a86d42e74999/index.m3u8
+#EXTINF:-1, BKOckra-ÄlvdalensHK
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6753f351c412906a2afcec3d/index.m3u8
