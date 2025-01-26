@@ -35,10 +35,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghock
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f01d37f2-ccd3-46d5-9992-64943d0b927c-hls/master/f01d37f2-ccd3-46d5-9992-64943d0b927c-hls.m3u8
 #EXTINF:-1, SCSU-Nebraska-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f7951080-c9a6-481b-bdca-e009501f35d9-hls/master/f7951080-c9a6-481b-bdca-e009501f35d9-hls.m3u8
-#EXTINF:-1, Connecticut-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Northeastern-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Muskegon-USNTDPU17
 fluidtv.php?channel=https://d2n055zxzhnucg.cloudfront.net/48cebea549d91dd2f53da2443822f77d/0_hd_hls.m3u8
 #EXTINF:-1, Brampton-FlintFirebirds
@@ -67,3 +63,5 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/4129c08383584
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/8c3f292cf7c24d718b6bbb0c7a3f12b1.m3u8
 #EXTINF:-1, Vancouver-Kelowna
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/40840a3775724cdf868f5224c3c2f741.m3u8
+#EXTINF:-1, Northeastern-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
