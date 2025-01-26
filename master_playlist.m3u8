@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1, KurraHT-Jää-Ahmat
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67834c8fcd09a86d42e745de/index.m3u8
-#EXTINF:-1, Cergy-Pontoise-HC74
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6784934dfe7de23a39a958bd.m3u8
-#EXTINF:-1, Villard-de-Lans-Angers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784934cfe7de23a39a958bb/index.m3u8
-#EXTINF:-1, Strasbourg-Gap
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784934dcd09a86d42e74999/index.m3u8
+#EXTINF:-1, Amiens-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67721e4f840b7877dbe043a4.m3u8
+#EXTINF:-1, Marseille-Bordeaux
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4e840b7877dbe0439e.m3u8
+#EXTINF:-1, RapacesdeGap-Nice
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4e840b7877dbe043a2.m3u8
+#EXTINF:-1, Chamonix-Cergy-Pontoise
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/67721e4e840b7877dbe043a0.m3u8
+#EXTINF:-1, Anglet-Briançon
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67721e4e840b7877dbe0439c.m3u8
+#EXTINF:-1, HCChrudim-HCNáchod
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67738995840b7877dbe04703/index.m3u8
+#EXTINF:-1, VlciJablonec-Frýdlant
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67629e538edf8a54162c6f9c/index.m3u8
