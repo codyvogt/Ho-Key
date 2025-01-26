@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SarniaSting-OwenSound
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/72b09f2f136a4c63945a9e532c11d46c.m3u8
-#EXTINF:-1, Brantford-BarrieColts
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c4d58ebfaaf84ed7999d9ccfc37a20be.m3u8
 #EXTINF:-1, Calgary-Lethbridge
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/9fcb967cde39440c9c3a7973d2edd48f.m3u8
 #EXTINF:-1, Kamloops-PrinceGeorge
