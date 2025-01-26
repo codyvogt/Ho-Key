@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Brampton-Windsor
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/84620afb41b046fda4ef8a847fdc030c.m3u8
-#EXTINF:-1, Guelph-OshawaGenerals
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/2950624815f345839b2d6fd9f4649d2e.m3u8
 #EXTINF:-1, PrinceAlbert-Saskatoon
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/958335c65b0b44b895b7df7c87d2cc98.m3u8
 #EXTINF:-1, SwiftCurrent-Vancouver
@@ -13,3 +9,5 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/282ec5dc84ac4
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/3215b2d82ef546079d986cc64988bb7c.m3u8
 #EXTINF:-1, RedDeer-CalgaryHitmen
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/441b1d6c999f404e960062069e269e16.m3u8
+#EXTINF:-1, Guelph-OshawaGenerals
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/2950624815f345839b2d6fd9f4649d2e.m3u8
