@@ -1,33 +1,3 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, LaitilanJyske-KuKi
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c8fcd09a86d42e745ce/index.m3u8
-#EXTINF:-1, Urho-PelikaanitHT
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c8fcd09a86d42e745d4/index.m3u8
-#EXTINF:-1, PESÄImatra-Warkis
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c8fcd09a86d42e745be/index.m3u8
-#EXTINF:-1, LeKi-75-SuKiKa
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c8fcd09a86d42e745d6/index.m3u8
-#EXTINF:-1, KurraHT-Jää-Ahmat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c8fcd09a86d42e745de/index.m3u8
-#EXTINF:-1, KeuPaHT-KalPaAk
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c90cd09a86d42e74669/index.m3u8
-#EXTINF:-1, Amiens-DrakkarsdeCaen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6784934dcd09a86d42e7499b.m3u8
-#EXTINF:-1, Rouen-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6784934dcd09a86d42e74997.m3u8
-#EXTINF:-1, Cergy-Pontoise-HC74
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6784934dfe7de23a39a958bd.m3u8
-#EXTINF:-1, Villard-de-Lans-Angers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784934cfe7de23a39a958bb/index.m3u8
-#EXTINF:-1, Strasbourg-Gap
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784934dcd09a86d42e74999/index.m3u8
-#EXTINF:-1, KeuPaHT/Diskos-SaPKo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74678/index.m3u8
-#EXTINF:-1, Viikingit-Seinäjoen-Kiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74679/index.m3u8
-#EXTINF:-1, Kiekko-Vantaa-Hermes
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74675/index.m3u8
-#EXTINF:-1, JYPAkatemia-FoPS
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74676/index.m3u8
