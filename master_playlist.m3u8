@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Chicoutimi-CapeBreton
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5774f02f26f34811a883221b01ebafb1.m3u8
-#EXTINF:-1, SaintJohn-Halifax
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/357346b6521a4a0ca02bdb4e6d347673.m3u8
 #EXTINF:-1, Gatineau-Acadie-Bathurst
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5ab1ca08c9a8459b90b5b884ac243b37.m3u8
 #EXTINF:-1, Baie-Comeau-Val-d'Or
@@ -13,8 +11,6 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/afdbeec3950
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/3a2582f942cf4714b2bb552b3f9f7768.m3u8
 #EXTINF:-1, Saginaw-Ottawa67's
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/cf269a8512714c9295f646d110ffac21.m3u8
-#EXTINF:-1, Sudbury-NorthBay
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/9c5a4e994c3e46b6b84c10e9d0e865ee.m3u8
 #EXTINF:-1, Erie-NiagaraIceDogs
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76bd314d77034aa59b144674a738aa8d.m3u8
 #EXTINF:-1, London-SaultSte.Marie
@@ -23,14 +19,8 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76ca5fad17b94
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/84620afb41b046fda4ef8a847fdc030c.m3u8
 #EXTINF:-1, Guelph-OshawaGenerals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/2950624815f345839b2d6fd9f4649d2e.m3u8
-#EXTINF:-1, Stonehill-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Bentley-Princeton
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, BemidjiState-St.Thomas
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
-#EXTINF:-1, HernesaarenN‰‰d‰t-PUS
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c90cd09a86d42e74656/index.m3u8
 #EXTINF:-1, PrinceAlbert-Saskatoon
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/958335c65b0b44b895b7df7c87d2cc98.m3u8
 #EXTINF:-1, SwiftCurrent-Vancouver
