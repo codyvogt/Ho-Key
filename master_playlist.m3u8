@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Chicoutimi-CapeBreton
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5774f02f26f34811a883221b01ebafb1.m3u8
-#EXTINF:-1, Gatineau-Acadie-Bathurst
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/5ab1ca08c9a8459b90b5b884ac243b37.m3u8
 #EXTINF:-1, Baie-Comeau-Val-d'Or
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/d692027ebf45419c886d8b513d2d402d.m3u8
 #EXTINF:-1, Québec-Shawinigan
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/afdbeec395014a72ac2643df2557fb2e.m3u8
 #EXTINF:-1, Victoriaville-Drummond.
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/3a2582f942cf4714b2bb552b3f9f7768.m3u8
-#EXTINF:-1, Saginaw-Ottawa67's
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/cf269a8512714c9295f646d110ffac21.m3u8
-#EXTINF:-1, Erie-NiagaraIceDogs
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76bd314d77034aa59b144674a738aa8d.m3u8
-#EXTINF:-1, London-SaultSte.Marie
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/76ca5fad17b9419c8561e18216d800eb.m3u8
+#EXTINF:-1, Bentley-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
 #EXTINF:-1, Brampton-Windsor
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/84620afb41b046fda4ef8a847fdc030c.m3u8
 #EXTINF:-1, Guelph-OshawaGenerals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/2950624815f345839b2d6fd9f4649d2e.m3u8
-#EXTINF:-1, Bentley-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
 #EXTINF:-1, PrinceAlbert-Saskatoon
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/958335c65b0b44b895b7df7c87d2cc98.m3u8
 #EXTINF:-1, SwiftCurrent-Vancouver
