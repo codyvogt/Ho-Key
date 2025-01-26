@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Québec-Shawinigan
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/afdbeec395014a72ac2643df2557fb2e.m3u8
-#EXTINF:-1, Victoriaville-Drummond.
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/3a2582f942cf4714b2bb552b3f9f7768.m3u8
-#EXTINF:-1, Bentley-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
 #EXTINF:-1, Brampton-Windsor
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/84620afb41b046fda4ef8a847fdc030c.m3u8
 #EXTINF:-1, Guelph-OshawaGenerals
