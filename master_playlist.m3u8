@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1, Ducsd'Angers-Rouen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/67721e4f840b7877dbe043a6.m3u8
-#EXTINF:-1, Amiens-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67721e4f840b7877dbe043a4.m3u8
-#EXTINF:-1, Marseille-Bordeaux
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4e840b7877dbe0439e.m3u8
-#EXTINF:-1, RapacesdeGap-Nice
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/67721e4e840b7877dbe043a2.m3u8
-#EXTINF:-1, Chamonix-Cergy-Pontoise
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/67721e4e840b7877dbe043a0.m3u8
-#EXTINF:-1, Anglet-Briançon
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/67721e4e840b7877dbe0439c.m3u8
-#EXTINF:-1, Kralupyn.Vlt.-Neratovice
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6778cf90840b7877dbe04fbc/index.m3u8
+#EXTINF:-1, Rouen-Grenoble
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6784934dcd09a86d42e74997.m3u8
+#EXTINF:-1, Cergy-Pontoise-HC74
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6784934dfe7de23a39a958bd.m3u8
+#EXTINF:-1, Villard-de-Lans-Angers
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784934cfe7de23a39a958bb/index.m3u8
+#EXTINF:-1, Strasbourg-Gap
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784934dcd09a86d42e74999/index.m3u8
+#EXTINF:-1, Aosta-Merano/Bolzano
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404605969d50f887896b5/index.m3u8
+#EXTINF:-1, Brixen/Wipptal-JT
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677404615969d50f887896b7/index.m3u8
+#EXTINF:-1, Pergine-EppanAppiano
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740462840b7877dbe047c3/index.m3u8
+#EXTINF:-1, ArvikaHC-ÅmålsSK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ded69a4b67c7e7265d7af/index.m3u8
+#EXTINF:-1, GrumsIK-HammaröHC
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678de5807335c942ac5d5ac6/index.m3u8
+#EXTINF:-1, BäckenHC-KRIFHockey
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678df1cea4b67c7e7265d842/index.m3u8
