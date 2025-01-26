@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Heerenveen-Diez-Limburg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784e426cd09a86d42e74c41/index.m3u8
-#EXTINF:-1, EatersLimburg-Neuwied
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784e427cd09a86d42e74c43/index.m3u8
-#EXTINF:-1, HighsticksHTAc-TUS
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c8ffe7de23a39a95435/index.m3u8
-#EXTINF:-1, IKK2-S-KiekkoTeam
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c8ffe7de23a39a95431/index.m3u8
-#EXTINF:-1, MäntänKiekko-Pojat-AHK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90fe7de23a39a9544a/index.m3u8
-#EXTINF:-1, VG-62IINaantali-PaRa
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c90fe7de23a39a95446/index.m3u8
-#EXTINF:-1, HernesaarenNäädät-PUS
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74656/index.m3u8
-#EXTINF:-1, TurunPalloseura-HIFK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90fe7de23a39a95471/index.m3u8
 #EXTINF:-1, HanhalsIF-Helsingborg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678df1cea4b67c7e7265d83f/index.m3u8
 #EXTINF:-1, KungälvsIK-VärnamoGIK
@@ -39,6 +23,14 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678de5807335c942ac5d5ac6/index.m3u8
 #EXTINF:-1, BäckenHC-KRIFHockey
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678df1cea4b67c7e7265d842/index.m3u8
+#EXTINF:-1, IKK2-S-KiekkoTeam
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c8ffe7de23a39a95431/index.m3u8
+#EXTINF:-1, MäntänKiekko-Pojat-AHK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90fe7de23a39a9544a/index.m3u8
+#EXTINF:-1, VG-62IINaantali-PaRa
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c90fe7de23a39a95446/index.m3u8
+#EXTINF:-1, HernesaarenNäädät-PUS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74656/index.m3u8
 #EXTINF:-1, Falkenberg-Kungsbacka
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678df00c7335c942ac5d5c20/index.m3u8
 #EXTINF:-1, TAIFLöfstad-Strömstad
