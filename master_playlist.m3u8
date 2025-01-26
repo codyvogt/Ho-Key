@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, HCPanter-HKMogo
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678f871b5fe3d9289f89d695/index.m3u8
+#EXTINF:-1, VHKVsetín-HCChrudim
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677907d5840b7877dbe0503b/index.m3u8
