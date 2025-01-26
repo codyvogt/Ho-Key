@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Baie-Comeau-Val-d'Or
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/d692027ebf45419c886d8b513d2d402d.m3u8
 #EXTINF:-1, Québec-Shawinigan
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/afdbeec395014a72ac2643df2557fb2e.m3u8
 #EXTINF:-1, Victoriaville-Drummond.
