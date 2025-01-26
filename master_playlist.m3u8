@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1, KurraHT-J‰‰-Ahmat
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67834c8fcd09a86d42e745de/index.m3u8
+#EXTINF:-1, Cergy-Pontoise-HC74
+fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6784934dfe7de23a39a958bd.m3u8
+#EXTINF:-1, Villard-de-Lans-Angers
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784934cfe7de23a39a958bb/index.m3u8
+#EXTINF:-1, Strasbourg-Gap
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6784934dcd09a86d42e74999/index.m3u8
