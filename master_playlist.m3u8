@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1, HCSochi-Severstal
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Rødovre-OdenseBulldogs
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66bee8c0b33cc1612b30c21f/index.m3u8
 #EXTINF:-1, Heerenveen-Diez-Limburg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784e426cd09a86d42e74c41/index.m3u8
 #EXTINF:-1, EatersLimburg-Neuwied
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6784e427cd09a86d42e74c43/index.m3u8
-#EXTINF:-1, MoraIK-Hallstahammar
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ded697335c942ac5d5bdc/index.m3u8
-#EXTINF:-1, TeamUppsala-SDEHF2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ddaf4a4b67c7e7265d631/index.m3u8
-#EXTINF:-1, IFSundsvall-BrunfloIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ded69a4b67c7e7265d7a9/index.m3u8
-#EXTINF:-1, SollentunaHC-Tullinge
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dda137335c942ac5d5a44/index.m3u8
 #EXTINF:-1, HighsticksHTAc-TUS
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c8ffe7de23a39a95435/index.m3u8
 #EXTINF:-1, IKK2-S-KiekkoTeam
@@ -76,7 +64,7 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, Skillingaryd-Skärgården
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dda137335c942ac5d5a46/index.m3u8
 #EXTINF:-1, LerumsBK-IFLejonet
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ddbd5a4b67c7e7265d641/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678ddbd5a4b67c7e7265d641/index.m3u8
 #EXTINF:-1, BKOckra-ÄlvdalensHK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6753f351c412906a2afcec3d/index.m3u8
 #EXTINF:-1, RNK-VG-62Naantali
@@ -84,7 +72,7 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, EVU-Kiekko-EspooIII
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6781fb10fe7de23a39a950fe/index.m3u8
 #EXTINF:-1, LaserHTRed-TIHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90fe7de23a39a9544b/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67834c90fe7de23a39a9544b/index.m3u8
 #EXTINF:-1, Rögle-MalmöRedhawks
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678df1cea4b67c7e7265d84f/index.m3u8
 #EXTINF:-1, Tiikerit-Jää-Tiikerit
