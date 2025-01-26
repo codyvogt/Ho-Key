@@ -1,17 +1,15 @@
 #EXTM3U
 #EXTINF:-1, HCSochi-Severstal
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, SödertäljeSK-LuleåHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dec887335c942ac5d5bd3/index.m3u8
-#EXTINF:-1, FärjestadBK-BrynäsIF
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678dee4b7335c942ac5d5bfc/index.m3u8
-#EXTINF:-1, MoraIK-FrölundaHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ded69a4b67c7e7265d7b7/index.m3u8
-#EXTINF:-1, ÖrebroHK-VäxjöLakers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dec887335c942ac5d5bd2/index.m3u8
-#EXTINF:-1, VästeråsIK-IFMalmö
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678dee4b7335c942ac5d5bfd/index.m3u8
-#EXTINF:-1, TimråIK-IFBjörklöven
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dee4b7335c942ac5d5bfa/index.m3u8
-#EXTINF:-1, KölnerJung.-Ingolstadt
-fluidtv.php?channel=https://pool-4.cdn.sporttotal.tv/out/v1/a6be7d0c950d45d3b32de77b1edac016/index.m3u8
+#EXTINF:-1, Jokipojat-LempäälänKisa
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74671/index.m3u8
+#EXTINF:-1, KeuPaHT/Diskos-SaPKo
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74678/index.m3u8
+#EXTINF:-1, Viikingit-Seinäjoen-Kiekko
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74679/index.m3u8
+#EXTINF:-1, Kiekko-Vantaa-Hermes
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74675/index.m3u8
+#EXTINF:-1, JYPAkatemia-FoPS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67834c90cd09a86d42e74676/index.m3u8
+#EXTINF:-1, TechnikaBrno-IHCPísek
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/675beaada83d4f176bc9da3e/index.m3u8
