@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DuklaJihlava-Pardubice
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678288a54ecaa0453af409dc/index.m3u8
-#EXTINF:-1, BKMladáBoleslav-Slavia
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677fbb78cd09a86d42e73f91/index.m3u8
 #EXTINF:-1, SödertäljeSK-HaningeHC
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678f3e08ac7d0f65f0979a3e/index.m3u8
 #EXTINF:-1, Haninge-SaltsjöbadensIF
@@ -14,7 +10,7 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 #EXTINF:-1, EnköpingsSKHK-Brinken
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678f353dac7d0f65f0979a1e/index.m3u8
 #EXTINF:-1, GötaTraneberg-Värmdö
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678f3c45a639c257a5d364c1/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678f3c45a639c257a5d364c1/index.m3u8
 #EXTINF:-1, Tyresö-HuddingeIK
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678f40aaac7d0f65f0979a42/index.m3u8
 #EXTINF:-1, Flemingsberg-Nyköping
