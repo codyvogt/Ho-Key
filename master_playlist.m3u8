@@ -1,15 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Marseille-Rouen
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6774c14e840b7877dbe047fb.m3u8
-#EXTINF:-1, Bordeaux-Amiens
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6774c14e840b7877dbe047ff.m3u8
-#EXTINF:-1, Cergy-Pontoise-Angers
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge0/vods/blobs0/6774c14e840b7877dbe047fd.m3u8
-#EXTINF:-1, Anglet-Grenoble
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6774c14e840b7877dbe04805.m3u8
-#EXTINF:-1, RittnerBuam-SGCortina
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679350155fe3d9289f89dc7a/index.m3u8
-#EXTINF:-1, DrakkarsdeCaen-HCMP
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6787364d622f80735a0233c4/index.m3u8
-#EXTINF:-1, Villard-de-Lans-Meudon
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6787364d622f80735a0233c6/index.m3u8
