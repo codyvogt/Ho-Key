@@ -3,12 +3,6 @@
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, SCBern-EHCBiel-Bienne
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, AalborgPirates-Odense
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/672332151dc6516e0899fde1/index.m3u8
-#EXTINF:-1, EsbjergEnergy-Rungsted
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/672332151dc6516e0899fde3/index.m3u8
-#EXTINF:-1, DjurgårdensIF-AIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679086be5fe3d9289f89d7aa/index.m3u8
 #EXTINF:-1, BoråsHC-Helsingborg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6790930b164bd66491979d21/index.m3u8
 #EXTINF:-1, BorlängeHF-Strömsbro
