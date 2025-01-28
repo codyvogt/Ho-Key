@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HCAmbri-Piotta-Lugano
-fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, LundGiantsHC-Lejonet
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679090685fe3d9289f89d7ee/index.m3u8
-#EXTINF:-1, Briançon-RapacesdeGap
-fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge2/vods/blobs2/6774c14e840b7877dbe04801.m3u8
 #EXTINF:-1, Marseille-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge2.dna.ip-only.net/70014-liveedge1/vods/blobs1/6774c14e840b7877dbe047fb.m3u8
 #EXTINF:-1, Bordeaux-Amiens
