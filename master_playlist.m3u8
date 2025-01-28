@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, MedicineHat-Wenatchee
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/cc76bf03d8de41698002a24729055eb8.m3u8
+#EXTINF:-1, SCBroncos-PrinceGeorge
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/ce297d14aea6458d89303a92315d0cd9.m3u8
