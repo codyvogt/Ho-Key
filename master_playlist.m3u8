@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Hille/Åbyggeby-Skutskär
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791d75c5fe3d9289f89d990/index.m3u8
 #EXTINF:-1, Cholet-Neuilly-sur-Marne
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678887cd622f80735a0235ef/index.m3u8
 #EXTINF:-1, Tours-Morzine-Avoriaz
