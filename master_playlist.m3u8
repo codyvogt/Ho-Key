@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1, Acadie-Bathurst-Québec
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/254d97bef6d241caa5aafc30ae254507.m3u8
+#EXTINF:-1, SaintJohn-Blainville-B.
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/44d84345921a44d78bc67cb3689cdaed.m3u8
+#EXTINF:-1, Erie-OwenSoundAttack
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/6a8af7f5e17e4bfca4941812d96bae26.m3u8
+#EXTINF:-1, Kitchener-SaultSte.Marie
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/b28b9ff267464aaeb9915bf7644848e5.m3u8
+#EXTINF:-1, RedDeerRebels-Brandon
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/e4bd43b1f99247909511883a7d96592d.m3u8
+#EXTINF:-1, Regina-PrinceAlbert
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/f2a2e87f97774ccaafeabd91f65b2e2e.m3u8
+#EXTINF:-1, Edmonton-Calgary
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/55f9303f66944c9a8bb0afe5f25abe62.m3u8
+#EXTINF:-1, Tri-City-KamloopsBlazers
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/c308888f68a7427a92bd7115f819e656.m3u8
+#EXTINF:-1, Victoria-KelownaRockets
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a39d2610379f429abd9d95982fdb0ecf.m3u8
