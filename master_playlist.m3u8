@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Cholet-Neuilly-sur-Marne
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678887cd622f80735a0235ef/index.m3u8
-#EXTINF:-1, Tours-Morzine-Avoriaz
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678887cd622f80735a0235f3/index.m3u8
-#EXTINF:-1, Nantes-Strasbourg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678887cd95b6797c4f0c0b2b/index.m3u8
-#EXTINF:-1, GrIFKJoukkue-KoPo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787410e622f80735a023402/index.m3u8
 #EXTINF:-1, KlaGe-Kiekko-Tiikerit
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6787410e622f80735a02340d/index.m3u8
 #EXTINF:-1, BokasportSK-DuellsPHK
