@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, FPS-NokianPyry
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6787410e622f80735a0233e2/index.m3u8
-#EXTINF:-1, KJTHaukat-K-Vantaa
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787410f95b6797c4f0c0965/index.m3u8
 #EXTINF:-1, HCPanter-HKVipers
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787eabe622f80735a02355d/index.m3u8
