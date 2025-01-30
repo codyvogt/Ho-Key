@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Pergine-Bressanone
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773fae1840b7877dbe0478f/index.m3u8
-#EXTINF:-1, Valpellice-Valdifiemme
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773fae2840b7877dbe04791/index.m3u8
-#EXTINF:-1, FassaFalcons-Dolomites
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773fae25969d50f8878968b/index.m3u8
-#EXTINF:-1, Tavastia-EVUTeam2
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6788929195b6797c4f0c0b6e/index.m3u8
