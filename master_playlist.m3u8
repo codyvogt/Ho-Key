@@ -1,30 +1,6 @@
 #EXTM3U
-#EXTINF:-1, FrölundaHC-RögleBK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679338af5fe3d9289f89dc26/index.m3u8
-#EXTINF:-1, TegsSKHockey-RosvikIK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67932e225fe3d9289f89dbe4/index.m3u8
-#EXTINF:-1, IFKArvidsjaur-IFBoden
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67989dbc0feed3150c05bfa3/index.m3u8
-#EXTINF:-1, LN70HC-TörebodaHF
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67931e50164bd6649197a086/index.m3u8
-#EXTINF:-1, TibroIK-TAIFLöfstad
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67931f31164bd6649197a0e5/index.m3u8
-#EXTINF:-1, Skillingaryd-Trelleborg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67932012164bd6649197a0ea/index.m3u8
-#EXTINF:-1, RonnebyIK-SörhagaHK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679332875fe3d9289f89dc0e/index.m3u8
-#EXTINF:-1, IKGuts-MightyRavens
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67932fe45fe3d9289f89dc02/index.m3u8
-#EXTINF:-1, IFLejonet-PartilleHK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67932396164bd6649197a0f4/index.m3u8
-#EXTINF:-1, Karlskoga2-KilsAIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6793344a5fe3d9289f89dc1a/index.m3u8
 #EXTINF:-1, Väsby-GötaTraneberg
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67932a9e5fe3d9289f89dbae/index.m3u8
-#EXTINF:-1, LaserHTOulu-TIHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788929195b6797c4f0c0b56/index.m3u8
-#EXTINF:-1, AIK-HaningeAnchors
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674d6477fb9e1d37d5009640/index.m3u8
 #EXTINF:-1, Amiens-Rouen
 fluidtv.php?channel=https://cdn0-70014-liveedge1.dna.ip-only.net/70014-liveedge1/vods/blobs1/679a34dd8cb2e447d39777ea.m3u8
 #EXTINF:-1, TrångsundsIF-IFKSalem
