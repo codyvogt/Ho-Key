@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Väsby-GötaTraneberg
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67932a9e5fe3d9289f89dbae/index.m3u8
-#EXTINF:-1, Amiens-Rouen
-fluidtv.php?channel=https://cdn0-70014-liveedge1.dna.ip-only.net/70014-liveedge1/vods/blobs1/679a34dd8cb2e447d39777ea.m3u8
-#EXTINF:-1, TrångsundsIF-IFKSalem
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67932477164bd6649197a0fa/index.m3u8
-#EXTINF:-1, Hässelby-HuddingeTigers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679327fb164bd6649197a10a/index.m3u8
-#EXTINF:-1, PiTa-HCKSalamat
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6788929195b6797c4f0c0b72/index.m3u8
 #EXTINF:-1, Pergine-Bressanone
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773fae1840b7877dbe0478f/index.m3u8
 #EXTINF:-1, Valpellice-Valdifiemme
