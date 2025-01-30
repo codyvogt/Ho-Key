@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Acadie-Bathurst-Québec
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/254d97bef6d241caa5aafc30ae254507.m3u8
-#EXTINF:-1, SaintJohn-Blainville-B.
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/44d84345921a44d78bc67cb3689cdaed.m3u8
-#EXTINF:-1, Erie-OwenSoundAttack
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/6a8af7f5e17e4bfca4941812d96bae26.m3u8
 #EXTINF:-1, Kitchener-SaultSte.Marie
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/b28b9ff267464aaeb9915bf7644848e5.m3u8
 #EXTINF:-1, RedDeerRebels-Brandon
