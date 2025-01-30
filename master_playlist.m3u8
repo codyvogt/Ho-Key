@@ -1,1 +1,17 @@
 #EXTM3U
+#EXTINF:-1, Moncton-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/2e090980f9c64f25a710d8e501840647.m3u8
+#EXTINF:-1, Victoriaville-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/a87952b855f04f02a5247227c45a9dc0.m3u8
+#EXTINF:-1, Chtown-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/1e256369259e49b4966691f011b03874.m3u8
+#EXTINF:-1, Ottawa-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/a6546cb020e14650a39d4ed44f8edbd3.m3u8
+#EXTINF:-1, Brantford-NorthBay
+https://media-service.fanreachdata.io/edge/ohl/a829abc0c25f4ed8baa300ab24f74cff.m3u8
+#EXTINF:-1, Brampton-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/e53fd5678ff94c43a1f6b00951bc65fb.m3u8
+#EXTINF:-1, Flint-WindsorSpitfires
+https://media-service.fanreachdata.io/edge/ohl/a0faa532515048b0bd1b3a480320ba68.m3u8
+#EXTINF:-1, Kingston-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/f35d11fd01874bcead638408015be9e5.m3u8
