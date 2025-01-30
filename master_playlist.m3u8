@@ -3,3 +3,5 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Olomouc-BeraniZlínB
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/675fed46a83d4f176bc9df90/index.m3u8
+#EXTINF:-1, LahdenPelicans-KooKoo
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67889291622f80735a023613/index.m3u8
