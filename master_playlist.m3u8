@@ -3,17 +3,13 @@
 fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1, SCLTigers-SCBern
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, JunkkaritHT-SaPKo
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6789e40f622f80735a0237b5/index.m3u8
-#EXTINF:-1, MunsalaIK-Raahe-Kiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6789e40f95b6797c4f0c0da6/index.m3u8
-#EXTINF:-1, HelsinginJokerit-SaiPa
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6789e40f622f80735a0237de/index.m3u8
-#EXTINF:-1, KalevanPallo-JYP
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6789e40f95b6797c4f0c0dc8/index.m3u8
-#EXTINF:-1, Tappara-Kiekko-Espoo
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6789e40f622f80735a0237e7/index.m3u8
-#EXTINF:-1, SlaviaPraha-HCVítkovice
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677cee45840b7877dbe05a85/index.m3u8
-#EXTINF:-1, TimråIK-SkellefteåAIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679485ca164bd6649197a4d5/index.m3u8
+#EXTINF:-1, FoPS-Karhu-Kissat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6789e40f95b6797c4f0c0ded/index.m3u8
+#EXTINF:-1, MIFTeam-KraftAcademy
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788929195b6797c4f0c0b64/index.m3u8
+#EXTINF:-1, ValKi-PanthersLahti
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6789e40f622f80735a0237c7/index.m3u8
+#EXTINF:-1, HighsticksAc-Warrantti
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67761d8f840b7877dbe048f2/index.m3u8
+#EXTINF:-1, HuntersTeam-K-Kissat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6789e40f95b6797c4f0c0dd5/index.m3u8
