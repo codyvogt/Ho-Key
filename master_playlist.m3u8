@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, OulunKärpät-Ilves
 https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1, KrálovéPísek-Šumperk
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66f2aaee58dae92cef9ea25a/index.m3u8
