@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Feltre-EppanAppiano
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679a300788a15b56457c7fc7/index.m3u8
-#EXTINF:-1, Heerenveen-HYC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b7ba6a4b67c7e7265d0b1/index.m3u8
-#EXTINF:-1, Mechelen-Diez-Limburg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b7ba6a4b67c7e7265d0b3/index.m3u8
 #EXTINF:-1, KTHIF-JärnaSK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679475f8164bd6649197a45b/index.m3u8
+#EXTINF:-1, Mechelen-Diez-Limburg
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b7ba6a4b67c7e7265d0b3/index.m3u8
 #EXTINF:-1, AostaII-ValpelliceII
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6745a5e674345b0eaa49a015/index.m3u8
 #EXTINF:-1, Lindenwood-Syracuse
