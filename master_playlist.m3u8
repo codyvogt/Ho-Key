@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Mechelen-Diez-Limburg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b7ba6a4b67c7e7265d0b3/index.m3u8
-#EXTINF:-1, AostaII-ValpelliceII
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6745a5e674345b0eaa49a015/index.m3u8
 #EXTINF:-1, Lindenwood-Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b37d9bb3-a5b6-4f1e-b12e-e71abedf6c38-hls/master/b37d9bb3-a5b6-4f1e-b12e-e71abedf6c38-hls.m3u8
 #EXTINF:-1, UNH-HolyCross
@@ -37,6 +35,18 @@ https://media-service.fanreachdata.io/edge/lhjmq/08205f4f16114247a5aa4b008adcade
 https://media-service.fanreachdata.io/edge/lhjmq/1c084af8b04b4db5ae25dd6bc59b3357.m3u8
 #EXTINF:-1, Drummond.-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/674435dc2f38431294739f009d06f507.m3u8
+#EXTINF:-1, Peterborough-Brampton
+https://media-service.fanreachdata.io/edge/ohl/a6c39ce2ba5e4326ba61cb05345edf47.m3u8
+#EXTINF:-1, KitchenerRangers-Flint
+https://media-service.fanreachdata.io/edge/ohl/422355b14e734e5b87a6a5d0b8b8094f.m3u8
+#EXTINF:-1, Erie-LondonKnights
+https://media-service.fanreachdata.io/edge/ohl/7b57dd50a76f4a6ca90e9e1495666d1c.m3u8
+#EXTINF:-1, NorthBay-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/d5e929261ee04e0892b1092e8ba3eacf.m3u8
+#EXTINF:-1, Brantford-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/56a031316e844261ba71b0f9bafd8016.m3u8
+#EXTINF:-1, Sarnia-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/41fa3a36f6ca4ff6ae3d2ffa2f62f587.m3u8
 #EXTINF:-1, Colgate-Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Dartmouth
