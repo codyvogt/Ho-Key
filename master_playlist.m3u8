@@ -2,7 +2,7 @@
 #EXTINF:-1, OulunKärpät-Ilves
 fluidtv.php?channel=https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1, SCLTigers-SCBern
-https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
 #EXTINF:-1, TampereenIlves-TPS
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6789e40f622f80735a0237e3/index.m3u8
 #EXTINF:-1, VaasanSport-RoKi
