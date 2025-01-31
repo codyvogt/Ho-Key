@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Feltre-EppanAppiano
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679a300788a15b56457c7fc7/index.m3u8
-#EXTINF:-1, KTHIF-JärnaSK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679475f8164bd6649197a45b/index.m3u8
 #EXTINF:-1, Mechelen-Diez-Limburg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b7ba6a4b67c7e7265d0b3/index.m3u8
 #EXTINF:-1, AostaII-ValpelliceII
@@ -29,6 +25,18 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Merrimack-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Halifax-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/529f570a30d4457a9e4e5863da5852d4.m3u8
+#EXTINF:-1, ABTitan-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/372c6b31230e447f8d1176aba9149f93.m3u8
+#EXTINF:-1, Sherbrooke-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/8fccb043a40146ffbb3990cf8ec91438.m3u8
+#EXTINF:-1, SaintJohn-RNHuskies
+https://media-service.fanreachdata.io/edge/lhjmq/08205f4f16114247a5aa4b008adcade8.m3u8
+#EXTINF:-1, Charlottetown-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/1c084af8b04b4db5ae25dd6bc59b3357.m3u8
+#EXTINF:-1, Drummond.-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/674435dc2f38431294739f009d06f507.m3u8
 #EXTINF:-1, Colgate-Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Dartmouth
