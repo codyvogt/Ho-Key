@@ -1,44 +1,6 @@
 #EXTM3U
 #EXTINF:-1, DynamoMoscow-SKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, TörebodaHF-Skövde
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d4a6164bd6649197a8d6/index.m3u8
-#EXTINF:-1, GislavedsSK-Vimmerby
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795cbdc164bd6649197a7f8/index.m3u8
-#EXTINF:-1, KalmarHC-NässjöHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c9395fe3d9289f89e268/index.m3u8
-#EXTINF:-1, ForshagaIF-Karlskoga2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795cd9e5fe3d9289f89e2c1/index.m3u8
-#EXTINF:-1, Limhamn-NybroVikings
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795dacd5fe3d9289f89e511/index.m3u8
-#EXTINF:-1, Kvarnsveden-Lindlöven
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795ccbd5fe3d9289f89e2ac/index.m3u8
-#EXTINF:-1, HCDalen-AlvestaSK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d82a5fe3d9289f89e441/index.m3u8
-#EXTINF:-1, IKGuts-HCVitaHästen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d2e45fe3d9289f89e3d6/index.m3u8
-#EXTINF:-1, KristianstadsIK-Tyringe
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795d3c5164bd6649197a8cb/index.m3u8
-#EXTINF:-1, HärrydaHC-MörrumsIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795dbae164bd6649197a94e/index.m3u8
-#EXTINF:-1, Sörhaga-HisingensIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c4d45fe3d9289f89e228/index.m3u8
-#EXTINF:-1, GävleGIK-Häradsbygden
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795cbdc5fe3d9289f89e296/index.m3u8
-#EXTINF:-1, ArvikaHC-SunneIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d669164bd6649197a8fa/index.m3u8
-#EXTINF:-1, VärmdöHC-HammarbyIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d90b5fe3d9289f89e462/index.m3u8
-#EXTINF:-1, SkutskärsSK-AvestaBK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795dc8f5fe3d9289f89e532/index.m3u8
-#EXTINF:-1, HaningeAnchors-Spånga
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795cf605fe3d9289f89e2d8/index.m3u8
-#EXTINF:-1, GötaTranebergIK-Järna
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d3c55fe3d9289f89e3ec/index.m3u8
-#EXTINF:-1, Segeltorp-Saltsjöbaden
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d0415fe3d9289f89e2f0/index.m3u8
-#EXTINF:-1, KålleredSK-Ulricehamn
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d4a6164bd6649197a8d5/index.m3u8
 #EXTINF:-1, VästeråsPickelsHC-Nora
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795d6695fe3d9289f89e40e/index.m3u8
 #EXTINF:-1, PajalaHC-ÄlvsbyIFHK
@@ -87,10 +49,40 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c696164bd6649197a7cd/index.m3u8
 #EXTINF:-1, Boo-HässelbyKälvesta
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795ccbd5fe3d9289f89e2a3/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-Ilves
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b3590d6975d5c558a12a4/index.m3u8
-#EXTINF:-1, IFK,Helsingfors-HPK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67975d6d0feed3150c05be44/index.m3u8
+#EXTINF:-1, KalmarHC-NässjöHC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c9395fe3d9289f89e268/index.m3u8
+#EXTINF:-1, ForshagaIF-Karlskoga2
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795cd9e5fe3d9289f89e2c1/index.m3u8
+#EXTINF:-1, Limhamn-NybroVikings
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795dacd5fe3d9289f89e511/index.m3u8
+#EXTINF:-1, Kvarnsveden-Lindlöven
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795ccbd5fe3d9289f89e2ac/index.m3u8
+#EXTINF:-1, HCDalen-AlvestaSK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d82a5fe3d9289f89e441/index.m3u8
+#EXTINF:-1, IKGuts-HCVitaHästen
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d2e45fe3d9289f89e3d6/index.m3u8
+#EXTINF:-1, KristianstadsIK-Tyringe
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795d3c5164bd6649197a8cb/index.m3u8
+#EXTINF:-1, HärrydaHC-MörrumsIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795dbae164bd6649197a94e/index.m3u8
+#EXTINF:-1, Sörhaga-HisingensIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c4d45fe3d9289f89e228/index.m3u8
+#EXTINF:-1, GävleGIK-Häradsbygden
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795cbdc5fe3d9289f89e296/index.m3u8
+#EXTINF:-1, ArvikaHC-SunneIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d669164bd6649197a8fa/index.m3u8
+#EXTINF:-1, VärmdöHC-HammarbyIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d90b5fe3d9289f89e462/index.m3u8
+#EXTINF:-1, SkutskärsSK-AvestaBK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795dc8f5fe3d9289f89e532/index.m3u8
+#EXTINF:-1, HaningeAnchors-Spånga
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795cf605fe3d9289f89e2d8/index.m3u8
+#EXTINF:-1, GötaTranebergIK-Järna
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d3c55fe3d9289f89e3ec/index.m3u8
+#EXTINF:-1, Segeltorp-Saltsjöbaden
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d0415fe3d9289f89e2f0/index.m3u8
+#EXTINF:-1, KålleredSK-Ulricehamn
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d4a6164bd6649197a8d5/index.m3u8
 #EXTINF:-1, TuToAkatemia-ÄssätAk
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678b358fd6975d5c558a1219/index.m3u8
 #EXTINF:-1, HeinolanPeliitat-HYRI
