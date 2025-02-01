@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Calgary-Edmonton
-https://media-service.fanreachdata.io/edge/whl/5bfaadd070c44c34bad4e8aed1f89d5b.m3u8
+#EXTINF:-1, Nebraska-Omaha-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls/master/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls.m3u8
 #EXTINF:-1, SwiftCurrent-Kamloops
 https://media-service.fanreachdata.io/edge/whl/305083ac328e49ea9ad14b57a1bf3b89.m3u8
 #EXTINF:-1, MedicineHat-Portland
@@ -13,5 +13,3 @@ https://media-service.fanreachdata.io/edge/whl/b59b78c8307b401f834ee7a842fc1f54.
 https://media-service.fanreachdata.io/edge/whl/674934907e5e4ee599764d33964c4f3a.m3u8
 #EXTINF:-1, Victoria-SpokaneChiefs
 https://media-service.fanreachdata.io/edge/whl/4e607eb24bbe483ebabee2d228c65f28.m3u8
-#EXTINF:-1, Nebraska-Omaha-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls/master/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls.m3u8
