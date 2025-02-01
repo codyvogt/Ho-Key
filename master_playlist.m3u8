@@ -1,17 +1,21 @@
 #EXTM3U
 #EXTINF:-1, DynamoMoscow-SKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, TampereenIlves-Kärpät
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf4e/index.m3u8
-#EXTINF:-1, Lukko-LahdenPelicans
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678b358fa4b67c7e7265cf5c/index.m3u8
-#EXTINF:-1, IFK,Helsingfors-HPK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf45/index.m3u8
-#EXTINF:-1, JYP-RovaniemenKiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf36/index.m3u8
-#EXTINF:-1, TapparaTampere-Ässät
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf40/index.m3u8
-#EXTINF:-1, MikkelinJukurit-Jokerit
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf51/index.m3u8
-#EXTINF:-1, Jihlava-HCKometaBrno
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678a71a5a4b67c7e7265ce45/index.m3u8
+#EXTINF:-1, IFBjörklöven-ÖrebroHK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d1225fe3d9289f89e338/index.m3u8
+#EXTINF:-1, FärjestadBK-MoraIK
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795d74a5fe3d9289f89e43a/index.m3u8
+#EXTINF:-1, AlmtunaIS-VäxjöLakers
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d4a7164bd6649197a8e3/index.m3u8
+#EXTINF:-1, LinköpingHC-BrynäsIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795dbae5fe3d9289f89e530/index.m3u8
+#EXTINF:-1, DjurgårdensIF-Leksand
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795ccbe5fe3d9289f89e2b9/index.m3u8
+#EXTINF:-1, SödertäljeSK-IFMalmö
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d5885fe3d9289f89e406/index.m3u8
+#EXTINF:-1, HV71-AIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d90c5fe3d9289f89e4bc/index.m3u8
+#EXTINF:-1, HCLitvínov-SpartaPraha
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6762ac648edf8a54162c6ff0/index.m3u8
+#EXTINF:-1, MladáBoleslav-Vítkovice
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677fbb78cd09a86d42e73f90/index.m3u8
