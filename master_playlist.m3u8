@@ -79,6 +79,8 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/44519035-ea1a-4803-96bd-551bbef6318d-hls/master/44519035-ea1a-4803-96bd-551bbef6318d-hls.m3u8
 #EXTINF:-1, Nebraska-Omaha-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls/master/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls.m3u8
+#EXTINF:-1, Youngstown-USNTDPU17
+https://d2hhtgs6mgbyqt.cloudfront.net/c3c327986227c1d84f37c8ceab3b186f/0_hd_hls.m3u8
 #EXTINF:-1, Brandon-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/25e4670a290c4bb78d284eae77e88c6a.m3u8
 #EXTINF:-1, RedDeer-ReginaPats
