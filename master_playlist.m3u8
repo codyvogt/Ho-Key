@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SwiftCurrent-Kamloops
-https://media-service.fanreachdata.io/edge/whl/305083ac328e49ea9ad14b57a1bf3b89.m3u8
-#EXTINF:-1, MedicineHat-Portland
-https://media-service.fanreachdata.io/edge/whl/14655959b9644a9db7cb0883153b5682.m3u8
-#EXTINF:-1, Tri-City-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/82f985808ac2424db90a7f7d17fca50f.m3u8
-#EXTINF:-1, Everett-KelownaRockets
-https://media-service.fanreachdata.io/edge/whl/b59b78c8307b401f834ee7a842fc1f54.m3u8
-#EXTINF:-1, VancouverGiants-Seattle
-https://media-service.fanreachdata.io/edge/whl/674934907e5e4ee599764d33964c4f3a.m3u8
-#EXTINF:-1, Victoria-SpokaneChiefs
-https://media-service.fanreachdata.io/edge/whl/4e607eb24bbe483ebabee2d228c65f28.m3u8
 #EXTINF:-1, KooKoo-Kiekko-Espoo
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf42/index.m3u8
 #EXTINF:-1, TampereenIlves-Kärpät
