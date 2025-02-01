@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KooKoo-Kiekko-Espoo
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678b358fa4b67c7e7265cf42/index.m3u8
-#EXTINF:-1, TampereenIlves-Kärpät
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf4e/index.m3u8
-#EXTINF:-1, Lukko-LahdenPelicans
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678b358fa4b67c7e7265cf5c/index.m3u8
-#EXTINF:-1, IFK,Helsingfors-HPK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf45/index.m3u8
-#EXTINF:-1, JYP-RovaniemenKiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf36/index.m3u8
-#EXTINF:-1, TapparaTampere-Ässät
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf40/index.m3u8
-#EXTINF:-1, MikkelinJukurit-Jokerit
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fa4b67c7e7265cf51/index.m3u8
 #EXTINF:-1, NyköpingsSK-Linden
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795d74a5fe3d9289f89e436/index.m3u8
 #EXTINF:-1, IKOskarshamn-Bäcken
