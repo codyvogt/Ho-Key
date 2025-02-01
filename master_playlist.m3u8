@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Évry-Viry2-Garges
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4ea4b67c7e7265d18a/index.m3u8
-#EXTINF:-1, Dijon2-Besançon
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4da4b67c7e7265d16a/index.m3u8
-#EXTINF:-1, Cholet2-Brest2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c7c4ea4b67c7e7265d16e/index.m3u8
-#EXTINF:-1, Caen2-Asnières
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678b2accd6975d5c558a1174/index.m3u8
-#EXTINF:-1, Chambéry2-Mulhouse
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c7c4dd6975d5c558a1524/index.m3u8
 #EXTINF:-1, Paris-Luxembourg
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4dd6975d5c558a1508/index.m3u8
-#EXTINF:-1, Vaujany-Montpellier
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c7c4da4b67c7e7265d15a/index.m3u8
 #EXTINF:-1, Reims-Évry-Viry
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4dd6975d5c558a1506/index.m3u8
 #EXTINF:-1, Lyon-Clermont-Ferrand
@@ -21,8 +9,14 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c7c4dd6975d5c558a1510/index.m3u8
 #EXTINF:-1, LynxdeValence-Roanne
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c7c4da4b67c7e7265d15e/index.m3u8
-#EXTINF:-1, Strasbourg-Mont-Blanc
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c7c4ed6975d5c558a1536/index.m3u8
+#EXTINF:-1, Dijon2-Besançon
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4da4b67c7e7265d16a/index.m3u8
+#EXTINF:-1, Cholet2-Brest2
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c7c4ea4b67c7e7265d16e/index.m3u8
+#EXTINF:-1, Caen2-Asnières
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678b2accd6975d5c558a1174/index.m3u8
+#EXTINF:-1, Chambéry2-Mulhouse
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c7c4dd6975d5c558a1524/index.m3u8
 #EXTINF:-1, Dunkerque-Valenciennes
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4ea4b67c7e7265d176/index.m3u8
 #EXTINF:-1, AlbatrosdeBrest-Nantes
@@ -31,10 +25,46 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c7c4ed6975d5c558a1530/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz-Caen
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4ea4b67c7e7265d172/index.m3u8
-#EXTINF:-1, Lindenwood-Syracuse
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1de8a184-cba8-469a-93b6-0729895f2032-hls/master/1de8a184-cba8-469a-93b6-0729895f2032-hls.m3u8
-#EXTINF:-1, Maine-HolyCross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, SVKaltern-HCAosta
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773fae4840b7877dbe04793/index.m3u8
+#EXTINF:-1, ZinnenDolomites-Pergine
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773fae5840b7877dbe04795/index.m3u8
+#EXTINF:-1, Alleghe-HCMVVarese
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773fae55969d50f8878968f/index.m3u8
+#EXTINF:-1, ValdifiemmeHC-Como
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773fae7840b7877dbe04799/index.m3u8
+#EXTINF:-1, EVUTeam2-IceTeam
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b3590d6975d5c558a12b4/index.m3u8
+#EXTINF:-1, EVUTeam-HIFKII
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6789e40f95b6797c4f0c0db4/index.m3u8
+#EXTINF:-1, Providence-Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
+#EXTINF:-1, Brown-Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Merrimack-UMassLowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, BGSU-NorthernMichigan
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Cornell-Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Princeton-Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Yale-Rensselaer
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Colgate-St.Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, LakeSuperior-Augustana
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
+#EXTINF:-1, FerrisState-BemidjiState
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, MinnState-St.Thomas
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, HijsHokij-Mechelen
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678ccd26d6975d5c558a18d8/index.m3u8
+#EXTINF:-1, LeuvenChiefs-Liège
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678ccd27a4b67c7e7265d533/index.m3u8
+#EXTINF:-1, VinschgauEisfix-Piné
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6745a5ec9251076945206ef0/index.m3u8
 #EXTINF:-1, Rensselaer-Brown
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, St.Lawrence-Colgate
@@ -55,9 +85,3 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Northeastern-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Montpellier-Toulouse
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4ed6975d5c558a1538/index.m3u8
-#EXTINF:-1, HannuKuruHockey-YKI
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6789e40f622f80735a0237ce/index.m3u8
-#EXTINF:-1, JälkiHiki-HPKIcedogs
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fd6975d5c558a1244/index.m3u8
