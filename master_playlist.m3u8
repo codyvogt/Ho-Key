@@ -1,64 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Halifax-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/529f570a30d4457a9e4e5863da5852d4.m3u8
-#EXTINF:-1, ABTitan-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/372c6b31230e447f8d1176aba9149f93.m3u8
-#EXTINF:-1, Sherbrooke-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/8fccb043a40146ffbb3990cf8ec91438.m3u8
-#EXTINF:-1, SaintJohn-RNHuskies
-https://media-service.fanreachdata.io/edge/lhjmq/08205f4f16114247a5aa4b008adcade8.m3u8
-#EXTINF:-1, Charlottetown-Val-d'Or
-https://media-service.fanreachdata.io/edge/lhjmq/1c084af8b04b4db5ae25dd6bc59b3357.m3u8
-#EXTINF:-1, Drummond.-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/674435dc2f38431294739f009d06f507.m3u8
-#EXTINF:-1, Peterborough-Brampton
-https://media-service.fanreachdata.io/edge/ohl/a6c39ce2ba5e4326ba61cb05345edf47.m3u8
-#EXTINF:-1, KitchenerRangers-Flint
-https://media-service.fanreachdata.io/edge/ohl/422355b14e734e5b87a6a5d0b8b8094f.m3u8
-#EXTINF:-1, Erie-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/7b57dd50a76f4a6ca90e9e1495666d1c.m3u8
-#EXTINF:-1, NorthBay-Sudbury
-https://media-service.fanreachdata.io/edge/ohl/d5e929261ee04e0892b1092e8ba3eacf.m3u8
-#EXTINF:-1, Brantford-SaultSte.Marie
-https://media-service.fanreachdata.io/edge/ohl/56a031316e844261ba71b0f9bafd8016.m3u8
-#EXTINF:-1, Sarnia-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/41fa3a36f6ca4ff6ae3d2ffa2f62f587.m3u8
-#EXTINF:-1, Colgate-Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac-Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Princeton-Harvard
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Brown-Rensselaer
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Cornell-St.Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Yale-Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, UMassLowell-BostonC
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, NewHampshire-BostonU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, Northeastern-Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Connecticut-Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Merrimack-Massachusetts
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, ArizonaState-Miami
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2625ef4f-b0c3-4a36-8cf9-1cf7cadbff33-hls/master/2625ef4f-b0c3-4a36-8cf9-1cf7cadbff33-hls.m3u8
-#EXTINF:-1, BGSU-NorthernMichigan
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
-#EXTINF:-1, FerrisState-BemidjiState
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, STU-MinnesotaState
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, UND-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/44519035-ea1a-4803-96bd-551bbef6318d-hls/master/44519035-ea1a-4803-96bd-551bbef6318d-hls.m3u8
-#EXTINF:-1, Nebraska-Omaha-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls/master/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls.m3u8
-#EXTINF:-1, Youngstown-USNTDPU17
-https://d2hhtgs6mgbyqt.cloudfront.net/c3c327986227c1d84f37c8ceab3b186f/0_hd_hls.m3u8
 #EXTINF:-1, Brandon-MooseJaw
 https://media-service.fanreachdata.io/edge/whl/25e4670a290c4bb78d284eae77e88c6a.m3u8
 #EXTINF:-1, RedDeer-ReginaPats
@@ -79,3 +19,11 @@ https://media-service.fanreachdata.io/edge/whl/b59b78c8307b401f834ee7a842fc1f54.
 https://media-service.fanreachdata.io/edge/whl/674934907e5e4ee599764d33964c4f3a.m3u8
 #EXTINF:-1, Victoria-SpokaneChiefs
 https://media-service.fanreachdata.io/edge/whl/4e607eb24bbe483ebabee2d228c65f28.m3u8
+#EXTINF:-1, FerrisState-BemidjiState
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, STU-MinnesotaState
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, UND-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/44519035-ea1a-4803-96bd-551bbef6318d-hls/master/44519035-ea1a-4803-96bd-551bbef6318d-hls.m3u8
+#EXTINF:-1, Nebraska-Omaha-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls/master/a83daf5d-b647-43b3-aed3-fcf125ec291e-hls.m3u8
