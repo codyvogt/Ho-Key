@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Union-Brown
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Clarkson-Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, St.Lawrence-Cornell
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Dartmouth-Princeton
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Harvard-Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Rensselaer-Yale
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, BostonCollege-BostonU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Vermont-Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Merrimack-Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Halifax-Chicoutimi
 https://media-service.fanreachdata.io/edge/lhjmq/529f570a30d4457a9e4e5863da5852d4.m3u8
 #EXTINF:-1, ABTitan-Baie-Comeau
@@ -67,8 +49,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2625ef4f-b0c3-4a36-8cf9-1cf7cadbff33-hls/master/2625ef4f-b0c3-4a36-8cf9-1cf7cadbff33-hls.m3u8
 #EXTINF:-1, BGSU-NorthernMichigan
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/northernmihockey/playlist.m3u8
-#EXTINF:-1, LakeSuperior-Augustana
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
 #EXTINF:-1, FerrisState-BemidjiState
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, STU-MinnesotaState
