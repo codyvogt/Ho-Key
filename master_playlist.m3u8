@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Morzine-Avoriaz-Caen
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c7c4ea4b67c7e7265d172/index.m3u8
-#EXTINF:-1, Alleghe-HCMVVarese
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773fae55969d50f8878968f/index.m3u8
-#EXTINF:-1, Chambéry2-Mulhouse
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c7c4dd6975d5c558a1524/index.m3u8
 #EXTINF:-1, Rensselaer-Brown
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, St.Lawrence-Colgate
