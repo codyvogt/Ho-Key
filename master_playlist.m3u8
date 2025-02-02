@@ -40,7 +40,7 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, LundGiants-ÅstorpsIK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679727e95fe3d9289f89e809/index.m3u8
 #EXTINF:-1, NässjöHC-TibroIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679723845fe3d9289f89e766/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679723845fe3d9289f89e766/index.m3u8
 #EXTINF:-1, Strömstad-Valdemarsvik
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679723845fe3d9289f89e765/index.m3u8
 #EXTINF:-1, TörebodaHF-Rönnäng
@@ -51,8 +51,6 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67971654164bd6649197aacf/index.m3u8
 #EXTINF:-1, TidaholmsHF-LysekilsHK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679725455fe3d9289f89e7c5/index.m3u8
-#EXTINF:-1, MunkedalsBK-Trollhättan
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679719d95fe3d9289f89e6aa/index.m3u8
 #EXTINF:-1, LenhovdaIF-HCWettern
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67971654164bd6649197aad0/index.m3u8
 #EXTINF:-1, MightyRavens-Virserum
@@ -71,6 +69,8 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679724645fe3d9289f89e7b9/index.m3u8
 #EXTINF:-1, PartilleHK-LerumsBK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67972b6c164bd6649197ad10/index.m3u8
+#EXTINF:-1, MunkedalsBK-Trollhättan
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679719d95fe3d9289f89e6aa/index.m3u8
 #EXTINF:-1, KungsbackaHC-Hisingen
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67972d2e5fe3d9289f89e8e1/index.m3u8
 #EXTINF:-1, S-Kiekko-MIFNaiset
@@ -90,7 +90,7 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, VetlandaHC-Helsingborg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67972a8b5fe3d9289f89e86d/index.m3u8
 #EXTINF:-1, JonstorpsIF-VitaHästen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67971fff5fe3d9289f89e6e7/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67971fff5fe3d9289f89e6e7/index.m3u8
 #EXTINF:-1, GrumsIK-ÅmålsSK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67971fff164bd6649197ab78/index.m3u8
 #EXTINF:-1, KilsAIK-IFKMunkfors
