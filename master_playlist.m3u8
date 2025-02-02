@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Lada-Avtomobilist
+fluidtv.php?channel=https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, IFBjörklöven-Västerås
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679722a3164bd6649197abe6/index.m3u8
 #EXTINF:-1, TimråIK-LuleåHF
