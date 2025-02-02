@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Hlinsko-Královén.Labem
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679b6af988a15b56457c8257/index.m3u8
-#EXTINF:-1, Chrudim-OrliLanškroun
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c68168cb2e447d3977aef/index.m3u8
-#EXTINF:-1, GepardiJablonec-Turnov
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66d2ead681867931f3c4ccb6/index.m3u8
-#EXTINF:-1, PorvoonHunters-EVU
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678c870fa4b67c7e7265d211/index.m3u8
 #EXTINF:-1, Rungsted-Herning
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6728b0631dc6516e089a0eef/index.m3u8
 #EXTINF:-1, Grenoble-Anglet
@@ -23,6 +15,10 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dcdcea4b67c7e7265d60b/index.m3u8
 #EXTINF:-1, Bordeaux-Nantes
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/66de764d3453a55a1f560022.m3u8
+#EXTINF:-1, Chrudim-OrliLanškroun
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c68168cb2e447d3977aef/index.m3u8
+#EXTINF:-1, GepardiJablonec-Turnov
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66d2ead681867931f3c4ccb6/index.m3u8
 #EXTINF:-1, TegsSK-SunderbySK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679722a2164bd6649197abce/index.m3u8
 #EXTINF:-1, Vaujany-Grenoble-Lyon
