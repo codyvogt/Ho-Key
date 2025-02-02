@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ABTitan-Chicoutimi
-https://media-service.fanreachdata.io/edge/lhjmq/19e70ce7657f46b2826b3053d506f60c.m3u8
-#EXTINF:-1, Shawinigan-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/6713aedea71340a69c5875edd9c7a870.m3u8
-#EXTINF:-1, CapeBreton-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/d4eb2f181eaf4b9b9ac6ee5bbd6bbf25.m3u8
 #EXTINF:-1, Merrimack-UMassLowell
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, BGSU-NorthernMichigan
@@ -21,16 +15,16 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/918e3cf2-d070-4427-affd-a99ae519d052-hls/master/918e3cf2-d070-4427-affd-a99ae519d052-hls.m3u8
 #EXTINF:-1, ArizonaState-Miami
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3be7f155-5c1f-438c-9468-1358c81adbd0-hls/master/3be7f155-5c1f-438c-9468-1358c81adbd0-hls.m3u8
-#EXTINF:-1, LakeSuperior-Augustana
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
 #EXTINF:-1, FerrisState-BemidjiState
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, MinnState-St.Thomas
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
 #EXTINF:-1, WMU-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e03e2d6b-eaa7-41bf-8db5-adcb0f2ea2f3-hls/master/e03e2d6b-eaa7-41bf-8db5-adcb0f2ea2f3-hls.m3u8
 #EXTINF:-1, Nebraska-Omaha-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b0075a4f-b1cd-48b5-85f0-b7d6dffa7b08-hls/master/b0075a4f-b1cd-48b5-85f0-b7d6dffa7b08-hls.m3u8
+#EXTINF:-1, Shawinigan-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/6713aedea71340a69c5875edd9c7a870.m3u8
+#EXTINF:-1, CapeBreton-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/d4eb2f181eaf4b9b9ac6ee5bbd6bbf25.m3u8
 #EXTINF:-1, Northeastern-Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Kingston-FlintFirebirds
