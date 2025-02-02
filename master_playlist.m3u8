@@ -3,16 +3,6 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Genève-Servette-LHC
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, K-Ketut-LaserHTAk
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15ad/index.m3u8
-#EXTINF:-1, Peli-Toverit-Hurtat
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6789e40f622f80735a0237dd/index.m3u8
-#EXTINF:-1, Warrantti-TUS
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fd6975d5c558a1231/index.m3u8
-#EXTINF:-1, LaserHTHot-Raahe-KII
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15ab/index.m3u8
-#EXTINF:-1, Pingviinit-RuoSkA
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15c1/index.m3u8
 #EXTINF:-1, Slaný-Roudnicen.Labem
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6780d4adcd09a86d42e740e5/index.m3u8
 #EXTINF:-1, BaníkHodonín-Znojmo
