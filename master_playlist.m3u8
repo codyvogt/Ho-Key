@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Björklöven2-Storuman
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67971816164bd6649197aae4/index.m3u8
-#EXTINF:-1, KJK-Kiekko-Ahma
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870ea4b67c7e7265d1d1/index.m3u8
-#EXTINF:-1, EVU-HarjunKiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fa4b67c7e7265d1de/index.m3u8
-#EXTINF:-1, Stenungsund-Falkenberg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679729ab164bd6649197ac8c/index.m3u8
-#EXTINF:-1, TAIFLöfstad-LN70HC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67972c4d5fe3d9289f89e8bf/index.m3u8
-#EXTINF:-1, VarbergHK-HärrydaHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679724645fe3d9289f89e7b9/index.m3u8
-#EXTINF:-1, PartilleHK-LerumsBK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972b6c164bd6649197ad10/index.m3u8
-#EXTINF:-1, MunkedalsBK-Trollhättan
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679719d95fe3d9289f89e6aa/index.m3u8
-#EXTINF:-1, KungsbackaHC-Hisingen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67972d2e5fe3d9289f89e8e1/index.m3u8
-#EXTINF:-1, BKNováPaka-HCTurnov
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/676e89de5969d50f88788b9d/index.m3u8
+#EXTINF:-1, Kaltern/Ritten-Cortina
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774046a5969d50f887896c3/index.m3u8
+#EXTINF:-1, Pergine-AlpsAcademy
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774046d5969d50f887896c7/index.m3u8
+#EXTINF:-1, Asiago-Brixen/Wipptal
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774046d5969d50f887896c9/index.m3u8
+#EXTINF:-1, Trento-EppanAppiano
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740469840b7877dbe047cf/index.m3u8
