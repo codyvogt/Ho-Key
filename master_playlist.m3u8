@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, WMU-ColoradoCollege
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e03e2d6b-eaa7-41bf-8db5-adcb0f2ea2f3-hls/master/e03e2d6b-eaa7-41bf-8db5-adcb0f2ea2f3-hls.m3u8
-#EXTINF:-1, Nebraska-Omaha-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b0075a4f-b1cd-48b5-85f0-b7d6dffa7b08-hls/master/b0075a4f-b1cd-48b5-85f0-b7d6dffa7b08-hls.m3u8
 #EXTINF:-1, Oshawa-Peterborough
 https://media-service.fanreachdata.io/edge/ohl/ae2d9c72267f49ad84d19569f4b05d5a.m3u8
 #EXTINF:-1, Niagara-BarrieColts
@@ -25,3 +21,7 @@ https://media-service.fanreachdata.io/edge/whl/2ac3e085dfa940e7bedf8abf8c0215e2.
 https://media-service.fanreachdata.io/edge/whl/d692ade339974a5ea315522777a97493.m3u8
 #EXTINF:-1, Kamloops-Vancouver
 https://media-service.fanreachdata.io/edge/whl/00a25dc5773f49f7bfd25b6dd7220506.m3u8
+#EXTINF:-1, WMU-ColoradoCollege
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e03e2d6b-eaa7-41bf-8db5-adcb0f2ea2f3-hls/master/e03e2d6b-eaa7-41bf-8db5-adcb0f2ea2f3-hls.m3u8
+#EXTINF:-1, Nebraska-Omaha-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b0075a4f-b1cd-48b5-85f0-b7d6dffa7b08-hls/master/b0075a4f-b1cd-48b5-85f0-b7d6dffa7b08-hls.m3u8
