@@ -3,5 +3,39 @@
 fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, DinamoMinsk-Avangard
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Prizma-HKVentspils
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67974660164bd6649197adc5/index.m3u8
+#EXTINF:-1, Genève-Servette-LHC
+fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1, Dunkerque-Rouen2
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dcdcd7335c942ac5d5a00/index.m3u8
+#EXTINF:-1, Chambéry-Annecy
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dcdcea4b67c7e7265d60b/index.m3u8
+#EXTINF:-1, HV71-BrynäsIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67972d2f5fe3d9289f89e921/index.m3u8
+#EXTINF:-1, TIHC-LaserHTBlack
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15b8/index.m3u8
+#EXTINF:-1, K-KissatAk-Peliitat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15bf/index.m3u8
+#EXTINF:-1, LaserHTRed-Raahe-K
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fa4b67c7e7265d210/index.m3u8
+#EXTINF:-1, PorvoonHunters-EVU
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fa4b67c7e7265d211/index.m3u8
+#EXTINF:-1, TUTO-Kiekko-EspooCh
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fa4b67c7e7265d274/index.m3u8
+#EXTINF:-1, SaPKo-GrankullaIFK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a1611/index.m3u8
+#EXTINF:-1, JYPAkatemia-Ketterä
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fa4b67c7e7265d27b/index.m3u8
+#EXTINF:-1, K-Ketut-LaserHTAk
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15ad/index.m3u8
+#EXTINF:-1, Peli-Toverit-Hurtat
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6789e40f622f80735a0237dd/index.m3u8
+#EXTINF:-1, Warrantti-TUS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678b358fd6975d5c558a1231/index.m3u8
+#EXTINF:-1, LaserHTHot-Raahe-KII
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15ab/index.m3u8
+#EXTINF:-1, Pingviinit-RuoSkA
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fd6975d5c558a15c1/index.m3u8
+#EXTINF:-1, Slaný-Roudnicen.Labem
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6780d4adcd09a86d42e740e5/index.m3u8
+#EXTINF:-1, BaníkHodonín-Znojmo
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678b448fd6975d5c558a13f2/index.m3u8
