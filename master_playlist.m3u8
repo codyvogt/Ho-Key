@@ -13,14 +13,8 @@ https://media-service.fanreachdata.io/edge/ohl/e546ef02f98b4a7e8845e987ce24a262.
 https://media-service.fanreachdata.io/edge/ohl/a9a5fe2b2da84642b712753671c2d033.m3u8
 #EXTINF:-1, London-WindsorSpitfires
 https://media-service.fanreachdata.io/edge/ohl/6540830366bf4363b895fcc4ddb650e1.m3u8
-#EXTINF:-1, EatersLimburg-Leuven
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678e1ea6a639c257a5d36396/index.m3u8
 #EXTINF:-1, Liège-Heerenveen
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678e1ea6a639c257a5d36398/index.m3u8
-#EXTINF:-1, MunkedalsBK-Trollhättan
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679719d95fe3d9289f89e6aa/index.m3u8
-#EXTINF:-1, KungsbackaHC-Hisingen
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972d2e5fe3d9289f89e8e1/index.m3u8
 #EXTINF:-1, Québec-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/9b214e457a1f4123b70f40b7f4902778.m3u8
 #EXTINF:-1, Charlottetown-Gatineau
@@ -29,3 +23,11 @@ https://media-service.fanreachdata.io/edge/lhjmq/2066f317405344c88134eedd03bbb0b
 https://media-service.fanreachdata.io/edge/lhjmq/d2754264204841aa863a226751aef743.m3u8
 #EXTINF:-1, Massachusetts-Maine
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Lethbridge-Calgary
+https://media-service.fanreachdata.io/edge/whl/0844bd1d6d2e4a059625c5b691d7fa1f.m3u8
+#EXTINF:-1, MooseJaw-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/d331347056664c96a2c4a3a5e00b20b3.m3u8
+#EXTINF:-1, Spokane-Vancouver
+https://media-service.fanreachdata.io/edge/whl/421458d56ada4309ac2832949c489703.m3u8
+#EXTINF:-1, Kamloops-Everett
+https://media-service.fanreachdata.io/edge/whl/841b350d498b4b6894119e78e58ca77c.m3u8
