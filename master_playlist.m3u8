@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Wenatchee-PrinceAlbert
-https://media-service.fanreachdata.io/edge/whl/15074e35512f456ebd07b9469d24eaef.m3u8
 #EXTINF:-1, VictoriaRoyals-Portland
 https://media-service.fanreachdata.io/edge/whl/9a91d7b2ae844581aa9a0f53e0a4c155.m3u8
 #EXTINF:-1, Tri-City-PrinceGeorge
@@ -13,3 +11,5 @@ https://media-service.fanreachdata.io/edge/whl/2ac3e085dfa940e7bedf8abf8c0215e2.
 https://media-service.fanreachdata.io/edge/whl/d692ade339974a5ea315522777a97493.m3u8
 #EXTINF:-1, Kamloops-Vancouver
 https://media-service.fanreachdata.io/edge/whl/00a25dc5773f49f7bfd25b6dd7220506.m3u8
+#EXTINF:-1, AdmiralVladivostok-Sibir
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
