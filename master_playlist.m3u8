@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Briançon-Grenoble
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67974e9e164bd6649197addf.m3u8
-#EXTINF:-1, Asiago-Brixen/Wipptal
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774046d5969d50f887896c9/index.m3u8
-#EXTINF:-1, HuddingeTigers-MB
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972a8b5fe3d9289f89e871/index.m3u8
-#EXTINF:-1, Meudon-EpinalHC
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678dcdcda4b67c7e7265d5fb/index.m3u8
-#EXTINF:-1, Caen-Strasbourg
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678dcdcea4b67c7e7265d603/index.m3u8
-#EXTINF:-1, Bordeaux-Nantes
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/66de764d3453a55a1f560022.m3u8
-#EXTINF:-1, K-VantaaItä-K-EspooEKS
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c870fd6975d5c558a15e2/index.m3u8
 #EXTINF:-1, Niagara-NorthBay
 https://media-service.fanreachdata.io/edge/ohl/683944e60c3545ed8ebb5d68af989883.m3u8
 #EXTINF:-1, Brampton-OwenSound
