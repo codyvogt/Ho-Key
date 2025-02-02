@@ -1,3 +1,19 @@
 #EXTM3U
-#EXTINF:-1, PilsenWolves-Domažlice
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66e2bccddfa5dc086b18bbb4/index.m3u8
+#EXTINF:-1, IFBjörklöven-Västerås
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679722a3164bd6649197abe6/index.m3u8
+#EXTINF:-1, TimråIK-LuleåHF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679728ca5fe3d9289f89e843/index.m3u8
+#EXTINF:-1, DjurgårdensIF-MoraIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67971e3e164bd6649197ab50/index.m3u8
+#EXTINF:-1, Södertälje-VäxjöLakers
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679727085fe3d9289f89e7fb/index.m3u8
+#EXTINF:-1, MoDoHockey-ÖrebroHK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679727085fe3d9289f89e802/index.m3u8
+#EXTINF:-1, LinköpingHC-AIK
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972d2f5fe3d9289f89e91f/index.m3u8
+#EXTINF:-1, FärjestadBK-LeksandsIF
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679728ca5fe3d9289f89e844/index.m3u8
+#EXTINF:-1, AlmtunaIS-IFMalmö
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972627164bd6649197ac72/index.m3u8
+#EXTINF:-1, HV71-BrynäsIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67972d2f5fe3d9289f89e921/index.m3u8
