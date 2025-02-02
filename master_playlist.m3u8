@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Niagara-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/683944e60c3545ed8ebb5d68af989883.m3u8
 #EXTINF:-1, Brampton-OwenSound
 https://media-service.fanreachdata.io/edge/ohl/8a9c867331c24ba39df5365f3cbee533.m3u8
 #EXTINF:-1, Brantford-Sudbury
@@ -13,8 +11,6 @@ https://media-service.fanreachdata.io/edge/ohl/e546ef02f98b4a7e8845e987ce24a262.
 https://media-service.fanreachdata.io/edge/ohl/a9a5fe2b2da84642b712753671c2d033.m3u8
 #EXTINF:-1, London-WindsorSpitfires
 https://media-service.fanreachdata.io/edge/ohl/6540830366bf4363b895fcc4ddb650e1.m3u8
-#EXTINF:-1, Liège-Heerenveen
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678e1ea6a639c257a5d36398/index.m3u8
 #EXTINF:-1, Québec-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/9b214e457a1f4123b70f40b7f4902778.m3u8
 #EXTINF:-1, Charlottetown-Gatineau
