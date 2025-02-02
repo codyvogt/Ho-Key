@@ -13,3 +13,9 @@ https://media-service.fanreachdata.io/edge/whl/d692ade339974a5ea315522777a97493.
 https://media-service.fanreachdata.io/edge/whl/00a25dc5773f49f7bfd25b6dd7220506.m3u8
 #EXTINF:-1, AdmiralVladivostok-Sibir
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Kladno-SokolKarviná
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670f578d6b135e19484e24de/index.m3u8
+#EXTINF:-1, TuusKiekko-KelA
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/672d9b11e689ca0066fa2f00/index.m3u8
+#EXTINF:-1, PilsenWolves-Domažlice
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66e2bccddfa5dc086b18bbb4/index.m3u8
