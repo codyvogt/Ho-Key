@@ -1,34 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Chambéry-Annecy
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dcdcea4b67c7e7265d60b/index.m3u8
-#EXTINF:-1, Bordeaux-Nantes
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/66de764d3453a55a1f560022.m3u8
-#EXTINF:-1, Pergine-AlpsAcademy
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774046d5969d50f887896c7/index.m3u8
-#EXTINF:-1, Asiago-Brixen/Wipptal
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774046d5969d50f887896c9/index.m3u8
-#EXTINF:-1, Trento-EppanAppiano
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740469840b7877dbe047cf/index.m3u8
-#EXTINF:-1, GepardiJablonec-Turnov
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66d2ead681867931f3c4ccb6/index.m3u8
-#EXTINF:-1, PartilleHK-LerumsBK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972b6c164bd6649197ad10/index.m3u8
-#EXTINF:-1, MunkedalsBK-Trollhättan
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679719d95fe3d9289f89e6aa/index.m3u8
-#EXTINF:-1, KungsbackaHC-Hisingen
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972d2e5fe3d9289f89e8e1/index.m3u8
 #EXTINF:-1, Briançon-Grenoble
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67974e9e164bd6649197addf.m3u8
-#EXTINF:-1, HC74-Villard-de-Lans
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678dcdce7335c942ac5d5a0a.m3u8
-#EXTINF:-1, Gap-Cergy-Pontoise
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dcdcea4b67c7e7265d601.m3u8
+#EXTINF:-1, Asiago-Brixen/Wipptal
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774046d5969d50f887896c9/index.m3u8
+#EXTINF:-1, HuddingeTigers-MB
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972a8b5fe3d9289f89e871/index.m3u8
 #EXTINF:-1, Meudon-EpinalHC
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678dcdcda4b67c7e7265d5fb/index.m3u8
 #EXTINF:-1, Caen-Strasbourg
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678dcdcea4b67c7e7265d603/index.m3u8
-#EXTINF:-1, HuddingeTigers-MB
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972a8b5fe3d9289f89e871/index.m3u8
+#EXTINF:-1, Bordeaux-Nantes
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/66de764d3453a55a1f560022.m3u8
 #EXTINF:-1, K-VantaaItä-K-EspooEKS
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c870fd6975d5c558a15e2/index.m3u8
 #EXTINF:-1, Niagara-NorthBay
@@ -49,6 +31,10 @@ https://media-service.fanreachdata.io/edge/ohl/6540830366bf4363b895fcc4ddb650e1.
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678e1ea6a639c257a5d36396/index.m3u8
 #EXTINF:-1, Liège-Heerenveen
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678e1ea6a639c257a5d36398/index.m3u8
+#EXTINF:-1, MunkedalsBK-Trollhättan
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679719d95fe3d9289f89e6aa/index.m3u8
+#EXTINF:-1, KungsbackaHC-Hisingen
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67972d2e5fe3d9289f89e8e1/index.m3u8
 #EXTINF:-1, Québec-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/9b214e457a1f4123b70f40b7f4902778.m3u8
 #EXTINF:-1, Charlottetown-Gatineau
