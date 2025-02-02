@@ -1,22 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Lada-Avtomobilist
-fluidtv.php?channel=https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, Severstal-Spartak
 fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, DinamoMinsk-Avangard
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, StormPinerolo-Como
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774046b840b7877dbe047d1/index.m3u8
-#EXTINF:-1, Zoldo/Padova-Valpellice
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774046b5969d50f887896c5/index.m3u8
-#EXTINF:-1, Kaltern/Ritten-Cortina
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774046a5969d50f887896c3/index.m3u8
-#EXTINF:-1, Pergine-AlpsAcademy
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774046d5969d50f887896c7/index.m3u8
-#EXTINF:-1, Asiago-Brixen/Wipptal
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774046d5969d50f887896c9/index.m3u8
-#EXTINF:-1, Trento-EppanAppiano
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740469840b7877dbe047cf/index.m3u8
 #EXTINF:-1, Södertälje-VäxjöLakers
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679727085fe3d9289f89e7fb/index.m3u8
 #EXTINF:-1, MoDoHockey-ÖrebroHK
