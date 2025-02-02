@@ -3,10 +3,6 @@
 fluidtv.php?channel=https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, IFBjörklöven-Västerås
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679722a3164bd6649197abe6/index.m3u8
-#EXTINF:-1, TimråIK-LuleåHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679728ca5fe3d9289f89e843/index.m3u8
-#EXTINF:-1, DjurgårdensIF-MoraIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67971e3e164bd6649197ab50/index.m3u8
 #EXTINF:-1, Södertälje-VäxjöLakers
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679727085fe3d9289f89e7fb/index.m3u8
 #EXTINF:-1, MoDoHockey-ÖrebroHK
