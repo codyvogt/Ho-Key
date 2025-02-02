@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-Avangard
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Genève-Servette-LHC
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, Nikkarit-Kisa-Eagles
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678c870ea4b67c7e7265d1d5/index.m3u8
-#EXTINF:-1, KJK-Kiekko-Ahma
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870ea4b67c7e7265d1d1/index.m3u8
-#EXTINF:-1, PyryTeam-Hiki-Hockey
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870ed6975d5c558a157f/index.m3u8
-#EXTINF:-1, EVU-HarjunKiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678c870fa4b67c7e7265d1de/index.m3u8
 #EXTINF:-1, Zoldo/Padova-Valpellice
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774046b5969d50f887896c5/index.m3u8
 #EXTINF:-1, Kaltern/Ritten-Cortina
