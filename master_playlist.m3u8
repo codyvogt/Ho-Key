@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1, SollentunaHC-SDEHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679872610feed3150c05bf73/index.m3u8
-#EXTINF:-1, FlemingsbergsIK-Nacka
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67986c391785ee27e3fb5918/index.m3u8
-#EXTINF:-1, Linden-HuddingeIK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6798717f0feed3150c05bf68/index.m3u8
-#EXTINF:-1, Vallentuna-NyköpingsSK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6798717f0feed3150c05bf6a/index.m3u8
-#EXTINF:-1, TyresöHanviken-Arlanda
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67987b2a0feed3150c05bf85/index.m3u8
-#EXTINF:-1, IFKTumbaIK-Brinken
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6798717f0feed3150c05bf65/index.m3u8
-#EXTINF:-1, JärnaSK-VärmdöHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679877a61785ee27e3fb592a/index.m3u8
-#EXTINF:-1, Haninge-Åker/Strängnäs
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/675543f09574b23fd5309d57/index.m3u8
-#EXTINF:-1, HammarbyIF-Traneberg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679867d41785ee27e3fb5910/index.m3u8
-#EXTINF:-1, TrångsundsIF-Enköping
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67986a781785ee27e3fb5914/index.m3u8
-#EXTINF:-1, KoskenPojat-KlaGe
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dd8907335c942ac5d5a30/index.m3u8
 #EXTINF:-1, HCLudwig-HCKSalamat
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678dd8907335c942ac5d5a31/index.m3u8
+#EXTINF:-1, Harvard-BostonUniversity
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, BostonC-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
