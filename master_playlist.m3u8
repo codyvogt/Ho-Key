@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Slaný-ÚstínadLabem
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67769d0f840b7877dbe04a9c/index.m3u8
 #EXTINF:-1, SollentunaHC-SDEHF
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679872610feed3150c05bf73/index.m3u8
 #EXTINF:-1, FlemingsbergsIK-Nacka
