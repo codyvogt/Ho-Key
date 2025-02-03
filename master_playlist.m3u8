@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Slaný-ÚstínadLabem
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67769d0f840b7877dbe04a9c/index.m3u8
-#EXTINF:-1, FärjestadBK-ÖrebroHK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67987a4a1785ee27e3fb592c/index.m3u8
 #EXTINF:-1, SollentunaHC-SDEHF
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679872610feed3150c05bf73/index.m3u8
 #EXTINF:-1, FlemingsbergsIK-Nacka
@@ -22,8 +20,8 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, HammarbyIF-Traneberg
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679867d41785ee27e3fb5910/index.m3u8
 #EXTINF:-1, TrångsundsIF-Enköping
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67986a781785ee27e3fb5914/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67986a781785ee27e3fb5914/index.m3u8
 #EXTINF:-1, KoskenPojat-KlaGe
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dd8907335c942ac5d5a30/index.m3u8
 #EXTINF:-1, HCLudwig-HCKSalamat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/678dd8907335c942ac5d5a31/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/678dd8907335c942ac5d5a31/index.m3u8
