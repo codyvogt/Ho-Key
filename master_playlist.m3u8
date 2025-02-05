@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Wenatchee-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/67588c96dea74872948959cf4c4aed23.m3u8
-#EXTINF:-1, PrinceGeorge-Tri-City
-https://media-service.fanreachdata.io/edge/whl/7cee69a576bd4a4a9f04de8993f9cde4.m3u8
-#EXTINF:-1, Kelowna-VictoriaRoyals
-https://media-service.fanreachdata.io/edge/whl/8b5d2e939f0243ff864ef52d3eb49a88.m3u8
 #EXTINF:-1, Kitchener-LondonKnights
 https://media-service.fanreachdata.io/edge/ohl/28d603b80de04e42a82417d560fb2d80.m3u8
 #EXTINF:-1, Kingston-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/a97ff258b0e14fbb848c3e6da2232b38.m3u8
 #EXTINF:-1, BostonU-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Wenatchee-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/67588c96dea74872948959cf4c4aed23.m3u8
+#EXTINF:-1, PrinceGeorge-Tri-City
+https://media-service.fanreachdata.io/edge/whl/7cee69a576bd4a4a9f04de8993f9cde4.m3u8
+#EXTINF:-1, Kelowna-VictoriaRoyals
+https://media-service.fanreachdata.io/edge/whl/8b5d2e939f0243ff864ef52d3eb49a88.m3u8
