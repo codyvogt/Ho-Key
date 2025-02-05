@@ -4,10 +4,14 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 #EXTINF:-1, BelarusU20-Belarus
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, UnitedStates-Sweden
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67907b8f5fe3d9289f89d776/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67907b8f5fe3d9289f89d776/index.m3u8
 #EXTINF:-1, Finland-Switzerland
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67907b8f5fe3d9289f89d778/index.m3u8
 #EXTINF:-1, Switzerland-Finland
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a851/index.m3u8
 #EXTINF:-1, CzechRepublic-Germany
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a84c/index.m3u8
+#EXTINF:-1, Switzerland-Czechia
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b35/index.m3u8
+#EXTINF:-1, Sweden-UnitedStates
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b33/index.m3u8
