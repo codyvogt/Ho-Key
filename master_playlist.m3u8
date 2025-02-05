@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kitchener-LondonKnights
-https://media-service.fanreachdata.io/edge/ohl/28d603b80de04e42a82417d560fb2d80.m3u8
-#EXTINF:-1, Kingston-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/a97ff258b0e14fbb848c3e6da2232b38.m3u8
 #EXTINF:-1, BostonU-Northeastern
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Wenatchee-MooseJaw
