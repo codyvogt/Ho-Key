@@ -1,19 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv-DinamoMinsk
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Switzerland-Sweden
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677cc4165969d50f8878a84f/index.m3u8
-#EXTINF:-1, CzechRepublic-Finland
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a84b/index.m3u8
-#EXTINF:-1, Norway-Austria
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a0a8f488a15b56457c8ef5/index.m3u8
-#EXTINF:-1, Latvia-Denmark
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0a8f488a15b56457c8ef0/index.m3u8
 #EXTINF:-1, UnitedStates-Finland
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b34/index.m3u8
 #EXTINF:-1, Switzerland-Sweden
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b32/index.m3u8
+#EXTINF:-1, Lokomotiv-DinamoMinsk
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Finland-UnitedStates
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791cd0e164bd66491979e9e/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6791cd0e164bd66491979e9e/index.m3u8
 #EXTINF:-1, Zlín-MountfieldHK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6783a1e5fe7de23a39a95802/index.m3u8
