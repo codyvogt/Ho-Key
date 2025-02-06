@@ -9,3 +9,15 @@ fluidtv.php?channel=https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYT
 fluidtv.php?channel=https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Lokomotiv-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Switzerland-Sweden
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a84f/index.m3u8
+#EXTINF:-1, CzechRepublic-Finland
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a84b/index.m3u8
+#EXTINF:-1, Norway-Austria
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0a8f488a15b56457c8ef5/index.m3u8
+#EXTINF:-1, Latvia-Denmark
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0a8f488a15b56457c8ef0/index.m3u8
+#EXTINF:-1, UnitedStates-Finland
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b34/index.m3u8
+#EXTINF:-1, Switzerland-Sweden
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b32/index.m3u8
