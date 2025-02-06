@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Czechia-Switzerland
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6791cd0e164bd66491979ea4/index.m3u8
-#EXTINF:-1, Finland-UnitedStates
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791cd0e164bd66491979e9e/index.m3u8
-#EXTINF:-1, LadaTogliatti-Avangard
-fluidtv.php?channel=https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, AkBars-Avtomobilist
 fluidtv.php?channel=https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Lokomotiv-DinamoMinsk
@@ -21,3 +15,5 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b34/index.m3u8
 #EXTINF:-1, Switzerland-Sweden
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c724e8cb2e447d3977b32/index.m3u8
+#EXTINF:-1, Finland-UnitedStates
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791cd0e164bd66491979e9e/index.m3u8
