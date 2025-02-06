@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Czechia-Switzerland
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791cd0e164bd66491979ea4/index.m3u8
+#EXTINF:-1, Finland-UnitedStates
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791cd0e164bd66491979e9e/index.m3u8
