@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Lokomotiv-DinamoMinsk
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Poland-Italy
+fluidtv.php?channel=https://piratenew.iosplayer.ru/pirate/pirateTVP_SPORT/mono.m3u8
+#EXTINF:-1, Switzerland-Finland
+fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
 #EXTINF:-1, Finland-UnitedStates
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6791cd0e164bd66491979e9e/index.m3u8
 #EXTINF:-1, Zlín-MountfieldHK
