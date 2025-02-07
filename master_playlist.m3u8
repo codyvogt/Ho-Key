@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Switzerland-USA
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67931e8e5fe3d9289f89db80/index.m3u8
-#EXTINF:-1, NokianPyry-S-Kiekko
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67931e8e164bd6649197a094/index.m3u8
-#EXTINF:-1, SaPKo-MunsalaIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67931e8e164bd6649197a092/index.m3u8
-#EXTINF:-1, CzechRepublic-Finland
-fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
 #EXTINF:-1, Poland-Slovenia
 fluidtv.php?channel=https://piratenew.iosplayer.ru/pirate/pirateTVP_SPORT/mono.m3u8
 #EXTINF:-1, Hela-Kiekko-AlavudenPV
