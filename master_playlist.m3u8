@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Viikingit-SibboWolfpack
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791cd0e164bd66491979e91/index.m3u8
 #EXTINF:-1, Sweden-Finland
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a850/index.m3u8
 #EXTINF:-1, Austria-Latvia
