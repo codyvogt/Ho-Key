@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1, TullingeTPHC-Kallhäll
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679daeb688a15b56457c865e/index.m3u8
-#EXTINF:-1, Neuwied-Diez-Limburg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794b626164bd6649197a4fa/index.m3u8
-#EXTINF:-1, ÄltaIF-GnestaIK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679db31c8cb2e447d3977e40/index.m3u8
-#EXTINF:-1, SolnaSK-NynäshamnsIF
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679dab3488a15b56457c864a/index.m3u8
-#EXTINF:-1, TrångsundsIF-Skarpnäck
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679db07a88a15b56457c8664/index.m3u8
-#EXTINF:-1, PlayTeam-80-Hawks
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67931e8e164bd6649197a0d4/index.m3u8
