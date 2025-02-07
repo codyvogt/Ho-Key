@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Hormadid'Anglet-Spain
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6794654e5fe3d9289f89dd8f.m3u8
 #EXTINF:-1, UMass-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Vermont-UMassLowell
