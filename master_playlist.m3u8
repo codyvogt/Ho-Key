@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sweden-Finland
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a850/index.m3u8
-#EXTINF:-1, Austria-Latvia
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a0a8f488a15b56457c8ef4/index.m3u8
-#EXTINF:-1, RocketsLoimaa-TarU
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67761d8f5969d50f887897fd/index.m3u8
-#EXTINF:-1, HuntersTeam-PUS
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67931e8e5fe3d9289f89db8b/index.m3u8
 #EXTINF:-1, Norway-Denmark
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a2309888a15b56457c906b/index.m3u8
 #EXTINF:-1, CzechRepublic-Finland
