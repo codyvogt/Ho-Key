@@ -7,6 +7,8 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67665a8f840b7877dbe0355a/index.m3u8
 #EXTINF:-1, Poland-Slovenia
 fluidtv.php?channel=https://piratenew.iosplayer.ru/pirate/pirateTVP_SPORT/mono.m3u8
+#EXTINF:-1, France-Austria
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679a32338cb2e447d39777de/index.m3u8
 #EXTINF:-1, Norway-Denmark
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a2309888a15b56457c906b/index.m3u8
 #EXTINF:-1, Germany-Switzerland
