@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, France-Austria
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679a32338cb2e447d39777de/index.m3u8
-#EXTINF:-1, Norway-Denmark
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a2309888a15b56457c906b/index.m3u8
-#EXTINF:-1, Germany-Switzerland
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a853/index.m3u8
-#EXTINF:-1, Sweden-Finland
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a850/index.m3u8
-#EXTINF:-1, Denmark-Norway
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0a8f488a15b56457c8eed/index.m3u8
-#EXTINF:-1, Austria-Latvia
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0a8f488a15b56457c8ef4/index.m3u8
 #EXTINF:-1, USA-Switzerland
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679dc3d388a15b56457c86e2/index.m3u8
 #EXTINF:-1, CzechRepublic-Finland
