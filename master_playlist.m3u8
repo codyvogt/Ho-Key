@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, PrinceAlbert-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/7f1b0cb4d33c47eca55cca3bd2f66567.m3u8
-#EXTINF:-1, Everett-Kamloops
-https://media-service.fanreachdata.io/edge/whl/a6b548a72f9741e599e8822ead869d00.m3u8
-#EXTINF:-1, Portland-Vancouver
-https://media-service.fanreachdata.io/edge/whl/939a47d4906d48e88f996412bfa1e2b0.m3u8
-#EXTINF:-1, VictoriaRoyals-Tri-City
-https://media-service.fanreachdata.io/edge/whl/0eebea129c884f7583e5140d1f94d1f7.m3u8
-#EXTINF:-1, PrinceGeorge-Kelowna
-https://media-service.fanreachdata.io/edge/whl/acbf42527ff44b739e707e0fcee84d3f.m3u8
-#EXTINF:-1, SpokaneChiefs-Seattle
-https://media-service.fanreachdata.io/edge/whl/f4e6981e1c174fc08df34ddf947cd0cd.m3u8
-#EXTINF:-1, China-France
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6793661b5fe3d9289f89dcd1/index.m3u8
 #EXTINF:-1, Day1
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, VästerviksIK-Jonstorp
