@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Denmark-Austria
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a7077388a15b56457c9706/index.m3u8
 #EXTINF:-1, Poland-Hungary
 fluidtv.php?channel=https://piratenew.iosplayer.ru/pirate/pirateTVP_SPORT/mono.m3u8
 #EXTINF:-1, France-Norway
@@ -58,13 +56,13 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 #EXTINF:-1, HCDalen-MörrumsIK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f12ae88a15b56457c89f8/index.m3u8
 #EXTINF:-1, VäsbyIKHK-JärnaSK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f082188a15b56457c8916/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679f082188a15b56457c8916/index.m3u8
 #EXTINF:-1, SunneIK-ÅmålsSK
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679f171088a15b56457c8a36/index.m3u8
 #EXTINF:-1, GrumsIK2-ArvikaHC
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f09038cb2e447d3978217/index.m3u8
 #EXTINF:-1, MjölbyHC-IKGuts
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f15528cb2e447d397836d/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679f15528cb2e447d397836d/index.m3u8
 #EXTINF:-1, HärrydaHC-AlvestaSK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f163388a15b56457c8a2d/index.m3u8
 #EXTINF:-1, TrångsundsIF-Värmdö
@@ -208,12 +206,12 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, SödertäljeSK-Björklöven
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f100a8cb2e447d397830d/index.m3u8
 #EXTINF:-1, Roudnicen.L.-Ústín.L.
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787500d95b6797c4f0c09bd/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6787500d95b6797c4f0c09bd/index.m3u8
 #EXTINF:-1, Sweden-Switzerland
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794700f164bd6649197a386/index.m3u8
 #EXTINF:-1, Rouen2-Amiens2
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a21be788a15b56457c905f.m3u8
 #EXTINF:-1, Sweden-Finland
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f15528cb2e447d3978388/index.m3u8
-#EXTINF:-1, HKSäde-HCWolferines
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67950bb0164bd6649197a54b/index.m3u8
+#EXTINF:-1, HCPanter-Energija
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a373cd8cb2e447d3978c24/index.m3u8
