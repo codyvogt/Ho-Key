@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Villard-de-Lans-Morzine
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce164bd6649197a5dc/index.m3u8
-#EXTINF:-1, Jetsd'Évry-Viry-Orléans
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5b8/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Vaujany
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c0/index.m3u8
 #EXTINF:-1, Dartmouth-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Clarkson
