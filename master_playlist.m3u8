@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Villard-de-Lans-Morzine
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce164bd6649197a5dc/index.m3u8
-#EXTINF:-1, Caen-Neuilly-sur-Marne
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6794654e164bd6649197a2d9/index.m3u8
-#EXTINF:-1, ValpelliceBulldogs-Fassa
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773fae95969d50f88789691/index.m3u8
 #EXTINF:-1, LiègeBulldogs-HYC
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679607a5164bd6649197a99e/index.m3u8
 #EXTINF:-1, GherdëinaII-Milano
@@ -15,8 +11,6 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c0/index.m3u8
 #EXTINF:-1, Annecy-Roanne
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0bc/index.m3u8
-#EXTINF:-1, LionsdeLyon-Bordeaux
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0d0/index.m3u8
 #EXTINF:-1, Dartmouth-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Clarkson
