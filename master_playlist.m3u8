@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ColoradoC-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/89bf0ff4-d3db-4957-8564-e45428b78c91-hls/master/89bf0ff4-d3db-4957-8564-e45428b78c91-hls.m3u8
 #EXTINF:-1, Edmonton-Calgary
 https://media-service.fanreachdata.io/edge/whl/9a1f9176afc0493eac55c1051312112c.m3u8
 #EXTINF:-1, PrinceAlbert-Lethbridge
