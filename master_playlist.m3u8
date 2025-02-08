@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Bordeaux-Spain
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c2.m3u8
 #EXTINF:-1, Norway-France
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a73ecb8cb2e447d3979325/index.m3u8
-#EXTINF:-1, Sweden-Finland
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679f15528cb2e447d3978388/index.m3u8
-#EXTINF:-1, HCPanter-Energija
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a77e7b13187d48c0311604/index.m3u8
+#EXTINF:-1, Bordeaux-Spain
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c2.m3u8
