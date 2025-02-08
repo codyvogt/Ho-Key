@@ -19,3 +19,5 @@ https://media-service.fanreachdata.io/edge/whl/acbf42527ff44b739e707e0fcee84d3f.
 https://media-service.fanreachdata.io/edge/whl/f4e6981e1c174fc08df34ddf947cd0cd.m3u8
 #EXTINF:-1, China-France
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6793661b5fe3d9289f89dcd1/index.m3u8
+#EXTINF:-1, Day1
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
