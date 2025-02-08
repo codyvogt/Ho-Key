@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Mont-Blanc-Nantes
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce164bd6649197a5d0/index.m3u8
+#EXTINF:-1, DucsdeDijon-Reims
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5b4/index.m3u8
+#EXTINF:-1, Rouen2-Wasquehal
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795b6cd164bd6649197a5ae.m3u8
+#EXTINF:-1, Jetsd'Évry-Viry-Orléans
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5b8/index.m3u8
+#EXTINF:-1, Clermont-Ferrand-Vaujany
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c0/index.m3u8
+#EXTINF:-1, Annecy-Roanne
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0bc/index.m3u8
 #EXTINF:-1, Meudon-AlbatrosdeBrest
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795b6ce5fe3d9289f89e0c6/index.m3u8
 #EXTINF:-1, Chambéry-HCMP
@@ -13,32 +21,12 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce164bd6649197a5dc/index.m3u8
 #EXTINF:-1, Caen-Neuilly-sur-Marne
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6794654e164bd6649197a2d9/index.m3u8
-#EXTINF:-1, Toulouse-Valence
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795b6ce164bd6649197a5c6/index.m3u8
-#EXTINF:-1, DucsdeDijon-Reims
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5b4/index.m3u8
-#EXTINF:-1, Rouen2-Wasquehal
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795b6cd164bd6649197a5ae.m3u8
-#EXTINF:-1, Jetsd'Évry-Viry-Orléans
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5b8/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Vaujany
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c0/index.m3u8
-#EXTINF:-1, Annecy-Roanne
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0bc/index.m3u8
-#EXTINF:-1, VHKVsetín-HCTábor
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/676fcd4d5969d50f88788e97/index.m3u8
-#EXTINF:-1, Brest2-Caen2
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795b6ce164bd6649197a5de/index.m3u8
-#EXTINF:-1, KirunaCityHF-IFBoden
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679f11cb8cb2e447d3978331/index.m3u8
-#EXTINF:-1, Marseille-Montpellier
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cf5fe3d9289f89e0d6.m3u8
+#EXTINF:-1, HäradsbygdensSS-Ockra
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679efd958cb2e447d3978142/index.m3u8
 #EXTINF:-1, HC74-Chambéry
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0ce/index.m3u8
 #EXTINF:-1, LionsdeLyon-Bordeaux
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0d0/index.m3u8
-#EXTINF:-1, HäradsbygdensSS-Ockra
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679efd958cb2e447d3978142/index.m3u8
 #EXTINF:-1, Dartmouth-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Quinnipiac-Clarkson
@@ -65,8 +53,6 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679607a5164bd6649197a99e/index.m3u8
 #EXTINF:-1, GherdëinaII-Milano
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6745a5c574345b0eaa499fdf/index.m3u8
-#EXTINF:-1, UMassLowell-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
 #EXTINF:-1, BSU-MichiganTech
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, Rimouski-Québec
