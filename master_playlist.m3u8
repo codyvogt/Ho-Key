@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Providence-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, UNH-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, BostonCollege-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, HolyCross-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, BSU-MichiganTech
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, Maine-Providence
@@ -65,6 +57,14 @@ https://media-service.fanreachdata.io/edge/ohl/8e58e775279946568816f289731300fe.
 https://media-service.fanreachdata.io/edge/ohl/6be17868dec2493bb310c69a3acc62ee.m3u8
 #EXTINF:-1, SaultSte.Marie-Barrie
 https://media-service.fanreachdata.io/edge/ohl/b0314af245534d718286ee5117bca566.m3u8
+#EXTINF:-1, Providence-BostonU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, UNH-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, BostonCollege-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, HolyCross-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, ReginaPats-Saskatoon
 https://media-service.fanreachdata.io/edge/whl/f68ec07bb4664f348d2b047e3719118b.m3u8
 #EXTINF:-1, Wenatchee-SwiftCurrent
