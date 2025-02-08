@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Czechia-Switzerland
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a852/index.m3u8
-#EXTINF:-1, Bordeaux-Spain
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c2.m3u8
-#EXTINF:-1, Châlons-FrançaisVolants
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5bc/index.m3u8
-#EXTINF:-1, La-Roche-sur-Yon-Lyon
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795b6ce5fe3d9289f89e0be/index.m3u8
-#EXTINF:-1, Montpellier-Anglet2
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795b6ce5fe3d9289f89e0ba/index.m3u8
-#EXTINF:-1, Toulouse-Valence
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795b6ce164bd6649197a5c6/index.m3u8
-#EXTINF:-1, DucsdeDijon-Reims
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5b4/index.m3u8
-#EXTINF:-1, Rouen2-Wasquehal
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795b6cd164bd6649197a5ae.m3u8
-#EXTINF:-1, Jetsd'Évry-Viry-Orléans
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6cd164bd6649197a5b8/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Vaujany
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0c0/index.m3u8
-#EXTINF:-1, Annecy-Roanne
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0bc/index.m3u8
-#EXTINF:-1, HCKlatovy-HCDomažlice
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679cd8948cb2e447d3977c3b/index.m3u8
-#EXTINF:-1, KHK-HuntersTeam
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794700f164bd6649197a39e/index.m3u8
-#EXTINF:-1, PiranhasKotka-ValKi
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794700f164bd6649197a351/index.m3u8
 #EXTINF:-1, Valenciennes-Strasbourg
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795b6ce164bd6649197a5d4/index.m3u8
 #EXTINF:-1, Mont-Blanc-Nantes
@@ -49,10 +21,10 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795b6ce164bd6649197a5de/index.m3u8
 #EXTINF:-1, HCPiné-HCChiavenna
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6745a5ed9251076945206ef2/index.m3u8
-#EXTINF:-1, StormPinerolo-Padova
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6745a55374345b0eaa499f83/index.m3u8
 #EXTINF:-1, GherdëinaII-Milano
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6745a5c574345b0eaa499fdf/index.m3u8
+#EXTINF:-1, PiranhasKotka-ValKi
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794700f164bd6649197a351/index.m3u8
 #EXTINF:-1, Dunkerque-Meudon
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795b6ce5fe3d9289f89e0d2/index.m3u8
 #EXTINF:-1, Marseille-Montpellier
