@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rimouski-Québec
-https://media-service.fanreachdata.io/edge/lhjmq/00903d738fdd4229a3aeb9d259aff014.m3u8
-#EXTINF:-1, Sherbrooke-Gatineau
-https://media-service.fanreachdata.io/edge/lhjmq/d0d4fd41532f40a5b50e9bfd520bad25.m3u8
-#EXTINF:-1, Blainville-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/46c5f9206ae94c61a19cf0f3c02a0a11.m3u8
-#EXTINF:-1, Acadie-Bathurst-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/2eeb1700daef4da8af7c1908f93a3cbb.m3u8
-#EXTINF:-1, Moncton-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/91b08803e1734c48a654b638e983cac1.m3u8
-#EXTINF:-1, Baie-Comeau-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/07110c7892cf46779bea198671f7fa58.m3u8
-#EXTINF:-1, Kingston-Brampton
-https://media-service.fanreachdata.io/edge/ohl/a3f71dad1be14659b7856e50ac5b36a5.m3u8
-#EXTINF:-1, Kitchener-Niagara
-https://media-service.fanreachdata.io/edge/ohl/e9d5dd0917aa4244889d357e4c0f971c.m3u8
-#EXTINF:-1, Sudbury-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/82708f4317aa42bf99e4b9aee6119f10.m3u8
-#EXTINF:-1, NorthBay-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/d3dcd6277cc647fb96ac7fc3296c97ba.m3u8
-#EXTINF:-1, Peterborough-Sarnia
-https://media-service.fanreachdata.io/edge/ohl/987ecc2203ac4511aab43ec6f2cc71d6.m3u8
-#EXTINF:-1, Brantford-Windsor
-https://media-service.fanreachdata.io/edge/ohl/8e58e775279946568816f289731300fe.m3u8
-#EXTINF:-1, Saginaw-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/6be17868dec2493bb310c69a3acc62ee.m3u8
-#EXTINF:-1, SaultSte.Marie-Barrie
-https://media-service.fanreachdata.io/edge/ohl/b0314af245534d718286ee5117bca566.m3u8
 #EXTINF:-1, BSU-MichiganTech
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, Maine-Providence
@@ -55,12 +27,34 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnstho
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/98575959-2d15-4fb9-92b5-fff90752c356-hls/master/98575959-2d15-4fb9-92b5-fff90752c356-hls.m3u8
 #EXTINF:-1, MinnesotaDuluth-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6912cc5d-30c0-4dc5-88f8-af5465b0c70b-hls/master/6912cc5d-30c0-4dc5-88f8-af5465b0c70b-hls.m3u8
+#EXTINF:-1, Blainville-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/46c5f9206ae94c61a19cf0f3c02a0a11.m3u8
+#EXTINF:-1, Acadie-Bathurst-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/2eeb1700daef4da8af7c1908f93a3cbb.m3u8
+#EXTINF:-1, Moncton-Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/91b08803e1734c48a654b638e983cac1.m3u8
+#EXTINF:-1, Baie-Comeau-SaintJohn
+https://media-service.fanreachdata.io/edge/lhjmq/07110c7892cf46779bea198671f7fa58.m3u8
 #EXTINF:-1, UNH-Merrimack
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, BostonCollege-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, HolyCross-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Kitchener-Niagara
+https://media-service.fanreachdata.io/edge/ohl/e9d5dd0917aa4244889d357e4c0f971c.m3u8
+#EXTINF:-1, Sudbury-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/82708f4317aa42bf99e4b9aee6119f10.m3u8
+#EXTINF:-1, NorthBay-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/d3dcd6277cc647fb96ac7fc3296c97ba.m3u8
+#EXTINF:-1, Peterborough-Sarnia
+https://media-service.fanreachdata.io/edge/ohl/987ecc2203ac4511aab43ec6f2cc71d6.m3u8
+#EXTINF:-1, Brantford-Windsor
+https://media-service.fanreachdata.io/edge/ohl/8e58e775279946568816f289731300fe.m3u8
+#EXTINF:-1, Saginaw-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/6be17868dec2493bb310c69a3acc62ee.m3u8
+#EXTINF:-1, SaultSte.Marie-Barrie
+https://media-service.fanreachdata.io/edge/ohl/b0314af245534d718286ee5117bca566.m3u8
 #EXTINF:-1, ReginaPats-Saskatoon
 https://media-service.fanreachdata.io/edge/whl/f68ec07bb4664f348d2b047e3719118b.m3u8
 #EXTINF:-1, Wenatchee-SwiftCurrent
