@@ -2,11 +2,13 @@
 #EXTINF:-1, Bordeaux-Spain
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679a4ca388a15b56457c7feb/index.m3u8
 #EXTINF:-1, Norway-France
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a73ecb8cb2e447d3979325/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a73ecb8cb2e447d3979325/index.m3u8
 #EXTINF:-1, NewJersey-Montréal
 fluidtv.php?channel=https://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1, TampaBay-Detroit
 fluidtv.php?channel=https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1, Utah-CarolinaHurricanes
+fluidtv.php?channel=https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aa5525da-b558-4a9f-9ade-e7fedaae2e53/master.m3u8
 #EXTINF:-1, Haukat-SaPKo
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6794700e5fe3d9289f89dda7/index.m3u8
 #EXTINF:-1, KotkanTitaanit-JHT
