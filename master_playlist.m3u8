@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, SkutskärsSKJ23-FaluIF
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a0689088a15b56457c8e47/index.m3u8
+#EXTINF:-1, Germany-France
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678e5f56a639c257a5d36443/index.m3u8
