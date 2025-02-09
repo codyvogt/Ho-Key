@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1, MooseJaw-Edmonton
 https://media-service.fanreachdata.io/edge/whl/181c90fd6315420da224529842c0b6d1.m3u8
-#EXTINF:-1, PrinceGeorge-Kamloops
-https://media-service.fanreachdata.io/edge/whl/218045b334da4bcea6e55bf539ad7412.m3u8
 #EXTINF:-1, PARaiders-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/861819ffa4304dbb82e47ab94a3eb777.m3u8
 #EXTINF:-1, Seattle-Portland
 https://media-service.fanreachdata.io/edge/whl/10e22862df204bb4b7f22aa3edb400d3.m3u8
-#EXTINF:-1, Lethbridge-RedDeer
-https://media-service.fanreachdata.io/edge/whl/f8f90fae62284891b50872f7075c8255.m3u8
 #EXTINF:-1, Tri-City-KelownaRockets
 https://media-service.fanreachdata.io/edge/whl/67d0570223564edea8817b8c510a316f.m3u8
 #EXTINF:-1, Victoria-SpokaneChiefs
