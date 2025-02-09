@@ -1,1 +1,23 @@
 #EXTM3U
+#EXTINF:-1, Diez-Limburg-Leuven
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679759241785ee27e3fb583d/index.m3u8
+#EXTINF:-1, Hormadid'Anglet-Amiens
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66dd24cd3453a55a1f55fd3b.m3u8
+#EXTINF:-1, HammarbyIF-TullingeTP
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a050d788a15b56457c8c53/index.m3u8
+#EXTINF:-1, SHKHC-KnivstaIK
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a04e338cb2e447d39785e3/index.m3u8
+#EXTINF:-1, SVKaltern-HCFeltre
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0a2d388a15b56457c8edb/index.m3u8
+#EXTINF:-1, Kungsbacka-Falkenberg
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a067b18cb2e447d3978816/index.m3u8
+#EXTINF:-1, Flint-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/156bc76f834e48039f095a07788585bb.m3u8
+#EXTINF:-1, Kingston-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/512903e2ea724c0ca227dfae58bf79f7.m3u8
+#EXTINF:-1, SaultSte.Marie-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/db5f54c6c94948fab31aa42d87e30625.m3u8
+#EXTINF:-1, Yale-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Val-d'Or-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/79fc93bfa49948e7a9e63b0fd35404a3.m3u8
