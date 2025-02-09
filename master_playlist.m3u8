@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Sweden-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, IFSundsvall-KalixHC
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a0545b8cb2e447d3978643/index.m3u8
-#EXTINF:-1, Clemensnäs-Örnsköldsvik
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a056fc8cb2e447d3978671/index.m3u8
 #EXTINF:-1, Finland-Sweden
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a6c7/index.m3u8
 #EXTINF:-1, Czechia-UnitedStates
