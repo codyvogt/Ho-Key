@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Sweden-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, HerningII-Frederikshavn
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/670e1e9c6b135e19484e2336/index.m3u8
-#EXTINF:-1, AalborgII-OdenseIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66cd9067d3d999504733c97c/index.m3u8
-#EXTINF:-1, HCOlomouc-HCTábor
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677e3fbdcd09a86d42e73ca3/index.m3u8
-#EXTINF:-1, Šumperk-KrálovéPísek
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67932d93164bd6649197a122/index.m3u8
 #EXTINF:-1, Chomutov-TechnikaBrno
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679cae5d8cb2e447d3977bb1/index.m3u8
 #EXTINF:-1, Clemensnäs-Örnsköldsvik
@@ -43,6 +35,8 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a04e338cb2e447d39785e3/index.m3u8
 #EXTINF:-1, Haninge-SödertäljeSK
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a05b6388a15b56457c8cf9/index.m3u8
+#EXTINF:-1, AalborgII-OdenseIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66cd9067d3d999504733c97c/index.m3u8
 #EXTINF:-1, Pinerolo-Zoldo/Padova
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677404755969d50f887896d7/index.m3u8
 #EXTINF:-1, Brixen/Wipptal-Pustertal
