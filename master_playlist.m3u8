@@ -1,34 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Sweden-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, Sweden-CzechRepublic
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a066d288a15b56457c8e2e/index.m3u8
-#EXTINF:-1, PorvoonHunters-JHT
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18e164bd6649197a615/index.m3u8
 #EXTINF:-1, RaaheK-LapuanVirkiä
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18e164bd6649197a623/index.m3u8
 #EXTINF:-1, Peli-PojatHC-Haukat
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18e164bd6649197a604/index.m3u8
 #EXTINF:-1, FPS-KotkanTitaanit
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18e164bd6649197a609/index.m3u8
-#EXTINF:-1, HKVipers-NarvaPSK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67964f20e20f4d71af5bfe3e/index.m3u8
-#EXTINF:-1, HKDinaburga-Ventspils
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a064c088a15b56457c8e09/index.m3u8
-#EXTINF:-1, KemijärvenKiekko-TIHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794700f5fe3d9289f89de07/index.m3u8
-#EXTINF:-1, WarkisVarkaus-Peliitat
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6795c18f5fe3d9289f89e144/index.m3u8
-#EXTINF:-1, KraftAcademy-IKK2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a66b/index.m3u8
-#EXTINF:-1, S-KiekkoTeam-VirkiäII
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a673/index.m3u8
-#EXTINF:-1, PirkanmaaGoons-KiePo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a68a/index.m3u8
-#EXTINF:-1, VG-62IINaantali-TarU
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6795c18f164bd6649197a6a7/index.m3u8
-#EXTINF:-1, LundGiants-Rydaholm
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0626b88a15b56457c8ddd/index.m3u8
 #EXTINF:-1, Partille-Sörhaga/Alingsås
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a065ee8cb2e447d39787f0/index.m3u8
 #EXTINF:-1, TörebodaHF-TibroIK
@@ -49,25 +27,3 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a05ee788a15b56457c8d8d/index.m3u8
 #EXTINF:-1, Kungsbacka-Falkenberg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a067b18cb2e447d3978816/index.m3u8
-#EXTINF:-1, Rouen2-Courbevoie
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6742a84f925107694520649e.m3u8
-#EXTINF:-1, Orléans-Jetsd'Évry-Viry
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67396dceaf94a25608ebda2f/index.m3u8
-#EXTINF:-1, SunderbySK-KirunaAIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a05fc988a15b56457c8da5/index.m3u8
-#EXTINF:-1, HanhalsIF-VärnamoGIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a067b18cb2e447d3978811/index.m3u8
-#EXTINF:-1, KRIFHockey-VitaHästen
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a0618a8cb2e447d3978786/index.m3u8
-#EXTINF:-1, Nittorp-Boro/Vetlanda
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a056fc8cb2e447d3978669/index.m3u8
-#EXTINF:-1, VännäsHC-NorsjöHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a057de88a15b56457c8cb5/index.m3u8
-#EXTINF:-1, HammaröHC-ArvikaHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a05d258cb2e447d397873d/index.m3u8
-#EXTINF:-1, SunneIK-IFKMunkfors
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0689088a15b56457c8e49/index.m3u8
-#EXTINF:-1, ÅsedaIF-OlofströmsIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a04f148cb2e447d39785fb/index.m3u8
-#EXTINF:-1, HaningeAnchors-Tumba
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a05b6388a15b56457c8cf7/index.m3u8
