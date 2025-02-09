@@ -1,49 +1,13 @@
 #EXTM3U
 #EXTINF:-1, Sweden-Finland
 fluidtv.php?channel=https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, Finland-Germany
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/677cc4165969d50f8878a84e/index.m3u8
-#EXTINF:-1, CzechRepublic-Sweden
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677cc4165969d50f8878a84d/index.m3u8
-#EXTINF:-1, MIFTeam-HighsticksAc
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794700f5fe3d9289f89de24/index.m3u8
-#EXTINF:-1, SuPS-LaserHTHot
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a69e/index.m3u8
-#EXTINF:-1, KraftAcademy-IKK2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a66b/index.m3u8
-#EXTINF:-1, S-KiekkoTeam-VirkiäII
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a673/index.m3u8
-#EXTINF:-1, PirkanmaaGoons-KiePo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a68a/index.m3u8
-#EXTINF:-1, VG-62IINaantali-TarU
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a6a7/index.m3u8
-#EXTINF:-1, MalmbergetsAIF-StiL
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0529888a15b56457c8c6b/index.m3u8
-#EXTINF:-1, BålstaHC-SudretsHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a05b638cb2e447d39786bd/index.m3u8
-#EXTINF:-1, TrelleborgsIF-RonnebyIK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a05e0688a15b56457c8d66/index.m3u8
-#EXTINF:-1, LundGiants-Rydaholm
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0626b88a15b56457c8ddd/index.m3u8
-#EXTINF:-1, Partille-Sörhaga/Alingsås
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a065ee8cb2e447d39787f0/index.m3u8
-#EXTINF:-1, TörebodaHF-TibroIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a04ff48cb2e447d397860d/index.m3u8
-#EXTINF:-1, DiöGoIFHK-ÅstorpsIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0561d88a15b56457c8c9f/index.m3u8
-#EXTINF:-1, NässjöHC-LN70HC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a05e0688a15b56457c8d68/index.m3u8
-#EXTINF:-1, FalköpingIK-Ulricehamn
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0618a8cb2e447d397878f/index.m3u8
-#EXTINF:-1, Skärgården-Skillingaryd
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a065ee8cb2e447d39787ef/index.m3u8
-#EXTINF:-1, IFLejonet-LerumsBK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0529888a15b56457c8c6f/index.m3u8
-#EXTINF:-1, MightyRavens-Wettern
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a067b18cb2e447d3978815/index.m3u8
-#EXTINF:-1, VarbergHK-HovåsHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a05ee788a15b56457c8d8d/index.m3u8
-#EXTINF:-1, Kungsbacka-Falkenberg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a067b18cb2e447d3978816/index.m3u8
-#EXTINF:-1, Turnov-StadionVrchlabí
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6788bdae95b6797c4f0c0c23/index.m3u8
+#EXTINF:-1, IFSundsvall-KalixHC
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a0545b8cb2e447d3978643/index.m3u8
+#EXTINF:-1, Clemensnäs-Örnsköldsvik
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a056fc8cb2e447d3978671/index.m3u8
+#EXTINF:-1, Finland-Sweden
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a6c7/index.m3u8
+#EXTINF:-1, Czechia-UnitedStates
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f164bd6649197a6d1/index.m3u8
+#EXTINF:-1, HCPanter-Energija
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a373ea8cb2e447d3978c26/index.m3u8
