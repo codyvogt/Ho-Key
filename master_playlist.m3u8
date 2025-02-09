@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Germany-France
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/678e5f56a639c257a5d36443/index.m3u8
+#EXTINF:-1, Finland-Switzerland
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a066d288a15b56457c8e2d/index.m3u8
+#EXTINF:-1, Sweden-CzechRepublic
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a066d288a15b56457c8e2e/index.m3u8
+#EXTINF:-1, PESÄImatra-Gladiators
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f5fe3d9289f89e149/index.m3u8
+#EXTINF:-1, LiminganKiekko-KUKIHT
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f5fe3d9289f89e13b/index.m3u8
+#EXTINF:-1, KemijärvenKiekko-TIHC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794700f5fe3d9289f89de07/index.m3u8
+#EXTINF:-1, WarkisVarkaus-Peliitat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6795c18f5fe3d9289f89e144/index.m3u8
