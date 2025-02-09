@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Everett-Vancouver
 https://media-service.fanreachdata.io/edge/whl/ebe7adeadd824a349eeffde228155143.m3u8
-#EXTINF:-1, France-Poland
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67936725164bd6649197a1ca/index.m3u8
+#EXTINF:-1, Day2
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
