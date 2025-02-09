@@ -19,7 +19,5 @@ https://media-service.fanreachdata.io/edge/whl/67d0570223564edea8817b8c510a316f.
 https://media-service.fanreachdata.io/edge/whl/52b943d9d9284975babedef68a434824.m3u8
 #EXTINF:-1, Everett-Vancouver
 https://media-service.fanreachdata.io/edge/whl/ebe7adeadd824a349eeffde228155143.m3u8
-#EXTINF:-1, MinnesotaDuluth-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6912cc5d-30c0-4dc5-88f8-af5465b0c70b-hls/master/6912cc5d-30c0-4dc5-88f8-af5465b0c70b-hls.m3u8
 #EXTINF:-1, France-Poland
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67936725164bd6649197a1ca/index.m3u8
