@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, ChineseTaipei-Thailand
 fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/319d0b84-546b-e266-07c1-71242f40898f/HLS/variant.m3u8
+#EXTINF:-1, Kuwait-Turkmenistan
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/75b9a015-76f3-8777-15dc-8c19e168753e/HLS/variant.m3u8
