@@ -1,11 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Flint-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/156bc76f834e48039f095a07788585bb.m3u8
-#EXTINF:-1, Kingston-OwenSound
-https://media-service.fanreachdata.io/edge/ohl/512903e2ea724c0ca227dfae58bf79f7.m3u8
-#EXTINF:-1, SaultSte.Marie-Oshawa
-https://media-service.fanreachdata.io/edge/ohl/db5f54c6c94948fab31aa42d87e30625.m3u8
-#EXTINF:-1, Yale-Brown
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Val-d'Or-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/79fc93bfa49948e7a9e63b0fd35404a3.m3u8
