@@ -3,3 +3,5 @@
 fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/791d09ac-c394-b142-7489-c293751ed24d/HLS/variant.m3u8
 #EXTINF:-1, SouthKorea-Kyrgyzstan
 fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/2fec9be0-776d-8f2a-e28a-4b85f3370935/HLS/variant.m3u8
+#EXTINF:-1, Admiral-AvangardOmsk
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
