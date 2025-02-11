@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Kazakhstan-HongKong
-fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/791d09ac-c394-b142-7489-c293751ed24d/HLS/variant.m3u8
-#EXTINF:-1, SouthKorea-Kyrgyzstan
-fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/2fec9be0-776d-8f2a-e28a-4b85f3370935/HLS/variant.m3u8
-#EXTINF:-1, Admiral-AvangardOmsk
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, China-ChineseTaipei
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/f4a964c0-cd3e-68bd-4e43-8d42cc8a2554/HLS/variant.m3u8
+#EXTINF:-1, Japan-Thailand
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/78dce4e3-0de3-373b-c8ff-9717efad786f/HLS/variant.m3u8
 #EXTINF:-1, SibirNovosibirsk-Lada
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
