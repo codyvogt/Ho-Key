@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, China-ChineseTaipei
-fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/f4a964c0-cd3e-68bd-4e43-8d42cc8a2554/HLS/variant.m3u8
-#EXTINF:-1, Japan-Thailand
-fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/78dce4e3-0de3-373b-c8ff-9717efad786f/HLS/variant.m3u8
 #EXTINF:-1, SibirNovosibirsk-Lada
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, HCSochi-Neftekhimik
+fluidtv.php?channel=https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Kunlun-SalavatYulaev
+fluidtv.php?channel=https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, KrálovéPísek-Vsetín
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/676176fda83d4f176bc9e1e3/index.m3u8
