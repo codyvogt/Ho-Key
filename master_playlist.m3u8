@@ -83,3 +83,19 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787364e622f80735a0233d2.m3u8
 #EXTINF:-1, Karhu-Kissat-KHK
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6798648f0feed3150c05bf4c/index.m3u8
+#EXTINF:-1, Oshawa-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/7232ccc2bbdf461399697a52aba74e67.m3u8
+#EXTINF:-1, MedicineHat-Saskatoon
+https://media-service.fanreachdata.io/edge/whl/d2fa1a6b02db4f429c129ca6d088c525.m3u8
+#EXTINF:-1, Brandon-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/01691575bcec48bc9594a1fb970a8844.m3u8
+#EXTINF:-1, Lethbridge-Calgary
+https://media-service.fanreachdata.io/edge/whl/f83696ac03bc42e592d544c55204fbc2.m3u8
+#EXTINF:-1, ReginaPats-RedDeer
+https://media-service.fanreachdata.io/edge/whl/8582c6bc9b58461c8ed835ec97db9f3f.m3u8
+#EXTINF:-1, Tri-City-Kamloops
+https://media-service.fanreachdata.io/edge/whl/12f32ac71b7940d2b93ddeb5040766b7.m3u8
+#EXTINF:-1, KelownaRockets-Seattle
+https://media-service.fanreachdata.io/edge/whl/8e70f408ca1d49439972e62900edf131.m3u8
+#EXTINF:-1, WenatcheeWild-Spokane
+https://media-service.fanreachdata.io/edge/whl/69f6bb17ba5e4b8e8f35b159b5f73505.m3u8
