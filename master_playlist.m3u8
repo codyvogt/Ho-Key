@@ -1,22 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Rouen-Bordeaux
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6787364e622f80735a0233c8.m3u8
-#EXTINF:-1, AiglesdeNice-Marseille
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6787364e622f80735a0233ca.m3u8
-#EXTINF:-1, Briançon-Ducsd'Angers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787364e622f80735a0233cc.m3u8
-#EXTINF:-1, RapacesdeGap-Grenoble
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6787364e622f80735a0233d0.m3u8
-#EXTINF:-1, Anglet-Chamonix
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787364e622f80735a0233d2.m3u8
-#EXTINF:-1, Strasbourg-Cholet
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6799ab4d0feed3150c05c0e4/index.m3u8
 #EXTINF:-1, Épinal-DrakkarsdeCaen
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6799ab4d0feed3150c05c0de/index.m3u8
-#EXTINF:-1, MörrumsIK-HovåsHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a3080b88a15b56457c90d8/index.m3u8
-#EXTINF:-1, Karhu-Kissat-KHK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6798648f0feed3150c05bf4c/index.m3u8
+#EXTINF:-1, Anglet-Chamonix
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787364e622f80735a0233d2.m3u8
 #EXTINF:-1, Oshawa-Kitchener
 https://media-service.fanreachdata.io/edge/ohl/7232ccc2bbdf461399697a52aba74e67.m3u8
 #EXTINF:-1, MedicineHat-Saskatoon
