@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Épinal-DrakkarsdeCaen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6799ab4d0feed3150c05c0de/index.m3u8
-#EXTINF:-1, Anglet-Chamonix
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6787364e622f80735a0233d2.m3u8
 #EXTINF:-1, Oshawa-Kitchener
 https://media-service.fanreachdata.io/edge/ohl/7232ccc2bbdf461399697a52aba74e67.m3u8
 #EXTINF:-1, MedicineHat-Saskatoon
