@@ -1,1 +1,21 @@
 #EXTM3U
+#EXTINF:-1, RNHuskies-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/2f664e7696624359af2f6a3fae39d3f0.m3u8
+#EXTINF:-1, Niagara-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/b576940bc650422bbf0a9a8e89cecb10.m3u8
+#EXTINF:-1, Peterborough-Ottawa
+https://media-service.fanreachdata.io/edge/ohl/aa3f98750aec4627a09c8d6a35e49033.m3u8
+#EXTINF:-1, Brampton-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/4d790e6e65dd4317ae38d3a8846e34ce.m3u8
+#EXTINF:-1, Guelph-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/03b0d0bb36f343f78ca0e921e6a5c8e3.m3u8
+#EXTINF:-1, Saginaw-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/fdfa202142184231b96c427228f5e148.m3u8
+#EXTINF:-1, RedDeer-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/1d13a50b7a1c4f5fb7921565b67bb962.m3u8
+#EXTINF:-1, ReginaPats-Edmonton
+https://media-service.fanreachdata.io/edge/whl/c65afb8120ec41d4b4fcf94c74ea1283.m3u8
+#EXTINF:-1, Kazakhstan-China
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/362556c2-ab58-5b0f-9b50-c230a0579045/HLS/variant.m3u8
+#EXTINF:-1, Japan-SouthKorea
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/7d87819d-3424-5f66-fd15-74e100f05b00/HLS/variant.m3u8
