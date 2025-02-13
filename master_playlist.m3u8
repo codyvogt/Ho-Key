@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SouthKorea-Japan
-fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/3f39ce07-aa55-b260-9ad5-87bd34656294/HLS/variant.m3u8
-#EXTINF:-1, China-Kazakhstan
-fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/072f3acf-60e8-7d4f-a9c3-8d8b80615adf/HLS/variant.m3u8
 #EXTINF:-1, Admiral-Avtomobilist
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, SibirNovosibirsk-Lada
