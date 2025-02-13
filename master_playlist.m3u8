@@ -1,9 +1,1 @@
 #EXTM3U
-#EXTINF:-1, RedDeer-Lethbridge
-https://media-service.fanreachdata.io/edge/whl/1d13a50b7a1c4f5fb7921565b67bb962.m3u8
-#EXTINF:-1, ReginaPats-Edmonton
-https://media-service.fanreachdata.io/edge/whl/c65afb8120ec41d4b4fcf94c74ea1283.m3u8
-#EXTINF:-1, Kazakhstan-China
-fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/362556c2-ab58-5b0f-9b50-c230a0579045/HLS/variant.m3u8
-#EXTINF:-1, Admiral-Avtomobilist
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
