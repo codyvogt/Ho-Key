@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LiikunnanRiemu-SaPKo
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679b078e88a15b56457c8105/index.m3u8
-#EXTINF:-1, AlmtunaIS-Södertälje
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5a6ac88a15b56457c93e5/index.m3u8
-#EXTINF:-1, LN70HC-TibroIK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a5935288a15b56457c93a5/index.m3u8
-#EXTINF:-1, Lenhovda-MightyRavens
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a596d688a15b56457c93b3/index.m3u8
-#EXTINF:-1, StiL-RosvikIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677f6ce9cd09a86d42e73e76/index.m3u8
-#EXTINF:-1, BurträskHC2-Kågedalen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5935288a15b56457c93a3/index.m3u8
-#EXTINF:-1, Häradsbygden-Skutskär
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670b63b56b135e19484e1c1d/index.m3u8
-#EXTINF:-1, ÅmålsSK-NorIKJ23
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5a4068cb2e447d3978f7c/index.m3u8
-#EXTINF:-1, ÖrebroHK-RögleBK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8d2426ec02274f1dfb51a/index.m3u8
-#EXTINF:-1, HammarbyIF-Färjestad
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8d2428cb2e447d39796e0/index.m3u8
-#EXTINF:-1, IFMalmöRedhawks-AIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8d2428cb2e447d39796df/index.m3u8
-#EXTINF:-1, HaningeHC-SödertäljeSK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8d2428cb2e447d39796e2/index.m3u8
-#EXTINF:-1, MontBlanc-Brest
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679c4e4d88a15b56457c82b9/index.m3u8
-#EXTINF:-1, JärnaSK-TullingeTP
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a5a6ab88a15b56457c93df/index.m3u8
 #EXTINF:-1, Dolomites-Bressanone
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773faea840b7877dbe047a1/index.m3u8
 #EXTINF:-1, ValdifiemmeHC-Fassa
