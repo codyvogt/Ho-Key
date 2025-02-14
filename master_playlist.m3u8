@@ -5,6 +5,38 @@ https://media-service.fanreachdata.io/edge/lhjmq/b9f54c08d2bb4a6eb0cf90a5b7adfa3
 https://media-service.fanreachdata.io/edge/lhjmq/7534ef43b96c4b03b6a986e09f6f0b12.m3u8
 #EXTINF:-1, Val-d'Or-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/3ed3fa628b4b47518dd70388452c6574.m3u8
+#EXTINF:-1, Cornell-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Dartmouth-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Princeton-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Harvard-St.Lawrence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Quinnipiac-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Colgate-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, UMass-BostonCollege
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Vermont-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, NewHampshire-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, UML-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, BostonU-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Omaha-WesternMichigan
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8e6b7a7-1121-44c2-ac9c-e213741b7574-hls/master/e8e6b7a7-1121-44c2-ac9c-e213741b7574-hls.m3u8
+#EXTINF:-1, LakeSuperior-FerrisState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, MichiganTech-Augustana
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
+#EXTINF:-1, ASU-MinnesotaDuluth
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/33decf5e-0bcb-4d0a-8cfd-b39b4d8d9bd0-hls/master/33decf5e-0bcb-4d0a-8cfd-b39b4d8d9bd0-hls.m3u8
+#EXTINF:-1, Miami-ColoradoCollege
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/53509c6e-47ac-4f02-b808-f30cc4973845-hls/master/53509c6e-47ac-4f02-b808-f30cc4973845-hls.m3u8
 #EXTINF:-1, Yale-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Brown-Cornell
