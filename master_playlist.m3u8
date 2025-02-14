@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Shawinigan-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/b4ab69ae51d44325948afbcd105ada7f.m3u8
-#EXTINF:-1, CapeBreton-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/81d652e6713b4b8591e17e6818736b38.m3u8
-#EXTINF:-1, Sherbrooke-Charlottetown
-https://media-service.fanreachdata.io/edge/lhjmq/7c47bc92588148528c8d3b103766e418.m3u8
 #EXTINF:-1, Val-d'Or-Blainville-B.
 https://media-service.fanreachdata.io/edge/lhjmq/1e6eff32784a4c59aa2bd7f7bdef3315.m3u8
 #EXTINF:-1, Drummond.-Victoriaville
@@ -17,3 +11,7 @@ https://media-service.fanreachdata.io/edge/ohl/fb0d98d153ec4f1b929fd3434ffaf687.
 https://media-service.fanreachdata.io/edge/ohl/13fb15087ae445f7baadd0c5fa694822.m3u8
 #EXTINF:-1, SarniaSting-Windsor
 https://media-service.fanreachdata.io/edge/ohl/47a5dc26853e482a8e0a63fe5fb99512.m3u8
+#EXTINF:-1, SouthKorea-China
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/536af32d-1300-1abb-1090-9e929a689d46/HLS/variant.m3u8
+#EXTINF:-1, SouthKorea-Kazakhstan
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/c1916110-e8a3-d4f3-dd58-28929ede10a8/HLS/variant.m3u8
