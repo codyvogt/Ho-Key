@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Val-d'Or-Blainville-B.
 https://media-service.fanreachdata.io/edge/lhjmq/1e6eff32784a4c59aa2bd7f7bdef3315.m3u8
-#EXTINF:-1, Drummond.-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/d196f160082841ae9497070a11cd15b1.m3u8
-#EXTINF:-1, London-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/fac4d5297bfd4c018161f6a97c2e4c03.m3u8
-#EXTINF:-1, Brampton-NorthBay
-https://media-service.fanreachdata.io/edge/ohl/fb0d98d153ec4f1b929fd3434ffaf687.m3u8
 #EXTINF:-1, Ottawa-Peterborough
 https://media-service.fanreachdata.io/edge/ohl/13fb15087ae445f7baadd0c5fa694822.m3u8
-#EXTINF:-1, SarniaSting-Windsor
-https://media-service.fanreachdata.io/edge/ohl/47a5dc26853e482a8e0a63fe5fb99512.m3u8
 #EXTINF:-1, SouthKorea-China
 fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/536af32d-1300-1abb-1090-9e929a689d46/HLS/variant.m3u8
 #EXTINF:-1, SouthKorea-Kazakhstan
