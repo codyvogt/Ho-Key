@@ -53,3 +53,19 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinni
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, BostonU-NewHampshire
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Niagara-Brantford
+https://media-service.fanreachdata.io/edge/ohl/b1e68436692e47558e05b89c4d92457d.m3u8
+#EXTINF:-1, Kitchener-Kingston
+https://media-service.fanreachdata.io/edge/ohl/b705220d044147818d76c5be98ff43a3.m3u8
+#EXTINF:-1, Sudbury-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/fd5548e2c4d847e5aa23ab68e7803a5a.m3u8
+#EXTINF:-1, Erie-OwenSoundAttack
+https://media-service.fanreachdata.io/edge/ohl/de710ebe27e44a89a403a0246c6f335d.m3u8
+#EXTINF:-1, SaultSte.Marie-London
+https://media-service.fanreachdata.io/edge/ohl/13fb15087ae445f7baadd0c5fa694822.m3u8
+#EXTINF:-1, Windsor-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/71ade5d2024b4ca4ac8160b1784893ae.m3u8
+#EXTINF:-1, Ottawa-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/52e9445718224c6fbe4a2ba5fee6b16e.m3u8
+#EXTINF:-1, Oshawa-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/33b73b5a84384e98af8c178c6b711eb1.m3u8
