@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Kazakhstan-Japan
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/1516f584-c6d3-cc98-b0b1-0500b6a93103/HLS/variant.m3u8
+#EXTINF:-1, Japan-China
+fluidtv.php?channel=https://cdn-vl-gcp-h-01.vos360.video/Content/LiveEvent/31890a01-0ab9-928c-b47d-9bab27d8949d/HLS/variant.m3u8
