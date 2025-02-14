@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Zürich-Fribourg-Gottéron
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, PorvoonHunters-PEPO
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679c590e88a15b56457c82c6/index.m3u8
+#EXTINF:-1, LahdenPelicans-Ässät
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c590f8cb2e447d3977a99/index.m3u8
+#EXTINF:-1, KalPa-HelsinginJokerit
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679c590f88a15b56457c82e3/index.m3u8
