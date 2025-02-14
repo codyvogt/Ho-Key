@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Zürich-Fribourg-Gottéron
-fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, HerningBlueFox-Aalborg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674862d7d31a43159862ed5b/index.m3u8
-#EXTINF:-1, Roanne-Vaujany
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670b494f6e0aae1e6b070f24/index.m3u8
+#EXTINF:-1, Shawinigan-ABTitan
+https://media-service.fanreachdata.io/edge/lhjmq/b9f54c08d2bb4a6eb0cf90a5b7adfa32.m3u8
+#EXTINF:-1, RNHuskies-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/7534ef43b96c4b03b6a986e09f6f0b12.m3u8
+#EXTINF:-1, Val-d'Or-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/3ed3fa628b4b47518dd70388452c6574.m3u8
