@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Zürich-Fribourg-Gottéron
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, PorvoonHunters-PEPO
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679c590e88a15b56457c82c6/index.m3u8
-#EXTINF:-1, K-EspooCh-K-Vantaa
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679c590f8cb2e447d3977aaf/index.m3u8
-#EXTINF:-1, GrIFK-Karhu-Kissat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c590f8cb2e447d3977ab1/index.m3u8
-#EXTINF:-1, VG-62Naantali-Chiefs
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c590e8cb2e447d3977a7d/index.m3u8
+#EXTINF:-1, HerningBlueFox-Aalborg
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674862d7d31a43159862ed5b/index.m3u8
+#EXTINF:-1, Rungsted-HerlevEagles
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/674862d820730931ae5e6a4d/index.m3u8
+#EXTINF:-1, Roanne-Vaujany
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670b494f6e0aae1e6b070f24/index.m3u8
