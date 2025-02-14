@@ -5,3 +5,19 @@ https://media-service.fanreachdata.io/edge/lhjmq/b9f54c08d2bb4a6eb0cf90a5b7adfa3
 https://media-service.fanreachdata.io/edge/lhjmq/7534ef43b96c4b03b6a986e09f6f0b12.m3u8
 #EXTINF:-1, Val-d'Or-Victoriaville
 https://media-service.fanreachdata.io/edge/lhjmq/3ed3fa628b4b47518dd70388452c6574.m3u8
+#EXTINF:-1, Yale-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Brown-Cornell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, St.Lawrence-Dartmouth
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson-Harvard
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Union-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer-Quinnipiac
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Providence-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, BostonU-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
