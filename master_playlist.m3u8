@@ -3,7 +3,5 @@
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
 #EXTINF:-1, HerningBlueFox-Aalborg
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674862d7d31a43159862ed5b/index.m3u8
-#EXTINF:-1, Rungsted-HerlevEagles
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/674862d820730931ae5e6a4d/index.m3u8
 #EXTINF:-1, Roanne-Vaujany
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/670b494f6e0aae1e6b070f24/index.m3u8
