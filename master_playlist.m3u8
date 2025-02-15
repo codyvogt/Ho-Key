@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Kärpät-VaasanSport
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977d78/index.m3u8
-#EXTINF:-1, MikkelinJukurit-Ässät
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e88a15b56457c8531/index.m3u8
-#EXTINF:-1, TampereenIlves-Lukko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e88a15b56457c854c/index.m3u8
-#EXTINF:-1, JYP-HelsinginJokerit
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e88a15b56457c8534/index.m3u8
-#EXTINF:-1, HIFK-SaimaanPallo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977d70/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-KooKoo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977d5f/index.m3u8
+#EXTINF:-1, Slavia-MountfieldHK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6799e1331785ee27e3fb5b1b/index.m3u8
+#EXTINF:-1, Pardubice-Liberec
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679373e5164bd6649197a1f1/index.m3u8
+#EXTINF:-1, Litvínov-Jihlava
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6762ac648edf8a54162c6feb/index.m3u8
+#EXTINF:-1, Vítkovice-BeraniZlín
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a31bb48cb2e447d3978b9a/index.m3u8
