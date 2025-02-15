@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, ForssanPalloseura-LeKi
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679daa8e88a15b56457c84d1/index.m3u8
 #EXTINF:-1, FrölundaHC-Djurgården
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a850b28cb2e447d397965e/index.m3u8
-#EXTINF:-1, FärjestadBK-Hammarby
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8d2426ec02274f1dfb51c/index.m3u8
-#EXTINF:-1, AIK-MalmöRedhawks
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8d2428cb2e447d39796e9/index.m3u8
