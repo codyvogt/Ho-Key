@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, RNHuskies-Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/9fb66cb792004178a372e0a464a51b5f.m3u8
+#EXTINF:-1, Chicoutimi-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/88b4083a31dd4fce94c9933686f2753d.m3u8
+#EXTINF:-1, Gatineau-Blainville-B.
+https://media-service.fanreachdata.io/edge/lhjmq/03c6980907d747af953e0eaab0100a77.m3u8
+#EXTINF:-1, Halifax-Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/e13f2b9d537d406a83f9b81b30d27997.m3u8
+#EXTINF:-1, Sherbrooke-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/5d6933bd9f9c46dc8855d1f20efd1e4a.m3u8
 #EXTINF:-1, Harvard-Clarkson
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Princeton-Union
@@ -33,16 +43,6 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c7fe782-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls/master/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls.m3u8
 #EXTINF:-1, Miami-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cc14a934-aa94-4462-bf14-e759bf3fb552-hls/master/cc14a934-aa94-4462-bf14-e759bf3fb552-hls.m3u8
-#EXTINF:-1, RNHuskies-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/9fb66cb792004178a372e0a464a51b5f.m3u8
-#EXTINF:-1, Chicoutimi-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/88b4083a31dd4fce94c9933686f2753d.m3u8
-#EXTINF:-1, Gatineau-Blainville-B.
-https://media-service.fanreachdata.io/edge/lhjmq/03c6980907d747af953e0eaab0100a77.m3u8
-#EXTINF:-1, Halifax-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/e13f2b9d537d406a83f9b81b30d27997.m3u8
-#EXTINF:-1, Sherbrooke-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/5d6933bd9f9c46dc8855d1f20efd1e4a.m3u8
 #EXTINF:-1, UNH-BostonUniversity
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Vermont-HolyCross
