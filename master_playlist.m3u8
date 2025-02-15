@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1, SVKaltern-Alleghe
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773faec840b7877dbe047a5/index.m3u8
+#EXTINF:-1, LiègeBulldogs-Neuwied
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679f42258cb2e447d3978400/index.m3u8
+#EXTINF:-1, LeuvenChiefs-HYC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f42268cb2e447d3978402/index.m3u8
+#EXTINF:-1, Heerenveen-HijsHokij
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f422688a15b56457c8a95/index.m3u8
 #EXTINF:-1, HCAosta-HCFeltre
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773faed5969d50f88789695/index.m3u8
 #EXTINF:-1, FassaFalcons-Como
@@ -9,12 +13,6 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faee840b7877dbe047a9/index.m3u8
 #EXTINF:-1, Valpellice-Pergine
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773faef840b7877dbe047ab/index.m3u8
-#EXTINF:-1, LiègeBulldogs-Neuwied
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679f42258cb2e447d3978400/index.m3u8
-#EXTINF:-1, LeuvenChiefs-HYC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f42268cb2e447d3978402/index.m3u8
-#EXTINF:-1, Heerenveen-HijsHokij
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f422688a15b56457c8a95/index.m3u8
 #EXTINF:-1, Shawinigan-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/35d9dd63743b4d52a26c645887ead0d1.m3u8
 #EXTINF:-1, RNHuskies-Baie-Comeau
