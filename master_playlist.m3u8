@@ -99,3 +99,37 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c7fe782-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls/master/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls.m3u8
 #EXTINF:-1, Miami-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cc14a934-aa94-4462-bf14-e759bf3fb552-hls/master/cc14a934-aa94-4462-bf14-e759bf3fb552-hls.m3u8
+#EXTINF:-1, Erie-OwenSoundAttack
+https://media-service.fanreachdata.io/edge/ohl/26fbbfd2a975410b981c27624053e671.m3u8
+#EXTINF:-1, Guelph-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/3410678163db4c2083b00a6b31d0fb83.m3u8
+#EXTINF:-1, Brampton-Oshawa
+https://media-service.fanreachdata.io/edge/ohl/f8d005d44a2e44d7833b18cb2fe45143.m3u8
+#EXTINF:-1, Kingston-Peterborough
+https://media-service.fanreachdata.io/edge/ohl/6566f961ac7f42b39d0873a849626d74.m3u8
+#EXTINF:-1, SaultSte.Marie-Sarnia
+https://media-service.fanreachdata.io/edge/ohl/acd47258280a4d95ad69b5ef750b4572.m3u8
+#EXTINF:-1, Sudbury-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/4fc54ad3d7bd41b4a36417199f7a1758.m3u8
+#EXTINF:-1, NorthBay-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/fd325ef1f997402d8b3070981274f21a.m3u8
+#EXTINF:-1, Saskatoon-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/46f74014ce7e4dea8ca751c23448cb68.m3u8
+#EXTINF:-1, MooseJaw-Brandon
+https://media-service.fanreachdata.io/edge/whl/e3d1f2da276c44ca821bc893ee2c3fc6.m3u8
+#EXTINF:-1, Calgary-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/f4c4db278ea74475a67e05dfb80c1225.m3u8
+#EXTINF:-1, Regina-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/2f9a200aa5264ef5bd6d433670ee53b8.m3u8
+#EXTINF:-1, Everett-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/56a9b89220674cea87d6accf806ba409.m3u8
+#EXTINF:-1, Lethbridge-Edmonton
+https://media-service.fanreachdata.io/edge/whl/41631576f40a4aa6b6f559c00d9cbf72.m3u8
+#EXTINF:-1, Tri-City-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/75cd7b200b5e452287815f1d206e3041.m3u8
+#EXTINF:-1, Kamloops-Kelowna
+https://media-service.fanreachdata.io/edge/whl/c36ae8acff7048448878ee4265395830.m3u8
+#EXTINF:-1, Portland-Seattle
+https://media-service.fanreachdata.io/edge/whl/9e97604ee37a494ca3ea94d8eb45063d.m3u8
+#EXTINF:-1, Victoria-Vancouver
+https://media-service.fanreachdata.io/edge/whl/4b9129c4d6204e00be1e51ac597f7006.m3u8
