@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, SpartakMoscow-Torpedo
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Pardubice-Liberec
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679373e5164bd6649197a1f1/index.m3u8
 #EXTINF:-1, Litvínov-Jihlava
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6762ac648edf8a54162c6feb/index.m3u8
 #EXTINF:-1, Vítkovice-BeraniZlín
