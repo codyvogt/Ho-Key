@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, RNHuskies-Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/9fb66cb792004178a372e0a464a51b5f.m3u8
 #EXTINF:-1, Chicoutimi-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/88b4083a31dd4fce94c9933686f2753d.m3u8
 #EXTINF:-1, Gatineau-Blainville-B.
@@ -53,6 +51,8 @@ https://media-service.fanreachdata.io/edge/ohl/acd47258280a4d95ad69b5ef750b4572.
 https://media-service.fanreachdata.io/edge/ohl/4fc54ad3d7bd41b4a36417199f7a1758.m3u8
 #EXTINF:-1, NorthBay-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/fd325ef1f997402d8b3070981274f21a.m3u8
+#EXTINF:-1, Muskegon-USNTDPU17
+fluidtv.php?channel=https://d2i1sibtdpwjml.cloudfront.net/5b2a1a8d4b7a0ccce1d2667b793959e2/0_hd_hls.m3u8
 #EXTINF:-1, Vermont-HolyCross
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Saskatoon-SwiftCurrent
