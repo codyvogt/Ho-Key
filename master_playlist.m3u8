@@ -1,29 +1,11 @@
 #EXTM3U
 #EXTINF:-1, SpartakMoscow-Torpedo
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, HIFK-SaimaanPallo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977d70/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-KooKoo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977d5f/index.m3u8
-#EXTINF:-1, IFBjörklöven-LuleåHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a846268cb2e447d39795c9/index.m3u8
-#EXTINF:-1, RögleBK-FärjestadBK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a851918cb2e447d397966e/index.m3u8
-#EXTINF:-1, MoraIK-LinköpingHC
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a84b6d8cb2e447d397960c/index.m3u8
 #EXTINF:-1, LeksandsIF-HV71
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a849a988a15b56457c99e6/index.m3u8
 #EXTINF:-1, FrölundaHC-Djurgården
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a850b28cb2e447d397965e/index.m3u8
-#EXTINF:-1, JHT-Raahe-Kiekko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977ce0/index.m3u8
-#EXTINF:-1, MUIK-LiikunnanRiemu
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e88a15b56457c84c6/index.m3u8
-#EXTINF:-1, SaPKo-NokianPyry
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679daa8e8cb2e447d3977ce3/index.m3u8
 #EXTINF:-1, ForssanPalloseura-LeKi
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679daa8e88a15b56457c84d1/index.m3u8
 #EXTINF:-1, LapuanVirkiä-Titaanit
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679daa8e8cb2e447d3977cf3/index.m3u8
-#EXTINF:-1, HCEverest-Välk494
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679e2a10972ad245465e6f10/index.m3u8
