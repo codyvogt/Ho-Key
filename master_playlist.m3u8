@@ -11,20 +11,6 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faee840b7877dbe047a9/index.m3u8
 #EXTINF:-1, Valpellice-Pergine
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773faef840b7877dbe047ab/index.m3u8
-#EXTINF:-1, Valenciennes-Mont-Blanc
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d8cb2e447d3977fb3/index.m3u8
-#EXTINF:-1, Meudon-Morzine-Avoriaz
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d88a15b56457c879c/index.m3u8
-#EXTINF:-1, Chambéry-Neuilly
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679ef14d88a15b56457c8794/index.m3u8
-#EXTINF:-1, Tours-Strasbourg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679ef14d8cb2e447d3977fb7/index.m3u8
-#EXTINF:-1, DogsdeCholet-Nantes
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679ef14d88a15b56457c8790/index.m3u8
-#EXTINF:-1, Villard-de-Lans-Épinal
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679ef14d88a15b56457c8798/index.m3u8
-#EXTINF:-1, Caen-Dunkerque
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d88a15b56457c879e/index.m3u8
 #EXTINF:-1, Vaujany-Clermont-Ferrand
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14c8cb2e447d3977f9d/index.m3u8
 #EXTINF:-1, Maine-Merrimack
@@ -99,6 +85,18 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c7fe782-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls/master/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls.m3u8
 #EXTINF:-1, Miami-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cc14a934-aa94-4462-bf14-e759bf3fb552-hls/master/cc14a934-aa94-4462-bf14-e759bf3fb552-hls.m3u8
+#EXTINF:-1, Meudon-Morzine-Avoriaz
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d88a15b56457c879c/index.m3u8
+#EXTINF:-1, Chambéry-Neuilly
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679ef14d88a15b56457c8794/index.m3u8
+#EXTINF:-1, Tours-Strasbourg
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679ef14d8cb2e447d3977fb7/index.m3u8
+#EXTINF:-1, DogsdeCholet-Nantes
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679ef14d88a15b56457c8790/index.m3u8
+#EXTINF:-1, Villard-de-Lans-Épinal
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679ef14d88a15b56457c8798/index.m3u8
+#EXTINF:-1, Caen-Dunkerque
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d88a15b56457c879e/index.m3u8
 #EXTINF:-1, Erie-OwenSoundAttack
 https://media-service.fanreachdata.io/edge/ohl/26fbbfd2a975410b981c27624053e671.m3u8
 #EXTINF:-1, Guelph-FlintFirebirds
