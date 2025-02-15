@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1, SpartakMoscow-Torpedo
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, MalmöRedhawks-Timrå
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a84fd288a15b56457c9a3a/index.m3u8
-#EXTINF:-1, AIK-BrynäsIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a84d2d8cb2e447d397962e/index.m3u8
-#EXTINF:-1, IFBjörklöven-LuleåHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a846268cb2e447d39795c9/index.m3u8
-#EXTINF:-1, RögleBK-FärjestadBK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a851918cb2e447d397966e/index.m3u8
-#EXTINF:-1, MoraIK-LinköpingHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a84b6d8cb2e447d397960c/index.m3u8
-#EXTINF:-1, LeksandsIF-HV71
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a849a988a15b56457c99e6/index.m3u8
-#EXTINF:-1, FrölundaHC-Djurgården
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a850b28cb2e447d397965e/index.m3u8
 #EXTINF:-1, Pardubice-Liberec
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679373e5164bd6649197a1f1/index.m3u8
 #EXTINF:-1, Litvínov-Jihlava
