@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Heerenveen-HijsHokij
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f422688a15b56457c8a95/index.m3u8
-#EXTINF:-1, Villard-de-Lans-Épinal
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679ef14d88a15b56457c8798/index.m3u8
-#EXTINF:-1, Caen-Dunkerque
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d88a15b56457c879e/index.m3u8
 #EXTINF:-1, Brown-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Yale-Cornell
