@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HCAosta-HCFeltre
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773faed5969d50f88789695/index.m3u8
-#EXTINF:-1, FassaFalcons-Como
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773faed840b7877dbe047a7/index.m3u8
-#EXTINF:-1, Valdifiemme-Dolomites
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faee840b7877dbe047a9/index.m3u8
-#EXTINF:-1, Valpellice-Pergine
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773faef840b7877dbe047ab/index.m3u8
 #EXTINF:-1, Shawinigan-SaintJohn
 https://media-service.fanreachdata.io/edge/lhjmq/35d9dd63743b4d52a26c645887ead0d1.m3u8
 #EXTINF:-1, RNHuskies-Baie-Comeau
@@ -19,6 +11,18 @@ https://media-service.fanreachdata.io/edge/lhjmq/03c6980907d747af953e0eaab0100a7
 https://media-service.fanreachdata.io/edge/lhjmq/e13f2b9d537d406a83f9b81b30d27997.m3u8
 #EXTINF:-1, Sherbrooke-CapeBreton
 https://media-service.fanreachdata.io/edge/lhjmq/5d6933bd9f9c46dc8855d1f20efd1e4a.m3u8
+#EXTINF:-1, Heerenveen-HijsHokij
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f422688a15b56457c8a95/index.m3u8
+#EXTINF:-1, Villard-de-Lans-Épinal
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679ef14d88a15b56457c8798/index.m3u8
+#EXTINF:-1, Caen-Dunkerque
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d88a15b56457c879e/index.m3u8
+#EXTINF:-1, FassaFalcons-Como
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773faed840b7877dbe047a7/index.m3u8
+#EXTINF:-1, Valdifiemme-Dolomites
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faee840b7877dbe047a9/index.m3u8
+#EXTINF:-1, Valpellice-Pergine
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773faef840b7877dbe047ab/index.m3u8
 #EXTINF:-1, Brown-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Yale-Cornell
@@ -37,12 +41,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/provid
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Vermont-HolyCross
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, Heerenveen-HijsHokij
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f422688a15b56457c8a95/index.m3u8
-#EXTINF:-1, Villard-de-Lans-Épinal
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/679ef14d88a15b56457c8798/index.m3u8
-#EXTINF:-1, Caen-Dunkerque
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679ef14d88a15b56457c879e/index.m3u8
 #EXTINF:-1, Harvard-Clarkson
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Princeton-Union
