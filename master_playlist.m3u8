@@ -9,8 +9,6 @@ https://media-service.fanreachdata.io/edge/lhjmq/03c6980907d747af953e0eaab0100a7
 https://media-service.fanreachdata.io/edge/lhjmq/e13f2b9d537d406a83f9b81b30d27997.m3u8
 #EXTINF:-1, Sherbrooke-CapeBreton
 https://media-service.fanreachdata.io/edge/lhjmq/5d6933bd9f9c46dc8855d1f20efd1e4a.m3u8
-#EXTINF:-1, Harvard-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Princeton-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Omaha-WesternMichigan
@@ -43,14 +41,8 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c7fe782-
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls/master/fc623e7e-263e-46fe-b27f-8497ea827d2e-hls.m3u8
 #EXTINF:-1, Miami-ColoradoCollege
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cc14a934-aa94-4462-bf14-e759bf3fb552-hls/master/cc14a934-aa94-4462-bf14-e759bf3fb552-hls.m3u8
-#EXTINF:-1, UNH-BostonUniversity
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Vermont-HolyCross
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Erie-OwenSoundAttack
 https://media-service.fanreachdata.io/edge/ohl/26fbbfd2a975410b981c27624053e671.m3u8
-#EXTINF:-1, Guelph-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/3410678163db4c2083b00a6b31d0fb83.m3u8
 #EXTINF:-1, Brampton-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/f8d005d44a2e44d7833b18cb2fe45143.m3u8
 #EXTINF:-1, Kingston-Peterborough
@@ -61,6 +53,8 @@ https://media-service.fanreachdata.io/edge/ohl/acd47258280a4d95ad69b5ef750b4572.
 https://media-service.fanreachdata.io/edge/ohl/4fc54ad3d7bd41b4a36417199f7a1758.m3u8
 #EXTINF:-1, NorthBay-BarrieColts
 https://media-service.fanreachdata.io/edge/ohl/fd325ef1f997402d8b3070981274f21a.m3u8
+#EXTINF:-1, Vermont-HolyCross
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Saskatoon-SwiftCurrent
 https://media-service.fanreachdata.io/edge/whl/46f74014ce7e4dea8ca751c23448cb68.m3u8
 #EXTINF:-1, MooseJaw-Brandon
