@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1, MikkelinJukurit-Ässät
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e88a15b56457c8531/index.m3u8
-#EXTINF:-1, TampereenIlves-Lukko
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e88a15b56457c854c/index.m3u8
-#EXTINF:-1, JYP-HelsinginJokerit
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e88a15b56457c8534/index.m3u8
-#EXTINF:-1, HIFK-SaimaanPallo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977d70/index.m3u8
-#EXTINF:-1, Kiekko-Espoo-KooKoo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679daa8e8cb2e447d3977d5f/index.m3u8
+#EXTINF:-1, SpartakMoscow-Torpedo
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, VästeråsIK-AlmtunaIS
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a84c4d8cb2e447d3979620/index.m3u8
 #EXTINF:-1, ÖrebroHK-Södertälje
