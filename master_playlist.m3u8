@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1, AvangardOmsk-AkBars
+fluidtv.php?channel=https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Kurbads/Lauvas-Lietuva
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67865f58622f80735a0232f7/index.m3u8
