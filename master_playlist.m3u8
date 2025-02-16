@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, KålleredSK-HärrydaHC
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a99b2a8cb2e447d3979947/index.m3u8
-#EXTINF:-1, StenungsundHF-Varberg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a99ead8cb2e447d397998a/index.m3u8
-#EXTINF:-1, TAIFLöfstad-Töreboda
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a9a15188a15b56457c9d87/index.m3u8
-#EXTINF:-1, SkillingarydsIS-Lerum
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9899488a15b56457c9bb9/index.m3u8
-#EXTINF:-1, NováPaka-Královén.L.
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ad8b8ff2a0db77fccba508/index.m3u8
-#EXTINF:-1, LiberecB-HCFrýdlant
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ac3a0f8cb2e447d3979cb2/index.m3u8
-#EXTINF:-1, VitaHästen-KallhällsIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9950388a15b56457c9c4f/index.m3u8
-#EXTINF:-1, JärnaSK-SollentunaHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a99b2a8cb2e447d3979943/index.m3u8
 #EXTINF:-1, Amiens-Hormadid'Anglet
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a042cd88a15b56457c8c37.m3u8
 #EXTINF:-1, Cergy-Pontoise-Caen
