@@ -1,21 +1,39 @@
 #EXTM3U
-#EXTINF:-1, MoDoHockey-LuleåHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a99c0b8cb2e447d3979956/index.m3u8
-#EXTINF:-1, FrölundaHC-FärjestadBK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9a23288a15b56457c9d91/index.m3u8
-#EXTINF:-1, Ducsd'Angers-Grenoble
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a042cc88a15b56457c8c33.m3u8
+#EXTINF:-1, LN70HC-Valdemarsvik
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a987d288a15b56457c9ba9/index.m3u8
+#EXTINF:-1, KålleredSK-HärrydaHC
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a99b2a8cb2e447d3979947/index.m3u8
+#EXTINF:-1, StenungsundHF-Varberg
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a99ead8cb2e447d397998a/index.m3u8
+#EXTINF:-1, TAIFLöfstad-Töreboda
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a9a15188a15b56457c9d87/index.m3u8
+#EXTINF:-1, SkillingarydsIS-Lerum
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9899488a15b56457c9bb9/index.m3u8
+#EXTINF:-1, NováPaka-Královén.L.
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ad8b8ff2a0db77fccba508/index.m3u8
+#EXTINF:-1, LiberecB-HCFrýdlant
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ac3a0f8cb2e447d3979cb2/index.m3u8
+#EXTINF:-1, VitaHästen-KallhällsIF
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9950388a15b56457c9c4f/index.m3u8
+#EXTINF:-1, JärnaSK-SollentunaHC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a99b2a8cb2e447d3979943/index.m3u8
 #EXTINF:-1, Amiens-Hormadid'Anglet
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a042cd88a15b56457c8c37.m3u8
 #EXTINF:-1, Cergy-Pontoise-Caen
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a042cc88a15b56457c8c31.m3u8
 #EXTINF:-1, Villard-de-Lans-Gap
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a042cc88a15b56457c8c2f/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a042cc88a15b56457c8c2f/index.m3u8
 #EXTINF:-1, HC74-DragonsdeRouen
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a042cd88a15b56457c8c3d/index.m3u8
-#EXTINF:-1, PEPOHC-NokianPyry
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679efc0e88a15b56457c87df/index.m3u8
-#EXTINF:-1, Šumperk-TechnikaBrno
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a0a2dc8cb2e447d39788b7/index.m3u8
+#EXTINF:-1, Aosta-Brixen/Wipptal
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404765969d50f887896d9/index.m3u8
+#EXTINF:-1, Juniorteams-Asiago
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677404775969d50f887896db/index.m3u8
+#EXTINF:-1, Valpellice-HCBFoxes
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404755969d50f887896d5/index.m3u8
+#EXTINF:-1, Cortina/Alleghe-Eppan
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740474840b7877dbe047dd/index.m3u8
+#EXTINF:-1, HockeyPergine-HCTrento
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740478840b7877dbe047df/index.m3u8
 #EXTINF:-1, KrálovéPísek-Chomutov
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6790ecfd164bd66491979d8d/index.m3u8
