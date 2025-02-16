@@ -1,1 +1,17 @@
 #EXTM3U
+#EXTINF:-1, Saskatoon-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/46f74014ce7e4dea8ca751c23448cb68.m3u8
+#EXTINF:-1, Regina-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/2f9a200aa5264ef5bd6d433670ee53b8.m3u8
+#EXTINF:-1, Everett-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/56a9b89220674cea87d6accf806ba409.m3u8
+#EXTINF:-1, Lethbridge-Edmonton
+https://media-service.fanreachdata.io/edge/whl/41631576f40a4aa6b6f559c00d9cbf72.m3u8
+#EXTINF:-1, Tri-City-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/75cd7b200b5e452287815f1d206e3041.m3u8
+#EXTINF:-1, Kamloops-Kelowna
+https://media-service.fanreachdata.io/edge/whl/c36ae8acff7048448878ee4265395830.m3u8
+#EXTINF:-1, Portland-Seattle
+https://media-service.fanreachdata.io/edge/whl/9e97604ee37a494ca3ea94d8eb45063d.m3u8
+#EXTINF:-1, Victoria-Vancouver
+https://media-service.fanreachdata.io/edge/whl/4b9129c4d6204e00be1e51ac597f7006.m3u8
