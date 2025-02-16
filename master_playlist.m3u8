@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Cortina/Alleghe-Eppan
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740474840b7877dbe047dd/index.m3u8
-#EXTINF:-1, HockeyPergine-HCTrento
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740478840b7877dbe047df/index.m3u8
-#EXTINF:-1, HCVimperk-Strakonice
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9971588a15b56457c9c7e/index.m3u8
-#EXTINF:-1, GepardiJablonec-Vlci
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66d2ead681867931f3c4ccb4/index.m3u8
 #EXTINF:-1, LiberecB-HCFrýdlant
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ac3a0f8cb2e447d3979cb2/index.m3u8
 #EXTINF:-1, Zoldo-TrentinoWomen
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a09b9c8cb2e447d39788a0/index.m3u8
+#EXTINF:-1, HockeyPergine-HCTrento
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740478840b7877dbe047df/index.m3u8
+#EXTINF:-1, GepardiJablonec-Vlci
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66d2ead681867931f3c4ccb4/index.m3u8
 #EXTINF:-1, Hawks-OKKTankki
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679efc0f88a15b56457c8835/index.m3u8
 #EXTINF:-1, ESVBurgau-EVMoosburg
