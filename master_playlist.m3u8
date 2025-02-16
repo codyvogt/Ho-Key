@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, LN70HC-Valdemarsvik
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a987d288a15b56457c9ba9/index.m3u8
 #EXTINF:-1, KålleredSK-HärrydaHC
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a99b2a8cb2e447d3979947/index.m3u8
 #EXTINF:-1, StenungsundHF-Varberg
