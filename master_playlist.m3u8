@@ -1,5 +1,27 @@
 #EXTM3U
-#EXTINF:-1, Limburg-Heerenveen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a093a48cb2e447d3978868/index.m3u8
+#EXTINF:-1, AvestaBK-Kvarnsveden
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679f100a8cb2e447d3978306/index.m3u8
 #EXTINF:-1, HYCHerentals-Mechelen
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a093a588a15b56457c8e9f/index.m3u8
+#EXTINF:-1, Chtown-Acadie-Bathurst
+https://media-service.fanreachdata.io/edge/lhjmq/8e0d238119244040a95900201e4bc100.m3u8
+#EXTINF:-1, Chicoutimi-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/b76eb4c108ac491583f3ef3f06fd7f98.m3u8
+#EXTINF:-1, Blainville-Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/cef8fde36b0b4ae285fcf0ce838651c8.m3u8
+#EXTINF:-1, Québec-Victoriaville
+https://media-service.fanreachdata.io/edge/lhjmq/0feaf1a0021d462cbbaa3eb49d4fd977.m3u8
+#EXTINF:-1, Kitchener-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/d2f8fb6a8a58443497c32a5bf1661526.m3u8
+#EXTINF:-1, Brantford-Niagara
+https://media-service.fanreachdata.io/edge/ohl/ccc85ef62e5742be8c39b52021f2aadd.m3u8
+#EXTINF:-1, ÅbyHC-DuellsPHK
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a057de8cb2e447d397867b/index.m3u8
+#EXTINF:-1, BostonC-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Vermont-HolyCross
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Näädät-HCKSalamat
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679efc0f8cb2e447d39780a2/index.m3u8
+#EXTINF:-1, Seattle-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/aa8a3017e5894501b7b117ef6089eee7.m3u8
