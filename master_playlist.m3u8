@@ -13,3 +13,7 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a99c0b8cb2e447d3979956/index.m3u8
 #EXTINF:-1, FrölundaHC-FärjestadBK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9a23288a15b56457c9d91/index.m3u8
+#EXTINF:-1, FrederikshavnII-Gladsaxe
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674861cb20730931ae5e69c9/index.m3u8
+#EXTINF:-1, AalborgII-HerlevII
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674861cc20730931ae5e69cd/index.m3u8
