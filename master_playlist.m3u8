@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1, Amiens-Hormadid'Anglet
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a042cd88a15b56457c8c37.m3u8
 #EXTINF:-1, Cergy-Pontoise-Caen
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a042cc88a15b56457c8c31.m3u8
 #EXTINF:-1, Villard-de-Lans-Gap
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a042cc88a15b56457c8c2f/index.m3u8
 #EXTINF:-1, HC74-DragonsdeRouen
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a042cd88a15b56457c8c3d/index.m3u8
-#EXTINF:-1, Aosta-Brixen/Wipptal
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404765969d50f887896d9/index.m3u8
-#EXTINF:-1, Juniorteams-Asiago
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677404775969d50f887896db/index.m3u8
-#EXTINF:-1, Valpellice-HCBFoxes
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404755969d50f887896d5/index.m3u8
+#EXTINF:-1, PorvoonHunters-HYRI
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679efc0e8cb2e447d397804e/index.m3u8
 #EXTINF:-1, Cortina/Alleghe-Eppan
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740474840b7877dbe047dd/index.m3u8
 #EXTINF:-1, HockeyPergine-HCTrento
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740478840b7877dbe047df/index.m3u8
-#EXTINF:-1, KrálovéPísek-Chomutov
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6790ecfd164bd66491979d8d/index.m3u8
+#EXTINF:-1, HCVimperk-Strakonice
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9971588a15b56457c9c7e/index.m3u8
+#EXTINF:-1, Chrudim-OrliLanškroun
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679c76288cb2e447d3977b3e/index.m3u8
+#EXTINF:-1, GepardiJablonec-Vlci
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66d2ead681867931f3c4ccb4/index.m3u8
+#EXTINF:-1, LiberecB-HCFrýdlant
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ac3a0f8cb2e447d3979cb2/index.m3u8
+#EXTINF:-1, Zoldo-TrentinoWomen
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a09b9c8cb2e447d39788a0/index.m3u8
