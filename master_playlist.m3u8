@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Kitchener-Peterborough
 https://media-service.fanreachdata.io/edge/ohl/b7de1ddd4f064ec599cf937ec9ef8524.m3u8
-#EXTINF:-1, Cergy-Pontoise-Amiens
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6787364e622f80735a0233ce.m3u8
-#EXTINF:-1, PrinceAlbert-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/19c948c1201947eab19ebb8ce916c1c6.m3u8
 #EXTINF:-1, Lethbridge-MedicineHat
 https://media-service.fanreachdata.io/edge/whl/072cb6cd1744483e97a0e206211a47c1.m3u8
 #EXTINF:-1, Edmonton-RedDeer
