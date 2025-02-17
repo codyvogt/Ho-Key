@@ -1,11 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Chicoutimi-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/b76eb4c108ac491583f3ef3f06fd7f98.m3u8
-#EXTINF:-1, Blainville-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/cef8fde36b0b4ae285fcf0ce838651c8.m3u8
-#EXTINF:-1, Québec-Victoriaville
-https://media-service.fanreachdata.io/edge/lhjmq/0feaf1a0021d462cbbaa3eb49d4fd977.m3u8
-#EXTINF:-1, Vermont-HolyCross
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, Seattle-WenatcheeWild
-https://media-service.fanreachdata.io/edge/whl/aa8a3017e5894501b7b117ef6089eee7.m3u8
