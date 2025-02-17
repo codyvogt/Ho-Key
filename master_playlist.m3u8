@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1, CapeBreton-SaintJohn
-https://media-service.fanreachdata.io/edge/lhjmq/eacc648935da44ce9c38334c3b3cc9d5.m3u8
-#EXTINF:-1, SaultSte.Marie-Brantford
-https://media-service.fanreachdata.io/edge/ohl/2d1e0dc711cf47df898321d8c1077a25.m3u8
-#EXTINF:-1, Niagara-Brampton
-https://media-service.fanreachdata.io/edge/ohl/dd431ba26930477fbbee4e1f7cc9213f.m3u8
-#EXTINF:-1, Erie-OshawaGenerals
-https://media-service.fanreachdata.io/edge/ohl/c7c0df180485416980fa9dc239b8a3f1.m3u8
 #EXTINF:-1, Kitchener-Peterborough
 https://media-service.fanreachdata.io/edge/ohl/b7de1ddd4f064ec599cf937ec9ef8524.m3u8
-#EXTINF:-1, OwenSound-Windsor
-https://media-service.fanreachdata.io/edge/ohl/eca56654399340829c631c731b348796.m3u8
-#EXTINF:-1, Sudbury-GuelphStorm
-https://media-service.fanreachdata.io/edge/ohl/58e29ba33129447ebe345ef19ceda05f.m3u8
 #EXTINF:-1, Cergy-Pontoise-Amiens
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6787364e622f80735a0233ce.m3u8
 #EXTINF:-1, PrinceAlbert-MooseJaw
@@ -35,5 +23,3 @@ https://media-service.fanreachdata.io/edge/whl/b7399debc235446db2374ff6d15849dd.
 https://media-service.fanreachdata.io/edge/whl/cc80d27788214472831498b13e640461.m3u8
 #EXTINF:-1, Everett-VictoriaRoyals
 https://media-service.fanreachdata.io/edge/whl/e6009d2683ce4d488bd2da98c80481b8.m3u8
-#EXTINF:-1, HCLudwigVantaa-PUS
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a04d8e8cb2e447d39785d5/index.m3u8
