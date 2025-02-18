@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SpokaneChiefs-Kamloops
-https://media-service.fanreachdata.io/edge/whl/1b228977bd7b406db1f4edd79535791a.m3u8
-#EXTINF:-1, Brandon-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/a309c7b02d7844da9a45508b2a87b70e.m3u8
-#EXTINF:-1, PrinceGeorge-Vancouver
-https://media-service.fanreachdata.io/edge/whl/6ddfe4cfd8af481d84f848c88d3cf399.m3u8
-#EXTINF:-1, Tri-City-KelownaRockets
-https://media-service.fanreachdata.io/edge/whl/9c50c2ab62ca46ae8d1cf4cab41b0a80.m3u8
 #EXTINF:-1, Seattle-Portland
 https://media-service.fanreachdata.io/edge/whl/b7399debc235446db2374ff6d15849dd.m3u8
 #EXTINF:-1, Calgary-SwiftCurrent
