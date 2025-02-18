@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Örnen/ÖrebroHU-Pickels
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67384ba4a55a234fbca86282/index.m3u8
-#EXTINF:-1, HässelbyKälvesta-Boo
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b2cbfcf9027e70b34337e1/index.m3u8
-#EXTINF:-1, SegeltorpsIF-SpångaIS
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ac39c488a15b56457c9fe0/index.m3u8
-#EXTINF:-1, UmeåDragons-Vindeln
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ac30fa88a15b56457c9fbc/index.m3u8
 #EXTINF:-1, VännäsHC-Vilhelmina
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ac355e8cb2e447d3979c97/index.m3u8
 #EXTINF:-1, Chamonix-Grenoble
