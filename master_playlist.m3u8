@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Herning-OdenseBulldogs
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674862d9d31a43159862ed5f/index.m3u8
 #EXTINF:-1, NorrtäljeIK-Linden
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b066cdf2a0db77fccbab71/index.m3u8
 #EXTINF:-1, HaningeAnchors-Spånga
