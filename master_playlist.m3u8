@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1, Briançon-Amiens
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6791c24d5fe3d9289f89d954.m3u8
+#EXTINF:-1, RapacesdeGap-Angers
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6791c24e5fe3d9289f89d958.m3u8
+#EXTINF:-1, Cergy-Pontoise-Rouen
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6791c24d5fe3d9289f89d950.m3u8
+#EXTINF:-1, Anglet-Marseille
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791c24d5fe3d9289f89d952.m3u8
+#EXTINF:-1, Como-ValpelliceBulldogs
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6773faf05969d50f88789697/index.m3u8
