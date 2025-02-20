@@ -1,28 +1,10 @@
 #EXTM3U
-#EXTINF:-1, VästeråsIK-ÖrebroHK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aee3cff2a0db77fccba7d2/index.m3u8
-#EXTINF:-1, SkellefteåAIK-IFMalmö
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d76bf2a0db77fccbb1b1/index.m3u8
-#EXTINF:-1, Linden-NorrtäljeIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b066cdf2a0db77fccbab74/index.m3u8
-#EXTINF:-1, Spånga-HaningeAnchors
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b066cdf2a0db77fccbab73/index.m3u8
+#EXTINF:-1, MightyRavens-Finspång
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67aee831f2a0db77fccba7e4/index.m3u8
 #EXTINF:-1, Segeltorp-GötaTraneberg
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b066cdf2a0db77fccbab78/index.m3u8
 #EXTINF:-1, HammarbyIF-VärmdöHC
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b066cdf2a0db77fccbab75/index.m3u8
-#EXTINF:-1, SkillingarydsIS-Ronneby
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5951488a15b56457c93b1/index.m3u8
-#EXTINF:-1, LenhovdaIF-Virserum
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aed156f9027e70b3432f0b/index.m3u8
-#EXTINF:-1, MightyRavens-Finspång
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67aee831f2a0db77fccba7e4/index.m3u8
-#EXTINF:-1, VikingHC-NorIKJ23
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/675a8c93a83d4f176bc9d809/index.m3u8
-#EXTINF:-1, KålleredSK-LerumsBK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aee129f9027e70b3432f51/index.m3u8
-#EXTINF:-1, IFMalmö-SödertäljeSK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b2d18ff9027e70b3433855/index.m3u8
 #EXTINF:-1, OdenseIK-Hvidovre
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66f68ada3bd78e5d711b482d/index.m3u8
 #EXTINF:-1, EVUTeam2-Hawks
