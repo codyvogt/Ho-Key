@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Liberec-KometaBrno
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6786610595b6797c4f0c0895/index.m3u8
+#EXTINF:-1, HCTurnov-HCFrýdlant
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2edb8f9027e70b343399e/index.m3u8
+#EXTINF:-1, DraciBílina-SlovanLouny
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ac643e88a15b56457ca080/index.m3u8
+#EXTINF:-1, NokianPyry-FPS
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a4420e8cb2e447d3978d49/index.m3u8
+#EXTINF:-1, PEPO-KotkanTitaanit
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a4420e8cb2e447d3978d4b/index.m3u8
+#EXTINF:-1, KarlovyVary-Ml.Boleslav
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6785fe8d95b6797c4f0c07aa/index.m3u8
+#EXTINF:-1, SpartaPraha-Pardubice
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6791dc15164bd66491979ecb/index.m3u8
