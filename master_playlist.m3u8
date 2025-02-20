@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1, Barys-Severstal
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, JYP-TapparaTampere
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a4420e8cb2e447d3978d5e/index.m3u8
