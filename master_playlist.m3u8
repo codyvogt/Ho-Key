@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1, Traktor-LadaTogliatti
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, SaiPa-VaasanSport
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ef9/index.m3u8
+#EXTINF:-1, TPS-LahdenPelicans
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ef5/index.m3u8
+#EXTINF:-1, KouvolanKooKoo-HIFK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ee8/index.m3u8
+#EXTINF:-1, JYP-MikkelinJukurit
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978eec/index.m3u8
+#EXTINF:-1, RovaniemenKiekko-KalPa
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978f0b/index.m3u8
+#EXTINF:-1, PorinÄssät-Kärpät
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978eee/index.m3u8
+#EXTINF:-1, TapparaTampere-Ilves
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978eed/index.m3u8
+#EXTINF:-1, HelsinginJokerit-HPK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978f06/index.m3u8
+#EXTINF:-1, Benešov-PilsenWolves
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b325f73979ac5900860695/index.m3u8
