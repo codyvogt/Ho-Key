@@ -5,5 +5,33 @@ fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus
 fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
 #EXTINF:-1, EHCBiel-Benne-EVZug
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, WarriorsBrno-Chrudim
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a31bad8cb2e447d3978b92/index.m3u8
+#EXTINF:-1, PorinÄssät-Kärpät
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5938e8cb2e447d3978eee/index.m3u8
+#EXTINF:-1, TapparaTampere-Ilves
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978eed/index.m3u8
+#EXTINF:-1, HelsinginJokerit-HPK
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a5938e8cb2e447d3978f06/index.m3u8
+#EXTINF:-1, LeKi-LiikunnanRiemu
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978eca/index.m3u8
+#EXTINF:-1, Seinäjoen-Kiekko-MUIK
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5938e8cb2e447d3978ec9/index.m3u8
+#EXTINF:-1, PorvoonHunters-Haukat
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5938e8cb2e447d3978ec8/index.m3u8
+#EXTINF:-1, TornionIHC-Ahmat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978eda/index.m3u8
+#EXTINF:-1, ViikingitHelsinki-Tuuski
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a5938e8cb2e447d3978ecb/index.m3u8
+#EXTINF:-1, MalaxIF-Hela-Kiekko
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ee1/index.m3u8
+#EXTINF:-1, HarjunKiekko-KelA
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ecd/index.m3u8
+#EXTINF:-1, SalonKiekkohait-Haka
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ee6/index.m3u8
+#EXTINF:-1, Jää-Tiikerit-NKV
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5938e8cb2e447d3978eff/index.m3u8
+#EXTINF:-1, GrIFKJouk.-K-EspooEKS
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978f05/index.m3u8
+#EXTINF:-1, Luleå-MalmöRedhawks
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d76bf2a0db77fccbb1b2/index.m3u8
+#EXTINF:-1, HV71-FrölundaHC
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b039b1f2a0db77fccbab3d/index.m3u8
