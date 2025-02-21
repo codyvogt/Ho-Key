@@ -71,6 +71,8 @@ https://media-service.fanreachdata.io/edge/ohl/4d12777f4f6242ad9a1c30552ec824e1.
 https://media-service.fanreachdata.io/edge/ohl/5b9120447d7c4c6e9663091443e98b9f.m3u8
 #EXTINF:-1, Guelph-SaultSte.Marie
 https://media-service.fanreachdata.io/edge/ohl/cecc15b4f26a46418612f4c5fb6f08da.m3u8
+#EXTINF:-1, Dubuque-USNTDPU18
+fluidtv.php?channel=https://dl32tgubrx6dt.cloudfront.net/a6fd268e7b42f824f3304d4eb43aa1ad/0_hd_hls.m3u8
 #EXTINF:-1, CalgaryHitmen-Brandon
 https://media-service.fanreachdata.io/edge/whl/9707ab5a67624ddf8109da4af662d5bb.m3u8
 #EXTINF:-1, MooseJaw-PrinceAlbert
