@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Zvolen-SlovanBratislava
-fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
 #EXTINF:-1, EHCBiel-Benne-EVZug
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, Luleå-MalmöRedhawks
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d76bf2a0db77fccbb1b2/index.m3u8
-#EXTINF:-1, HV71-FrölundaHC
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b039b1f2a0db77fccbab3d/index.m3u8
+#EXTINF:-1, HarjunKiekko-KelA
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ecd/index.m3u8
+#EXTINF:-1, SalonKiekkohait-Haka
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ee6/index.m3u8
