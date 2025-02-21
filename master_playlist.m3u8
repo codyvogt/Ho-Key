@@ -3,15 +3,7 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Zvolen-SlovanBratislava
 fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1, SaiPa-VaasanSport
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5938e8cb2e447d3978ef9/index.m3u8
-#EXTINF:-1, RovaniemenKiekko-KalPa
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978f0b/index.m3u8
-#EXTINF:-1, PorinÄssät-Kärpät
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5938e8cb2e447d3978eee/index.m3u8
-#EXTINF:-1, TapparaTampere-Ilves
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978eed/index.m3u8
-#EXTINF:-1, HelsinginJokerit-HPK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a5938e8cb2e447d3978f06/index.m3u8
-#EXTINF:-1, Benešov-PilsenWolves
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b325f73979ac5900860695/index.m3u8
+#EXTINF:-1, EHCBiel-Benne-EVZug
+fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, WarriorsBrno-Chrudim
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a31bad8cb2e447d3978b92/index.m3u8
