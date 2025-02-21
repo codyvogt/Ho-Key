@@ -1,13 +1,3 @@
 #EXTM3U
 #EXTINF:-1, EHCBiel-Benne-EVZug
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, OdenseBulldogs-Esbjerg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674862db20730931ae5e6a53/index.m3u8
-#EXTINF:-1, AalborgPirates-Herning
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674862dad31a43159862ed63/index.m3u8
-#EXTINF:-1, Frederikshavn-Sønderj.
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/674862dbd31a43159862ed65/index.m3u8
-#EXTINF:-1, Rødovre-HerlevEagles
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674862dbd31a43159862ed67/index.m3u8
-#EXTINF:-1, HV71-FrölundaHC
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b039b1f2a0db77fccbab3d/index.m3u8
