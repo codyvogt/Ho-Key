@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, TrångsundsIF-ÄltaIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2c87af2a0db77fccbb035/index.m3u8
-#EXTINF:-1, Vrchlabí-VlciJablonec
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2fbbef9027e70b34339c4/index.m3u8
-#EXTINF:-1, HijsHokij-Diez-Limburg
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a72b248cb2e447d3979312/index.m3u8
-#EXTINF:-1, Heerenveen-Neuwied
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a72b248cb2e447d3979314/index.m3u8
-#EXTINF:-1, Mechelen-EatersLimburg
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a72b258cb2e447d3979316/index.m3u8
-#EXTINF:-1, Cergy-Pontoise-Grenoble
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794654f164bd6649197a2db.m3u8
 #EXTINF:-1, Amiens-Hormadid'Anglet
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794654f164bd6649197a2dd.m3u8
 #EXTINF:-1, Ducsd'Angers-Chamonix
@@ -21,10 +9,10 @@ fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6794654f164bd6649197a2e3.m3u8
 #EXTINF:-1, Marseille-RapacesdeGap
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6794654f164bd6649197a2e5.m3u8
-#EXTINF:-1, GherdëinaII-HCPJunior
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9bd2f88a15b56457c9db3/index.m3u8
-#EXTINF:-1, GrIFKJouk.-K-EspooEKS
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a5938e8cb2e447d3978f05/index.m3u8
+#EXTINF:-1, Heerenveen-Neuwied
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a72b248cb2e447d3979314/index.m3u8
+#EXTINF:-1, Mechelen-EatersLimburg
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a72b258cb2e447d3979316/index.m3u8
 #EXTINF:-1, BostonU-Connecticut
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Rensselaer-Princeton
