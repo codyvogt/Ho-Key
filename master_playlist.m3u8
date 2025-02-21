@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Amiens-Hormadid'Anglet
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6794654f164bd6649197a2dd.m3u8
-#EXTINF:-1, Ducsd'Angers-Chamonix
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6794654f164bd6649197a2df.m3u8
-#EXTINF:-1, Mechelen-EatersLimburg
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a72b258cb2e447d3979316/index.m3u8
-#EXTINF:-1, BostonU-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Rensselaer-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
-#EXTINF:-1, NewHampshire-BostonC
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Providence-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, HolyCross-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Denver-Miami
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e322d6e4-405c-46bd-8e8b-8c215a8bfea5-hls/master/e322d6e4-405c-46bd-8e8b-8c215a8bfea5-hls.m3u8
 #EXTINF:-1, St.Lawrence-Colgate
@@ -65,6 +49,12 @@ https://media-service.fanreachdata.io/edge/lhjmq/291464cfb55b41c88982fb4f33fc7ee
 https://media-service.fanreachdata.io/edge/lhjmq/c4ac4ff356894b1da51d38726d931fb4.m3u8
 #EXTINF:-1, ABTitan-Shawinigan
 https://media-service.fanreachdata.io/edge/lhjmq/b7d714aeb1304d3580b2d127ea5aeb74.m3u8
+#EXTINF:-1, NewHampshire-BostonC
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Providence-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, HolyCross-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Oshawa-ErieOtters
 https://media-service.fanreachdata.io/edge/ohl/a806820461f24fb2a53ccdbf188799ca.m3u8
 #EXTINF:-1, BarrieColts-Kitchener
