@@ -1,34 +1,8 @@
 #EXTM3U
-#EXTINF:-1, AalborgPirates-Herning
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674862dad31a43159862ed63/index.m3u8
-#EXTINF:-1, MladáBoleslavB-Slaný
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b325f63979ac5900860690/index.m3u8
-#EXTINF:-1, Nora-Fellingsbro/Frövi
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b02114f9027e70b34331ce/index.m3u8
-#EXTINF:-1, Lindefallet-Häradsbygden
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b066cdf2a0db77fccbab6f/index.m3u8
-#EXTINF:-1, EHCBiel-Benne-EVZug
-fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, Hvidovre-RungstedIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674861cd20730931ae5e69d1/index.m3u8
 #EXTINF:-1, TrångsundsIF-ÄltaIF
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2c87af2a0db77fccbb035/index.m3u8
-#EXTINF:-1, PT-80-KJTHaukat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978f04/index.m3u8
 #EXTINF:-1, Vrchlabí-VlciJablonec
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2fbbef9027e70b34339c4/index.m3u8
-#EXTINF:-1, Northeastern-Vermont
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, BostonU-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Rensselaer-Princeton
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
-#EXTINF:-1, NewHampshire-BostonC
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Providence-Merrimack
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, HolyCross-Maine
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, HijsHokij-Diez-Limburg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a72b248cb2e447d3979312/index.m3u8
 #EXTINF:-1, Heerenveen-Neuwied
@@ -51,10 +25,18 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9bd2f88a15b56457c9db3/index.m3u8
 #EXTINF:-1, GrIFKJouk.-K-EspooEKS
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a5938e8cb2e447d3978f05/index.m3u8
+#EXTINF:-1, BostonU-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Rensselaer-Princeton
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
+#EXTINF:-1, NewHampshire-BostonC
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Providence-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, HolyCross-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Denver-Miami
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e322d6e4-405c-46bd-8e8b-8c215a8bfea5-hls/master/e322d6e4-405c-46bd-8e8b-8c215a8bfea5-hls.m3u8
-#EXTINF:-1, PennState-MSU
-fluidtv.php?channel=https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, St.Lawrence-Colgate
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Clarkson-Cornell
@@ -87,9 +69,57 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidj
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8319d43c-4925-4971-b62d-be9787c708e1-hls/master/8319d43c-4925-4971-b62d-be9787c708e1-hls.m3u8
 #EXTINF:-1, Alaska-Augustana
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
-#EXTINF:-1, NotreDame-Wisconsin
-fluidtv.php?channel=https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Colorado-St.CloudState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls/master/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls.m3u8
 #EXTINF:-1, WMU-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/92ea38ba-13ae-481e-96f2-f254e06854c1-hls/master/92ea38ba-13ae-481e-96f2-f254e06854c1-hls.m3u8
+#EXTINF:-1, Moncton-CapeBreton
+https://media-service.fanreachdata.io/edge/lhjmq/4ae7af75a90d41a39e7c737d5383d6ea.m3u8
+#EXTINF:-1, Charlottetown-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/4479684094a8435280409a39f2070a04.m3u8
+#EXTINF:-1, SaintJohn-Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/a573c19f5ac947809f280e8e9fd32bda.m3u8
+#EXTINF:-1, Rouyn-Noranda-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/291464cfb55b41c88982fb4f33fc7eed.m3u8
+#EXTINF:-1, Québec-Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/c4ac4ff356894b1da51d38726d931fb4.m3u8
+#EXTINF:-1, ABTitan-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/b7d714aeb1304d3580b2d127ea5aeb74.m3u8
+#EXTINF:-1, Oshawa-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/a806820461f24fb2a53ccdbf188799ca.m3u8
+#EXTINF:-1, BarrieColts-Kitchener
+https://media-service.fanreachdata.io/edge/ohl/2a4f16db1a624ba29b45ce7e7f90689c.m3u8
+#EXTINF:-1, Brantford-Kingston
+https://media-service.fanreachdata.io/edge/ohl/ed333eb8268641e8b3fe9f55c87fbca7.m3u8
+#EXTINF:-1, Niagara-Ottawa67's
+https://media-service.fanreachdata.io/edge/ohl/525e90a5c6d04cd988c68011f0d7a193.m3u8
+#EXTINF:-1, NorthBay-Flint
+https://media-service.fanreachdata.io/edge/ohl/9b1dd84865f84cd19a8ce6eb4351d7eb.m3u8
+#EXTINF:-1, OwenSound-Sudbury
+https://media-service.fanreachdata.io/edge/ohl/4d12777f4f6242ad9a1c30552ec824e1.m3u8
+#EXTINF:-1, Windsor-SarniaSting
+https://media-service.fanreachdata.io/edge/ohl/5b9120447d7c4c6e9663091443e98b9f.m3u8
+#EXTINF:-1, Guelph-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/cecc15b4f26a46418612f4c5fb6f08da.m3u8
+#EXTINF:-1, CalgaryHitmen-Brandon
+https://media-service.fanreachdata.io/edge/whl/9707ab5a67624ddf8109da4af662d5bb.m3u8
+#EXTINF:-1, MooseJaw-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/db29dfcd223d4157833f0b73e9f4d770.m3u8
+#EXTINF:-1, Regina-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/6e4c7f569ee8452eb60c6e951a5436c1.m3u8
+#EXTINF:-1, Kamloops-Lethbridge
+https://media-service.fanreachdata.io/edge/whl/aa410efb099a42649fe0e82d790d168b.m3u8
+#EXTINF:-1, Edmonton-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/9ba8286d48394ebd8b1095a20b79e68e.m3u8
+#EXTINF:-1, Saskatoon-RedDeer
+https://media-service.fanreachdata.io/edge/whl/c979a107265f4bab96c812ecd558bcbf.m3u8
+#EXTINF:-1, Seattle-WenatcheeWild
+https://media-service.fanreachdata.io/edge/whl/9f194e87ed2b4a5681a0f1200593ece3.m3u8
+#EXTINF:-1, Tri-City-SpokaneChiefs
+https://media-service.fanreachdata.io/edge/whl/965245f0628149babe2dbc41459c40df.m3u8
+#EXTINF:-1, Portland-Everett
+https://media-service.fanreachdata.io/edge/whl/9aaa193b8f6845af86db1bc57dfe7789.m3u8
+#EXTINF:-1, PrinceGeorge-Victoria
+https://media-service.fanreachdata.io/edge/whl/ebc3893139ba4fbfb08c60542c26a0ba.m3u8
+#EXTINF:-1, Vancouver-Kelowna
+https://media-service.fanreachdata.io/edge/whl/3bc693bad8904d468e5c4f8a84536bdf.m3u8
