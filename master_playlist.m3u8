@@ -3,14 +3,10 @@
 https://media-service.fanreachdata.io/edge/lhjmq/3875cadda3e44762a27c9621265bb7e0.m3u8
 #EXTINF:-1, Sherbrooke-Blainville
 https://media-service.fanreachdata.io/edge/lhjmq/3a16ec35697f43c0843b49146119058a.m3u8
-#EXTINF:-1, ABTitan-Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/625cb35f694c4d9d81ba0218c81ca79e.m3u8
 #EXTINF:-1, Victoriaville-Halifax
 https://media-service.fanreachdata.io/edge/lhjmq/87a4a386a42c4b47b550a8b5fff9e7f2.m3u8
 #EXTINF:-1, NiagaraIceDogs-Kingston
 https://media-service.fanreachdata.io/edge/ohl/53412b8d552146b19e31044b064dcb44.m3u8
-#EXTINF:-1, Sudbury-Brampton
-https://media-service.fanreachdata.io/edge/ohl/b3e3c2b4fcc34e00a7d1c6f69efe7233.m3u8
 #EXTINF:-1, Windsor-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/12daba65cb4f407eb07b1001af9441af.m3u8
 #EXTINF:-1, London-ErieOtters
@@ -55,10 +51,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidj
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/526c7dac-92a4-4b62-8c1d-d26aafe86624-hls/master/526c7dac-92a4-4b62-8c1d-d26aafe86624-hls.m3u8
 #EXTINF:-1, BostonCollege-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, UConn-BostonUniversity
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, BostonC-NewHampshire
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, HolyCross-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, PrinceAlbert-Regina
