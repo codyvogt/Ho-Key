@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Fribourg-Gottéron-GSHC
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, Renardsd'Orléans-Dijon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793d4/index.m3u8
-#EXTINF:-1, Wasquehal-Évry-Viry
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793da/index.m3u8
-#EXTINF:-1, Franç.Volants-Courbevoie
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd8cb2e447d39793c8/index.m3u8
-#EXTINF:-1, Vaujany-LaRoche-sur-Yon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793bc/index.m3u8
-#EXTINF:-1, Reims-GauloisdeChâlons
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793d6/index.m3u8
-#EXTINF:-1, Roanne-Montpellier
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793c0/index.m3u8
-#EXTINF:-1, Lyon-Toulouse-Blagnac
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd8cb2e447d39793be/index.m3u8
-#EXTINF:-1, Annecy-LynxdeValence
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793c4/index.m3u8
-#EXTINF:-1, Anglet2-Clermont
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793c2.m3u8
 #EXTINF:-1, Neuilly-Meudon
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97b6/index.m3u8
 #EXTINF:-1, Strasbourg-Caen
@@ -30,7 +12,7 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 #EXTINF:-1, Brest-Valenciennes
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd88a15b56457c97c0/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz-HCMP
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97ac/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97ac/index.m3u8
 #EXTINF:-1, Chambéry2-Briançon2
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/66d298cc81867931f3c4cb38/index.m3u8
 #EXTINF:-1, Bordeaux2-Cholet2
