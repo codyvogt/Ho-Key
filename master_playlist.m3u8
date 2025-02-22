@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1, LokomotivYaroslavl-Sibir
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, ValboHC-HudiksvallsHC
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b17ee3f2a0db77fccbad73/index.m3u8
-#EXTINF:-1, Halmstad-OlofströmsIK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b17ee3f2a0db77fccbad6a/index.m3u8
-#EXTINF:-1, BorlängeHF-OrsaIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b17c3ff9027e70b3433466/index.m3u8
-#EXTINF:-1, KungälvsIK-HanhalsIF
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b1896ff9027e70b34335da/index.m3u8
-#EXTINF:-1, BodensHF-Örnsköldsvik
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b334003979ac59008606ac/index.m3u8
 #EXTINF:-1, HelsinginJokerit-HIFK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e88a15b56457c95f6/index.m3u8
 #EXTINF:-1, SaiPa-TampereenIlves
