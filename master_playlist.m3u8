@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Baie-Comeau-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/3875cadda3e44762a27c9621265bb7e0.m3u8
-#EXTINF:-1, Sherbrooke-Blainville
-https://media-service.fanreachdata.io/edge/lhjmq/3a16ec35697f43c0843b49146119058a.m3u8
-#EXTINF:-1, Victoriaville-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/87a4a386a42c4b47b550a8b5fff9e7f2.m3u8
-#EXTINF:-1, NiagaraIceDogs-Kingston
-https://media-service.fanreachdata.io/edge/ohl/53412b8d552146b19e31044b064dcb44.m3u8
-#EXTINF:-1, Windsor-FlintFirebirds
-https://media-service.fanreachdata.io/edge/ohl/12daba65cb4f407eb07b1001af9441af.m3u8
-#EXTINF:-1, London-ErieOtters
-https://media-service.fanreachdata.io/edge/ohl/42341defe36b4bbca9f4312b52edf316.m3u8
-#EXTINF:-1, Guelph-SaginawSpirit
-https://media-service.fanreachdata.io/edge/ohl/296ab91440074b08812430e45d0d2092.m3u8
-#EXTINF:-1, Peterborough-BarrieColts
-https://media-service.fanreachdata.io/edge/ohl/8f76f02b058e4a74b93d5f2239c28baa.m3u8
-#EXTINF:-1, Union-Dartmouth
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, St.Lawrence-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, UMassLowell-Providence
@@ -53,6 +35,16 @@ fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/526c7dac-
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, HolyCross-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Victoriaville-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/87a4a386a42c4b47b550a8b5fff9e7f2.m3u8
+#EXTINF:-1, Windsor-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/12daba65cb4f407eb07b1001af9441af.m3u8
+#EXTINF:-1, London-ErieOtters
+https://media-service.fanreachdata.io/edge/ohl/42341defe36b4bbca9f4312b52edf316.m3u8
+#EXTINF:-1, Guelph-SaginawSpirit
+https://media-service.fanreachdata.io/edge/ohl/296ab91440074b08812430e45d0d2092.m3u8
+#EXTINF:-1, Peterborough-BarrieColts
+https://media-service.fanreachdata.io/edge/ohl/8f76f02b058e4a74b93d5f2239c28baa.m3u8
 #EXTINF:-1, PrinceAlbert-Regina
 https://media-service.fanreachdata.io/edge/whl/8bccf0639ffe4434a78e8f14940df6c6.m3u8
 #EXTINF:-1, Calgary-MooseJaw
@@ -71,3 +63,5 @@ https://media-service.fanreachdata.io/edge/whl/e0c156c9765e4688ae228db450563ff1.
 https://media-service.fanreachdata.io/edge/whl/07788edb844b4dc38e2cd9df2c876e31.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/7dab7e3c64f446b29cafdf98a0af8691.m3u8
+#EXTINF:-1, Dubuque-USNTDPU18
+fluidtv.php?channel=https://d23fnuiik6k6jo.cloudfront.net/93ad9b4c6d854d26761260c23a7d8039/0_hd_hls.m3u8
