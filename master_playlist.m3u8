@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1, HV71-RögleBK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1888ff9027e70b34335d8/index.m3u8
+#EXTINF:-1, FärjestadBK-RögleBK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2cbfdf2a0db77fccbb061/index.m3u8
+#EXTINF:-1, HIFKII-Kiekko-EspooIII
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e88a15b56457c95d2/index.m3u8
+#EXTINF:-1, EVUTeam-Hunters
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a5938e8cb2e447d3978ee3/index.m3u8
+#EXTINF:-1, ArvikaHC-ÅmålsSK
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b2d76bf2a0db77fccbb1a7/index.m3u8
+#EXTINF:-1, AlvestaSK-HovåsHC
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b187acf2a0db77fccbae91/index.m3u8
