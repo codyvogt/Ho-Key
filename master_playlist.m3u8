@@ -79,3 +79,19 @@ https://media-service.fanreachdata.io/edge/whl/9aaa193b8f6845af86db1bc57dfe7789.
 https://media-service.fanreachdata.io/edge/whl/ebc3893139ba4fbfb08c60542c26a0ba.m3u8
 #EXTINF:-1, Vancouver-Kelowna
 https://media-service.fanreachdata.io/edge/whl/3bc693bad8904d468e5c4f8a84536bdf.m3u8
+#EXTINF:-1, PiranhasKotka-Panthers
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e8cb2e447d39791b4/index.m3u8
+#EXTINF:-1, LundGiants-Trelleborg
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b185ecf2a0db77fccbae6a/index.m3u8
+#EXTINF:-1, GlimmaHK-Kristianstad
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b185ecf2a0db77fccbae69/index.m3u8
+#EXTINF:-1, KooKoo-VaasanSport
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e8cb2e447d39791c5/index.m3u8
+#EXTINF:-1, LahdenPelicans-Jukurit
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e8cb2e447d39791d9/index.m3u8
+#EXTINF:-1, TPS-Kiekko-Espoo
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e88a15b56457c95fc/index.m3u8
+#EXTINF:-1, RovaniemenKiekko-KalPa
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e8cb2e447d39791bf/index.m3u8
+#EXTINF:-1, HIFK-TampereenIlves
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1fdaef9027e70b343367d/index.m3u8
