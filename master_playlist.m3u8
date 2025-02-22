@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Maine-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, BGSU-BemidjiState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
-#EXTINF:-1, UMD-NorthDakota
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8319d43c-4925-4971-b62d-be9787c708e1-hls/master/8319d43c-4925-4971-b62d-be9787c708e1-hls.m3u8
-#EXTINF:-1, Colorado-St.CloudState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls/master/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls.m3u8
-#EXTINF:-1, WMU-ArizonaState
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/92ea38ba-13ae-481e-96f2-f254e06854c1-hls/master/92ea38ba-13ae-481e-96f2-f254e06854c1-hls.m3u8
 #EXTINF:-1, CalgaryHitmen-Brandon
 https://media-service.fanreachdata.io/edge/whl/9707ab5a67624ddf8109da4af662d5bb.m3u8
 #EXTINF:-1, MooseJaw-PrinceAlbert
@@ -31,6 +21,14 @@ https://media-service.fanreachdata.io/edge/whl/9aaa193b8f6845af86db1bc57dfe7789.
 https://media-service.fanreachdata.io/edge/whl/ebc3893139ba4fbfb08c60542c26a0ba.m3u8
 #EXTINF:-1, Vancouver-Kelowna
 https://media-service.fanreachdata.io/edge/whl/3bc693bad8904d468e5c4f8a84536bdf.m3u8
+#EXTINF:-1, BGSU-BemidjiState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, UMD-NorthDakota
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8319d43c-4925-4971-b62d-be9787c708e1-hls/master/8319d43c-4925-4971-b62d-be9787c708e1-hls.m3u8
+#EXTINF:-1, Colorado-St.CloudState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls/master/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls.m3u8
+#EXTINF:-1, WMU-ArizonaState
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/92ea38ba-13ae-481e-96f2-f254e06854c1-hls/master/92ea38ba-13ae-481e-96f2-f254e06854c1-hls.m3u8
 #EXTINF:-1, PiranhasKotka-Panthers
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e8cb2e447d39791b4/index.m3u8
 #EXTINF:-1, LundGiants-Trelleborg
