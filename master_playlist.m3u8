@@ -1,22 +1,10 @@
 #EXTM3U
 #EXTINF:-1, LokomotivYaroslavl-Sibir
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, SKLejon-Haparanda
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b185ecf2a0db77fccbae66/index.m3u8
-#EXTINF:-1, BurträskHC-KirunaAIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b171b3f9027e70b34333ec/index.m3u8
-#EXTINF:-1, SunderbySK-LN91
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1834bf9027e70b3433548/index.m3u8
 #EXTINF:-1, Kvarnsveden-Åbyggeby
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b17c3ff9027e70b3433468/index.m3u8
-#EXTINF:-1, VänersborgsHC-Kållered
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b1850af2a0db77fccbae5e/index.m3u8
-#EXTINF:-1, UlricehamnsIF-Sörhaga
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b17619f9027e70b343343e/index.m3u8
 #EXTINF:-1, ForshagaIF-HammaröHC
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b17d20f9027e70b343347b/index.m3u8
-#EXTINF:-1, KRIFHockey-Tyringe
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1850af2a0db77fccbae5f/index.m3u8
 #EXTINF:-1, VärnamoGIK-Vimmerby
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b18267f9027e70b3433532/index.m3u8
 #EXTINF:-1, FaluIF-Säter/Fagersta
