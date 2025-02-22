@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Leuven-Heerenveen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a87ca688a15b56457c9a63/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz-HCMP
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97ac/index.m3u8
 #EXTINF:-1, Alleghe-HCFeltre
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faf75969d50f887896a7/index.m3u8
-#EXTINF:-1, Annecy-LynxdeValence
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793c4/index.m3u8
-#EXTINF:-1, Anglet2-Clermont
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd8cb2e447d39793c2.m3u8
 #EXTINF:-1, Cadore-HCChiavenna
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a9bd2f88a15b56457c9db5/index.m3u8
-#EXTINF:-1, Harvard-Quinnipiac
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Anglet2-Clermont
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd8cb2e447d39793c2.m3u8
+#EXTINF:-1, Chambéry-LionsdeLyon
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97b0/index.m3u8
 #EXTINF:-1, Union-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/brownecacvideo/playlist.m3u8
 #EXTINF:-1, Dartmouth-Yale
@@ -25,8 +21,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwome
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, HolyCross-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Chambéry-LionsdeLyon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97b0/index.m3u8
 #EXTINF:-1, Baie-Comeau-Rimouski
 https://media-service.fanreachdata.io/edge/lhjmq/3875cadda3e44762a27c9621265bb7e0.m3u8
 #EXTINF:-1, Québec-Val-d'Or
