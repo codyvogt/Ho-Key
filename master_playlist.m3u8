@@ -39,14 +39,10 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconns
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, UMD-NorthDakota
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8319d43c-4925-4971-b62d-be9787c708e1-hls/master/8319d43c-4925-4971-b62d-be9787c708e1-hls.m3u8
-#EXTINF:-1, Alaska-Augustana
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/augustanahockey/playlist.m3u8
 #EXTINF:-1, Colorado-St.CloudState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls/master/fd6e8015-29f3-4203-b837-f3ce2db5fa86-hls.m3u8
 #EXTINF:-1, WMU-ArizonaState
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/92ea38ba-13ae-481e-96f2-f254e06854c1-hls/master/92ea38ba-13ae-481e-96f2-f254e06854c1-hls.m3u8
-#EXTINF:-1, NewHampshire-BostonC
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Providence-Merrimack
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, HolyCross-Maine
