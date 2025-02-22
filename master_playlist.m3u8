@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HerlevII-EsbjergII
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674861ce20730931ae5e69d7/index.m3u8
-#EXTINF:-1, BorlängeHF-OrsaIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b17c3ff9027e70b3433466/index.m3u8
-#EXTINF:-1, KungälvsIK-HanhalsIF
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b1896ff9027e70b34335da/index.m3u8
-#EXTINF:-1, BodensHF-Örnsköldsvik
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b334003979ac59008606ac/index.m3u8
-#EXTINF:-1, TranebergIK-Segeltorp
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1800ef2a0db77fccbadc2/index.m3u8
-#EXTINF:-1, VärmdöHC-HammarbyIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1800ef2a0db77fccbadc3/index.m3u8
 #EXTINF:-1, TuusKiekko-HarjunKiekko
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6e50e8cb2e447d3979168/index.m3u8
 #EXTINF:-1, Jää-Ahmat-GrankullaIFK
