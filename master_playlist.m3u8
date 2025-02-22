@@ -65,3 +65,21 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidj
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/526c7dac-92a4-4b62-8c1d-d26aafe86624-hls/master/526c7dac-92a4-4b62-8c1d-d26aafe86624-hls.m3u8
 #EXTINF:-1, BostonCollege-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, PrinceAlbert-Regina
+https://media-service.fanreachdata.io/edge/whl/8bccf0639ffe4434a78e8f14940df6c6.m3u8
+#EXTINF:-1, Calgary-MooseJaw
+https://media-service.fanreachdata.io/edge/whl/df87f600f6a8470e92ee814b682d9cd5.m3u8
+#EXTINF:-1, Brandon-SwiftCurrent
+https://media-service.fanreachdata.io/edge/whl/a80b23e1f87e41aaa2699ea7f5bc04c5.m3u8
+#EXTINF:-1, Kamloops-MedicineHat
+https://media-service.fanreachdata.io/edge/whl/f0e7d960e98448d8ac59202352bce246.m3u8
+#EXTINF:-1, WenatcheeWild-Portland
+https://media-service.fanreachdata.io/edge/whl/e5f35343594b4e25ac78b32c83f5a506.m3u8
+#EXTINF:-1, EverettSilvertips-Seattle
+https://media-service.fanreachdata.io/edge/whl/d5392c7d106944a4915ee786c36b34d5.m3u8
+#EXTINF:-1, SpokaneChiefs-Tri-City
+https://media-service.fanreachdata.io/edge/whl/e0c156c9765e4688ae228db450563ff1.m3u8
+#EXTINF:-1, PrinceGeorge-Victoria
+https://media-service.fanreachdata.io/edge/whl/07788edb844b4dc38e2cd9df2c876e31.m3u8
+#EXTINF:-1, Kelowna-Vancouver
+https://media-service.fanreachdata.io/edge/whl/7dab7e3c64f446b29cafdf98a0af8691.m3u8
