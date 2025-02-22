@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Fribourg-Gottéron-GSHC
+fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, HV71-RögleBK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1888ff9027e70b34335d8/index.m3u8
 #EXTINF:-1, FärjestadBK-RögleBK
