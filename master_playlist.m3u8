@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1, Fribourg-Gottéron-GSHC
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1, Nantes-Tours
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd88a15b56457c97be/index.m3u8
+#EXTINF:-1, ÉpinalHC-Chambéry
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97b4/index.m3u8
+#EXTINF:-1, Neuilly-Meudon
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97b6/index.m3u8
+#EXTINF:-1, Strasbourg-Caen
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd88a15b56457c97b8/index.m3u8
+#EXTINF:-1, MontBlanc-Cholet
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97bc/index.m3u8
+#EXTINF:-1, Dunkerque-Villard
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97ba/index.m3u8
+#EXTINF:-1, Brest-Valenciennes
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd88a15b56457c97c0/index.m3u8
+#EXTINF:-1, Morzine-Avoriaz-HCMP
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97ac/index.m3u8
+#EXTINF:-1, Tábor-Kralupyn.Vlt.
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a086c58cb2e447d3978853/index.m3u8
