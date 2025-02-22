@@ -35,6 +35,14 @@ fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd88a15b56457c97c0/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz-HCMP
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97ac/index.m3u8
+#EXTINF:-1, MoraIK-BrynäsIF2
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b185ecf2a0db77fccbae6b/index.m3u8
+#EXTINF:-1, K-EspooEKS-Tiikerit
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6e50e88a15b56457c9633/index.m3u8
+#EXTINF:-1, KlaGe-HyvinkääStorm
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6e50e88a15b56457c962e/index.m3u8
+#EXTINF:-1, BodensHF-Örnsköldsvik
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b334003979ac59008606ac/index.m3u8
 #EXTINF:-1, Northeastern-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Merrimack-Providence
@@ -45,20 +53,14 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinni
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/brownecacvideo/playlist.m3u8
 #EXTINF:-1, Dartmouth-Yale
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u8
+#EXTINF:-1, RobertMorris-Syracuse
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ad605bf5-93ba-49d6-b5a8-bf4eec0424da-hls/master/ad605bf5-93ba-49d6-b5a8-bf4eec0424da-hls.m3u8
 #EXTINF:-1, UConn-BostonUniversity
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, BostonC-NewHampshire
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, HolyCross-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, MoraIK-BrynäsIF2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b185ecf2a0db77fccbae6b/index.m3u8
-#EXTINF:-1, K-EspooEKS-Tiikerit
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6e50e88a15b56457c9633/index.m3u8
-#EXTINF:-1, KlaGe-HyvinkääStorm
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6e50e88a15b56457c962e/index.m3u8
-#EXTINF:-1, BodensHF-Örnsköldsvik
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b334003979ac59008606ac/index.m3u8
 #EXTINF:-1, LiègeBulldogs-HYC
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a87ca68cb2e447d39796b0/index.m3u8
 #EXTINF:-1, Leuven-Heerenveen
