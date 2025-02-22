@@ -3,36 +3,36 @@
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, Franç.Volants-Courbevoie
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd8cb2e447d39793c8/index.m3u8
-#EXTINF:-1, Vaujany-LaRoche-sur-Yon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793bc/index.m3u8
 #EXTINF:-1, Reims-GauloisdeChâlons
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793d6/index.m3u8
-#EXTINF:-1, Roanne-Montpellier
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793c0/index.m3u8
 #EXTINF:-1, Lyon-Toulouse-Blagnac
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd8cb2e447d39793be/index.m3u8
 #EXTINF:-1, Annecy-LynxdeValence
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd8cb2e447d39793c4/index.m3u8
 #EXTINF:-1, Anglet2-Clermont
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd8cb2e447d39793c2.m3u8
-#EXTINF:-1, Strasbourg-Caen
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd88a15b56457c97b8/index.m3u8
-#EXTINF:-1, MontBlanc-Cholet
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97bc/index.m3u8
 #EXTINF:-1, Dunkerque-Villard
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97ba/index.m3u8
 #EXTINF:-1, Brest-Valenciennes
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd88a15b56457c97c0/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz-HCMP
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97ac/index.m3u8
-#EXTINF:-1, MoraIK-BrynäsIF2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b185ecf2a0db77fccbae6b/index.m3u8
-#EXTINF:-1, K-EspooEKS-Tiikerit
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6e50e88a15b56457c9633/index.m3u8
-#EXTINF:-1, KlaGe-HyvinkääStorm
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6e50e88a15b56457c962e/index.m3u8
-#EXTINF:-1, BodensHF-Örnsköldsvik
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b334003979ac59008606ac/index.m3u8
+#EXTINF:-1, EppanAppiano-HCAosta
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faf65969d50f887896a3/index.m3u8
+#EXTINF:-1, Dolomites-Valpellice
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773faf65969d50f887896a5/index.m3u8
+#EXTINF:-1, Alleghe-HCFeltre
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faf75969d50f887896a7/index.m3u8
+#EXTINF:-1, LiègeBulldogs-HYC
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a87ca68cb2e447d39796b0/index.m3u8
+#EXTINF:-1, Leuven-Heerenveen
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a87ca688a15b56457c9a63/index.m3u8
+#EXTINF:-1, Nice2-Castorsd'Avignon
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd8cb2e447d39793ca.m3u8
+#EXTINF:-1, Meudon2-Dammarie
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6da4d8cb2e447d3979146/index.m3u8
+#EXTINF:-1, Toulouse-Blagnac2-Brive
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97aa/index.m3u8
 #EXTINF:-1, Northeastern-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Merrimack-Providence
@@ -51,24 +51,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwome
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, HolyCross-Maine
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, EppanAppiano-HCAosta
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faf65969d50f887896a3/index.m3u8
-#EXTINF:-1, Dolomites-Valpellice
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6773faf65969d50f887896a5/index.m3u8
-#EXTINF:-1, Alleghe-HCFeltre
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faf75969d50f887896a7/index.m3u8
-#EXTINF:-1, LiègeBulldogs-HYC
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a87ca68cb2e447d39796b0/index.m3u8
-#EXTINF:-1, Leuven-Heerenveen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a87ca688a15b56457c9a63/index.m3u8
-#EXTINF:-1, Nice2-Castorsd'Avignon
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd8cb2e447d39793ca.m3u8
-#EXTINF:-1, Meudon2-Dammarie
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a6da4d8cb2e447d3979146/index.m3u8
-#EXTINF:-1, Toulouse-Blagnac2-Brive
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97aa/index.m3u8
-#EXTINF:-1, EVUrheilijatTeam-PUS
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a5938e8cb2e447d3978f0d/index.m3u8
 #EXTINF:-1, HCPiné-HCAostaII
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a9bd308cb2e447d3979a10/index.m3u8
 #EXTINF:-1, Cadore-HCChiavenna
