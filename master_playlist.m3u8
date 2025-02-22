@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Morzine-Avoriaz-HCMP
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a82bcd88a15b56457c97ac/index.m3u8
-#EXTINF:-1, Alleghe-HCFeltre
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6773faf75969d50f887896a7/index.m3u8
 #EXTINF:-1, Cadore-HCChiavenna
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a9bd2f88a15b56457c9db5/index.m3u8
-#EXTINF:-1, Anglet2-Clermont
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a82bcd8cb2e447d39793c2.m3u8
 #EXTINF:-1, Chambéry-LionsdeLyon
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a82bcd88a15b56457c97b0/index.m3u8
 #EXTINF:-1, Union-Brown
