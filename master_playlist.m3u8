@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1, HKNitra-HCKošice
 fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1, Örnen/Örebro-Kumla2
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6799ba361785ee27e3fb5a9c/index.m3u8
-#EXTINF:-1, StiL-PajalaHC
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b2d76bf2a0db77fccbb1ae/index.m3u8
-#EXTINF:-1, VarbergHK-KålleredSK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b2d3e7f2a0db77fccbb15b/index.m3u8
-#EXTINF:-1, HSS-LindefalletsSK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2c414f9027e70b34337a5/index.m3u8
-#EXTINF:-1, EVU-ViikingitHelsinki
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a6e50e8cb2e447d3979165/index.m3u8
+#EXTINF:-1, KeuPaHT/Diskos-Hokki
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e8cb2e447d3979480/index.m3u8
+#EXTINF:-1, VännäsHC-IFSundsvall
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b35e2f3979ac59008607f2/index.m3u8
