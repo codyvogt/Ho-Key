@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kamloops-MedicineHat
-https://media-service.fanreachdata.io/edge/whl/f0e7d960e98448d8ac59202352bce246.m3u8
 #EXTINF:-1, WenatcheeWild-Portland
 https://media-service.fanreachdata.io/edge/whl/e5f35343594b4e25ac78b32c83f5a506.m3u8
 #EXTINF:-1, EverettSilvertips-Seattle
@@ -11,3 +9,11 @@ https://media-service.fanreachdata.io/edge/whl/e0c156c9765e4688ae228db450563ff1.
 https://media-service.fanreachdata.io/edge/whl/07788edb844b4dc38e2cd9df2c876e31.m3u8
 #EXTINF:-1, Kelowna-Vancouver
 https://media-service.fanreachdata.io/edge/whl/7dab7e3c64f446b29cafdf98a0af8691.m3u8
+#EXTINF:-1, Sweden-Finland
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b76ece608a57536eff05da/index.m3u8
+#EXTINF:-1, KärpätAk-MIFNaiset
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e88a15b56457c98a1/index.m3u8
+#EXTINF:-1, Pelicans-K-EspooCh
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e88a15b56457c98a2/index.m3u8
+#EXTINF:-1, Laima-HKTukums
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b459a83979ac59008608bb/index.m3u8
