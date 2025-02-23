@@ -3,9 +3,3 @@
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HKNitra-HCKošice
 fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1, HSKurbads-ZemgaleJrs
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b303f0f2a0db77fccbb261/index.m3u8
-#EXTINF:-1, HKDinaburga-Prizma
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b303f0f2a0db77fccbb25f/index.m3u8
-#EXTINF:-1, Tours(Orléans)-Nantes
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a97d4c88a15b56457c9b9d/index.m3u8
