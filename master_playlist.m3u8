@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SkateforLAStrong
-fluidtv.php?channel=https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1, Québec-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/532307684e654eb3afa888ed840995ee.m3u8
-#EXTINF:-1, SaintJohn-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/f3b8241800224be59b3aba5f8e5fb5a1.m3u8
 #EXTINF:-1, SaginawSpirit-Windsor
 https://media-service.fanreachdata.io/edge/ohl/cb35cd7599c54d8fbbfc6a935d67f488.m3u8
 #EXTINF:-1, Kitchener-LondonKnights
