@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Chtown-CapeBreton
-https://media-service.fanreachdata.io/edge/lhjmq/83556a7763154ea8ac61d08c2ea5a6eb.m3u8
-#EXTINF:-1, Victoriaville-Moncton
-https://media-service.fanreachdata.io/edge/lhjmq/a286c13f06a34ccfaae3bf074347453f.m3u8
-#EXTINF:-1, Baie-Comeau-Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/3dd13da582e4497f9c40fb06f4618e45.m3u8
-#EXTINF:-1, Gatineau-Sherbrooke
-https://media-service.fanreachdata.io/edge/lhjmq/26105ba478374ded8a040a729e873b6a.m3u8
-#EXTINF:-1, Québec-Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/532307684e654eb3afa888ed840995ee.m3u8
-#EXTINF:-1, SaintJohn-Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/f3b8241800224be59b3aba5f8e5fb5a1.m3u8
-#EXTINF:-1, Brantford-Ottawa67's
-https://media-service.fanreachdata.io/edge/ohl/7714e48bee484304a68ac29ba3327243.m3u8
-#EXTINF:-1, NorthBay-SarniaSting
-https://media-service.fanreachdata.io/edge/ohl/95ba8bc48e614fd0a9e66eef14bb0081.m3u8
 #EXTINF:-1, OwenSoundAttack-Soo
 https://media-service.fanreachdata.io/edge/ohl/00876e50c61245bbba4d4cc67cf9cb93.m3u8
 #EXTINF:-1, SaginawSpirit-Windsor
@@ -23,6 +7,14 @@ https://media-service.fanreachdata.io/edge/ohl/cb35cd7599c54d8fbbfc6a935d67f488.
 https://media-service.fanreachdata.io/edge/ohl/6aec7e8d65e84c58a9f33f00a75bf5d6.m3u8
 #EXTINF:-1, Kingston-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/4c15e1b00746419aa9651c9dcffd9ed3.m3u8
+#EXTINF:-1, Baie-Comeau-Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/3dd13da582e4497f9c40fb06f4618e45.m3u8
+#EXTINF:-1, Gatineau-Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/26105ba478374ded8a040a729e873b6a.m3u8
+#EXTINF:-1, Québec-Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/532307684e654eb3afa888ed840995ee.m3u8
+#EXTINF:-1, SaintJohn-Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/f3b8241800224be59b3aba5f8e5fb5a1.m3u8
 #EXTINF:-1, Vancouver-Wenatchee
 https://media-service.fanreachdata.io/edge/whl/9015b0be9ced4a7a879a1f0966e032f0.m3u8
 #EXTINF:-1, SpokaneChiefs-Portland
