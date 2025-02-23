@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Cortina/Alleghe-AlpsIA
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774047a5969d50f887896df/index.m3u8
-#EXTINF:-1, Asiago-PustertalJunior
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774047e840b7877dbe047e3/index.m3u8
 #EXTINF:-1, HCChrudim-HCNáchod
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d198f2a0db77fccbb106/index.m3u8
-#EXTINF:-1, KarlovyVaryB-Ústín.L.
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ab672788a15b56457c9f62/index.m3u8
-#EXTINF:-1, SaloHT-IlvesAkatemia
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a8368e8cb2e447d39794b8/index.m3u8
 #EXTINF:-1, Gap-Strasbourg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b3608e89ae40367a2514dd.m3u8
 #EXTINF:-1, Caen-Villard-de-Lans
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b3608e3979ac59008607f6/index.m3u8
+#EXTINF:-1, Asiago-PustertalJunior
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774047e840b7877dbe047e3/index.m3u8
 #EXTINF:-1, TrentinoWomen-Zoldo
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a09b9d8cb2e447d39788a4/index.m3u8
 #EXTINF:-1, EatersLimburg-Liège
@@ -46,4 +40,4 @@ https://media-service.fanreachdata.io/edge/ohl/6aec7e8d65e84c58a9f33f00a75bf5d6.
 #EXTINF:-1, Kingston-Oshawa
 https://media-service.fanreachdata.io/edge/ohl/4c15e1b00746419aa9651c9dcffd9ed3.m3u8
 #EXTINF:-1, Näädät-Karhu-Kissat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e88a15b56457c9846/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a8368e88a15b56457c9846/index.m3u8
