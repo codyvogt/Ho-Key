@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1, HKNitra-HCKošice
 fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1, EppanAppiano-Pergine
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6774047c5969d50f887896e7/index.m3u8
-#EXTINF:-1, Juniorteams-Brixen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774047d5969d50f887896e9/index.m3u8
-#EXTINF:-1, Valpellice-Pinerolo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774047b5969d50f887896e3/index.m3u8
-#EXTINF:-1, Cortina/Alleghe-AlpsIA
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774047a5969d50f887896df/index.m3u8
-#EXTINF:-1, Asiago-PustertalJunior
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774047e840b7877dbe047e3/index.m3u8
 #EXTINF:-1, Örnen/Örebro-Kumla2
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6799ba361785ee27e3fb5a9c/index.m3u8
 #EXTINF:-1, StiL-PajalaHC
