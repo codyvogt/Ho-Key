@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Sweden-Finland
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b76ece608a57536eff05da/index.m3u8
+#EXTINF:-1, Spartak-DinamoMinsk
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, AkBarsKazan-Lada
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, KärpätAk-MIFNaiset
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e88a15b56457c98a1/index.m3u8
 #EXTINF:-1, Pelicans-K-EspooCh
