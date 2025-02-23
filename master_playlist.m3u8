@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Victoriaville-Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/87a4a386a42c4b47b550a8b5fff9e7f2.m3u8
 #EXTINF:-1, St.Lawrence-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, UMassLowell-Providence
@@ -33,8 +35,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidj
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/526c7dac-92a4-4b62-8c1d-d26aafe86624-hls/master/526c7dac-92a4-4b62-8c1d-d26aafe86624-hls.m3u8
 #EXTINF:-1, BostonCollege-Vermont
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Victoriaville-Halifax
-https://media-service.fanreachdata.io/edge/lhjmq/87a4a386a42c4b47b550a8b5fff9e7f2.m3u8
 #EXTINF:-1, Windsor-FlintFirebirds
 https://media-service.fanreachdata.io/edge/ohl/12daba65cb4f407eb07b1001af9441af.m3u8
 #EXTINF:-1, London-ErieOtters
