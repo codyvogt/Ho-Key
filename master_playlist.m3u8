@@ -27,3 +27,9 @@ https://media-service.fanreachdata.io/edge/ohl/4c15e1b00746419aa9651c9dcffd9ed3.
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9ce258cb2e447d3979a44/index.m3u8
 #EXTINF:-1, N‰‰d‰t-Karhu-Kissat
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a8368e88a15b56457c9846/index.m3u8
+#EXTINF:-1, Vancouver-Wenatchee
+https://media-service.fanreachdata.io/edge/whl/9015b0be9ced4a7a879a1f0966e032f0.m3u8
+#EXTINF:-1, SpokaneChiefs-Portland
+https://media-service.fanreachdata.io/edge/whl/266389078c24456ca9df9cb6c7c2d348.m3u8
+#EXTINF:-1, MedicineHat-Edmonton
+https://media-service.fanreachdata.io/edge/whl/ded6d28c34ea47dba410e983176956cf.m3u8
