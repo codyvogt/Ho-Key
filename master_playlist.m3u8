@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1, HCChrudim-HCNáchod
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d198f2a0db77fccbb106/index.m3u8
 #EXTINF:-1, Gap-Strasbourg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b3608e89ae40367a2514dd.m3u8
 #EXTINF:-1, Caen-Villard-de-Lans
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b3608e3979ac59008607f6/index.m3u8
-#EXTINF:-1, Asiago-PustertalJunior
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6774047e840b7877dbe047e3/index.m3u8
-#EXTINF:-1, TrentinoWomen-Zoldo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a09b9d8cb2e447d39788a4/index.m3u8
 #EXTINF:-1, EatersLimburg-Liège
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a9ce2588a15b56457c9de2/index.m3u8
 #EXTINF:-1, EHCNeuwied-Mechelen
