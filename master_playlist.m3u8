@@ -1,31 +1,13 @@
 #EXTM3U
 #EXTINF:-1, AkBarsKazan-Lada
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, LuleåHF-VäxjöLakers
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d225f2a0db77fccbb13a/index.m3u8
-#EXTINF:-1, MoDoHockey-AlmtunaIS
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b2d68af2a0db77fccbb198/index.m3u8
-#EXTINF:-1, AIK-MoraIK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d92cf2a0db77fccbb1cf/index.m3u8
-#EXTINF:-1, BrynäsIF-LeksandsIF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2ccdff2a0db77fccbb071/index.m3u8
-#EXTINF:-1, LinköpingHC-RögleBK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b2dcb1f9027e70b343397b/index.m3u8
+#EXTINF:-1, HKNitra-HCKošice
+fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
 #EXTINF:-1, IFBjörklöven-Södertälje
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d225f2a0db77fccbb139/index.m3u8
 #EXTINF:-1, TimråIK-VästeråsIK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2d84cf9027e70b343392b/index.m3u8
-#EXTINF:-1, Jokipojat-KJTHaukatAk
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e8cb2e447d397949f/index.m3u8
-#EXTINF:-1, Seinäjoen-Kiekko-GrIFK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67a8368e8cb2e447d3979464/index.m3u8
-#EXTINF:-1, Karhu-Kissat-IPK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e8cb2e447d3979493/index.m3u8
-#EXTINF:-1, KokkolanHermes-LeKi
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e8cb2e447d3979465/index.m3u8
-#EXTINF:-1, SaPKo-KJTHaukat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e88a15b56457c9875/index.m3u8
-#EXTINF:-1, ImatranKetterä-Viikingit
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e8cb2e447d3979468/index.m3u8
-#EXTINF:-1, KeuPaHT/Diskos-Hokki
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a8368e8cb2e447d3979480/index.m3u8
+#EXTINF:-1, Chrudim-TechnikaBrno
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2fbbef9027e70b34339bf/index.m3u8
+#EXTINF:-1, Vsetín-PirátiChomutov
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67860c9d622f80735a023248/index.m3u8
