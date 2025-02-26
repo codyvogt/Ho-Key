@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1, Guelph-KitchenerRangers
-https://media-service.fanreachdata.io/edge/ohl/d7769b8df6954d578dbed6a703eba123.m3u8
-#EXTINF:-1, NorthBayBattalion-Soo
-https://media-service.fanreachdata.io/edge/ohl/2b06254b4c984c4ba7809765fa6392b1.m3u8
-#EXTINF:-1, BostonU-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Edmonton-MooseJaw
-https://media-service.fanreachdata.io/edge/whl/bb7867c77cf24467911105b8a253a0ad.m3u8
-#EXTINF:-1, Lethbridge-Saskatoon
-https://media-service.fanreachdata.io/edge/whl/e10793af61c04140987cb4115b9a79a7.m3u8
-#EXTINF:-1, Kelowna-PrinceGeorge
-https://media-service.fanreachdata.io/edge/whl/bd5e8f060b854bc4b297b9140436ed56.m3u8
