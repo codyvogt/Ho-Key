@@ -1,3 +1,57 @@
 #EXTM3U
-#EXTINF:-1, LeKi-75-WarkisVarkaus
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbfd0e608a57536eff0f9e/index.m3u8
+#EXTINF:-1, SwiftCurrent-Calgary
+https://media-service.fanreachdata.io/edge/whl/5e1e33e620444d8daaaf596e182f07e3.m3u8
+#EXTINF:-1, FagerstaAIK-Strömsbro
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b9852c608a57536eff09d2/index.m3u8
+#EXTINF:-1, ÅmålsSK-IFKArboga
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b9852c608a57536eff09d1/index.m3u8
+#EXTINF:-1, MalungsIF-GrumsIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b9852c608a57536eff09d0/index.m3u8
+#EXTINF:-1, AvestaBK-ValboHC
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b9852c608a57536eff09cf/index.m3u8
+#EXTINF:-1, GävleGIK-KilsAIK
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b9852c608a57536eff09dc/index.m3u8
+#EXTINF:-1, BorlängeHF-Karlskoga
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ba1ff79e1b7e4ce48a7606/index.m3u8
+#EXTINF:-1, GrumsIK-ValboHC
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ba1ff79e1b7e4ce48a7607/index.m3u8
+#EXTINF:-1, SollentunaHC-Huddinge
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b6c5c3608a57536eff04d9/index.m3u8
+#EXTINF:-1, HoforsHC-Smedjebacken
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b6bb38608a57536eff04c3/index.m3u8
+#EXTINF:-1, NoraHC-SolstadHC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b9852c608a57536eff09ce/index.m3u8
+#EXTINF:-1, KristinehamnsHT-Sala
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b9852c608a57536eff09cd/index.m3u8
+#EXTINF:-1, HammaröHC-Lindlöven
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b9e7a3608a57536eff0a11/index.m3u8
+#EXTINF:-1, FärjestadBK-LeksandsIF
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67beb5cb608a57536eff15cb/index.m3u8
+#EXTINF:-1, KarlskronaHK-Sölvesborg
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a066d288a15b56457c8e19/index.m3u8
+#EXTINF:-1, MoraIK-HedesundaIF
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/679f10ec8cb2e447d397831c/index.m3u8
+#EXTINF:-1, PiteåHC-SKLejon
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b71a6d608a57536eff0597/index.m3u8
+#EXTINF:-1, KRIF-HCVitaHästen
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc444d9e1b7e4ce48a7c8d/index.m3u8
+#EXTINF:-1, KålleredSK-NässjöHC
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc444d9e1b7e4ce48a7c8c/index.m3u8
+#EXTINF:-1, Como-ValpelliceBulldogs
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/677404835969d50f887896f1/index.m3u8
+#EXTINF:-1, Chambéry-Dunkerque
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ad71cef2a0db77fccba4be/index.m3u8
+#EXTINF:-1, Tours-Mont-Blanc
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ad71cef2a0db77fccba4ba/index.m3u8
+#EXTINF:-1, Cholet-Valenciennes
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ad71cef2a0db77fccba4bc/index.m3u8
+#EXTINF:-1, Morzine-Avoriaz-Brest
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ad71cef2a0db77fccba4c0/index.m3u8
+#EXTINF:-1, HCMP-Neuilly-sur-Marne
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ad71cef2a0db77fccba4c2/index.m3u8
+#EXTINF:-1, AalborgII-Frederikshavn
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674861d020730931ae5e69df/index.m3u8
+#EXTINF:-1, GrIFKJouk.-K-EspooEKS
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc7b9d9e1b7e4ce48a7d6d/index.m3u8
+#EXTINF:-1, BokasportSK-IKRaid
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b6cf6e608a57536eff050b/index.m3u8
