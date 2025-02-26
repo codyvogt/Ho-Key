@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avtomobilist-AkBars
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Juniorteams-HCAosta
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67740482840b7877dbe047eb/index.m3u8
 #EXTINF:-1, Kaltern/Ritten-Eppan
@@ -24,9 +22,9 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, HPK-TurunPalloseura
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc74959e1b7e4ce48a7d58/index.m3u8
 #EXTINF:-1, PelikaanitHT-Urho
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2ecbef2a0db77fccbb220/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b2ecbef2a0db77fccbb220/index.m3u8
 #EXTINF:-1, ParruHT-GladiatorsHT
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2ecbef2a0db77fccbb224/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b2ecbef2a0db77fccbb224/index.m3u8
 #EXTINF:-1, SuKiKa-HeinolanPeliitat
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbfd0e608a57536eff0fa0/index.m3u8
 #EXTINF:-1, Kisa-Eagles-Uplakers
@@ -50,7 +48,7 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, Hiki-Hockey-KPK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bae3cd608a57536eff0e5d/index.m3u8
 #EXTINF:-1, NokianPyry-Hunters
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aad98d8cb2e447d3979b23/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67aad98d8cb2e447d3979b23/index.m3u8
 #EXTINF:-1, SaPKo-MunsalaIK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbfd0d608a57536eff0f7c/index.m3u8
 #EXTINF:-1, LapuanVirkiä-LeKi
