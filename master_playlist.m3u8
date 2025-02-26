@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist-AkBars
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Juniorteams-HCAosta
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740482840b7877dbe047eb/index.m3u8
+#EXTINF:-1, Kaltern/Ritten-Eppan
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740480840b7877dbe047e7/index.m3u8
+#EXTINF:-1, Pergine-Cortina/Alleghe
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404835969d50f887896ef/index.m3u8
+#EXTINF:-1, Zoldo/Padova-HCBFoxes
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740481840b7877dbe047e9/index.m3u8
+#EXTINF:-1, Asiago-Merano/Bolzano
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404805969d50f887896ed/index.m3u8
+#EXTINF:-1, Trento-AlpsIceAcademy
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6774047f5969d50f887896eb/index.m3u8
+#EXTINF:-1, Como-ValpelliceBulldogs
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/677404835969d50f887896f1/index.m3u8
+#EXTINF:-1, WarriorsBrno-Šumperk
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aedd0df9027e70b3432f1d/index.m3u8
