@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, WarriorsBrno-Šumperk
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aedd0df9027e70b3432f1d/index.m3u8
-#EXTINF:-1, HIFK-TampereenIlves
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc74959e1b7e4ce48a7d56/index.m3u8
-#EXTINF:-1, Kuortane-KalevanPallo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc74959e1b7e4ce48a7d5b/index.m3u8
-#EXTINF:-1, HPK-TurunPalloseura
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc74959e1b7e4ce48a7d58/index.m3u8
-#EXTINF:-1, PelikaanitHT-Urho
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b2ecbef2a0db77fccbb220/index.m3u8
 #EXTINF:-1, ParruHT-GladiatorsHT
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b2ecbef2a0db77fccbb224/index.m3u8
 #EXTINF:-1, SuKiKa-HeinolanPeliitat
