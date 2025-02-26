@@ -1,1 +1,23 @@
 #EXTM3U
+#EXTINF:-1, HolyCross-Vermont
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Merrimack-UNH
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Barrie-GuelphStorm
+https://media-service.fanreachdata.io/edge/ohl/cc800599fe6d44bb8bbf81a9fda122ad.m3u8
+#EXTINF:-1, Niagara-OwenSound
+https://media-service.fanreachdata.io/edge/ohl/f7317b788dad47c8b67f493ee45754f8.m3u8
+#EXTINF:-1, Sarnia-FlintFirebirds
+https://media-service.fanreachdata.io/edge/ohl/483e4eaf75ca4ecca4e41a7f68b0f463.m3u8
+#EXTINF:-1, Sudbury-SaultSte.Marie
+https://media-service.fanreachdata.io/edge/ohl/f559619c481840ffbc28d4c232788437.m3u8
+#EXTINF:-1, Chicoutimi-Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/34d6f1565a1b4d59ae6a5ee220537d7a.m3u8
+#EXTINF:-1, Lethbridge-PrinceAlbert
+https://media-service.fanreachdata.io/edge/whl/47d92c2ab72741638acb44f06d8d6200.m3u8
+#EXTINF:-1, Portland-Kamloops
+https://media-service.fanreachdata.io/edge/whl/9f34f4fe6ec244a395942c4b48660eb9.m3u8
+#EXTINF:-1, Kelowna-PrinceGeorge
+https://media-service.fanreachdata.io/edge/whl/e23e8bdc7c9a490dbb27b4b64429bb8d.m3u8
+#EXTINF:-1, Vancouver-Spokane
+https://media-service.fanreachdata.io/edge/whl/5d0ce03b719548b1aa97349621ac9f81.m3u8
