@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Biel-Bienne-SCLTigers
-fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, LausanneHC-HCFG
-fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, HanhalsIF-Vänersborg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc0c109e1b7e4ce48a7b5e/index.m3u8
 #EXTINF:-1, KRIF-Hockeyalliansen74
@@ -11,22 +7,14 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ba11e29e1b7e4ce48a75fd/index.m3u8
 #EXTINF:-1, NorrtäljeIK-Flemingsberg
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ba11e2e1df377d9e8d6fa2/index.m3u8
-#EXTINF:-1, SegeltorpsIF-SDEHF
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bb392a9e1b7e4ce48a7920/index.m3u8
-#EXTINF:-1, TranebergIK-Hammarby
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bb392a9e1b7e4ce48a7921/index.m3u8
-#EXTINF:-1, LaserHTOulu-Cowboys
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc273d608a57536eff11d3/index.m3u8
-#EXTINF:-1, Nacka-TyresöHanviken
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b8200f608a57536eff06b0/index.m3u8
-#EXTINF:-1, PiteåHC-SunderbySK
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b8178e608a57536eff064c/index.m3u8
-#EXTINF:-1, ÅngeIK-KovlandsIshF
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b81825608a57536eff065c/index.m3u8
-#EXTINF:-1, BodensHF-KalixHC
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc7c8f608a57536eff1387/index.m3u8
 #EXTINF:-1, SHKHC-TeamUppsala
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/679713b15fe3d9289f89e64b/index.m3u8
+#EXTINF:-1, TranebergIK-Hammarby
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bb392a9e1b7e4ce48a7921/index.m3u8
+#EXTINF:-1, Biel-Bienne-SCLTigers
+fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
+#EXTINF:-1, LausanneHC-HCFG
+fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, RungstedIK-RødovreSIK
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6749642520730931ae5e6b34/index.m3u8
 #EXTINF:-1, EVUTeam-HCLudwig
