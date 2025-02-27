@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Severstal-Torpedo
-fluidtv.php?channel=https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, DinamoMinsk-Spartak
 fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, KarlovyVary-BeraniZlín
