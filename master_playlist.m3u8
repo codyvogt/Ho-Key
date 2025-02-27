@@ -3,8 +3,6 @@
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc0c109e1b7e4ce48a7b5e/index.m3u8
 #EXTINF:-1, Biel-Bienne-SCLTigers
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
-#EXTINF:-1, LausanneHC-HCFG
-fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, PiTa-HernesaarenNäädät
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc273d608a57536eff11ec/index.m3u8
 #EXTINF:-1, ÄltaIF-BålstaHC
