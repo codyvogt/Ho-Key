@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-Spartak
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Biel-Bienne-SCLTigers
 fluidtv.php?channel=https://ringier-mp-live.cdn.vustreams.com/out/v1/daa23337a9fc4d1e8b82d19fdc3cdf61/index.m3u8
 #EXTINF:-1, LausanneHC-HCFG
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1, HCLitvínov-Pardubice
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6762ac648edf8a54162c6fea/index.m3u8
+#EXTINF:-1, DuklaJihlava-Liberec
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67a4a57588a15b56457c9363/index.m3u8
