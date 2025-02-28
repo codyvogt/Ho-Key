@@ -13,3 +13,5 @@ https://media-service.fanreachdata.io/edge/ohl/145572f57a474f12a4bf6a18e0172c91.
 https://media-service.fanreachdata.io/edge/ohl/cb99a564a657435fb87a024a2cd094a9.m3u8
 #EXTINF:-1, UMassLowell-UMass
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Admiral-SalavatYulaev
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
