@@ -3,8 +3,6 @@
 fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
 #EXTINF:-1, KalPa-VaasanSport
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aece0ef2a0db77fccba759/index.m3u8
-#EXTINF:-1, HPK-RaumanLukko
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67aece0ef2a0db77fccba74b/index.m3u8
 #EXTINF:-1, JYP-OulunKärpät
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aece0ef2a0db77fccba74e/index.m3u8
 #EXTINF:-1, SaiPa-KouvolanKooKoo
@@ -16,4 +14,4 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 #EXTINF:-1, Kiekko-Espoo-RoKi
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aece0ef2a0db77fccba74d/index.m3u8
 #EXTINF:-1, Jokerit-LahdenPelicans
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aece0ef9027e70b3432ef2/index.m3u8
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67aece0ef9027e70b3432ef2/index.m3u8
