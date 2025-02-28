@@ -67,6 +67,8 @@ https://media-service.fanreachdata.io/edge/ohl/99dedb109926422d9ad3e8b787acac77.
 https://media-service.fanreachdata.io/edge/ohl/30ac9e6352c643ee8a8bedb151ca1fd2.m3u8
 #EXTINF:-1, Flint-GuelphStorm
 https://media-service.fanreachdata.io/edge/ohl/e87a9b6d0d3e41a28b3647d00f1ac1df.m3u8
+#EXTINF:-1, Omaha-USNTDPU17
+fluidtv.php?channel=https://d2iwk35lu8rada.cloudfront.net/bca5f8e6a8de0af9bfa63b15634e7d66/0_hd_hls.m3u8
 #EXTINF:-1, MooseJaw-SwiftCurrent
 https://media-service.fanreachdata.io/edge/whl/e88271f8538840adb248c6e0dc2bf2b9.m3u8
 #EXTINF:-1, Lethbridge-Brandon
