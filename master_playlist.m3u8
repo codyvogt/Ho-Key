@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ducsd'Angers-Chamonix
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc389f608a57536eff126f.m3u8
 #EXTINF:-1, Quinnipiac-Clarkson
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Princeton-Colgate
