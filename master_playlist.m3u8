@@ -1,3 +1,19 @@
 #EXTM3U
-#EXTINF:-1, Aalborg-Frederikshavn
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674cadd0171a4a676e69e15a/index.m3u8
+#EXTINF:-1, Rouen-Amiens
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc389e608a57536eff1259.m3u8
+#EXTINF:-1, Grenoble-AiglesdeNice
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc389e9e1b7e4ce48a7c6e.m3u8
+#EXTINF:-1, Gap-Cergy-Pontoise
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc46ae9e1b7e4ce48a7ca4.m3u8
+#EXTINF:-1, Briançon-Anglet
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc46ae9e1b7e4ce48a7ca6.m3u8
+#EXTINF:-1, Bordeaux-Marseille
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc389f608a57536eff127d.m3u8
+#EXTINF:-1, Ducsd'Angers-Chamonix
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc389f608a57536eff126f.m3u8
+#EXTINF:-1, Neuwied-Heerenveen
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bb8fea608a57536eff0ea4/index.m3u8
+#EXTINF:-1, HijsHokij-HYCHerentals
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bb91159e1b7e4ce48a7959/index.m3u8
+#EXTINF:-1, EatersLimburg-Leuven
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bb8ebe9e1b7e4ce48a794b/index.m3u8
