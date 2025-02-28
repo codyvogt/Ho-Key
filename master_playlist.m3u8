@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Koöice-Spiösk·Nov·Ves
 fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1, SaiPa-KouvolanKooKoo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aece0ef9027e70b3432ef9/index.m3u8
+#EXTINF:-1, K‰rp‰t-Kiekko-Espoo
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc74959e1b7e4ce48a7d53/index.m3u8
 #EXTINF:-1, Ilves-TapparaTampere
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aece0ef9027e70b3432ef3/index.m3u8
 #EXTINF:-1, Porinƒss‰t-TPS
@@ -11,3 +11,11 @@ fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67aece0ef2a0db77fccba74d/index.m3u8
 #EXTINF:-1, Jokerit-LahdenPelicans
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67aece0ef9027e70b3432ef2/index.m3u8
+#EXTINF:-1, LeKi-LapuanVirki‰
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bbfd0e608a57536eff0f8c/index.m3u8
+#EXTINF:-1, PorvoonHunters-Pyry
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bbfd0e608a57536eff0f8d/index.m3u8
+#EXTINF:-1, JHT-J‰rvenp‰‰nHaukat
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbfd0e608a57536eff0f84/index.m3u8
+#EXTINF:-1, MunsalaIK-SaPKo
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbfd0d608a57536eff0f7e/index.m3u8
