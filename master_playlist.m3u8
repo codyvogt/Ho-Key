@@ -3,10 +3,6 @@
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc389e608a57536eff1259.m3u8
 #EXTINF:-1, Grenoble-AiglesdeNice
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc389e9e1b7e4ce48a7c6e.m3u8
-#EXTINF:-1, Gap-Cergy-Pontoise
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc46ae9e1b7e4ce48a7ca4.m3u8
-#EXTINF:-1, Briançon-Anglet
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc46ae9e1b7e4ce48a7ca6.m3u8
 #EXTINF:-1, Bordeaux-Marseille
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc389f608a57536eff127d.m3u8
 #EXTINF:-1, Ducsd'Angers-Chamonix
