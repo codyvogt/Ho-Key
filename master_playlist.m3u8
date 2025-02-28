@@ -1,15 +1,23 @@
 #EXTM3U
-#EXTINF:-1, Košice-SpišskáNováVes
-fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1, MunsalaIK-SaPKo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbfd0d608a57536eff0f7e/index.m3u8
 #EXTINF:-1, KraftHockey-JPK
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bae3cd608a57536eff0e5c/index.m3u8
-#EXTINF:-1, HighsticksHT-APV
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bb2a1ededfb526bd712687/index.m3u8
-#EXTINF:-1, KuRy-IFKLepplax
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbfd0d9e1b7e4ce48a7aa8/index.m3u8
 #EXTINF:-1, MalaxIF-IKKronan
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bad5be9e1b7e4ce48a78df/index.m3u8
 #EXTINF:-1, GladiatorsHT-ParruHT
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b2ecbef2a0db77fccbb222/index.m3u8
+#EXTINF:-1, LaserHTAk-JHTAk
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b4302d89ae40367a251558/index.m3u8
+#EXTINF:-1, RocketsLoimaa-TarU
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bb2a1ededfb526bd712685/index.m3u8
+#EXTINF:-1, S-KiekkoTeam-Kiva
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc7b9d9e1b7e4ce48a7d76/index.m3u8
+#EXTINF:-1, VG-62IINaantali-LLuja
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc5f7d9e1b7e4ce48a7d19/index.m3u8
+#EXTINF:-1, Riemu2-MUIKHockeyII
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b324ff89ae40367a25142e/index.m3u8
+#EXTINF:-1, HCKSalamat-KHK
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bd5c9d608a57536eff1418/index.m3u8
+#EXTINF:-1, HCVrchlabí-StadionCheb
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/66c737847959d90e21c27e68/index.m3u8
+#EXTINF:-1, HCHlinsko-NovýBydžov
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b2edb6f9027e70b343398d/index.m3u8
