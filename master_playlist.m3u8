@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, LevBenešov-KobraPraha
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b7449f608a57536eff05c7/index.m3u8
+#EXTINF:-1, Esbjerg-SønderjyskE
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674cadd1fb9e1d37d50093c5/index.m3u8
+#EXTINF:-1, OdenseBulldogs-Rødovre
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/674cadd1fb9e1d37d50093c7/index.m3u8
+#EXTINF:-1, Aalborg-Frederikshavn
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/674cadd0171a4a676e69e15a/index.m3u8
+#EXTINF:-1, HerlevEagles-Rungsted
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/674cadd0fb9e1d37d50093c3/index.m3u8
