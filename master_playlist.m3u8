@@ -1,30 +1,20 @@
 #EXTM3U
-#EXTINF:-1, Meudon2-Champigny
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1664ff2a0db77fccbac1e/index.m3u8
-#EXTINF:-1, DogsdeCholet2-Rennes
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1664ef9027e70b34332ca/index.m3u8
-#EXTINF:-1, Briançon2-Nîmes
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1664ef9027e70b34332ce.m3u8
-#EXTINF:-1, Compiègne-Garges
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b1664ef9027e70b34332d2/index.m3u8
 #EXTINF:-1, Grenoble-AiglesdeNice
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc389e608a57536eff1253.m3u8
 #EXTINF:-1, Rouen-Amiens
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc389e608a57536eff1257.m3u8
-#EXTINF:-1, AlbatrosdeBrest-Cholet
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b1664ef2a0db77fccbac04/index.m3u8
-#EXTINF:-1, HCAosta-Valdifiemme
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc729d9e1b7e4ce48a7d43/index.m3u8
-#EXTINF:-1, Leuven-EatersLimburg
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bb8ebf9e1b7e4ce48a794d/index.m3u8
 #EXTINF:-1, Heerenveen-Neuwied
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bb8fec9e1b7e4ce48a7953/index.m3u8
-#EXTINF:-1, HCPiné-HCAostaII
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67a9bd318cb2e447d3979a12/index.m3u8
-#EXTINF:-1, Quinnipiac-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Yale-St.Lawrence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Annecy-Châlons
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc46ad608a57536eff12b2/index.m3u8
+#EXTINF:-1, Clermont-Ferrand-Dijon
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc54bd9e1b7e4ce48a7cf5/index.m3u8
+#EXTINF:-1, Anglet2-Wasquehal
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc54bd9e1b7e4ce48a7cf3.m3u8
+#EXTINF:-1, Briançon2-Nîmes
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b1664ef9027e70b34332ce.m3u8
+#EXTINF:-1, Compiègne-Garges
+fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b1664ef9027e70b34332d2/index.m3u8
 #EXTINF:-1, Union-Cornell
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
 #EXTINF:-1, Vermont-BostonU
@@ -37,12 +27,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/boston
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Northeastern-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Annecy-Châlons
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc46ad608a57536eff12b2/index.m3u8
-#EXTINF:-1, Clermont-Ferrand-Dijon
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc54bd9e1b7e4ce48a7cf5/index.m3u8
-#EXTINF:-1, Anglet2-Wasquehal
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc54bd9e1b7e4ce48a7cf3.m3u8
 #EXTINF:-1, Rimouski-Baie-Comeau
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/40b57e16cc50447caf2e02243039e822.m3u8
 #EXTINF:-1, Chicoutimi-RNHuskies
@@ -57,3 +41,39 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/1c507b68176
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/cfb1cf06baf7441c93a4dd9b15b46a8f.m3u8
 #EXTINF:-1, Colgate-Union
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, UND-WesternMichigan
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f8c7cb76-c53c-4711-a13b-50aae085bd7b-hls/master/f8c7cb76-c53c-4711-a13b-50aae085bd7b-hls.m3u8
+#EXTINF:-1, UMass-UMassLowell
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, NMU-FerrisState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, Harvard-Brown
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Princeton-Clarkson
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Cornell-Rensselaer
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Quinnipiac-St.Lawrence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Dartmouth-Yale
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Providence-Merrimack
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Vermont-Maine
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, BostonC-NewHampshire
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, LSSU-BowlingGreen
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, BSU-MinnesotaState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, MTU-St.Thomas
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, Miami-MinnesotaDuluth
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a1b1350d-5b3e-49a7-b63d-e35a01fb9260-hls/master/a1b1350d-5b3e-49a7-b63d-e35a01fb9260-hls.m3u8
+#EXTINF:-1, Connecticut-Northeastern
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, St.CloudState-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/878d20d3-d00c-46f4-9c34-f48d02736ae5-hls/master/878d20d3-d00c-46f4-9c34-f48d02736ae5-hls.m3u8
+#EXTINF:-1, ASU-Nebraska-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a3e35d5a-80ae-4b2f-b5b3-90d1bed2453f-hls/master/a3e35d5a-80ae-4b2f-b5b3-90d1bed2453f-hls.m3u8
