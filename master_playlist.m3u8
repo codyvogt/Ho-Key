@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Edmonton-PrinceAlbert
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/f8471d45e41145278d78faa590929f37.m3u8
 #EXTINF:-1, Calgary-RedDeerRebels
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/203d7b89c48243258211a03c02f7744a.m3u8
 #EXTINF:-1, Kamloops-PrinceGeorge
@@ -13,8 +11,6 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/1f73d28a02f24
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/ecff908a3707421b819c961a141df995.m3u8
 #EXTINF:-1, Portland-VictoriaRoyals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a7b4069aff0145c1b5a92a89c3f47e17.m3u8
-#EXTINF:-1, BSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, St.CloudState-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8c95b940-c6db-4083-90df-7e092a5a8acd-hls/master/8c95b940-c6db-4083-90df-7e092a5a8acd-hls.m3u8
 #EXTINF:-1, TPS-RaumanLukko
