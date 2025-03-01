@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Princeton-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Union-Cornell
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
 #EXTINF:-1, Drummondville-Moncton
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/131e54c1ce804f1abdc6ba7115004481.m3u8
 #EXTINF:-1, Halifax-Acadie-Bathurst
@@ -19,6 +15,20 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/130bb0cbd9e
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/4b649af3bd074eb1b75b580184d5b1f5.m3u8
 #EXTINF:-1, Sherbrooke-Victoriaville
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/30bfe004532242c5be769a5bb4ebbd22.m3u8
+#EXTINF:-1, Oshawa-Brantford
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/a67e53d066a247028cacce4e1fd3a5a4.m3u8
+#EXTINF:-1, Windsor-Kingston
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/9fe453670f3f4fa7bc3d4268d1e316ff.m3u8
+#EXTINF:-1, SarniaSting-Kitchener
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/08d5126e5a964a95a71bb30965878596.m3u8
+#EXTINF:-1, OwenSound-London
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/a6a4c4fbd354415fb6cac79286b12a24.m3u8
+#EXTINF:-1, Saginaw-SudburyWolves
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/99dedb109926422d9ad3e8b787acac77.m3u8
+#EXTINF:-1, BramptonSteelheads-Soo
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/30ac9e6352c643ee8a8bedb151ca1fd2.m3u8
+#EXTINF:-1, Flint-GuelphStorm
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/e87a9b6d0d3e41a28b3647d00f1ac1df.m3u8
 #EXTINF:-1, Dartmouth-Brown
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Colgate-Rensselaer
@@ -51,20 +61,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnstho
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls/master/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls.m3u8
 #EXTINF:-1, St.CloudState-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8c95b940-c6db-4083-90df-7e092a5a8acd-hls/master/8c95b940-c6db-4083-90df-7e092a5a8acd-hls.m3u8
-#EXTINF:-1, Oshawa-Brantford
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/a67e53d066a247028cacce4e1fd3a5a4.m3u8
-#EXTINF:-1, Windsor-Kingston
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/9fe453670f3f4fa7bc3d4268d1e316ff.m3u8
-#EXTINF:-1, SarniaSting-Kitchener
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/08d5126e5a964a95a71bb30965878596.m3u8
-#EXTINF:-1, OwenSound-London
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/a6a4c4fbd354415fb6cac79286b12a24.m3u8
-#EXTINF:-1, Saginaw-SudburyWolves
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/99dedb109926422d9ad3e8b787acac77.m3u8
-#EXTINF:-1, BramptonSteelheads-Soo
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/30ac9e6352c643ee8a8bedb151ca1fd2.m3u8
-#EXTINF:-1, Flint-GuelphStorm
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/e87a9b6d0d3e41a28b3647d00f1ac1df.m3u8
 #EXTINF:-1, Omaha-USNTDPU17
 fluidtv.php?channel=https://d2iwk35lu8rada.cloudfront.net/bca5f8e6a8de0af9bfa63b15634e7d66/0_hd_hls.m3u8
 #EXTINF:-1, MooseJaw-SwiftCurrent
