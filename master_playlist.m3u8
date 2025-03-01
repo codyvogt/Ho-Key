@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Chicoutimi-RNHuskies
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/f3b2a12cd1f4496fb68af5d2f03fcf6e.m3u8
 #EXTINF:-1, Québec-Shawinigan
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/4b649af3bd074eb1b75b580184d5b1f5.m3u8
-#EXTINF:-1, Saginaw-SudburyWolves
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/99dedb109926422d9ad3e8b787acac77.m3u8
-#EXTINF:-1, Quinnipiac-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, BSU-MinnesotaState
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, ASU-Nebraska-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls/master/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls.m3u8
-#EXTINF:-1, St.CloudState-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8c95b940-c6db-4083-90df-7e092a5a8acd-hls/master/8c95b940-c6db-4083-90df-7e092a5a8acd-hls.m3u8
 #EXTINF:-1, MooseJaw-SwiftCurrent
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/e88271f8538840adb248c6e0dc2bf2b9.m3u8
 #EXTINF:-1, Lethbridge-Brandon
@@ -33,3 +21,9 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/1f73d28a02f24
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/ecff908a3707421b819c961a141df995.m3u8
 #EXTINF:-1, Portland-VictoriaRoyals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a7b4069aff0145c1b5a92a89c3f47e17.m3u8
+#EXTINF:-1, BSU-MinnesotaState
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, ASU-Nebraska-Omaha
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls/master/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls.m3u8
+#EXTINF:-1, St.CloudState-Denver
+fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8c95b940-c6db-4083-90df-7e092a5a8acd-hls/master/8c95b940-c6db-4083-90df-7e092a5a8acd-hls.m3u8
