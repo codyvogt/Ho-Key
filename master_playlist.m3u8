@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Drummondville-Moncton
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/131e54c1ce804f1abdc6ba7115004481.m3u8
 #EXTINF:-1, Halifax-Acadie-Bathurst
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/2e02a721d8e840ad9c0ccc2f5ed68e84.m3u8
-#EXTINF:-1, Blainville-B.-Chtown
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/d8e438148bed4baf9c29684e74eb78f2.m3u8
 #EXTINF:-1, Rimouski-Baie-Comeau
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/a873045b244b4fe49bdda88cb57e2195.m3u8
 #EXTINF:-1, Chicoutimi-RNHuskies
