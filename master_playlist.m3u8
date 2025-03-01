@@ -11,8 +11,16 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/fc801fe1feb
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/1c507b6817624390bcfd9c6044d4c419.m3u8
 #EXTINF:-1, Drummondville-Chtown
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/cfb1cf06baf7441c93a4dd9b15b46a8f.m3u8
-#EXTINF:-1, Colgate-Union
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Vermont-BostonU
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Merrimack-Connecticut
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Maine-BostonCollege
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Princeton-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Northeastern-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, UND-WesternMichigan
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f8c7cb76-c53c-4711-a13b-50aae085bd7b-hls/master/f8c7cb76-c53c-4711-a13b-50aae085bd7b-hls.m3u8
 #EXTINF:-1, UMass-UMassLowell
@@ -49,16 +57,6 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northe
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/878d20d3-d00c-46f4-9c34-f48d02736ae5-hls/master/878d20d3-d00c-46f4-9c34-f48d02736ae5-hls.m3u8
 #EXTINF:-1, ASU-Nebraska-Omaha
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a3e35d5a-80ae-4b2f-b5b3-90d1bed2453f-hls/master/a3e35d5a-80ae-4b2f-b5b3-90d1bed2453f-hls.m3u8
-#EXTINF:-1, Vermont-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Merrimack-Connecticut
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Maine-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Princeton-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Northeastern-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Flint-ErieOtters
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/6a874fcca73648c5893b52f611149912.m3u8
 #EXTINF:-1, Kitchener-OwenSound
