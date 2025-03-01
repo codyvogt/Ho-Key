@@ -83,3 +83,17 @@ fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/boston
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Northeastern-Providence
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Rimouski-Baie-Comeau
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/40b57e16cc50447caf2e02243039e822.m3u8
+#EXTINF:-1, Chicoutimi-RNHuskies
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/efe4e0655a3f4f6fa60baba62c81df52.m3u8
+#EXTINF:-1, Victoriaville-Sherbrooke
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/bc892d8a12c84946a737858107ac5af3.m3u8
+#EXTINF:-1, Blainville-B.-Moncton
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/fc801fe1febf4440ae627e29510718e0.m3u8
+#EXTINF:-1, SaintJohn-CapeBreton
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/1c507b6817624390bcfd9c6044d4c419.m3u8
+#EXTINF:-1, Drummondville-Chtown
+fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/cfb1cf06baf7441c93a4dd9b15b46a8f.m3u8
+#EXTINF:-1, Colgate-Union
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
