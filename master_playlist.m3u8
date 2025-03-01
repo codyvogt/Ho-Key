@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Calgary-RedDeerRebels
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/203d7b89c48243258211a03c02f7744a.m3u8
-#EXTINF:-1, Kamloops-PrinceGeorge
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/fa6cd35ba45b4a76b0c2b73e81d32c74.m3u8
-#EXTINF:-1, WenatcheeWild-Spokane
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/97c2019d51934c8a8a3d50bf5843cfed.m3u8
-#EXTINF:-1, VancouverGiants-Tri-City
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/1f73d28a02f247829afce42a9cb27c12.m3u8
-#EXTINF:-1, Seattle-EverettSilvertips
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/ecff908a3707421b819c961a141df995.m3u8
-#EXTINF:-1, Portland-VictoriaRoyals
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a7b4069aff0145c1b5a92a89c3f47e17.m3u8
-#EXTINF:-1, St.CloudState-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8c95b940-c6db-4083-90df-7e092a5a8acd-hls/master/8c95b940-c6db-4083-90df-7e092a5a8acd-hls.m3u8
 #EXTINF:-1, TPS-RaumanLukko
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaa0f/index.m3u8
 #EXTINF:-1, HPK-RovaniemenKiekko
