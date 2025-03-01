@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SaPKo-FoPS
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67b01f8ef9027e70b34331bb/index.m3u8
-#EXTINF:-1, Sein‰joen-Kiekko-Viikingit
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaacd/index.m3u8
-#EXTINF:-1, KJTHaukatAk-Hokki
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67b01f8ef2a0db77fccbaa52/index.m3u8
-#EXTINF:-1, GrIFK-KeuPaHT/Diskos
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaa70/index.m3u8
-#EXTINF:-1, KOOVEE-Karhu-Kissat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaab7/index.m3u8
-#EXTINF:-1, ImatranKetter‰-TUTO
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaac8/index.m3u8
-#EXTINF:-1, K-EspooCh-Jokipojat
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaac7/index.m3u8
 #EXTINF:-1, TuusKiekko-J‰‰-Ahmat
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bc273d608a57536eff11d8/index.m3u8
 #EXTINF:-1, KPK-Hiki-Hockey
