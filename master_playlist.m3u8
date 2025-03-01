@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Calgary-FloridaPanthers
-fluidtv.php?channel=https://fl5.moveonjoy.com/NHL_3/index.m3u8
 #EXTINF:-1, Bern-Genève-Servette
 fluidtv.php?channel=https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, Fribourg-Gottéron-HCAP
 fluidtv.php?channel=https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, VärnamoGIK-Jonstorp
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc0c109e1b7e4ce48a7b63/index.m3u8
-#EXTINF:-1, KilsAIK-GävleGIK
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67baba42608a57536eff0d0c/index.m3u8
-#EXTINF:-1, DraciBílina-SlovanLouny
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bd95d4608a57536eff14ae/index.m3u8
+#EXTINF:-1, HKVipers-Välk494
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b0c941f9027e70b343325f/index.m3u8
