@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Québec-Shawinigan
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/4b649af3bd074eb1b75b580184d5b1f5.m3u8
-#EXTINF:-1, MooseJaw-SwiftCurrent
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/e88271f8538840adb248c6e0dc2bf2b9.m3u8
-#EXTINF:-1, Lethbridge-Brandon
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/38e192da245d46a681c4d2c7eca5bb34.m3u8
 #EXTINF:-1, Edmonton-PrinceAlbert
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/f8471d45e41145278d78faa590929f37.m3u8
-#EXTINF:-1, MedicineHat-Regina
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/3926978a61e74647a1a82fce91ed32b5.m3u8
 #EXTINF:-1, Calgary-RedDeerRebels
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/203d7b89c48243258211a03c02f7744a.m3u8
 #EXTINF:-1, Kamloops-PrinceGeorge
@@ -23,7 +15,19 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/ecff908a37074
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a7b4069aff0145c1b5a92a89c3f47e17.m3u8
 #EXTINF:-1, BSU-MinnesotaState
 fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
-#EXTINF:-1, ASU-Nebraska-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls/master/1977e642-57f7-40d3-8b83-3f74a72fdc75-hls.m3u8
 #EXTINF:-1, St.CloudState-Denver
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8c95b940-c6db-4083-90df-7e092a5a8acd-hls/master/8c95b940-c6db-4083-90df-7e092a5a8acd-hls.m3u8
+#EXTINF:-1, TPS-RaumanLukko
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaa0f/index.m3u8
+#EXTINF:-1, HPK-RovaniemenKiekko
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccba9ef/index.m3u8
+#EXTINF:-1, Ilves-Kiekko-Espoo
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccba9ed/index.m3u8
+#EXTINF:-1, KooKoo-LahdenPelicans
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccba9f6/index.m3u8
+#EXTINF:-1, MikkelinJukurit-Kärpät
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccbaa20/index.m3u8
+#EXTINF:-1, VG-62-UplakersYlöjärvi
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b01f8ef2a0db77fccba9e2/index.m3u8
+#EXTINF:-1, Benátkyn.J.B-Žebrák
+fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b8880d9e1b7e4ce48a7348/index.m3u8
