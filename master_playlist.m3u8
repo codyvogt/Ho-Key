@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Rimouski-Baie-Comeau
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/40b57e16cc50447caf2e02243039e822.m3u8
-#EXTINF:-1, Chicoutimi-RNHuskies
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/efe4e0655a3f4f6fa60baba62c81df52.m3u8
+#EXTINF:-1, Maine-BostonCollege
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Princeton-Colgate
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Northeastern-Providence
+fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Victoriaville-Sherbrooke
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/bc892d8a12c84946a737858107ac5af3.m3u8
 #EXTINF:-1, Blainville-B.-Moncton
@@ -11,14 +13,6 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/fc801fe1feb
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/1c507b6817624390bcfd9c6044d4c419.m3u8
 #EXTINF:-1, Drummondville-Chtown
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/cfb1cf06baf7441c93a4dd9b15b46a8f.m3u8
-#EXTINF:-1, Vermont-BostonU
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Maine-BostonCollege
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Princeton-Colgate
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Northeastern-Providence
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, UND-WesternMichigan
 fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f8c7cb76-c53c-4711-a13b-50aae085bd7b-hls/master/f8c7cb76-c53c-4711-a13b-50aae085bd7b-hls.m3u8
 #EXTINF:-1, UMass-UMassLowell
@@ -85,3 +79,5 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/c492dd829e3e4
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/89a628343beb43d2a7573e61d44e4c01.m3u8
 #EXTINF:-1, Portland-VictoriaRoyals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/0a8eef8f818b4da1beb1477238c9a491.m3u8
+#EXTINF:-1, Omaha-USNTDPU17
+fluidtv.php?channel=https://dkb4f04wyt1nj.cloudfront.net/00121e76897668f03a9aa2e32ef782d9/0_hd_hls.m3u8
