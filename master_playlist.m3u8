@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Grenoble-AiglesdeNice
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc389e608a57536eff1253.m3u8
-#EXTINF:-1, Rouen-Amiens
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67bc389e608a57536eff1257.m3u8
 #EXTINF:-1, Heerenveen-Neuwied
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bb8fec9e1b7e4ce48a7953/index.m3u8
 #EXTINF:-1, Annecy-Châlons
