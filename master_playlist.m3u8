@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, MedicineHat-Brandon
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/5282daaff8434a92bcd5fd2e6df566cb.m3u8
-#EXTINF:-1, Saskatoon-MooseJaw
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/81368db96c7244c9b3758fab45538ecd.m3u8
 #EXTINF:-1, PARaiders-SwiftCurrent
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a83f68196ea9495b80d345a5c17bbfc9.m3u8
 #EXTINF:-1, Tri-City-WenatcheeWild
