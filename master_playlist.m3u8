@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, PARaiders-SwiftCurrent
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a83f68196ea9495b80d345a5c17bbfc9.m3u8
 #EXTINF:-1, Tri-City-WenatcheeWild
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a54e5eb31e13417eb5edec5fb6fec7a8.m3u8
 #EXTINF:-1, PrinceGeorge-Kamloops
@@ -13,7 +11,3 @@ fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/c492dd829e3e4
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/89a628343beb43d2a7573e61d44e4c01.m3u8
 #EXTINF:-1, Portland-VictoriaRoyals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/0a8eef8f818b4da1beb1477238c9a491.m3u8
-#EXTINF:-1, St.CloudState-Denver
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/878d20d3-d00c-46f4-9c34-f48d02736ae5-hls/master/878d20d3-d00c-46f4-9c34-f48d02736ae5-hls.m3u8
-#EXTINF:-1, ASU-Nebraska-Omaha
-fluidtv.php?channel=https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a3e35d5a-80ae-4b2f-b5b3-90d1bed2453f-hls/master/a3e35d5a-80ae-4b2f-b5b3-90d1bed2453f-hls.m3u8
