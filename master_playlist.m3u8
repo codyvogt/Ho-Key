@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Québec-Gatineau
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/1dbc7d4301d24d6c9a353b9789cb52cf.m3u8
 #EXTINF:-1, PeterboroughPetes-Erie
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c8870e48a5d94fb78c59ddc302de1212.m3u8
 #EXTINF:-1, London-OshawaGenerals
