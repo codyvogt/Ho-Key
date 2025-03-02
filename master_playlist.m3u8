@@ -3,8 +3,6 @@
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c8870e48a5d94fb78c59ddc302de1212.m3u8
 #EXTINF:-1, London-OshawaGenerals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/8ccb8ebc806a456ea3d1cfc973ee6691.m3u8
-#EXTINF:-1, Kelowna-CalgaryHitmen
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/9d952ba186ae477c8358e76f07c7e284.m3u8
 #EXTINF:-1, Edmonton-Saskatoon
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/a4693bcac0704c0998e221a384bb9fce.m3u8
 #EXTINF:-1, Wenatchee-Vancouver
