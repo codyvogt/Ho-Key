@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HYCHerentals-HijsHokij
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bb91159e1b7e4ce48a795b/index.m3u8
 #EXTINF:-1, Drummondville-ABTitan
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/0692fac09cdd4f6596c3c48f3394d64e.m3u8
 #EXTINF:-1, SaintJohn-CapeBreton
