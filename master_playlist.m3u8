@@ -1,32 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Drummondville-ABTitan
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/0692fac09cdd4f6596c3c48f3394d64e.m3u8
-#EXTINF:-1, SaintJohn-CapeBreton
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/9787713c1f2c4579b85f25a6f4f635c8.m3u8
 #EXTINF:-1, Québec-Gatineau
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/1dbc7d4301d24d6c9a353b9789cb52cf.m3u8
 #EXTINF:-1, Chicoutimi-Val-d'Or
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/508ffbdea95c4762ba470c0750d90a3b.m3u8
 #EXTINF:-1, Shawinigan-Sherbrooke
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/0494099e4aec47bcb37e01175494dad2.m3u8
-#EXTINF:-1, Windsor-Ottawa67's
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/7ff64f3bd26c4802841a518763185d54.m3u8
-#EXTINF:-1, Saginaw-NorthBay
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/021c93d282584ffeb00971c8acbb8a45.m3u8
-#EXTINF:-1, Brampton-Sudbury
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/0228e6a5a15444f18154868477fa7715.m3u8
-#EXTINF:-1, Guelph-SarniaSting
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/ef8c5012cc6741c8a820e5a181dcddde.m3u8
 #EXTINF:-1, PeterboroughPetes-Erie
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/c8870e48a5d94fb78c59ddc302de1212.m3u8
 #EXTINF:-1, London-OshawaGenerals
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/ohl/8ccb8ebc806a456ea3d1cfc973ee6691.m3u8
-#EXTINF:-1, Chalmers-ÅbyHC
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc156e608a57536eff117d/index.m3u8
-#EXTINF:-1, Quinnipiac-Clarkson
-fluidtv.php?channel=https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, HernesaarenNäädät-PiTa
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc273d608a57536eff11ed/index.m3u8
 #EXTINF:-1, Kelowna-CalgaryHitmen
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/whl/9d952ba186ae477c8358e76f07c7e284.m3u8
 #EXTINF:-1, Edmonton-Saskatoon
