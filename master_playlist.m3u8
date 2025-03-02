@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Nitra-DuklaMichalovce
-fluidtv.php?channel=https://televize.dlplive.online/live/sport1_cz_avc_25p/playlist.m3u8
-#EXTINF:-1, LeksandsIF-FärjestadBK
-fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67beb3299e1b7e4ce48a800b/index.m3u8
 #EXTINF:-1, HCVimperk-HCMilevsko
 fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67baba95608a57536eff0d42/index.m3u8
 #EXTINF:-1, LevSlaný-VelkéPopovice
