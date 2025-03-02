@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1, S-KiekkoTeam-Kiva
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc7b9d9e1b7e4ce48a7d71/index.m3u8
-#EXTINF:-1, YläkemijoenKiekko-KiPS
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc192d9e1b7e4ce48a7c02/index.m3u8
-#EXTINF:-1, Riemu2-MunsalaIKII
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b324ff89ae40367a25142b/index.m3u8
-#EXTINF:-1, ValkealanKiekko-AaKoo
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b324ff89ae40367a25142d/index.m3u8
+#EXTINF:-1, Spartak-AvangardOmsk
+fluidtv.php?channel=https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1, DinamoMinsk-SKA
+fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Munksund-IFSundsvall
 fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc0ca5608a57536eff10d1/index.m3u8
