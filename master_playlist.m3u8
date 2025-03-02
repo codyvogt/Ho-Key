@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Cortina/Alleghe-Kaltern
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67740485840b7877dbe047ed/index.m3u8
-#EXTINF:-1, Hlubokán.V.-Veselín.L.
-fluidtv.php?channel=https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67c07116608a57536eff18ed/index.m3u8
-#EXTINF:-1, HC74-DrakkarsdeCaen
-fluidtv.php?channel=https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bc7eee608a57536eff13b3.m3u8
 #EXTINF:-1, HYCHerentals-HijsHokij
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bb91159e1b7e4ce48a795b/index.m3u8
 #EXTINF:-1, Drummondville-ABTitan
