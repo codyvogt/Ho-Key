@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Québec-Gatineau
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/1dbc7d4301d24d6c9a353b9789cb52cf.m3u8
-#EXTINF:-1, Chicoutimi-Val-d'Or
-fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/508ffbdea95c4762ba470c0750d90a3b.m3u8
 #EXTINF:-1, Shawinigan-Sherbrooke
 fluidtv.php?channel=https://media-service.fanreachdata.io/edge/lhjmq/0494099e4aec47bcb37e01175494dad2.m3u8
 #EXTINF:-1, PeterboroughPetes-Erie
