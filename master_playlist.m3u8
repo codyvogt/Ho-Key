@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DinamoMinsk-KunlunRS
-fluidtv.php?channel=https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, JHT-J‰rvenp‰‰nHaukat
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bbfd0e608a57536eff0f8e/index.m3u8
 #EXTINF:-1, LeKi-LapuanVirki‰
