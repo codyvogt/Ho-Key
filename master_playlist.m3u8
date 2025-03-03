@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, MunsalaIK-SaPKo
 fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67bbfd0d608a57536eff0f7d/index.m3u8
+#EXTINF:-1, Rungsted-EsbjergEnergy
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6751c8d8c412906a2afce813/index.m3u8
+#EXTINF:-1, HuddingeIK-Tyresö
+fluidtv.php?channel=https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67c481b9608a57536eff220f/index.m3u8
