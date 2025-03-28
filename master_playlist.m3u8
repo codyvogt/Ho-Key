@@ -1,34 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Odense - SønderjyskE
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e3a3356e2e851cd1a6f121/index.m3u8
 #EXTINF:-1, Bentley - Boston College
 https://fl5.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1, Quinnipiac - Connecticut
 https://fl5.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1, Penn State - Maine
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1, Leksands IF - Mora IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dfdcd06e2e851cd1a6ebdf/index.m3u8
-#EXTINF:-1, Frölunda HC - Örebro HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dfdcd06e2e851cd1a6ebe0/index.m3u8
-#EXTINF:-1, Västerås IK - Växjö Lakers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de5aaca589da02f3723f5b/index.m3u8
-#EXTINF:-1, Almtuna IS - Troja-Ljungby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de5729a589da02f3723f4a/index.m3u8
-#EXTINF:-1, Jonstorps IF - Kungälvs IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67de51036e2e851cd1a6e98f/index.m3u8
-#EXTINF:-1, Bäcken HC - Vita Hästen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67de5d4fa589da02f3723f79/index.m3u8
-#EXTINF:-1, Strömsbro IF - IFK Arboga
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67de5aab6e2e851cd1a6e9c2/index.m3u8
-#EXTINF:-1, Grums IK - Valbo HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de51036e2e851cd1a6e98e/index.m3u8
-#EXTINF:-1, Karlovy Vary B - SC Kolín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67d80fed22d5786290a198ec/index.m3u8
-#EXTINF:-1, Opava - Valašské Meziříčí
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67dd39d5400e0f7e40b2ace5/index.m3u8
-#EXTINF:-1, Lindlövens IF - Hudiksvall
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de5485a589da02f3723f3b/index.m3u8
 #EXTINF:-1, Huddinge Tigers - Knivsta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de5b8ea589da02f3723f75/index.m3u8
 #EXTINF:-1, Hammarö HC - Viking HC
@@ -39,3 +15,45 @@ https://content.aisportswatch.com/484170/master.m3u8
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e13ebfa589da02f372453e.m3u8
 #EXTINF:-1, Eaters Limburg - Neuwied
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d73d1222d5786290a1969e/index.m3u8
+#EXTINF:-1, Québec - Moncton
+https://media-service.fanreachdata.io/edge/lhjmq/44333426de5a4b388aeee350465acd63.m3u8
+#EXTINF:-1, Halifax - Drummondville
+https://media-service.fanreachdata.io/edge/lhjmq/2edd526b74e04f62911b6b2e65983d20.m3u8
+#EXTINF:-1, Gatineau - Rouyn-Noranda
+https://media-service.fanreachdata.io/edge/lhjmq/ab74c7a00b5d40a9b2626ade25a10340.m3u8
+#EXTINF:-1, Cape Breton - Baie-Comeau
+https://media-service.fanreachdata.io/edge/lhjmq/8db1698713cf4415a4a7b7bc8fb9fa27.m3u8
+#EXTINF:-1, Charlottetown - Rimouski
+https://media-service.fanreachdata.io/edge/lhjmq/e260360ab4ac48d6a3ca6aa119f2cf04.m3u8
+#EXTINF:-1, Val-d'Or - Shawinigan
+https://media-service.fanreachdata.io/edge/lhjmq/59699df0f68d4fc68bde592737fcfeac.m3u8
+#EXTINF:-1, AB Titan - Chicoutimi
+https://media-service.fanreachdata.io/edge/lhjmq/fdfa7a90d3934bbc99cc93b60299bb8a.m3u8
+#EXTINF:-1, Sherbrooke - Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/02ea3757fab54d07bf46e7daeed3f887.m3u8
+#EXTINF:-1, North Bay - Brantford
+https://media-service.fanreachdata.io/edge/ohl/b14708a2668f4acdab82230cd3bd5624.m3u8
+#EXTINF:-1, Flint - Kitchener Rangers
+https://media-service.fanreachdata.io/edge/ohl/37e9bb80f13f47f6955d0652e2ad5879.m3u8
+#EXTINF:-1, Owen Sound - London
+https://media-service.fanreachdata.io/edge/ohl/49c0182c196e41b3befe6b9d03254905.m3u8
+#EXTINF:-1, Sudbury Wolves - Kingston
+https://media-service.fanreachdata.io/edge/ohl/7d075d49f38145deb37668b39bd5f896.m3u8
+#EXTINF:-1, Brampton - Oshawa
+https://media-service.fanreachdata.io/edge/ohl/8bd4589215a44858a7f2bdb40d6304ec.m3u8
+#EXTINF:-1, Edmonton - Prince Albert
+https://media-service.fanreachdata.io/edge/whl/770f68761e76463ea40c80737d91eb5b.m3u8
+#EXTINF:-1, Saskatoon - Calgary
+https://media-service.fanreachdata.io/edge/whl/3bcd4ef0d4c0456183aa9d578a50a9b6.m3u8
+#EXTINF:-1, Brandon - Lethbridge
+https://media-service.fanreachdata.io/edge/whl/34290a78c524438687fa2d8d5a0c02b9.m3u8
+#EXTINF:-1, SC Broncos - Medicine Hat
+https://media-service.fanreachdata.io/edge/whl/12268dda74f341518ade552d9cc6e289.m3u8
+#EXTINF:-1, Portland - Prince George
+https://media-service.fanreachdata.io/edge/whl/b56395d6c2be4682a35e404322358552.m3u8
+#EXTINF:-1, Spokane Chiefs - Vancouver
+https://media-service.fanreachdata.io/edge/whl/f6be2bbc153f49b98e57d2e7897828a3.m3u8
+#EXTINF:-1, Seattle - Everett Silvertips
+https://media-service.fanreachdata.io/edge/whl/db1e1e63d8de4711b708561398497db3.m3u8
+#EXTINF:-1, Tri-City - Victoria Royals
+https://media-service.fanreachdata.io/edge/whl/d39b908f3eca4f81b6a823dab529c024.m3u8
