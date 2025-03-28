@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dinamo Minsk - CSKA
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Tappara Tampere - Ilves
-https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1, Dinamo-Mol. - Yunost
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Kaltern/Ritten - Alps Ac.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dff690a589da02f3724246/index.m3u8
 #EXTINF:-1, Djurgårdens IF - Rögle BK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dfdcd06e2e851cd1a6ebd6/index.m3u8
 #EXTINF:-1, Leksands IF - Mora IK
@@ -52,6 +44,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de53a4a589da02f3723f
 #EXTINF:-1, ESV Burgau - Germering
 https://content.aisportswatch.com/484170/master.m3u8
 #EXTINF:-1, Grenoble - Ducs d'Angers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e13ebfa589da02f372453e.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e13ebfa589da02f372453e.m3u8
 #EXTINF:-1, Eaters Limburg - Neuwied
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d73d1222d5786290a1969e/index.m3u8
