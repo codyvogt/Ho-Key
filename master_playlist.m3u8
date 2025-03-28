@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Bentley - Boston College
-https://fl5.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1, Quinnipiac - Connecticut
-https://fl5.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1, Penn State - Maine
-https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1, Hammarö HC - Viking HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de53a4a589da02f3723f36/index.m3u8
 #EXTINF:-1, ESV Burgau - Germering
 https://content.aisportswatch.com/484170/master.m3u8
 #EXTINF:-1, Grenoble - Ducs d'Angers
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e13ebfa589da02f372453e.m3u8
 #EXTINF:-1, Eaters Limburg - Neuwied
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d73d1222d5786290a1969e/index.m3u8
+#EXTINF:-1, Quinnipiac - Connecticut
+https://fl5.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1, Penn State - Maine
+https://fl5.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, Québec - Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/44333426de5a4b388aeee350465acd63.m3u8
 #EXTINF:-1, Halifax - Drummondville
