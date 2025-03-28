@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Eaters Limburg - Neuwied
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d73d1222d5786290a1969e/index.m3u8
 #EXTINF:-1, Quinnipiac - Connecticut
 https://fl5.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1, Penn State - Maine
@@ -21,6 +19,12 @@ https://media-service.fanreachdata.io/edge/lhjmq/59699df0f68d4fc68bde592737fcfea
 https://media-service.fanreachdata.io/edge/lhjmq/fdfa7a90d3934bbc99cc93b60299bb8a.m3u8
 #EXTINF:-1, Sherbrooke - Blainville
 https://media-service.fanreachdata.io/edge/lhjmq/02ea3757fab54d07bf46e7daeed3f887.m3u8
+#EXTINF:-1, Utah - Florida Panthers
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1, Montréal - Carolina
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1, New Jersey - Winnipeg
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, North Bay - Brantford
 https://media-service.fanreachdata.io/edge/ohl/b14708a2668f4acdab82230cd3bd5624.m3u8
 #EXTINF:-1, Flint - Kitchener Rangers
