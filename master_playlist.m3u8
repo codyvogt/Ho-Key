@@ -1,34 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Utah - Florida Panthers
-https://fl6.moveonjoy.com/NHL_8/index.m3u8
-#EXTINF:-1, Montréal - Carolina
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1, New Jersey - Winnipeg
 https://fl6.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1, Vegas - Chicago
 https://fl6.moveonjoy.com/NHL_5/index.m3u8
 #EXTINF:-1, NY Rangers - Anaheim
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/26161076-2da1-4997-a3fa-c653237f32a2/master.m3u8
-#EXTINF:-1, Halifax - Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/2edd526b74e04f62911b6b2e65983d20.m3u8
-#EXTINF:-1, Gatineau - Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/ab74c7a00b5d40a9b2626ade25a10340.m3u8
-#EXTINF:-1, Cape Breton - Baie-Comeau
-https://media-service.fanreachdata.io/edge/lhjmq/8db1698713cf4415a4a7b7bc8fb9fa27.m3u8
-#EXTINF:-1, Charlottetown - Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/e260360ab4ac48d6a3ca6aa119f2cf04.m3u8
-#EXTINF:-1, Sherbrooke - Blainville
-https://media-service.fanreachdata.io/edge/lhjmq/02ea3757fab54d07bf46e7daeed3f887.m3u8
-#EXTINF:-1, North Bay - Brantford
-https://media-service.fanreachdata.io/edge/ohl/b14708a2668f4acdab82230cd3bd5624.m3u8
 #EXTINF:-1, Flint - Kitchener Rangers
 https://media-service.fanreachdata.io/edge/ohl/37e9bb80f13f47f6955d0652e2ad5879.m3u8
-#EXTINF:-1, Owen Sound - London
-https://media-service.fanreachdata.io/edge/ohl/49c0182c196e41b3befe6b9d03254905.m3u8
 #EXTINF:-1, Sudbury Wolves - Kingston
 https://media-service.fanreachdata.io/edge/ohl/7d075d49f38145deb37668b39bd5f896.m3u8
-#EXTINF:-1, Brampton - Oshawa
-https://media-service.fanreachdata.io/edge/ohl/8bd4589215a44858a7f2bdb40d6304ec.m3u8
+#EXTINF:-1, Sherbrooke - Blainville
+https://media-service.fanreachdata.io/edge/lhjmq/02ea3757fab54d07bf46e7daeed3f887.m3u8
 #EXTINF:-1, Penn State - Maine
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, Edmonton - Prince Albert
