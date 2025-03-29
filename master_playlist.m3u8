@@ -1,25 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Vegas - Chicago
-https://fl6.moveonjoy.com/NHL_5/index.m3u8
-#EXTINF:-1, NY Rangers - Anaheim
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/26161076-2da1-4997-a3fa-c653237f32a2/master.m3u8
-#EXTINF:-1, Penn State - Maine
-https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1, Edmonton - Prince Albert
-https://media-service.fanreachdata.io/edge/whl/770f68761e76463ea40c80737d91eb5b.m3u8
-#EXTINF:-1, Saskatoon - Calgary
-https://media-service.fanreachdata.io/edge/whl/3bcd4ef0d4c0456183aa9d578a50a9b6.m3u8
-#EXTINF:-1, Brandon - Lethbridge
-https://media-service.fanreachdata.io/edge/whl/34290a78c524438687fa2d8d5a0c02b9.m3u8
-#EXTINF:-1, SC Broncos - Medicine Hat
-https://media-service.fanreachdata.io/edge/whl/12268dda74f341518ade552d9cc6e289.m3u8
-#EXTINF:-1, Portland - Prince George
-https://media-service.fanreachdata.io/edge/whl/b56395d6c2be4682a35e404322358552.m3u8
-#EXTINF:-1, Spokane - Vancouver
-https://media-service.fanreachdata.io/edge/whl/f6be2bbc153f49b98e57d2e7897828a3.m3u8
-#EXTINF:-1, Seattle - Everett Silvertips
-https://media-service.fanreachdata.io/edge/whl/db1e1e63d8de4711b708561398497db3.m3u8
-#EXTINF:-1, Tri-City - Victoria Royals
-https://media-service.fanreachdata.io/edge/whl/d39b908f3eca4f81b6a823dab529c024.m3u8
 #EXTINF:-1, Häradsbygdens SS - Orsa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df97f4a589da02f37240a6/index.m3u8
