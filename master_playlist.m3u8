@@ -3,20 +3,6 @@
 https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1, HK Gomel - HK Vitebsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Viru Sputnik - Everest
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e14a6e6e2e851cd1a6ee17/index.m3u8
-#EXTINF:-1, Välk 494 - Narva PSK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e14a6e6e2e851cd1a6ee15/index.m3u8
-#EXTINF:-1, Herning II - Odense IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e15dc6a589da02f37245b8/index.m3u8
-#EXTINF:-1, Aalborg II - Vojens IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd0c14400e0f7e40b2ac83/index.m3u8
-#EXTINF:-1, Linden - Enköpings SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dfa2826e2e851cd1a6eb31/index.m3u8
-#EXTINF:-1, Segeltorps IF - Brinken
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dfa442a589da02f3724125/index.m3u8
-#EXTINF:-1, Wings Arlanda - Traneberg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67df9d3a6e2e851cd1a6eb1e/index.m3u8
 #EXTINF:-1, Almtuna IS - Växjö Lakers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df97f46e2e851cd1a6eafe/index.m3u8
 #EXTINF:-1, Huddinge - Troja-Ljungby
@@ -39,6 +25,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67b45b5689ae40367a2515
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e11a246e2e851cd1a6ed7b/index.m3u8
 #EXTINF:-1, HS Kurbads - Sostinė U18
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e2a3e46e2e851cd1a6f075/index.m3u8
+#EXTINF:-1, Välk 494 - Narva PSK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e14a6e6e2e851cd1a6ee15/index.m3u8
 #EXTINF:-1, Värmdö HC - IFK Tumba IK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dfad0ca589da02f37241c1/index.m3u8
 #EXTINF:-1, Norrtälje IK - Järfälla HC
@@ -49,6 +37,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f37240
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e1497c6e2e851cd1a6ee0f/index.m3u8
 #EXTINF:-1, Kiekko-Espoo EKS - NKV
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372405d/index.m3u8
+#EXTINF:-1, Segeltorps IF - Brinken
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dfa442a589da02f3724125/index.m3u8
+#EXTINF:-1, Wings Arlanda - Traneberg
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67df9d3a6e2e851cd1a6eb1e/index.m3u8
 #EXTINF:-1, Laser HT Oulu - Warkis
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d65b0d22d5786290a19470/index.m3u8
 #EXTINF:-1, VG-62 Naantali - Titaanit
@@ -61,6 +53,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e3b5346e2e851cd1a6f1
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f372404d/index.m3u8
 #EXTINF:-1, EVU Team 2 - Tavastia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e13b6c6e2e851cd1a6edcb/index.m3u8
+#EXTINF:-1, Aalborg II - Vojens IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd0c14400e0f7e40b2ac83/index.m3u8
 #EXTINF:-1, Piráti Chomutov - Kladno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e12e53a589da02f372449a/index.m3u8
 #EXTINF:-1, Technika Brno - HC Poruba
