@@ -7,14 +7,6 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df97f46e2e851cd1a6eafe/index.m3u8
 #EXTINF:-1, Huddinge - Troja-Ljungby
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dfad0ca589da02f37241c5/index.m3u8
-#EXTINF:-1, K-Kissat - KeuPa/Diskos
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d3b80d8e03b87ea935da9a/index.m3u8
-#EXTINF:-1, GrIFK - Heinolan Peliitat
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d5098f22d5786290a1926d/index.m3u8
-#EXTINF:-1, RNK - KJT Haukat Ak
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67d5098e22d5786290a191bb/index.m3u8
-#EXTINF:-1, Kiekko-Vantaa - SaPKo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0e70da589da02f37242a8/index.m3u8
 #EXTINF:-1, Val. Meziříčí - Nový Jičín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67acaa94f9027e70b3432b69/index.m3u8
 #EXTINF:-1, HC Benátky - Nový Bydžov
@@ -45,12 +37,18 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67df9d3a6e2e851cd1a6eb
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d65b0d22d5786290a19470/index.m3u8
 #EXTINF:-1, VG-62 Naantali - Titaanit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d65b0d8e03b87ea935dee0/index.m3u8
+#EXTINF:-1, GrIFK - Heinolan Peliitat
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d5098f22d5786290a1926d/index.m3u8
+#EXTINF:-1, RNK - KJT Haukat Ak
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67d5098e22d5786290a191bb/index.m3u8
+#EXTINF:-1, Kiekko-Vantaa - SaPKo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0e70da589da02f37242a8/index.m3u8
 #EXTINF:-1, Milevsko - Vlci Jablonec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67e399156e2e851cd1a6f115/index.m3u8
 #EXTINF:-1, Kroměříž - Slovan Orlová
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e3b5346e2e851cd1a6f12b/index.m3u8
 #EXTINF:-1, Akaan Kiekko - Pyry M2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f372404d/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67df958da589da02f372404d/index.m3u8
 #EXTINF:-1, EVU Team 2 - Tavastia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e13b6c6e2e851cd1a6edcb/index.m3u8
 #EXTINF:-1, Aalborg II - Vojens IK
