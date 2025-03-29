@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Lokomotiv - Torpedo
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Tuuski - Sibbo Wolfpack
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f3724059/index.m3u8
 #EXTINF:-1, TuK-V - KuKi Team
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e2388da589da02f3724648/index.m3u8
 #EXTINF:-1, Oriveden Fortuna - KaVo
@@ -73,3 +71,19 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d65b0d8e03b87ea935de
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e399156e2e851cd1a6f115/index.m3u8
 #EXTINF:-1, Kroměříž - Slovan Orlová
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e3b5346e2e851cd1a6f12b/index.m3u8
+#EXTINF:-1, Piráti Chomutov - Kladno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e12e53a589da02f372449a/index.m3u8
+#EXTINF:-1, Technika Brno - HC Poruba
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e12e53a589da02f3724498/index.m3u8
+#EXTINF:-1, Tours - Amiens
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d83c7e22d5786290a199d7/index.m3u8
+#EXTINF:-1, Évry-Viry - Cergy-Pontoise
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d6504d8e03b87ea935de8f/index.m3u8
+#EXTINF:-1, Wasquehal - Anglet 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d6504d8e03b87ea935de91/index.m3u8
+#EXTINF:-1, Reims - Montpellier
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e1850d6e2e851cd1a6eece/index.m3u8
+#EXTINF:-1, Lions de Lyon - Valence
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e130ada589da02f37244a9/index.m3u8
+#EXTINF:-1, Dijon - Clermont-Ferrand
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d6504d8e03b87ea935de95/index.m3u8
