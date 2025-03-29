@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1, NY Islanders - Tampa Bay
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ab2c68d0-5670-450e-b810-ed9f789a2e0a/master.m3u8
 #EXTINF:-1, St. Louis Blues - Colorado
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b1d208c5-ca00-4e33-be80-f4ac161aea6d/master.m3u8
 #EXTINF:-1, New Jersey - Minnesota
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/19c884a2-0259-4fd3-9b48-58593300d5a0/master.m3u8
-#EXTINF:-1, Gatineau - Rouyn-Noranda
-https://media-service.fanreachdata.io/edge/lhjmq/5da04edeb8014eb5957773a96d4d4fb9.m3u8
 #EXTINF:-1, Cape Breton - Baie-Comeau
 https://media-service.fanreachdata.io/edge/lhjmq/96f6ece7a1a94631a3dc1560a34563c8.m3u8
-#EXTINF:-1, Charlottetown - Rimouski
-https://media-service.fanreachdata.io/edge/lhjmq/c2efae35570544208d76b73cd5808187.m3u8
-#EXTINF:-1, Val-d'Or - Shawinigan
-https://media-service.fanreachdata.io/edge/lhjmq/3e877e09326f4223864577a980a9b4b7.m3u8
 #EXTINF:-1, Québec - Moncton
 https://media-service.fanreachdata.io/edge/lhjmq/74f838f892e046cdae941f0973794ef9.m3u8
 #EXTINF:-1, AB Titan - Chicoutimi
