@@ -3,6 +3,8 @@
 https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1, NY Islanders - Tampa Bay
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ab2c68d0-5670-450e-b810-ed9f789a2e0a/master.m3u8
+#EXTINF:-1, St. Louis Blues - Colorado
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b1d208c5-ca00-4e33-be80-f4ac161aea6d/master.m3u8
 #EXTINF:-1, Lausanne HC - HCFG
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, Aalborg II - Vojens IK
@@ -42,7 +44,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dd3c2e400e0f7e40b2ad
 #EXTINF:-1, Grenoble - Ducs d'Angers
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67e13ebfa589da02f3724546.m3u8
 #EXTINF:-1, Caen 2 - Besançon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d92b8e8e03b87ea935e785.m3u8
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d92b8e8e03b87ea935e785/index.m3u8
 #EXTINF:-1, Tours 2 - Strasbourg 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d92b8e8e03b87ea935e789/index.m3u8
 #EXTINF:-1, Gatineau - Rouyn-Noranda
