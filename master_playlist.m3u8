@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Avangard - Metallurg Mg
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Huddinge IK - Växjö Lakers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0fe8ca589da02f37243bc/index.m3u8
 #EXTINF:-1, Buran - Dynamo SPb
@@ -13,5 +15,3 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbf24e9e1b7e4ce48a7a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67c52ccf9e1b7e4ce48a8dcc.m3u8
 #EXTINF:-1, Sibbo Wolfpack - Tuuski
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372406b/index.m3u8
-#EXTINF:-1, Avangard - Metallurg Mg
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
