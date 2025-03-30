@@ -6,11 +6,7 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1ca997
 #EXTINF:-1, Vancouver - Winnipeg Jets
 https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, Utah - Chicago Blackhawks
-https://fl6.moveonjoy.com/NHL_4/index.m3u8
-#EXTINF:-1, Coachella Valley - Chicago
-https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1, Toronto - Minnesota Frost
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0d77156b-5755-4086-87f8-03b32bb677f9/master.m3u8
 #EXTINF:-1, Tours - Meudon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7f62e22d5786290a198bc/index.m3u8
 #EXTINF:-1, Lions de Lyon - Valence
@@ -27,6 +23,8 @@ https://media-service.fanreachdata.io/edge/ohl/59d111f9768e4925be9d905e1a77f3fb.
 https://media-service.fanreachdata.io/edge/ohl/415364e2499d4b118adae7f285d19b4c.m3u8
 #EXTINF:-1, North Bay - Brantford
 https://media-service.fanreachdata.io/edge/ohl/225ea73f0fb4402cb7974e01369cebb7.m3u8
+#EXTINF:-1, Coachella Valley - Chicago
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1, Saskatoon - Calgary
 https://media-service.fanreachdata.io/edge/whl/fa397e8cae784b09ace26191690ae4c2.m3u8
 #EXTINF:-1, Spokane - Vancouver
