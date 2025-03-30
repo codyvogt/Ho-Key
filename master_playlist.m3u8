@@ -5,8 +5,6 @@ https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Ak Bars - Avtomobilist
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, Buran - Dynamo SPb
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Kölner Jung. - Mannheim
 https://pool-3.cdn.sporttotal.tv/out/v1/43a6bc7236854fa995fa0e2930390c8a/index.m3u8
 #EXTINF:-1, Västerås IK - Troja-Ljungby
@@ -29,6 +27,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d5098f22d5786290a192
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d65b0e8e03b87ea935dfcd/index.m3u8
 #EXTINF:-1, TUTO - Imatran Ketterä
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0e70da589da02f37242a9/index.m3u8
+#EXTINF:-1, Buran - Dynamo SPb
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, KalPa - Rauman Lukko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e2b71c6e2e851cd1a6f0ba/index.m3u8
 #EXTINF:-1, Välk 494 - Narva PSK
@@ -47,3 +47,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d80fed22d5786290a198
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e2388d6e2e851cd1a6ef2d/index.m3u8
 #EXTINF:-1, Baník Příbram - Vrchlabí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d9536822d5786290a19b03/index.m3u8
+#EXTINF:-1, Dunkerque - Strasbourg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7e81e22d5786290a19868/index.m3u8
+#EXTINF:-1, Épinal - Dogs de Cholet
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7e81e22d5786290a19864/index.m3u8
+#EXTINF:-1, Caen - Mont Blanc
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7e81e22d5786290a1986c/index.m3u8
+#EXTINF:-1, Brest - Villard-de-Lans
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd3c2d400e0f7e40b2ad13/index.m3u8
+#EXTINF:-1, Tours - Meudon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7f62e22d5786290a198bc/index.m3u8
+#EXTINF:-1, Österåker Vikings - Ormsta
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0f402a589da02f3724344/index.m3u8
+#EXTINF:-1, FOC Farsta IF - Brinkens IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0ecf86e2e851cd1a6ec57/index.m3u8
