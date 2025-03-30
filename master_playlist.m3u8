@@ -7,18 +7,14 @@ https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Ak Bars - Avtomobilist
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, Buran - Dynamo SPb
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
-#EXTINF:-1, Meudon - Caen 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7a1ce22d5786290a196b3/index.m3u8
 #EXTINF:-1, Amiens 2 - Courbevoie
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7a1ce22d5786290a196b5.m3u8
 #EXTINF:-1, Rouen 2 - Valenciennes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67bbf24e9e1b7e4ce48a7a68.m3u8
 #EXTINF:-1, Bordeaux - Angers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67c52ccf9e1b7e4ce48a8dcc.m3u8
-#EXTINF:-1, Sibbo Wolfpack - Tuuski
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372406b/index.m3u8
+#EXTINF:-1, Buran - Dynamo SPb
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, KeuPa/Diskos - K-Kissat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d65b0e8e03b87ea935dfbc/index.m3u8
 #EXTINF:-1, S-Kiekko - Laser HT Red
@@ -29,6 +25,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d5098f22d5786290a192
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d65b0e8e03b87ea935dfcd/index.m3u8
 #EXTINF:-1, TUTO - Imatran Ketterä
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0e70da589da02f37242a9/index.m3u8
+#EXTINF:-1, Kölner Jung. - Mannheim
+https://pool-3.cdn.sporttotal.tv/out/v1/43a6bc7236854fa995fa0e2930390c8a/index.m3u8
 #EXTINF:-1, Västerås IK - Troja-Ljungby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0fdaaa589da02f37243b2/index.m3u8
 #EXTINF:-1, Laser HT Oulu - VG-62
