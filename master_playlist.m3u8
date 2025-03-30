@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Severstal - Spartak
-https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1, CSKA - Dinamo Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Ak Bars - Avtomobilist
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Montréal - Florida Panthers
 https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Buran - Dynamo SPb
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
-#EXTINF:-1, Kotkan Titaanit - Warkis
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67d65b0d22d5786290a1946a/index.m3u8
 #EXTINF:-1, Baník Příbram - Vrchlabí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d9536822d5786290a19b03/index.m3u8
 #EXTINF:-1, SC Kolín - Baník Hodonín
