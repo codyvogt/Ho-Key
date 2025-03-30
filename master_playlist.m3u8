@@ -5,6 +5,8 @@ https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Ak Bars - Avtomobilist
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1, Montréal - Florida Panthers
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1, Buran - Dynamo SPb
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, KalPa - Rauman Lukko
