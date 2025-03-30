@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Montréal - Florida Panthers
 https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Dunkerque - Strasbourg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67d7e81e22d5786290a19868/index.m3u8
+#EXTINF:-1, FOC Farsta IF - Brinkens IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0ecf86e2e851cd1a6ec57/index.m3u8
+#EXTINF:-1, Coachella Valley - Chicago
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1, Épinal - Dogs de Cholet
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7e81e22d5786290a19864/index.m3u8
 #EXTINF:-1, Caen - Mont Blanc
@@ -11,10 +13,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67d7e81e22d5786290a198
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67dd3c2d400e0f7e40b2ad13/index.m3u8
 #EXTINF:-1, Tours - Meudon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d7f62e22d5786290a198bc/index.m3u8
-#EXTINF:-1, FOC Farsta IF - Brinkens IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0ecf86e2e851cd1a6ec57/index.m3u8
-#EXTINF:-1, Coachella Valley - Chicago
-https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1, Karlovy Vary B - Příbram
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d80fed22d5786290a198f2/index.m3u8
 #EXTINF:-1, Toronto - Minnesota Frost
@@ -33,3 +31,11 @@ https://media-service.fanreachdata.io/edge/ohl/59d111f9768e4925be9d905e1a77f3fb.
 https://media-service.fanreachdata.io/edge/ohl/415364e2499d4b118adae7f285d19b4c.m3u8
 #EXTINF:-1, North Bay - Brantford
 https://media-service.fanreachdata.io/edge/ohl/225ea73f0fb4402cb7974e01369cebb7.m3u8
+#EXTINF:-1, Saskatoon - Calgary
+https://media-service.fanreachdata.io/edge/whl/fa397e8cae784b09ace26191690ae4c2.m3u8
+#EXTINF:-1, Spokane - Vancouver
+https://media-service.fanreachdata.io/edge/whl/f1243f2e95d54df896576d549ed4a93b.m3u8
+#EXTINF:-1, Penn State - Connecticut
+https://fl5.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1, Denver - Boston College
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
