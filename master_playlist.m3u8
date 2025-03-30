@@ -1,23 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Boston Bruins - Detroit
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1, Halifax - Drummondville
-https://media-service.fanreachdata.io/edge/lhjmq/7088e049945f42ec9f07ee59fe0141f8.m3u8
-#EXTINF:-1, UMass - Western Michigan
-https://fl5.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1, Erie - Saginaw Spirit
-https://media-service.fanreachdata.io/edge/ohl/b3dcd2534d894736bbbdeb811c8b56f9.m3u8
-#EXTINF:-1, Sault Ste. Marie - Windsor
-https://media-service.fanreachdata.io/edge/ohl/97d0c1fc03824542b4fca43a3bc1c056.m3u8
-#EXTINF:-1, Brandon - Lethbridge
-https://media-service.fanreachdata.io/edge/whl/53a245d9dedd4872b1965760fece0a35.m3u8
-#EXTINF:-1, SC Broncos - Medicine Hat
-https://media-service.fanreachdata.io/edge/whl/67b8e97959d244baafeb9aef781240a3.m3u8
-#EXTINF:-1, Portland - Prince George
-https://media-service.fanreachdata.io/edge/whl/72ccbebf554e44d183d121f4f8230564.m3u8
-#EXTINF:-1, Edmonton - Prince Albert
-https://media-service.fanreachdata.io/edge/whl/1727644004464781a7df8a048575f4fa.m3u8
-#EXTINF:-1, Tri-City - Victoria Royals
-https://media-service.fanreachdata.io/edge/whl/efb1289837fd4babbf5c4a81778445bb.m3u8
-#EXTINF:-1, Seattle - Everett Silvertips
-https://media-service.fanreachdata.io/edge/whl/18fd246de49843d7aa4dfafaabfd911d.m3u8
+#EXTINF:-1, Laima - Rīgas HS
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67e26ba46e2e851cd1a6efb3/index.m3u8
