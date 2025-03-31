@@ -11,3 +11,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e91f449a724e78dd705d
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, SKA - Dynamo Moscow
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, HK Gomel - HK Vitebsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, KoPo - Hyvinkää Storm
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f3724055/index.m3u8
