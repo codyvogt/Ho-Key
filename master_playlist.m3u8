@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rubin Tyumen - SKA-Neva
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
 #EXTINF:-1, Avangard - Metallurg Mg
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Ak Bars - Avtomobilist
@@ -9,3 +7,7 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, CSKA - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Rubin Tyumen - SKA-Neva
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+#EXTINF:-1, Panter/Tornaado - Vipers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd720f6e2e851cd1a6e7ef/index.m3u8
