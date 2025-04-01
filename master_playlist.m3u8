@@ -1,3 +1,17 @@
 #EXTM3U
-#EXTINF:-1, HC Ajoie - EHC Visp
-https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
+#EXTINF:-1, Chicoutimi - AB Titan
+https://media-service.fanreachdata.io/edge/lhjmq/83389e79637744feb24f93ea4b2ca0d9.m3u8
+#EXTINF:-1, Baie-Comeau - Cape Breton
+https://media-service.fanreachdata.io/edge/lhjmq/2e5b1d59e21d458f81001df541f5d568.m3u8
+#EXTINF:-1, Drummondville - Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/f5946b4f7e784dd08d4c298817d53f0e.m3u8
+#EXTINF:-1, Rimouski - Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/11d540a9aa5d42649f20149374573794.m3u8
+#EXTINF:-1, Moncton - Québec
+https://media-service.fanreachdata.io/edge/lhjmq/42ddec7c948f48ac934f140c16eae816.m3u8
+#EXTINF:-1, Rouyn-Noranda - Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/af87f8f6f25f4a7d85a2d3d2de8ad142.m3u8
+#EXTINF:-1, Shawinigan - Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/b2ae25ce8a2b44d8b34ce25043a16108.m3u8
+#EXTINF:-1, Blainville - Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/db6c5a2dd52843c79c9de54cb292a121.m3u8
