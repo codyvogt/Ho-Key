@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Rubin Tyumen - SKA-Neva
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+#EXTINF:-1, Avangard - Metallurg Mg
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
