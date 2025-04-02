@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1, Ducs d'Angers - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e13ebfa589da02f3724542.m3u8
-#EXTINF:-1, Villard-de-Lans - Brest
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67dd3c2d400e0f7e40b2ad11/index.m3u8
+#EXTINF:-1, Rimouski - Charlottetown
+https://media-service.fanreachdata.io/edge/lhjmq/cfa58de3b15146038801924a77688137.m3u8
+#EXTINF:-1, Baie-Comeau - Cape Breton
+https://media-service.fanreachdata.io/edge/lhjmq/3dd575f3ba2a49628879eec6aeefdc2d.m3u8
+#EXTINF:-1, Chicoutimi - AB Titan
+https://media-service.fanreachdata.io/edge/lhjmq/0a14ee7372b644bd8af94fced281a522.m3u8
+#EXTINF:-1, Drummondville - Halifax
+https://media-service.fanreachdata.io/edge/lhjmq/f2e57d35658f45609a87931899d9fa76.m3u8
+#EXTINF:-1, Blainville - Sherbrooke
+https://media-service.fanreachdata.io/edge/lhjmq/a23b5468d7ea406db670d247507db01d.m3u8
+#EXTINF:-1, Moncton - Québec
+https://media-service.fanreachdata.io/edge/lhjmq/67b57ffb341a4ac6b6d820cccb4439f7.m3u8
+#EXTINF:-1, Shawinigan - Val-d'Or
+https://media-service.fanreachdata.io/edge/lhjmq/98e29a11e34447069cbea680eff07c76.m3u8
+#EXTINF:-1, Rouyn-Noranda - Gatineau
+https://media-service.fanreachdata.io/edge/lhjmq/28d3c52a7f0b41aeb671d02c1d3b491e.m3u8
