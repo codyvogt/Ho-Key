@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Avtomobilist - Ak Bars
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1, Metallurg Mg - Avangard
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - CSKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Spartak Moscow - Severstal
