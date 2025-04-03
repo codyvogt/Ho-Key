@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Colorado - Chicago
-https://fl6.moveonjoy.com/NHL_10/index.m3u8
-#EXTINF:-1, Seattle - Vancouver
-https://fl6.moveonjoy.com/NHL_6/index.m3u8
-#EXTINF:-1, Blainville - Sherbrooke
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Flhjmq%2Fa23b5468d7ea406db670d247507db01d.m3u8
-#EXTINF:-1, Lethbridge - Brandon
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Fwhl%2F3cf554399ba0452493efba4487233fbd.m3u8
-#EXTINF:-1, Medicine Hat - SC Broncos
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Fwhl%2Fe854851348654b2bb87b91f5e66b37ee.m3u8
-#EXTINF:-1, Prince Albert - Edmonton
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Fwhl%2Fcc205e35f8e04500b97bb5cb5e722c76.m3u8
-#EXTINF:-1, Calgary - Saskatoon
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Fwhl%2Fa3f8e7210f414e089fa7f57aa0a5bac8.m3u8
-#EXTINF:-1, Prince George - Portland
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Fwhl%2F54a7cc42fd3043d7a9d410ec22ca03ec.m3u8
-#EXTINF:-1, Victoria Royals - Tri-City
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Fwhl%2F1a601b7377834839ae0cb67f1ab6709d.m3u8
-#EXTINF:-1, Vancouver - Spokane Chiefs
-https://www.hlsplayer.org/play?url=https%3A%2F%2Fmedia-service.fanreachdata.io%2Fedge%2Fwhl%2F7d4a3e95b2ae4218b59544f4339f9417.m3u8
+#EXTINF:-1, Dinamo Minsk - CSKA
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Spartak Moscow - Severstal
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
