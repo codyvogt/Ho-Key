@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1, Slovakia - Latvia
 https://nn.geo.joj.sk/huste/49444ec1-e306-4c4d-bd58-7e00957d2f55/49444ec1-e306-4c4d-bd58-7e00957d2f55/playlist.m3u8
+#EXTINF:-1, Buran - Dynamo SPb
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
+#EXTINF:-1, Sweden - Finland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d82c1522d5786290a199a5/index.m3u8
+#EXTINF:-1, Traktor - Admiral
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1, Salavat Yulaev Ufa - Sibir
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
