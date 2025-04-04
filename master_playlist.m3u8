@@ -3,6 +3,8 @@
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Sweden - Finland
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67d82c1522d5786290a199a5/index.m3u8
+#EXTINF:-1, Latvia - Iceland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd6438a589da02f3723e62/index.m3u8
 #EXTINF:-1, Traktor - Admiral
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Salavat Yulaev Ufa - Sibir
@@ -11,3 +13,5 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - TUTO
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dba10ee0ffd83ec54e2abe/index.m3u8
+#EXTINF:-1, HK Gomel - HK Vitebsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
