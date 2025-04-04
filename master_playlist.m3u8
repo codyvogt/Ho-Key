@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sweden - Finland
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67d82c1522d5786290a199a5/index.m3u8
-#EXTINF:-1, Latvia - Iceland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd6438a589da02f3723e62/index.m3u8
 #EXTINF:-1, Traktor - Admiral
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Salavat Yulaev Ufa - Sibir
@@ -21,6 +17,8 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67d90d0d22d5786290a19a6e/index.m3u8
 #EXTINF:-1, Hodonín - Karlovy Vary B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0f60d6e2e851cd1a6eca9/index.m3u8
+#EXTINF:-1, Latvia - Iceland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd6438a589da02f3723e62/index.m3u8
 #EXTINF:-1, Hyvinkää Storm - KoPo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dcf28d75ad437eb83add81/index.m3u8
 #EXTINF:-1, RNK - Forssan Palloseura
