@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Traktor - Admiral
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1, Salavat Yulaev Ufa - Sibir
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
-#EXTINF:-1, Buran - Dynamo SPb
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Austria - Latvia
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - TUTO
@@ -21,6 +17,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0f60d6e2e851cd1a6ec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd6438a589da02f3723e62/index.m3u8
 #EXTINF:-1, Hyvinkää Storm - KoPo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dcf28d75ad437eb83add81/index.m3u8
+#EXTINF:-1, Buran - Dynamo SPb
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, RNK - Forssan Palloseura
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ce9c3d0f00fc77c53b7438/index.m3u8
 #EXTINF:-1, Aalborg Pirates - Herning
