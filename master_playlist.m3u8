@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sibbo Wolfpack - Tuuski
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67df958ea589da02f372405a/index.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - TUTO
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67dcf28d75ad437eb83add7c/index.m3u8
 #EXTINF:-1, Rauman Lukko - K-Espoo
@@ -29,3 +27,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de440d6e2e851cd1a6e9
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ef768d4d7c3b02cf56e174/index.m3u8
 #EXTINF:-1, Vlci Jablonec - Milevsko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e3fb866e2e851cd1a6f1a2/index.m3u8
+#EXTINF:-1, HS Falcons - Rīgas HS
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee80b04d7c3b02cf56e07b/index.m3u8
+#EXTINF:-1, Narva PSK - Välk 494
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e14a6ea589da02f372454e/index.m3u8
