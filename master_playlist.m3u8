@@ -1,29 +1,19 @@
 #EXTM3U
-#EXTINF:-1, NY Rangers - New Jersey
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1, Florida - Ottawa Senators
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fc63dedc-12a5-4ee2-808b-b53c8a184732/master.m3u8
 #EXTINF:-1, Pittsburgh - Dallas Stars
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1, Fribourg-Gottéron - LHC
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
-#EXTINF:-1, Évry/Viry 2 - Nice 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df8acd6e2e851cd1a6eab3/index.m3u8
-#EXTINF:-1, Briançon 2 - Avignon
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67df8ace6e2e851cd1a6eabd.m3u8
-#EXTINF:-1, Épinal - Remparts de Tours
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ea4f0c7057493243b7cccb/index.m3u8
-#EXTINF:-1, Caen - Strasbourg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ea4f0c4d7c3b02cf56d7cc/index.m3u8
-#EXTINF:-1, Wasquehal - Clermont-FD
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df8ace6e2e851cd1a6eab9/index.m3u8
 #EXTINF:-1, Montpellier - Reims
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e130ada589da02f37244a5/index.m3u8
 #EXTINF:-1, Ducs de Dijon - Anglet 2
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67df8acea589da02f3724030/index.m3u8
-#EXTINF:-1, Chambéry - Évry-Viry
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df8acd6e2e851cd1a6eab5/index.m3u8
 #EXTINF:-1, HC Aosta - SV Kaltern
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e3ba536e2e851cd1a6f12f/index.m3u8
 #EXTINF:-1, Grenoble - Ducs d'Angers
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e13ebfa589da02f3724540.m3u8
+#EXTINF:-1, Caen - Strasbourg
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ea4f0c4d7c3b02cf56d7cc/index.m3u8
+#EXTINF:-1, Briançon 2 - Avignon
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67df8ace6e2e851cd1a6eabd.m3u8
