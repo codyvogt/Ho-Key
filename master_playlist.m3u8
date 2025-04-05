@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Chicago - Washington
-https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1, Minnesota - NY Islanders
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/504dd2f2-b0bc-401d-ba35-07aa3529af9e/master.m3u8
+#EXTINF:-1, Sibbo Wolfpack - Tuuski
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372405a/index.m3u8
+#EXTINF:-1, Rovaniemen Kiekko - TUTO
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dcf28d75ad437eb83add7c/index.m3u8
+#EXTINF:-1, Rauman Lukko - K-Espoo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67eaae2c7057493243b7cdaa/index.m3u8
+#EXTINF:-1, KJT Haukat Ak - GrIFK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dcf28d75ad437eb83add85/index.m3u8
+#EXTINF:-1, Heinolan Peliitat - RNK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de440d6e2e851cd1a6e91c/index.m3u8
