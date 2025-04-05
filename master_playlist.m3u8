@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Sibbo Wolfpack - Tuuski
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372405a/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67df958ea589da02f372405a/index.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - TUTO
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dcf28d75ad437eb83add7c/index.m3u8
 #EXTINF:-1, Rauman Lukko - K-Espoo
@@ -9,3 +9,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67eaae2c7057493243b7cd
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dcf28d75ad437eb83add85/index.m3u8
 #EXTINF:-1, Heinolan Peliitat - RNK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67de440d6e2e851cd1a6e91c/index.m3u8
+#EXTINF:-1, Avangard - Metallurg Mg
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1, CSKA - Dinamo Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Ak Bars - Avtomobilist
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
