@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Washington - NY Islanders
 https://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1, VG-62 Naantali - Laser HT
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f372404c/index.m3u8
-#EXTINF:-1, Warkis Varkaus - Titaanit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f372404a/index.m3u8
-#EXTINF:-1, Narva PSK - Välk 494
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e14a6ea589da02f3724550/index.m3u8
-#EXTINF:-1, Troja-Ljungby - Huddinge
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ea33c64d7c3b02cf56d741/index.m3u8
 #EXTINF:-1, HK Vitebsk - HK Gomel
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Warkis Varkaus - Titaanit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f372404a/index.m3u8
 #EXTINF:-1, Baník Příbram - AZ Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea76e54d7c3b02cf56d820/index.m3u8
 #EXTINF:-1, Orli Znojmo - HC Tábor
