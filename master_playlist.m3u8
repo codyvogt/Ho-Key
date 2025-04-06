@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1, HS Kurbads - Sostinė U18
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea62b44d7c3b02cf56d7f8/index.m3u8
-#EXTINF:-1, Heinolan Peliitat - FoPS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f3724068/index.m3u8
-#EXTINF:-1, GrIFK - KJT Haukat Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372405b/index.m3u8
 #EXTINF:-1, Rytíři Kladno - HC Poruba
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67eb9e2d7057493243b7ce8c/index.m3u8
+#EXTINF:-1, GrIFK - KJT Haukat Ak
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372405b/index.m3u8
 #EXTINF:-1, Odense - Rungsted
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67e7057b9110e52607aaf867/index.m3u8
 #EXTINF:-1, Herning Blue Fox - Aalborg
@@ -22,8 +18,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f37240
 #EXTINF:-1, Switzerland - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67c152169e1b7e4ce48a847f/index.m3u8
 #EXTINF:-1, Narva PSK - Välk 494
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e14a6ea589da02f3724550/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e14a6ea589da02f3724550/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Huddinge
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea33c64d7c3b02cf56d741/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ea33c64d7c3b02cf56d741/index.m3u8
 #EXTINF:-1, HK Vitebsk - HK Gomel
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
