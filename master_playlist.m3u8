@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rytíři Kladno - HC Poruba
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67eb9e2d7057493243b7ce8c/index.m3u8
 #EXTINF:-1, GrIFK - KJT Haukat Ak
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372405b/index.m3u8
 #EXTINF:-1, Odense - Rungsted
@@ -23,3 +21,11 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e14a6ea589da02f37245
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ea33c64d7c3b02cf56d741/index.m3u8
 #EXTINF:-1, HK Vitebsk - HK Gomel
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Baník Příbram - AZ Havířov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea76e54d7c3b02cf56d820/index.m3u8
+#EXTINF:-1, Orli Znojmo - HC Tábor
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea3ea67057493243b7cc7b/index.m3u8
+#EXTINF:-1, Baník Hodonín - Příbram
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0f60d6e2e851cd1a6ecaa/index.m3u8
+#EXTINF:-1, SC Kolín - Karlovy Vary B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d80fed22d5786290a198f1/index.m3u8
