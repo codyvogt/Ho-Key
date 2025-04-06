@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Washington - NY Islanders
 https://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1, Herning Blue Fox - Aalborg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e7057acd8faa67670f7761/index.m3u8
 #EXTINF:-1, VG-62 Naantali - Laser HT
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f372404c/index.m3u8
 #EXTINF:-1, Warkis Varkaus - Titaanit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958da589da02f372404a/index.m3u8
-#EXTINF:-1, Kiekko-Espoo - Lukko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ef678c7057493243b7d552/index.m3u8
 #EXTINF:-1, Narva PSK - Välk 494
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e14a6ea589da02f3724550/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Huddinge
@@ -18,7 +14,7 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Baník Příbram - AZ Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea76e54d7c3b02cf56d820/index.m3u8
 #EXTINF:-1, Orli Znojmo - HC Tábor
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea3ea67057493243b7cc7b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ea3ea67057493243b7cc7b/index.m3u8
 #EXTINF:-1, Baník Hodonín - Příbram
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e0f60d6e2e851cd1a6ecaa/index.m3u8
 #EXTINF:-1, SC Kolín - Karlovy Vary B
