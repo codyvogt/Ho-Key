@@ -1,7 +1,15 @@
 #EXTM3U
 #EXTINF:-1, Herning II - Aalborg II
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ee417a7057493243b7d3b9/index.m3u8
+#EXTINF:-1, Rīgas HS - HS Falcons
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f212c77057493243b7d841/index.m3u8
 #EXTINF:-1, TuusKiekko - Wolfpack
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372406e/index.m3u8
 #EXTINF:-1, Sibir - Salavat Yulaev Ufa
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, HS Kurbads - Sostinė U18
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea62b44d7c3b02cf56d7f8/index.m3u8
+#EXTINF:-1, Heinolan Peliitat - FoPS
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f3724068/index.m3u8
+#EXTINF:-1, GrIFK - KJT Haukat Ak
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67df958ea589da02f372405b/index.m3u8
