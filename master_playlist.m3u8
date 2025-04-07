@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist - Ak Bars
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Dinamo-Shinnik - Spartak
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Latvia - Poland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f38bdc4d7c3b02cf56e6c4/index.m3u8
 #EXTINF:-1, Sparta Praha - Pardubice
@@ -11,3 +11,5 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ee6b5d7057493243b7d4
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea76e54d7c3b02cf56d81e/index.m3u8
 #EXTINF:-1, Baník Příbram - AZ Havířov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ea76e54d7c3b02cf56d81d/index.m3u8
+#EXTINF:-1, Almtuna IS - Västerås IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67eb86274d7c3b02cf56d922/index.m3u8
