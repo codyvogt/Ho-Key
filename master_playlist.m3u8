@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Latvia - Finland
-https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, Estonia - Kouvolan KooKoo
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ebc1577057493243b7cf2b/index.m3u8
 #EXTINF:-1, Skellefteå AIK - Djurgården
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f154ba4d7c3b02cf56e376/index.m3u8
-#EXTINF:-1, Växjö HC - IF Troja-Ljungby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee30304d7c3b02cf56de7b/index.m3u8
 #EXTINF:-1, Västerås IK - Huddinge IK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ee2caa7057493243b7d370/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
