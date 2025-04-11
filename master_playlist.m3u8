@@ -13,3 +13,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d29fbe634fd816b8811f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee6b5d4d7c3b02cf56e04d/index.m3u8
 #EXTINF:-1, Yunost Minsk - HK Vitebsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Tampereen Ilves - KalPa
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1, Hungary - Austria
+https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
