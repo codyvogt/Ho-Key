@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Slovakia - Czech Republic
-https://nn.geo.joj.sk/huste/cf7dd214-f1c5-4abb-a800-2f17ab143c31/cf7dd214-f1c5-4abb-a800-2f17ab143c31/playlist.m3u8
-#EXTINF:-1, Great Britain - China
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d29fbe634fd816b8811f29/index.m3u8
-#EXTINF:-1, Hungary - Japan
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Switzerland - Canada
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, United States - Czechia
@@ -13,5 +7,7 @@ https://fl5.moveonjoy.com/TSN_1/index.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Lokomotiv - Avangard
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, Great Britain - China
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67d29fbe634fd816b8811f29/index.m3u8
 #EXTINF:-1, Dynamo Pardubice - Sparta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee6b5d4d7c3b02cf56e04d/index.m3u8
