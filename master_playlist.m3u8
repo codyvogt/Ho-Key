@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Herning - Aalborg Pirates
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f368e14d7c3b02cf56e64a/index.m3u8
-#EXTINF:-1, Odense - Rungsted
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f0fd3c7057493243b7d773/index.m3u8
-#EXTINF:-1, IF Troja-Ljungby - Almtuna
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f0cb454d7c3b02cf56e314/index.m3u8
-#EXTINF:-1, United States - Czechia
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, Pittsburgh - New Jersey
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
