@@ -3,6 +3,8 @@
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e62d0d0d6d692de3401fe4/index.m3u8
 #EXTINF:-1, Traktor - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Dynamo Moscow - Ak Bars
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Dynamo Pardubice - Sparta
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f8bf2515ae2264b3f0e8ff/index.m3u8
 #EXTINF:-1, Herning II - Aalborg II
@@ -10,7 +12,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f502035ad27619d7a8c5
 #EXTINF:-1, Vita Hästen - Sollentuna
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67d7b98022d5786290a19749/index.m3u8
 #EXTINF:-1, Växjö Lakers - Almtuna IS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f224b04d7c3b02cf56e514/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f224b04d7c3b02cf56e514/index.m3u8
 #EXTINF:-1, Norway - Germany
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
