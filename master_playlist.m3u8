@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Lausanne HC - HCFG
-https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, NY Rangers - Carolina
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1, Colorado - Los Angeles
 https://fl6.moveonjoy.com/NHL_4/index.m3u8
-#EXTINF:-1, Meudon - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da2c/index.m3u8
-#EXTINF:-1, Caen 2 - Rouen 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da32/index.m3u8
 #EXTINF:-1, Clermont-Ferrand - Anglet 2
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67e8c54d9a724e78dd705bae/index.m3u8
