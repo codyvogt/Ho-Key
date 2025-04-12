@@ -3,6 +3,8 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bc7a2527-66c4-46bf-8c8f-fffcb386b229/master.m3u8
 #EXTINF:-1, Washington - Columbus
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1, Lausanne HC - HCFG
+https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
 #EXTINF:-1, Nantes - Chambéry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898d4d7c3b02cf56e6c0/index.m3u8
 #EXTINF:-1, Épinal HC - Annecy
