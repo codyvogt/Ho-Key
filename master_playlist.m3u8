@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1, Dynamo Moscow - Ak Bars
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, Washington - Columbus
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1, Norway - Germany
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Dynamo Moscow - Ak Bars
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Nantes - Chambéry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898d4d7c3b02cf56e6c0/index.m3u8
 #EXTINF:-1, Épinal HC - Annecy
@@ -13,3 +15,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da2c/index.m3u8
 #EXTINF:-1, Caen 2 - Rouen 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da32/index.m3u8
+#EXTINF:-1, Évry-Viry 2 - Poitiers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f37b7c7057493243b7da10/index.m3u8
+#EXTINF:-1, Lions de Lyon - Montpellier
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898d4d7c3b02cf56e6c2/index.m3u8
+#EXTINF:-1, Ducs de Dijon - Wasquehal
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e8c54d9a724e78dd705bac/index.m3u8
+#EXTINF:-1, Clermont-Ferrand - Anglet 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e8c54d9a724e78dd705bae/index.m3u8
