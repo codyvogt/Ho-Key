@@ -5,5 +5,9 @@ https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 https://fl6.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1, Buffalo - Florida Panthers
 https://fl6.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1, Montréal - Toronto
+https://fl6.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1, Winnipeg Jets - Chicago
+https://fl6.moveonjoy.com/NHL_6/index.m3u8
 #EXTINF:-1, BU - Western Michigan
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
