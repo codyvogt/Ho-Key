@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Colorado - Los Angeles
-https://fl6.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1, Buffalo - Florida Panthers
 https://fl6.moveonjoy.com/NHL_5/index.m3u8
 #EXTINF:-1, Montréal - Toronto
 https://fl6.moveonjoy.com/NHL_7/index.m3u8
 #EXTINF:-1, Winnipeg Jets - Chicago
 https://fl6.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1, Utah HC - Dallas Stars
+https://fl6.moveonjoy.com/NHL_8/index.m3u8
 #EXTINF:-1, BU - Western Michigan
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
