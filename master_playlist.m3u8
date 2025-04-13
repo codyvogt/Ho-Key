@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Lokomotiv - Avangard
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Aalborg Pirates - Herning
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f973ed280241622888feeb/index.m3u8
-#EXTINF:-1, Japan - Sweden
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1, Canada - United States
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Västerås
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f36e454d7c3b02cf56e65e/index.m3u8
 #EXTINF:-1, Great Britain - Croatia
@@ -15,3 +9,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb868dc6d32a031e5274
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb8b4f36581a1fd666e2b5/index.m3u8
 #EXTINF:-1, HK Vitebsk - Yunost Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Canada - United States
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
