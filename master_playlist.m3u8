@@ -3,10 +3,6 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Lokomotiv - Avangard
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Växjö Lakers - Huddinge
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3762f7057493243b7da05/index.m3u8
-#EXTINF:-1, Troja-Ljungby - Västerås
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f36e454d7c3b02cf56e65e/index.m3u8
 #EXTINF:-1, Besançon (Dijon) - Reims
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67efdb5e7057493243b7d681/index.m3u8
 #EXTINF:-1, Épinal HC - Annecy
@@ -24,10 +20,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb868dc6d32a031e5274
 #EXTINF:-1, Netherlands - Italy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb8b4f36581a1fd666e2b5/index.m3u8
 #EXTINF:-1, Rytíři Kladno - HC Poruba
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f8cd2d5cd1f431b1228b3e/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f8cd2d5cd1f431b1228b3e/index.m3u8
 #EXTINF:-1, Aalborg Pirates - Herning
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f973ed280241622888feeb/index.m3u8
 #EXTINF:-1, Japan - Sweden
 https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, Canada - United States
 https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1, Troja-Ljungby - Västerås
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f36e454d7c3b02cf56e65e/index.m3u8
