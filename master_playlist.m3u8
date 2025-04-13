@@ -11,12 +11,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f3898c7057493243b7da
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da30/index.m3u8
 #EXTINF:-1, Nantes - Chambéry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da3a/index.m3u8
-#EXTINF:-1, China - Romania
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67fb865336581a1fd666e28f/index.m3u8
-#EXTINF:-1, Great Britain - Croatia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb868dc6d32a031e5274eb/index.m3u8
-#EXTINF:-1, Netherlands - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb8b4f36581a1fd666e2b5/index.m3u8
 #EXTINF:-1, Rytíři Kladno - HC Poruba
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f8cd2d5cd1f431b1228b3e/index.m3u8
 #EXTINF:-1, Aalborg Pirates - Herning
@@ -27,3 +21,7 @@ https://fl5.moveonjoy.com/TSN_3/index.m3u8
 https://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Västerås
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f36e454d7c3b02cf56e65e/index.m3u8
+#EXTINF:-1, Great Britain - Croatia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb868dc6d32a031e5274eb/index.m3u8
+#EXTINF:-1, Netherlands - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb8b4f36581a1fd666e2b5/index.m3u8
