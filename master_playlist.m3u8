@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Traktor - Dinamo Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Dynamo Moscow - Ak Bars
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Sparta Praha - Pardubice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f7a5dd15ae2264b3f0e822/index.m3u8
+#EXTINF:-1, Dynamo Moscow - Ak Bars
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Czech Republic - Canada
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Italy - Romania
