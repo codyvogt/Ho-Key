@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Germany - Hungary
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Switzerland - Finland
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Czech Republic - Canada
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Croatia - China
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67fbf82ac6d32a031e527550/index.m3u8
 #EXTINF:-1, Great Britain - Netherlands
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fbf86fc6d32a031e527552/index.m3u8
 #EXTINF:-1, Italy - Romania
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fbf89f36581a1fd666e321/index.m3u8
+#EXTINF:-1, Switzerland - Finland
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, Czech Republic - Canada
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Traktor - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Dynamo Moscow - Ak Bars
