@@ -9,5 +9,7 @@ https://fl3.moveonjoy.com/MSG/index.m3u8
 https://fl6.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1, Los Angeles - Edmonton
 https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1, San Jose - Vancouver
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5a0aad5d-b91b-4f46-b6d7-d16d2bf8c028/master.m3u8
 #EXTINF:-1, Australia - Hong Kong
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f7656824e42b3f0700a980/index.m3u8
