@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Germany - Japan
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, USA - Switzerland
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Avangard - Lokomotiv
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Spartak - Salavat Yulaev
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, USA - Switzerland
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
