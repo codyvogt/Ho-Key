@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Finland - Sweden
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add99/index.m3u8
-#EXTINF:-1, Czech Republic - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add9f/index.m3u8
 #EXTINF:-1, Italy - Denmark
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39114d7c3b02cf56d780/index.m3u8
 #EXTINF:-1, Hungary - Switzerland
@@ -15,3 +11,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc03ac8cca419664cbc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ecc48c4d7c3b02cf56dc00/index.m3u8
 #EXTINF:-1, HC Tábor - AZ Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f789bf15ae2264b3f0e79f/index.m3u8
+#EXTINF:-1, Czech Republic - Slovakia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add9f/index.m3u8
