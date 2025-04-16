@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Italy - Croatia
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67fcc03ac8cca419664cbc5b/index.m3u8
+#EXTINF:-1, Carolina - Montréal
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4440b5b8-a845-45aa-82f9-09436a5d9cc1/master.m3u8
+#EXTINF:-1, Anaheim - Winnipeg Jets
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9988cc5c-018a-4bf6-b99e-cd9197778dd5/master.m3u8
+#EXTINF:-1, Detroit - New Jersey
+https://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1, Dallas Stars - Nashville
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1d8925a4-6e66-4764-a968-55a0784cee6a/master.m3u8
+#EXTINF:-1, Vegas - Vancouver Canucks
+https://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1, Edmonton - San Jose
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/17320de7-b1f4-4a1e-af93-a3beb0482bcd/master.m3u8
