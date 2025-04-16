@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, HC Tábor - AZ Havířov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f789bf15ae2264b3f0e79f/index.m3u8
-#EXTINF:-1, Dinamo Minsk - Traktor
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Ak Bars - Dynamo Moscow
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, Czech Republic - Slovakia
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dd019975ad437eb83add9f/index.m3u8
 #EXTINF:-1, Hungary - Switzerland
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ea39114d7c3b02cf56d782/index.m3u8
 #EXTINF:-1, Italy - Croatia
