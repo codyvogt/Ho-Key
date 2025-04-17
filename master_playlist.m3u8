@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Slovakia - Sweden
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ee160c7057493243b7d338/index.m3u8
-#EXTINF:-1, Finland - Czech Republic
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee160c7057493243b7d33b/index.m3u8
 #EXTINF:-1, Pardubice - Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcf9f54bed481ccc3e9736/index.m3u8
 #EXTINF:-1, Romania - Great Britain
@@ -23,3 +19,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3a2157057493243b7da
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add98/index.m3u8
 #EXTINF:-1, Czech Republic - Finland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e25f7a6e2e851cd1a6ef8f/index.m3u8
+#EXTINF:-1, Avangard - Lokomotiv
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Finland - Czech Republic
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee160c7057493243b7d33b/index.m3u8
