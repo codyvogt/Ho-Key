@@ -3,10 +3,6 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Spartak - Salavat Yulaev
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Denmark - Hungary
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ea39124d7c3b02cf56d784/index.m3u8
-#EXTINF:-1, Switzerland - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39134d7c3b02cf56d786/index.m3u8
 #EXTINF:-1, Croatia - Netherlands
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67fcc0bd4bed481ccc3e96d0/index.m3u8
 #EXTINF:-1, China - Italy
@@ -20,10 +16,14 @@ https://live-fi.tvkaista.net/tv5/live.m3u8
 #EXTINF:-1, Czech Republic - Austria
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
 #EXTINF:-1, Finland - Czech Republic
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee160c7057493243b7d33b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ee160c7057493243b7d33b/index.m3u8
 #EXTINF:-1, HC Tábor - AZ Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f789bf15ae2264b3f0e79e/index.m3u8
 #EXTINF:-1, Rytíři Kladno - HC Poruba
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ff56a5c8cca419664cbede/index.m3u8
 #EXTINF:-1, Czech Republic - Finland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e25f7a6e2e851cd1a6ef8f/index.m3u8
+#EXTINF:-1, Yunost Minsk - HK Vitebsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Switzerland - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39134d7c3b02cf56d786/index.m3u8
