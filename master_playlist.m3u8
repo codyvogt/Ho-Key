@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Finland - Sweden
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, United States - Germany
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Czechia - Switzerland
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Canada - Japan
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Hong Kong - New Zealand
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f344cf4d7c3b02cf56e5f6/index.m3u8
-#EXTINF:-1, France - China
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3a2157057493243b7daf6/index.m3u8
 #EXTINF:-1, Slovakia - Sweden
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ee160c7057493243b7d338/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
@@ -23,6 +11,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0784bed481ccc3e96
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0bd4bed481ccc3e96d0/index.m3u8
 #EXTINF:-1, China - Italy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0f6c8cca419664cbc5d/index.m3u8
+#EXTINF:-1, United States - Germany
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, Czechia - Switzerland
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, Canada - Japan
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, France - China
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3a2157057493243b7daf6/index.m3u8
 #EXTINF:-1, Sweden - Switzerland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add98/index.m3u8
 #EXTINF:-1, Czech Republic - Finland
