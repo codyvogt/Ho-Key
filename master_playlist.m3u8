@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Romania - Great Britain
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0784bed481ccc3e96cb/index.m3u8
-#EXTINF:-1, Croatia - Netherlands
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0bd4bed481ccc3e96d0/index.m3u8
-#EXTINF:-1, China - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0f6c8cca419664cbc5d/index.m3u8
 #EXTINF:-1, United States - Germany
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
@@ -14,7 +8,7 @@ https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, France - China
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3a2157057493243b7daf6/index.m3u8
 #EXTINF:-1, Sweden - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add98/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67dd019975ad437eb83add98/index.m3u8
 #EXTINF:-1, Czech Republic - Finland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67e25f7a6e2e851cd1a6ef8f/index.m3u8
 #EXTINF:-1, Avangard - Lokomotiv
@@ -25,5 +19,9 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39124d7c3b02cf56d784/index.m3u8
 #EXTINF:-1, Switzerland - Italy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39134d7c3b02cf56d786/index.m3u8
+#EXTINF:-1, Croatia - Netherlands
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0bd4bed481ccc3e96d0/index.m3u8
+#EXTINF:-1, China - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc0f6c8cca419664cbc5d/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ee160c7057493243b7d33b/index.m3u8
