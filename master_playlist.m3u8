@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Sweden - Finland
 https://live-fi.tvkaista.net/tv5/live.m3u8
-#EXTINF:-1, Italy - Hungary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39147057493243b7cc41/index.m3u8
 #EXTINF:-1, Sweden - Slovakia
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67fb5e4e36581a1fd666e237/index.m3u8
 #EXTINF:-1, Switzerland - Finland
@@ -15,3 +13,7 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, Sweden - Slovakia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83adda1/index.m3u8
+#EXTINF:-1, Aalborg Pirates - Rungsted
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ff6e624bed481ccc3e9981/index.m3u8
+#EXTINF:-1, Herning Blue Fox - Odense
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ff6e634bed481ccc3e9985/index.m3u8
