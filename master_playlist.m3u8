@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Denmark - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39137057493243b7cc3f/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ea39137057493243b7cc3f/index.m3u8
 #EXTINF:-1, Italy - Hungary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ea39147057493243b7cc41/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
@@ -15,3 +15,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ef678c7057493243b7d5
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add9b/index.m3u8
 #EXTINF:-1, Sweden - Slovakia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83adda1/index.m3u8
+#EXTINF:-1, Sweden - Finland
+https://live-fi.tvkaista.net/tv5/live.m3u8
