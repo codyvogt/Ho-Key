@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Dinamo Minsk - Traktor
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Ak Bars - Dynamo Moscow
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, France - Switzerland
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f0ae4c7057493243b7d70a.m3u8
-#EXTINF:-1, Sweden - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83adda1/index.m3u8
-#EXTINF:-1, Aalborg Pirates - Rungsted
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ff6e624bed481ccc3e9981/index.m3u8
-#EXTINF:-1, Herning Blue Fox - Odense
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ff6e634bed481ccc3e9985/index.m3u8
+#EXTINF:-1, Playoff Preview
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
