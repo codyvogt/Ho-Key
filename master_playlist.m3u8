@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Austria - Czech Republic
-https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
-#EXTINF:-1, France - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f1ffcc4d7c3b02cf56e44d.m3u8
-#EXTINF:-1, Czech Republic - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb5e4e36581a1fd666e232/index.m3u8
-#EXTINF:-1, Sweden - Finland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb5e4e36581a1fd666e236/index.m3u8
 #EXTINF:-1, Rungsted - Aalborg Pirates
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ff6e634bed481ccc3e9983/index.m3u8
 #EXTINF:-1, Switzerland - Slovakia
@@ -27,6 +19,12 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67fcc1764bed481ccc3e96
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc1ac4bed481ccc3e96d6/index.m3u8
 #EXTINF:-1, Czech Republic - Slovakia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f0b90c7057493243b7d712/index.m3u8
+#EXTINF:-1, Austria - Czech Republic
+https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
+#EXTINF:-1, France - Switzerland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f1ffcc4d7c3b02cf56e44d.m3u8
+#EXTINF:-1, Sweden - Finland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb5e4e36581a1fd666e236/index.m3u8
 #EXTINF:-1, Nantes - Bordeaux
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcd21c4bed481ccc3e96f9/index.m3u8
 #EXTINF:-1, Epinal - Drakkars de Caen
