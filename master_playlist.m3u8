@@ -3,18 +3,6 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Lokomotiv - Avangard
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Finland - Switzerland
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f0b90c7057493243b7d718/index.m3u8
-#EXTINF:-1, Czech Republic - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f0b90c7057493243b7d712/index.m3u8
-#EXTINF:-1, Romania - Croatia
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67fcc1364bed481ccc3e96d2/index.m3u8
-#EXTINF:-1, Netherlands - China
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc1764bed481ccc3e96d4/index.m3u8
-#EXTINF:-1, Italy - Great Britain
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc1ac4bed481ccc3e96d6/index.m3u8
-#EXTINF:-1, Finland - Sweden
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67e6b4669a724e78dd705955/index.m3u8
 #EXTINF:-1, Austria - Czech Republic
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
 #EXTINF:-1, France - Switzerland
@@ -24,9 +12,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb5e4e36581a1fd666e2
 #EXTINF:-1, Sweden - Finland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb5e4e36581a1fd666e236/index.m3u8
 #EXTINF:-1, Rungsted - Aalborg Pirates
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ff6e634bed481ccc3e9983/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67ff6e634bed481ccc3e9983/index.m3u8
 #EXTINF:-1, Switzerland - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add9d/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67dd019975ad437eb83add9d/index.m3u8
 #EXTINF:-1, Czech Republic - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83adda0/index.m3u8
 #EXTINF:-1, United States - Czechia
@@ -35,3 +23,9 @@ https://fl5.moveonjoy.com/TSN_1/index.m3u8
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Vitebsk - Yunost Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Netherlands - China
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc1764bed481ccc3e96d4/index.m3u8
+#EXTINF:-1, Italy - Great Britain
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcc1ac4bed481ccc3e96d6/index.m3u8
+#EXTINF:-1, Czech Republic - Slovakia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f0b90c7057493243b7d712/index.m3u8
