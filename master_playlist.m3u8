@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Switzerland - Slovakia
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67dd019975ad437eb83add9d/index.m3u8
-#EXTINF:-1, Czech Republic - Sweden
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83adda0/index.m3u8
-#EXTINF:-1, United States - Czechia
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Canada - Finland
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Vitebsk - Yunost Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Lokomotiv - Avangard
@@ -27,7 +19,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fb5e4e36581a1fd666e2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcd21c4bed481ccc3e96f9/index.m3u8
 #EXTINF:-1, Epinal - Drakkars de Caen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcd21c4bed481ccc3e9703/index.m3u8
+#EXTINF:-1, Czech Republic - Sweden
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83adda0/index.m3u8
 #EXTINF:-1, Montpellier - Lyon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f3898c7057493243b7da38/index.m3u8
+#EXTINF:-1, Canada - Finland
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Lausanne HC - ZSC Lions
 https://latele2.vedge.infomaniak.com/livecast/latele2/manifest.m3u8
