@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Switzerland - Sweden
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, United States - Czechia
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Canada - Finland
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Salavat Yulaev - Spartak
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Lokomotiv - Avangard
@@ -35,3 +29,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ff6e634bed481ccc3e99
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add9d/index.m3u8
 #EXTINF:-1, Czech Republic - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83adda0/index.m3u8
+#EXTINF:-1, United States - Czechia
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, Canada - Finland
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, Vitebsk - Yunost Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
