@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Czechia - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f20a8c7057493243b7d830/index.m3u8
 #EXTINF:-1, AZ Havířov - HC Tábor
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f7b3ef15ae2264b3f0e82f/index.m3u8
 #EXTINF:-1, Dynamo Moscow - Ak Bars
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1, United States - Canada
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, Odense Bulldogs - Herning
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67ff6e634bed481ccc3e9987/index.m3u8
+#EXTINF:-1, Épinal - Drakkars de Caen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcd21c4bed481ccc3e96fb/index.m3u8
