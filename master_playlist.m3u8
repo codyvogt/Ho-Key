@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Slovakia - Finland
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67dd019975ad437eb83add9e/index.m3u8
-#EXTINF:-1, Czechia - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add9a/index.m3u8
-#EXTINF:-1, Traktor - Dinamo Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Dynamo Moscow - Ak Bars
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1, Finland - Sweden
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67f20a8c7057493243b7d831/index.m3u8
-#EXTINF:-1, Czechia - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f20a8c7057493243b7d830/index.m3u8
-#EXTINF:-1, Sweden - Switzerland
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67ee73f47057493243b7d48f/index.m3u8
 #EXTINF:-1, Épinal - Drakkars de Caen
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/67fcd21c4bed481ccc3e96fd/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
@@ -23,3 +9,11 @@ https://fl5.moveonjoy.com/TSN_1/index.m3u8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcafce4bed481ccc3e969f/index.m3u8
 #EXTINF:-1, Estonia - South Korea
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f8e0ca15ae2264b3f0e9af/index.m3u8
+#EXTINF:-1, Czechia - Switzerland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67dd019975ad437eb83add9a/index.m3u8
+#EXTINF:-1, Czechia - Switzerland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f20a8c7057493243b7d830/index.m3u8
+#EXTINF:-1, AZ Havířov - HC Tábor
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f7b3ef15ae2264b3f0e82f/index.m3u8
+#EXTINF:-1, Dynamo Moscow - Ak Bars
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
