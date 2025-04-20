@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Finland - Czech Republic
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, United States - Canada
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Sweden - Czech Republic
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67fcafce4bed481ccc3e969f/index.m3u8
 #EXTINF:-1, Estonia - South Korea
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f8e0ca15ae2264b3f0e9af/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
@@ -15,3 +9,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f20a8c7057493243b7d8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/67f7b3ef15ae2264b3f0e82f/index.m3u8
 #EXTINF:-1, Dynamo Moscow - Ak Bars
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1, United States - Canada
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
