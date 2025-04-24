@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Canada - Slovakia
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Switzerland - USA
-https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1, Florida - Tampa Bay
 https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1, Toronto - Ottawa Senators
 https://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1, Switzerland - USA
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
