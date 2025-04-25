@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Vegas - Minnesota Wild
-https://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1, Winnipeg - St. Louis Blues
-https://fl6.moveonjoy.com/NHL_4/index.m3u8
-#EXTINF:-1, Switzerland - USA
-https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1, Estonia - HaKi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68077846e24c0c068184fdf6/index.m3u8
 #EXTINF:-1, England - Sostine Hockey
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68077847e24c0c068184fdf8/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68077847e24c0c068184fdf8/index.m3u8
 #EXTINF:-1, Tornado - Poland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68077847e24c0c068184fdfa/index.m3u8
 #EXTINF:-1, Pelicans - Team BTC
