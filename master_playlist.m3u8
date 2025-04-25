@@ -3,5 +3,9 @@
 https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1, Toronto - Ottawa Senators
 https://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1, Vegas - Minnesota Wild
+https://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1, Winnipeg - St. Louis Blues
+https://fl1.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1, Switzerland - USA
 https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
