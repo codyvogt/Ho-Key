@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Washington - Montreal
-https://fl6.moveonjoy.com/NHL_5/index.m3u8
-#EXTINF:-1, Carolina - New Jersey
+#EXTINF:-1, Vegas - Minnesota Wild
 https://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1, Latvia - Canada
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1, Toronto - Ottawa Senators
+https://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1, Latvia - Finland
+https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:-1, United States - Sweden
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
