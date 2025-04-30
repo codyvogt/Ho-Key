@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Sweden - Finland
-https://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1, Canada - Czech Republic
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, United States - Latvia
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1, Florida - Tampa Bay
+https://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1, Minnesota - Ottawa Charge
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
