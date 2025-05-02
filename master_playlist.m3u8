@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Bulgaria - New Zealand
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/67f35cea4d7c3b02cf56e629/index.m3u8
+#EXTINF:-1, Russia - Belarus
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Dynamo Moscow - Traktor
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
