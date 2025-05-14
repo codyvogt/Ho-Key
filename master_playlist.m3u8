@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, London - Oshawa Generals
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1, Montréal - Ottawa Charge
+#EXTINF:-1, Slovakia - France
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1, Winnipeg - Dallas Stars
-https://fl5.moveonjoy.com/NHL_1/index.m3u8
-#EXTINF:-1, Medicine Hat - Spokane
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, United States - Norway
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
