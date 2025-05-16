@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Carolina - Washington
-https://fl5.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1, Dallas - Winnipeg Jets
-https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1, Moncton - Rimouski
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1, Oshawa - London Knights
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
+https://fl5.moveonjoy.com/NHL_4/index.m3u8
