@@ -3,3 +3,5 @@
 https://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1, Winnipeg - Dallas Stars
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1, Russia - Belarus
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
