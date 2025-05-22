@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Edmonton - Dallas Stars
-https://fl5.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1, Switzerland - Austria
+https://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1, United States - Finland
+https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
