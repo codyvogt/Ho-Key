@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, NHL Network
-https://fl6.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1, Boston - Washington
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/51e7c065-abd4-40c3-a362-649a769a5df9/master.m3u8
+#EXTINF:-1, Calgary - Edmonton Oilers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/108babbc-0c02-4f0a-a8f5-efb8f589e0e4/master.m3u8
+#EXTINF:-1, Los Angeles Kings - Vegas
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/03363640-cb3d-4071-a4d1-2b4f9e64a002/master.m3u8
