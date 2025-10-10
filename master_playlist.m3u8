@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Utah - Colorado Avalanche
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/07eeb0ac-c479-4877-90ac-767fa387cba0/master.m3u8
-#EXTINF:-1, Calgary - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ae5428d5-def3-45a8-817f-d1b0f7472f5a/master.m3u8
-#EXTINF:-1, Vegas - San Jose Sharks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/26ddcfa8-f4ff-4cec-8b77-b72cf2652fdd/master.m3u8
-#EXTINF:-1, Anaheim - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cfdedd1b-625e-428b-915e-dc9d12e7ed11/master.m3u8
+#EXTINF:-1, Tomiris Astana - Juldyz
+https://cdn.inhockey.tv/live/jas1/index.m3u8
 #EXTINF:-1, Oulun Kärpät - JYP
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df5890c62be9451d65e932/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68df5890c62be9451d65e932/index.m3u8
