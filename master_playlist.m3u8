@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Sparta Praha - Pardubice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da98a48ebee495bafd5ebf.m3u8
 #EXTINF:-1, Lausanne - Biel-Bienne
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, Esbjerg Energy - Rungsted
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dbbba88ebee495bafd6097.m3u8
-#EXTINF:-1, Herlev Eagles - Rødovre
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dbbaaf2de202e178005206.m3u8
-#EXTINF:-1, Aalborg - Sønderjyske
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dbbb4a8ebee495bafd6095.m3u8
-#EXTINF:-1, HC Dukla Jihlava - Liberec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ba7d93a0fb9297e7b9327c/index.m3u8
 #EXTINF:-1, HC Tábor - VHK Vsetín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d65743c957a27a013166a8/index.m3u8
 #EXTINF:-1, HC Chrudim - HC Olomouc
@@ -137,14 +127,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f791
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68de4e572de202e178005927/index.m3u8
 #EXTINF:-1, Morav. Třebová - HHK VM
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d4e9a4c957a27a013162c8/index.m3u8
-#EXTINF:-1, Providence - Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Saint Anselm - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Linköping 2 - Troja-Ljungby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0c512c62be9451d65eec3/index.m3u8
-#EXTINF:-1, IF Malmö - Karlskrona HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0c350e14bd1ca73a57ed2/index.m3u8
+#EXTINF:-1, Herlev Eagles - Rødovre
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dbbaaf2de202e178005206.m3u8
+#EXTINF:-1, Aalborg - Sønderjyske
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dbbb4a8ebee495bafd6095.m3u8
 #EXTINF:-1, NKV - GrIFK Joukkue
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df5890e14bd1ca73a579cc/index.m3u8
 #EXTINF:-1, Hunters Team - Näädät
@@ -165,6 +151,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c7e8adff45f9df293
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c7fa8b7780705525d75/index.m3u8
 #EXTINF:-1, PT-80 - KJT Haukat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df5890e14bd1ca73a579ce/index.m3u8
+#EXTINF:-1, Saint Anselm - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Hijs Hokij - Neuwied
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dc16078ebee495bafd611d/index.m3u8
 #EXTINF:-1, Mechelen - HYC
