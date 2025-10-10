@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Chicago - Boston Bruins
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e18960d1-df6f-4635-b93a-b2c4fbe7251e/master.m3u8
 #EXTINF:-1, New York Rangers - Buffalo
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4744c219-61d3-4d81-8c60-27901cf63533/master.m3u8
 #EXTINF:-1, Montréal - Detroit
@@ -15,8 +13,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b93ba5
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d7262b0a-681e-471e-86b2-bec8d7c73e0d/master.m3u8
 #EXTINF:-1, Minnesota - St. Louis Blues
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/614bb075-0caf-4795-a91d-fe7abdf4f6f3/master.m3u8
-#EXTINF:-1, Columbus - Nashville
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c19ba65b-47be-44e3-a7b6-9d79f2ed8883/master.m3u8
 #EXTINF:-1, Dallas - Winnipeg Jets
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b123bce1-c5a9-496d-bd8c-57b10614b7f2/master.m3u8
 #EXTINF:-1, Utah - Colorado Avalanche
