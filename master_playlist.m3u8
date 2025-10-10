@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Cergy-Pontoise - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c7e8adff45f9df2930b/index.m3u8
 #EXTINF:-1, Mechelen - HYC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68dcfba58ebee495bafd63bc/index.m3u8
 #EXTINF:-1, Worm Angels - S. Cápák
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d764d6958c07844b1a3711/index.m3u8
+#EXTINF:-1, Quinnipiac - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b4558a8d-6e5e-45d3-b5f4-ae338f72b63b-hls/master/b4558a8d-6e5e-45d3-b5f4-ae338f72b63b-hls.m3u8
+#EXTINF:-1, Boston University - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Vermont - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Holy Cross - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, New Hampshire - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
