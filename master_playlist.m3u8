@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mechelen - HYC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68dcfba58ebee495bafd63bc/index.m3u8
 #EXTINF:-1, Worm Angels - S. Cápák
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d764d6958c07844b1a3711/index.m3u8
 #EXTINF:-1, Quinnipiac - Syracuse
@@ -13,3 +11,35 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, New Hampshire - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Alaska - Quinnipiac
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ace4dd32-ac73-4e6a-abdc-3cc096e391c1-hls/master/ace4dd32-ac73-4e6a-abdc-3cc096e391c1-hls.m3u8
+#EXTINF:-1, Miami - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Colgate - Boston University
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Holy Cross - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, UMass Lowell - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Michigan - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Army WP - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, WMU - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, Lindenwood - Lake Superior
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lakesuperiorhockey/playlist.m3u8
+#EXTINF:-1, Minnesota State - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6ff9da40-d5fd-40fa-8992-97e8c8d7ae79-hls/master/6ff9da40-d5fd-40fa-8992-97e8c8d7ae79-hls.m3u8
+#EXTINF:-1, Augustana - UMD
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ad91c620-e7f4-4bed-905e-8f665119468d-hls/master/ad91c620-e7f4-4bed-905e-8f665119468d-hls.m3u8
+#EXTINF:-1, St. Thomas - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ebc1376-1959-4554-a394-45530fe6865a-hls/master/2ebc1376-1959-4554-a394-45530fe6865a-hls.m3u8
+#EXTINF:-1, SCSU - Bemidji State
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, Bentley - Colorado College
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls/master/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls.m3u8
+#EXTINF:-1, Notre Dame - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls/master/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls.m3u8
