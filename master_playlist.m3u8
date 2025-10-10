@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Quinnipiac - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b4558a8d-6e5e-45d3-b5f4-ae338f72b63b-hls/master/b4558a8d-6e5e-45d3-b5f4-ae338f72b63b-hls.m3u8
-#EXTINF:-1, Boston University - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Vermont - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Holy Cross - Boston C
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, New Hampshire - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Alaska - Quinnipiac
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ace4dd32-ac73-4e6a-abdc-3cc096e391c1-hls/master/ace4dd32-ac73-4e6a-abdc-3cc096e391c1-hls.m3u8
 #EXTINF:-1, Miami - Rensselaer PI
@@ -41,5 +31,13 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls/master/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls.m3u8
 #EXTINF:-1, Notre Dame - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls/master/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls.m3u8
+#EXTINF:-1, Boston University - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Vermont - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Holy Cross - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, New Hampshire - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Muskegon - US NTDP U17
 https://d2hzegobn4ksrg.cloudfront.net/4e5bcf283d7c2b39e74a21ffaabb4e6e/0_hd_hls.m3u8
