@@ -3,10 +3,6 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/80acdea0-6165-4093-a28a-bc02837a83f3/master.m3u8
 #EXTINF:-1, ZSC Lions - Ambri-Piotta
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Kralupy nad Vlt. - Kobra
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bac3e2a0fb9297e7b933d8/index.m3u8
-#EXTINF:-1, Vlci Jablonec - Česká Lípa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bec66fa32fed197c9d115c/index.m3u8
 #EXTINF:-1, HCMV Varese - HC Falcons
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880ed821d615b78791f4614/index.m3u8
 #EXTINF:-1, SV Kaltern - Pergine
@@ -35,16 +31,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b564178adff45f9df292
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b17da8ed3d1a24f79be78e/index.m3u8
 #EXTINF:-1, Courbevoie - Orléans
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c1419b5addedaac41c4299/index.m3u8
-#EXTINF:-1, Kiekko-67 Turku - PKS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0aa11e14bd1ca73a57de1/index.m3u8
-#EXTINF:-1, Sables - HPK Icedogs
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0aa11e14bd1ca73a57e2a/index.m3u8
-#EXTINF:-1, Turun Kisa-Veikot - TarU
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0aa11c62be9451d65ed44/index.m3u8
-#EXTINF:-1, Wasquehal - Dunkerque 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b5aa6c8adff45f9df2944f/index.m3u8
-#EXTINF:-1, Garges - Champigny
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b5aa6b8adff45f9df29449/index.m3u8
 #EXTINF:-1, Piné - Vinschgau Eisfix
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4e80dc62be9451d65f7dd/index.m3u8
 #EXTINF:-1, Storm Pinerolo - Como
@@ -53,6 +39,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e4e852c62be9451d65f7
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4e852e14bd1ca73a5892f/index.m3u8
 #EXTINF:-1, Hiki-Hockey - Pyry Team
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0aa11e14bd1ca73a57db7/index.m3u8
+#EXTINF:-1, Turun Kisa-Veikot - TarU
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0aa11c62be9451d65ed44/index.m3u8
 #EXTINF:-1, K-Espoo IV - KooKoo Team
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0aa11c62be9451d65ed9e/index.m3u8
 #EXTINF:-1, K-Espoo III - Haukat Ak
@@ -93,6 +81,8 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fc88853d-d9ce-4dee-94b2-00afe
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, EVU Team 2 - Hawks
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0aa10c62be9451d65ed14/index.m3u8
+#EXTINF:-1, Garges - Champigny
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b5aa6b8adff45f9df29449/index.m3u8
 #EXTINF:-1, Txuri Urdin - Barça HG
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e66b55e14bd1ca73a58cc4/index.m3u8
 #EXTINF:-1, Andorra HG - Milenio
