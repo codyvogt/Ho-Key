@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Notre Dame - Arizona State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls/master/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls.m3u8
+#EXTINF:-1, Buran Voronezh - Rubin
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
+#EXTINF:-1, Děčín - Roudnice n. Labem
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d246a61c55dbe115576284/index.m3u8
+#EXTINF:-1, Žihadla - Baník Hodonín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d68f84acab1c162ee1ea7e/index.m3u8
+#EXTINF:-1, Val. Meziříčí B - Prostějov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df3c0aa0cd927f7907c/index.m3u8
+#EXTINF:-1, HC Děčín - HK Jičín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d62d176f7f10ac01b3cb08/index.m3u8
