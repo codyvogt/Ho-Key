@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, New Hampshire - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Muskegon - US NTDP U17
+https://d2hzegobn4ksrg.cloudfront.net/4e5bcf283d7c2b39e74a21ffaabb4e6e/0_hd_hls.m3u8
 #EXTINF:-1, Miami - Rensselaer PI
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Colgate - Boston University
@@ -27,7 +31,3 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ebc1376-1959-4554-a394-45530
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls/master/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls.m3u8
 #EXTINF:-1, Notre Dame - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls/master/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls.m3u8
-#EXTINF:-1, New Hampshire - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Muskegon - US NTDP U17
-https://d2hzegobn4ksrg.cloudfront.net/4e5bcf283d7c2b39e74a21ffaabb4e6e/0_hd_hls.m3u8
