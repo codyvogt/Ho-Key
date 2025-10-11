@@ -3,20 +3,14 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Shanghai - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Slavia Praha - Karlovy Vary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce6e3fa4ceb125359fd94c/index.m3u8
+#EXTINF:-1, Yunost Minsk - Brest
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Jihlava - Mladá Boleslav
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df5c0aa0cd927f790f8/index.m3u8
 #EXTINF:-1, Sparta Praha - HC Litvínov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c91a37b4c8ed39e347558e/index.m3u8
 #EXTINF:-1, Vítkovice - Mountfield HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da83ff8ebee495bafd5e81/index.m3u8
-#EXTINF:-1, Yunost Minsk - Brest
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Sudrets HC - Gnesta IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e213efc62be9451d65f24b/index.m3u8
-#EXTINF:-1, Malmbergets AIF - Pajala
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e2017be14bd1ca73a581bc/index.m3u8
 #EXTINF:-1, DVTK JA - RB Salzburg
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d764d6958c07844b1a3715/index.m3u8
 #EXTINF:-1, Fehérvár HA19 - Újpesti JA
@@ -311,6 +305,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e2114dc62be9451d65f2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e207a0c62be9451d65f16d/index.m3u8
 #EXTINF:-1, MoDo 2 - Skellefteå AIK 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e20f8cc62be9451d65f214/index.m3u8
+#EXTINF:-1, Malmbergets AIF - Pajala
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e2017be14bd1ca73a581bc/index.m3u8
 #EXTINF:-1, IFK Mariehamn - Hässelby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb52c62be9451d65efe7/index.m3u8
 #EXTINF:-1, Raahe-K - IFK Lepplax
