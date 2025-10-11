@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Traktor - Lokomotiv
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Shanghai - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Rosvik IK - Kiruna AIF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb52c62be9451d65efeb/index.m3u8
-#EXTINF:-1, Tegs SK - Sollefteå HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e20c06c62be9451d65f1e8/index.m3u8
-#EXTINF:-1, KB65 HK - Vindelns HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fc33c62be9451d65f119/index.m3u8
 #EXTINF:-1, Rytíři Kladno - AZ Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d2a90fc957a27a01315de5/index.m3u8
 #EXTINF:-1, HC Tábor - Berani Zlín B
@@ -62,7 +54,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e21692c62be9451d65f2
 #EXTINF:-1, Skellefteå AIK - Brynäs IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e2106b82ddee934c5e5ff0/index.m3u8
 #EXTINF:-1, Luleå HF - Timrå IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e20b24e14bd1ca73a5826a/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e20b24e14bd1ca73a5826a/index.m3u8
 #EXTINF:-1, IF Malmö - Västerås IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e214d382ddee934c5e6028/index.m3u8
 #EXTINF:-1, Linköping HC - Örebro HK
@@ -284,7 +276,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcc4942de202e1780054
 #EXTINF:-1, České Budějovice - Liberec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c67734e349ef77b8325fa3/index.m3u8
 #EXTINF:-1, Majadahonda - Huarte
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e67091e14bd1ca73a58cca/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e67091e14bd1ca73a58cca/index.m3u8
 #EXTINF:-1, Valdemoro - Txuri Urdin
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e76315e14bd1ca73a58ef1/index.m3u8
 #EXTINF:-1, HC Vipers - Narva PSK
@@ -329,6 +321,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bac3e2a0fb9297e7b933
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f6e/index.m3u8
 #EXTINF:-1, Stadion Cheb - Mostečtí Lvi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f77/index.m3u8
+#EXTINF:-1, Tegs SK - Sollefteå HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e20c06c62be9451d65f1e8/index.m3u8
+#EXTINF:-1, KB65 HK - Vindelns HF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fc33c62be9451d65f119/index.m3u8
 #EXTINF:-1, SHK Ozolnieki - Klaipeda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e15808e14bd1ca73a57f50/index.m3u8
 #EXTINF:-1, Choceň - Žďár nad Sázavou
