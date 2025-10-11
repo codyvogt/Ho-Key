@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Alaska - Quinnipiac
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ace4dd32-ac73-4e6a-abdc-3cc096e391c1-hls/master/ace4dd32-ac73-4e6a-abdc-3cc096e391c1-hls.m3u8
 #EXTINF:-1, Miami - Rensselaer PI
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Colgate - Boston University
@@ -25,18 +23,10 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6ff9da40-d5fd-40fa-8992-97e8c
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ad91c620-e7f4-4bed-905e-8f665119468d-hls/master/ad91c620-e7f4-4bed-905e-8f665119468d-hls.m3u8
 #EXTINF:-1, St. Thomas - North Dakota
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ebc1376-1959-4554-a394-45530fe6865a-hls/master/2ebc1376-1959-4554-a394-45530fe6865a-hls.m3u8
-#EXTINF:-1, SCSU - Bemidji State
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bemidjihockey/playlist.m3u8
 #EXTINF:-1, Bentley - Colorado College
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls/master/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls.m3u8
 #EXTINF:-1, Notre Dame - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls/master/860f0048-3e0b-4a2a-93c4-1fd3330932f3-hls.m3u8
-#EXTINF:-1, Boston University - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Vermont - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Holy Cross - Boston C
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, New Hampshire - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Muskegon - US NTDP U17
