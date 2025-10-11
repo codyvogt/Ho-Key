@@ -7,10 +7,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e66b55e14bd1ca73a58c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e66c15c62be9451d65fb0a/index.m3u8
 #EXTINF:-1, C.H. Jaca - C.H. Madrid
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e66caac62be9451d65fb10/index.m3u8
-#EXTINF:-1, Quinnipiac - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fc88853d-d9ce-4dee-94b2-00afe2808d4d-hls/master/fc88853d-d9ce-4dee-94b2-00afe2808d4d-hls.m3u8
-#EXTINF:-1, Boston University - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Valdemoro - Txuri Urdin
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e76315e14bd1ca73a58ef1/index.m3u8
 #EXTINF:-1, Colgate - Boston University
@@ -35,3 +31,5 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/827f76a2-cf18-40bd-8caa-2168f
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/98fe1fc8-b2f1-42d0-a581-afba0805ba21-hls/master/98fe1fc8-b2f1-42d0-a581-afba0805ba21-hls.m3u8
 #EXTINF:-1, Alaska - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/98030446-aed3-454e-a2ba-bb147d407b29-hls/master/98030446-aed3-454e-a2ba-bb147d407b29-hls.m3u8
+#EXTINF:-1, Boston University - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
