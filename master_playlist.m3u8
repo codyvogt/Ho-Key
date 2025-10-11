@@ -223,14 +223,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b5aa6b8adff45f9df294
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b5aa6c8adff45f9df2944f/index.m3u8
 #EXTINF:-1, Garges - Champigny
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b5aa6b8adff45f9df29449/index.m3u8
-#EXTINF:-1, Évry-Viry - Cergy-Pontoise
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c3c87db4c8ed39e3474359/index.m3u8
-#EXTINF:-1, Amiens - Tours
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c00c3ca32fed197c9d1401/index.m3u8
-#EXTINF:-1, Montpellier - Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7d91c9d2a1a468257fb4a/index.m3u8
-#EXTINF:-1, Chambéry - Marseille-PACA
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c00c3ca32fed197c9d1407/index.m3u8
 #EXTINF:-1, Kalevan Pallo - RoKi
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0aa11c62be9451d65ed62/index.m3u8
 #EXTINF:-1, České Budějovice - Liberec
@@ -265,6 +257,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b564178adff45f9df292
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b17da8ed3d1a24f79be78e/index.m3u8
 #EXTINF:-1, Courbevoie - Orléans
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c1419b5addedaac41c4299/index.m3u8
+#EXTINF:-1, Amiens - Tours
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c00c3ca32fed197c9d1401/index.m3u8
+#EXTINF:-1, Montpellier - Lyon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7d91c9d2a1a468257fb4a/index.m3u8
+#EXTINF:-1, Chambéry - Marseille-PACA
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c00c3ca32fed197c9d1407/index.m3u8
 #EXTINF:-1, Strasbourg - Chambéry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b7f90cc238c71a081b6a30/index.m3u8
 #EXTINF:-1, Dunkerque - HC Épinal
