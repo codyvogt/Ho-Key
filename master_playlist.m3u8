@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Minnesota State - Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6ff9da40-d5fd-40fa-8992-97e8c8d7ae79-hls/master/6ff9da40-d5fd-40fa-8992-97e8c8d7ae79-hls.m3u8
-#EXTINF:-1, Augustana - UMD
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ad91c620-e7f4-4bed-905e-8f665119468d-hls/master/ad91c620-e7f4-4bed-905e-8f665119468d-hls.m3u8
-#EXTINF:-1, St. Thomas - North Dakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ebc1376-1959-4554-a394-45530fe6865a-hls/master/2ebc1376-1959-4554-a394-45530fe6865a-hls.m3u8
 #EXTINF:-1, Bentley - Colorado College
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls/master/54290aa1-7e05-4420-ba9c-8bbdc1a89752-hls.m3u8
 #EXTINF:-1, Notre Dame - Arizona State
