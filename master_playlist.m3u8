@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, St. Louis - Calgary Flames
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cb84affe-e213-402d-ada7-e53755435b79/master.m3u8
-#EXTINF:-1, Tours - Nantes
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b7f90cc238c71a081b6a3a/index.m3u8
 #EXTINF:-1, Drakkars de Caen - Cholet
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b7f90c5addedaac41c2cfe/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Morzine
@@ -11,16 +9,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b7f90c5addedaac41c2d
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b7f90c5addedaac41c2d02/index.m3u8
 #EXTINF:-1, Valpelice - Valdifiemme
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880ed8489696da691442221/index.m3u8
-#EXTINF:-1, Annecy - Ducs de Dijon
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b564178adff45f9df292e9/index.m3u8
 #EXTINF:-1, Clermont-FD - Mulhouse
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b17da8ed3d1a24f79be78e/index.m3u8
 #EXTINF:-1, Courbevoie - Orléans
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c1419b5addedaac41c4299/index.m3u8
-#EXTINF:-1, Cadore - HCP Selection
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4e852e14bd1ca73a5892f/index.m3u8
-#EXTINF:-1, Chambéry - Marseille-PACA
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c00c3ca32fed197c9d1407/index.m3u8
 #EXTINF:-1, Txuri Urdin - Barça HG
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e66b55e14bd1ca73a58cc4/index.m3u8
 #EXTINF:-1, Andorra HG - Milenio
@@ -37,3 +29,25 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fc88853d-d9ce-4dee-94b2-00afe
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Valdemoro - Txuri Urdin
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e76315e14bd1ca73a58ef1/index.m3u8
+#EXTINF:-1, Colgate - Boston University
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Miami - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Notre Dame - Quinnipiac
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c1631305-a578-4ee0-8a88-f7fae319a41a-hls/master/c1631305-a578-4ee0-8a88-f7fae319a41a-hls.m3u8
+#EXTINF:-1, Lindenwood - LSSU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lakesuperiorhockey/playlist.m3u8
+#EXTINF:-1, Holy Cross - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Michigan - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, BSU - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5ace4993-51dd-4988-bb35-b90a9b443dfc-hls/master/5ace4993-51dd-4988-bb35-b90a9b443dfc-hls.m3u8
+#EXTINF:-1, Augustana - UMD
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/896b0a56-c590-4f96-a803-0ec476077475-hls/master/896b0a56-c590-4f96-a803-0ec476077475-hls.m3u8
+#EXTINF:-1, Minnesota State - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/827f76a2-cf18-40bd-8caa-2168f23d93d2-hls/master/827f76a2-cf18-40bd-8caa-2168f23d93d2-hls.m3u8
+#EXTINF:-1, Bentley - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/98fe1fc8-b2f1-42d0-a581-afba0805ba21-hls/master/98fe1fc8-b2f1-42d0-a581-afba0805ba21-hls.m3u8
+#EXTINF:-1, Alaska - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/98030446-aed3-454e-a2ba-bb147d407b29-hls/master/98030446-aed3-454e-a2ba-bb147d407b29-hls.m3u8
