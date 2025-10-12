@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Vancouver - Edmonton
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/27f89117-6268-4410-b0e5-4b9b0c098bef/master.m3u8
-#EXTINF:-1, Anaheim - San Jose Sharks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3099054a-6e23-46e2-b7fa-9f88048946b6/master.m3u8
-#EXTINF:-1, Vegas - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1ff2df68-b9ce-4725-8013-60c3387d4728/master.m3u8
 #EXTINF:-1, JYP - Rauman Lukko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb90c62be9451d65f037/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e1fb90c62be9451d65f037/index.m3u8
 #EXTINF:-1, Tappara Tampere - RoKi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb91c62be9451d65f043/index.m3u8
 #EXTINF:-1, Oulun Kärpät - KalPa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb90c62be9451d65f034/index.m3u8
+#EXTINF:-1, Astana - Qarmet
+https://cdn.inhockey.tv/live/local2/index.m3u8
+#EXTINF:-1, Qulager Petropavl - Arlan
+https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, RNK - IFK Mariehamn
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb91c62be9451d65f04a/index.m3u8
 #EXTINF:-1, Lapuan Virkiä - Laser HT
@@ -20,7 +18,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb91c62be9451d65f0
 #EXTINF:-1, Kiekko-Ahma - HPK Ak
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb90e14bd1ca73a5809b/index.m3u8
 #EXTINF:-1, HPK Akatemia - APV
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb91c62be9451d65f0df/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e1fb91c62be9451d65f0df/index.m3u8
 #EXTINF:-1, Lahden Pelicans - Lukko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb91c62be9451d65f10c/index.m3u8
 #EXTINF:-1, KeuPa HT - Kärpät Ak
