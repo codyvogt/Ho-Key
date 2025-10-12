@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Grenoble - Aigles de Nice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c7fa8b7780705525d67/index.m3u8
-#EXTINF:-1, Chamonix - Gap
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c7f8adff45f9df2931b/index.m3u8
 #EXTINF:-1, Lida - Metallurg Zhlobin
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Anglet - Villard-de-Lans
@@ -17,6 +13,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d1760ca4ceb125359fe2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da3db565d0f1ba71b30a20/index.m3u8
 #EXTINF:-1, Litoměřice - Kralupy n. Vlt.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcc4942de202e178005412/index.m3u8
+#EXTINF:-1, Chamonix - Gap
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c7f8adff45f9df2931b/index.m3u8
 #EXTINF:-1, Sokolov B - Město Nejdek
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c800f59d2a1a468257fbd3/index.m3u8
 #EXTINF:-1, HHK VM B - Bystřice n. P.
