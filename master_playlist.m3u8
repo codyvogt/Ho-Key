@@ -1,38 +1,26 @@
 #EXTM3U
-#EXTINF:-1, Vlci Jablonec - Nová Paka
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bec6765addedaac41c3dd3/index.m3u8
-#EXTINF:-1, Orli Znojmo - HC Žihadla
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da3db565d0f1ba71b30a20/index.m3u8
-#EXTINF:-1, Litoměřice - Kralupy n. Vlt.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcc4942de202e178005412/index.m3u8
-#EXTINF:-1, Amiens - Hormadi d'Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c7f8adff45f9df29317/index.m3u8
 #EXTINF:-1, Grenoble - Aigles de Nice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c7fa8b7780705525d67/index.m3u8
 #EXTINF:-1, Chamonix - Gap
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c7f8adff45f9df2931b/index.m3u8
-#EXTINF:-1, HC 74 - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b7c0cb5addedaac41c2c3d/index.m3u8
-#EXTINF:-1, Gap - Cergy-Pontoise
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b66f4b8adff45f9df29520/index.m3u8
+#EXTINF:-1, Lida - Metallurg Zhlobin
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Anglet - Villard-de-Lans
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b7c0cb5addedaac41c2c3f/index.m3u8
 #EXTINF:-1, Caen - Strasbourg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b7c0cb5addedaac41c2c41/index.m3u8
-#EXTINF:-1, Jindř. Hradec - Soběslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f949d2a1a46825800f1/index.m3u8
-#EXTINF:-1, Sokolov B - Město Nejdek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c800f59d2a1a468257fbd3/index.m3u8
-#EXTINF:-1, HHK VM B - Bystřice n. P.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d169d2a1a468257fca8/index.m3u8
-#EXTINF:-1, AIK - Sundbybergs IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e3648fc62be9451d65f4e0/index.m3u8
-#EXTINF:-1, Lida - Metallurg Zhlobin
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Courbevoie - Cergy 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d1760ba4ceb125359fe2fb/index.m3u8
 #EXTINF:-1, Clermont-FD - Bordeaux
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d1760ca4ceb125359fe2ff/index.m3u8
+#EXTINF:-1, Orli Znojmo - HC Žihadla
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da3db565d0f1ba71b30a20/index.m3u8
+#EXTINF:-1, Litoměřice - Kralupy n. Vlt.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcc4942de202e178005412/index.m3u8
+#EXTINF:-1, Sokolov B - Město Nejdek
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c800f59d2a1a468257fbd3/index.m3u8
+#EXTINF:-1, HHK VM B - Bystřice n. P.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d169d2a1a468257fca8/index.m3u8
 #EXTINF:-1, Neuwied - Mechelen
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dcfba68ebee495bafd63c0/index.m3u8
 #EXTINF:-1, Eaters Limburg - Leuven
