@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Litvínov - Kometa Brno
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68de82b5e14bd1ca73a57875.m3u8
-#EXTINF:-1, Hlinsko - Třebechovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecdd6/index.m3u8
-#EXTINF:-1, Jindř. Hradec - Soběslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f949d2a1a46825800f1/index.m3u8
-#EXTINF:-1, Sokolov B - Město Nejdek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c800f59d2a1a468257fbd3/index.m3u8
-#EXTINF:-1, HHK VM B - Bystřice n. P.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d169d2a1a468257fca8/index.m3u8
-#EXTINF:-1, VG-62 - Indians Kaarina
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e1fb90e14bd1ca73a580a4/index.m3u8
-#EXTINF:-1, KOOVEE - Kankaanpään JK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb90e14bd1ca73a5805b/index.m3u8
-#EXTINF:-1, S-Kiekko Team - IK Kronan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1fb90e14bd1ca73a580a6/index.m3u8
-#EXTINF:-1, Järna SK - IFK Tumba IK 2
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e3610cc62be9451d65f4a7/index.m3u8
-#EXTINF:-1, Zinnen Dolomites - Lakers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4e860c62be9451d65f7f1/index.m3u8
-#EXTINF:-1, Hammarby IF - Almtuna IS
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e3575ec62be9451d65f3a1/index.m3u8
-#EXTINF:-1, AIK - Sundbybergs IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e3648fc62be9451d65f4e0/index.m3u8
-#EXTINF:-1, MD Šumperk - HC Chrudim
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da4bbe65d0f1ba71b30a5f/index.m3u8
 #EXTINF:-1, Vlci Jablonec - Nová Paka
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bec6765addedaac41c3dd3/index.m3u8
 #EXTINF:-1, Orli Znojmo - HC Žihadla
@@ -45,6 +19,14 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b66f4b8adff45f9df295
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b7c0cb5addedaac41c2c3f/index.m3u8
 #EXTINF:-1, Caen - Strasbourg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b7c0cb5addedaac41c2c41/index.m3u8
+#EXTINF:-1, Jindř. Hradec - Soběslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f949d2a1a46825800f1/index.m3u8
+#EXTINF:-1, Sokolov B - Město Nejdek
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c800f59d2a1a468257fbd3/index.m3u8
+#EXTINF:-1, HHK VM B - Bystřice n. P.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d169d2a1a468257fca8/index.m3u8
+#EXTINF:-1, AIK - Sundbybergs IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e3648fc62be9451d65f4e0/index.m3u8
 #EXTINF:-1, Lida - Metallurg Zhlobin
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Courbevoie - Cergy 2
