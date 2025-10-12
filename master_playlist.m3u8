@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, HHK VM B - Bystřice n. P.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d169d2a1a468257fca8/index.m3u8
-#EXTINF:-1, Litoměřice - Kralupy n. Vlt.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcc4942de202e178005412/index.m3u8
 #EXTINF:-1, Liège Bulldogs - Hijs Hokij
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcfba68ebee495bafd63c2/index.m3u8
 #EXTINF:-1, HYC - Heerenveen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcfba68ebee495bafd63c4/index.m3u8
+#EXTINF:-1, Vermont - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, North Dakota - St. Thomas
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
