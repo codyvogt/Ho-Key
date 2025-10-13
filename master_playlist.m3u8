@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Buran Voronezh - Ugra
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
+#EXTINF:-1, Florida - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/957d69e1-dfe2-4696-a27a-b72981440008/master.m3u8
+#EXTINF:-1, New Jersey - Columbus
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c764a8d8-c3a7-4790-a6c7-abbeb231716f/master.m3u8
+#EXTINF:-1, St. Louis - Vancouver
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0ae6803e-ac09-4981-b030-732892a16228/master.m3u8
+#EXTINF:-1, Los Angeles - Minnesota
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e99bd736-e0c1-4bba-9599-1d42a2074784/master.m3u8
+#EXTINF:-1, Utah - Chicago Blackhawks
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c1b014ca-f5a2-42ec-a6d9-c799b3db7379/master.m3u8
