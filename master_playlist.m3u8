@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Barys Astana - Sibir
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1, Traktor - Avangard Omsk
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Torpedo
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Qulager - Saryarqa
-https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Kometa Brno - Liberec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68db730f2de202e1780050ca/index.m3u8
 #EXTINF:-1, HC Poruba - Baník Sokolov
