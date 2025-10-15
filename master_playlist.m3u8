@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1, Vegas - Calgary Flames
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0341908d-2ddd-4402-892f-33272e49e8b8/master.m3u8
-#EXTINF:-1, Minnesota - Dallas Stars
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0ff64dd9-613f-49d9-87d2-2db841a52ade/master.m3u8
-#EXTINF:-1, Carolina - San Jose Sharks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/495c0db6-f25e-4e74-9ffe-7aad47db8d3e/master.m3u8
-#EXTINF:-1, Pittsburgh - Anaheim
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c728348d-8f5f-46bd-a67b-95b7d5808668/master.m3u8
 #EXTINF:-1, Frýdek-Místek - Sokolov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ee521650c8e37c3b1dc4b1.m3u8
+#EXTINF:-1, Qulager Petropavl - Qarmet
+https://cdn.inhockey.tv/live/local3/index.m3u8
+#EXTINF:-1, Barys Astana - Arlan
+https://cdn.inhockey.tv/live/local2/index.m3u8
+#EXTINF:-1, Almaty - Aqtóbe HK
+https://cdn.inhockey.tv/live/local4/index.m3u8
+#EXTINF:-1, Astana - Munaishy
+https://cdn.inhockey.tv/live/jas1/index.m3u8
+#EXTINF:-1, Torpedo Oskemen - Juldyz
+https://cdn.inhockey.tv/live/jas2/index.m3u8
+#EXTINF:-1, Amur Khabarovsk - Spartak
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+#EXTINF:-1, Admiral Vladivostok - Lada
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
