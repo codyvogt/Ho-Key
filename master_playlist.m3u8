@@ -1,28 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Severstal - Avtomobilist
-https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1, Lokomotiv - CSKA Moscow
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Tábor - Stadion Litoměřice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68beb27da32fed197c9d1121.m3u8
 #EXTINF:-1, Opava - Velké Meziříčí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d159d2a1a468257fca2/index.m3u8
-#EXTINF:-1, Hodonín - Technika Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b1c1a2ed3d1a24f79be842/index.m3u8
-#EXTINF:-1, Šumperk - Uherský Brod
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecb1b/index.m3u8
 #EXTINF:-1, Valašské Meziříčí - Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f79017/index.m3u8
 #EXTINF:-1, Havlíčkův Brod - HC Hronov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf575a4ceb125359fd025/index.m3u8
-#EXTINF:-1, Benátky n. J. - IHC Písek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca6bb49d2a1a4682580183/index.m3u8
-#EXTINF:-1, Kobra Praha - HC Vrchlabí
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c92844b4c8ed39e34755cf/index.m3u8
-#EXTINF:-1, HC Děčín - SK Kadaň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f67/index.m3u8
-#EXTINF:-1, Mostečtí Lvi - Ústí n. L.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78fb6/index.m3u8
 #EXTINF:-1, Milevsko - Kralupy n. Vlt.
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78f71/index.m3u8
 #EXTINF:-1, Žďár n. S. - Nový Jičín
