@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Vítkovice - HC Litvínov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e4f61ce14bd1ca73a58967.m3u8
 #EXTINF:-1, Severstal - Avtomobilist
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, Lokomotiv - CSKA Moscow
@@ -100,8 +98,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e7493a59b6f68b0e1dea
 #EXTINF:-1, MAC - Budapest JA WHC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaad42de202e1780053c7/index.m3u8
 #EXTINF:-1, Dogs de Cholet - Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bbb54ba32fed197c9d09aa/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bbb54ba32fed197c9d09aa/index.m3u8
 #EXTINF:-1, Apollo Rangers - Näädät
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5f00fe14bd1ca73a58ac8/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e5f00fe14bd1ca73a58ac8/index.m3u8
 #EXTINF:-1, Heerenveen - Limburg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4d272de202e178005913/index.m3u8
