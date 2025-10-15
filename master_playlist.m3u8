@@ -5,8 +5,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e4f61ce14bd1ca73a589
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, Lokomotiv - CSKA Moscow
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Qulager - Saryarqa
-https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, VHK Vsetín - Pardubice B
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68beb1d45addedaac41c3d64.m3u8
 #EXTINF:-1, Přerov - Dukla Jihlava
@@ -21,8 +19,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68beb27da32fed197c9d11
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e5f00fe14bd1ca73a58ac9/index.m3u8
 #EXTINF:-1, TPS Akatemia - TPS Ch
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5f010c62be9451d65f8ff/index.m3u8
-#EXTINF:-1, Žďár n. S. - Nový Jičín
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f79016/index.m3u8
 #EXTINF:-1, Opava - Velké Meziříčí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d159d2a1a468257fca2/index.m3u8
 #EXTINF:-1, Hodonín - Technika Brno
@@ -44,15 +40,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f
 #EXTINF:-1, Mostečtí Lvi - Ústí n. L.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78fb6/index.m3u8
 #EXTINF:-1, Milevsko - Kralupy n. Vlt.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f71/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78f71/index.m3u8
+#EXTINF:-1, Žďár n. S. - Nový Jičín
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f79016/index.m3u8
 #EXTINF:-1, JYP Akatemia - KOOVEE
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5f010e14bd1ca73a58ad4/index.m3u8
 #EXTINF:-1, Česká Třebová - Hlinsko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecdc8/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df702648319de9ecdc8/index.m3u8
 #EXTINF:-1, Nový Bydžov - Nové Město
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecdfd/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdfd/index.m3u8
 #EXTINF:-1, HC Trutnov - HC Náchod
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece03/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece03/index.m3u8
 #EXTINF:-1, Chrudim - Spartak Choceň
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecde7/index.m3u8
 #EXTINF:-1, Morav. Třebová - Lanškroun
