@@ -5,8 +5,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e4f61ce14bd1ca73a589
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, Lokomotiv - CSKA Moscow
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, VHK Vsetín - Pardubice B
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68beb1d45addedaac41c3d64.m3u8
 #EXTINF:-1, Přerov - Dukla Jihlava
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb1a1a32fed197c9d1113.m3u8
 #EXTINF:-1, Chomutov - Slavia Praha
@@ -27,8 +25,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b1c1a2ed3d1a24f79be8
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecb1b/index.m3u8
 #EXTINF:-1, Valašské Meziříčí - Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f79017/index.m3u8
-#EXTINF:-1, HK Kroměříž - Kopřivnice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f79033/index.m3u8
 #EXTINF:-1, Havlíčkův Brod - HC Hronov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf575a4ceb125359fd025/index.m3u8
 #EXTINF:-1, Benátky n. J. - IHC Písek
@@ -54,7 +50,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece
 #EXTINF:-1, Chrudim - Spartak Choceň
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecde7/index.m3u8
 #EXTINF:-1, Morav. Třebová - Lanškroun
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f79186/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f79186/index.m3u8
 #EXTINF:-1, Örebro HK - Färjestad BK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7566ee14bd1ca73a58ea0/index.m3u8
 #EXTINF:-1, Växjö Lakers - Rögle BK
@@ -110,7 +106,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7558ae14bd1ca73a58e
 #EXTINF:-1, Härryda HC - Hisingens IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e75bb159b6f68b0e1dea8e/index.m3u8
 #EXTINF:-1, Gimo IF HC - Hallsta IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7493a59b6f68b0e1dea1f/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e7493a59b6f68b0e1dea1f/index.m3u8
 #EXTINF:-1, MAC - Budapest JA WHC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaad42de202e1780053c7/index.m3u8
 #EXTINF:-1, Dogs de Cholet - Lyon
