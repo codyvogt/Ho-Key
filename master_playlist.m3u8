@@ -1,22 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Hammarby IF - Nacka HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e8b8e14bd1ca73a5958d/index.m3u8
-#EXTINF:-1, Rapaces de Gap - Amiens
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d85/index.m3u8
-#EXTINF:-1, Briançon - Grenoble
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c80a8b7780705525d83/index.m3u8
-#EXTINF:-1, Aigles de Nice - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d93/index.m3u8
-#EXTINF:-1, Hormadi d'Anglet - Rouen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c81a8b7780705525d9d/index.m3u8
-#EXTINF:-1, Marseille - Chamonix
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c80a8b7780705525d7f/index.m3u8
-#EXTINF:-1, Brinkens IF - Österåker
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9ea7ae14bd1ca73a5959c/index.m3u8
-#EXTINF:-1, Boo HC - Gnesta IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f0a159b6f68b0e1df22e/index.m3u8
-#EXTINF:-1, Princeton - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Mechelen - Leuven Chiefs
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e0f025f2d47676600df79e/index.m3u8
+#EXTINF:-1, Simon Fraser - Ferris State
+https://d3kep2jsj8fg06.cloudfront.net/5cba90f7827613a10e18ad0f3852435f/0_hd_hls.m3u8
 #EXTINF:-1, Northeastern - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Saint Anselm - Union
@@ -33,13 +19,3 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Colgate - Maine
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Heist - Leuven Black
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0f737f2d47676600df7a9/index.m3u8
-#EXTINF:-1, HYC - Luxembourg Foxes
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0f737a3756210c78bcaae/index.m3u8
-#EXTINF:-1, Charleroi - Future Mechelen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0f738c62be9451d65eefc/index.m3u8
-#EXTINF:-1, Mechelen - Leuven Chiefs
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e0f025f2d47676600df79e/index.m3u8
-#EXTINF:-1, Simon Fraser - Ferris State
-https://d3kep2jsj8fg06.cloudfront.net/5cba90f7827613a10e18ad0f3852435f/0_hd_hls.m3u8
