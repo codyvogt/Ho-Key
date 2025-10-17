@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Värmdö HC - Tierps HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9fc10e14bd1ca73a5960d/index.m3u8
-#EXTINF:-1, IFK Arvidsjaur - SK Lejon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9eb5ce14bd1ca73a595a2/index.m3u8
-#EXTINF:-1, Flemingsbergs IK - Bålsta
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9ed1de14bd1ca73a595aa/index.m3u8
-#EXTINF:-1, Gävle GIK - Alfta Hockey
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9efc059b6f68b0e1df224/index.m3u8
 #EXTINF:-1, Hammarby IF - Nacka HK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e8b8e14bd1ca73a5958d/index.m3u8
-#EXTINF:-1, Technika B - Valaš. Meziříčí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d68f85acab1c162ee1ea84/index.m3u8
-#EXTINF:-1, Poděbrady - Velké Popovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68cab2051c55dbe115574aa9/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d85/index.m3u8
 #EXTINF:-1, Briançon - Grenoble
@@ -27,8 +15,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c80a8b7780705525d
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9ea7ae14bd1ca73a5959c/index.m3u8
 #EXTINF:-1, Boo HC - Gnesta IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f0a159b6f68b0e1df22e/index.m3u8
-#EXTINF:-1, FOC Farsta IF - Hovet HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3cdc59b6f68b0e1df556/index.m3u8
 #EXTINF:-1, Princeton - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Northeastern - Quinnipiac
