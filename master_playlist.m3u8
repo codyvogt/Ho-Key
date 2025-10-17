@@ -3,8 +3,32 @@
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e0f025f2d47676600df79e/index.m3u8
 #EXTINF:-1, Simon Fraser - Ferris State
 https://d3kep2jsj8fg06.cloudfront.net/5cba90f7827613a10e18ad0f3852435f/0_hd_hls.m3u8
-#EXTINF:-1, Northeastern - Quinnipiac
+#EXTINF:-1, Canisius - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Maine - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Boston College - RPI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Michigan State - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Ohio State - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Northeastern - UMass
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Colorado College - NMU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Windsor - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, WMU - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, Niagara - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Czech U Selects - Cornell
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Vermont - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0d6e7a7e-a133-4d9f-a8d6-2c4be3623a1f-hls/master/0d6e7a7e-a133-4d9f-a8d6-2c4be3623a1f-hls.m3u8
+#EXTINF:-1, Minnesota - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c97d439b-ec73-425d-b8d1-c3345701b1bb-hls/master/c97d439b-ec73-425d-b8d1-c3345701b1bb-hls.m3u8
 #EXTINF:-1, Saint Anselm - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Boston College - Cornell
