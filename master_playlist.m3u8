@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Torpedo Nizhny - CSKA
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1, Dinamo Mn - Neftekhimik
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, HC Sochi - Avtomobilist
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Rytíři Kladno - Vítkovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4f829c62be9451d65f80f.m3u8
 #EXTINF:-1, Karlovy Vary - HC Litvínov
@@ -13,14 +7,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4f7e1c62be9451d65f8
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4f891e14bd1ca73a58981.m3u8
 #EXTINF:-1, Kometa - Mladá Boleslav
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e4f85bc62be9451d65f811.m3u8
-#EXTINF:-1, Lvi Břeclav - MSK Orlová
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d63b1dc957a27a0131657a/index.m3u8
-#EXTINF:-1, Letci Letňany - Kutná Hora
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d11f4d91adaee512afdf42/index.m3u8
-#EXTINF:-1, Meteor Třemošná - Žebrák
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d68f85acab1c162ee1ea85/index.m3u8
-#EXTINF:-1, Lev Benešov - Kobra Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e226aec62be9451d65f278/index.m3u8
+#EXTINF:-1, Dinamo Mn - Neftekhimik
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, HC Sochi - Avtomobilist
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Munsala IK - Junkkarit HT
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8931059b6f68b0e1decdb/index.m3u8
 #EXTINF:-1, Uherský Brod - Studénka
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d63b1dc957a27a01316582/index.m3u8
 #EXTINF:-1, Klatovy - Beroun. Medvědi
@@ -45,32 +37,8 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f1dc96d14875374b2156
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d68f85acab1c162ee1ea84/index.m3u8
 #EXTINF:-1, Poděbrady - Velké Popovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68cab2051c55dbe115574aa9/index.m3u8
-#EXTINF:-1, Bílí Tygři Liberec - Zlín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c15b5d5addedaac41c4339/index.m3u8
-#EXTINF:-1, BK Mladá Boleslav - Třinec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d139d2a1a468257fc84/index.m3u8
-#EXTINF:-1, Pardubice - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d505c66f7f10ac01b3c8cb/index.m3u8
-#EXTINF:-1, Mountfield HK - Slavia
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d1113f7ac7f2bb082660b1/index.m3u8
-#EXTINF:-1, HC Litvínov - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3fa956f7f10ac01b3c6a5/index.m3u8
-#EXTINF:-1, Karlovy Vary - Jihlava
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dd350d8ebee495bafd6463/index.m3u8
-#EXTINF:-1, Porin Ässät - Tappara
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8931059b6f68b0e1deceb/index.m3u8
-#EXTINF:-1, Jukurit - Vaasan Sport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590ef/index.m3u8
-#EXTINF:-1, Rauman Lukko - SaiPa
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e8931059b6f68b0e1decef/index.m3u8
-#EXTINF:-1, Ilves - Kiekko-Espoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590fa/index.m3u8
-#EXTINF:-1, Berani Zlín B - Vsetín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de6a6ec62be9451d65e7a8/index.m3u8
-#EXTINF:-1, Piráti Chomutov - Tábor
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db8f2d8ebee495bafd6009/index.m3u8
-#EXTINF:-1, Kladno - Králové Písek
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d513cdc957a27a01316364/index.m3u8
+#EXTINF:-1, Viikingit Helsinki - KelA
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e89310e14bd1ca73a590d4/index.m3u8
 #EXTINF:-1, Havlíčkův Brod - Chrudim
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf5771c55dbe115574d9c/index.m3u8
 #EXTINF:-1, Technika Brno - Olomouc
@@ -79,54 +47,16 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2dee02648319de9eca
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d65743c957a27a013166a7/index.m3u8
 #EXTINF:-1, SC Kolín - Hvězda Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b820dd5addedaac41c2d76/index.m3u8
-#EXTINF:-1, Clarkson - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Vermont - Wisconsin
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Princeton - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Northeastern - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Saint Anselm - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Boston College - Cornell
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Brown - Boston University
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Dartmouth - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, St. Michael's - Harvard
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Robert Morris - Yale
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Colgate - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, FPS - Porvoon Hunters
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8931059b6f68b0e1decd9/index.m3u8
-#EXTINF:-1, LeKi - Lapuan Virkiä
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8931059b6f68b0e1decda/index.m3u8
-#EXTINF:-1, Titaanit - Laser HT Oulu
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decdc/index.m3u8
-#EXTINF:-1, Munsala IK - Junkkarit HT
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8931059b6f68b0e1decdb/index.m3u8
-#EXTINF:-1, Lännen Kiekko - PKW
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decea/index.m3u8
+#EXTINF:-1, Kurra Gepardit - PT-80
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590d7/index.m3u8
+#EXTINF:-1, LJK - Jää-Tiikerit
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e89310e14bd1ca73a590d6/index.m3u8
 #EXTINF:-1, Hunters Team - GrIFK J.
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e8931059b6f68b0e1decd7/index.m3u8
 #EXTINF:-1, PaRa - HC Eurajoki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590d5/index.m3u8
 #EXTINF:-1, Kuru Hockey - Tu-Ki
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e89310e14bd1ca73a590d8/index.m3u8
-#EXTINF:-1, HPK - Kiekko-Espoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590e8/index.m3u8
-#EXTINF:-1, KJK - Nokian Pyry Team
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590dd/index.m3u8
-#EXTINF:-1, Viikingit Helsinki - KelA
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e89310e14bd1ca73a590d4/index.m3u8
-#EXTINF:-1, Kurra Gepardit - PT-80
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590d7/index.m3u8
-#EXTINF:-1, LJK - Jää-Tiikerit
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e89310e14bd1ca73a590d6/index.m3u8
 #EXTINF:-1, Odense - Rungsted
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e51457c62be9451d65f864.m3u8
 #EXTINF:-1, Rødovre - Herlev Eagles
@@ -137,6 +67,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e515efe14bd1ca73a589
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e515a0c62be9451d65f868.m3u8
 #EXTINF:-1, Örebro HK - Linköping HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f96de14bd1ca73a59601/index.m3u8
+#EXTINF:-1, Karlovy Vary - Jihlava
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dd350d8ebee495bafd6463/index.m3u8
 #EXTINF:-1, Vänersborg - Lidköping
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f96de14bd1ca73a59604/index.m3u8
 #EXTINF:-1, Åseda IF - Boro/Vetlanda
@@ -241,6 +173,24 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e61559b6f68b0e1df2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9efc059b6f68b0e1df220/index.m3u8
 #EXTINF:-1, FOC Farsta IF - Hovet HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3cdc59b6f68b0e1df556/index.m3u8
+#EXTINF:-1, Princeton - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Northeastern - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Saint Anselm - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Boston College - Cornell
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Brown - Boston University
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Dartmouth - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, St. Michael's - Harvard
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Robert Morris - Yale
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Colgate - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Rapaces de Gap - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d85/index.m3u8
 #EXTINF:-1, Briançon - Grenoble
@@ -248,6 +198,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c80a8b7780705525d
 #EXTINF:-1, Aigles de Nice - Bordeaux
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d93/index.m3u8
 #EXTINF:-1, Hormadi d'Anglet - Rouen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c81a8b7780705525d9d/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c81a8b7780705525d9d/index.m3u8
 #EXTINF:-1, Marseille - Chamonix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d7f/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c80a8b7780705525d7f/index.m3u8
