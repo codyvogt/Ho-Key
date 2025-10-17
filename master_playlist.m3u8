@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Simon Fraser - Ferris State
-https://d3kep2jsj8fg06.cloudfront.net/5cba90f7827613a10e18ad0f3852435f/0_hd_hls.m3u8
+#EXTINF:-1, Boston College - Cornell
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Brown - Boston University
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Dartmouth - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, St. Michael's - Harvard
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Robert Morris - Yale
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Colgate - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Canisius - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Maine - Quinnipiac
@@ -27,17 +37,3 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playli
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0d6e7a7e-a133-4d9f-a8d6-2c4be3623a1f-hls/master/0d6e7a7e-a133-4d9f-a8d6-2c4be3623a1f-hls.m3u8
 #EXTINF:-1, Minnesota - North Dakota
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c97d439b-ec73-425d-b8d1-c3345701b1bb-hls/master/c97d439b-ec73-425d-b8d1-c3345701b1bb-hls.m3u8
-#EXTINF:-1, Saint Anselm - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Boston College - Cornell
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Brown - Boston University
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Dartmouth - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, St. Michael's - Harvard
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Robert Morris - Yale
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Colgate - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
