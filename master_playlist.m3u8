@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HPK - Lahden Pelicans
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e89310e14bd1ca73a590ea/index.m3u8
-#EXTINF:-1, JYP - Oulun Kärpät
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590ee/index.m3u8
-#EXTINF:-1, KalPa - Kouvolan KooKoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf7/index.m3u8
-#EXTINF:-1, TPS - Helsingin Jokerit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf4/index.m3u8
-#EXTINF:-1, Rovaniemen Kiekko - HIFK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf0/index.m3u8
-#EXTINF:-1, Porin Ässät - Tappara
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1deceb/index.m3u8
-#EXTINF:-1, Jukurit - Vaasan Sport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590ef/index.m3u8
-#EXTINF:-1, Rauman Lukko - SaiPa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decef/index.m3u8
-#EXTINF:-1, Ilves - Kiekko-Espoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590fa/index.m3u8
 #EXTINF:-1, Škoda Plzeň - HC Poruba
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3ec84c957a27a01316144/index.m3u8
 #EXTINF:-1, Č. Budějovice - Vítkovice
@@ -33,3 +15,19 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d1113f7ac7f2bb082660
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3fa956f7f10ac01b3c6a5/index.m3u8
 #EXTINF:-1, Karlovy Vary - Jihlava
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dd350d8ebee495bafd6463/index.m3u8
+#EXTINF:-1, JYP - Oulun Kärpät
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590ee/index.m3u8
+#EXTINF:-1, KalPa - Kouvolan KooKoo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf7/index.m3u8
+#EXTINF:-1, TPS - Helsingin Jokerit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf4/index.m3u8
+#EXTINF:-1, Rovaniemen Kiekko - HIFK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf0/index.m3u8
+#EXTINF:-1, Porin Ässät - Tappara
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1deceb/index.m3u8
+#EXTINF:-1, Jukurit - Vaasan Sport
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590ef/index.m3u8
+#EXTINF:-1, Rauman Lukko - SaiPa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decef/index.m3u8
+#EXTINF:-1, Ilves - Kiekko-Espoo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590fa/index.m3u8
