@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Karlovy Vary - HC Litvínov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4f7e1c62be9451d65f80d.m3u8
 #EXTINF:-1, Dinamo Mn - Neftekhimik
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Sochi - Avtomobilist
@@ -187,3 +185,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0f737a3756210c78bca
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0f738c62be9451d65eefc/index.m3u8
 #EXTINF:-1, Mechelen - Leuven Chiefs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e0f025f2d47676600df79e/index.m3u8
+#EXTINF:-1, Simon Fraser - Ferris State
+https://d3kep2jsj8fg06.cloudfront.net/5cba90f7827613a10e18ad0f3852435f/0_hd_hls.m3u8
