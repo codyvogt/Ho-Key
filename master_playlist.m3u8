@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1, Torpedo Nizhny - CSKA
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1, Dinamo Mn - Neftekhimik
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, HC Sochi - Avtomobilist
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Rytíři Kladno - Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4f829c62be9451d65f80f.m3u8
+#EXTINF:-1, Karlovy Vary - HC Litvínov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4f7e1c62be9451d65f80d.m3u8
+#EXTINF:-1, HC Pardubice - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4f891e14bd1ca73a58981.m3u8
+#EXTINF:-1, Kometa - Mladá Boleslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4f85bc62be9451d65f811.m3u8
 #EXTINF:-1, Torpedo U-K - Beibarys
 https://cdn.inhockey.tv/live/local2/index.m3u8
 #EXTINF:-1, Škoda Plzeň - HC Poruba
@@ -24,7 +38,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1dec
 #EXTINF:-1, TPS - Helsingin Jokerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf4/index.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - HIFK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf0/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8931059b6f68b0e1decf0/index.m3u8
 #EXTINF:-1, Porin Ässät - Tappara
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1deceb/index.m3u8
 #EXTINF:-1, Jukurit - Vaasan Sport
@@ -34,7 +48,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1dec
 #EXTINF:-1, Ilves - Kiekko-Espoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590fa/index.m3u8
 #EXTINF:-1, Warriors Brno - Šumperk
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d28cef6f7f10ac01b3c2aa/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d28cef6f7f10ac01b3c2aa/index.m3u8
 #EXTINF:-1, Berani Zlín B - Vsetín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de6a6ec62be9451d65e7a8/index.m3u8
 #EXTINF:-1, Piráti Chomutov - Tábor
