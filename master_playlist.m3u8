@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Boston College - Cornell
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Tampa Bay - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/60c43040-b456-4d14-91b5-2bb6675b5bd0/master.m3u8
+#EXTINF:-1, Minnesota - Washington
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/74b61806-6049-4bce-a6da-fbce1ea80d8f/master.m3u8
+#EXTINF:-1, Vancouver - Chicago
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/761ec2cf-edd5-4fbe-92d0-1e0babbad77d/master.m3u8
+#EXTINF:-1, San Jose Sharks - Utah
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/939c5f80-1306-4334-9041-0ac163b83313/master.m3u8
 #EXTINF:-1, Brown - Boston University
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Dartmouth - Holy Cross
