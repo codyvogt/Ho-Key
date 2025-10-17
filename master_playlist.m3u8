@@ -13,28 +13,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4f7e1c62be9451d65f8
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4f891e14bd1ca73a58981.m3u8
 #EXTINF:-1, Kometa - Mladá Boleslav
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e4f85bc62be9451d65f811.m3u8
-#EXTINF:-1, Torpedo U-K - Beibarys
-https://cdn.inhockey.tv/live/local2/index.m3u8
-#EXTINF:-1, Škoda Plzeň - HC Poruba
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3ec84c957a27a01316144/index.m3u8
-#EXTINF:-1, Č. Budějovice - Vítkovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c29ed79d2a1a468257e68b/index.m3u8
-#EXTINF:-1, Bílí Tygři Liberec - Zlín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c15b5d5addedaac41c4339/index.m3u8
-#EXTINF:-1, BK Mladá Boleslav - Třinec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d139d2a1a468257fc84/index.m3u8
-#EXTINF:-1, Pardubice - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d505c66f7f10ac01b3c8cb/index.m3u8
-#EXTINF:-1, Mountfield HK - Slavia
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d1113f7ac7f2bb082660b1/index.m3u8
-#EXTINF:-1, HC Litvínov - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3fa956f7f10ac01b3c6a5/index.m3u8
-#EXTINF:-1, Karlovy Vary - Jihlava
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dd350d8ebee495bafd6463/index.m3u8
-#EXTINF:-1, JYP - Oulun Kärpät
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e89310e14bd1ca73a590ee/index.m3u8
-#EXTINF:-1, KalPa - Kouvolan KooKoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf7/index.m3u8
 #EXTINF:-1, TPS - Helsingin Jokerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8931059b6f68b0e1decf4/index.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - HIFK
@@ -74,7 +52,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e226aec62be9451d65f2
 #EXTINF:-1, Uherský Brod - Studénka
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d63b1dc957a27a01316582/index.m3u8
 #EXTINF:-1, Klatovy - Beroun. Medvědi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e3cc8de14bd1ca73a58748/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e3cc8de14bd1ca73a58748/index.m3u8
 #EXTINF:-1, HC DDM ČEB - HC Tábor B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7e4cd9d2a1a468257fb6e/index.m3u8
 #EXTINF:-1, HC Humpolec - Pelhřimov
@@ -95,6 +73,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1dc96d14875374b2156
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d68f85acab1c162ee1ea84/index.m3u8
 #EXTINF:-1, Poděbrady - Velké Popovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cab2051c55dbe115574aa9/index.m3u8
+#EXTINF:-1, Bílí Tygři Liberec - Zlín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c15b5d5addedaac41c4339/index.m3u8
+#EXTINF:-1, BK Mladá Boleslav - Třinec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c81d139d2a1a468257fc84/index.m3u8
+#EXTINF:-1, Pardubice - Sparta Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d505c66f7f10ac01b3c8cb/index.m3u8
+#EXTINF:-1, Mountfield HK - Slavia
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d1113f7ac7f2bb082660b1/index.m3u8
+#EXTINF:-1, HC Litvínov - Kometa Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3fa956f7f10ac01b3c6a5/index.m3u8
+#EXTINF:-1, Karlovy Vary - Jihlava
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dd350d8ebee495bafd6463/index.m3u8
 #EXTINF:-1, Clarkson - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Vermont - Wisconsin
@@ -189,6 +179,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9ed1de14bd1ca73a595
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9efc059b6f68b0e1df224/index.m3u8
 #EXTINF:-1, Hammarby IF - Nacka HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e8b8e14bd1ca73a5958d/index.m3u8
+#EXTINF:-1, Žihadla - Náměšť nad Osl.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df602648319de9ecdb2/index.m3u8
 #EXTINF:-1, IFK Ore - Ludvika HF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f0a159b6f68b0e1df229/index.m3u8
 #EXTINF:-1, Vansbro AIK IK - Sellnäs
