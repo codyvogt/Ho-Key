@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Edmonton - New Jersey
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/86463ecd-21e6-4153-a386-c154a888bcc6/master.m3u8
 #EXTINF:-1, Seattle Kraken - Toronto
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d7b6447f-4adb-4929-a4a3-72ac83ba600d/master.m3u8
 #EXTINF:-1, NY Rangers - Montréal
@@ -41,8 +39,6 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/36e15321-bba6-416d-9057-35a2b
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 #EXTINF:-1, Niagara - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, CH Madrid - Txuri Urdin
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef88c0d14875374b2150a5/index.m3u8
 #EXTINF:-1, CG Puigcerdà - CH Jaca
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef895b50c8e37c3b1dc869/index.m3u8
 #EXTINF:-1, Colgate - Maine
