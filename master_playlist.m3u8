@@ -172,7 +172,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68eb44c559b6f68b0e1df5
 #EXTINF:-1, Lindlöven - Häradsbygden
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb468759b6f68b0e1df66d/index.m3u8
 #EXTINF:-1, Segeltorps IF - Brinkens IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb45a7e14bd1ca73a598e4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb45a7e14bd1ca73a598e4/index.m3u8
 #EXTINF:-1, Kållered SK - Rönnängs IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0e59b6f68b0e1df6cc/index.m3u8
 #EXTINF:-1, Trutnov - Světlá n. Sázavou
@@ -200,7 +200,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb422159b6f68b0e1df5
 #EXTINF:-1, Skellefteå 2 - MoDo 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb430359b6f68b0e1df5c6/index.m3u8
 #EXTINF:-1, Luleå HF 2 - Brunflo IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4aeee14bd1ca73a59943/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb4aeee14bd1ca73a59943/index.m3u8
 #EXTINF:-1, AIK - Skellefteå AIK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4d8f59b6f68b0e1df6e3/index.m3u8
 #EXTINF:-1, Södertälje SK - HV 71
@@ -211,10 +211,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3402fd14875374b215c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f8f9d2a1a46825800ec/index.m3u8
 #EXTINF:-1, HC Turnov - HC Varnsdorf
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bec66fa32fed197c9d115d/index.m3u8
-#EXTINF:-1, Orlová - Frýdek-Místek B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c96083b4c8ed39e34756e9/index.m3u8
 #EXTINF:-1, Strakonice - Jindř. Hradec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d1032e1c55dbe115576029/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d1032e1c55dbe115576029/index.m3u8
 #EXTINF:-1, Lvi Břeclav - Boskovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb7c/index.m3u8
 #EXTINF:-1, Klášterec n. Oh. - Lovosice
@@ -224,7 +222,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df502648319de9ecd
 #EXTINF:-1, Louny - Roudnice n. Labem
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3b444c957a27a01316014/index.m3u8
 #EXTINF:-1, SK Telč - HC Humpolec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b98e7dc238c71a081b6e16/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b98e7dc238c71a081b6e16/index.m3u8
 #EXTINF:-1, Pelhřimov - HC Chotěboř
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb8665addedaac41c3da1/index.m3u8
 #EXTINF:-1, Rytíři Vlašim - HC Čáslav
@@ -272,9 +270,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca95e6b4c8ed39e34759
 #EXTINF:-1, Hronov - Benátky n. Jizerou
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78fbd/index.m3u8
 #EXTINF:-1, Příbram - Havlíčkův Brod
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c936549d2a1a468257fec0/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c936549d2a1a468257fec0/index.m3u8
 #EXTINF:-1, SK Kadaň - Mostečtí Lvi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78fe9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f78fe9/index.m3u8
 #EXTINF:-1, Technika Brno - Kroměříž
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f7d/index.m3u8
 #EXTINF:-1, Žďár n. Sáz. - Prostějov
