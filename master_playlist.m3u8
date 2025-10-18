@@ -3,14 +3,6 @@
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, SKA - Lokomotiv Yaroslavl
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, HK Budapest - Szeged
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e09f54e14bd1ca73a57d57/index.m3u8
-#EXTINF:-1, Vasas SC - DAB-ASP
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e09f54e14bd1ca73a57d51/index.m3u8
-#EXTINF:-1, Győr - Egerszegi Titánok
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e09f54e14bd1ca73a57d4f/index.m3u8
-#EXTINF:-1, Sport. Cápák - DEAC JA
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e09f54e14bd1ca73a57d55/index.m3u8
 #EXTINF:-1, Torpedo U-K - Beibarys
 https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, Gornyak - Saryarqa
@@ -29,6 +21,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0e59b6f68b0e1df6
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3402fd14875374b215c36/index.m3u8
 #EXTINF:-1, Karlovy Vary - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dd350d8ebee495bafd6464/index.m3u8
+#EXTINF:-1, Vasas SC - DAB-ASP
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e09f54e14bd1ca73a57d51/index.m3u8
+#EXTINF:-1, Győr - Egerszegi Titánok
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e09f54e14bd1ca73a57d4f/index.m3u8
+#EXTINF:-1, Sport. Cápák - DEAC JA
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e09f54e14bd1ca73a57d55/index.m3u8
 #EXTINF:-1, Borås HC - Hanhals IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4e6fe14bd1ca73a59992/index.m3u8
 #EXTINF:-1, Olofström - Karlskrona
