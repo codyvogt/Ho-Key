@@ -1,34 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Florida - Buffalo Sabres
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ebf3e80d-01a8-43bb-86db-27986601ed5a/master.m3u8
-#EXTINF:-1, 25ers - Hollola HC Giants
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e490e14bd1ca73a594e7/index.m3u8
-#EXTINF:-1, Atalan HK - Fortuna HT
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e490e14bd1ca73a594e6/index.m3u8
-#EXTINF:-1, Kempeleen Veturit - HaU
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49159b6f68b0e1df1ee/index.m3u8
-#EXTINF:-1, Kiekko-Ketut - JHT Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1fb/index.m3u8
-#EXTINF:-1, Nivala Cowboys 2 - OYUS
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49159b6f68b0e1df202/index.m3u8
-#EXTINF:-1, Nummelan KV - Kiekko 49
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49159b6f68b0e1df1ea/index.m3u8
-#EXTINF:-1, Pirkanmaa Goons - JIlves
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e490e14bd1ca73a594e1/index.m3u8
-#EXTINF:-1, EVU Team - HCK Salamat
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1e9/index.m3u8
-#EXTINF:-1, Lindlöven - Häradsbygden
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb468759b6f68b0e1df66d/index.m3u8
-#EXTINF:-1, Segeltorps IF - Brinkens IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb45a7e14bd1ca73a598e4/index.m3u8
-#EXTINF:-1, Kållered SK - Rönnängs IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0e59b6f68b0e1df6cc/index.m3u8
-#EXTINF:-1, HIFK Sibbo - Hunters
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df15f/index.m3u8
-#EXTINF:-1, IFK Mariehamn - Spirit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede71f50c8e37c3b1dc33d/index.m3u8
-#EXTINF:-1, EVU - KJT Haukat Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df161/index.m3u8
 #EXTINF:-1, Třebíč - Frýdek-Místek
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb41a5addedaac41c3d7a.m3u8
 #EXTINF:-1, Litoměřice - Berani Zlín
@@ -123,6 +95,20 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb492a59b6f68b0e1df6
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb395659b6f68b0e1df53c/index.m3u8
 #EXTINF:-1, Sunderby SK - Kiruna IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb492a59b6f68b0e1df6ab/index.m3u8
+#EXTINF:-1, Atalan HK - Fortuna HT
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e490e14bd1ca73a594e6/index.m3u8
+#EXTINF:-1, Kempeleen Veturit - HaU
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49159b6f68b0e1df1ee/index.m3u8
+#EXTINF:-1, Kiekko-Ketut - JHT Ak
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1fb/index.m3u8
+#EXTINF:-1, Nivala Cowboys 2 - OYUS
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49159b6f68b0e1df202/index.m3u8
+#EXTINF:-1, Nummelan KV - Kiekko 49
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49159b6f68b0e1df1ea/index.m3u8
+#EXTINF:-1, Pirkanmaa Goons - JIlves
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e490e14bd1ca73a594e1/index.m3u8
+#EXTINF:-1, EVU Team - HCK Salamat
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1e9/index.m3u8
 #EXTINF:-1, IK Graip - Trångsund 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3875e14bd1ca73a597f0/index.m3u8
 #EXTINF:-1, Roosa Panter - Everest
@@ -164,7 +150,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ee049950c8e37c3b1dc3
 #EXTINF:-1, HC Trento - SG Cadore
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ee049a50c8e37c3b1dc401/index.m3u8
 #EXTINF:-1, HCP - Vinschgau Eisfix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68becd485addedaac41c3de7/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68becd485addedaac41c3de7/index.m3u8
 #EXTINF:-1, HC Piné - Gherdëina D1
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ee049bd14875374b214bf8/index.m3u8
 #EXTINF:-1, Sudrets HC - Älta IF
@@ -193,6 +179,18 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Clarkson - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Harvard - New Hampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Boston College - Cornell
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Robert Morris - Yale
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Union - Wisconsin
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Colgate - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Dartmouth - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Mulhouse - Marseille 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7d91c9d2a1a468257fb4e/index.m3u8
 #EXTINF:-1, Bordeaux 2 - Brive
@@ -205,7 +203,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cca32fed197c9d12
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e11/index.m3u8
 #EXTINF:-1, Strasbourg 2 - Meudon 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e15/index.m3u8
+#EXTINF:-1, Kållered SK - Rönnängs IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0e59b6f68b0e1df6cc/index.m3u8
 #EXTINF:-1, KuRy/MIF - Jokipojat
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49159b6f68b0e1df1f9/index.m3u8
+#EXTINF:-1, EVU - KJT Haukat Ak
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49059b6f68b0e1df161/index.m3u8
+#EXTINF:-1, Milenio - Majadahonda
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef89e2d14875374b2150ae/index.m3u8
+#EXTINF:-1, CH Madrid - Txuri Urdin
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef88c0d14875374b2150a5/index.m3u8
+#EXTINF:-1, CG Puigcerdà - CH Jaca
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef895b50c8e37c3b1dc869/index.m3u8
 #EXTINF:-1, Valdemoro - CH Huarte
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef8bb850c8e37c3b1dc873/index.m3u8
