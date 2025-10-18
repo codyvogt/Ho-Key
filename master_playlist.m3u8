@@ -1,14 +1,18 @@
 #EXTM3U
 #EXTINF:-1, Edmonton - New Jersey
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/86463ecd-21e6-4153-a386-c154a888bcc6/master.m3u8
-#EXTINF:-1, Valdemoro - CH Huarte
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef8bb850c8e37c3b1dc873/index.m3u8
-#EXTINF:-1, Union - Wisconsin
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Colgate - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Dartmouth - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Seattle Kraken - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d7b6447f-4adb-4929-a4a3-72ac83ba600d/master.m3u8
+#EXTINF:-1, NY Rangers - Montréal
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e229efb6-21b6-43db-ba4b-ec9f982812e7/master.m3u8
+#EXTINF:-1, Minnesota - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/119a9b6a-6aa4-4935-bc34-5ea8d6916c41/master.m3u8
+#EXTINF:-1, Tampa Bay - Columbus
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c88b1e4f-6f86-4460-9f9b-51eb486d08fe/master.m3u8
+#EXTINF:-1, Dallas - St. Louis Blues
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3009078-fbde-4f95-bc40-6cda5babaadf/master.m3u8
+#EXTINF:-1, Nashville - Winnipeg Jets
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/efe0ae05-d41a-429a-bcf3-1707b1b519df/master.m3u8
 #EXTINF:-1, Maine - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Providence - Rensselaer
@@ -41,3 +45,7 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef88c0d14875374b2150a5/index.m3u8
 #EXTINF:-1, CG Puigcerdà - CH Jaca
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef895b50c8e37c3b1dc869/index.m3u8
+#EXTINF:-1, Colgate - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Dartmouth - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
