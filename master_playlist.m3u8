@@ -1,30 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Edmonton - New Jersey
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/86463ecd-21e6-4153-a386-c154a888bcc6/master.m3u8
-#EXTINF:-1, Chambéry - Nantes
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cca32fed197c9d1287/index.m3u8
-#EXTINF:-1, Morzine-Avoriaz - Meudon
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bfa9cca32fed197c9d1289/index.m3u8
-#EXTINF:-1, Cholet - Strasbourg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bfa9cd5addedaac41c3edc/index.m3u8
 #EXTINF:-1, Tours - Mont-Blanc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cd5addedaac41c3ed6/index.m3u8
-#EXTINF:-1, HC Piné - Gherdëina D1
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ee049bd14875374b214bf8/index.m3u8
-#EXTINF:-1, EVU Team - HCK Salamat
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1e9/index.m3u8
-#EXTINF:-1, Harvard - New Hampshire
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Boston College - Cornell
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Robert Morris - Yale
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Union - Wisconsin
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Colgate - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Dartmouth - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Alleghe - Zinnen Dolomites
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880ed8789696da691442223/index.m3u8
 #EXTINF:-1, Valdifiemme HC - HC Aosta
@@ -53,5 +31,37 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Ohio State - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
+#EXTINF:-1, Harvard - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, UNH - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, WMU - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, Colorado College - NMU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Canisius - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Michigan State - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Vermont - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2376497a-0a76-4c6e-ab6c-6d936be87694-hls/master/2376497a-0a76-4c6e-ab6c-6d936be87694-hls.m3u8
+#EXTINF:-1, BSU - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/72d6c78d-70d8-4722-b445-01f98afc9083-hls/master/72d6c78d-70d8-4722-b445-01f98afc9083-hls.m3u8
+#EXTINF:-1, Minnesota - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/36e15321-bba6-416d-9057-35a2bb251528-hls/master/36e15321-bba6-416d-9057-35a2bb251528-hls.m3u8
+#EXTINF:-1, Bentley - Massachusetts
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Niagara - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Boston College - Cornell
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Robert Morris - Yale
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Union - Wisconsin
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Colgate - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Dartmouth - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Valdemoro - CH Huarte
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef8bb850c8e37c3b1dc873/index.m3u8
