@@ -1,94 +1,12 @@
 #EXTM3U
 #EXTINF:-1, SKA - Lokomotiv Yaroslavl
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Pingviinit - Kisa-Eagles
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df15e/index.m3u8
-#EXTINF:-1, HJK - Kiekko-Espoo IV
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df177/index.m3u8
-#EXTINF:-1, HIFK Sibbo - Hunters
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df15f/index.m3u8
-#EXTINF:-1, VG-62 II Naantali - RNK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df170/index.m3u8
-#EXTINF:-1, IFK Mariehamn - Spirit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede71f50c8e37c3b1dc33d/index.m3u8
-#EXTINF:-1, EVU - KJT Haukat Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df161/index.m3u8
-#EXTINF:-1, Txuri Urdin - Puigcerdà
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef8b3750c8e37c3b1dc871/index.m3u8
-#EXTINF:-1, Majadahonda - Tartalo
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef8a6dd14875374b2150b0/index.m3u8
-#EXTINF:-1, Valdemoro - CH Huarte
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef8bb850c8e37c3b1dc873/index.m3u8
-#EXTINF:-1, Slavia Praha - HC Tábor
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68beb2b95addedaac41c3d6a.m3u8
-#EXTINF:-1, SC Kolín - VHK Vsetín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68beb2f05addedaac41c3d6c.m3u8
-#EXTINF:-1, Třebíč - Frýdek-Místek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb41a5addedaac41c3d7a.m3u8
-#EXTINF:-1, Litoměřice - Berani Zlín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb368a32fed197c9d112b.m3u8
-#EXTINF:-1, Baník Sokolov - Přerov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68beb3e35addedaac41c3d78.m3u8
-#EXTINF:-1, Pardubice B - HC Poruba
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb3a45addedaac41c3d72.m3u8
-#EXTINF:-1, Piráti Chomutov - Jihlava
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb3345addedaac41c3d6e.m3u8
-#EXTINF:-1, Kouvolan KooKoo - JYP
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e491e14bd1ca73a59537/index.m3u8
-#EXTINF:-1, Pelicans - Vaasan Sport
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e491e14bd1ca73a59526/index.m3u8
-#EXTINF:-1, Helsingin Jokerit - Lukko
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e491e14bd1ca73a59565/index.m3u8
-#EXTINF:-1, Junkkarit HT - S-Kiekko
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df129/index.m3u8
-#EXTINF:-1, Porvoon Hunters - SaPKo
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49059b6f68b0e1df138/index.m3u8
-#EXTINF:-1, Haukat - Raahe-Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df12e/index.m3u8
-#EXTINF:-1, Lapuan Virkiä - Riemu
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df12b/index.m3u8
-#EXTINF:-1, Peli-Pojat HC - Laser HT
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df12c/index.m3u8
-#EXTINF:-1, Viru Sputnik - Tartu Välk
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e11b7ee14bd1ca73a57f37/index.m3u8
-#EXTINF:-1, HC Vipers - HC Everest
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e1298ec62be9451d65ef1c/index.m3u8
-#EXTINF:-1, BIK Karlskoga - Borlänge
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4bcc59b6f68b0e1df6d2/index.m3u8
-#EXTINF:-1, Vännäs HC - Östersund
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb414059b6f68b0e1df59a/index.m3u8
-#EXTINF:-1, Helsingborg HC - Kungälv
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3bfc59b6f68b0e1df550/index.m3u8
-#EXTINF:-1, Umeå HK - Ånge IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb3cdce14bd1ca73a59816/index.m3u8
-#EXTINF:-1, Tyresö - Flemingsberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4d8f59b6f68b0e1df6e6/index.m3u8
-#EXTINF:-1, IK Göta - Nacka HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb492a59b6f68b0e1df6ad/index.m3u8
-#EXTINF:-1, Almtuna IS - Nyköping
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb395659b6f68b0e1df53c/index.m3u8
-#EXTINF:-1, Sunderby SK - Kiruna IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb492a59b6f68b0e1df6ab/index.m3u8
-#EXTINF:-1, Warkis Varkaus - Urho
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df149/index.m3u8
-#EXTINF:-1, Kraft - Hela-Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df159/index.m3u8
-#EXTINF:-1, UU - Limingan Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df198/index.m3u8
-#EXTINF:-1, Etelä-Portimo - KUKI HT
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df199/index.m3u8
-#EXTINF:-1, Nivala Cowboys - TIHC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df19a/index.m3u8
-#EXTINF:-1, Kellokosken Alku - GrIFK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594cd/index.m3u8
-#EXTINF:-1, Kuparikiekko - VG-62
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e490e14bd1ca73a594dd/index.m3u8
-#EXTINF:-1, Sibbo Wolfpack - EVU
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594d1/index.m3u8
-#EXTINF:-1, Kerava Shakers - HAKI
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e490e14bd1ca73a594d3/index.m3u8
-#EXTINF:-1, Kiekko-Ahma - KPK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594d9/index.m3u8
+#EXTINF:-1, AIK - Skellefteå AIK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4d8f59b6f68b0e1df6e3/index.m3u8
+#EXTINF:-1, Södertälje SK - HV 71
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0e59b6f68b0e1df6bc/index.m3u8
+#EXTINF:-1, Djurgårdens IF - Luleå HF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3402fd14875374b215c36/index.m3u8
 #EXTINF:-1, Nikkarit - KOOVEE
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df13a/index.m3u8
 #EXTINF:-1, Peliitat - Pelikaanit
@@ -107,16 +25,78 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df1
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df168/index.m3u8
 #EXTINF:-1, HiHo - Uplakers Ylöjärvi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594c9/index.m3u8
-#EXTINF:-1, MUIK II - Lapuan Virkiä II
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df160/index.m3u8
-#EXTINF:-1, PiPS - Nurmeksen Sepot
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df186/index.m3u8
-#EXTINF:-1, SuPS - Kiilat Haapajärvi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1e8/index.m3u8
-#EXTINF:-1, Laser HT Hot - Popula
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1ef/index.m3u8
-#EXTINF:-1, Piranhas Kotka - Kajastus
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df18c/index.m3u8
+#EXTINF:-1, HC Vipers - HC Everest
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e1298ec62be9451d65ef1c/index.m3u8
+#EXTINF:-1, Flyers HT - Junior Mělník
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f8f9d2a1a46825800ec/index.m3u8
+#EXTINF:-1, HC Turnov - HC Varnsdorf
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bec66fa32fed197c9d115d/index.m3u8
+#EXTINF:-1, Strakonice - Jindř. Hradec
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d1032e1c55dbe115576029/index.m3u8
+#EXTINF:-1, Lvi Břeclav - Boskovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb7c/index.m3u8
+#EXTINF:-1, Klášterec n. Oh. - Lovosice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ad6ab3660904c7ccbc59a0/index.m3u8
+#EXTINF:-1, Bílina - Ústí nad Labem B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df502648319de9ecd3f/index.m3u8
+#EXTINF:-1, Louny - Roudnice n. Labem
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3b444c957a27a01316014/index.m3u8
+#EXTINF:-1, SK Telč - HC Humpolec
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b98e7dc238c71a081b6e16/index.m3u8
+#EXTINF:-1, Pelhřimov - HC Chotěboř
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb8665addedaac41c3da1/index.m3u8
+#EXTINF:-1, Rytíři Vlašim - HC Čáslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c50996b4c8ed39e34748dd/index.m3u8
+#EXTINF:-1, Poděbrady - Lev Benešov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d2388d1c55dbe11557621e/index.m3u8
+#EXTINF:-1, Lomnice n. P. - Frýdlant
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df502648319de9ecd54/index.m3u8
+#EXTINF:-1, HC Gepardi - Česká Lípa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b98074c238c71a081b6dd5/index.m3u8
+#EXTINF:-1, HC Klatovy - HC Rokycany
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e3cc96e14bd1ca73a5874e/index.m3u8
+#EXTINF:-1, SC Kolín - VHK Vsetín
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68beb2f05addedaac41c3d6c.m3u8
+#EXTINF:-1, Třebíč - Frýdek-Místek
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb41a5addedaac41c3d7a.m3u8
+#EXTINF:-1, Litoměřice - Berani Zlín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb368a32fed197c9d112b.m3u8
+#EXTINF:-1, Baník Sokolov - Přerov
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68beb3e35addedaac41c3d78.m3u8
+#EXTINF:-1, Pardubice B - HC Poruba
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb3a45addedaac41c3d72.m3u8
+#EXTINF:-1, Piráti Chomutov - Jihlava
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb3345addedaac41c3d6e.m3u8
+#EXTINF:-1, HK Zemgale - HC Panter
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68edf04950c8e37c3b1dc3c1/index.m3u8
+#EXTINF:-1, Pelicans - Vaasan Sport
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e491e14bd1ca73a59526/index.m3u8
+#EXTINF:-1, Helsingin Jokerit - Lukko
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e491e14bd1ca73a59565/index.m3u8
+#EXTINF:-1, Lapuan Virkiä - Riemu
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df12b/index.m3u8
+#EXTINF:-1, Peli-Pojat HC - Laser HT
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df12c/index.m3u8
+#EXTINF:-1, Vännäs HC - Östersund
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb414059b6f68b0e1df59a/index.m3u8
+#EXTINF:-1, Helsingborg HC - Kungälv
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3bfc59b6f68b0e1df550/index.m3u8
+#EXTINF:-1, Umeå HK - Ånge IK
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb3cdce14bd1ca73a59816/index.m3u8
+#EXTINF:-1, Tyresö - Flemingsberg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4d8f59b6f68b0e1df6e6/index.m3u8
+#EXTINF:-1, IK Göta - Nacka HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb492a59b6f68b0e1df6ad/index.m3u8
+#EXTINF:-1, Almtuna IS - Nyköping
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb395659b6f68b0e1df53c/index.m3u8
+#EXTINF:-1, Sunderby SK - Kiruna IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb492a59b6f68b0e1df6ab/index.m3u8
+#EXTINF:-1, Järvsö IK - Svenstaviks HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3795e14bd1ca73a597ee/index.m3u8
+#EXTINF:-1, Ronneby IK - Osby IK
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68eb4a0e59b6f68b0e1df6ca/index.m3u8
+#EXTINF:-1, Sudrets HC - Älta IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4e6ee14bd1ca73a59984/index.m3u8
 #EXTINF:-1, TUK-V - VG-62 II Naantali
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df14d/index.m3u8
 #EXTINF:-1, Sodankylän Pallo - YKI
@@ -147,14 +127,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594e1/index.m3u8
 #EXTINF:-1, EVU Team - HCK Salamat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1e9/index.m3u8
-#EXTINF:-1, Nora HC - Örebro HUF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb387559b6f68b0e1df526/index.m3u8
-#EXTINF:-1, Tranås AIF - Nässjö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb503259b6f68b0e1df722/index.m3u8
-#EXTINF:-1, HC Dalen - Mjölby HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4caee14bd1ca73a59970/index.m3u8
-#EXTINF:-1, Järna SK - IFK Salem
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0ee14bd1ca73a5992e/index.m3u8
+#EXTINF:-1, Hokkarit II - KJK Ak
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594c5/index.m3u8
 #EXTINF:-1, IK Guts - Mighty Ravens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb484959b6f68b0e1df68e/index.m3u8
 #EXTINF:-1, Kalmar - Nybro Vikings
@@ -175,8 +149,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb468759b6f68b0e1df6
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb45a7e14bd1ca73a598e4/index.m3u8
 #EXTINF:-1, Kållered SK - Rönnängs IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0e59b6f68b0e1df6cc/index.m3u8
-#EXTINF:-1, Trutnov - Světlá n. Sázavou
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d4db8f6f7f10ac01b3c7ec/index.m3u8
 #EXTINF:-1, HC Milevsko - HC Klatovy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dfaddde14bd1ca73a57b7b/index.m3u8
 #EXTINF:-1, Benátky n. Jizerou - Turnov
@@ -189,62 +161,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c40c78b4c8ed39e34745
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689f226d6824107e9b1656d6/index.m3u8
 #EXTINF:-1, Nový Bydžov - Č. Třebová
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df602648319de9ecd9e/index.m3u8
-#EXTINF:-1, Hallstaham. - Vita Hästen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3a3859b6f68b0e1df53e/index.m3u8
-#EXTINF:-1, Ilves Ak - K-Espoo Ch
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e491e14bd1ca73a5955e/index.m3u8
-#EXTINF:-1, KuRy/MIF - Jokipojat
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1f9/index.m3u8
-#EXTINF:-1, Kvarnsveden - Hedesunda
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb422159b6f68b0e1df5b2/index.m3u8
-#EXTINF:-1, Skellefteå 2 - MoDo 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb430359b6f68b0e1df5c6/index.m3u8
-#EXTINF:-1, Luleå HF 2 - Brunflo IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb4aeee14bd1ca73a59943/index.m3u8
-#EXTINF:-1, AIK - Skellefteå AIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4d8f59b6f68b0e1df6e3/index.m3u8
-#EXTINF:-1, Södertälje SK - HV 71
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4a0e59b6f68b0e1df6bc/index.m3u8
-#EXTINF:-1, Djurgårdens IF - Luleå HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3402fd14875374b215c36/index.m3u8
-#EXTINF:-1, Flyers HT - Junior Mělník
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f8f9d2a1a46825800ec/index.m3u8
-#EXTINF:-1, HC Turnov - HC Varnsdorf
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bec66fa32fed197c9d115d/index.m3u8
-#EXTINF:-1, Strakonice - Jindř. Hradec
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d1032e1c55dbe115576029/index.m3u8
-#EXTINF:-1, Lvi Břeclav - Boskovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb7c/index.m3u8
-#EXTINF:-1, Klášterec n. Oh. - Lovosice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ad6ab3660904c7ccbc59a0/index.m3u8
-#EXTINF:-1, Bílina - Ústí nad Labem B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df502648319de9ecd3f/index.m3u8
-#EXTINF:-1, Louny - Roudnice n. Labem
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3b444c957a27a01316014/index.m3u8
-#EXTINF:-1, SK Telč - HC Humpolec
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b98e7dc238c71a081b6e16/index.m3u8
-#EXTINF:-1, Pelhřimov - HC Chotěboř
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb8665addedaac41c3da1/index.m3u8
-#EXTINF:-1, Rytíři Vlašim - HC Čáslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c50996b4c8ed39e34748dd/index.m3u8
-#EXTINF:-1, Poděbrady - Lev Benešov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d2388d1c55dbe11557621e/index.m3u8
-#EXTINF:-1, Lomnice n. P. - Frýdlant
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df502648319de9ecd54/index.m3u8
-#EXTINF:-1, HC Gepardi - Česká Lípa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b98074c238c71a081b6dd5/index.m3u8
-#EXTINF:-1, HC Klatovy - HC Rokycany
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e3cc96e14bd1ca73a5874e/index.m3u8
-#EXTINF:-1, HK Zemgale - HC Panter
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68edf04950c8e37c3b1dc3c1/index.m3u8
-#EXTINF:-1, Järvsö IK - Svenstaviks HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3795e14bd1ca73a597ee/index.m3u8
-#EXTINF:-1, Ronneby IK - Osby IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68eb4a0e59b6f68b0e1df6ca/index.m3u8
-#EXTINF:-1, Sudrets HC - Älta IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4e6ee14bd1ca73a59984/index.m3u8
-#EXTINF:-1, Hokkarit II - KJK Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594c5/index.m3u8
 #EXTINF:-1, HPK Akatemia - Lukko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e491e14bd1ca73a594fc/index.m3u8
 #EXTINF:-1, Kärpät Akatemia - KalPa Ak
@@ -263,6 +179,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df3c0aa0cd927f790
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c928469d2a1a468257fe9b/index.m3u8
 #EXTINF:-1, HK Budapest II - Capitals
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e09f54e14bd1ca73a57d65/index.m3u8
+#EXTINF:-1, HIFK Sibbo - Hunters
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df15f/index.m3u8
+#EXTINF:-1, VG-62 II Naantali - RNK
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49059b6f68b0e1df170/index.m3u8
+#EXTINF:-1, IFK Mariehamn - Spirit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede71f50c8e37c3b1dc33d/index.m3u8
+#EXTINF:-1, EVU - KJT Haukat Ak
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df161/index.m3u8
 #EXTINF:-1, Uherský Brod - Val. Meziříčí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bad1f4a0fb9297e7b9340b/index.m3u8
 #EXTINF:-1, Králové Písek - Kobra Praha
@@ -289,6 +213,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfd1a65addedaac41c3f46/index.m3u8
 #EXTINF:-1, Ånge IK - Vindelns HF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb468659b6f68b0e1df651/index.m3u8
+#EXTINF:-1, Luleå HF 2 - Brunflo IK
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb4aeee14bd1ca73a59943/index.m3u8
 #EXTINF:-1, Olomouc - Berani Zlín B
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d15797a4ceb125359fe2b0/index.m3u8
 #EXTINF:-1, Győr - Egerszegi Titánok
@@ -300,7 +226,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3875e14bd1ca73a597
 #EXTINF:-1, Roosa Panter - Everest
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e145afe14bd1ca73a57f4d/index.m3u8
 #EXTINF:-1, Leuven White - Beaufort
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e248b8c62be9451d65f28c/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e248b8c62be9451d65f28c/index.m3u8
 #EXTINF:-1, HC Falcons - SV Kaltern
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed851d615b78791f4618/index.m3u8
 #EXTINF:-1, Fassa Falcons - Pergine
@@ -369,3 +295,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cca32fed197c9d12
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e11/index.m3u8
 #EXTINF:-1, Strasbourg 2 - Meudon 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e15/index.m3u8
+#EXTINF:-1, KuRy/MIF - Jokipojat
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1f9/index.m3u8
+#EXTINF:-1, Valdemoro - CH Huarte
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef8bb850c8e37c3b1dc873/index.m3u8
