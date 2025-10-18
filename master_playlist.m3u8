@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Edmonton - New Jersey
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/86463ecd-21e6-4153-a386-c154a888bcc6/master.m3u8
-#EXTINF:-1, Valence - Roanne
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bfa9cca32fed197c9d1271/index.m3u8
-#EXTINF:-1, Dijon - Toulouse-Blagnac
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cca32fed197c9d126f/index.m3u8
-#EXTINF:-1, Anglet 2 - Annecy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e07/index.m3u8
 #EXTINF:-1, Chambéry - Nantes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cca32fed197c9d1287/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz - Meudon
@@ -37,6 +31,8 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880ed8789696da6914422
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed8889696da691442225/index.m3u8
 #EXTINF:-1, Valpellice - Eppan Pirates
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880ed8889696da691442227/index.m3u8
+#EXTINF:-1, Anglet 2 - Annecy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e07/index.m3u8
 #EXTINF:-1, Strasbourg 2 - Meudon 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e15/index.m3u8
 #EXTINF:-1, Sport. Cápák - DEAC JA
@@ -44,9 +40,9 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e09f54e14bd1ca73a57d
 #EXTINF:-1, Milenio - Majadahonda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef89e2d14875374b2150ae/index.m3u8
 #EXTINF:-1, CH Madrid - Txuri Urdin
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef88c0d14875374b2150a5/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef88c0d14875374b2150a5/index.m3u8
 #EXTINF:-1, CG Puigcerdà - CH Jaca
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef895b50c8e37c3b1dc869/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef895b50c8e37c3b1dc869/index.m3u8
 #EXTINF:-1, HYC - Liège Bulldogs
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e241a682ddee934c5e605a/index.m3u8
 #EXTINF:-1, SFU - Lake Superior
