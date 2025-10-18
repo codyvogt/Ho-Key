@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, SKA - Lokomotiv Yaroslavl
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, Florida - Buffalo Sabres
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ebf3e80d-01a8-43bb-86db-27986601ed5a/master.m3u8
 #EXTINF:-1, AIK - Skellefteå AIK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4d8f59b6f68b0e1df6e3/index.m3u8
 #EXTINF:-1, Södertälje SK - HV 71
@@ -122,7 +124,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1
 #EXTINF:-1, Nivala Cowboys 2 - OYUS
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49159b6f68b0e1df202/index.m3u8
 #EXTINF:-1, Nummelan KV - Kiekko 49
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49159b6f68b0e1df1ea/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9e49159b6f68b0e1df1ea/index.m3u8
 #EXTINF:-1, Pirkanmaa Goons - JIlves
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e490e14bd1ca73a594e1/index.m3u8
 #EXTINF:-1, EVU Team - HCK Salamat
@@ -244,7 +246,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e09f54e14bd1ca73a57d
 #EXTINF:-1, Orléans - Châlons
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c1419b5addedaac41c429b/index.m3u8
 #EXTINF:-1, Évry-Viry - Rouen 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cca32fed197c9d1279/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bfa9cca32fed197c9d1279/index.m3u8
 #EXTINF:-1, Fr. Volants - Courbevoie
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfa9cca32fed197c9d127b/index.m3u8
 #EXTINF:-1, Montpellier - Clermont
