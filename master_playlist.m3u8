@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Edmonton - New Jersey
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/86463ecd-21e6-4153-a386-c154a888bcc6/master.m3u8
-#EXTINF:-1, Alleghe - Zinnen Dolomites
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880ed8789696da691442223/index.m3u8
-#EXTINF:-1, Strasbourg 2 - Meudon 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be584ca32fed197c9d0e15/index.m3u8
-#EXTINF:-1, Sport. Cápák - DEAC JA
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e09f54e14bd1ca73a57d55/index.m3u8
 #EXTINF:-1, Milenio - Majadahonda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef89e2d14875374b2150ae/index.m3u8
 #EXTINF:-1, CH Madrid - Txuri Urdin
@@ -47,8 +41,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Boston College - Cornell
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Robert Morris - Yale
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Union - Wisconsin
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Colgate - Maine
