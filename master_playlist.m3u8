@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avangard - Avtomobilist
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Metallurg Mg - Neftekhimik
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Torpedo Nizhny - Lada
@@ -50,7 +48,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec98e7e14bd1ca73a59d
 #EXTINF:-1, Hvězda - Havlíčkův Brod
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bffbcda32fed197c9d13af/index.m3u8
 #EXTINF:-1, VHK Vsetín - AZ Havířov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d254b0c957a27a01315456/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d254b0c957a27a01315456/index.m3u8
 #EXTINF:-1, Králové Písek - SC Kolín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca95ddb4c8ed39e34758ed/index.m3u8
 #EXTINF:-1, HC Tábor B - Rytíři Kladno
@@ -138,7 +136,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68eb361059b6f68b0e1df4
 #EXTINF:-1, K-Kissat Ak - Jää-Tiikerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3610e14bd1ca73a5976d/index.m3u8
 #EXTINF:-1, Nokian Pyry - Rockets
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e49059b6f68b0e1df185/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9e49059b6f68b0e1df185/index.m3u8
 #EXTINF:-1, Hunters - Kiekko-Espoo IV
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb3610e14bd1ca73a59761/index.m3u8
 #EXTINF:-1, VG-62 Naantali - RNK
@@ -210,7 +208,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3dc5a50c8e37c3b1dd3
 #EXTINF:-1, Hijs Hokij - Kemphanen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3916a51a354c0d6d0a83d/index.m3u8
 #EXTINF:-1, Baník Příbram - SK Kadaň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da59d48ebee495bafd5e17/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68da59d48ebee495bafd5e17/index.m3u8
 #EXTINF:-1, Pardubice - HC Kladno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8f66ee14bd1ca73a59328/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Järnbrott
