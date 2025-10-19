@@ -3,20 +3,10 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62779541-236e-4861-b509-38700033e28c/master.m3u8
 #EXTINF:-1, Edmonton Oilers - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/635f6f51-ecfb-4946-a54b-f75f1bd634e5/master.m3u8
-#EXTINF:-1, Leuven Chiefs - HYC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39325d510dedfae93bc78/index.m3u8
 #EXTINF:-1, Bordeaux - Aigles de Nice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c81a8b7780705525d99/index.m3u8
 #EXTINF:-1, Strasbourg - HC 74
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c0fb4c5addedaac41c4197/index.m3u8
-#EXTINF:-1, Nacka HK 2 - Duvbo IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec9f11e14bd1ca73a59d76/index.m3u8
-#EXTINF:-1, Vallentuna-Ormsta - KTH
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec9565e14bd1ca73a59bc4/index.m3u8
-#EXTINF:-1, IFK Tumba IK 2 - Salem
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4302e14bd1ca73a5985a/index.m3u8
-#EXTINF:-1, Herrings HC - Ramberget
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eca29259b6f68b0e1df9f5/index.m3u8
 #EXTINF:-1, K-Vantaa - GrIFK Joukkue
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb3610e14bd1ca73a59746/index.m3u8
 #EXTINF:-1, Hawks - Kiekko-Tiikerit
@@ -29,6 +19,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f3916a51a354c0d6d0a8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce440fa4ceb125359fd90d/index.m3u8
 #EXTINF:-1, Turnov - Lomnice n. Popel.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68a171156824107e9b1659fd/index.m3u8
+#EXTINF:-1, Vallentuna-Ormsta - KTH
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec9565e14bd1ca73a59bc4/index.m3u8
+#EXTINF:-1, IFK Tumba IK 2 - Salem
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4302e14bd1ca73a5985a/index.m3u8
+#EXTINF:-1, Herrings HC - Ramberget
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eca29259b6f68b0e1df9f5/index.m3u8
 #EXTINF:-1, Liège Bulldogs - Neuwied
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39325c62be9451d65f585/index.m3u8
 #EXTINF:-1, Kungsbacka HC - Lerum
