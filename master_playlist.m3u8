@@ -50,7 +50,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c1231d5addedaac41c42
 #EXTINF:-1, Milevsko B - Hluboká n. Vlt.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c80f049d2a1a468257fc15/index.m3u8
 #EXTINF:-1, HC Jičín - Vlci Jablonec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df502648319de9ecd68/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df502648319de9ecd68/index.m3u8
 #EXTINF:-1, HC Chrudim - HC Náchod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecde6/index.m3u8
 #EXTINF:-1, Radomyšl - Veselí n. Lužnicí
@@ -177,6 +177,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e8dad14875374b2156
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec91de59b6f68b0e1df88d/index.m3u8
 #EXTINF:-1, Järna SK - Kallhälls IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec9b8b59b6f68b0e1df975/index.m3u8
+#EXTINF:-1, Leuven Chiefs - HYC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39325d510dedfae93bc78/index.m3u8
+#EXTINF:-1, Bordeaux - Aigles de Nice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c81a8b7780705525d99/index.m3u8
+#EXTINF:-1, Clermont-Ferrand - Lyon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d1760ca4ceb125359fe305/index.m3u8
 #EXTINF:-1, Nacka HK 2 - Duvbo IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec9f11e14bd1ca73a59d76/index.m3u8
 #EXTINF:-1, Vallentuna-Ormsta - KTH
@@ -187,3 +193,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb4302e14bd1ca73a598
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eca29259b6f68b0e1df9f5/index.m3u8
 #EXTINF:-1, Hawks - Kiekko-Tiikerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb360fe14bd1ca73a5973d/index.m3u8
+#EXTINF:-1, Liège Bulldogs - Neuwied
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39325c62be9451d65f585/index.m3u8
