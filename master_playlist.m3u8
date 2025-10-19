@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Metallurg Mg - Neftekhimik
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Torpedo Nizhny - Lada
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Bílí Tygři Liberec - Třinec
@@ -229,6 +227,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ec8752e14bd1ca73a59a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec98e7e14bd1ca73a59d0c/index.m3u8
 #EXTINF:-1, Kungsbacka HC - Lerum
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eca1b2e14bd1ca73a59dba/index.m3u8
+#EXTINF:-1, Eagles Südtirol - Torino
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e8d950c8e37c3b1dcdea/index.m3u8
+#EXTINF:-1, Trentino - Zinnen Dolomites
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e8dad14875374b21566a/index.m3u8
 #EXTINF:-1, Hässelby Kälvesta - SHK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec91de59b6f68b0e1df88d/index.m3u8
 #EXTINF:-1, Järna SK - Kallhälls IF
