@@ -5,12 +5,6 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/vari
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Torpedo Nizhny - Lada
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1, Qulager Petropavl - Astana
-https://cdn.inhockey.tv/live/local2/index.m3u8
-#EXTINF:-1, Barys Astana - Jas Batyr
-https://cdn.inhockey.tv/live/local4/index.m3u8
-#EXTINF:-1, Almaty - Munaishy
-https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, SHK Kurbads - HC Klaipeda
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e15998e14bd1ca73a57f54/index.m3u8
 #EXTINF:-1, Timrå IK - Leksands IF
@@ -29,6 +23,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec9b8b59b6f68b0e1df9
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8d8ed59b6f68b0e1dee1f/index.m3u8
 #EXTINF:-1, HS Falcons - Dinaburga
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e8ec66e14bd1ca73a59311/index.m3u8
+#EXTINF:-1, Almaty - Munaishy
+https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, Kisa-Eagles - K-Ahma
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb361059b6f68b0e1df497/index.m3u8
 #EXTINF:-1, HAKI - Kiekko-Espoo III
@@ -72,11 +68,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb361059b6f68b0e1df4
 #EXTINF:-1, Chrudim - Piráti Chomutov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dceebd8ebee495bafd638a/index.m3u8
 #EXTINF:-1, Přerov - Warriors Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e1298cf2d47676600df7c9/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e1298cf2d47676600df7c9/index.m3u8
 #EXTINF:-1, Hvězda - Havlíčkův Brod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bffbcda32fed197c9d13af/index.m3u8
 #EXTINF:-1, Malmberget - IF Kalix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec8d7a59b6f68b0e1df85b/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ec8d7a59b6f68b0e1df85b/index.m3u8
 #EXTINF:-1, Bodens HF - Kiruna IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec948259b6f68b0e1df8c0/index.m3u8
 #EXTINF:-1, Umeå HK - Östersunds IK
