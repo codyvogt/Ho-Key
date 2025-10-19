@@ -1,20 +1,16 @@
 #EXTM3U
 #EXTINF:-1, Vancouver - Washington
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62779541-236e-4861-b509-38700033e28c/master.m3u8
-#EXTINF:-1, Uh. Ostroh - SK Prostějov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb7a/index.m3u8
+#EXTINF:-1, Grenoble - Caen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c0fb4c5addedaac41c4195/index.m3u8
+#EXTINF:-1, Strasbourg - HC 74
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c0fb4c5addedaac41c4197/index.m3u8
 #EXTINF:-1, HC Chrudim - HC Náchod
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df702648319de9ecde6/index.m3u8
 #EXTINF:-1, Radomyšl - Veselí n. Lužnicí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce440fa4ceb125359fd90d/index.m3u8
 #EXTINF:-1, Turnov - Lomnice n. Popel.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68a171156824107e9b1659fd/index.m3u8
-#EXTINF:-1, Hammarby IF - Södertälje
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ec91de59b6f68b0e1df88a/index.m3u8
-#EXTINF:-1, Grenoble - Caen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c0fb4c5addedaac41c4195/index.m3u8
-#EXTINF:-1, Strasbourg - HC 74
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c0fb4c5addedaac41c4197/index.m3u8
 #EXTINF:-1, Leuven Chiefs - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39325d510dedfae93bc78/index.m3u8
 #EXTINF:-1, Bordeaux - Aigles de Nice
@@ -41,3 +37,5 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f3916a51a354c0d6d0a8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39325c62be9451d65f585/index.m3u8
 #EXTINF:-1, Kungsbacka HC - Lerum
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eca1b2e14bd1ca73a59dba/index.m3u8
+#EXTINF:-1, Merrimack - Brown
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/brownvideo8/playlist.m3u8
