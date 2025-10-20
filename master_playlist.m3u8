@@ -1,29 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Arlan - Qulager Petropavl
-https://cdn.inhockey.tv/live/local2/index.m3u8
-#EXTINF:-1, Nomad Astana - Ertis
-https://cdn.inhockey.tv/live/local1/index.m3u8
-#EXTINF:-1, Aqtóbe HK - Sunqar
-https://cdn.inhockey.tv/live/local3/index.m3u8
-#EXTINF:-1, Dynamo M - Lokomotiv
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1, CSKA - Dinamo Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Clemensnäs HC - Piteå HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede27d50c8e37c3b1dc316/index.m3u8
-#EXTINF:-1, Brooklyn Tigers HF - Kalix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ededec50c8e37c3b1dc3b5/index.m3u8
-#EXTINF:-1, Njurunda SK - Örnsköldsvik
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68edeb49d14875374b214b7a/index.m3u8
-#EXTINF:-1, Huddinge IK - Almtuna IS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68edf08f50c8e37c3b1dc3c5/index.m3u8
-#EXTINF:-1, Järfälla - Wings Arlanda
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede988d14875374b214b67/index.m3u8
-#EXTINF:-1, SDE HF - Väsby IK HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db9d3e2de202e1780051b4/index.m3u8
-#EXTINF:-1, Spånga IS IK - Hammarby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb492a59b6f68b0e1df6b5/index.m3u8
-#EXTINF:-1, OKK Tankki - LJK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec878f59b6f68b0e1df850/index.m3u8
-#EXTINF:-1, HC Ludwig - K-Espoo EKS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec878f59b6f68b0e1df83e/index.m3u8
+#EXTINF:-1, Minnesota - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b06a97f3-852b-45a5-a07d-c5dfcb2cbdc7/master.m3u8
+#EXTINF:-1, Seattle - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/73fdf82c-124f-4423-a41c-d31b4f612717/master.m3u8
+#EXTINF:-1, Buffalo Sabres - Montréal
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4ca8962d-d824-4a89-b7a9-bcdc34d6edad/master.m3u8
