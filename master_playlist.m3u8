@@ -5,3 +5,7 @@ https://cdn.inhockey.tv/live/local2/index.m3u8
 https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Aqtóbe HK - Sunqar
 https://cdn.inhockey.tv/live/local3/index.m3u8
+#EXTINF:-1, Dynamo M - Lokomotiv
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1, CSKA - Dinamo Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
