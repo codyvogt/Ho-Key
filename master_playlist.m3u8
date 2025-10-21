@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Évry-Viry - Wildcats Épinal
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e61d8be14bd1ca73a58b8c/index.m3u8
-#EXTINF:-1, Villard-de-Lans - Chamonix
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e760fbe14bd1ca73a58eec/index.m3u8
-#EXTINF:-1, Boo HC - Nynäshamns IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef36a1d14875374b214f4b/index.m3u8
+#EXTINF:-1, Quinnipiac - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
