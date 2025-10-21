@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Č. Budějovice - Mountfield
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efae4fd14875374b215180.m3u8
 #EXTINF:-1, HC Olomouc - HC Litvínov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bae36b5addedaac41c32b6.m3u8
 #EXTINF:-1, Sparta Praha - HC Třinec
@@ -54,7 +52,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef394550c8e37c3b1dc7
 #EXTINF:-1, Bålsta - Eskilstuna Linden
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef386450c8e37c3b1dc6ff/index.m3u8
 #EXTINF:-1, Nacka - Haninge Anchors
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef420fd14875374b214fa3/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef420fd14875374b214fa3/index.m3u8
 #EXTINF:-1, Gnesta - Huddinge Tigers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef404c50c8e37c3b1dc746/index.m3u8
 #EXTINF:-1, Trångsunds IF - Mariefred
@@ -92,7 +90,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4cc0ac62be9451d65f7
 #EXTINF:-1, Dunkerque - Rouen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e760fb59b6f68b0e1deaac/index.m3u8
 #EXTINF:-1, Ducs de Dijon - Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e760fb59b6f68b0e1deaa4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e760fb59b6f68b0e1deaa4/index.m3u8
 #EXTINF:-1, Briançon - Aigles de Nice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e760fb59b6f68b0e1deaa8/index.m3u8
 #EXTINF:-1, Clermont-FD - Bordeaux
