@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sparta Praha - HC Třinec
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efae81d14875374b215182.m3u8
-#EXTINF:-1, DVTK - Győr ETO HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7a755e14bd1ca73a58fc2/index.m3u8
-#EXTINF:-1, MAC Budapest - Újpesti JA
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e7a755e14bd1ca73a58fc6/index.m3u8
 #EXTINF:-1, Odense Bulldogs - Herlev
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e64843e14bd1ca73a58c15.m3u8
 #EXTINF:-1, Aalborg Pirates - Rødovre
@@ -101,5 +95,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4cc0ae14bd1ca73a588
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e61d8be14bd1ca73a58b8c/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Chamonix
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e760fbe14bd1ca73a58eec/index.m3u8
+#EXTINF:-1, MAC Budapest - Újpesti JA
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e7a755e14bd1ca73a58fc6/index.m3u8
 #EXTINF:-1, Karhu-Kissat - A-Rangers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68edd91050c8e37c3b1dc2d6/index.m3u8
