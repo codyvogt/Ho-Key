@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Sibir - Metallurg Mg
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Salavat Yulaev - Traktor
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Č. Budějovice - Mountfield
@@ -13,3 +11,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efae81d14875374b2151
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Aqtóbe HK - Sunqar
 https://cdn.inhockey.tv/live/local2/index.m3u8
+#EXTINF:-1, DVTK - Győr ETO HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7a755e14bd1ca73a58fc2/index.m3u8
+#EXTINF:-1, MAC Budapest - Újpesti JA
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7a755e14bd1ca73a58fc6/index.m3u8
