@@ -7,8 +7,6 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Sparta Praha - Vítkovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efaeadd14875374b215184.m3u8
-#EXTINF:-1, Baník Sokolov - Chomutov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef9da550c8e37c3b1dc8ab.m3u8
 #EXTINF:-1, HC Frýdek-Místek - Vsetín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef9dd5d14875374b2150f6.m3u8
 #EXTINF:-1, HC Tábor - Dukla Jihlava
@@ -19,10 +17,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef9e1150c8e37c3b1dc8
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef9e7cd14875374b2150fc.m3u8
 #EXTINF:-1, Stadion Litoměřice - Třebíč
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef9e4ad14875374b2150fa.m3u8
-#EXTINF:-1, Sport Akatemia - Warrantti
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef2a8fd14875374b214f08/index.m3u8
-#EXTINF:-1, GrIFK Joukkue - EVU Team
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef2a8fd14875374b214eff/index.m3u8
 #EXTINF:-1, Baník Hodonín - AZ Havířov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b1c1a2ed3d1a24f79be843/index.m3u8
 #EXTINF:-1, Kopřivnice - Technika Brno
@@ -109,3 +103,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f09550d14875374b2153
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0865e50c8e37c3b1dca30/index.m3u8
 #EXTINF:-1, Nybro Vikings - Rydaholm
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca5b909d2a1a4682580145/index.m3u8
+#EXTINF:-1, GrIFK Joukkue - EVU Team
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef2a8fd14875374b214eff/index.m3u8
