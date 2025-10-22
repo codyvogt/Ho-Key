@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Lada - Dinamo Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Ak Bars - Lokomotiv
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Sochi - Torpedo Nizhny
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Sparta Praha - Vítkovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efaeadd14875374b215184.m3u8
-#EXTINF:-1, HC Frýdek-Místek - Vsetín
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef9dd5d14875374b2150f6.m3u8
 #EXTINF:-1, HC Tábor - Dukla Jihlava
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef9eb0d14875374b2150fe.m3u8
 #EXTINF:-1, SC Kolín - HC Poruba
@@ -44,7 +40,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78f
 #EXTINF:-1, White Hawks - Sønderjyske
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e648e2c62be9451d65fa86.m3u8
 #EXTINF:-1, Rungsted - Herning
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e6490fe14bd1ca73a58c19.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e6490fe14bd1ca73a58c19.m3u8
 #EXTINF:-1, Valenciennes - Meudon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4cc0ac62be9451d65f772/index.m3u8
 #EXTINF:-1, Toulouse-Blagnac - Anglet
@@ -62,7 +58,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f08902d14875374b2152
 #EXTINF:-1, Tegs SK - Vännäs HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f08c8950c8e37c3b1dca90/index.m3u8
 #EXTINF:-1, Piteå HC - Sunderby SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f08c8950c8e37c3b1dca92/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f08c8950c8e37c3b1dca92/index.m3u8
 #EXTINF:-1, IF Sundsvall - Kovland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f091ccd14875374b21532f/index.m3u8
 #EXTINF:-1, Hanhals IF - IF Mölndal
@@ -88,7 +84,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0946ed14875374b2153
 #EXTINF:-1, Rönnängs IK - LN 70 HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f08119d14875374b2152d5/index.m3u8
 #EXTINF:-1, Skärgården - Kungsbacka
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f09550d14875374b215351/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f09550d14875374b215351/index.m3u8
 #EXTINF:-1, Lerums BK - Varberg HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0803850c8e37c3b1dca2c/index.m3u8
 #EXTINF:-1, Stenungsund - Strömstad
