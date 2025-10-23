@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Sibir - Salavat Yulaev Ufa
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Avangard Omsk - Severstal
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Avtomobilist - Traktor
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Neftekhimik - Metallurg Mg
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, Pardubice - Č. Budějovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efaf20d14875374b215186.m3u8
 #EXTINF:-1, Beibarys Atyrau - Almaty
 https://cdn.inhockey.tv/live/local4/index.m3u8
 #EXTINF:-1, Aqtóbe - Ertis Pavlodar
@@ -23,3 +23,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f07c0f50c8e37c3b1dca
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef2a8fd14875374b214f03/index.m3u8
 #EXTINF:-1, Wolfpack - Jää-Ahmat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f07c0f50c8e37c3b1dca0a/index.m3u8
+#EXTINF:-1, HK Kroměříž - HC Studénka
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dceebd8ebee495bafd638c/index.m3u8
+#EXTINF:-1, Nový Bydžov - Jaroměř
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f79143/index.m3u8
