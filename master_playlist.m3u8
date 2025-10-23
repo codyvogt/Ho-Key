@@ -3,18 +3,14 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Pardubice - Č. Budějovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efaf20d14875374b215186.m3u8
-#EXTINF:-1, Viikingit Helsinki - EVU
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f07c0f50c8e37c3b1dca0d/index.m3u8
-#EXTINF:-1, Chiefs Turku - HCIK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef2a8fd14875374b214f03/index.m3u8
-#EXTINF:-1, Wolfpack - Jää-Ahmat
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f07c0f50c8e37c3b1dca0a/index.m3u8
 #EXTINF:-1, HK Kroměříž - HC Studénka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dceebd8ebee495bafd638c/index.m3u8
 #EXTINF:-1, Nový Bydžov - Jaroměř
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df6c0aa0cd927f79143/index.m3u8
 #EXTINF:-1, MIF Team - Warrantti
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f07c0f50c8e37c3b1dca0b/index.m3u8
+#EXTINF:-1, Wolfpack - Jää-Ahmat
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f07c0f50c8e37c3b1dca0a/index.m3u8
 #EXTINF:-1, Södertälje SK - Västerås
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e18ed14875374b215650/index.m3u8
 #EXTINF:-1, Glimma HK - Sölvesborg
