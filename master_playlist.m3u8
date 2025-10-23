@@ -5,14 +5,10 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Pardubice - Č. Budějovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efaf20d14875374b215186.m3u8
-#EXTINF:-1, Beibarys Atyrau - Almaty
-https://cdn.inhockey.tv/live/local4/index.m3u8
 #EXTINF:-1, Aqtóbe - Ertis Pavlodar
 https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, Gornyak Rudny - Nomad
 https://cdn.inhockey.tv/live/local2/index.m3u8
-#EXTINF:-1, Qarmet - Jas Batyr Atyrau
-https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Shakhter Soligorsk - Brest
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Viikingit Helsinki - EVU
@@ -39,3 +35,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e34c50c8e37c3b1dcd
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e34c50c8e37c3b1dcdac/index.m3u8
 #EXTINF:-1, Almtuna IS - Södertälje
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1d0d6d14875374b2155bc/index.m3u8
+#EXTINF:-1, Amiens - Villard-de-Lans
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c641519d2a1a468257f431/index.m3u8
+#EXTINF:-1, Gherdëina D1 - Cadore
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c90e2e9d2a1a468257fe15/index.m3u8
+#EXTINF:-1, Tavastia - Jää-Tiikerit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f07c0fd14875374b2152cd/index.m3u8
