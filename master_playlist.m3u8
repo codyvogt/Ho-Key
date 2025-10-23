@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Gherdëina D1 - Cadore
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c90e2e9d2a1a468257fe15/index.m3u8
-#EXTINF:-1, Tavastia - Jää-Tiikerit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f07c0fd14875374b2152cd/index.m3u8
+#EXTINF:-1, Chicago - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/55ce9a1c-ac45-4136-b605-f0b801c6f4f3/master.m3u8
+#EXTINF:-1, Anaheim - Boston Bruins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/18c7adaf-d928-40a6-b9e0-925e0c82af03/master.m3u8
+#EXTINF:-1, Philadelphia - Ottawa
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fe57fff4-c1a9-4639-b6a7-84c1eb88cb8e/master.m3u8
+#EXTINF:-1, Pittsburgh - Florida
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6d3fa6e6-0e2f-424e-9baa-f4b9bf61694c/master.m3u8
+#EXTINF:-1, Detroit - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/63651d6d-2b1b-4836-ad2d-a129a55788a8/master.m3u8
+#EXTINF:-1, San Jose - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/57b4b22e-5c7a-4ed8-811c-dc744195affb/master.m3u8
