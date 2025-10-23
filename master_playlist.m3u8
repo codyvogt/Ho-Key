@@ -7,5 +7,13 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/vari
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Neftekhimik - Metallurg Mg
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, Beibarys Atyrau - Almaty
+https://cdn.inhockey.tv/live/local4/index.m3u8
+#EXTINF:-1, Aqtóbe - Ertis Pavlodar
+https://cdn.inhockey.tv/live/local3/index.m3u8
+#EXTINF:-1, Gornyak Rudny - Nomad
+https://cdn.inhockey.tv/live/local2/index.m3u8
+#EXTINF:-1, Qarmet - Jas Batyr Atyrau
+https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Shakhter Soligorsk - Brest
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
