@@ -3,8 +3,6 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Pardubice - Č. Budějovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efaf20d14875374b215186.m3u8
-#EXTINF:-1, Shakhter Soligorsk - Brest
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Viikingit Helsinki - EVU
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f07c0f50c8e37c3b1dca0d/index.m3u8
 #EXTINF:-1, Chiefs Turku - HCIK
@@ -30,7 +28,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e34c50c8e37c3b1dcd
 #EXTINF:-1, Almtuna IS - Södertälje
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f1d0d6d14875374b2155bc/index.m3u8
 #EXTINF:-1, Amiens - Villard-de-Lans
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c641519d2a1a468257f431/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c641519d2a1a468257f431/index.m3u8
 #EXTINF:-1, Gherdëina D1 - Cadore
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c90e2e9d2a1a468257fe15/index.m3u8
 #EXTINF:-1, Tavastia - Jää-Tiikerit
