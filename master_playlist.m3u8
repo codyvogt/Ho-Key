@@ -15,8 +15,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0de30d14875374b2154
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ddf3d14875374b21541e.m3u8
 #EXTINF:-1, Karlovy Vary - Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ddc150c8e37c3b1dcbf6.m3u8
-#EXTINF:-1, Saimaan Pallo - HIFK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215592/index.m3u8
+#EXTINF:-1, Torpedo U-K - Qulager
+https://cdn.inhockey.tv/live/local1/index.m3u8
+#EXTINF:-1, Aqtóbe HK - Ertis Pavlodar
+https://cdn.inhockey.tv/live/local5/index.m3u8
+#EXTINF:-1, Gornyak Rudny - Nomad
+https://cdn.inhockey.tv/live/local4/index.m3u8
+#EXTINF:-1, Saryarqa - Arlan Kókshetaý
+https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, HPK - Kalevan Pallo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b2155a6/index.m3u8
 #EXTINF:-1, JYP - Tampereen Ilves
@@ -27,14 +33,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b2155
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215598/index.m3u8
 #EXTINF:-1, Lahden Pelicans - K-Espoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b2155a9/index.m3u8
-#EXTINF:-1, Torpedo U-K - Qulager
-https://cdn.inhockey.tv/live/local1/index.m3u8
-#EXTINF:-1, Aqtóbe HK - Ertis Pavlodar
-https://cdn.inhockey.tv/live/local5/index.m3u8
-#EXTINF:-1, Gornyak Rudny - Nomad
-https://cdn.inhockey.tv/live/local4/index.m3u8
-#EXTINF:-1, Saryarqa - Arlan Kókshetaý
-https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, Qarmet - Jas Batyr Atyrau
 https://cdn.inhockey.tv/live/local2/index.m3u8
 #EXTINF:-1, Warriors Brno - Havířov
@@ -78,7 +76,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b05405ed3d1a24f79be5
 #EXTINF:-1, Spartak Choceň - Hlinsko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e77ac5e14bd1ca73a58f7b/index.m3u8
 #EXTINF:-1, Bílí Tygři Liberec - Sparta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c15b5d5addedaac41c433b/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c15b5d5addedaac41c433b/index.m3u8
 #EXTINF:-1, Škoda Plzeň - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e17800591c/index.m3u8
 #EXTINF:-1, BK Mladá Boleslav - Slavia
