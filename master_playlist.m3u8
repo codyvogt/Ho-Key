@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Bordeaux - Briançon
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c82a8b7780705525db1/index.m3u8
-#EXTINF:-1, Amiens - Marseille
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c81a8b7780705525dad/index.m3u8
-#EXTINF:-1, Rouen - Grenoble
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c80a8b7780705525d8f/index.m3u8
-#EXTINF:-1, Ducs d'Angers - Nice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c80a8b7780705525d8b/index.m3u8
-#EXTINF:-1, Hormadi d'Anglet - Gap
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c818adff45f9df29325/index.m3u8
-#EXTINF:-1, Neuwied - Leuven Chiefs
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ea2aa659b6f68b0e1df2f9/index.m3u8
-#EXTINF:-1, Eagles Südtirol - Lakers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e8e1d14875374b215672/index.m3u8
 #EXTINF:-1, Colgate - Dartmouth
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Cornell - Harvard
