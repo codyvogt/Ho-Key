@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Plzeň - Mountfield HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f0dd8cd14875374b21541b.m3u8
 #EXTINF:-1, Litvínov - Bílí Tygři Liberec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f0dd57d14875374b215419.m3u8
 #EXTINF:-1, HC Kometa Brno - Vítkovice
@@ -11,8 +9,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ddf3d14875374b2154
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ddc150c8e37c3b1dcbf6.m3u8
 #EXTINF:-1, Dinamo Minsk - Shanghai
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Mountfield HK - HC Třinec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d29b056f7f10ac01b3c2d5/index.m3u8
 #EXTINF:-1, Dynamo Pardubice - Zlín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d513d4c957a27a0131636c/index.m3u8
 #EXTINF:-1, HC Poruba - HC Litvínov
@@ -38,7 +34,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf56da4ceb125359fd0
 #EXTINF:-1, Klášterec nad Ohří - Ostrov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f64fa6e58cdfe8ac576d3e/index.m3u8
 #EXTINF:-1, Stadion Vrchlabí - Turnov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b05405ed3d1a24f79be55b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b05405ed3d1a24f79be55b/index.m3u8
 #EXTINF:-1, Spartak Choceň - Hlinsko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e77ac5e14bd1ca73a58f7b/index.m3u8
 #EXTINF:-1, Viikingit - Kiekko-Vantaa
@@ -159,23 +155,23 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f32094d14875374b215b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f32419d14875374b215b70/index.m3u8
 #EXTINF:-1, Ulricehamn - Vänersborg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3295e50c8e37c3b1dd28b/index.m3u8
-#EXTINF:-1, Neuwied - Leuven Chiefs
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea2aa659b6f68b0e1df2f9/index.m3u8
-#EXTINF:-1, Hijs Hokij - Mechelen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea2aa6e14bd1ca73a59635/index.m3u8
-#EXTINF:-1, Liège - Eaters Limburg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea2aa6e14bd1ca73a59633/index.m3u8
 #EXTINF:-1, PT-80 - Kosken Pojat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd8fd14875374b215542/index.m3u8
 #EXTINF:-1, Bordeaux - Briançon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c82a8b7780705525db1/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c82a8b7780705525db1/index.m3u8
 #EXTINF:-1, Amiens - Marseille
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c81a8b7780705525dad/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c81a8b7780705525dad/index.m3u8
 #EXTINF:-1, Rouen - Grenoble
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d8f/index.m3u8
 #EXTINF:-1, Ducs d'Angers - Nice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c80a8b7780705525d8b/index.m3u8
 #EXTINF:-1, Hormadi d'Anglet - Gap
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c818adff45f9df29325/index.m3u8
+#EXTINF:-1, Hijs Hokij - Mechelen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea2aa6e14bd1ca73a59635/index.m3u8
+#EXTINF:-1, Liège - Eaters Limburg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea2aa6e14bd1ca73a59633/index.m3u8
+#EXTINF:-1, Neuwied - Leuven Chiefs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea2aa659b6f68b0e1df2f9/index.m3u8
 #EXTINF:-1, Eagles Südtirol - Lakers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e8e1d14875374b215672/index.m3u8
