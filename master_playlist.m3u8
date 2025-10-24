@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Budapest JA - HK PSRŽ
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8885459b6f68b0e1decc4/index.m3u8
 #EXTINF:-1, Saimaan Pallo - HIFK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215592/index.m3u8
 #EXTINF:-1, HPK - Kalevan Pallo
@@ -13,6 +11,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b2155
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215598/index.m3u8
 #EXTINF:-1, Lahden Pelicans - K-Espoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b2155a9/index.m3u8
+#EXTINF:-1, Torpedo U-K - Qulager
+https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Warriors Brno - Havířov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f39759b6f68b0e1df26a/index.m3u8
 #EXTINF:-1, Vlci Jablonec - Lomnice
