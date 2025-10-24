@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1, Colgate - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Cornell - Harvard
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, St. Lawrence - RPI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Clarkson - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, UNH - Boston University
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Franklin Pierce - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Princeton - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Post - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Charleroi - Olympia Heist
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ea31b7e14bd1ca73a59639/index.m3u8
