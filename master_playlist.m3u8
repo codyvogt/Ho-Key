@@ -3,6 +3,18 @@
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Shanghai
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, HC Třinec - Mladá Boleslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0dd21d14875374b215417.m3u8
+#EXTINF:-1, HC Plzeň - Mountfield HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0dd8cd14875374b21541b.m3u8
+#EXTINF:-1, Litvínov - Bílí Tygři Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0dd57d14875374b215419.m3u8
+#EXTINF:-1, HC Kometa Brno - Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0de30d14875374b215421.m3u8
+#EXTINF:-1, Rytíři Kladno - HC Olomouc
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ddf3d14875374b21541e.m3u8
+#EXTINF:-1, Karlovy Vary - Sparta Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ddc150c8e37c3b1dcbf6.m3u8
 #EXTINF:-1, Saimaan Pallo - HIFK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215592/index.m3u8
 #EXTINF:-1, HPK - Kalevan Pallo
