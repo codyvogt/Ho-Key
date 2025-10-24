@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Karlovy Vary - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ddc150c8e37c3b1dcbf6.m3u8
-#EXTINF:-1, Kralupy nad Vltavou - Děčín
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e8a20fe14bd1ca73a59163/index.m3u8
-#EXTINF:-1, Kobra Praha - Letňany
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c9283eb4c8ed39e34755bd/index.m3u8
-#EXTINF:-1, Chomutov B - Karl. Vary B
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bee294a32fed197c9d11e8/index.m3u8
-#EXTINF:-1, Warriors Brno B - Hodonín
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e3be7dd510dedfae93bd17/index.m3u8
-#EXTINF:-1, HC Hronov - HC Opočno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf56da4ceb125359fd010/index.m3u8
-#EXTINF:-1, Klášterec nad Ohří - Ostrov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f64fa6e58cdfe8ac576d3e/index.m3u8
-#EXTINF:-1, Stadion Vrchlabí - Turnov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b05405ed3d1a24f79be55b/index.m3u8
-#EXTINF:-1, Spartak Choceň - Hlinsko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e77ac5e14bd1ca73a58f7b/index.m3u8
-#EXTINF:-1, K-Kissat - HIFK Stadi
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f2489bd14875374b21586a/index.m3u8
 #EXTINF:-1, HC Tábor - SC Kolín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d65743c957a27a013166a6/index.m3u8
 #EXTINF:-1, HC Olomouc - VHK Vsetín
@@ -113,6 +93,20 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f3306750c8e37c3b1dd2
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f32f8850c8e37c3b1dd2d9/index.m3u8
 #EXTINF:-1, SK Iron - Brinkens IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f32094d14875374b215b54/index.m3u8
+#EXTINF:-1, Kobra Praha - Letňany
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c9283eb4c8ed39e34755bd/index.m3u8
+#EXTINF:-1, Chomutov B - Karl. Vary B
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bee294a32fed197c9d11e8/index.m3u8
+#EXTINF:-1, Warriors Brno B - Hodonín
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e3be7dd510dedfae93bd17/index.m3u8
+#EXTINF:-1, HC Hronov - HC Opočno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf56da4ceb125359fd010/index.m3u8
+#EXTINF:-1, Klášterec nad Ohří - Ostrov
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f64fa6e58cdfe8ac576d3e/index.m3u8
+#EXTINF:-1, Stadion Vrchlabí - Turnov
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b05405ed3d1a24f79be55b/index.m3u8
+#EXTINF:-1, Spartak Choceň - Hlinsko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e77ac5e14bd1ca73a58f7b/index.m3u8
 #EXTINF:-1, Porin Kiekko Weljet - EjL
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215578/index.m3u8
 #EXTINF:-1, Aalborg Pirates - Esbjerg
