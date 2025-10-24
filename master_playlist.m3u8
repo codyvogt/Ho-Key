@@ -80,7 +80,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c15b5d5addedaac41c43
 #EXTINF:-1, Škoda Plzeň - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e17800591c/index.m3u8
 #EXTINF:-1, BK Mladá Boleslav - Slavia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c9445fb4c8ed39e347562b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c9445fb4c8ed39e347562b/index.m3u8
 #EXTINF:-1, HC Vítkovice - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede814d14875374b214b2a/index.m3u8
 #EXTINF:-1, Mountfield HK - HC Třinec
@@ -101,3 +101,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b2155
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215575/index.m3u8
 #EXTINF:-1, Porin Kiekko Weljet - EjL
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215578/index.m3u8
+#EXTINF:-1, Hela-Kiekko - Malax IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd8fd14875374b215541/index.m3u8
+#EXTINF:-1, IFK Lepplax - IK Kronan
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd8fd14875374b215543/index.m3u8
+#EXTINF:-1, Turun Palloseura - HPK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1cd90d14875374b215590/index.m3u8
+#EXTINF:-1, K-Kissat - HIFK Stadi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2489bd14875374b21586a/index.m3u8
