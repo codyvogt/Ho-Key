@@ -178,9 +178,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c4fa90b4c8ed39e34747
 #EXTINF:-1, Kisa-Eagles - LäKi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f12d14875374b215b2b/index.m3u8
 #EXTINF:-1, Laser HT - IFK Lepplax
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f11d14875374b215a61/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f11d14875374b215a61/index.m3u8
 #EXTINF:-1, Kiekko-Espoo III - HAKI
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd1d7/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f1150c8e37c3b1dd1d7/index.m3u8
 #EXTINF:-1, Örebro HK - Leksands IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4856dd14875374b21603e/index.m3u8
 #EXTINF:-1, IF Sundsvall - Luleå HF 2
@@ -280,7 +280,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44c9d2a1a468257fd
 #EXTINF:-1, Padova Waves - Como
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef930bd14875374b2150c6/index.m3u8
 #EXTINF:-1, Pinerolo - Valpellice D1
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef930b50c8e37c3b1dc885/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef930b50c8e37c3b1dc885/index.m3u8
 #EXTINF:-1, Vinschgau Eisfix - Trento
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef930c50c8e37c3b1dc887/index.m3u8
 #EXTINF:-1, Cadore - Gherdëina D1
@@ -303,6 +303,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed8c1d615b78791f46
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa75ec40899867ab483760/index.m3u8
 #EXTINF:-1, HC Aosta - HC Falcons
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed8b89696da69144222d/index.m3u8
+#EXTINF:-1, Boston C - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Jukurit - Lahden Pelicans
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd201/index.m3u8
 #EXTINF:-1, CH Huarte - Puigcerdà
