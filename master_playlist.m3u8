@@ -3,32 +3,32 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d170cdbb-ce87-4904-85ed-13b0e9e9bf7d/master.m3u8
 #EXTINF:-1, Anaheim - Tampa Bay
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/19be9d0b-5e8d-449c-b7a6-feb9b38731d5/master.m3u8
-#EXTINF:-1, Reims - Saint Pierre
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e8b27be14bd1ca73a591d2/index.m3u8
-#EXTINF:-1, FTC II - Egerszegi Titánok
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9d9d6e14bd1ca73a5949e/index.m3u8
-#EXTINF:-1, Dogs de Cholet - Chambéry
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44d9d2a1a468257fd66/index.m3u8
-#EXTINF:-1, Meudon - Wildcats Épinal
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd5e/index.m3u8
 #EXTINF:-1, Caen - Valenciennes
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c8e44d9d2a1a468257fd62/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Lyon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44d9d2a1a468257fd70/index.m3u8
 #EXTINF:-1, HCMP - Morzine-Avoriaz
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd68/index.m3u8
-#EXTINF:-1, HC Aosta - HC Falcons
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880ed8b89696da69144222d/index.m3u8
-#EXTINF:-1, Leuven Chiefs - HYC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb7c2635af8e5f18e81d07/index.m3u8
-#EXTINF:-1, Rouen 2 - Orléans
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c792ccb4c8ed39e347509e/index.m3u8
+#EXTINF:-1, Heerenveen - Hijs Hokij
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb7c2659b6f68b0e1df770/index.m3u8
 #EXTINF:-1, Annecy - Vaujany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44c9d2a1a468257fd4c/index.m3u8
 #EXTINF:-1, Clermont-FD - Valence
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44c9d2a1a468257fd50/index.m3u8
-#EXTINF:-1, Toulouse 2 - Toulon
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44d9d2a1a468257fd6e/index.m3u8
+#EXTINF:-1, Cadore - Gherdëina D1
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef930dd14875374b2150c8/index.m3u8
+#EXTINF:-1, Antwerp - Beaufort
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb833835af8e5f18e81d13/index.m3u8
+#EXTINF:-1, EVU Team 2 - Gepardit
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f1050c8e37c3b1dd14a/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Tours
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd76/index.m3u8
+#EXTINF:-1, Txuri Urdin - C.H. Jaca
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faaa81e58cdfe8ac5777fd/index.m3u8
+#EXTINF:-1, Andorra HG - Puigcerdà
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faae2640899867ab483795/index.m3u8
+#EXTINF:-1, Madrid - Milenio Panthers
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faaf80e58cdfe8ac577816/index.m3u8
 #EXTINF:-1, Franklin Pierce - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Clarkson - Rensselaer
@@ -45,22 +45,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Rochester IT - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8bc4f424-25ae-4152-bd84-407567308c9e-hls/master/8bc4f424-25ae-4152-bd84-407567308c9e-hls.m3u8
-#EXTINF:-1, Heerenveen - Hijs Hokij
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb7c2659b6f68b0e1df770/index.m3u8
-#EXTINF:-1, Cadore - Gherdëina D1
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef930dd14875374b2150c8/index.m3u8
-#EXTINF:-1, Antwerp - Beaufort
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb833835af8e5f18e81d13/index.m3u8
-#EXTINF:-1, EVU Team 2 - Gepardit
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f1050c8e37c3b1dd14a/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Tours
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd76/index.m3u8
-#EXTINF:-1, Txuri Urdin - C.H. Jaca
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faaa81e58cdfe8ac5777fd/index.m3u8
-#EXTINF:-1, Andorra HG - Puigcerdà
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faae2640899867ab483795/index.m3u8
-#EXTINF:-1, Madrid - Milenio Panthers
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faaf80e58cdfe8ac577816/index.m3u8
 #EXTINF:-1, CH Huarte - Puigcerdà
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faab33e58cdfe8ac577801/index.m3u8
 #EXTINF:-1, Valdemoro - Majadahonda
