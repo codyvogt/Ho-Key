@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Colorado - Boston Bruins
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d170cdbb-ce87-4904-85ed-13b0e9e9bf7d/master.m3u8
 #EXTINF:-1, Anaheim - Tampa Bay
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/19be9d0b-5e8d-449c-b7a6-feb9b38731d5/master.m3u8
 #EXTINF:-1, Vegas - Florida Panthers
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d92e2785-9e11-409a-ac0f-f15371220bac/master.m3u8
 #EXTINF:-1, Utah - Minnesota Wild
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5e8a0c7-4e92-4dd7-8e9b-d4c423ef698c/master.m3u8
-#EXTINF:-1, Andorra HG - Puigcerdà
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faae2640899867ab483795/index.m3u8
-#EXTINF:-1, Madrid - Milenio Panthers
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faaf80e58cdfe8ac577816/index.m3u8
 #EXTINF:-1, Boston U - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Long Island - Merrimack
@@ -39,3 +33,5 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ade09d55-fd0b-4958-92b7-303cd
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Massachusetts - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4b5ebf7d-7d50-4781-b701-9d974843d2b7-hls/master/4b5ebf7d-7d50-4781-b701-9d974843d2b7-hls.m3u8
+#EXTINF:-1, Madrid - Milenio Panthers
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faaf80e58cdfe8ac577816/index.m3u8
