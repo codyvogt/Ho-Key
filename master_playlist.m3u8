@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ak Bars Kazan - Admiral
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, NY Islanders - Philadelphia
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ee9aaf29-c1ae-4ab9-8e77-aa8c41375a44/master.m3u8
 #EXTINF:-1, HC Poruba - VHK Vsetín
@@ -106,7 +104,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1050c8e37c3b1dd1
 #EXTINF:-1, Rauma Tigers - Jyske
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd190/index.m3u8
 #EXTINF:-1, Pyry Team - Pingviinit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f10d14875374b215999/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f31f10d14875374b215999/index.m3u8
 #EXTINF:-1, Brunflo IK 2 - Järvsö IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4856dd14875374b216042/index.m3u8
 #EXTINF:-1, Huddinge Tigers - Boo HC
@@ -136,9 +134,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd1
 #EXTINF:-1, JälkiHiki-Hockey - VaPS
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd1ad/index.m3u8
 #EXTINF:-1, Kiekko-67 Turku - TarU
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f11d14875374b215a6e/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f11d14875374b215a6e/index.m3u8
 #EXTINF:-1, K-Espoo EKS - Hunters
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f10d14875374b215988/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f31f10d14875374b215988/index.m3u8
 #EXTINF:-1, Rimbo IF - Enköpings SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f479fdd14875374b215f9f/index.m3u8
 #EXTINF:-1, KTH IF - Nacka HK 2
@@ -168,7 +166,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4759ad14875374b215f
 #EXTINF:-1, Hammarby IF - Segeltorp
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f474b750c8e37c3b1dd64f/index.m3u8
 #EXTINF:-1, IFK Täby HC - Järfälla HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f482c950c8e37c3b1dd795/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f482c950c8e37c3b1dd795/index.m3u8
 #EXTINF:-1, Väsby IK HK - Östhammar
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f47d8250c8e37c3b1dd6a1/index.m3u8
 #EXTINF:-1, Kurra - EV Urheilijat
@@ -266,7 +264,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44c9d2a1a468257fd
 #EXTINF:-1, Châlons - Français Volants
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44c9d2a1a468257fd56/index.m3u8
 #EXTINF:-1, Hogly - Luxembourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd58/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44d9d2a1a468257fd58/index.m3u8
 #EXTINF:-1, Courbevoie - Brest
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44c9d2a1a468257fd54/index.m3u8
 #EXTINF:-1, Toulouse - Anglet 2
