@@ -1,46 +1,12 @@
 #EXTM3U
-#EXTINF:-1, NY Islanders - Philadelphia
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ee9aaf29-c1ae-4ab9-8e77-aa8c41375a44/master.m3u8
 #EXTINF:-1, Colorado - Boston Bruins
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d170cdbb-ce87-4904-85ed-13b0e9e9bf7d/master.m3u8
-#EXTINF:-1, Pinerolo - Valpellice D1
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef930b50c8e37c3b1dc885/index.m3u8
-#EXTINF:-1, Vinschgau Eisfix - Trento
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef930c50c8e37c3b1dc887/index.m3u8
-#EXTINF:-1, Cadore - Gherdëina D1
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef930dd14875374b2150c8/index.m3u8
-#EXTINF:-1, HKB - Sportországi Cápák
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9d9d6e14bd1ca73a59494/index.m3u8
+#EXTINF:-1, Kalevan Pallo - RoKi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd22d/index.m3u8
 #EXTINF:-1, Worm Angels - Vasas SC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9d9d6e14bd1ca73a59492/index.m3u8
 #EXTINF:-1, FTC II - Egerszegi Titánok
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9d9d6e14bd1ca73a5949e/index.m3u8
-#EXTINF:-1, Kalevan Pallo - RoKi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd22d/index.m3u8
-#EXTINF:-1, Montpellier - Bordeaux
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c8e44d9d2a1a468257fd7a/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Tours
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd76/index.m3u8
-#EXTINF:-1, HC Grizzlyz - HC Wolferines
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea9c4e527d01e14c579fcc/index.m3u8
-#EXTINF:-1, Boston C - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Franklin Pierce - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Clarkson - Rensselaer
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Cornell - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Colgate - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Princeton - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Rochester IT - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8bc4f424-25ae-4152-bd84-407567308c9e-hls/master/8bc4f424-25ae-4152-bd84-407567308c9e-hls.m3u8
 #EXTINF:-1, Dunkerque - Tours
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c8e44d9d2a1a468257fd6c/index.m3u8
 #EXTINF:-1, Mont-Blanc - Nantes
@@ -85,16 +51,36 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44d9d2a1a468257fd
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f1150c8e37c3b1dd201/index.m3u8
 #EXTINF:-1, Leuven Chiefs - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb7c2635af8e5f18e81d07/index.m3u8
+#EXTINF:-1, Franklin Pierce - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Clarkson - Rensselaer
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Cornell - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Colgate - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Princeton - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Rochester IT - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8bc4f424-25ae-4152-bd84-407567308c9e-hls/master/8bc4f424-25ae-4152-bd84-407567308c9e-hls.m3u8
 #EXTINF:-1, Heerenveen - Hijs Hokij
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb7c2659b6f68b0e1df770/index.m3u8
+#EXTINF:-1, Cadore - Gherdëina D1
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef930dd14875374b2150c8/index.m3u8
 #EXTINF:-1, Antwerp - Beaufort
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb833835af8e5f18e81d13/index.m3u8
 #EXTINF:-1, EVU Team 2 - Gepardit
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f1050c8e37c3b1dd14a/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Tours
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd76/index.m3u8
 #EXTINF:-1, Txuri Urdin - C.H. Jaca
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faaa81e58cdfe8ac5777fd/index.m3u8
 #EXTINF:-1, Andorra HG - Puigcerdà
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68faae2640899867ab483795/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faae2640899867ab483795/index.m3u8
 #EXTINF:-1, Madrid - Milenio Panthers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68faaf80e58cdfe8ac577816/index.m3u8
 #EXTINF:-1, CH Huarte - Puigcerdà
