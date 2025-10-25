@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, Sibir Novosibirsk - Traktor
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Neftekhimik - Sal. Yulaev
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Ak Bars Kazan - Admiral
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Torpedo U-K - Munaishy
 https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, Val. Meziříčí B - Valkyries
@@ -32,13 +38,13 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256ed14875374b2165
 #EXTINF:-1, Mountfield HK - Zlín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d1113f7ac7f2bb082660b0/index.m3u8
 #EXTINF:-1, DEAC JA - Győr ETO HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9d9d6e14bd1ca73a59490/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e9d9d6e14bd1ca73a59490/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Halmstad
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f482c9d14875374b21602e/index.m3u8
 #EXTINF:-1, Borlänge HF - Malungs IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f47ca150c8e37c3b1dd68c/index.m3u8
 #EXTINF:-1, SK Lejon - Jokkmokks HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4856d50c8e37c3b1dd7be/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f4856d50c8e37c3b1dd7be/index.m3u8
 #EXTINF:-1, Värmdö HC - Mariehamn
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4880fd14875374b21605e/index.m3u8
 #EXTINF:-1, Ronneby IK - Trelleborgs IF
