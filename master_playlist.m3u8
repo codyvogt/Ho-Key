@@ -3,38 +3,16 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d170cdbb-ce87-4904-85ed-13b0e9e9bf7d/master.m3u8
 #EXTINF:-1, Anaheim - Tampa Bay
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/19be9d0b-5e8d-449c-b7a6-feb9b38731d5/master.m3u8
-#EXTINF:-1, Caen - Valenciennes
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c8e44d9d2a1a468257fd62/index.m3u8
-#EXTINF:-1, Villard-de-Lans - Lyon
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44d9d2a1a468257fd70/index.m3u8
-#EXTINF:-1, HCMP - Morzine-Avoriaz
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c8e44d9d2a1a468257fd68/index.m3u8
-#EXTINF:-1, Heerenveen - Hijs Hokij
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb7c2659b6f68b0e1df770/index.m3u8
-#EXTINF:-1, Txuri Urdin - C.H. Jaca
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faaa81e58cdfe8ac5777fd/index.m3u8
-#EXTINF:-1, Andorra HG - Puigcerdà
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faae2640899867ab483795/index.m3u8
-#EXTINF:-1, Madrid - Milenio Panthers
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faaf80e58cdfe8ac577816/index.m3u8
-#EXTINF:-1, Franklin Pierce - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Clarkson - Rensselaer
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Cornell - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Colgate - Harvard
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
 #EXTINF:-1, Princeton - Yale
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Rochester IT - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8bc4f424-25ae-4152-bd84-407567308c9e-hls/master/8bc4f424-25ae-4152-bd84-407567308c9e-hls.m3u8
-#EXTINF:-1, CH Huarte - Puigcerdà
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faab33e58cdfe8ac577801/index.m3u8
+#EXTINF:-1, Andorra HG - Puigcerdà
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68faae2640899867ab483795/index.m3u8
+#EXTINF:-1, Madrid - Milenio Panthers
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68faaf80e58cdfe8ac577816/index.m3u8
 #EXTINF:-1, Valdemoro - Majadahonda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68faac2de58cdfe8ac57780d/index.m3u8
 #EXTINF:-1, Boston U - Connecticut
