@@ -5,12 +5,6 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Ak Bars Kazan - Admiral
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, HPK Icedogs - 25ers
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f31f1150c8e37c3b1dd18e/index.m3u8
-#EXTINF:-1, Veturit - Kajaanin Hokki
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd1a8/index.m3u8
-#EXTINF:-1, Rockets Loimaa - ParSport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd196/index.m3u8
 #EXTINF:-1, Porin Ässät - JYP
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f31f1150c8e37c3b1dd220/index.m3u8
 #EXTINF:-1, KalPa - Tampereen Ilves
@@ -26,7 +20,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede80d50c8e37c3b1dc3
 #EXTINF:-1, HC Tábor B - Strakonice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2668db4c8ed39e3473dcc/index.m3u8
 #EXTINF:-1, Uherské Hradiště - Znojmo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d62d0dc957a27a013164cd/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d62d0dc957a27a013164cd/index.m3u8
 #EXTINF:-1, HC Poruba - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256ed14875374b21656d/index.m3u8
 #EXTINF:-1, Mountfield HK - Zlín
@@ -63,6 +57,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f4856d50c8e37c3b1dd7
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f4880fd14875374b21605e/index.m3u8
 #EXTINF:-1, Ronneby IK - Trelleborgs IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4848b50c8e37c3b1dd7b7/index.m3u8
+#EXTINF:-1, Veturit - Kajaanin Hokki
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd1a8/index.m3u8
+#EXTINF:-1, Rockets Loimaa - ParSport
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd196/index.m3u8
 #EXTINF:-1, Mörrum - Frosta/Åstorp
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4775bd14875374b215f85/index.m3u8
 #EXTINF:-1, Trelleborgs IF - KRIF
