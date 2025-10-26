@@ -7,12 +7,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21e8d50c8e37c3b1dce
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21ee4d14875374b21570a.m3u8
 #EXTINF:-1, Colorado - New Jersey
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0eb66662-a90b-4eda-84c6-b435af9f679f/master.m3u8
-#EXTINF:-1, HC Örnen - Kungsörs IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f5d8aed14875374b21644e/index.m3u8
-#EXTINF:-1, Varberg HK - Partille HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f5d36850c8e37c3b1dda23/index.m3u8
-#EXTINF:-1, Härryda HC - Skärgården
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f5dc3150c8e37c3b1dda99/index.m3u8
 #EXTINF:-1, HC Sokolov - Berani Zlín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efa10a50c8e37c3b1dc8c1.m3u8
 #EXTINF:-1, HIFK - Mikkelin Jukurit
@@ -49,12 +43,16 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ee0437d14875374b214b
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1e8f250c8e37c3b1dce0c/index.m3u8
 #EXTINF:-1, Zoldo - HC Real Torino
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f1e8f650c8e37c3b1dce16/index.m3u8
+#EXTINF:-1, Varberg HK - Partille HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f5d36850c8e37c3b1dda23/index.m3u8
+#EXTINF:-1, Härryda HC - Skärgården
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f5dc3150c8e37c3b1dda99/index.m3u8
 #EXTINF:-1, HC Turnov - BK Nová Paka
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68cba118a4ceb125359fce9f/index.m3u8
 #EXTINF:-1, Morav. Třebová - Choceň
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be72175addedaac41c3b5e/index.m3u8
 #EXTINF:-1, Kralupy n. Vlt. - Roudnice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8a20fe14bd1ca73a59162/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e8a20fe14bd1ca73a59162/index.m3u8
 #EXTINF:-1, Aigles de Nice - Grenoble
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c7e8adff45f9df29301/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Anglet
