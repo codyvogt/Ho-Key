@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Edmonton - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4135def5-268b-4e7e-a85d-f5c1796cd135/master.m3u8
+#EXTINF:-1, Torpedo U-K - Munaishy
+https://cdn.inhockey.tv/live/local2/index.m3u8
+#EXTINF:-1, Barys Astana - Gornyak
+https://cdn.inhockey.tv/live/local3/index.m3u8
+#EXTINF:-1, Aisulu - Aisulu Tandauly
+https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - KooKoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f47092d14875374b215ed7/index.m3u8
 #EXTINF:-1, RoKi - Vaasan Sport
@@ -16,7 +20,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dce0b52de202e1780054
 #EXTINF:-1, KalPa Akatemia - Virkiä
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4709150c8e37c3b1dd51b/index.m3u8
 #EXTINF:-1, Laima - Kurbads/Lauvas
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e15a98c62be9451d65ef33/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e15a98c62be9451d65ef33/index.m3u8
 #EXTINF:-1, HK Tukums - Sostine LRA
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e15a04f2d47676600df7e8/index.m3u8
 #EXTINF:-1, Technika Brno - Warriors
