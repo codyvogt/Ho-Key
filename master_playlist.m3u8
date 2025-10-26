@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Vegas - Florida Panthers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d92e2785-9e11-409a-ac0f-f15371220bac/master.m3u8
-#EXTINF:-1, Utah - Minnesota Wild
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5e8a0c7-4e92-4dd7-8e9b-d4c423ef698c/master.m3u8
 #EXTINF:-1, Columbus - Pittsburgh
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5a6dceeb-b573-4f8e-8705-213e011e12d9/master.m3u8
 #EXTINF:-1, Ottawa - Washington
@@ -11,12 +7,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ecac08
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/325aab9a-9477-482c-8ae1-a11d8caaa061/master.m3u8
 #EXTINF:-1, Carolina - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6fc34d04-3831-4bc5-a2eb-316c65cf91b5/master.m3u8
-#EXTINF:-1, Long Island - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, BGSU - Lake Superior
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lakesuperiorhockey/playlist.m3u8
-#EXTINF:-1, FSU - Michigan Tech
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, MSU - Northern Michigan
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
 #EXTINF:-1, North Dakota - Clarkson
@@ -33,7 +23,5 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, UAA - St. Cloud State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ade09d55-fd0b-4958-92b7-303cdbe36fd4-hls/master/ade09d55-fd0b-4958-92b7-303cdbe36fd4-hls.m3u8
-#EXTINF:-1, RPI - Minnesota State
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Massachusetts - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4b5ebf7d-7d50-4781-b701-9d974843d2b7-hls/master/4b5ebf7d-7d50-4781-b701-9d974843d2b7-hls.m3u8
