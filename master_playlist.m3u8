@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Kiekko-Espoo - KooKoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f47092d14875374b215ed7/index.m3u8
-#EXTINF:-1, RoKi - Vaasan Sport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f47092d14875374b215e94/index.m3u8
-#EXTINF:-1, SaiPa - Lahden Pelicans
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4709250c8e37c3b1dd589/index.m3u8
-#EXTINF:-1, Bats Blansko - Břeclav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d55a256f7f10ac01b3c98b/index.m3u8
-#EXTINF:-1, Kobra Praha B - Liberec
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c928469d2a1a468257fe9d/index.m3u8
-#EXTINF:-1, HC Děčín - Kobra Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da4bc58ebee495bafd5de1/index.m3u8
 #EXTINF:-1, Uherský Brod - Orli Znojmo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d63b1dc957a27a01316578/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - SK Kadaň
@@ -79,6 +67,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eb2b5559b6f68b0e1df3
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68eb2b5559b6f68b0e1df3d9/index.m3u8
 #EXTINF:-1, HS Falcons - HK Prizma
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f20ecdd14875374b2156da/index.m3u8
+#EXTINF:-1, RoKi - Vaasan Sport
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f47092d14875374b215e94/index.m3u8
+#EXTINF:-1, SaiPa - Lahden Pelicans
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4709250c8e37c3b1dd589/index.m3u8
+#EXTINF:-1, Kobra Praha B - Liberec
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c928469d2a1a468257fe9d/index.m3u8
+#EXTINF:-1, HC Děčín - Kobra Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da4bc58ebee495bafd5de1/index.m3u8
 #EXTINF:-1, Rīgas HS - HC Panter
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68edf083d14875374b214ba0/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - Kärpät
