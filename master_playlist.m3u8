@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Kralupy n. Vlt. - Roudnice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e8a20fe14bd1ca73a59162/index.m3u8
-#EXTINF:-1, Limburg - Heerenveen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eccda546f46bc3250e64a8/index.m3u8
+#EXTINF:-1, Vegas - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/79cfab2c-9448-43ef-9da8-d18c4c6c90a0/master.m3u8
+#EXTINF:-1, Eppan - Valdifiemme HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed891d615b78791f461c/index.m3u8
 #EXTINF:-1, HYC - EHC Neuwied
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68eccda6c82f2f3b20a9792b/index.m3u8
-#EXTINF:-1, Duells PHK - Herrings HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f5da6fd14875374b216471/index.m3u8
 #EXTINF:-1, Åby HC - Bokasport SK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f5cc5e50c8e37c3b1dd95b/index.m3u8
 #EXTINF:-1, Munkedals BK - IK Raid
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f5c8dbd14875374b2162a5/index.m3u8
-#EXTINF:-1, Eppan - Valdifiemme HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed891d615b78791f461c/index.m3u8
 #EXTINF:-1, Leuven White - Liège II
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ecd4b7c82f2f3b20a97942/index.m3u8
 #EXTINF:-1, Briançon - Bordeaux
