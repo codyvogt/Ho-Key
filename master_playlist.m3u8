@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1, SK Lejon - Piteå HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f7286ce58cdfe8ac576ec0/index.m3u8
-#EXTINF:-1, Sollentuna HC - Nacka HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f7224640899867ab482f71/index.m3u8
-#EXTINF:-1, Tyresö Hanviken - Göta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f72b11e58cdfe8ac576ec8/index.m3u8
-#EXTINF:-1, Enköpings SK - Nyköping
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f71ebf40899867ab482f5d/index.m3u8
-#EXTINF:-1, Vallentuna - Flemingsberg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f7208240899867ab482f61/index.m3u8
-#EXTINF:-1, Nor IK - Kristinehamn
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f71dde40899867ab482f57/index.m3u8
-#EXTINF:-1, KoPo - EVU Team 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f5c20fd14875374b216247/index.m3u8
+#EXTINF:-1, St. Louis - Pittsburgh
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/32604700-e810-4944-a758-e4268f8ed115/master.m3u8
+#EXTINF:-1, Boston - Ottawa Senators
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2d4a24dc-8fcf-4ded-b276-e4bb2102063b/master.m3u8
