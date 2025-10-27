@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Avangard - Metallurg Mg
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1, Ak Bars Kazan - Admiral
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Rubin Tyumen - Khimik
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Buran - Yuzhny Ural Orsk
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
+#EXTINF:-1, Ak Bars Kazan - Admiral
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
