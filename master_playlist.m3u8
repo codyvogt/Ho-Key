@@ -1,28 +1,14 @@
 #EXTM3U
 #EXTINF:-1, HC Ambri-Piotta - Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Aalborg Pirates - Herning
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e64db5e14bd1ca73a58c27.m3u8
-#EXTINF:-1, Esbjerg Energy - Herlev
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e64df9e14bd1ca73a58c29.m3u8
 #EXTINF:-1, Rødovre - Odense Bulldogs
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e64e2ac62be9451d65fa91.m3u8
-#EXTINF:-1, Bodens HF - Kalix HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f87203e58cdfe8ac577175/index.m3u8
-#EXTINF:-1, Grums IK - Borlänge HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87203e58cdfe8ac577172/index.m3u8
-#EXTINF:-1, Orsa IK - Valbo HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f872e5e58cdfe8ac577180/index.m3u8
-#EXTINF:-1, Hudiksvalls HC - Strömsbro
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f872e5e58cdfe8ac577181/index.m3u8
-#EXTINF:-1, BIK Karlskoga - Malungs IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87acde58cdfe8ac5771a4/index.m3u8
-#EXTINF:-1, Tingsryd - Troja-Ljungby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87e5040899867ab48322c/index.m3u8
-#EXTINF:-1, Helsingborg HC - Hanhal
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f86afa40899867ab4831e7/index.m3u8
-#EXTINF:-1, Halmstad - Oskarshamn
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f872e5e58cdfe8ac57717e/index.m3u8
+#EXTINF:-1, Dunkerque - Nantes
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ccd8cca4ceb125359fd347/index.m3u8
+#EXTINF:-1, Neuilly-sur-Marne - Cholet
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ce2a4ba4ceb125359fd6c6/index.m3u8
+#EXTINF:-1, Wildcats Épinal - HCMP
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ccd8cca4ceb125359fd349/index.m3u8
 #EXTINF:-1, Sunderby SK - Clemensnäs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8782ce58cdfe8ac5771a0/index.m3u8
 #EXTINF:-1, Jonstorps IF - Karlskrona
@@ -31,38 +17,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f872e5e58cdfe8ac5771
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87d6f40899867ab483225/index.m3u8
 #EXTINF:-1, Bäcken HC - Kungälvs IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87e5040899867ab48322b/index.m3u8
-#EXTINF:-1, IFK Tumba IK - Segeltorp
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f87203e58cdfe8ac577174/index.m3u8
 #EXTINF:-1, Mälarö HF - Hammarby IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef315bd14875374b214f2b/index.m3u8
 #EXTINF:-1, Bålsta HC - Värmdö HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f872e5e58cdfe8ac57717c/index.m3u8
 #EXTINF:-1, Lögdeå Nordmaling - Teg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f879eb40899867ab48321f/index.m3u8
-#EXTINF:-1, Ulricehamns IF - Tibro IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9e99ae14bd1ca73a59596/index.m3u8
 #EXTINF:-1, IFK Österåker - Kista HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0b7e5c62be9451d65ee5b/index.m3u8
 #EXTINF:-1, Charlottenbergs HC - Säffle
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f872e5e58cdfe8ac57717a/index.m3u8
 #EXTINF:-1, Skutskärs SK - Hedesunda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8801240899867ab48323b/index.m3u8
-#EXTINF:-1, Skövde HC - Grästorps IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8774a40899867ab483216/index.m3u8
-#EXTINF:-1, Mighty Ravens HC - Mjölby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87f3140899867ab483236/index.m3u8
-#EXTINF:-1, Alvesta SK - Tingsryd Utv.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87c8e40899867ab483223/index.m3u8
-#EXTINF:-1, KRIF Hockey - Tyringe
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8790b40899867ab48321d/index.m3u8
-#EXTINF:-1, Tranås AIF - HC Dalen
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f87f3140899867ab483235/index.m3u8
-#EXTINF:-1, Gislaveds SK - Värnamo
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f8703fe58cdfe8ac577170/index.m3u8
-#EXTINF:-1, Boro/Vetlanda HC - Kalmar
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8685640899867ab4831e2/index.m3u8
-#EXTINF:-1, Lund Giants HC - IF Lejonet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f87acde58cdfe8ac5771a6/index.m3u8
 #EXTINF:-1, Kållered SK - Järnbrotts HK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f8782c40899867ab483219/index.m3u8
 #EXTINF:-1, Kristianstads IK - Mörrum
@@ -73,16 +39,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f8685640899867ab4831
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f8758640899867ab48320f/index.m3u8
 #EXTINF:-1, Lerums BK - Hovås HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f8693840899867ab4831e5/index.m3u8
-#EXTINF:-1, Karlovy Vary B - Litoměřice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c7f2dd9d2a1a468257fb9e/index.m3u8
-#EXTINF:-1, Kurra HT - KelA
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f7138f40899867ab482f35/index.m3u8
-#EXTINF:-1, Dunkerque - Nantes
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ccd8cca4ceb125359fd347/index.m3u8
-#EXTINF:-1, Neuilly-sur-Marne - Cholet
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ce2a4ba4ceb125359fd6c6/index.m3u8
-#EXTINF:-1, Wildcats Épinal - HCMP
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ccd8cca4ceb125359fd349/index.m3u8
 #EXTINF:-1, Dragons de Rouen - Anglet
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c7d8adff45f9df292ef/index.m3u8
 #EXTINF:-1, Chamonix - Marseille
@@ -103,3 +59,5 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f7138f40899867ab482f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce440fa4ceb125359fd90c/index.m3u8
 #EXTINF:-1, Chalmers - Slottsskogen
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f87d6f40899867ab483227/index.m3u8
+#EXTINF:-1, Syracuse - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
