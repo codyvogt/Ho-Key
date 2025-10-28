@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Karlovy Vary - Ml. Boleslav
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f21f8350c8e37c3b1dcef4.m3u8
 #EXTINF:-1, Rytíři Kladno - Liberec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21fb850c8e37c3b1dcef6.m3u8
 #EXTINF:-1, Dynamo Pardubice - Plzeň
@@ -19,8 +17,6 @@ https://streaming.televizor-24-tochka.ru/live/6.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, HC Ambri-Piotta - Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, HC Dukla Jihlava - Třebíč
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa23950c8e37c3b1dc8cd.m3u8
 #EXTINF:-1, Frýdek-Místek - HC Poruba
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efa27350c8e37c3b1dc8d1.m3u8
 #EXTINF:-1, VHK Vsetín - ZUBR Přerov
@@ -76,7 +72,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8790a40899867ab4832
 #EXTINF:-1, Aalborg Pirates - Herning
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e64db5e14bd1ca73a58c27.m3u8
 #EXTINF:-1, Esbjerg Energy - Herlev
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e64df9e14bd1ca73a58c29.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e64df9e14bd1ca73a58c29.m3u8
 #EXTINF:-1, Rødovre - Odense Bulldogs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e64e2ac62be9451d65fa91.m3u8
 #EXTINF:-1, Bodens HF - Kalix HC
