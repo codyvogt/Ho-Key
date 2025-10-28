@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Hronov - HC Náchod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68a2dead6824107e9b165b64/index.m3u8
-#EXTINF:-1, HC Trutnov - HC Opočno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d4db8f6f7f10ac01b3c7eb/index.m3u8
-#EXTINF:-1, Nový Bydžov - Nové Město
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f979d2a1a46825800f7/index.m3u8
-#EXTINF:-1, Karlovy Vary B - Litoměřice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7f2dd9d2a1a468257fb9e/index.m3u8
-#EXTINF:-1, Berani Zlín - Škoda Plzeň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3981e6f7f10ac01b3c4dd/index.m3u8
-#EXTINF:-1, Baník Příbram - Pardubice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e38645c62be9451d65f566/index.m3u8
-#EXTINF:-1, Roudnice n. L. - Kladno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b948355addedaac41c2f28/index.m3u8
-#EXTINF:-1, Kadaň - Valašské Meziříčí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfd1a85addedaac41c3f65/index.m3u8
 #EXTINF:-1, Traktor - Avtomobilist
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Severstal - Amur
@@ -25,6 +9,28 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1, Lokomotiv Yaroslavl - Lada
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, HC Litvínov - HC Olomouc
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21f41d14875374b21570e.m3u8
+#EXTINF:-1, Karlovy Vary - Ml. Boleslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21f8350c8e37c3b1dcef4.m3u8
+#EXTINF:-1, Rytíři Kladno - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21fb850c8e37c3b1dcef6.m3u8
+#EXTINF:-1, Dynamo Pardubice - Plzeň
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2201bd14875374b215716.m3u8
+#EXTINF:-1, Kometa Brno - Mountfield
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21feb50c8e37c3b1dcefa.m3u8
+#EXTINF:-1, Třinec - České Budějovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2204fd14875374b21571c.m3u8
+#EXTINF:-1, Berani Zlín - Škoda Plzeň
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3981e6f7f10ac01b3c4dd/index.m3u8
+#EXTINF:-1, Baník Příbram - Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e38645c62be9451d65f566/index.m3u8
+#EXTINF:-1, Roudnice n. L. - Kladno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b948355addedaac41c2f28/index.m3u8
+#EXTINF:-1, Kadaň - Valašské Meziříčí
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfd1a85addedaac41c3f65/index.m3u8
+#EXTINF:-1, Torpedo U-K - Saryarqa
+https://cdn.inhockey.tv/live/local2/index.m3u8
 #EXTINF:-1, Slavia Praha - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa14350c8e37c3b1dc8c3.m3u8
 #EXTINF:-1, SC Kolín - Piráti Chomutov
@@ -37,3 +43,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa27350c8e37c3b1dc8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa2d750c8e37c3b1dc8d9.m3u8
 #EXTINF:-1, Pardubice B - HC Tábor
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa2a950c8e37c3b1dc8d5.m3u8
+#EXTINF:-1, HC Trutnov - HC Opočno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d4db8f6f7f10ac01b3c7eb/index.m3u8
+#EXTINF:-1, Nový Bydžov - Nové Město
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca4f979d2a1a46825800f7/index.m3u8
+#EXTINF:-1, Karlovy Vary B - Litoměřice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7f2dd9d2a1a468257fb9e/index.m3u8
