@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Ambri-Piotta - Lugano
-https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Dragons de Rouen - Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c7d8adff45f9df292ef/index.m3u8
-#EXTINF:-1, Chamonix - Marseille
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b56c7e8adff45f9df292fb/index.m3u8
 #EXTINF:-1, Amiens - Rapaces de Gap
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c7da8b7780705525d61/index.m3u8
 #EXTINF:-1, Grenoble - Briançon
@@ -13,19 +7,43 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c7e8adff45f9df292
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b56c7e8adff45f9df292f9/index.m3u8
 #EXTINF:-1, Bordeaux - Aigles de Nice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b56c7e8adff45f9df292f7/index.m3u8
-#EXTINF:-1, Neuilly-sur-Marne - Cholet
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ce2a4ba4ceb125359fd6c6/index.m3u8
 #EXTINF:-1, Wildcats Épinal - HCMP
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ccd8cca4ceb125359fd349/index.m3u8
-#EXTINF:-1, EVU Team - PUS
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f31f10d14875374b21597b/index.m3u8
-#EXTINF:-1, K-Kissat - HCK Salamat
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f7138f40899867ab482f34/index.m3u8
-#EXTINF:-1, Radomyšl - Český Krumlov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce440fa4ceb125359fd90c/index.m3u8
 #EXTINF:-1, Lerums BK - Hovås HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f8693840899867ab4831e5/index.m3u8
 #EXTINF:-1, Chalmers - Slottsskogen
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f87d6f40899867ab483227/index.m3u8
+#EXTINF:-1, Pittsburgh - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2461c431-5ea5-4b32-9c60-9901986a0a01/master.m3u8
+#EXTINF:-1, Calgary Flames - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/48390e98-e82b-42d4-aaec-09d3ee53e9a6/master.m3u8
+#EXTINF:-1, Vegas - Carolina Hurricanes
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b8fe8614-c756-4196-97c9-021f9f0560c2/master.m3u8
+#EXTINF:-1, Columbus - Buffalo Sabres
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/600cd55b-e4e1-468b-985d-9e5426882ad8/master.m3u8
+#EXTINF:-1, Anaheim - Florida Panthers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/27151051-5b8e-45ed-9e24-d87d4f52e230/master.m3u8
+#EXTINF:-1, NY Islanders - Boston
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e501d44f-5fe7-47fe-ba2d-0b49ea575e6f/master.m3u8
+#EXTINF:-1, Tampa Bay - Nashville
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ef45eb07-0338-4dd7-bf2a-8beec2cd53a9/master.m3u8
+#EXTINF:-1, Winnipeg Jets - Minnesota
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d3f368a9-5db5-4bb4-8fe1-77e9b33147e0/master.m3u8
+#EXTINF:-1, Detroit - St. Louis Blues
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9bef58a5-d6ec-4044-b811-9b78ff3f4c53/master.m3u8
+#EXTINF:-1, Washington - Dallas Stars
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5a87e67a-076d-40ab-ae8a-9c6a918e2d42/master.m3u8
+#EXTINF:-1, Ottawa Senators - Chicago
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b73778c-d27c-41ec-b164-27c4697f834d/master.m3u8
+#EXTINF:-1, New Jersey - Colorado
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c3745fb7-a3d4-4df6-aa55-b256bbd875a9/master.m3u8
+#EXTINF:-1, Utah - Edmonton Oilers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/877863d3-5c16-4804-8f93-86e504928071/master.m3u8
+#EXTINF:-1, NY Rangers - Vancouver
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b771ee1c-97c7-4bd9-99db-6e679668254b/master.m3u8
+#EXTINF:-1, Montréal - Seattle Kraken
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b495035-7f74-4801-80d1-6cbc3ab52b4f/master.m3u8
+#EXTINF:-1, Los Angeles - San Jose
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7833124-3c5b-46c0-a710-d031e925190c/master.m3u8
 #EXTINF:-1, Syracuse - Cornell
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
