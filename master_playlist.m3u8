@@ -16,19 +16,11 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f21f8350c8e37c3b1dce
 #EXTINF:-1, Rytíři Kladno - Liberec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21fb850c8e37c3b1dcef6.m3u8
 #EXTINF:-1, Dynamo Pardubice - Plzeň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2201bd14875374b215716.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f2201bd14875374b215716.m3u8
 #EXTINF:-1, Kometa Brno - Mountfield
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f21feb50c8e37c3b1dcefa.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f21feb50c8e37c3b1dcefa.m3u8
 #EXTINF:-1, Třinec - České Budějovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2204fd14875374b21571c.m3u8
-#EXTINF:-1, Torpedo U-K - Saryarqa
-https://cdn.inhockey.tv/live/local2/index.m3u8
-#EXTINF:-1, Beibarys Atyrau - Aqtóbe
-https://cdn.inhockey.tv/live/local3/index.m3u8
-#EXTINF:-1, Gornyak Rudny - Arlan
-https://cdn.inhockey.tv/live/local1/index.m3u8
-#EXTINF:-1, Almaty - Nomad Astana
-https://cdn.inhockey.tv/live/local4/index.m3u8
 #EXTINF:-1, Slavia Praha - Litoměřice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efa14350c8e37c3b1dc8c3.m3u8
 #EXTINF:-1, SC Kolín - Piráti Chomutov
@@ -36,11 +28,17 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efa1d750c8e37c3b1dc8
 #EXTINF:-1, HC Dukla Jihlava - Třebíč
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa23950c8e37c3b1dc8cd.m3u8
 #EXTINF:-1, Frýdek-Místek - HC Poruba
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa27350c8e37c3b1dc8d1.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efa27350c8e37c3b1dc8d1.m3u8
 #EXTINF:-1, VHK Vsetín - ZUBR Přerov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa2d750c8e37c3b1dc8d9.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efa2d750c8e37c3b1dc8d9.m3u8
 #EXTINF:-1, Pardubice B - HC Tábor
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efa2a950c8e37c3b1dc8d5.m3u8
+#EXTINF:-1, Beibarys Atyrau - Aqtóbe
+https://cdn.inhockey.tv/live/local3/index.m3u8
+#EXTINF:-1, Gornyak Rudny - Arlan
+https://cdn.inhockey.tv/live/local1/index.m3u8
+#EXTINF:-1, Almaty - Nomad Astana
+https://cdn.inhockey.tv/live/local4/index.m3u8
 #EXTINF:-1, Roudnice n. L. - Kladno
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b948355addedaac41c2f28/index.m3u8
 #EXTINF:-1, Kadaň - Valašské Meziříčí
@@ -52,7 +50,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ca4f979d2a1a46825800
 #EXTINF:-1, Karlovy Vary B - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7f2dd9d2a1a468257fb9e/index.m3u8
 #EXTINF:-1, Chotěboř - Náměšť n. Osl.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b820e65addedaac41c2d9a/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b820e65addedaac41c2d9a/index.m3u8
 #EXTINF:-1, SK Telč - HC Velká Bíteš
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b98e7dc238c71a081b6e14/index.m3u8
 #EXTINF:-1, SK Prostějov - Boskovice
