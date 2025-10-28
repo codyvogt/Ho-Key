@@ -1,20 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Spartak Moscow - CSKA
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1, Lokomotiv Yaroslavl - Lada
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, HC Ambri-Piotta - Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, VHK Vsetín - ZUBR Přerov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efa2d750c8e37c3b1dc8d9.m3u8
-#EXTINF:-1, Vlašim - Mladá Boleslav B
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c55df6173d2b692cc1f214/index.m3u8
-#EXTINF:-1, Benátky n. J. B - Žabonosy
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68eca4a3e14bd1ca73a59df5/index.m3u8
-#EXTINF:-1, HC Poděbrady - Kutná Hora
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d27ee46f7f10ac01b3c271/index.m3u8
-#EXTINF:-1, Radomyšl - Český Krumlov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce440fa4ceb125359fd90c/index.m3u8
 #EXTINF:-1, HK Prizma - HC Panter
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68edf0b650c8e37c3b1dc3c7/index.m3u8
 #EXTINF:-1, Újpesti JA - MAC Budapest
@@ -23,6 +11,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68edce5450c8e37c3b1dc2
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68edce5450c8e37c3b1dc2ce/index.m3u8
 #EXTINF:-1, Fehérvár HA19 - DEAC JA
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68edce5450c8e37c3b1dc2cc/index.m3u8
+#EXTINF:-1, HC Poděbrady - Kutná Hora
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d27ee46f7f10ac01b3c271/index.m3u8
+#EXTINF:-1, Radomyšl - Český Krumlov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce440fa4ceb125359fd90c/index.m3u8
 #EXTINF:-1, Hille/Åbyggeby - Hofors
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f86f5fe58cdfe8ac57716e/index.m3u8
 #EXTINF:-1, Ulricehamns IF - Tibro IK
@@ -33,8 +25,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e0b7e5c62be9451d65ee
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f872e5e58cdfe8ac57717a/index.m3u8
 #EXTINF:-1, Skutskärs SK - Hedesunda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8801240899867ab48323b/index.m3u8
-#EXTINF:-1, Bollnäs IS - Lindefallets SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8790a40899867ab48321b/index.m3u8
 #EXTINF:-1, Aalborg Pirates - Herning
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e64db5e14bd1ca73a58c27.m3u8
 #EXTINF:-1, Esbjerg Energy - Herlev
