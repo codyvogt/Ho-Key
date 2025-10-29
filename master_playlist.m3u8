@@ -4,17 +4,11 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, SKA St Petersburg - Sibir
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Vítkovice - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2208ad14875374b215721.m3u8
-#EXTINF:-1, Rubin - Torpedo-Gorky
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1, Buran Voronezh - Magnitka
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
-#EXTINF:-1, Jas Batyr Atyrau - Qulager
-https://cdn.inhockey.tv/live/local3/index.m3u8
-#EXTINF:-1, Sunqar - Arlan Kókshetaý
-https://cdn.inhockey.tv/live/local2/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f2208ad14875374b215721.m3u8
 #EXTINF:-1, Almaty - Nomad Astana
 https://cdn.inhockey.tv/live/local6/index.m3u8
+#EXTINF:-1, Buran Voronezh - Magnitka
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, ZUBR Přerov - HC Poruba
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efa46050c8e37c3b1dc8e5.m3u8
 #EXTINF:-1, Dukla Jihlava - Litoměřice
