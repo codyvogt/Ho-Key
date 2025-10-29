@@ -1,24 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Slavia - Frýdek-Místek
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68efa4cad14875374b215135.m3u8
-#EXTINF:-1, HC Tábor - SC Kolín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efa54150c8e37c3b1dc8ef.m3u8
 #EXTINF:-1, Kometa Brno - Pardubice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcfccd2de202e17800556a/index.m3u8
-#EXTINF:-1, HK Opava - Uherský Brod
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4ad95c62be9451d65f709/index.m3u8
-#EXTINF:-1, Technika Brno - Havířov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68cbe7651c55dbe115574d68/index.m3u8
-#EXTINF:-1, Polička - Česká Třebová
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecdce/index.m3u8
-#EXTINF:-1, Nový Bydžov - HC Náchod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdd2/index.m3u8
-#EXTINF:-1, HC Jaroměř - HC Trutnov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df702648319de9ece01/index.m3u8
-#EXTINF:-1, Choceň - Orli Lanškroun
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f79196/index.m3u8
-#EXTINF:-1, Morav. Třebová - Chrudim
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f79190/index.m3u8
 #EXTINF:-1, Frederikshavn - Rungsted
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f227b850c8e37c3b1dcf8e.m3u8
 #EXTINF:-1, Valenciennes - Strasbourg
@@ -41,6 +23,12 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f9c9a940899867ab4834
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f9bc79e58cdfe8ac5774ff/index.m3u8
 #EXTINF:-1, Jonstorps IF - Åseda IF
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f9c464e58cdfe8ac57751e/index.m3u8
+#EXTINF:-1, HC Jaroměř - HC Trutnov
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df702648319de9ece01/index.m3u8
+#EXTINF:-1, Choceň - Orli Lanškroun
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f79196/index.m3u8
+#EXTINF:-1, Morav. Třebová - Chrudim
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f79190/index.m3u8
 #EXTINF:-1, Hovet - Trångsunds IF 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9bc79e58cdfe8ac5774fd/index.m3u8
 #EXTINF:-1, Bokasport SK - Skärgården
