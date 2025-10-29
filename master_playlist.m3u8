@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Vegas - Carolina Hurricanes
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b8fe8614-c756-4196-97c9-021f9f0560c2/master.m3u8
-#EXTINF:-1, Columbus - Buffalo Sabres
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/600cd55b-e4e1-468b-985d-9e5426882ad8/master.m3u8
-#EXTINF:-1, Anaheim - Florida Panthers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/27151051-5b8e-45ed-9e24-d87d4f52e230/master.m3u8
 #EXTINF:-1, NY Islanders - Boston
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e501d44f-5fe7-47fe-ba2d-0b49ea575e6f/master.m3u8
 #EXTINF:-1, Tampa Bay - Nashville
@@ -27,5 +21,3 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b771ee
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b495035-7f74-4801-80d1-6cbc3ab52b4f/master.m3u8
 #EXTINF:-1, Los Angeles - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7833124-3c5b-46c0-a710-d031e925190c/master.m3u8
-#EXTINF:-1, Syracuse - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
