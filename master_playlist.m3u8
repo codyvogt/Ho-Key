@@ -1,26 +1,20 @@
 #EXTM3U
-#EXTINF:-1, Salavat Yulaev - Admiral
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Ak Bars - Metallurg Mg
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, SKA St Petersburg - Sibir
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Vítkovice - Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2208ad14875374b215721.m3u8
-#EXTINF:-1, Gornyak Rudny - Arlan
-https://cdn.inhockey.tv/live/local5/index.m3u8
-#EXTINF:-1, Almaty - Nomad Astana
-https://cdn.inhockey.tv/live/local6/index.m3u8
 #EXTINF:-1, Rubin - Torpedo-Gorky
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Buran Voronezh - Magnitka
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
-#EXTINF:-1, Qarmet - Gornyak Rudny
-https://cdn.inhockey.tv/live/local4/index.m3u8
 #EXTINF:-1, Jas Batyr Atyrau - Qulager
 https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, Sunqar - Arlan Kókshetaý
 https://cdn.inhockey.tv/live/local2/index.m3u8
+#EXTINF:-1, Almaty - Nomad Astana
+https://cdn.inhockey.tv/live/local6/index.m3u8
 #EXTINF:-1, ZUBR Přerov - HC Poruba
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efa46050c8e37c3b1dc8e5.m3u8
 #EXTINF:-1, Dukla Jihlava - Litoměřice
@@ -37,3 +31,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9e8c040899867ab4835
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef1fd4d14875374b214ef3/index.m3u8
 #EXTINF:-1, HKB - Budapest JA WHC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef1fd4d14875374b214ef5/index.m3u8
+#EXTINF:-1, HC Vrchlabí - HC Milevsko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f6a/index.m3u8
+#EXTINF:-1, HK Opava - Uherský Brod
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e4ad95c62be9451d65f709/index.m3u8
+#EXTINF:-1, Technika Brno - Havířov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbe7651c55dbe115574d68/index.m3u8
+#EXTINF:-1, IK Kronan 2 - TUS
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8650fe58cdfe8ac577142/index.m3u8
