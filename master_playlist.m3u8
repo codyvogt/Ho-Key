@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Montréal - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b495035-7f74-4801-80d1-6cbc3ab52b4f/master.m3u8
-#EXTINF:-1, Los Angeles - San Jose
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7833124-3c5b-46c0-a710-d031e925190c/master.m3u8
+#EXTINF:-1, Avangard Omsk - Barys
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1, Salavat Yulaev - Admiral
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
