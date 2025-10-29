@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rubin - Torpedo-Gorky
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1, Buran Voronezh - Magnitka
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Avangard Omsk - Barys
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Salavat Yulaev - Admiral
@@ -11,6 +7,12 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, SKA St Petersburg - Sibir
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Vítkovice - Sparta Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f2208ad14875374b215721.m3u8
+#EXTINF:-1, Rubin - Torpedo-Gorky
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1, Buran Voronezh - Magnitka
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Torpedo U-K - Saryarqa
 https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Gornyak Rudny - Arlan
