@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ak Bars - Metallurg Mg
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, SKA St Petersburg - Sibir
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Vítkovice - Sparta Praha
@@ -42,7 +40,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f227b850c8e37c3b1dcf
 #EXTINF:-1, Valenciennes - Strasbourg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ce2a4ba4ceb125359fd6c8/index.m3u8
 #EXTINF:-1, Lions de Lyon - Meudon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce2a4ba4ceb125359fd6cc/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ce2a4ba4ceb125359fd6cc/index.m3u8
 #EXTINF:-1, Chambéry - Mont-Blanc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ce2a4ba4ceb125359fd6c4/index.m3u8
 #EXTINF:-1, Tours - Villard-de-Lans
@@ -54,7 +52,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9cb6c40899867ab4834
 #EXTINF:-1, Ånge IK - IF Sundsvall
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9c705e58cdfe8ac577571/index.m3u8
 #EXTINF:-1, Örnsköldsvik HF - Vännäs
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9c9a940899867ab4834f4/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f9c9a940899867ab4834f4/index.m3u8
 #EXTINF:-1, Helsingborg - Olofström
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f9bc79e58cdfe8ac5774ff/index.m3u8
 #EXTINF:-1, Jonstorps IF - Åseda IF
