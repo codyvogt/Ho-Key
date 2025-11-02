@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Tampa Bay - Utah
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/995e935c-9721-4468-abd6-3d7d9ce544ad/master.m3u8
-#EXTINF:-1, Courbevoie - Châlons
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d21ecca4ceb125359fe387/index.m3u8
-#EXTINF:-1, HC Poděbrady - Vrchlabí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea019f59b6f68b0e1df2cc/index.m3u8
-#EXTINF:-1, Eaters Limburg - Neuwied
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f6082650c8e37c3b1ddb45/index.m3u8
-#EXTINF:-1, HYC - Hijs Hokij
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f60826d14875374b21651d/index.m3u8
 #EXTINF:-1, Eppan Pirates - Fassa
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880ed921d615b78791f4624/index.m3u8
+#EXTINF:-1, HYC - Hijs Hokij
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f60826d14875374b21651d/index.m3u8
 #EXTINF:-1, Herrings HC - Munkedal
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ff17923829c1557f606208/index.m3u8
 #EXTINF:-1, Connecticut - Holy Cross
