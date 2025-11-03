@@ -1,21 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Dinamo Minsk - CSKA
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Sollentuna - Huddinge IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69005cc33829c1557f606455/index.m3u8
-#EXTINF:-1, IF Sundsvall - Njurunda SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690063ca40899867ab484a52/index.m3u8
-#EXTINF:-1, Enköpings SK HK - IK Göta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6900593f40899867ab484a18/index.m3u8
-#EXTINF:-1, Vallentuna - Nacka HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69005be240899867ab484a26/index.m3u8
-#EXTINF:-1, Flemingsberg - Nyköping
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6900569b40899867ab484a12/index.m3u8
-#EXTINF:-1, Tyresö Hanviken - Almtuna
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6900658d40899867ab484a56/index.m3u8
-#EXTINF:-1, Nor/Solstad - Örebro HUF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6900585d40899867ab484a14/index.m3u8
-#EXTINF:-1, Spånga IS IK - Segeltorp
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6900612940899867ab484a48/index.m3u8
-#EXTINF:-1, HC Ludwig Vantaa - PiTa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fefc8f40899867ab484604/index.m3u8
+#EXTINF:-1, Pittsburgh - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/498af2e2-3d29-4e74-b640-5f953ac37fe1/master.m3u8
