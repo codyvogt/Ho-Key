@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, SKA - Dynamo Moscow
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1, Sochi - Spartak Moscow
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Neman Grodno - Aviator
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Sibbo Wolfpack - KHT
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69004e103829c1557f606439/index.m3u8
+#EXTINF:-1, Czechia - Little Caesars
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e75e9ce14bd1ca73a58ec8/index.m3u8
