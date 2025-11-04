@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Boo HC - Trångsunds IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6901aba040899867ab484ca0/index.m3u8
+#EXTINF:-1, Alaska - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Stonehill - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
