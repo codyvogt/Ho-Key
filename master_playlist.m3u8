@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Pittsburgh - Toronto
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/498af2e2-3d29-4e74-b640-5f953ac37fe1/master.m3u8
 #EXTINF:-1, Edmonton - St. Louis Blues
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8e1c0065-01a0-4b18-b762-10a58ce70e10/master.m3u8
 #EXTINF:-1, Vancouver - Nashville
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6fa8a06e-7c2d-43e0-b38f-ef744aeac823/master.m3u8
 #EXTINF:-1, Chicago - Seattle Kraken
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ef0422f6-e163-462b-aa5b-24360328f4cc/master.m3u8
+#EXTINF:-1, Sibir - Torpedo Nizhny
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
