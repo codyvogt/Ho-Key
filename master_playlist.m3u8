@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Warrantti - Sport Akatemia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69019f8f3829c1557f6066bd/index.m3u8
-#EXTINF:-1, A-Rangers - K-Vantaa Itä
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69019f8f3829c1557f6066bc/index.m3u8
 #EXTINF:-1, Berani Zlín - VHK Vsetín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6902169a3829c1557f606886.m3u8
 #EXTINF:-1, Piráti Chomutov - Přerov
@@ -37,8 +33,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e60d27c62be9451d65f9
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef71d550c8e37c3b1dc827/index.m3u8
 #EXTINF:-1, Cheb - Kralupy nad Vltavou
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78f2d/index.m3u8
-#EXTINF:-1, Chrudim - Hvězda Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb333340899867ab483909/index.m3u8
 #EXTINF:-1, Kadaň - Piráti Chomutov B
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff0b903829c1557f60616d/index.m3u8
 #EXTINF:-1, Czech Republic - Sweden
@@ -58,7 +52,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903039440899867ab484f
 #EXTINF:-1, Piteå HC - Kalix HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903010440899867ab484f8b/index.m3u8
 #EXTINF:-1, Ånge IK - Östersunds IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903010440899867ab484f89/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6903010440899867ab484f89/index.m3u8
 #EXTINF:-1, Vännäs HC - Örnsköldsvik
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6902fbe63829c1557f606a25/index.m3u8
 #EXTINF:-1, Njurunda SK - Kovland
@@ -88,16 +82,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791
 #EXTINF:-1, Södertälje SK - Hammarby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903046c3829c1557f606a7f/index.m3u8
 #EXTINF:-1, IF Sundsvall - Timrå IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690306203829c1557f606a89/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690306203829c1557f606a89/index.m3u8
 #EXTINF:-1, Almtuna IS - Sundbyberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903039440899867ab484f99/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6903039440899867ab484f99/index.m3u8
 #EXTINF:-1, Ektjärns IF - Överkalix IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690306203829c1557f606a8b/index.m3u8
 #EXTINF:-1, Stenungsund HF - Rönnäng
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690306fc40899867ab484fa9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690306fc40899867ab484fa9/index.m3u8
 #EXTINF:-1, Hisingens IK - Partille HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690308b140899867ab484fb3/index.m3u8
 #EXTINF:-1, Härryda HC - Kållered SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69030a6640899867ab484fc3/index.m3u8
 #EXTINF:-1, Hovås HC - Lerums BK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690307d53829c1557f606a91/index.m3u8
+#EXTINF:-1, A-Rangers - K-Vantaa Itä
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69019f8f3829c1557f6066bc/index.m3u8
