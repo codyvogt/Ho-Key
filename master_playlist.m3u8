@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Utah - Buffalo Sabres
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/031bb4a5-af4f-47d9-8ee7-e86db3fe8150/master.m3u8
 #EXTINF:-1, Philadelphia - Montréal
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/700ec57a-9788-4f07-a5df-2f5e292e66bf/master.m3u8
 #EXTINF:-1, Boston - NY Islanders
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/14c25a75-a9fe-44c2-a2e0-25dd474162b9/master.m3u8
-#EXTINF:-1, Carolina - NY Rangers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7a06e20b-121b-4d39-b6ee-97707b2f7857/master.m3u8
 #EXTINF:-1, Edmonton - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3e3f6717-32fe-4787-bc2f-6e1f3949c153/master.m3u8
 #EXTINF:-1, Nashville - Minnesota Wild
