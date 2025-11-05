@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Belarus U17 - Russia U16
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Finland - Slovakia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef6508d14875374b21503e/index.m3u8
 #EXTINF:-1, Warrantti - Sport Akatemia
@@ -44,7 +42,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78f
 #EXTINF:-1, Chrudim - Hvězda Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb333340899867ab483909/index.m3u8
 #EXTINF:-1, Kadaň - Piráti Chomutov B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ff0b903829c1557f60616d/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff0b903829c1557f60616d/index.m3u8
 #EXTINF:-1, Czech Republic - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904476f40899867ab4851ab/index.m3u8
 #EXTINF:-1, Valenciennes - Neuilly
