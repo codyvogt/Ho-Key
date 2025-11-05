@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Belarus - Kazakhstan
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Belarus U17 - Russia U16
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Switzerland - Sweden
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef8e8950c8e37c3b1dc879/index.m3u8
 #EXTINF:-1, Traktor - Neftekhimik
@@ -13,5 +9,13 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904476f40899867ab4851ae/index.m3u8
 #EXTINF:-1, Czech Republic - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904476f40899867ab4851ab/index.m3u8
+#EXTINF:-1, Ertis - Beibarys Atyrau
+https://cdn.inhockey.tv/live/local3/index.m3u8
+#EXTINF:-1, Aqtóbe - Torpedo Oskemen
+https://cdn.inhockey.tv/live/local2/index.m3u8
+#EXTINF:-1, Saryarqa - Almaty
+https://cdn.inhockey.tv/live/local1/index.m3u8
 #EXTINF:-1, Finland - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9c58c40899867ab4834c7/index.m3u8
+#EXTINF:-1, Belarus U17 - Russia U16
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
