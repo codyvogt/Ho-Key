@@ -7,3 +7,7 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/113522
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c17e1bf6-cc0b-480c-b2a5-07ad834453fc/master.m3u8
 #EXTINF:-1, Winnipeg - Los Angeles
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/56d0f801-cac0-48fe-9969-7ef14c06ef8d/master.m3u8
+#EXTINF:-1, Amur - Avangard Omsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Admiral - Metallurg Mg
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
