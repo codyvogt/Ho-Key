@@ -7,8 +7,6 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, HC Sochi - Severstal
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Estonia - Spain
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908c4a740899867ab486101/index.m3u8
 #EXTINF:-1, France - Denmark
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048d5e40899867ab4852c3/index.m3u8
 #EXTINF:-1, Sweden - Slovakia
@@ -34,7 +32,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690337e440899867ab4850
 #EXTINF:-1, Switzerland - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904476f40899867ab4851ac/index.m3u8
 #EXTINF:-1, Slovakia - France U18
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de429b2de202e178005900/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68de429b2de202e178005900/index.m3u8
 #EXTINF:-1, Guts Finspång - Wettern
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690454393829c1557f606d23/index.m3u8
 #EXTINF:-1, Kungsbacka HC - Varberg
