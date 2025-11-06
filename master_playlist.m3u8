@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv - Spartak
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Ak Bars
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, CSKA Moscow - Torpedo
@@ -43,3 +41,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690455ec3829c1557f606d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c64f559d2a1a468257f59e/index.m3u8
 #EXTINF:-1, Bålsta HC - Tierps HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69044ff53829c1557f606ccb/index.m3u8
+#EXTINF:-1, Fassa - Zinnen Dolomites
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed9689696da69144223f/index.m3u8
+#EXTINF:-1, Tavastia - OKK Tankki
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6902f11040899867ab484f0f/index.m3u8
