@@ -7,8 +7,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, France - Denmark
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048d5e40899867ab4852c3/index.m3u8
-#EXTINF:-1, Sweden - Slovakia
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef92bed14875374b2150c4/index.m3u8
 #EXTINF:-1, Finland - Germany
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6902f11040899867ab484f18/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
@@ -32,7 +30,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68de429b2de202e1780059
 #EXTINF:-1, Guts Finspång - Wettern
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690454393829c1557f606d23/index.m3u8
 #EXTINF:-1, Kungsbacka HC - Varberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69045be63829c1557f606d42/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69045be63829c1557f606d42/index.m3u8
 #EXTINF:-1, Nor IK - Charlottenberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69044c8c40899867ab4851ba/index.m3u8
 #EXTINF:-1, Bollnäs IS - Sandviken
