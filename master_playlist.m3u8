@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, France - Denmark
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048d5e40899867ab4852c3/index.m3u8
-#EXTINF:-1, Czechia - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7508c59b6f68b0e1dea37/index.m3u8
 #EXTINF:-1, Italy - Slovenia
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69008e3c3829c1557f60656f/index.m3u8
 #EXTINF:-1, Italy - Hungary
@@ -32,6 +30,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c64f559d2a1a468257f5
 #EXTINF:-1, Bålsta HC - Tierps HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69044ff53829c1557f606ccb/index.m3u8
 #EXTINF:-1, Fassa - Zinnen Dolomites
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed9689696da69144223f/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880ed9689696da69144223f/index.m3u8
 #EXTINF:-1, Tavastia - OKK Tankki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6902f11040899867ab484f0f/index.m3u8
