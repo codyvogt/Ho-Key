@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dinamo Minsk - Ak Bars
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, CSKA Moscow - Torpedo
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1, HC Sochi - Severstal
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, France - Denmark
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048d5e40899867ab4852c3/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
