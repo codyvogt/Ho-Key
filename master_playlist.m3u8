@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Hungary - Norway
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d8b64afdc151189406ba97/index.m3u8
-#EXTINF:-1, Estonia - Spain
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908c4a740899867ab486101/index.m3u8
-#EXTINF:-1, France - Denmark
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048d5e40899867ab4852c3/index.m3u8
 #EXTINF:-1, Lokomotiv - Spartak
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Ak Bars
@@ -13,8 +7,10 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, HC Sochi - Severstal
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Czech Republic - Sweden
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ee1247d14875374b214c1b/index.m3u8
+#EXTINF:-1, Estonia - Spain
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908c4a740899867ab486101/index.m3u8
+#EXTINF:-1, France - Denmark
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048d5e40899867ab4852c3/index.m3u8
 #EXTINF:-1, Sweden - Slovakia
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef92bed14875374b2150c4/index.m3u8
 #EXTINF:-1, Germany - Finland Ch
