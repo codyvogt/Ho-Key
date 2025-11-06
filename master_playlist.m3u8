@@ -1,3 +1,17 @@
 #EXTM3U
+#EXTINF:-1, Ottawa - Boston Bruins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a92a5360-a52c-4b07-9d54-2c97afc9ebcf/master.m3u8
+#EXTINF:-1, St. Louis Blues - Buffalo
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bb42f932-f8fe-4f8c-8957-48f20818f7f7/master.m3u8
+#EXTINF:-1, Montréal - New Jersey
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3be41ea4-7e85-4e8a-8f2e-4a50fc29b861/master.m3u8
+#EXTINF:-1, Minnesota Wild - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ef983406-9ac9-4261-b320-4814c1b9a17e/master.m3u8
+#EXTINF:-1, Washington - Pittsburgh
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f028e225-c9f4-425b-a7f7-ab6eb70cfbf4/master.m3u8
+#EXTINF:-1, Philadelphia - Nashville
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10881ea1-dda0-4ce6-9526-da6cd54f408b/master.m3u8
+#EXTINF:-1, Anaheim - Dallas Stars
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6ab7d167-2c13-4666-a676-3179c22f32fb/master.m3u8
 #EXTINF:-1, Maine - Massachusetts
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
