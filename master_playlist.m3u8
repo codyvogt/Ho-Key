@@ -2,7 +2,7 @@
 #EXTINF:-1, Hungary - Norway
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d8b64afdc151189406ba97/index.m3u8
 #EXTINF:-1, Estonia - Spain
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908c4a740899867ab486101/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908c4a740899867ab486101/index.m3u8
 #EXTINF:-1, France - Denmark
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048d5e40899867ab4852c3/index.m3u8
 #EXTINF:-1, Lokomotiv - Spartak
@@ -13,10 +13,6 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, HC Sochi - Severstal
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Little Caesars - Slovakia
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e75e9ce14bd1ca73a58ec6/index.m3u8
-#EXTINF:-1, Czechia - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7508c59b6f68b0e1dea37/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6904476f40899867ab4851ad/index.m3u8
 #EXTINF:-1, Switzerland - Sweden
@@ -45,5 +41,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef92bed14875374b2150
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef469ad14875374b214fc1/index.m3u8
 #EXTINF:-1, Finland - Germany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6902f11040899867ab484f18/index.m3u8
+#EXTINF:-1, Czechia - Switzerland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7508c59b6f68b0e1dea37/index.m3u8
 #EXTINF:-1, Norway - Denmark
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690337e440899867ab48502c/index.m3u8
