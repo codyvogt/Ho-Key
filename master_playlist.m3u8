@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mor. Třebová - Světlá n. S.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0b53d50c8e37c3b1dcb87/index.m3u8
-#EXTINF:-1, Älta IF - Trångsunds IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69059d313829c1557f6071ec/index.m3u8
-#EXTINF:-1, Norway - France
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69048de40f7d28e64feb0918/index.m3u8
-#EXTINF:-1, Olympia Heist - Beaufort
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fca6b57846ff9a98ffadfa/index.m3u8
-#EXTINF:-1, HYC - Antwerp Phantoms
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fca6b57846ff9a98ffadfc/index.m3u8
 #EXTINF:-1, Mechelen - HYC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fc9fa57846ff9a98ffadec/index.m3u8
 #EXTINF:-1, Union - Rensselaer PI
@@ -29,3 +19,43 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Clarkson - Princeton
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, HYC - Antwerp Phantoms
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fca6b57846ff9a98ffadfc/index.m3u8
+#EXTINF:-1, St. Lawrence - Rensselaer
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Clarkson - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Merrimack - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Providence - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Maine - Massachusetts
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Boston College - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Stonehill - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Colgate - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Princeton - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Cornell - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Denver - Western Michigan
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a0da1dc2-8ba2-4a72-b04e-ad563e42d74c-hls/master/a0da1dc2-8ba2-4a72-b04e-ad563e42d74c-hls.m3u8
+#EXTINF:-1, Augustana - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, NMU - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, UNH - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, North Dakota - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/58ba5bcf-1ae1-4924-bbe3-f32f48404557-hls/master/58ba5bcf-1ae1-4924-bbe3-f32f48404557-hls.m3u8
+#EXTINF:-1, BGSU - Minnesota State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, SCSU - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fbc927a6-bbf4-49d4-910f-7c17d7352a88-hls/master/fbc927a6-bbf4-49d4-910f-7c17d7352a88-hls.m3u8
+#EXTINF:-1, Colorado - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/563b3138-58f7-4374-bd3c-87691d504754-hls/master/563b3138-58f7-4374-bd3c-87691d504754-hls.m3u8
