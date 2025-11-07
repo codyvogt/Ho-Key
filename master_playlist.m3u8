@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Norway - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048de40f7d28e64feb0918/index.m3u8
-#EXTINF:-1, Pardubice B - Slavia Praha
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690217ff3829c1557f606893.m3u8
-#EXTINF:-1, Hungary - Italy
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69008e3d3829c1557f606571/index.m3u8
-#EXTINF:-1, Czech Republic - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7508c59b6f68b0e1dea3a/index.m3u8
-#EXTINF:-1, Urho - Gladiators HT
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6904428f3829c1557f606c92/index.m3u8
-#EXTINF:-1, APV - Hela-Kiekko
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904428f3829c1557f606c8d/index.m3u8
-#EXTINF:-1, Malax IF - Järviseudun PK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904428f3829c1557f606c96/index.m3u8
-#EXTINF:-1, Viikingit Helsinki - TUTO
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904429040899867ab485199/index.m3u8
-#EXTINF:-1, KOOVEE - KeuPa/Diskos
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904429040899867ab48519a/index.m3u8
 #EXTINF:-1, Kuparikiekko Team - PaRa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c97/index.m3u8
 #EXTINF:-1, Hokkarit - Atalan HK
@@ -25,12 +9,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904429040899867ab4851
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c90/index.m3u8
 #EXTINF:-1, Hungary - Austria
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fbb426522ea8680c33e707/index.m3u8
+#EXTINF:-1, KOOVEE - KeuPa/Diskos
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904429040899867ab48519a/index.m3u8
 #EXTINF:-1, HC Česká Lípa - Frýdlant
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bfc3935addedaac41c3f1c/index.m3u8
 #EXTINF:-1, HC Žihadla - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da75f765d0f1ba71b30b42/index.m3u8
 #EXTINF:-1, HC Pelhřimov - Humpolec
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df602648319de9ecdb7/index.m3u8
+#EXTINF:-1, APV - Hela-Kiekko
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904428f3829c1557f606c8d/index.m3u8
+#EXTINF:-1, Malax IF - Järviseudun PK
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904428f3829c1557f606c96/index.m3u8
 #EXTINF:-1, Italy - Hungary
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fbb426522ea8680c33e709/index.m3u8
 #EXTINF:-1, Kralupy n. Vltavou - Louny
@@ -162,7 +152,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690595853829c1557f6071
 #EXTINF:-1, Vermont - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Neuwied - Liège Bulldogs
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc9fa57846ff9a98ffadea/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fc9fa57846ff9a98ffadea/index.m3u8
 #EXTINF:-1, Mechelen - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc9fa57846ff9a98ffadec/index.m3u8
 #EXTINF:-1, PT-80 - Jää-Tiikerit
