@@ -14,19 +14,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690598ef40899867ab4856
 #EXTINF:-1, United States - Finland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690598ef40899867ab48561c/index.m3u8
 #EXTINF:-1, Slovakia - Germany
-https://nn.geo.joj.sk/huste/53cda439-8334-4f0c-a57d-8c2afa630d3a/53cda439-8334-4f0c-a57d-8c2afa630d3a/playlist.m3u8
-#EXTINF:-1, Italy - Slovenia
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fb7be640899867ab483a49/index.m3u8
-#EXTINF:-1, Hungary - Austria
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fbb426522ea8680c33e707/index.m3u8
-#EXTINF:-1, Slovakia - Germany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da865a65d0f1ba71b30b63/index.m3u8
 #EXTINF:-1, France U18 - Switzerland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da865a8ebee495bafd5e91/index.m3u8
-#EXTINF:-1, Slovakia U16 - France
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fb7be640899867ab483a4b/index.m3u8
-#EXTINF:-1, Italy - Hungary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fbb426522ea8680c33e709/index.m3u8
 #EXTINF:-1, Roudnice n. Labem - Slaný
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c9526db4c8ed39e3475682/index.m3u8
 #EXTINF:-1, Technika B - Uher. Hradiště
@@ -91,3 +81,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904429040899867ab48519e/index.m3u8
 #EXTINF:-1, Hunters Team - NKV
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c90/index.m3u8
+#EXTINF:-1, Hungary - Austria
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fbb426522ea8680c33e707/index.m3u8
+#EXTINF:-1, Italy - Hungary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fbb426522ea8680c33e709/index.m3u8
