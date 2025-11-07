@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Norway - France
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048de40f7d28e64feb0918/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69048de40f7d28e64feb0918/index.m3u8
 #EXTINF:-1, Hungary - Austria
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fbb426522ea8680c33e707/index.m3u8
 #EXTINF:-1, KOOVEE - KeuPa/Diskos
@@ -149,6 +149,24 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690595853829c1557f6071
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690595853829c1557f6071ca/index.m3u8
 #EXTINF:-1, Vermont - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Union - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Boston University - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Harvard - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Rochester IT - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Connecticut - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Holy Cross - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Providence - UNH
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Clarkson - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
 #EXTINF:-1, Neuwied - Liège Bulldogs
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fc9fa57846ff9a98ffadea/index.m3u8
 #EXTINF:-1, Mechelen - HYC
