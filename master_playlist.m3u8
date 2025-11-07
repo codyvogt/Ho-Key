@@ -9,10 +9,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68da07cb2de202e178004c
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690210fe3829c1557f60686d/index.m3u8
 #EXTINF:-1, Norway - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048de40f7d28e64feb0918/index.m3u8
-#EXTINF:-1, Slovenia - France
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69008e3d40899867ab484afd/index.m3u8
-#EXTINF:-1, Hungary - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69008e3d3829c1557f606571/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690598ef40899867ab48561b/index.m3u8
 #EXTINF:-1, United States - Finland
@@ -64,7 +60,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ee4a87d14875374b214c
 #EXTINF:-1, Mor. Třebová - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0b53d50c8e37c3b1dcb87/index.m3u8
 #EXTINF:-1, Switzerland - Czechia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909ee0c3829c1557f607e14/index.m3u8
+https://nn.geo.joj.sk/huste/437aeb0f-4266-4267-8100-9500b776bdb5/437aeb0f-4266-4267-8100-9500b776bdb5/playlist.m3u8
 #EXTINF:-1, Germany - Finland Ch
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef4743d14875374b214fc3/index.m3u8
 #EXTINF:-1, Finland - Germany
@@ -81,6 +77,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c96/index.m3u8
 #EXTINF:-1, Hyvinkää-Riihimäki - EVU
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f40899867ab48517d/index.m3u8
+#EXTINF:-1, Hungary - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69008e3d3829c1557f606571/index.m3u8
 #EXTINF:-1, Czech Republic - Slovakia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7508c59b6f68b0e1dea3a/index.m3u8
 #EXTINF:-1, Viikingit Helsinki - TUTO
