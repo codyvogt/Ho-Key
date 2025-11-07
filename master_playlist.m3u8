@@ -9,10 +9,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68da07cb2de202e178004c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690210fe3829c1557f60686d/index.m3u8
 #EXTINF:-1, Norway - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048de40f7d28e64feb0918/index.m3u8
-#EXTINF:-1, Sweden - Finland
-https://nn.geo.joj.sk/huste/824efbae-eab2-4f27-a2c5-b59c300529bf/824efbae-eab2-4f27-a2c5-b59c300529bf/playlist.m3u8
-#EXTINF:-1, Switzerland - Czechia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909ee0c3829c1557f607e14/index.m3u8
 #EXTINF:-1, Switzerland - Little Caesars
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e75e9ce14bd1ca73a58ec7/index.m3u8
 #EXTINF:-1, Czech Republic - Slovakia
@@ -71,6 +67,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf56da4ceb125359fd0
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ee4a87d14875374b214ce9/index.m3u8
 #EXTINF:-1, Mor. Třebová - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0b53d50c8e37c3b1dcb87/index.m3u8
+#EXTINF:-1, Switzerland - Czechia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909ee0c3829c1557f607e14/index.m3u8
 #EXTINF:-1, Germany - Finland Ch
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef4743d14875374b214fc3/index.m3u8
 #EXTINF:-1, Finland - Germany
