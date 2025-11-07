@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1, Neftekhimik - Sal. Yulaev
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Spain - Netherlands
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690210fe3829c1557f60686d/index.m3u8
 #EXTINF:-1, Norway - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048de40f7d28e64feb0918/index.m3u8
-#EXTINF:-1, Neftekhimik - Sal. Yulaev
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
-#EXTINF:-1, Roudnice n. Labem - Slaný
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c9526db4c8ed39e3475682/index.m3u8
+#EXTINF:-1, Switzerland - Czechia
+https://nn.geo.joj.sk/huste/437aeb0f-4266-4267-8100-9500b776bdb5/437aeb0f-4266-4267-8100-9500b776bdb5/playlist.m3u8
+#EXTINF:-1, Germany - Finland Ch
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef4743d14875374b214fc3/index.m3u8
 #EXTINF:-1, Technika B - Uher. Hradiště
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f8902d40899867ab483271/index.m3u8
 #EXTINF:-1, Kralupy n. Vltavou - Louny
@@ -37,10 +39,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68cbf56da4ceb125359fd0
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ee4a87d14875374b214ce9/index.m3u8
 #EXTINF:-1, Mor. Třebová - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0b53d50c8e37c3b1dcb87/index.m3u8
-#EXTINF:-1, Switzerland - Czechia
-https://nn.geo.joj.sk/huste/437aeb0f-4266-4267-8100-9500b776bdb5/437aeb0f-4266-4267-8100-9500b776bdb5/playlist.m3u8
-#EXTINF:-1, Germany - Finland Ch
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef4743d14875374b214fc3/index.m3u8
 #EXTINF:-1, Finland - Germany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f40899867ab485187/index.m3u8
 #EXTINF:-1, Pardubice B - Slavia Praha
@@ -50,9 +48,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c
 #EXTINF:-1, Urho - Gladiators HT
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6904428f3829c1557f606c92/index.m3u8
 #EXTINF:-1, APV - Hela-Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c8d/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904428f3829c1557f606c8d/index.m3u8
 #EXTINF:-1, Malax IF - Järviseudun PK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c96/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904428f3829c1557f606c96/index.m3u8
 #EXTINF:-1, Hyvinkää-Riihimäki - EVU
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f40899867ab48517d/index.m3u8
 #EXTINF:-1, Hungary - Italy
@@ -72,7 +70,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c
 #EXTINF:-1, Hungary - Austria
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fbb426522ea8680c33e707/index.m3u8
 #EXTINF:-1, HC Česká Lípa - Frýdlant
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfc3935addedaac41c3f1c/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bfc3935addedaac41c3f1c/index.m3u8
 #EXTINF:-1, HC Žihadla - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da75f765d0f1ba71b30b42/index.m3u8
 #EXTINF:-1, HC Pelhřimov - Humpolec
