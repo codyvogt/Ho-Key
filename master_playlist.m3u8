@@ -3,3 +3,15 @@
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 #EXTINF:-1, Admiral - Avangard Omsk
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+#EXTINF:-1, Barys - Avtomobilist
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1, Neftekhimik - Sal. Yulaev
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Belarus U17 - Belarus
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Sweden - Finland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede81850c8e37c3b1dc367/index.m3u8
+#EXTINF:-1, Sweden - Finland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef933950c8e37c3b1dc897/index.m3u8
+#EXTINF:-1, Switzerland - Czechia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909ee0c3829c1557f607e14/index.m3u8
