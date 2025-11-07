@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Norway - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048de40f7d28e64feb0918/index.m3u8
-#EXTINF:-1, Kuparikiekko Team - PaRa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c97/index.m3u8
-#EXTINF:-1, Hokkarit - Atalan HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904429040899867ab48519e/index.m3u8
-#EXTINF:-1, Hunters Team - NKV
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c90/index.m3u8
 #EXTINF:-1, Hungary - Austria
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fbb426522ea8680c33e707/index.m3u8
 #EXTINF:-1, KOOVEE - KeuPa/Diskos
@@ -53,6 +47,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ee4a87d14875374b214c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0b53d50c8e37c3b1dcb87/index.m3u8
 #EXTINF:-1, Hvězda Praha - Warriors
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39455d510dedfae93bc92/index.m3u8
+#EXTINF:-1, Hokkarit - Atalan HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904429040899867ab48519e/index.m3u8
+#EXTINF:-1, Hunters Team - NKV
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c90/index.m3u8
 #EXTINF:-1, United States - Finland
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690598ef40899867ab48561c/index.m3u8
 #EXTINF:-1, France U18 - Switzerland
