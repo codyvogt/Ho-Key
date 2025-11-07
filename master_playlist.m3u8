@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Denmark - Hungary
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68da07cb2de202e178004ce1/index.m3u8
 #EXTINF:-1, Spain - Netherlands
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690210fe3829c1557f60686d/index.m3u8
 #EXTINF:-1, Norway - France
@@ -72,7 +70,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904429040899867ab4851
 #EXTINF:-1, Hunters Team - NKV
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f3829c1557f606c90/index.m3u8
 #EXTINF:-1, Hungary - Austria
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fbb426522ea8680c33e707/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fbb426522ea8680c33e707/index.m3u8
 #EXTINF:-1, HC Česká Lípa - Frýdlant
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bfc3935addedaac41c3f1c/index.m3u8
 #EXTINF:-1, HC Žihadla - Světlá n. S.
@@ -80,7 +78,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da75f765d0f1ba71b30b
 #EXTINF:-1, HC Pelhřimov - Humpolec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df602648319de9ecdb7/index.m3u8
 #EXTINF:-1, Italy - Hungary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fbb426522ea8680c33e709/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fbb426522ea8680c33e709/index.m3u8
 #EXTINF:-1, Hvězda Praha - Warriors
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e39455d510dedfae93bc92/index.m3u8
 #EXTINF:-1, United States - Finland
