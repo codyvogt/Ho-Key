@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Mechelen - HYC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fc9fa57846ff9a98ffadec/index.m3u8
-#EXTINF:-1, Union - Rensselaer PI
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Boston University - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Harvard - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, HYC - Antwerp Phantoms
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fca6b57846ff9a98ffadfc/index.m3u8
 #EXTINF:-1, Rochester IT - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, St. Lawrence - Quinnipiac
@@ -19,8 +13,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Clarkson - Princeton
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, HYC - Antwerp Phantoms
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fca6b57846ff9a98ffadfc/index.m3u8
 #EXTINF:-1, St. Lawrence - Rensselaer
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Clarkson - Union
