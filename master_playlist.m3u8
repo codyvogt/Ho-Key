@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, NY Rangers - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/013addbe-2fb9-48f8-8b88-31a9c7e50edd/master.m3u8
+#EXTINF:-1, Minnesota - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/35b1b19d-51a4-489a-8226-ac011162c99d/master.m3u8
 #EXTINF:-1, HYC - Antwerp Phantoms
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fca6b57846ff9a98ffadfc/index.m3u8
 #EXTINF:-1, Rochester IT - Colgate
