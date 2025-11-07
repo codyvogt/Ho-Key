@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Norway - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048de40f7d28e64feb0918/index.m3u8
-#EXTINF:-1, Finland - Germany
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904428f40899867ab485187/index.m3u8
 #EXTINF:-1, Pardubice B - Slavia Praha
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690217ff3829c1557f606893.m3u8
 #EXTINF:-1, KJK - Hiki-Hockey
@@ -56,7 +54,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fa19f740899867ab4836
 #EXTINF:-1, Litoměřice - Ústí n. Labem
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903001440899867ab484f66/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - HC Cheb
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1dc96d14875374b215635/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f1dc96d14875374b215635/index.m3u8
 #EXTINF:-1, HCM Jaroměř - HC Hronov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f5ed2dd14875374b2164ad/index.m3u8
 #EXTINF:-1, Česká Třebová - Žďár n. S.
@@ -96,13 +94,13 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690598143829c1557f6071
 #EXTINF:-1, Segeltorps IF - Viggbyholm
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6905a32940899867ab48566b/index.m3u8
 #EXTINF:-1, Hammarby IF - Linden
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690598143829c1557f6071da/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690598143829c1557f6071da/index.m3u8
 #EXTINF:-1, Sunderby SK - Arvidsjaur
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905a69340899867ab48568b/index.m3u8
 #EXTINF:-1, Rosvik IK - Haparanda HF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690594ac3829c1557f6071c1/index.m3u8
 #EXTINF:-1, Kovlands IshF - Sollefteå
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905a24f40899867ab485633/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6905a24f40899867ab485633/index.m3u8
 #EXTINF:-1, Gävle GIK - Ockelbo HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69059ee73829c1557f6071fa/index.m3u8
 #EXTINF:-1, Mälarö HF - IK Göta
@@ -129,8 +127,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905abb13829c1557f6072
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690596603829c1557f6071d0/index.m3u8
 #EXTINF:-1, LN 70 HC - Stenungsund
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690594ac3829c1557f6071bf/index.m3u8
-#EXTINF:-1, Knivsta IK - Brinkens IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69059c573829c1557f6071e6/index.m3u8
 #EXTINF:-1, Nynäshamns IF - Huddinge
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905a9fc3829c1557f607245/index.m3u8
 #EXTINF:-1, Lycksele SK - Malå IF
@@ -168,7 +164,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69059d313829c1557f6071
 #EXTINF:-1, SHK HC - Gimo IF HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690595853829c1557f6071c8/index.m3u8
 #EXTINF:-1, Östervåla IF - Östhammar
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690595853829c1557f6071ca/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690595853829c1557f6071ca/index.m3u8
 #EXTINF:-1, Vermont - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Neuwied - Liège Bulldogs
