@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Dallas Stars - Nashville
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cb6b1fd6-3683-4eb6-8cd0-199e12bf3257/master.m3u8
-#EXTINF:-1, HCMP - Nantes
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68db594c2de202e178005043/index.m3u8
-#EXTINF:-1, Chambéry 2 - Colmar
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68db594d2de202e178005061/index.m3u8
-#EXTINF:-1, Tours 2 - Rennes
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db594d8ebee495bafd5f51/index.m3u8
-#EXTINF:-1, Rochester IT - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Clarkson - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Rensselaer PI - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Boston C - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Delaware - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Dartmouth - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
 #EXTINF:-1, Boston University - Maine
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Merrimack - Holy Cross
