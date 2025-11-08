@@ -1,40 +1,8 @@
 #EXTM3U
-#EXTINF:-1, NY Rangers - Detroit
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/013addbe-2fb9-48f8-8b88-31a9c7e50edd/master.m3u8
-#EXTINF:-1, Minnesota - NY Islanders
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/35b1b19d-51a4-489a-8226-ac011162c99d/master.m3u8
 #EXTINF:-1, Chicago - Calgary Flames
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/791759b5-3cd4-4fff-8aac-894658db76ef/master.m3u8
 #EXTINF:-1, Winnipeg Jets - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fedeb2f-336a-44fa-a9e4-d1af2a20efb2/master.m3u8
-#EXTINF:-1, St. Lawrence - Rensselaer
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Clarkson - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Merrimack - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, Providence - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Maine - Massachusetts
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Boston College - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Stonehill - Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Colgate - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Princeton - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Cornell - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Denver - Western Michigan
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a0da1dc2-8ba2-4a72-b04e-ad563e42d74c-hls/master/a0da1dc2-8ba2-4a72-b04e-ad563e42d74c-hls.m3u8
-#EXTINF:-1, NMU - Michigan Tech
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, UNH - UMass Lowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, North Dakota - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/58ba5bcf-1ae1-4924-bbe3-f32f48404557-hls/master/58ba5bcf-1ae1-4924-bbe3-f32f48404557-hls.m3u8
 #EXTINF:-1, SCSU - Minnesota Duluth
