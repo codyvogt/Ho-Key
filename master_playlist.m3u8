@@ -132,7 +132,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690594113829c1557f6070
 #EXTINF:-1, Rollon Pojat - Kuru Hockey
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690594123829c1557f607141/index.m3u8
 #EXTINF:-1, Storm - GrIFK Joukkue
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690594103829c1557f606ff9/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690594103829c1557f606ff9/index.m3u8
 #EXTINF:-1, EVU Team - K-Espoo EKS
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905941040899867ab48547c/index.m3u8
 #EXTINF:-1, Nokia Sables - VaPS
@@ -303,3 +303,7 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
 #EXTINF:-1, Merrimack - Holy Cross
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Liège Bulldogs - Leuven
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fdf1253829c1557f605fbf/index.m3u8
+#EXTINF:-1, HC Wolferines - Grizzlyz
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fd033e40899867ab484139/index.m3u8
