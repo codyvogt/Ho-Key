@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Winnipeg Jets - San Jose
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fedeb2f-336a-44fa-a9e4-d1af2a20efb2/master.m3u8
-#EXTINF:-1, Kazakhstan - Belarus U17
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Belarus - Russia U16
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Lomnice n. Pop. - Turnov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa19f740899867ab4836ad/index.m3u8
 #EXTINF:-1, HC Tábor B - HC Milevsko
@@ -22,7 +16,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd663829c1557f605a
 #EXTINF:-1, Grums IK 2 - Forshaga IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f21a40899867ab485a1e/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede81850c8e37c3b1dc368/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ede81850c8e37c3b1dc368/index.m3u8
 #EXTINF:-1, France - Italy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc952b40899867ab4840fb/index.m3u8
 #EXTINF:-1, Hungary - Slovakia U16
@@ -31,3 +25,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd667846ff9a98ffae
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f2f63829c1557f60762b/index.m3u8
 #EXTINF:-1, Vännäs HC - Kovlands IshF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f06640899867ab485a08/index.m3u8
+#EXTINF:-1, Slovenia - Hungary
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6908ad0340899867ab4860b5/index.m3u8
+#EXTINF:-1, Switzerland - Slovakia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db594c2de202e178005057/index.m3u8
+#EXTINF:-1, Uplakers Ylöjärvi - KPK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905941040899867ab4854a0/index.m3u8
+#EXTINF:-1, Rauma Tigers - Chiefs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905941040899867ab4854a3/index.m3u8
+#EXTINF:-1, Laser HT Hot - HaU
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6905941140899867ab4854f4/index.m3u8
+#EXTINF:-1, KeuPa HT - Rauman Lukko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905941340899867ab4855e1/index.m3u8
+#EXTINF:-1, Belarus - Russia U16
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
