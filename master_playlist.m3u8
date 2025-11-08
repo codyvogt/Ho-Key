@@ -27,3 +27,37 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Clarkson - Rensselaer PI
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Boston U - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Denver - Western Michigan
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d4275b3a-6f11-4032-85f2-2920d99fe15e-hls/master/d4275b3a-6f11-4032-85f2-2920d99fe15e-hls.m3u8
+#EXTINF:-1, Augustana - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, MTU - Northern Michigan
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, UML - New Hampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Connecticut - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Boston College - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Stonehill - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Cornell - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Colgate - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Princeton - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Colorado - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/511bebcc-de80-4ed9-8a80-68aa66d778ef-hls/master/511bebcc-de80-4ed9-8a80-68aa66d778ef-hls.m3u8
+#EXTINF:-1, BGSU - Minnesota State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, SCSU - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/897b1036-86da-40ad-964b-0dffcba22bd0-hls/master/897b1036-86da-40ad-964b-0dffcba22bd0-hls.m3u8
+#EXTINF:-1, North Dakota - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5cfb9418-2f12-4a89-805c-4384c795bb05-hls/master/5cfb9418-2f12-4a89-805c-4384c795bb05-hls.m3u8
