@@ -1,3 +1,33 @@
 #EXTM3U
 #EXTINF:-1, Winnipeg Jets - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fedeb2f-336a-44fa-a9e4-d1af2a20efb2/master.m3u8
+#EXTINF:-1, Kazakhstan - Belarus U17
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Belarus - Russia U16
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Lomnice n. Pop. - Turnov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa19f740899867ab4836ad/index.m3u8
+#EXTINF:-1, HC Tábor B - HC Milevsko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ed87d14875374b215467/index.m3u8
+#EXTINF:-1, Vlci Jablonec - Benátky
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ecdcde1b885bf43aa2ada1/index.m3u8
+#EXTINF:-1, HC Žihadla - Warriors B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905a3173829c1557f60722e/index.m3u8
+#EXTINF:-1, HC Poděbrady - Smíchov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea1dc6527d01e14c579f9d/index.m3u8
+#EXTINF:-1, Italy - Austria
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc952b7846ff9a98ffade6/index.m3u8
+#EXTINF:-1, Hungary - Slovenia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd663829c1557f605ad7/index.m3u8
+#EXTINF:-1, Grums IK 2 - Forshaga IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f21a40899867ab485a1e/index.m3u8
+#EXTINF:-1, Finland - Czech Republic
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede81850c8e37c3b1dc368/index.m3u8
+#EXTINF:-1, France - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc952b40899867ab4840fb/index.m3u8
+#EXTINF:-1, Hungary - Slovakia U16
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd667846ff9a98ffae19/index.m3u8
+#EXTINF:-1, Hudiksvalls HC - Grums IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f2f63829c1557f60762b/index.m3u8
+#EXTINF:-1, Vännäs HC - Kovlands IshF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f06640899867ab485a08/index.m3u8
