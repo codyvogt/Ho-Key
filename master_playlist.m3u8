@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1, Dallas Stars - Nashville
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cb6b1fd6-3683-4eb6-8cd0-199e12bf3257/master.m3u8
+#EXTINF:-1, Boston Bruins - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/eb8d7ecb-a3af-4207-ad88-3c42407c7b8f/master.m3u8
+#EXTINF:-1, Utah - Montréal Canadiens
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/370a5d58-0de6-4a7a-84a8-cc6eebffc701/master.m3u8
+#EXTINF:-1, Washington - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/886be0ff-23dd-43fa-82b5-3fc431133ec8/master.m3u8
+#EXTINF:-1, NY Islanders - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/38558784-ebf9-42b9-9854-db708e9f2341/master.m3u8
+#EXTINF:-1, Buffalo Sabres - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58182b6b-3d6d-4f5d-946a-28c25f1f2af5/master.m3u8
+#EXTINF:-1, Seattle - St. Louis Blues
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b00fe2a2-eee6-4f38-beea-3d3d3fa9a3f0/master.m3u8
 #EXTINF:-1, Clarkson - Rensselaer PI
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Boston U - Merrimack
