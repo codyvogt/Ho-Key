@@ -1,22 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Dallas Stars - Nashville
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cb6b1fd6-3683-4eb6-8cd0-199e12bf3257/master.m3u8
-#EXTINF:-1, Drakkars de Caen - Tours
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db594b2de202e17800502b/index.m3u8
-#EXTINF:-1, Villard - Dunkerque
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68db594c2de202e178005047/index.m3u8
 #EXTINF:-1, HCMP - Nantes
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68db594c2de202e178005043/index.m3u8
-#EXTINF:-1, Clermont-FD - Anglet 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db594c2de202e178005045/index.m3u8
-#EXTINF:-1, Valpellice D1 - Como
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68becd54a32fed197c9d1171/index.m3u8
 #EXTINF:-1, Chambéry 2 - Colmar
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68db594d2de202e178005061/index.m3u8
 #EXTINF:-1, Tours 2 - Rennes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db594d8ebee495bafd5f51/index.m3u8
-#EXTINF:-1, EVU Team 2 - LJK Loviisa
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690594103829c1557f607009/index.m3u8
 #EXTINF:-1, Rochester IT - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Clarkson - Quinnipiac
