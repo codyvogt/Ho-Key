@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Italy - Austria
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc952b7846ff9a98ffade6/index.m3u8
-#EXTINF:-1, Hungary - Slovenia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd663829c1557f605ad7/index.m3u8
-#EXTINF:-1, Grums IK 2 - Forshaga IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f21a40899867ab485a1e/index.m3u8
-#EXTINF:-1, Häradsbygden - Gävle GIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e7e03829c1557f6075ce/index.m3u8
-#EXTINF:-1, Vita Hästen - Mjölby HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f3d03829c1557f607641/index.m3u8
-#EXTINF:-1, Lund HC - Frosta/Åstorp
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906faa33829c1557f6076d9/index.m3u8
-#EXTINF:-1, Viking HC - Kils AIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f65e3829c1557f60768f/index.m3u8
-#EXTINF:-1, Lerums BK - Varberg HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e99540899867ab485999/index.m3u8
-#EXTINF:-1, Grästorps IK - Ulricehamn
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f2f63829c1557f607630/index.m3u8
-#EXTINF:-1, Skövde HC - Vänersborg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f7393829c1557f6076af/index.m3u8
-#EXTINF:-1, Tranås AIF - IK Guts
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906fee53829c1557f607740/index.m3u8
-#EXTINF:-1, Alvesta SK - Lenhovda IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906fc553829c1557f607711/index.m3u8
-#EXTINF:-1, Boro/Vetlanda - Nybro
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e8b93829c1557f6075d7/index.m3u8
-#EXTINF:-1, KRIF - Mörrums GoIS IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f8ed3829c1557f6076c3/index.m3u8
-#EXTINF:-1, Sörhaga HK - Mariestad
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5513829c1557f6073e1/index.m3u8
-#EXTINF:-1, Wings Arlanda - IFK Täby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906ecfd40899867ab4859ed/index.m3u8
-#EXTINF:-1, Hovås HC - Hisingens IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906fc553829c1557f607712/index.m3u8
-#EXTINF:-1, Kalmar HC - Rydaholms SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906edd73829c1557f6075f1/index.m3u8
-#EXTINF:-1, Finland - Czech Republic
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ede81850c8e37c3b1dc368/index.m3u8
-#EXTINF:-1, France - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc952b40899867ab4840fb/index.m3u8
-#EXTINF:-1, Hungary - Slovakia U16
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd667846ff9a98ffae19/index.m3u8
 #EXTINF:-1, HC Tábor B - HC Milevsko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ed87d14875374b215467/index.m3u8
 #EXTINF:-1, HC Žihadla - Warriors B
@@ -117,6 +75,36 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690594113829c1557f6070
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905940f40899867ab485450/index.m3u8
 #EXTINF:-1, HPK Akatemia - Kisa-Eagles
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690594103829c1557f607031/index.m3u8
+#EXTINF:-1, Häradsbygden - Gävle GIK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e7e03829c1557f6075ce/index.m3u8
+#EXTINF:-1, Vita Hästen - Mjölby HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f3d03829c1557f607641/index.m3u8
+#EXTINF:-1, Lund HC - Frosta/Åstorp
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906faa33829c1557f6076d9/index.m3u8
+#EXTINF:-1, Viking HC - Kils AIK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f65e3829c1557f60768f/index.m3u8
+#EXTINF:-1, Lerums BK - Varberg HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e99540899867ab485999/index.m3u8
+#EXTINF:-1, Grästorps IK - Ulricehamn
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f2f63829c1557f607630/index.m3u8
+#EXTINF:-1, Skövde HC - Vänersborg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f7393829c1557f6076af/index.m3u8
+#EXTINF:-1, Tranås AIF - IK Guts
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906fee53829c1557f607740/index.m3u8
+#EXTINF:-1, Alvesta SK - Lenhovda IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906fc553829c1557f607711/index.m3u8
+#EXTINF:-1, Boro/Vetlanda - Nybro
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e8b93829c1557f6075d7/index.m3u8
+#EXTINF:-1, KRIF - Mörrums GoIS IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f8ed3829c1557f6076c3/index.m3u8
+#EXTINF:-1, Sörhaga HK - Mariestad
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5513829c1557f6073e1/index.m3u8
+#EXTINF:-1, Wings Arlanda - IFK Täby
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906ecfd40899867ab4859ed/index.m3u8
+#EXTINF:-1, Hovås HC - Hisingens IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906fc553829c1557f607712/index.m3u8
+#EXTINF:-1, Kalmar HC - Rydaholms SK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906edd73829c1557f6075f1/index.m3u8
 #EXTINF:-1, Örebro HK - Hedesunda IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f9c940899867ab485b4e/index.m3u8
 #EXTINF:-1, Leksands IF - Kvarnsveden
@@ -133,6 +121,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc4ed840899867ab483d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f65e40899867ab485b14/index.m3u8
 #EXTINF:-1, Lovosice - Roudnice n. L.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca5da49d2a1a4682580155/index.m3u8
+#EXTINF:-1, Hungary - Slovenia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd663829c1557f605ad7/index.m3u8
+#EXTINF:-1, Hungary - Slovakia U16
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd667846ff9a98ffae19/index.m3u8
 #EXTINF:-1, SaiPa - Ilves Akatemia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905941240899867ab48557b/index.m3u8
 #EXTINF:-1, IFK Salem - Flens Flames
