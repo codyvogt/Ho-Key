@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1, HC Tábor B - HC Milevsko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0ed87d14875374b215467/index.m3u8
-#EXTINF:-1, HC Žihadla - Warriors B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905a3173829c1557f60722e/index.m3u8
-#EXTINF:-1, HC Poděbrady - Smíchov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea1dc6527d01e14c579f9d/index.m3u8
+#EXTINF:-1, Lokomotiv - Ak Bars
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, CSKA Moscow - Sibir
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Dinamo Minsk - Lada
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Denmark - Norway
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909ee4940899867ab486286/index.m3u8
+#EXTINF:-1, Netherlands - Estonia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690210fe3829c1557f60686f/index.m3u8
+#EXTINF:-1, France - Hungary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69048e2d0f7d28e64feb091a/index.m3u8
 #EXTINF:-1, Hudiksvalls HC - Grums IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f2f63829c1557f60762b/index.m3u8
 #EXTINF:-1, Vännäs HC - Kovlands IshF
@@ -119,6 +125,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc4ed840899867ab483d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906f65e40899867ab485b14/index.m3u8
 #EXTINF:-1, Lovosice - Roudnice n. L.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca5da49d2a1a4682580155/index.m3u8
+#EXTINF:-1, HC Žihadla - Warriors B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905a3173829c1557f60722e/index.m3u8
+#EXTINF:-1, HC Poděbrady - Smíchov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ea1dc6527d01e14c579f9d/index.m3u8
 #EXTINF:-1, Hungary - Slovenia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fccd663829c1557f605ad7/index.m3u8
 #EXTINF:-1, Hungary - Slovakia U16
