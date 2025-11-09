@@ -3,10 +3,6 @@
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690221b740899867ab484e01.m3u8
 #EXTINF:-1, Chicago - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d43a6bf9-b0eb-49a6-8d28-abc793e582d2/master.m3u8
-#EXTINF:-1, Ice Team - Kurra Gepardit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5903829c1557f60743c/index.m3u8
-#EXTINF:-1, Hawks - KJT Haukat
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6906e5903829c1557f607460/index.m3u8
 #EXTINF:-1, S-Kiekko Team - JPK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6906e5913829c1557f6074d6/index.m3u8
 #EXTINF:-1, Viikingit - Kerava Shakers
@@ -94,9 +90,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908506640899867ab485f
 #EXTINF:-1, Södertälje SK - Almtuna
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084a6d40899867ab485e9e/index.m3u8
 #EXTINF:-1, AIK - Hammarby IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084dd63829c1557f607a8c/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69084dd63829c1557f607a8c/index.m3u8
 #EXTINF:-1, HC Vipers - Viru Sputnik
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fe389f1b6aaf7f52e5797b/index.m3u8
+#EXTINF:-1, Hawks - KJT Haukat
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6906e5903829c1557f607460/index.m3u8
 #EXTINF:-1, Mechelen - Luxembourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4bdb6d05203452220ff76/index.m3u8
 #EXTINF:-1, Liège II - Charleroi
