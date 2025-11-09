@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Sparta Praha - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690221b740899867ab484e01.m3u8
 #EXTINF:-1, Slovakia - Switzerland
 https://nn.geo.joj.sk/huste/20134a37-f00b-42a1-97f6-a956cbc74601/20134a37-f00b-42a1-97f6-a956cbc74601/playlist.m3u8
 #EXTINF:-1, HK Dinaburga - Rīgas HS
@@ -32,7 +34,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69084c213829c1557f607a
 #EXTINF:-1, Örnen - Eskilstuna Linden 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084cfc3829c1557f607a75/index.m3u8
 #EXTINF:-1, Varberg HK - Skärgården
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690847de40899867ab485e60/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690847de40899867ab485e60/index.m3u8
 #EXTINF:-1, Lerums BK - Hisingens IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083b1940899867ab485cfd/index.m3u8
 #EXTINF:-1, Löfstad - Guts Finspång
