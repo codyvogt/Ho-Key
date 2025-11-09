@@ -3,18 +3,6 @@
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690221b740899867ab484e01.m3u8
 #EXTINF:-1, Chicago - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d43a6bf9-b0eb-49a6-8d28-abc793e582d2/master.m3u8
-#EXTINF:-1, Örnen - Eskilstuna Linden 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084cfc3829c1557f607a75/index.m3u8
-#EXTINF:-1, Varberg HK - Skärgården
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690847de40899867ab485e60/index.m3u8
-#EXTINF:-1, Lerums BK - Hisingens IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083b1940899867ab485cfd/index.m3u8
-#EXTINF:-1, Löfstad - Guts Finspång
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908506640899867ab485f4b/index.m3u8
-#EXTINF:-1, Viikingit - Kerava Shakers
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906e58f40899867ab485800/index.m3u8
-#EXTINF:-1, Hiki-Hockey - Nikkarit
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906e5913829c1557f607511/index.m3u8
 #EXTINF:-1, Mechelen - Luxembourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4bdb6d05203452220ff76/index.m3u8
 #EXTINF:-1, Liège II - Charleroi
@@ -49,6 +37,14 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df702648319de9ecd
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f79191/index.m3u8
 #EXTINF:-1, SHK HC - Sollentuna HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908388740899867ab485cd9/index.m3u8
+#EXTINF:-1, Varberg HK - Skärgården
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690847de40899867ab485e60/index.m3u8
+#EXTINF:-1, Lerums BK - Hisingens IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083b1940899867ab485cfd/index.m3u8
+#EXTINF:-1, Löfstad - Guts Finspång
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908506640899867ab485f4b/index.m3u8
+#EXTINF:-1, Hiki-Hockey - Nikkarit
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906e5913829c1557f607511/index.m3u8
 #EXTINF:-1, Hammarby IF 2 - Hovet HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69083b1940899867ab485cf3/index.m3u8
 #EXTINF:-1, KTH IF - Duvbo IK
@@ -76,7 +72,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dcaacb8ebee495bafd61
 #EXTINF:-1, Clermont-FD - Besancon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb8ebee495bafd61ba/index.m3u8
 #EXTINF:-1, Lions de Lyon - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb2de202e1780053b7/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dcaacb2de202e1780053b7/index.m3u8
 #EXTINF:-1, S-Kiekko HT - Highsticks Ac
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5913829c1557f6074d5/index.m3u8
 #EXTINF:-1, Näädät - Karhu-Kissat
