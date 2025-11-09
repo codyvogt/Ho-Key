@@ -114,7 +114,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e58f40899867ab4857
 #EXTINF:-1, Kutná Hora - SK Černošice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6901e6d73829c1557f6067d6/index.m3u8
 #EXTINF:-1, Letci Letňany - Benešov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f222e650c8e37c3b1dcf32/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f222e650c8e37c3b1dcf32/index.m3u8
 #EXTINF:-1, Klášterec nad Ohří - Kadaň
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f5ed2dd14875374b2164b0/index.m3u8
 #EXTINF:-1, Lvi Břeclav - Orli Znojmo
@@ -145,12 +145,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb332de58cdfe8ac577a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6094dd14875374b216521/index.m3u8
 #EXTINF:-1, Kobra - České Budějovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f62576d14875374b21658a/index.m3u8
-#EXTINF:-1, IF Sundsvall - Tegs SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084c213829c1557f607a69/index.m3u8
-#EXTINF:-1, Umeå HK - Kovlands IshF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083da640899867ab485d02/index.m3u8
-#EXTINF:-1, Kiruna IF - Bodens HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084cfc3829c1557f607a7f/index.m3u8
 #EXTINF:-1, Kisa-Ealges - Pingviinit
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906e5913829c1557f6074b6/index.m3u8
 #EXTINF:-1, Raahe-Kiekko - KalPa Ak
@@ -167,6 +161,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5913829c1557f6074
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5913829c1557f6074c7/index.m3u8
 #EXTINF:-1, LäKi - Nokian Pyry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e59140899867ab48589b/index.m3u8
+#EXTINF:-1, Umeå HK - Kovlands IshF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083da640899867ab485d02/index.m3u8
+#EXTINF:-1, Kiruna IF - Bodens HF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084cfc3829c1557f607a7f/index.m3u8
 #EXTINF:-1, Malmbergets AIF - Ektjärn
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69083ccc3829c1557f60793e/index.m3u8
 #EXTINF:-1, Pajala HC - Hertsörinken
@@ -192,7 +190,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083b1940899867ab485c
 #EXTINF:-1, Löfstad - Guts Finspång
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908506640899867ab485f4b/index.m3u8
 #EXTINF:-1, Austria - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ccecf40899867ab4867c9/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690ccecf40899867ab4867c9/index.m3u8
 #EXTINF:-1, Smedjebacken - Hässelby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084a6d40899867ab485e98/index.m3u8
 #EXTINF:-1, Järna SK - Hallstahammar
