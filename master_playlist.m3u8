@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ahmat - Laser HT Akatemia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5903829c1557f6073fe/index.m3u8
 #EXTINF:-1, Harjun Kiekko - Jää-Ahmat
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6906e5903829c1557f6073fc/index.m3u8
 #EXTINF:-1, Kisa-Eagles - Uplakers
@@ -11,10 +9,18 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6906e5913829c1557f6074
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e58f40899867ab485800/index.m3u8
 #EXTINF:-1, Hiki-Hockey - Nikkarit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5913829c1557f607511/index.m3u8
-#EXTINF:-1, Uh. Hradiště - Uh. Brod
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68efaa0e50c8e37c3b1dc900/index.m3u8
-#EXTINF:-1, Klatovy - Baník Příbram
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fb7989e58cdfe8ac577b5b/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Amiens 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb8ebee495bafd61be/index.m3u8
+#EXTINF:-1, Ducs d'Angers 2 - Caen 2
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68dcaacb8ebee495bafd61c2/index.m3u8
+#EXTINF:-1, Rouen 2 - Dunkerque
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dcaacb8ebee495bafd61c0/index.m3u8
+#EXTINF:-1, Évry-Viry - Courbevoie
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb8ebee495bafd61bc/index.m3u8
+#EXTINF:-1, Clermont-FD - Besancon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb8ebee495bafd61ba/index.m3u8
+#EXTINF:-1, Lions de Lyon - Bordeaux
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb2de202e1780053b7/index.m3u8
 #EXTINF:-1, Val. Meziříčí - Nový Jičín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f79165/index.m3u8
 #EXTINF:-1, HC Cheb - Karlovy Vary B
@@ -35,18 +41,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6901d8c63829c1557f6067
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb332de58cdfe8ac577a6b/index.m3u8
 #EXTINF:-1, HC DDM ČEB - Humpolec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6094dd14875374b216521/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Amiens 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb8ebee495bafd61be/index.m3u8
-#EXTINF:-1, Ducs d'Angers 2 - Caen 2
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68dcaacb8ebee495bafd61c2/index.m3u8
-#EXTINF:-1, Rouen 2 - Dunkerque
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68dcaacb8ebee495bafd61c0/index.m3u8
-#EXTINF:-1, Évry-Viry - Courbevoie
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb8ebee495bafd61bc/index.m3u8
-#EXTINF:-1, Clermont-FD - Besancon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb8ebee495bafd61ba/index.m3u8
-#EXTINF:-1, Lions de Lyon - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dcaacb2de202e1780053b7/index.m3u8
 #EXTINF:-1, IFK Lepplax - Laser HT
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690594113829c1557f607077/index.m3u8
 #EXTINF:-1, Karhu-Kissat Ak - Hunters
@@ -90,7 +84,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69083b1940899867ab485d
 #EXTINF:-1, Ronneby IK - Åstorps IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084a6d40899867ab485ea8/index.m3u8
 #EXTINF:-1, Lund Giants - Trelleborg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084c213829c1557f607a6b/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69084c213829c1557f607a6b/index.m3u8
 #EXTINF:-1, Örnen - Eskilstuna Linden 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69084cfc3829c1557f607a75/index.m3u8
 #EXTINF:-1, Varberg HK - Skärgården
@@ -180,12 +174,22 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791
 #EXTINF:-1, Ice Team - Kurra Gepardit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5903829c1557f60743c/index.m3u8
 #EXTINF:-1, Hawks - KJT Haukat
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6906e5903829c1557f607460/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6906e5903829c1557f607460/index.m3u8
 #EXTINF:-1, Sweden - United States
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083bf13829c1557f607921/index.m3u8
 #EXTINF:-1, Sokolov - Frýdek-Místek
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6902196c3829c1557f6068a5.m3u8
 #EXTINF:-1, HC Vipers - Viru Sputnik
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fe389f1b6aaf7f52e5797b/index.m3u8
+#EXTINF:-1, Mechelen - Luxembourg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f4bdb6d05203452220ff76/index.m3u8
+#EXTINF:-1, Liège II - Charleroi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ff49b73829c1557f606317/index.m3u8
 #EXTINF:-1, Rönnängs IK - Järnbrott
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69083bf13829c1557f607930/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Neuilly
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690acf4740899867ab48635b/index.m3u8
+#EXTINF:-1, Szeged - MAC Budapest
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc4ed840899867ab483df1/index.m3u8
+#EXTINF:-1, Leuven Chiefs - Neuwied
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ff42a53829c1557f6062e5/index.m3u8
