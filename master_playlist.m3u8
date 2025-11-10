@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Briançon - Aigles de Nice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28511b4c8ed39e3473eda/index.m3u8
+#EXTINF:-1, NY Islanders - New Jersey
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/323aa24e-12d3-45ee-b48b-94209f9b9592/master.m3u8
+#EXTINF:-1, Nashville - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8c2acddb-c2e2-4455-bcce-99327c13e4bf/master.m3u8
