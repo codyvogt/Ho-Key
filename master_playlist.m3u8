@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dinamo Minsk - Sochi
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Spartak Moscow - Sibir
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Neftekhimik - Ak Bars
@@ -10,9 +8,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690233df3829c1557f6069
 #EXTINF:-1, Sollentuna HC - Almtuna IS
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690996d140899867ab486195/index.m3u8
 #EXTINF:-1, Enköpings SK HK - Tyresö
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690994413829c1557f607d47/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690994413829c1557f607d47/index.m3u8
 #EXTINF:-1, Vallentuna - Huddinge IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690995f740899867ab48618d/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690995f740899867ab48618d/index.m3u8
 #EXTINF:-1, Nyköpings SK - Nacka HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69098ae23829c1557f607d33/index.m3u8
 #EXTINF:-1, IK Göta - Flemingsbergs IK
@@ -28,14 +26,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69098ffe40899867ab4861
 #EXTINF:-1, Kils AIK - Grums IK 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690997ac40899867ab4861af/index.m3u8
 #EXTINF:-1, Hammarby IF - Lidingö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69098c993829c1557f607d41/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69098c993829c1557f607d41/index.m3u8
 #EXTINF:-1, Trångsunds IF - Haninge
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69098f263829c1557f607d43/index.m3u8
 #EXTINF:-1, SDE HF - IFK Täby HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909944140899867ab486189/index.m3u8
 #EXTINF:-1, Spånga IS IK - Brinkens IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69099b153829c1557f607d78/index.m3u8
-#EXTINF:-1, Dragons de Rouen - Amiens
+#EXTINF:-1, Rouen - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473ed6.m3u8
 #EXTINF:-1, Briançon - Aigles de Nice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473eda.m3u8
