@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Tábor - MD Šumperk
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f1099f6a8d395acaab5093/index.m3u8
 #EXTINF:-1, Torpedo - Lokomotiv
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Sochi
@@ -9,3 +7,5 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Neftekhimik - Ak Bars
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1, Sønderjyske - White Hawks
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690233df3829c1557f60690c.m3u8
