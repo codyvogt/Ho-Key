@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Spartak Moscow - Sibir
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1, Neftekhimik - Ak Bars
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Sønderjyske - White Hawks
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690233df3829c1557f60690c.m3u8
 #EXTINF:-1, Sollentuna HC - Almtuna IS
@@ -30,14 +26,14 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69098c993829c1557f607d
 #EXTINF:-1, Trångsunds IF - Haninge
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69098f263829c1557f607d43/index.m3u8
 #EXTINF:-1, SDE HF - IFK Täby HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909944140899867ab486189/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6909944140899867ab486189/index.m3u8
 #EXTINF:-1, Spånga IS IK - Brinkens IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69099b153829c1557f607d78/index.m3u8
 #EXTINF:-1, Rouen - Amiens
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473ed6.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28511b4c8ed39e3473ed6/index.m3u8
 #EXTINF:-1, Briançon - Aigles de Nice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473eda.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28511b4c8ed39e3473eda/index.m3u8
 #EXTINF:-1, Chamonix - Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473ede.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28511b4c8ed39e3473ede/index.m3u8
 #EXTINF:-1, OKK Tankki - PT-80
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908370f3829c1557f6078c1/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6908370f3829c1557f6078c1/index.m3u8
