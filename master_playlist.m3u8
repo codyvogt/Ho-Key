@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Torpedo - Lokomotiv
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Sochi
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Spartak Moscow - Sibir
@@ -37,3 +35,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69098f263829c1557f607d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909944140899867ab486189/index.m3u8
 #EXTINF:-1, Spånga IS IK - Brinkens IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69099b153829c1557f607d78/index.m3u8
+#EXTINF:-1, Dragons de Rouen - Amiens
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473ed6.m3u8
+#EXTINF:-1, Briançon - Aigles de Nice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473eda.m3u8
+#EXTINF:-1, Chamonix - Anglet
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28511b4c8ed39e3473ede.m3u8
+#EXTINF:-1, OKK Tankki - PT-80
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908370f3829c1557f6078c1/index.m3u8
