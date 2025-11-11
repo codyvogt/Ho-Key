@@ -1,29 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Olofströms IK - Bäcken HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690aea053829c1557f607f78/index.m3u8
-#EXTINF:-1, Viggbyholm - IFK Tumba IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ae69b3829c1557f607f52/index.m3u8
-#EXTINF:-1, Tierps HK - Segeltorps IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690aeade3829c1557f607f8a/index.m3u8
-#EXTINF:-1, Sollefteå HK - KB65 HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ae5c140899867ab486393/index.m3u8
-#EXTINF:-1, Flemingsbergs IK - IK Göta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ae2573829c1557f607f4e/index.m3u8
-#EXTINF:-1, Gnesta IK - Nynäshamns IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690aef223829c1557f607fae/index.m3u8
-#EXTINF:-1, Skutskärs SK - Bollnäs IS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690af43e40899867ab4863e2/index.m3u8
-#EXTINF:-1, Hedesunda IF - Åbyggeby
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690adc6140899867ab48638d/index.m3u8
-#EXTINF:-1, Brinkens IF - Kista HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690adfce3829c1557f607f46/index.m3u8
-#EXTINF:-1, Boo HC - IFK Mariefred
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690ae5c140899867ab486397/index.m3u8
-#EXTINF:-1, Lenhovda IF - Kalmar HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ade163829c1557f607f44/index.m3u8
-#EXTINF:-1, Varberg HK - Järnbrotts HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690adaac40899867ab486389/index.m3u8
-#EXTINF:-1, Värnamo - Tingsryd Utv.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690aeade3829c1557f607f8c/index.m3u8
-#EXTINF:-1, Karhu-Kissat - HC Ludwig
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6909888f3829c1557f607d18/index.m3u8
+#EXTINF:-1, Toronto - Boston Bruins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5eaa99d-1a11-45d8-ace9-33c9d62271e1/master.m3u8
+#EXTINF:-1, Los Angeles - Montréal
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/56b7fc16-641e-47ae-ac63-a2053e0521cf/master.m3u8
+#EXTINF:-1, Dallas - Ottawa Senators
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c38e63ac-4e80-439c-953f-e0bffc13d4ad/master.m3u8
+#EXTINF:-1, Washington - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e9afa714-d66c-49cf-a15c-90bb1e341821/master.m3u8
