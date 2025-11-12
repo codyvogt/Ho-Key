@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Toronto - Boston Bruins
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5eaa99d-1a11-45d8-ace9-33c9d62271e1/master.m3u8
-#EXTINF:-1, Los Angeles - Montréal
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/56b7fc16-641e-47ae-ac63-a2053e0521cf/master.m3u8
-#EXTINF:-1, Dallas - Ottawa Senators
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c38e63ac-4e80-439c-953f-e0bffc13d4ad/master.m3u8
-#EXTINF:-1, Washington - Carolina
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e9afa714-d66c-49cf-a15c-90bb1e341821/master.m3u8
+#EXTINF:-1, NY Rangers - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fdb75cc5-8023-44dc-9914-6f07b2cdf718/master.m3u8
+#EXTINF:-1, Edmonton - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8007f5a1-a2f6-44d7-907d-9fe69fada923/master.m3u8
