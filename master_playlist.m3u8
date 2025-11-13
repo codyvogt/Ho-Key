@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mora IK - Leksands IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690d922240899867ab4868d5/index.m3u8
-#EXTINF:-1, Laser HT Ak - LiKi
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690c2b9040899867ab48658d/index.m3u8
-#EXTINF:-1, EVU - Grankulla IFK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690c2b8f3829c1557f60814f/index.m3u8
-#EXTINF:-1, Skillingaryds IS - Nässjö
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7f6140899867ab486887/index.m3u8
-#EXTINF:-1, Ronneby IK - Sölvesborg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690d907240899867ab4868d1/index.m3u8
-#EXTINF:-1, Åstorps IK - Trelleborg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7dac40899867ab486883/index.m3u8
-#EXTINF:-1, IF Lejonet - Glimma HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7cd23829c1557f6083b0/index.m3u8
-#EXTINF:-1, IFK Österåker - Brinken
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d8a773829c1557f608422/index.m3u8
-#EXTINF:-1, IK Guts - HC Vita Hästen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc769d40899867ab4840d5/index.m3u8
-#EXTINF:-1, IFK Salem - IFK Tumba IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690d82ca40899867ab48688d/index.m3u8
-#EXTINF:-1, Hisingens IK - IF Mölndal
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690d94b040899867ab4868eb/index.m3u8
-#EXTINF:-1, Almtuna IS - AIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d8f983829c1557f608458/index.m3u8
 #EXTINF:-1, HC Faclons - Pergine
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880ed9d1d615b78791f4634/index.m3u8
 #EXTINF:-1, HCMV Varese - HC Aosta
@@ -31,5 +7,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed961d615b78791f46
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880ed971d615b78791f462c/index.m3u8
 #EXTINF:-1, Valdifiemme - HC Feltre
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed9e1d615b78791f4636/index.m3u8
+#EXTINF:-1, EVU - Grankulla IFK
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690c2b8f3829c1557f60814f/index.m3u8
 #EXTINF:-1, PiTa - Apollo Rangers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c2b8f3829c1557f60814d/index.m3u8
