@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ak Bars - Dynamo Moscow
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Mountfield HK - Liberec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa361840899867ab48372a/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - HC Příbram
@@ -32,7 +30,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d8a773829c1557f6084
 #EXTINF:-1, IK Guts - HC Vita Hästen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc769d40899867ab4840d5/index.m3u8
 #EXTINF:-1, IFK Salem - IFK Tumba IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d82ca40899867ab48688d/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690d82ca40899867ab48688d/index.m3u8
 #EXTINF:-1, Hisingens IK - IF Mölndal
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d94b040899867ab4868eb/index.m3u8
 #EXTINF:-1, Almtuna IS - AIK
