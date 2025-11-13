@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Ak Bars - Dynamo Moscow
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, Torpedo Oskemen - Nomad
-https://cdn.inhockey.tv/live/local2/index.m3u8
-#EXTINF:-1, Gornyak Rudny - Ertis
-https://cdn.inhockey.tv/live/local4/index.m3u8
-#EXTINF:-1, Sunqar Oral - Qarmet
-https://cdn.inhockey.tv/live/local3/index.m3u8
 #EXTINF:-1, Dinamo-Mol. - Yunost
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Mountfield HK - Liberec
