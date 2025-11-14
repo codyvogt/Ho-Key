@@ -11,20 +11,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6902230d3829c1557f6068
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6902237d3829c1557f6068f1.m3u8
 #EXTINF:-1, Liberec - HC Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6902234940899867ab484e17.m3u8
-#EXTINF:-1, Motor ČEB - Karlovy Vary
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690210fd3829c1557f606867/index.m3u8
-#EXTINF:-1, Berani Zlín - Sparta Praha
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69032a3d40899867ab485003/index.m3u8
-#EXTINF:-1, Vítkovice - Dukla Jihlava
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904a5f83829c1557f606e8a/index.m3u8
-#EXTINF:-1, HC Škoda Plzeň - Litvínov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e17800591a/index.m3u8
-#EXTINF:-1, Mountfield - Ml. Boleslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de40448ebee495bafd66db/index.m3u8
-#EXTINF:-1, HC Pardubice - Liberec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ed152850c8e37c3b1dc272/index.m3u8
-#EXTINF:-1, HC Poruba - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256ed14875374b216572/index.m3u8
 #EXTINF:-1, Oulun Kärpät - RoKi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7d0f40899867ab48684c/index.m3u8
 #EXTINF:-1, SaiPa - Vaasan Sport
@@ -77,10 +63,22 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690b4dd940899867ab4864
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690b4dd940899867ab486482/index.m3u8
 #EXTINF:-1, Dinamo-Shinnik - Avto
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Berani Zlín - Sparta Praha
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69032a3d40899867ab485003/index.m3u8
+#EXTINF:-1, Vítkovice - Dukla Jihlava
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904a5f83829c1557f606e8a/index.m3u8
+#EXTINF:-1, HC Škoda Plzeň - Litvínov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e17800591a/index.m3u8
+#EXTINF:-1, Mountfield - Ml. Boleslav
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68de40448ebee495bafd66db/index.m3u8
+#EXTINF:-1, HC Pardubice - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ed152850c8e37c3b1dc272/index.m3u8
+#EXTINF:-1, HC Poruba - Kometa Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256ed14875374b216572/index.m3u8
 #EXTINF:-1, KJT Haukat - KOOVEE
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7d0f3829c1557f6083eb/index.m3u8
 #EXTINF:-1, LeKi - Viikingit Helsinki
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7d0f3829c1557f6083ea/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690d7d0f3829c1557f6083ea/index.m3u8
 #EXTINF:-1, TUTO - Kiekko-Espoo Ch
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7d0f3829c1557f6083f4/index.m3u8
 #EXTINF:-1, Laser HT Oulu - Titaanit
@@ -90,7 +88,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7d0f3829c1557f6083
 #EXTINF:-1, Forssan Palloseura - LeKi
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690d7d0f3829c1557f6083c8/index.m3u8
 #EXTINF:-1, Kankaanpään JK - KOOVEE
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7d0f3829c1557f6083ba/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690d7d0f3829c1557f6083ba/index.m3u8
 #EXTINF:-1, He-Ki - Highsticks HT
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d7d0f3829c1557f6083d1/index.m3u8
 #EXTINF:-1, Viikingit Helsinki - KHT
