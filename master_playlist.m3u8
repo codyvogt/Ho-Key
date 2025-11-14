@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Buffalo Sabres - Colorado
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/85a45a22-6764-4826-b336-c6a573ca4630/master.m3u8
-#EXTINF:-1, San Jose - Calgary Flames
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50822666-6c80-49a6-b430-94b7a3774bc6/master.m3u8
-#EXTINF:-1, NY Islanders - Vegas
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/797ad0df-2029-4f01-88e1-d9bcd4b707e2/master.m3u8
-#EXTINF:-1, Winnipeg - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/02432250-9aff-479c-81bd-cff6d7848128/master.m3u8
+#EXTINF:-1, Motor ČEB - Karlovy Vary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690210fd3829c1557f606867/index.m3u8
+#EXTINF:-1, Berani Zlín - Sparta Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a3d40899867ab485003/index.m3u8
+#EXTINF:-1, Vítkovice - Dukla Jihlava
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904a5f83829c1557f606e8a/index.m3u8
+#EXTINF:-1, HC Škoda Plzeň - Litvínov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e17800591a/index.m3u8
+#EXTINF:-1, Mountfield - Ml. Boleslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de40448ebee495bafd66db/index.m3u8
+#EXTINF:-1, HC Pardubice - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ed152850c8e37c3b1dc272/index.m3u8
+#EXTINF:-1, HC Poruba - Kometa Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256ed14875374b216572/index.m3u8
