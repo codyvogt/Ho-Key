@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Vancouver - Carolina
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/056d5888-6376-40cf-9a76-fc50312365c2/master.m3u8
+#EXTINF:-1, Philadelphia - St. Louis
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/056d5888-6376-40cf-9a76-fc50312365c2/master.m3u8
 #EXTINF:-1, Dartmouth - St. Lawrence
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, Harvard - Clarkson
@@ -47,3 +49,5 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, Maine - Holy Cross
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Chicago - US NTDP U18
+https://d12y4lewtl2kss.cloudfront.net/76244518f30e682f0e8a49593b146f91/0_hd_hls.m3u8
