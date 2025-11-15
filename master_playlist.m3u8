@@ -3,12 +3,6 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Sochi - Shanghai Dragons
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Lvi Břeclav - Nový Jičín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb332de58cdfe8ac577a6a/index.m3u8
-#EXTINF:-1, SK Kadaň - Slovan Louny
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690621a8a0ab0e4949182324/index.m3u8
-#EXTINF:-1, HC Milevsko - HC DDM ČEB
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac57799f/index.m3u8
 #EXTINF:-1, Rubin Tyumen - Olimpiya
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, SaiPa - Lahden Pelicans
@@ -20,7 +14,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690ece963829c1557f6089
 #EXTINF:-1, Kiekko-Esoo - Jokerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece953829c1557f6088e5/index.m3u8
 #EXTINF:-1, Tampereen Ilves - JYP
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece953829c1557f6088e9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690ece953829c1557f6088e9/index.m3u8
 #EXTINF:-1, Ulricehamns IF - Sörhaga
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69102a0c3829c1557f608e47/index.m3u8
 #EXTINF:-1, Tyringe - Kristianstads IK
@@ -68,13 +62,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef55b4d14875374b2150
 #EXTINF:-1, Škoda Plzeň - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e178005919/index.m3u8
 #EXTINF:-1, Pardubice - Mladá Boleslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ed152850c8e37c3b1dc273/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ed152850c8e37c3b1dc273/index.m3u8
 #EXTINF:-1, Vítkovice - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904a5f83829c1557f606e8b/index.m3u8
 #EXTINF:-1, Burträsk HC - Norsjö HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d8c1b3958c07844b1a3bc3/index.m3u8
 #EXTINF:-1, MaKo - VaPS Miehet II
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece943829c1557f6087e9/index.m3u8
+#EXTINF:-1, SK Kadaň - Slovan Louny
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690621a8a0ab0e4949182324/index.m3u8
+#EXTINF:-1, HC Milevsko - HC DDM ČEB
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac57799f/index.m3u8
 #EXTINF:-1, Rockets - HPK Akatemia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece9540899867ab486c80/index.m3u8
 #EXTINF:-1, S-Kiekko - Laser HT Oulu
