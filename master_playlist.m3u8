@@ -3,6 +3,8 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Sochi - Shanghai Dragons
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Lokomotiv Yaroslavl - Barys
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Rubin Tyumen - Olimpiya
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, HPK - Tappara Tampere
@@ -11,6 +13,8 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690ece963829c1557f6089
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece953829c1557f6088e5/index.m3u8
 #EXTINF:-1, Tampereen Ilves - JYP
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690ece953829c1557f6088e9/index.m3u8
+#EXTINF:-1, KooKoo - Vaasan Sport
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece963829c1557f608906/index.m3u8
 #EXTINF:-1, Kiruna IF - Clemensnäs HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691035fd40899867ab4871e9/index.m3u8
 #EXTINF:-1, Borlänge HF - Strömsbro IF
@@ -31,14 +35,22 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69102e513829c1557f608e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69102d7840899867ab487104/index.m3u8
 #EXTINF:-1, Oskarshamn - Helsingborg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69103a3e3829c1557f608ff8/index.m3u8
+#EXTINF:-1, Ånge IK - Umeå HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691030043829c1557f608ef3/index.m3u8
+#EXTINF:-1, IF Troja-Ljungby - Hanhal
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691031b93829c1557f608f35/index.m3u8
 #EXTINF:-1, JYP Akatemia - Jokipojat
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690ece9640899867ab486cb4/index.m3u8
+#EXTINF:-1, Hokki - KeuPa HT/Diskos
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece9640899867ab486d1e/index.m3u8
 #EXTINF:-1, HK Opava - SK Prostějov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69088c663829c1557f607bc9/index.m3u8
 #EXTINF:-1, Bats Blansko - Vysočina
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ede815d14875374b214b33/index.m3u8
 #EXTINF:-1, Karlovy Vary - HC Děčín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690497dd0f7d28e64feb0927/index.m3u8
+#EXTINF:-1, Břeclav - Val. Meziříčí B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69047bc540899867ab485269/index.m3u8
 #EXTINF:-1, HC Everest - HC Wolferines
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6905f76d7ed58ac2150ce068/index.m3u8
 #EXTINF:-1, Berani Zlín - Slavia Praha
@@ -64,7 +76,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6910329440899867ab4871
 #EXTINF:-1, Häradsbygden - Arboga
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6910226240899867ab48707c/index.m3u8
 #EXTINF:-1, Lund Giants HC - KRIF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691035213829c1557f608f86/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691035213829c1557f608f86/index.m3u8
 #EXTINF:-1, Falu IF - Gävle GIK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69102f2a3829c1557f608ebb/index.m3u8
 #EXTINF:-1, Viking HC - Karlskoga 2
@@ -120,7 +132,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece953829c1557f6088
 #EXTINF:-1, Paimion KS - TuK-V
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690ece943829c1557f6087e8/index.m3u8
 #EXTINF:-1, Sport Akatemia - KuRy II
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece9540899867ab486c32/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690ece9540899867ab486c32/index.m3u8
 #EXTINF:-1, Lapuan Virkiä II - TUS
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece9440899867ab486c27/index.m3u8
 #EXTINF:-1, DVTK JA - HC Innsbruck
