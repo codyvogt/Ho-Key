@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Philadelphia - St. Louis
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/056d5888-6376-40cf-9a76-fc50312365c2/master.m3u8
 #EXTINF:-1, NY Islanders - Utah
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3e8a1c87-5866-4fbb-add3-a5ef22183c64/master.m3u8
-#EXTINF:-1, Omaha - Minnesota Duluth
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a215adb3-fff5-4c7f-9522-8fab48374092-hls/master/a215adb3-fff5-4c7f-9522-8fab48374092-hls.m3u8
-#EXTINF:-1, ASU - North Dakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/aa01d7cb-c04f-4f67-86f7-4eb5e3eba4ed-hls/master/aa01d7cb-c04f-4f67-86f7-4eb5e3eba4ed-hls.m3u8
 #EXTINF:-1, Colorado College - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0cbc285b-0317-45cd-befb-69c674d8811f-hls/master/0cbc285b-0317-45cd-befb-69c674d8811f-hls.m3u8
