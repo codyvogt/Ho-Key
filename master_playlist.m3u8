@@ -11,12 +11,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/afcc0c
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6a5afe8f-4cc0-4eb7-bf8c-21c6460a9876/master.m3u8
 #EXTINF:-1, NY Rangers - Columbus
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/52fbe809-70e0-4b2f-842a-8778a4a75a42/master.m3u8
-#EXTINF:-1, Dartmouth - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Boston U - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, UMass Lowell - RPI
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Providence - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Miami - Western Michigan
@@ -45,7 +39,3 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Denver - Colorado College
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a37f7954-f071-40a5-b716-f288791b0cef-hls/master/a37f7954-f071-40a5-b716-f288791b0cef-hls.m3u8
-#EXTINF:-1, Majadahonda - Barça HG
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691736ef1ea1b60e809f2ad9/index.m3u8
-#EXTINF:-1, Puigcerdà - Majadahonda
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691738a81ea1b60e809f2af3/index.m3u8
