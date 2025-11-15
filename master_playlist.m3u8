@@ -1,30 +1,16 @@
 #EXTM3U
 #EXTINF:-1, Tampa Bay - Florida
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/94f25c16-2bc8-44f8-bbab-c99b8123ad3c/master.m3u8
-#EXTINF:-1, Haskey Hasselt - Antwerp
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690732b740899867ab485c04/index.m3u8
-#EXTINF:-1, HYC II - Bulldogs Liège II
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690732b840899867ab485c06/index.m3u8
-#EXTINF:-1, Chambéry - Villard-de-Lans
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e493cbe14bd1ca73a587ea/index.m3u8
-#EXTINF:-1, Morzine - Valenciennes
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e493cbe14bd1ca73a587ee/index.m3u8
-#EXTINF:-1, HC Aosta - Eppan Pirates
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880eda089696da69144224b/index.m3u8
 #EXTINF:-1, Valdifiemme - HC Falcons
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880eda11d615b78791f463c/index.m3u8
 #EXTINF:-1, Valpellice - Alleghe
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880eda289696da69144224d/index.m3u8
-#EXTINF:-1, Leuven Chiefs - Limburg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69072ba440899867ab485bda/index.m3u8
-#EXTINF:-1, Brest - Évry-Viry
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e493ccc62be9451d65f68c/index.m3u8
 #EXTINF:-1, Annecy - Clermont-Ferrand
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e493cbe14bd1ca73a587f4/index.m3u8
 #EXTINF:-1, Anglet 2 - Mulhouse
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e493cbe14bd1ca73a587f8/index.m3u8
-#EXTINF:-1, Ducs d'Angers - Gheorgheni
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690b4dd940899867ab486484/index.m3u8
+#EXTINF:-1, HYC II - Bulldogs Liège II
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690732b840899867ab485c06/index.m3u8
 #EXTINF:-1, Dartmouth - Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Boston U - Quinnipiac
