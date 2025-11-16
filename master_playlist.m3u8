@@ -3,12 +3,6 @@
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69146daf109a6801f3cf6090.m3u8
 #EXTINF:-1, HC Kometa Brno - Třinec
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146dec109a6801f3cf6092.m3u8
-#EXTINF:-1, Kisa-Eagles - Pyry Team
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6910200f40899867ab486f2e/index.m3u8
-#EXTINF:-1, Kurra HT - Kerava Shakers
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6910200f3829c1557f608bd9/index.m3u8
-#EXTINF:-1, S-Kiekko Team - KuRy
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6910201040899867ab486f49/index.m3u8
 #EXTINF:-1, Kobra Praha - Kutná Hora
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256dd14875374b216568/index.m3u8
 #EXTINF:-1, HC Turnov - HC Frýdlant
@@ -60,7 +54,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54be14bd1ca73a58a
 #EXTINF:-1, Cergy-Pontoise - Angers
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e5e54be14bd1ca73a58aa0/index.m3u8
 #EXTINF:-1, Drakkars de Caen - Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54be14bd1ca73a58a96/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54be14bd1ca73a58a96/index.m3u8
 #EXTINF:-1, Grenoble - Strasbourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54be14bd1ca73a58a9c/index.m3u8
 #EXTINF:-1, HYRI - Karhu-Kissat
@@ -69,6 +63,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c6f/index.m3u8
 #EXTINF:-1, Hunters - HIFK Sibbo
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691020103829c1557f608c15/index.m3u8
+#EXTINF:-1, Kurra HT - Kerava Shakers
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6910200f3829c1557f608bd9/index.m3u8
+#EXTINF:-1, S-Kiekko Team - KuRy
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6910201040899867ab486f49/index.m3u8
 #EXTINF:-1, Dinamo-Mol. - HK Vitebsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Duells PHK - Flyers HC
@@ -77,8 +75,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118931a199919ff362f6
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117825c6734d1f94b2754f/index.m3u8
 #EXTINF:-1, Skärgårdens SK - Åby HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69118a0aa199919ff362f6c4/index.m3u8
-#EXTINF:-1, Nacka 2 - Hässelby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118857a199919ff362f69d/index.m3u8
 #EXTINF:-1, IFK Salem - Trångsunds IF
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6911774da199919ff362f4b2/index.m3u8
 #EXTINF:-1, Szeged - Győr ETO HC
