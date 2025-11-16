@@ -96,7 +96,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff43d740899867ab4848
 #EXTINF:-1, HC Žihadla - Lvi Břeclav
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6909979940899867ab4861a8/index.m3u8
 #EXTINF:-1, Uher. Hradiště - Technika B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa19f740899867ab4836aa/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fa19f740899867ab4836aa/index.m3u8
 #EXTINF:-1, HC Humpolec - Strakonice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa27fd40899867ab4836e0/index.m3u8
 #EXTINF:-1, Česká Lípa - Vlci Jablonec
@@ -163,19 +163,47 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c15/index.m3u8
 #EXTINF:-1, HC Vita Hästen - HHK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117e1ba199919ff362f544/index.m3u8
+#EXTINF:-1, Smedjebacken - Sollentuna
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691184edc6734d1f94b27641/index.m3u8
 #EXTINF:-1, Meudon - Wildcats Épinal
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54ac62be9451d65f8d9/index.m3u8
 #EXTINF:-1, Rouen 2 - Amiens 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54ac62be9451d65f8d7/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54ac62be9451d65f8d7/index.m3u8
+#EXTINF:-1, Bordeaux - Clermont-FD
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54ae14bd1ca73a58a82/index.m3u8
 #EXTINF:-1, Zinnen Dolomites - Torino
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69008cf93829c1557f606506/index.m3u8
 #EXTINF:-1, Zoldo - Piemont Rebelies
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69008cfa3829c1557f606508/index.m3u8
 #EXTINF:-1, RNK Hoci - Chiefs Turku
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c0b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691020103829c1557f608c0b/index.m3u8
 #EXTINF:-1, Suolahden Urho - SuKiKa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c98/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691020103829c1557f608c98/index.m3u8
+#EXTINF:-1, Kraft - IFK Lepplax
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c72/index.m3u8
+#EXTINF:-1, HiHo - Kiekko-Ahma
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6910200f40899867ab486f2c/index.m3u8
+#EXTINF:-1, Tornion IHC - KeKi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6910200f3829c1557f608bd7/index.m3u8
+#EXTINF:-1, Warkis - Pelikaanit HT
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608c6e/index.m3u8
+#EXTINF:-1, Kisa-Eagles - Pyry Team
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6910200f40899867ab486f2e/index.m3u8
+#EXTINF:-1, Kurra HT - Kerava Shakers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6910200f3829c1557f608bd9/index.m3u8
+#EXTINF:-1, S-Kiekko Team - KuRy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6910201040899867ab486f49/index.m3u8
 #EXTINF:-1, IFK Tumba IK 2 - Järna SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69102d7840899867ab4870fa/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69102d7840899867ab4870fa/index.m3u8
+#EXTINF:-1, Duells PHK - Flyers HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118931a199919ff362f6a4/index.m3u8
+#EXTINF:-1, Munkedals BK - Fotskäl
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117825c6734d1f94b2754f/index.m3u8
+#EXTINF:-1, Skärgårdens SK - Åby HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118a0aa199919ff362f6c4/index.m3u8
+#EXTINF:-1, Nacka 2 - Hässelby
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118857a199919ff362f69d/index.m3u8
 #EXTINF:-1, Puigcerdà - Majadahonda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69173999109a6801f3cf67fa/index.m3u8
+#EXTINF:-1, C.H. Jaca - CH Huarte
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6917393c109a6801f3cf67f8/index.m3u8
