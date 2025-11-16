@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Kometa Brno - Třinec
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146dec109a6801f3cf6092.m3u8
-#EXTINF:-1, Milevsko B - Veselí n. L.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb170de58cdfe8ac577996/index.m3u8
-#EXTINF:-1, Spartak Choceň - Jaroměř
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f791c9/index.m3u8
-#EXTINF:-1, Kutná Hora - Rytíři Vlašim
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690a08173829c1557f607e64/index.m3u8
-#EXTINF:-1, Sokolov B - Čerti Ostrov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac5779a6/index.m3u8
-#EXTINF:-1, Dinamo-Mol. - HK Vitebsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Lerums BK - Skärgården
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117596c6734d1f94b2752a/index.m3u8
-#EXTINF:-1, Kållered SK - Falkenberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691184eda199919ff362f670/index.m3u8
-#EXTINF:-1, Duells PHK - Flyers HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118931a199919ff362f6a4/index.m3u8
-#EXTINF:-1, Munkedals BK - Fotskäl
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117825c6734d1f94b2754f/index.m3u8
-#EXTINF:-1, Skärgårdens SK - Åby HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69118a0aa199919ff362f6c4/index.m3u8
-#EXTINF:-1, IFK Salem - Trångsunds IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6911774da199919ff362f4b2/index.m3u8
-#EXTINF:-1, Kiekko-Vantaa - Ilves Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691020103829c1557f608cb2/index.m3u8
 #EXTINF:-1, S-Kiekko Team - KuRy
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6910201040899867ab486f49/index.m3u8
 #EXTINF:-1, VG-62 Naantali - Spirit
@@ -41,6 +15,10 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54be14bd1ca73a58a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54be14bd1ca73a58a9c/index.m3u8
 #EXTINF:-1, Szeged - Győr ETO HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908c70b40899867ab486104/index.m3u8
+#EXTINF:-1, Munkedals BK - Fotskäl
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117825c6734d1f94b2754f/index.m3u8
+#EXTINF:-1, Skärgårdens SK - Åby HC
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69118a0aa199919ff362f6c4/index.m3u8
 #EXTINF:-1, AIK - Sundbybergs IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118857a199919ff362f6a0/index.m3u8
 #EXTINF:-1, Tegs SK - Njurunda SK
@@ -57,7 +35,11 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69087d243829c1557f607b
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69087d2440899867ab486006/index.m3u8
 #EXTINF:-1, Bordeaux - Clermont-FD
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54ae14bd1ca73a58a82/index.m3u8
+#EXTINF:-1, Sokolov B - Čerti Ostrov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac5779a6/index.m3u8
 #EXTINF:-1, Charleroi - Haskey Hasselt
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d125361c55dbe115576099/index.m3u8
 #EXTINF:-1, Mechelen Future - HYC II
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690884383829c1557f607ba9/index.m3u8
+#EXTINF:-1, Kållered SK - Falkenberg
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691184eda199919ff362f670/index.m3u8
