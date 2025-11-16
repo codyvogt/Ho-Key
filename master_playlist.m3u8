@@ -1,26 +1,12 @@
 #EXTM3U
-#EXTINF:-1, HC 74 - Rapaces de Gap
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54be14bd1ca73a58a98/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Angers
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68e5e54be14bd1ca73a58aa0/index.m3u8
-#EXTINF:-1, Drakkars de Caen - Anglet
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54be14bd1ca73a58a96/index.m3u8
-#EXTINF:-1, Grenoble - Strasbourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54be14bd1ca73a58a9c/index.m3u8
-#EXTINF:-1, Szeged - Győr ETO HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908c70b40899867ab486104/index.m3u8
-#EXTINF:-1, Munkedals BK - Fotskäl
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117825c6734d1f94b2754f/index.m3u8
-#EXTINF:-1, Skärgårdens SK - Åby HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69118a0aa199919ff362f6c4/index.m3u8
-#EXTINF:-1, AIK - Sundbybergs IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118857a199919ff362f6a0/index.m3u8
-#EXTINF:-1, Tegs SK - Njurunda SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e2017be14bd1ca73a581be/index.m3u8
 #EXTINF:-1, Ducs d'Angers - Cortina
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690b4dd940899867ab48647e/index.m3u8
 #EXTINF:-1, Litoměřice - Chomutov B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690095553829c1557f6065a7/index.m3u8
+#EXTINF:-1, Drakkars de Caen - Anglet
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54be14bd1ca73a58a96/index.m3u8
+#EXTINF:-1, Grenoble - Strasbourg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54be14bd1ca73a58a9c/index.m3u8
 #EXTINF:-1, Heerenveen - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69087d2440899867ab486004/index.m3u8
 #EXTINF:-1, EHC Neuwied - Hijs Hokij
