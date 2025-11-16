@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Litvínov - HC Pardubice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146d0c1ea1b60e809f2350.m3u8
 #EXTINF:-1, Karlovy Vary - Rytíři Kladno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146d431ea1b60e809f2354.m3u8
 #EXTINF:-1, BK Mladá Boleslav - Liberec
@@ -130,7 +128,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118931a199919ff362f6
 #EXTINF:-1, Munkedals BK - Fotskäl
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69117825c6734d1f94b2754f/index.m3u8
 #EXTINF:-1, Skärgårdens SK - Åby HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118a0aa199919ff362f6c4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69118a0aa199919ff362f6c4/index.m3u8
 #EXTINF:-1, Nacka 2 - Hässelby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118857a199919ff362f69d/index.m3u8
 #EXTINF:-1, IFK Salem - Trångsunds IF
@@ -141,5 +139,15 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908c70b40899867ab4861
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e2017be14bd1ca73a581be/index.m3u8
 #EXTINF:-1, Ducs d'Angers - Cortina
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690b4dd940899867ab48647e/index.m3u8
+#EXTINF:-1, Heerenveen - HYC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69087d2440899867ab486004/index.m3u8
+#EXTINF:-1, EHC Neuwied - Hijs Hokij
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69087d243829c1557f607b7f/index.m3u8
+#EXTINF:-1, Eaters Limburg - Mechelen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69087d2440899867ab486006/index.m3u8
 #EXTINF:-1, Bordeaux - Clermont-FD
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54ae14bd1ca73a58a82/index.m3u8
+#EXTINF:-1, Charleroi - Haskey Hasselt
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d125361c55dbe115576099/index.m3u8
+#EXTINF:-1, Mechelen Future - HYC II
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690884383829c1557f607ba9/index.m3u8
