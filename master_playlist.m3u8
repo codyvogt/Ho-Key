@@ -1,37 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Boston Bruins - Montréal
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/499b6fd7-05d2-40c6-9602-848f943e5019/master.m3u8
-#EXTINF:-1, New Jersey - Washington
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/afcc0c72-8d85-4d6b-a3ad-f47990a2335f/master.m3u8
-#EXTINF:-1, Edmonton Oilers - Carolina
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6a5afe8f-4cc0-4eb7-bf8c-21c6460a9876/master.m3u8
-#EXTINF:-1, NY Rangers - Columbus
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/52fbe809-70e0-4b2f-842a-8778a4a75a42/master.m3u8
 #EXTINF:-1, Vegas - St. Louis Blues
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8a6cf3b8-0a31-4969-9564-4d10ff826e5d/master.m3u8
 #EXTINF:-1, Philadelphia - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dd41210e-d076-4dcf-acb5-6ac28a55864e/master.m3u8
 #EXTINF:-1, San Jose - Seattle Kraken
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ade756a5-e602-427a-ae76-91b649903938/master.m3u8
-#EXTINF:-1, Harvard - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Brown - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Boston C - Massachusetts
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Stonehill - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Yale - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Omaha - Minnesota Duluth
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/09518170-e33f-4217-85bd-a35d70263ec5-hls/master/09518170-e33f-4217-85bd-a35d70263ec5-hls.m3u8
-#EXTINF:-1, ASU - North Dakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/dd7cb69f-c0ef-42b2-9f13-540e88dc1e3e-hls/master/dd7cb69f-c0ef-42b2-9f13-540e88dc1e3e-hls.m3u8
-#EXTINF:-1, Vermont - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Connecticut - Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Denver - Colorado College
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a37f7954-f071-40a5-b716-f288791b0cef-hls/master/a37f7954-f071-40a5-b716-f288791b0cef-hls.m3u8
-#EXTINF:-1, Chicago - US NTDP U18
-https://d2ewa8huexmjqi.cloudfront.net/5bf62616cd3629a97ed547cb97ca2442/0_hd_hls.m3u8
