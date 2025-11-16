@@ -19,28 +19,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146d741ea1b60e809f23
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69146daf109a6801f3cf6090.m3u8
 #EXTINF:-1, HC Kometa Brno - Třinec
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146dec109a6801f3cf6092.m3u8
-#EXTINF:-1, Česká Lípa - Vlci Jablonec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f38d59b6f68b0e1df264/index.m3u8
-#EXTINF:-1, Pelhřimov - HC Tábor B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df6797c62be9451d65e974/index.m3u8
-#EXTINF:-1, Kobra Praha - Kutná Hora
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256dd14875374b216568/index.m3u8
-#EXTINF:-1, HC Turnov - HC Frýdlant
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb252440899867ab4838c2/index.m3u8
-#EXTINF:-1, Nová Paka - Lomnice n. P.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69045fa53829c1557f606d4e/index.m3u8
-#EXTINF:-1, Litoměřice - Chomutov B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690095553829c1557f6065a7/index.m3u8
-#EXTINF:-1, Malmö Redhawks - Rögle
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118ae5a199919ff362f6e0/index.m3u8
-#EXTINF:-1, Almtuna IS - Hammarby IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118415a199919ff362f655/index.m3u8
-#EXTINF:-1, Karlskrona - Linköping 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118a0aa199919ff362f6ba/index.m3u8
-#EXTINF:-1, Järnbrott - Troja-Ljungby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118bbea199919ff362f706/index.m3u8
-#EXTINF:-1, AIK - Sundbybergs IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118857a199919ff362f6a0/index.m3u8
 #EXTINF:-1, Sønderjyske - Aalborg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915b69b109a6801f3cf6315.m3u8
 #EXTINF:-1, JHT - Kotkan Titaanit
@@ -144,7 +122,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691186a2c6734d1f94b276
 #EXTINF:-1, HC Mělník - Velké Popovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff7c1840899867ab484961/index.m3u8
 #EXTINF:-1, Jind. Hradec - Hluboká n. V.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa2804e58cdfe8ac577708/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fa2804e58cdfe8ac577708/index.m3u8
 #EXTINF:-1, Milevsko B - Veselí n. L.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb170de58cdfe8ac577996/index.m3u8
 #EXTINF:-1, SK Prostějov - Boskovice
@@ -163,6 +141,24 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690a08173829c1557f607e64/index.m3u8
 #EXTINF:-1, Sokolov B - Čerti Ostrov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac5779a6/index.m3u8
+#EXTINF:-1, Pelhřimov - HC Tábor B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df6797c62be9451d65e974/index.m3u8
+#EXTINF:-1, Kobra Praha - Kutná Hora
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256dd14875374b216568/index.m3u8
+#EXTINF:-1, HC Turnov - HC Frýdlant
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb252440899867ab4838c2/index.m3u8
+#EXTINF:-1, Nová Paka - Lomnice n. P.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69045fa53829c1557f606d4e/index.m3u8
+#EXTINF:-1, Litoměřice - Chomutov B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690095553829c1557f6065a7/index.m3u8
+#EXTINF:-1, Almtuna IS - Hammarby IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118415a199919ff362f655/index.m3u8
+#EXTINF:-1, Karlskrona - Linköping 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118a0aa199919ff362f6ba/index.m3u8
+#EXTINF:-1, Järnbrott - Troja-Ljungby
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118bbea199919ff362f706/index.m3u8
+#EXTINF:-1, AIK - Sundbybergs IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118857a199919ff362f6a0/index.m3u8
 #EXTINF:-1, SHK Ozolnieki - HK Tukums
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e15e25c62be9451d65ef39/index.m3u8
 #EXTINF:-1, Salo HT - HIFK GH
