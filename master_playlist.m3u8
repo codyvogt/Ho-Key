@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Ducs d'Angers - Cortina
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690b4dd940899867ab48647e/index.m3u8
 #EXTINF:-1, Litoměřice - Chomutov B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690095553829c1557f6065a7/index.m3u8
-#EXTINF:-1, Drakkars de Caen - Anglet
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54be14bd1ca73a58a96/index.m3u8
-#EXTINF:-1, Grenoble - Strasbourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54be14bd1ca73a58a9c/index.m3u8
 #EXTINF:-1, Heerenveen - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69087d2440899867ab486004/index.m3u8
 #EXTINF:-1, EHC Neuwied - Hijs Hokij
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69087d243829c1557f607b7f/index.m3u8
 #EXTINF:-1, Eaters Limburg - Mechelen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69087d2440899867ab486006/index.m3u8
+#EXTINF:-1, Grenoble - Strasbourg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e5e54be14bd1ca73a58a9c/index.m3u8
 #EXTINF:-1, Bordeaux - Clermont-FD
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e5e54ae14bd1ca73a58a82/index.m3u8
 #EXTINF:-1, Sokolov B - Čerti Ostrov
@@ -20,6 +16,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac5779
 #EXTINF:-1, Charleroi - Haskey Hasselt
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d125361c55dbe115576099/index.m3u8
 #EXTINF:-1, Mechelen Future - HYC II
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690884383829c1557f607ba9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690884383829c1557f607ba9/index.m3u8
 #EXTINF:-1, Kållered SK - Falkenberg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691184eda199919ff362f670/index.m3u8
