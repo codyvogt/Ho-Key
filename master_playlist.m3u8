@@ -5,10 +5,6 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Olomouc - Mountfield HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146e1d1ea1b60e809f235e.m3u8
-#EXTINF:-1, Lokomotiv Orsha - Neman
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Metallurg Zhlobin - Gomel
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Berani Zlín - HC Tábor
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146447109a6801f3cf6040.m3u8
 #EXTINF:-1, Dukla Jihlava - VHK Vsetín
@@ -21,6 +17,8 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6914653f1ea1b60e809f23
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914656c1ea1b60e809f2326.m3u8
 #EXTINF:-1, Slavia Třebíč - Chomutov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691464be109a6801f3cf6044.m3u8
+#EXTINF:-1, Metallurg Zhlobin - Gomel
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Mountfield HK - Pardubice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f9d3a840899867ab48354b/index.m3u8
 #EXTINF:-1, Plzeň - České Budějovice
