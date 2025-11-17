@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Olomouc - Mountfield HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146e1d1ea1b60e809f235e.m3u8
-#EXTINF:-1, HC Poruba - HC Vítkovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f6256ed14875374b21656f/index.m3u8
-#EXTINF:-1, SKMB - HC Boskovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69149416109a6801f3cf6101/index.m3u8
-#EXTINF:-1, HC Žabonosy - Poděbrady
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68be8e34a32fed197c9d102c/index.m3u8
-#EXTINF:-1, Vel. Meziříčí B - HK Žihadla
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c48a63829c1557f6081fd/index.m3u8
-#EXTINF:-1, Metallurg Zhlobin - Gomel
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Rødovre - Frederikshavn
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6915b81a109a6801f3cf631f.m3u8
 #EXTINF:-1, Almtuna IS - Nacka HK
@@ -32,4 +20,4 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912cec2614656d90f23ce
 #EXTINF:-1, Rönnängs IK - Lerums BK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690c307540899867ab4865ad/index.m3u8
 #EXTINF:-1, SDE HF - Östhammars SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912cec2614656d90f23ce84/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912cec2614656d90f23ce84/index.m3u8
