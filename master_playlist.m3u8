@@ -1,22 +1,14 @@
 #EXTM3U
-#EXTINF:-1, HC Sochi - Barys Astana
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Olomouc - Mountfield HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146e1d1ea1b60e809f235e.m3u8
-#EXTINF:-1, HC Chotěboř - Světlá n. S.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bc0756a32fed197c9d0ad0/index.m3u8
+#EXTINF:-1, HC Poruba - HC Vítkovice
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f6256ed14875374b21656f/index.m3u8
 #EXTINF:-1, SKMB - HC Boskovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69149416109a6801f3cf6101/index.m3u8
 #EXTINF:-1, HC Žabonosy - Poděbrady
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68be8e34a32fed197c9d102c/index.m3u8
 #EXTINF:-1, Vel. Meziříčí B - HK Žihadla
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c48a63829c1557f6081fd/index.m3u8
-#EXTINF:-1, HC Litvínov - Karlovy Vary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0fb95d14875374b21549d/index.m3u8
-#EXTINF:-1, Mladá Boleslav - Liberec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efaa1450c8e37c3b1dc905/index.m3u8
-#EXTINF:-1, HC Poruba - HC Vítkovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f6256ed14875374b21656f/index.m3u8
 #EXTINF:-1, Metallurg Zhlobin - Gomel
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Rødovre - Frederikshavn
@@ -30,7 +22,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912d9d7350f03ad08f4b9
 #EXTINF:-1, Huddinge - Flemingsberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d9d7350f03ad08f4b938/index.m3u8
 #EXTINF:-1, IK Göta - Nyköpings SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d594614656d90f23cebf/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912d594614656d90f23cebf/index.m3u8
 #EXTINF:-1, Timrå IK - Brunflo IK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912d8fe614656d90f23cec7/index.m3u8
 #EXTINF:-1, Mighty Ravens - Löfstad
