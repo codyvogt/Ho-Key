@@ -1,26 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv - Salavat Yulaev
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, HC Sochi - Barys Astana
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Olomouc - Mountfield HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146e1d1ea1b60e809f235e.m3u8
-#EXTINF:-1, Pardubice B - Frýdek-Místek
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691465081ea1b60e809f231e.m3u8
-#EXTINF:-1, Baník Sokolov - SC Kolín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6914653f1ea1b60e809f2322.m3u8
-#EXTINF:-1, Litoměřice - ZUBR Přerov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914656c1ea1b60e809f2326.m3u8
-#EXTINF:-1, Slavia Třebíč - Chomutov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691464be109a6801f3cf6044.m3u8
-#EXTINF:-1, Metallurg Zhlobin - Gomel
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Chotěboř - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bc0756a32fed197c9d0ad0/index.m3u8
-#EXTINF:-1, Náměšť n. Osl. - Humpolec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ae9173829c1557f607f6d/index.m3u8
-#EXTINF:-1, Blansko - Zastávka u Brna
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df102648319de9ecb4d/index.m3u8
 #EXTINF:-1, SKMB - HC Boskovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69149416109a6801f3cf6101/index.m3u8
 #EXTINF:-1, HC Žabonosy - Poděbrady
@@ -33,6 +17,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0fb95d14875374b2154
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efaa1450c8e37c3b1dc905/index.m3u8
 #EXTINF:-1, HC Poruba - HC Vítkovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f6256ed14875374b21656f/index.m3u8
+#EXTINF:-1, Metallurg Zhlobin - Gomel
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Rødovre - Frederikshavn
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6915b81a109a6801f3cf631f.m3u8
 #EXTINF:-1, Almtuna IS - Nacka HK
@@ -40,7 +26,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d594614656d90f23ce
 #EXTINF:-1, Sollentuna HC - Enköping
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d152350f03ad08f4b90e/index.m3u8
 #EXTINF:-1, Tyresö - Vallentuna
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d9d7350f03ad08f4b939/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912d9d7350f03ad08f4b939/index.m3u8
 #EXTINF:-1, Huddinge - Flemingsberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d9d7350f03ad08f4b938/index.m3u8
 #EXTINF:-1, IK Göta - Nyköpings SK
@@ -52,6 +38,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118ae5a199919ff362f6
 #EXTINF:-1, Boo - Huddinge Tigers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912cec2614656d90f23ce82/index.m3u8
 #EXTINF:-1, Rönnängs IK - Lerums BK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c307540899867ab4865ad/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690c307540899867ab4865ad/index.m3u8
 #EXTINF:-1, SDE HF - Östhammars SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912cec2614656d90f23ce84/index.m3u8
