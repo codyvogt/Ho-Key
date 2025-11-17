@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, NY Islanders - Colorado
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6ce1c08e-b427-4817-9aa6-f4103957b7ab/master.m3u8
 #EXTINF:-1, Slavia Praha - Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690997943829c1557f607d4f/index.m3u8
 #EXTINF:-1, Milevsko - Český Krumlov
@@ -8,6 +6,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c80efe9d2a1a468257fc
 #EXTINF:-1, HC Trutnov - HC Náchod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede80d50c8e37c3b1dc346/index.m3u8
 #EXTINF:-1, Žďár n. S. Mor. Třebová
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6908703d40899867ab485fe0/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908703d40899867ab485fe0/index.m3u8
 #EXTINF:-1, Pardubice - SK Kadaň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f784ff40899867ab483113/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f784ff40899867ab483113/index.m3u8
