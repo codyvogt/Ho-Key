@@ -3,6 +3,8 @@
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, HC Sochi - Barys Astana
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Olomouc - Mountfield HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146e1d1ea1b60e809f235e.m3u8
 #EXTINF:-1, Rubin Tyumen - Molot Perm
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Slavia Praha - HC Poruba
@@ -26,7 +28,7 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Metallurg Zhlobin - Gomel
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Mountfield HK - Pardubice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9d3a840899867ab48354b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f9d3a840899867ab48354b/index.m3u8
 #EXTINF:-1, Plzeň - České Budějovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e17800591b/index.m3u8
 #EXTINF:-1, HC Litvínov - Karlovy Vary
