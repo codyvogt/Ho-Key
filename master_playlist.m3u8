@@ -1,15 +1,23 @@
 #EXTM3U
-#EXTINF:-1, Rubin Tyumen - Molot Perm
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1, Slavia Praha - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690997943829c1557f607d4f/index.m3u8
-#EXTINF:-1, Milevsko - Český Krumlov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c80efe9d2a1a468257fc03/index.m3u8
 #EXTINF:-1, HC Trutnov - HC Náchod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede80d50c8e37c3b1dc346/index.m3u8
 #EXTINF:-1, Žďár n. S. Mor. Třebová
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6908703d40899867ab485fe0/index.m3u8
+#EXTINF:-1, Roudnice n. Labem - Cheb
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db8f2d8ebee495bafd6011/index.m3u8
 #EXTINF:-1, Pardubice - SK Kadaň
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f784ff40899867ab483113/index.m3u8
+#EXTINF:-1, Rubin Tyumen - Molot Perm
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Sibir - Shanghai Dragons
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Lokomotiv - Salavat Yulaev
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, HC Sochi - Barys Astana
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Slavia Praha - HC Poruba
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914640e1ea1b60e809f2316.m3u8
+#EXTINF:-1, Lokomotiv Orsha - Neman
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Metallurg Zhlobin - Gomel
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
