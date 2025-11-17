@@ -1,21 +1,53 @@
 #EXTM3U
-#EXTINF:-1, Sibir - Shanghai Dragons
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Lokomotiv - Salavat Yulaev
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, HC Sochi - Barys Astana
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Rubin Tyumen - Molot Perm
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Slavia Praha - HC Poruba
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6914640e1ea1b60e809f2316.m3u8
 #EXTINF:-1, Berani Zlín - HC Tábor
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146447109a6801f3cf6040.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146447109a6801f3cf6040.m3u8
 #EXTINF:-1, Dukla Jihlava - VHK Vsetín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914647a1ea1b60e809f231a.m3u8
+#EXTINF:-1, Pardubice B - Frýdek-Místek
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691465081ea1b60e809f231e.m3u8
+#EXTINF:-1, Baník Sokolov - SC Kolín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914653f1ea1b60e809f2322.m3u8
+#EXTINF:-1, Litoměřice - ZUBR Přerov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914656c1ea1b60e809f2326.m3u8
+#EXTINF:-1, Slavia Třebíč - Chomutov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691464be109a6801f3cf6044.m3u8
 #EXTINF:-1, Roudnice n. Labem - Cheb
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68db8f2d8ebee495bafd6011/index.m3u8
 #EXTINF:-1, Lokomotiv Orsha - Neman
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Metallurg Zhlobin - Gomel
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Lokomotiv - Salavat Yulaev
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, HC Sochi - Barys Astana
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Mountfield HK - Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f9d3a840899867ab48354b/index.m3u8
+#EXTINF:-1, Plzeň - České Budějovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e4e2de202e17800591b/index.m3u8
+#EXTINF:-1, HC Litvínov - Karlovy Vary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0fb95d14875374b21549d/index.m3u8
+#EXTINF:-1, Mladá Boleslav - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68efaa1450c8e37c3b1dc905/index.m3u8
+#EXTINF:-1, HC Poruba - HC Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256ed14875374b21656f/index.m3u8
+#EXTINF:-1, Lvi Břeclav - SK Prostějov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb49/index.m3u8
+#EXTINF:-1, HC Pelhřimov - SK Telč
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68beb8665addedaac41c3da0/index.m3u8
+#EXTINF:-1, HC Chotěboř - Světlá n. S.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bc0756a32fed197c9d0ad0/index.m3u8
+#EXTINF:-1, Náměšť n. Osl. - Humpolec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ae9173829c1557f607f6d/index.m3u8
+#EXTINF:-1, Blansko - Zastávka u Brna
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb4d/index.m3u8
+#EXTINF:-1, SKMB - HC Boskovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69149416109a6801f3cf6101/index.m3u8
+#EXTINF:-1, HC Žabonosy - Poděbrady
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68be8e34a32fed197c9d102c/index.m3u8
+#EXTINF:-1, Vel. Meziříčí B - HK Žihadla
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c48a63829c1557f6081fd/index.m3u8
