@@ -1,23 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Rødovre - Frederikshavn
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6915b81a109a6801f3cf631f.m3u8
-#EXTINF:-1, Almtuna IS - Nacka HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d594614656d90f23cec1/index.m3u8
-#EXTINF:-1, Sollentuna HC - Enköping
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d152350f03ad08f4b90e/index.m3u8
-#EXTINF:-1, Tyresö - Vallentuna
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912d9d7350f03ad08f4b939/index.m3u8
-#EXTINF:-1, Huddinge - Flemingsberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d9d7350f03ad08f4b938/index.m3u8
-#EXTINF:-1, IK Göta - Nyköpings SK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912d594614656d90f23cebf/index.m3u8
-#EXTINF:-1, Timrå IK - Brunflo IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912d8fe614656d90f23cec7/index.m3u8
-#EXTINF:-1, Mighty Ravens - Löfstad
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118ae5a199919ff362f6e1/index.m3u8
-#EXTINF:-1, Boo - Huddinge Tigers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912cec2614656d90f23ce82/index.m3u8
-#EXTINF:-1, Rönnängs IK - Lerums BK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690c307540899867ab4865ad/index.m3u8
-#EXTINF:-1, SDE HF - Östhammars SK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912cec2614656d90f23ce84/index.m3u8
+#EXTINF:-1, Carolina - Boston Bruins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ebc1e08d-4b20-481d-82e5-df3d56ee5eab/master.m3u8
+#EXTINF:-1, Edmonton - Buffalo Sabres
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/874d886c-4ca8-44c8-9e50-0e46b4c259b4/master.m3u8
+#EXTINF:-1, Vancouver - Florida
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8b6bb3c3-5e31-4f59-b4a6-909ecc50723c/master.m3u8
+#EXTINF:-1, Los Angeles - Washington
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e9bc738f-f3c0-4339-9d6d-0d5b60ff6b08/master.m3u8
+#EXTINF:-1, Montréal - Columbus
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5d59672-66b6-45aa-9d93-e2884cdba402/master.m3u8
