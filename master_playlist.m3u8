@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ak Bars Kazan - CSKA
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Severstal - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Torpedo Nizhny - Admiral
@@ -82,11 +80,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69142d0a1ea1b60e809f22
 #EXTINF:-1, Guts/Valdemarsvik - Mjölby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914263b109a6801f3cf5fa2/index.m3u8
 #EXTINF:-1, Tingsryds AIF Utv. - Nybro
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69142d0a1ea1b60e809f22b6/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69142d0a1ea1b60e809f22b6/index.m3u8
 #EXTINF:-1, Trelleborgs IF - IF Lejonet
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914255f109a6801f3cf5f9c/index.m3u8
 #EXTINF:-1, Boro/Vetlanda - Värnamo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691417ba109a6801f3cf5f56/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691417ba109a6801f3cf5f56/index.m3u8
 #EXTINF:-1, Kristianstad - Lund Giants
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914263b109a6801f3cf5fa3/index.m3u8
 #EXTINF:-1, Lenhovda IF - Rydaholm
