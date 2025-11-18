@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Utah - Anaheim Ducks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/65fbf39a-5d84-4de2-a17d-1c41f1dca422/master.m3u8
+#EXTINF:-1, Traktor - Metallurg Mg
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1, Avtomobilist - Neftekhimik
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
