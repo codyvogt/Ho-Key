@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Caen - Mont-Blanc
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8884be14bd1ca73a590c8/index.m3u8
-#EXTINF:-1, HCMP - Dunkerque
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8884be14bd1ca73a590cc/index.m3u8
+#EXTINF:-1, St. Louis Blues - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/99e3a8aa-3abd-4bb0-b32b-6f5ba42bce27/master.m3u8
+#EXTINF:-1, Seattle Kraken - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/24954c1e-c1ce-4e8c-88e0-87f2319926bf/master.m3u8
+#EXTINF:-1, New Jersey - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b3c77c30-795a-4d36-83da-f03220045762/master.m3u8
