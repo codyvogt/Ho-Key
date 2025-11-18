@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, DVTK Jegesmedvék - Lehel
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690de2d940899867ab486a7f/index.m3u8
-#EXTINF:-1, Dunaújvárosi AB - BJA HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690de2d940899867ab486a7b/index.m3u8
 #EXTINF:-1, Herlev Eagles - Aalborg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915b86d1ea1b60e809f266b.m3u8
 #EXTINF:-1, Esbjerg Energy - Odense
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915b8f41ea1b60e809f266d.m3u8
+#EXTINF:-1, Dunaújvárosi AB - BJA HC
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690de2d940899867ab486a7b/index.m3u8
 #EXTINF:-1, Karlskrona - Troja-Ljungby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69142d0a1ea1b60e809f22b4/index.m3u8
 #EXTINF:-1, Helsingborg - Tingsryds AIF
