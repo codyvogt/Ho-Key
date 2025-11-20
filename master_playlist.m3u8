@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Buran Voronezh - Kristall
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Traktor Chelyabinsk - Amur
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Avtomobilist - Metallurg
