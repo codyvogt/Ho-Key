@@ -1,5 +1,13 @@
 #EXTM3U
+#EXTINF:-1, Columbus - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/eb84f396-1382-426a-a5e4-c5a7587bc107/master.m3u8
 #EXTINF:-1, Washington - Montréal
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1, NY Islanders - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/60fa29d0-4b95-4512-a780-0c6f47b6f860/master.m3u8
+#EXTINF:-1, New Jersey - Florida
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58f26394-df09-44dc-b41b-231140beaaaf/master.m3u8
+#EXTINF:-1, St. Louis - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/756f578c-fac8-4c4c-80f7-e61d59b80292/master.m3u8
 #EXTINF:-1, Massachusetts - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
