@@ -5,3 +5,19 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Avtomobilist - Metallurg
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1, Severstal - Admiral
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1, Dynamo Moscow - Sibir
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Torpedo Nizhny - Spartak
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1, Dinamo Minsk - CSKA
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, HC Kometa Brno - Třinec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e2189d82ddee934c5e6035/index.m3u8
+#EXTINF:-1, Škoda Plzeň - HC Litvínov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146e5e1ea1b60e809f2362.m3u8
+#EXTINF:-1, Vítkovice - Oceláři Třinec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146ec4109a6801f3cf6096.m3u8
+#EXTINF:-1, Pardubice - Karlovy Vary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146ef91ea1b60e809f2366.m3u8
