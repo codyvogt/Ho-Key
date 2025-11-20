@@ -5,8 +5,6 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - CSKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Škoda Plzeň - HC Litvínov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69146e5e1ea1b60e809f2362.m3u8
 #EXTINF:-1, Vítkovice - Oceláři Třinec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69146ec4109a6801f3cf6096.m3u8
 #EXTINF:-1, Pardubice - Karlovy Vary
@@ -30,7 +28,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916c785109a6801f3cf65
 #EXTINF:-1, Sunne IK - Viking HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69158116109a6801f3cf62a8/index.m3u8
 #EXTINF:-1, IF Mölndal - Rönnängs IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916c18c1ea1b60e809f2852/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916c18c1ea1b60e809f2852/index.m3u8
 #EXTINF:-1, Värnamo GIK - Lenhovda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691030de3829c1557f608f23/index.m3u8
 #EXTINF:-1, HC Aosta - Hockey Pergine
