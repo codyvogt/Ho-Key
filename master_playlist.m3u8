@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dynamo Moscow - Sibir
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1, Torpedo Nizhny - Spartak
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1, Dinamo Minsk - CSKA
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Vítkovice - Oceláři Třinec
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69146ec4109a6801f3cf6096.m3u8
 #EXTINF:-1, Pardubice - Karlovy Vary
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69146ef91ea1b60e809f2366.m3u8
 #EXTINF:-1, Hokkarit - VaPS Hockey
@@ -34,7 +26,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691030de3829c1557f608f
 #EXTINF:-1, HC Aosta - Hockey Pergine
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880eda41d615b78791f4640/index.m3u8
 #EXTINF:-1, HC Falcons - Fassa Falcons
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880eda589696da691442251/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880eda589696da691442251/index.m3u8
 #EXTINF:-1, Eppan - Zinnen Dolomites
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880eda31d615b78791f463e/index.m3u8
 #EXTINF:-1, HC Feltre - SV Kaltern
