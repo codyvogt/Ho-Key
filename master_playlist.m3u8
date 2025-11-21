@@ -53,5 +53,7 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab769c10-867a-47ec-9c12-cb4bf
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/91034146-5473-482f-9ee3-b1e687403a58-hls/master/91034146-5473-482f-9ee3-b1e687403a58-hls.m3u8
 #EXTINF:-1, Denver - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/440f2ae2-0422-4f29-83bc-424f3425663a-hls/master/440f2ae2-0422-4f29-83bc-424f3425663a-hls.m3u8
+#EXTINF:-1, Madison - US NTDP U17
+https://d13xnh1nzgc5ly.cloudfront.net/2fc354bb90084ff79dfc2971426f88b1/0_hd_hls.m3u8
 #EXTINF:-1, Toronto - Minnesota Frost
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
