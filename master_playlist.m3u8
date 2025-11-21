@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HCFG - Lausanne HC
-https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, Lomnice n. Pop. - Smíchov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e75e9de14bd1ca73a58ece/index.m3u8
-#EXTINF:-1, Jaroměř - Nové Město n. M.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df6c0aa0cd927f79152/index.m3u8
-#EXTINF:-1, Hlinsko - Spartak Choceň
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4e5cee14bd1ca73a58918/index.m3u8
-#EXTINF:-1, HC Vrchlabí - Kobra Praha
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ff8a2740899867ab484977/index.m3u8
-#EXTINF:-1, HC Chrudim - HC Tábor
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691f2018109a6801f3cf7cee/index.m3u8
 #EXTINF:-1, Chamonix - Ducs d'Angers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f02/index.m3u8
 #EXTINF:-1, Amiens - Bordeaux
