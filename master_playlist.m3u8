@@ -3,12 +3,6 @@
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, EV Zug - HC Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Technika Brno - VHK Vsetín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2dee02648319de9eca43/index.m3u8
-#EXTINF:-1, Havlíčkův Brod - SC Kolín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6905a3173829c1557f607232/index.m3u8
-#EXTINF:-1, HC Chrudim - HC Tábor
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691f2018109a6801f3cf7cee/index.m3u8
 #EXTINF:-1, Rungsted - Sønderjyske
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6915ba251ea1b60e809f2674.m3u8
 #EXTINF:-1, Odense - Herlev Eagles
@@ -159,6 +153,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69181d46109a6801f3cf6b
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6918159a109a6801f3cf6b7f/index.m3u8
 #EXTINF:-1, Dunkerque - Caen
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ec7cc9e14bd1ca73a59aa8/index.m3u8
+#EXTINF:-1, Havlíčkův Brod - SC Kolín
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6905a3173829c1557f607232/index.m3u8
+#EXTINF:-1, HC Chrudim - HC Tábor
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691f2018109a6801f3cf7cee/index.m3u8
 #EXTINF:-1, NKV - Hernesaaren Näädät
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916b78f1ea1b60e809f2819/index.m3u8
 #EXTINF:-1, Hunters Team - EVU Team
@@ -188,4 +186,4 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691cb4cd1ea1b60e809f3a
 #EXTINF:-1, Vaujany - Roanne
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec7cc9e14bd1ca73a59aaa/index.m3u8
 #EXTINF:-1, Charleroi - Luxembourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690f1bb940899867ab486e14/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690f1bb940899867ab486e14/index.m3u8
