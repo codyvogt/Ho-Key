@@ -3,28 +3,12 @@
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, EV Zug - HC Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, HaU - Nivala Cowboys 2
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916b78f1ea1b60e809f283c/index.m3u8
-#EXTINF:-1, MIF Team - Sport Akatemia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64a9/index.m3u8
-#EXTINF:-1, NKV - Hernesaaren Näädät
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916b78f1ea1b60e809f2819/index.m3u8
-#EXTINF:-1, Hunters Team - EVU Team
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916b78f1ea1b60e809f2816/index.m3u8
-#EXTINF:-1, Piráti Chomutov - IHC Písek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690da83540899867ab486910/index.m3u8
 #EXTINF:-1, Technika Brno - VHK Vsetín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2dee02648319de9eca43/index.m3u8
 #EXTINF:-1, Havlíčkův Brod - SC Kolín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6905a3173829c1557f607232/index.m3u8
 #EXTINF:-1, HC Chrudim - HC Tábor
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691f2018109a6801f3cf7cee/index.m3u8
-#EXTINF:-1, Kiekkohait - Rauma Tigers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f1ea1b60e809f2827/index.m3u8
-#EXTINF:-1, Sibbo Wolfpack - Tuuski
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916b78f109a6801f3cf64aa/index.m3u8
-#EXTINF:-1, Prostějov - Frýdek-Místek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690b59973829c1557f60807a/index.m3u8
 #EXTINF:-1, Strakonice - Spartak Žebrák
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f5d10e50c8e37c3b1dd9a9/index.m3u8
 #EXTINF:-1, Baník Příbram - HC Tábor B
@@ -61,8 +45,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df6c0aa0cd927f791
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4e5cee14bd1ca73a58918/index.m3u8
 #EXTINF:-1, HC Vrchlabí - Kobra Praha
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ff8a2740899867ab484977/index.m3u8
-#EXTINF:-1, KuRy/MIF - S-Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64d2/index.m3u8
 #EXTINF:-1, Rungsted - Sønderjyske
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6915ba251ea1b60e809f2674.m3u8
 #EXTINF:-1, Odense - Herlev Eagles
@@ -181,6 +163,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69181d46109a6801f3cf6b
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6918159a109a6801f3cf6b7f/index.m3u8
 #EXTINF:-1, Dunkerque - Caen
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ec7cc9e14bd1ca73a59aa8/index.m3u8
+#EXTINF:-1, NKV - Hernesaaren Näädät
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916b78f1ea1b60e809f2819/index.m3u8
+#EXTINF:-1, Hunters Team - EVU Team
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916b78f1ea1b60e809f2816/index.m3u8
 #EXTINF:-1, Järna SK - Flens Flames
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69181c6f1ea1b60e809f2dff/index.m3u8
 #EXTINF:-1, SHK HC - Knivsta IS
