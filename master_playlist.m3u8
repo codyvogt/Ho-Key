@@ -105,5 +105,21 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28512b4c8ed39e3473f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691cb4cd1ea1b60e809f3a0d/index.m3u8
 #EXTINF:-1, Vaujany - Roanne
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec7cc9e14bd1ca73a59aaa/index.m3u8
+#EXTINF:-1, Brown - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Yale - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Colgate - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Cornell - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Providence - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Vermont - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Northeastern - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Mercyhurst - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5b2cf92b-5d38-42c2-99ac-db44dfdb148e-hls/master/5b2cf92b-5d38-42c2-99ac-db44dfdb148e-hls.m3u8
 #EXTINF:-1, Charleroi - Luxembourg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690f1bb940899867ab486e14/index.m3u8
