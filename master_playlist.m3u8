@@ -1,28 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Mountfield - Sparta Praha
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69146f8e1ea1b60e809f236e.m3u8
 #EXTINF:-1, HCFG - Lausanne HC
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, EV Zug - HC Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, HaU - Nivala Cowboys 2
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916b78f1ea1b60e809f283c/index.m3u8
-#EXTINF:-1, Rockets Loimaa - VG-62 II
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf6491/index.m3u8
 #EXTINF:-1, MIF Team - Sport Akatemia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64a9/index.m3u8
 #EXTINF:-1, NKV - Hernesaaren Näädät
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916b78f1ea1b60e809f2819/index.m3u8
 #EXTINF:-1, Hunters Team - EVU Team
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916b78f1ea1b60e809f2816/index.m3u8
-#EXTINF:-1, Sparta Praha - Vítkovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68de40448ebee495bafd66da/index.m3u8
-#EXTINF:-1, Kiekko-Espoo Ch - KOOVEE
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916b78f109a6801f3cf64bf/index.m3u8
-#EXTINF:-1, TPS - Kiekko-Espoo
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916b78f109a6801f3cf64d5/index.m3u8
-#EXTINF:-1, Tampereen Ilves - HIFK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64d4/index.m3u8
 #EXTINF:-1, Piráti Chomutov - IHC Písek
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690da83540899867ab486910/index.m3u8
 #EXTINF:-1, Technika Brno - VHK Vsetín
@@ -35,8 +23,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691f2018109a6801f3cf7c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f1ea1b60e809f2827/index.m3u8
 #EXTINF:-1, Sibbo Wolfpack - Tuuski
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916b78f109a6801f3cf64aa/index.m3u8
-#EXTINF:-1, Hokkarit II - MaKo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf6483/index.m3u8
 #EXTINF:-1, Prostějov - Frýdek-Místek
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690b59973829c1557f60807a/index.m3u8
 #EXTINF:-1, Strakonice - Spartak Žebrák
@@ -219,3 +205,5 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28512b4c8ed39e3473f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691cb4cd1ea1b60e809f3a0d/index.m3u8
 #EXTINF:-1, Vaujany - Roanne
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec7cc9e14bd1ca73a59aaa/index.m3u8
+#EXTINF:-1, Charleroi - Luxembourg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690f1bb940899867ab486e14/index.m3u8
