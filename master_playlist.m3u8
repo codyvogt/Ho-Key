@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1, Dallas Stars - Vancouver
-https://fl1.moveonjoy.com/NHL_11/index.m3u8
-#EXTINF:-1, Ottawa - Anaheim Ducks
-https://fl1.moveonjoy.com/NHL_12/index.m3u8
-#EXTINF:-1, Los Angeles - San Jose
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9f611e0d-8037-4ac1-97ae-0ed507f56250/master.m3u8
-#EXTINF:-1, Tampereen Ilves - Ässät
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64b7/index.m3u8
+#EXTINF:-1, Barys - Salavat Yulaev
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Neftekhimik - Ak Bars
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1, Rubin Tyumen - Izhstal
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1, Rauman Lukko - Kärpät
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f1ea1b60e809f2836/index.m3u8
+#EXTINF:-1, HPK - Turun Palloseura
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64ae/index.m3u8
+#EXTINF:-1, Kouvolan KooKoo - Jukurit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f1ea1b60e809f283d/index.m3u8
+#EXTINF:-1, Vaasan Sport - Jokerit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64af/index.m3u8
+#EXTINF:-1, Lahden Pelicans - HIFK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f109a6801f3cf64b4/index.m3u8
+#EXTINF:-1, Kalevan Pallo - SaiPa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f1ea1b60e809f2837/index.m3u8
+#EXTINF:-1, Kiekko-Espoo - RoKi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f1ea1b60e809f2838/index.m3u8
