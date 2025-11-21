@@ -13,5 +13,9 @@ https://fl1.moveonjoy.com/NHL_4/index.m3u8
 https://fl1.moveonjoy.com/NHL_6/index.m3u8
 #EXTINF:-1, Seattle Kraken - Chicago
 https://fl1.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1, NY Rangers - Colorado
+https://fl1.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1, Vegas - Utah Mammoth
+https://fl1.moveonjoy.com/NHL_8/index.m3u8
 #EXTINF:-1, UMass - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
