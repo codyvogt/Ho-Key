@@ -1,20 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Chamonix - Ducs d'Angers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f02/index.m3u8
-#EXTINF:-1, Amiens - Bordeaux
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28512b4c8ed39e3473f00/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Rouen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473efe/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Briançon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28512b4c8ed39e3473f06/index.m3u8
-#EXTINF:-1, Anglet - Grenoble
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28512b4c8ed39e3473f04/index.m3u8
-#EXTINF:-1, Hijs Hokij - Eaters Limburg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691cb4cd1ea1b60e809f3a0d/index.m3u8
-#EXTINF:-1, Aalborg Pirates - Rødovre
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915b9f71ea1b60e809f2672.m3u8
-#EXTINF:-1, Vaujany - Roanne
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ec7cc9e14bd1ca73a59aaa/index.m3u8
 #EXTINF:-1, Brown - Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Yale - St. Lawrence
@@ -55,6 +41,8 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/dc51742c-0ae6-48b4-bedc-fbc3d
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
 #EXTINF:-1, Western Michigan - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab465641-aebb-412a-a9da-373fe5fce820-hls/master/ab465641-aebb-412a-a9da-373fe5fce820-hls.m3u8
+#EXTINF:-1, Penn State - Minnesota
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1, MTU - Minnesota State
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, USA U18 - North Dakota
