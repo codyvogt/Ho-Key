@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, St. Louis - NY Islanders
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e3e6ac3a-79e2-4e5f-a652-680471865391/master.m3u8
-#EXTINF:-1, Clermont-FD - Toulouse
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912b84a350f03ad08f4b8a8/index.m3u8
 #EXTINF:-1, Princeton - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Colgate - Union
