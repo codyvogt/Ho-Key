@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1, Metallurg Mg - Admiral
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1, Timrå IK - Skellefteå AIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691970811ea1b60e809f31b6/index.m3u8
+#EXTINF:-1, Buran Voronezh - Dizel
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Brynäs IF - Luleå HF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6919648c109a6801f3cf6f8c/index.m3u8
 #EXTINF:-1, Örebro HK - HV 71
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691970811ea1b60e809f31ba/index.m3u8
 #EXTINF:-1, Färjestad BK - Linköping
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69196fa2109a6801f3cf7119/index.m3u8
-#EXTINF:-1, Buran Voronezh - Dizel
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Kouvolan KooKoo - RoKi
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691809111ea1b60e809f2d4e/index.m3u8
 #EXTINF:-1, Helsingin Jokerit - Ässät
