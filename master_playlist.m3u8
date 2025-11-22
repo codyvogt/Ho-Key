@@ -5,8 +5,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e3e6ac
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84a614656d90f23ce1e/index.m3u8
 #EXTINF:-1, Villard-de-Lans - HCMP
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6921a9476ad14171b8c751ef/index.m3u8
-#EXTINF:-1, Eaters Geleen - Amsterdam
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69205773109a6801f3cf7f93/index.m3u8
 #EXTINF:-1, Valdifiemme HC - Varese
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edab1d615b78791f4648/index.m3u8
 #EXTINF:-1, Clermont-FD - Toulouse
@@ -71,3 +69,5 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3680b0d1-bd1a-4958-994e-6f3146b22d3e-hls/master/3680b0d1-bd1a-4958-994e-6f3146b22d3e-hls.m3u8
 #EXTINF:-1, Western Michigan - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/619b4f0f-a11e-4375-bbd2-b0fbefaaeef3-hls/master/619b4f0f-a11e-4375-bbd2-b0fbefaaeef3-hls.m3u8
+#EXTINF:-1, New York - Ottawa Charge
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
