@@ -14,9 +14,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84a614656d90f23ce
 #EXTINF:-1, Chambéry - Meudon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912b84a614656d90f23ce04/index.m3u8
 #EXTINF:-1, Tours - Neuilly-sur-Marne
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912b84a614656d90f23ce1e/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84a614656d90f23ce1e/index.m3u8
 #EXTINF:-1, Villard-de-Lans - HCMP
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6921a9476ad14171b8c751ef/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6921a9476ad14171b8c751ef/index.m3u8
 #EXTINF:-1, Szeged - DEAC JA
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690f7aaaa0defa22ad7bd6a9/index.m3u8
 #EXTINF:-1, MAC Budapest - Vasas SC
@@ -65,8 +65,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edab1d615b78791f46
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6908ac253829c1557f607c78/index.m3u8
 #EXTINF:-1, Vinschgau Eisfix - HCP
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ef9319d14875374b2150dc/index.m3u8
-#EXTINF:-1, HC Chiavenna - Como
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69008d1640899867ab484abd/index.m3u8
 #EXTINF:-1, Cadore - HC Trento
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef931a50c8e37c3b1dc895/index.m3u8
 #EXTINF:-1, JHT Ak - Laser HT Hot
@@ -126,7 +124,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69106d3ad054b16ed81449
 #EXTINF:-1, HC Grizzlyz - HC Everest
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691012ee3829c1557f608b4d/index.m3u8
 #EXTINF:-1, Eaters Geleen - Amsterdam
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69205773109a6801f3cf7f93/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69205773109a6801f3cf7f93/index.m3u8
 #EXTINF:-1, Txuri Urdin - Majadahonda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69206316109a6801f3cf7fab/index.m3u8
 #EXTINF:-1, CG Puigcerdà - Milenio
