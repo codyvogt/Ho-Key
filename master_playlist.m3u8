@@ -3,46 +3,24 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4473c376-6a43-4bfc-a1fc-e7a5ec2d13f8/master.m3u8
 #EXTINF:-1, St. Louis - NY Islanders
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e3e6ac3a-79e2-4e5f-a652-680471865391/master.m3u8
-#EXTINF:-1, Mont-Blanc - Strasbourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912b84b614656d90f23ce22/index.m3u8
-#EXTINF:-1, Lyon - Valenciennes
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84a614656d90f23ce1c/index.m3u8
 #EXTINF:-1, Chambéry - Meudon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912b84a614656d90f23ce04/index.m3u8
 #EXTINF:-1, Tours - Neuilly-sur-Marne
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84a614656d90f23ce1e/index.m3u8
 #EXTINF:-1, Villard-de-Lans - HCMP
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6921a9476ad14171b8c751ef/index.m3u8
-#EXTINF:-1, SV Kaltern - HC Aosta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880eda71d615b78791f4644/index.m3u8
-#EXTINF:-1, Zinnen Dolomites - Feltre
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edaa1d615b78791f4646/index.m3u8
-#EXTINF:-1, Valdifiemme HC - Varese
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edab1d615b78791f4648/index.m3u8
-#EXTINF:-1, Liège Bulldogs - Mechelen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa4109a6801f3cf6008/index.m3u8
 #EXTINF:-1, Leuven Chiefs - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa4109a6801f3cf600a/index.m3u8
-#EXTINF:-1, Phénix de Reims - Châlons
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84b614656d90f23ce26/index.m3u8
 #EXTINF:-1, Dragons de Rouen 2 - Brest
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84b614656d90f23ce28/index.m3u8
 #EXTINF:-1, Clermont-FD - Toulouse
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912b84a350f03ad08f4b8a8/index.m3u8
 #EXTINF:-1, Lynx de Valence - Dijon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912b84a614656d90f23cdfc/index.m3u8
-#EXTINF:-1, Nice 2 - Briançon 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912b84a614656d90f23ce0e/index.m3u8
 #EXTINF:-1, Brest 2 - Nantes 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912b84a614656d90f23ce1a/index.m3u8
 #EXTINF:-1, Caen 2 - Meudon 2
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912b84a614656d90f23ce12/index.m3u8
-#EXTINF:-1, Haskey Hasselt - Liège II
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69106d393829c1557f609022/index.m3u8
-#EXTINF:-1, Beaufort Knights - HYC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69106d3ad054b16ed81449db/index.m3u8
-#EXTINF:-1, HC Grizzlyz - HC Everest
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691012ee3829c1557f608b4d/index.m3u8
 #EXTINF:-1, Merrimack - Boston C
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Vermont - Connecticut
@@ -67,6 +45,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Eaters Geleen - Amsterdam
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69205773109a6801f3cf7f93/index.m3u8
+#EXTINF:-1, Valdifiemme HC - Varese
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edab1d615b78791f4648/index.m3u8
 #EXTINF:-1, Cadore - HC Trento
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef931a50c8e37c3b1dc895/index.m3u8
 #EXTINF:-1, Valdemoro - CG Puigcerdà
