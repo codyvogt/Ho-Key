@@ -5,22 +5,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/efb685
 https://fl1.moveonjoy.com/NHL_1/index.m3u8
 #EXTINF:-1, Carolina - Winnipeg Jets
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bcd26383-94fb-4b30-8d22-6065511ec727/master.m3u8
-#EXTINF:-1, Brown - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Yale - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Colgate - Rensselaer PI
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Cornell - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Providence - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Vermont - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Northeastern - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Mercyhurst - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5b2cf92b-5d38-42c2-99ac-db44dfdb148e-hls/master/5b2cf92b-5d38-42c2-99ac-db44dfdb148e-hls.m3u8
 #EXTINF:-1, Rensselaer PI - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Clarkson - Quinnipiac
@@ -45,8 +29,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab465641-aebb-412a-a9da-373fe5fce820-hls/master/ab465641-aebb-412a-a9da-373fe5fce820-hls.m3u8
 #EXTINF:-1, Penn State - Minnesota
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1, MTU - Minnesota State
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, USA U18 - North Dakota
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab769c10-867a-47ec-9c12-cb4bf2ee2486-hls/master/ab769c10-867a-47ec-9c12-cb4bf2ee2486-hls.m3u8
 #EXTINF:-1, UMD - Colorado College
