@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Metallurg Mg - Admiral
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Sochi - Sibir Novosibirsk
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Lokomotiv Yaroslavl - Amur
@@ -58,7 +56,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69180912109a6801f3cf6b
 #EXTINF:-1, Luvian Kiekko - VG-62
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691809111ea1b60e809f2d03/index.m3u8
 #EXTINF:-1, Kemijärven Kiekko - Et-Po
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916b78f1ea1b60e809f2826/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916b78f1ea1b60e809f2826/index.m3u8
 #EXTINF:-1, Limingan Kiekko - Ahmat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69180910109a6801f3cf69af/index.m3u8
 #EXTINF:-1, UU - Nivala Cowboys
@@ -282,7 +280,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691961271ea1b60e809f31
 #EXTINF:-1, IFK Salem - IFK Tumba 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69196049109a6801f3cf6f56/index.m3u8
 #EXTINF:-1, Morav. Třebová - Trutnov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1dc96d14875374b215634/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f1dc96d14875374b215634/index.m3u8
 #EXTINF:-1, Česká Třebová - Hronov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f7916c/index.m3u8
 #EXTINF:-1, Náchod - Světlá n. Sázavou
