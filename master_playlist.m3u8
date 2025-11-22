@@ -1,32 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Chicago - Buffalo Sabres
-https://fl1.moveonjoy.com/NHL_2/index.m3u8
-#EXTINF:-1, Minnesota - Pittsburgh
-https://fl1.moveonjoy.com/NHL_1/index.m3u8
 #EXTINF:-1, Carolina - Winnipeg Jets
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bcd26383-94fb-4b30-8d22-6065511ec727/master.m3u8
 #EXTINF:-1, Boston - Los Angeles Kings
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9d6fdce9-fdd8-4ea1-9f8c-fb81b2f2d03d/master.m3u8
-#EXTINF:-1, Rensselaer PI - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Clarkson - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Maine - Boston College
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, UConn - New Hampshire
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Boston U - Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
-#EXTINF:-1, Yale - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Union - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, St. Cloud State - Miami
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/dc51742c-0ae6-48b4-bedc-fbc3d13b8247-hls/master/dc51742c-0ae6-48b4-bedc-fbc3d13b8247-hls.m3u8
-#EXTINF:-1, LSSU - Ferris State
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
 #EXTINF:-1, Western Michigan - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab465641-aebb-412a-a9da-373fe5fce820-hls/master/ab465641-aebb-412a-a9da-373fe5fce820-hls.m3u8
 #EXTINF:-1, Penn State - Minnesota
@@ -39,7 +15,3 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab769c10-867a-47ec-9c12-cb4bf
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/91034146-5473-482f-9ee3-b1e687403a58-hls/master/91034146-5473-482f-9ee3-b1e687403a58-hls.m3u8
 #EXTINF:-1, Denver - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/440f2ae2-0422-4f29-83bc-424f3425663a-hls/master/440f2ae2-0422-4f29-83bc-424f3425663a-hls.m3u8
-#EXTINF:-1, Madison - US NTDP U17
-https://d13xnh1nzgc5ly.cloudfront.net/2fc354bb90084ff79dfc2971426f88b1/0_hd_hls.m3u8
-#EXTINF:-1, Toronto - Minnesota Frost
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
