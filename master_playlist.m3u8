@@ -179,6 +179,28 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef931a50c8e37c3b1dc8
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691809101ea1b60e809f2c68/index.m3u8
 #EXTINF:-1, Újpest - Red Bull Salzburg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ec3dd3829c1557f6087c0/index.m3u8
+#EXTINF:-1, Merrimack - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Vermont - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Princeton - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Colgate - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Brown - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Yale - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Cornell - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Boston U - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Mercyhurst - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a6b06363-c2dd-46c7-84a1-c675764795a5-hls/master/a6b06363-c2dd-46c7-84a1-c675764795a5-hls.m3u8
+#EXTINF:-1, Northeastern - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Holy Cross - UNH
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Liège Bulldogs - Mechelen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa4109a6801f3cf6008/index.m3u8
 #EXTINF:-1, Leuven Chiefs - HYC
@@ -195,5 +217,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69106d393829c1557f6090
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69106d3ad054b16ed81449db/index.m3u8
 #EXTINF:-1, HC Grizzlyz - HC Everest
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691012ee3829c1557f608b4d/index.m3u8
+#EXTINF:-1, Eaters Geleen - Amsterdam
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69205773109a6801f3cf7f93/index.m3u8
 #EXTINF:-1, Valdemoro - CG Puigcerdà
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692064871ea1b60e809f40c2/index.m3u8
