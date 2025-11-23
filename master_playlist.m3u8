@@ -3,28 +3,10 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Barys Astana - Avangard
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1, Timrå IK - Luleå HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac1fc1ea1b60e809f3576/index.m3u8
-#EXTINF:-1, Brynäs IF - Skellefteå AIK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ab60c109a6801f3cf7303/index.m3u8
-#EXTINF:-1, IF Björklöven - Leksand
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691abc041ea1b60e809f34f3/index.m3u8
-#EXTINF:-1, Södertälje SK - Rögle BK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691abf6d109a6801f3cf7407/index.m3u8
-#EXTINF:-1, Västerås IK - IF Malmö
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac1fc1ea1b60e809f3575/index.m3u8
-#EXTINF:-1, Färjestad BK - HV 71
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac121109a6801f3cf743a/index.m3u8
-#EXTINF:-1, Örebro HK - Linköping HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac048109a6801f3cf7423/index.m3u8
-#EXTINF:-1, Kärpät Ak - HPK Akatemia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a90109a6801f3cf6e34/index.m3u8
-#EXTINF:-1, Lukko - Lahden Pelicans
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a91109a6801f3cf6ed4/index.m3u8
-#EXTINF:-1, KalPa Ak - KeuPa HT
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a911ea1b60e809f304b/index.m3u8
-#EXTINF:-1, PESÄ Imatra - Parru HT
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a90109a6801f3cf6dc5/index.m3u8
+#EXTINF:-1, Shanghai - Ak Bars Kazan
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1, Severstal - Lada Togliatti
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, Fehérvár HA 19 - Salzburg
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6910155d3829c1557f608b8d/index.m3u8
 #EXTINF:-1, Újpesti JA - Oberösterreich
@@ -61,6 +43,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f38d59b6f68b0e1df2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ff27b83829c1557f60622a/index.m3u8
 #EXTINF:-1, Ústí n. L. - Kralupy n. V.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904a5f93829c1557f606e95/index.m3u8
+#EXTINF:-1, Brynäs IF - Skellefteå AIK
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ab60c109a6801f3cf7303/index.m3u8
+#EXTINF:-1, IF Björklöven - Leksand
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691abc041ea1b60e809f34f3/index.m3u8
+#EXTINF:-1, Södertälje SK - Rögle BK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691abf6d109a6801f3cf7407/index.m3u8
+#EXTINF:-1, Västerås IK - IF Malmö
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac1fc1ea1b60e809f3575/index.m3u8
+#EXTINF:-1, Färjestad BK - HV 71
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac121109a6801f3cf743a/index.m3u8
+#EXTINF:-1, Örebro HK - Linköping HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac048109a6801f3cf7423/index.m3u8
 #EXTINF:-1, Olomouc - Technika Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6175d50c8e37c3b1ddb61/index.m3u8
 #EXTINF:-1, Hvězda Praha - SC Kolín
@@ -117,6 +111,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a91109a6801f3cf6e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692064fb109a6801f3cf7fd0/index.m3u8
 #EXTINF:-1, Valdemoro - CG Puigcerdà
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6920656e1ea1b60e809f40c8/index.m3u8
+#EXTINF:-1, Lukko - Lahden Pelicans
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a91109a6801f3cf6ed4/index.m3u8
+#EXTINF:-1, KalPa Ak - KeuPa HT
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a911ea1b60e809f304b/index.m3u8
 #EXTINF:-1, IFK Mariehamn - Segeltorp
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691aabd11ea1b60e809f33ad/index.m3u8
 #EXTINF:-1, Rødovre - Herning Blue Fox
