@@ -1,24 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Olomouc - Č. Budějovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691dc4b81ea1b60e809f3bcd.m3u8
 #EXTINF:-1, Carolina - Buffalo Sabres
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8a3872b2-502d-4b2a-9b38-cf3200f63bf7/master.m3u8
-#EXTINF:-1, Vaasan Sport - TPS
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69195a91109a6801f3cf6e88/index.m3u8
-#EXTINF:-1, Arvika HC - Hammarö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac121109a6801f3cf7439/index.m3u8
-#EXTINF:-1, Žabonosy - Rytíři Vlašim
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b92c0dc238c71a081b6c6e/index.m3u8
 #EXTINF:-1, Prostějov - Uherský Ostroh
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df102648319de9ecb4f/index.m3u8
-#EXTINF:-1, HC Jaroměř - HC Chrudim
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f7919c/index.m3u8
-#EXTINF:-1, Litomyšl - Třebechovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915d77c109a6801f3cf6371/index.m3u8
-#EXTINF:-1, HC Chotěboř - SK Telč
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bc0756a32fed197c9d0acf/index.m3u8
-#EXTINF:-1, Velká Bíteš - HK Žihadla
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b59a058adff45f9df29402/index.m3u8
 #EXTINF:-1, Sršni Kutná Hora - Čáslav
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d20f614656d90f23ce94/index.m3u8
 #EXTINF:-1, HC Turnov - Vlci Jablonec
@@ -37,12 +21,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fb1715e58cdfe8ac5779a4/index.m3u8
 #EXTINF:-1, Lovosice - Klášterec n. Ohří
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c8eed40899867ab486712/index.m3u8
-#EXTINF:-1, Falkenbergs - Kungsbacka
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ac3b01ea1b60e809f35a5/index.m3u8
-#EXTINF:-1, Löfstad - Valdemarsvik
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ac5641ea1b60e809f35bf/index.m3u8
 #EXTINF:-1, Cheb - Mariánské Lázně
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ecc0bde14bd1ca73a59e48/index.m3u8
+#EXTINF:-1, Löfstad - Valdemarsvik
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ac5641ea1b60e809f35bf/index.m3u8
 #EXTINF:-1, Aigles de Nice - Gap
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28512b4c8ed39e3473f10/index.m3u8
 #EXTINF:-1, Grenoble - Amiens
@@ -87,3 +69,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691cb556109a6801f3cf78
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa5109a6801f3cf600c/index.m3u8
 #EXTINF:-1, HYC - Leuven Chiefs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa5109a6801f3cf600e/index.m3u8
+#EXTINF:-1, Chiavenna - Hockey Como
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69008d1640899867ab484abd/index.m3u8
