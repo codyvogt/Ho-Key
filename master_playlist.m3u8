@@ -13,6 +13,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691dc37a1ea1b60e809f3b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691dc47d109a6801f3cf7a00.m3u8
 #EXTINF:-1, Olomouc - Č. Budějovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691dc4b81ea1b60e809f3bcd.m3u8
+#EXTINF:-1, Carolina - Buffalo Sabres
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8a3872b2-502d-4b2a-9b38-cf3200f63bf7/master.m3u8
 #EXTINF:-1, Riemu - Laser HT Oulu
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69195a8f109a6801f3cf6d91/index.m3u8
 #EXTINF:-1, PEPO - Lapuan Virkiä
@@ -156,7 +158,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f
 #EXTINF:-1, Bordeaux - Chamonix
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f12/index.m3u8
 #EXTINF:-1, Leuven White - Leuven B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6911beb9a199919ff362f814/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6911beb9a199919ff362f814/index.m3u8
 #EXTINF:-1, Antwerp - Charleroi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d90e36b1a4df16d7f503a0/index.m3u8
 #EXTINF:-1, Fotskäls HC - Järnbrott
@@ -173,3 +175,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
 #EXTINF:-1, Hawks - Kosken Pojat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69195a901ea1b60e809f2f4d/index.m3u8
+#EXTINF:-1, Eaters Limburg - Hijs Hokij
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691cb556109a6801f3cf789e/index.m3u8
+#EXTINF:-1, Mechelen - Liège Bulldogs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa5109a6801f3cf600c/index.m3u8
+#EXTINF:-1, HYC - Leuven Chiefs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa5109a6801f3cf600e/index.m3u8
