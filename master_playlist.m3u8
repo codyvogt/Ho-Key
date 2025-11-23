@@ -17,16 +17,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691dc37a1ea1b60e809f3b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691dc47d109a6801f3cf7a00.m3u8
 #EXTINF:-1, Olomouc - Č. Budějovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691dc4b81ea1b60e809f3bcd.m3u8
-#EXTINF:-1, Ústí n. L. - Kralupy n. V.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6904a5f93829c1557f606e95/index.m3u8
-#EXTINF:-1, HC Strakonice - DDM ČEB
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f5d10e50c8e37c3b1dd9ac/index.m3u8
-#EXTINF:-1, HC Pelhřimov - Milevsko
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df6797c62be9451d65e972/index.m3u8
-#EXTINF:-1, Slovan Louny - HC Děčín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7c11559b6f68b0e1dec41/index.m3u8
-#EXTINF:-1, Cheb - Mariánské Lázně
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ecc0bde14bd1ca73a59e48/index.m3u8
 #EXTINF:-1, Esbjerg Energy - Rungsted
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691b2a04109a6801f3cf75aa.m3u8
 #EXTINF:-1, Cergy-Pontoise - Marseille
@@ -111,8 +101,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69195a921ea1b60e809f30
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d7622109a6801f3cf7955/index.m3u8
 #EXTINF:-1, SK Lejon - Brooklyn Tigers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac048109a6801f3cf7427/index.m3u8
-#EXTINF:-1, Örnsköldsvik HF - Njurunda
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691abf6d109a6801f3cf740a/index.m3u8
 #EXTINF:-1, Sörhaga - Gislaveds SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691aabd2109a6801f3cf7267/index.m3u8
 #EXTINF:-1, Motala AIF HK - IF Mölndal
@@ -149,6 +137,14 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ac3b01ea1b60e809f35
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691abcde1ea1b60e809f350f/index.m3u8
 #EXTINF:-1, Löfstad - Valdemarsvik
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ac5641ea1b60e809f35bf/index.m3u8
+#EXTINF:-1, HC Strakonice - DDM ČEB
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f5d10e50c8e37c3b1dd9ac/index.m3u8
+#EXTINF:-1, HC Pelhřimov - Milevsko
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df6797c62be9451d65e972/index.m3u8
+#EXTINF:-1, Slovan Louny - HC Děčín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7c11559b6f68b0e1dec41/index.m3u8
+#EXTINF:-1, Cheb - Mariánské Lázně
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ecc0bde14bd1ca73a59e48/index.m3u8
 #EXTINF:-1, IF Troja-Ljungby - Hvidovre
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691abdba1ea1b60e809f3542/index.m3u8
 #EXTINF:-1, Linköping HC 2 - IF Malmö
