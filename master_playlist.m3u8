@@ -1,34 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Carolina - Buffalo Sabres
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8a3872b2-502d-4b2a-9b38-cf3200f63bf7/master.m3u8
-#EXTINF:-1, HC Turnov - Vlci Jablonec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b92c0dc238c71a081b6c79/index.m3u8
-#EXTINF:-1, Č. Třebová - Králové n. L.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791da/index.m3u8
-#EXTINF:-1, Baník Sokolov B - Rokycany
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fb1715e58cdfe8ac5779a4/index.m3u8
-#EXTINF:-1, Lovosice - Klášterec n. Ohří
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690c8eed40899867ab486712/index.m3u8
-#EXTINF:-1, Leuven White - Leuven B
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6911beb9a199919ff362f814/index.m3u8
-#EXTINF:-1, Antwerp - Charleroi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d90e36b1a4df16d7f503a0/index.m3u8
-#EXTINF:-1, Hammarby IF - Södertälje
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ab60c109a6801f3cf7301/index.m3u8
-#EXTINF:-1, Rapaces de Gap - Caen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409ca109a6801f3cf5efe/index.m3u8
-#EXTINF:-1, Anglet - Cergy-Pontoise
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691409ca109a6801f3cf5efa/index.m3u8
-#EXTINF:-1, Fotskäls HC - Järnbrott
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691aabd11ea1b60e809f33ab/index.m3u8
-#EXTINF:-1, Hässelby Kälvesta HC - MB
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ab60c109a6801f3cf7304/index.m3u8
-#EXTINF:-1, Åby HC - Slottsskogen HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ab60c109a6801f3cf730e/index.m3u8
-#EXTINF:-1, KTH - Vallentuna-Ormsta
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ab1ca109a6801f3cf72d9/index.m3u8
-#EXTINF:-1, Hunters - KJT Haukat Ak
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691c0f26109a6801f3cf7737/index.m3u8
 #EXTINF:-1, Grenoble - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f0a/index.m3u8
 #EXTINF:-1, Briançon - Anglet
@@ -39,13 +11,25 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28512b4c8ed39e3473f
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691409cb109a6801f3cf5f1a/index.m3u8
 #EXTINF:-1, Cergy - Courbevoie
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
+#EXTINF:-1, Anglet - Cergy-Pontoise
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691409ca109a6801f3cf5efa/index.m3u8
 #EXTINF:-1, Hawks - Kosken Pojat
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69195a901ea1b60e809f2f4d/index.m3u8
 #EXTINF:-1, Eaters Limburg - Hijs Hokij
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691cb556109a6801f3cf789e/index.m3u8
+#EXTINF:-1, Baník Sokolov B - Rokycany
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fb1715e58cdfe8ac5779a4/index.m3u8
+#EXTINF:-1, Lovosice - Klášterec n. Ohří
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690c8eed40899867ab486712/index.m3u8
 #EXTINF:-1, Mechelen - Liège Bulldogs
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69145aa5109a6801f3cf600c/index.m3u8
 #EXTINF:-1, HYC - Leuven Chiefs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69145aa5109a6801f3cf600e/index.m3u8
+#EXTINF:-1, Åby HC - Slottsskogen HC
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ab60c109a6801f3cf730e/index.m3u8
+#EXTINF:-1, KTH - Vallentuna-Ormsta
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ab1ca109a6801f3cf72d9/index.m3u8
 #EXTINF:-1, Chiavenna - Hockey Como
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69008d1640899867ab484abd/index.m3u8
+#EXTINF:-1, Antwerp - Charleroi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d90e36b1a4df16d7f503a0/index.m3u8
