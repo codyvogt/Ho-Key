@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1, BK Mladá Boleslav - Plzeň
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691dc414109a6801f3cf79fa.m3u8
 #EXTINF:-1, Liberec - Mountfield HK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691dc3e3109a6801f3cf79f6.m3u8
 #EXTINF:-1, HC Vítkovice - Pardubice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691dc446109a6801f3cf79fe.m3u8
-#EXTINF:-1, Rytíři Kladno - Sparta Praha
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691dc3b31ea1b60e809f3bc4.m3u8
-#EXTINF:-1, Karlovy Vary - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691dc37a1ea1b60e809f3bc2.m3u8
 #EXTINF:-1, Litvínov - Oceláři Třinec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691dc47d109a6801f3cf7a00.m3u8
 #EXTINF:-1, Olomouc - Č. Budějovice
@@ -122,9 +116,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28512b4c8ed39e3473f
 #EXTINF:-1, Grenoble - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f0a/index.m3u8
 #EXTINF:-1, Briançon - Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f08/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28512b4c8ed39e3473f08/index.m3u8
 #EXTINF:-1, Bordeaux - Chamonix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28512b4c8ed39e3473f12/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28512b4c8ed39e3473f12/index.m3u8
 #EXTINF:-1, Leuven White - Leuven B
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6911beb9a199919ff362f814/index.m3u8
 #EXTINF:-1, Antwerp - Charleroi
@@ -132,7 +126,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d90e36b1a4df16d7f503
 #EXTINF:-1, Rapaces de Gap - Caen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409ca109a6801f3cf5efe/index.m3u8
 #EXTINF:-1, Anglet - Cergy-Pontoise
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409ca109a6801f3cf5efa/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691409ca109a6801f3cf5efa/index.m3u8
 #EXTINF:-1, Fotskäls HC - Järnbrott
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691aabd11ea1b60e809f33ab/index.m3u8
 #EXTINF:-1, Hässelby Kälvesta HC - MB
