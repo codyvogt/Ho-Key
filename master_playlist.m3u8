@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Colorado - Nashville
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8f88a92e-cf54-4506-802d-1e9289ccb729/master.m3u8
 #EXTINF:-1, New York Rangers - Utah
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ade7418d-33b9-4d21-9b86-3c5bbd8280b1/master.m3u8
 #EXTINF:-1, Dallas - Calgary Flames
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1cc6f389-7d6a-4fb0-8787-e759c9a99764/master.m3u8
-#EXTINF:-1, UMD - Colorado College
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3680b0d1-bd1a-4958-994e-6f3146b22d3e-hls/master/3680b0d1-bd1a-4958-994e-6f3146b22d3e-hls.m3u8
-#EXTINF:-1, Western Michigan - Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/619b4f0f-a11e-4375-bbd2-b0fbefaaeef3-hls/master/619b4f0f-a11e-4375-bbd2-b0fbefaaeef3-hls.m3u8
