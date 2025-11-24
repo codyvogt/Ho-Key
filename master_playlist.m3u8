@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Buran - Ryazan-VDV
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1, Vitebsk - Yunost Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
