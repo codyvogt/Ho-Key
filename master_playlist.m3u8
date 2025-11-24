@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Lida - Shakhter Soligorsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Kometa Brno - Berani Zlín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68baa7c25addedaac41c31d1/index.m3u8
+#EXTINF:-1, Lida - Shakhter Soligorsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Odense - Frederikshavn
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691b2a3c1ea1b60e809f3703.m3u8
 #EXTINF:-1, Clemensnäs - Bodens HF
@@ -12,7 +12,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c1015109a6801f3cf77
 #EXTINF:-1, Umeå HK - Tegs SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de0dda8ebee495bafd65b2/index.m3u8
 #EXTINF:-1, IFK Täby HC - Brinkens IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6920394d1ea1b60e809f401f/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6920394d1ea1b60e809f401f/index.m3u8
 #EXTINF:-1, Sandvikens IK - IK Huge
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691c0caa1ea1b60e809f3899/index.m3u8
 #EXTINF:-1, Kosken Pojat - KJT Haukat
