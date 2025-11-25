@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Liberec - České Budějovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69243669109a6801f3cf8bc1.m3u8
 #EXTINF:-1, Pardubice - Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692436cc1ea1b60e809f4f38.m3u8
 #EXTINF:-1, Rytíři Kladno - HC Litvínov
@@ -70,9 +68,9 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916acc9109a6801f3cf64
 #EXTINF:-1, Drakkars de Caen - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916acc9109a6801f3cf6479/index.m3u8
 #EXTINF:-1, Hormadi d'Anglet - Rouen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916acc9109a6801f3cf6475/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916acc9109a6801f3cf6475/index.m3u8
 #EXTINF:-1, Lions de Lyon - Briançon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916acc9109a6801f3cf6471/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916acc9109a6801f3cf6471/index.m3u8
 #EXTINF:-1, Leuven Chiefs - HYC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69145aa5109a6801f3cf6010/index.m3u8
 #EXTINF:-1, Liège Bulldogs - Mechelen
