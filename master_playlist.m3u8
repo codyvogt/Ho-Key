@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Strasbourg - Marseille
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916acc9109a6801f3cf6473/index.m3u8
-#EXTINF:-1, Reims - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916acc91ea1b60e809f2812/index.m3u8
 #EXTINF:-1, Wildcats Épinal - Grenoble
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916acc9109a6801f3cf6477/index.m3u8
 #EXTINF:-1, Drakkars de Caen - Amiens
@@ -11,15 +7,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916acc9109a6801f3cf64
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916acc9109a6801f3cf6475/index.m3u8
 #EXTINF:-1, Lions de Lyon - Briançon
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916acc9109a6801f3cf6471/index.m3u8
-#EXTINF:-1, Leuven Chiefs - HYC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69145aa5109a6801f3cf6010/index.m3u8
 #EXTINF:-1, Liège Bulldogs - Mechelen
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69145aa61ea1b60e809f22f7/index.m3u8
-#EXTINF:-1, Kiruna AIF - Kiruna City
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d64fc1ea1b60e809f3ae7/index.m3u8
-#EXTINF:-1, PUS - Pitäjänmäen Tarmo
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691bfd901ea1b60e809f385c/index.m3u8
-#EXTINF:-1, Kållered SK - Skärgården
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7558ae14bd1ca73a58e9c/index.m3u8
 #EXTINF:-1, Cornell - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/863ae98e-4376-4369-a295-b7cf682b03ca-hls/master/863ae98e-4376-4369-a295-b7cf682b03ca-hls.m3u8
