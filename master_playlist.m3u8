@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Wildcats Épinal - Grenoble
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916acc9109a6801f3cf6477/index.m3u8
 #EXTINF:-1, Drakkars de Caen - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916acc9109a6801f3cf6479/index.m3u8
 #EXTINF:-1, Hormadi d'Anglet - Rouen
@@ -13,3 +11,5 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69145aa61ea1b60e809f22
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
 #EXTINF:-1, Cornell - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/863ae98e-4376-4369-a295-b7cf682b03ca-hls/master/863ae98e-4376-4369-a295-b7cf682b03ca-hls.m3u8
+#EXTINF:-1, Team CHL - US NTDP U18
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
