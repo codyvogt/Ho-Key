@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Neftekhimik - Avangard
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Spartak Moscow - Ak Bars
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, HC Sochi - Lada Togliatti
@@ -15,8 +13,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692436081ea1b60e809f4f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243638109a6801f3cf8bbf.m3u8
 #EXTINF:-1, Mountfield - Ml. Boleslav
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6924369c109a6801f3cf8bc5.m3u8
-#EXTINF:-1, Jihlava - České Budějovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6901d8c73829c1557f6067a6/index.m3u8
 #EXTINF:-1, Orli Znojmo - Hodonín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690a161e3829c1557f607e82/index.m3u8
 #EXTINF:-1, Debreceni EAC - Újpesti JA
@@ -38,7 +34,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d5c761ea1b60e809f3a
 #EXTINF:-1, Olofströms IK - Hanhals IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d5f06109a6801f3cf792b/index.m3u8
 #EXTINF:-1, Borås HC - IF Troja-Ljungby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d66b0109a6801f3cf7942/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d66b0109a6801f3cf7942/index.m3u8
 #EXTINF:-1, Kristinehamns HT - Nor IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d5832109a6801f3cf7908/index.m3u8
 #EXTINF:-1, Säffle HC - Charlottenberg
@@ -66,7 +62,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d66b0109a6801f3cf79
 #EXTINF:-1, Njurunda SK - Ånge IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d60ba1ea1b60e809f3adb/index.m3u8
 #EXTINF:-1, KB65 HK - Kovlands IshF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d4fad1ea1b60e809f3a8b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d4fad1ea1b60e809f3a8b/index.m3u8
 #EXTINF:-1, Bålsta HC - IFK Tumba IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d5c761ea1b60e809f3aa6/index.m3u8
 #EXTINF:-1, Kiruna AIF - Kiruna City
