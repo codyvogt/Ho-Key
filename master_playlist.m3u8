@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rungsted - Herning
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69244af41ea1b60e809f4fe8.m3u8
 #EXTINF:-1, Valenciennes - Angers
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6917fe49109a6801f3cf68cb/index.m3u8
 #EXTINF:-1, Gap - Chamonix
@@ -17,16 +15,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eab671ea1b60e809f3c
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691eb23c109a6801f3cf7bae/index.m3u8
 #EXTINF:-1, Brinkens IF - IFK Tumba IK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6920394d1ea1b60e809f4020/index.m3u8
-#EXTINF:-1, Bäcken HC - Göteborgs IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eb9e51ea1b60e809f3d22/index.m3u8
-#EXTINF:-1, Nittorps IK - Motala AIF HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691eaa8c109a6801f3cf7b5f/index.m3u8
-#EXTINF:-1, KRIF - Boro/Vetlanda HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691eb3f0109a6801f3cf7bb4/index.m3u8
-#EXTINF:-1, Värnamo GIK - HA 74
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eb15f109a6801f3cf7baa/index.m3u8
-#EXTINF:-1, Helsingborg HC - Alvesta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ea6491ea1b60e809f3cd6/index.m3u8
 #EXTINF:-1, Jonstorps IF - Olofström
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eadf6109a6801f3cf7b6a/index.m3u8
 #EXTINF:-1, Sörhaga HK - Lidköping
@@ -37,8 +25,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ea6491ea1b60e809f3cd4/index.m3u8
 #EXTINF:-1, Vallentuna-Ormsta - MB
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691eadf6109a6801f3cf7b68/index.m3u8
-#EXTINF:-1, Budapest JA WHC - MAC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691409db109a6801f3cf5f38/index.m3u8
 #EXTINF:-1, Hertsörinken IF - IF Kalix
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eb315109a6801f3cf7bb0/index.m3u8
 #EXTINF:-1, HC Strömstad - Munkedal
