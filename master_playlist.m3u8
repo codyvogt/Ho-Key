@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Gap - Chamonix
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6917fe49109a6801f3cf68cd/index.m3u8
-#EXTINF:-1, Notre Dame - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Holy Cross - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Kurra Gepardit - Tavastia
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4f0f1ea1b60e809f3a5b/index.m3u8
 #EXTINF:-1, Vancouver - Ottawa
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
