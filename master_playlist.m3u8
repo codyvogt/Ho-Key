@@ -5,6 +5,8 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Severstal - SKA
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1, Škoda Plzeň - Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692436fe109a6801f3cf8bc9.m3u8
 #EXTINF:-1, HC Frýdek-Místek - Třebíč
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243e3f1ea1b60e809f4f74.m3u8
 #EXTINF:-1, Berani Zlín - Litoměřice
@@ -19,5 +21,25 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243f55109a6801f3cf8c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243f201ea1b60e809f4f7e.m3u8
 #EXTINF:-1, Väsby U20 - Shattuck
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691f4a3e109a6801f3cf7d1f/index.m3u8
-#EXTINF:-1, Škoda Plzeň - Vítkovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692436fe109a6801f3cf8bc9.m3u8
+#EXTINF:-1, Újpesti TE - Fehérvár HA
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6914c0ab109a6801f3cf6159/index.m3u8
+#EXTINF:-1, Budapest JA HC - DAB
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409db109a6801f3cf5f3a/index.m3u8
+#EXTINF:-1, HK Opava - AZ Havířov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68a4768857409d1c7224209a/index.m3u8
+#EXTINF:-1, Mostečtí Lvi - Kobra Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f5c/index.m3u8
+#EXTINF:-1, Hodonín - Velké Meziříčí
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c14d4ea32fed197c9d16e4/index.m3u8
+#EXTINF:-1, Orli Znojmo - Šumperk
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f79043/index.m3u8
+#EXTINF:-1, Havlíčkův Brod - Ústí n. L.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef71d550c8e37c3b1dc826/index.m3u8
+#EXTINF:-1, Baník Příbram - HC Děčín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f24d1650c8e37c3b1dd072/index.m3u8
+#EXTINF:-1, Liikunnan Riemu - Virkiä
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d4f0f1ea1b60e809f3a58/index.m3u8
+#EXTINF:-1, Chomutov B - Roudnice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da84048ebee495bafd5e83/index.m3u8
+#EXTINF:-1, HC Vrchlabí - Nová Paka
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f32e0dd14875374b215ba9/index.m3u8
