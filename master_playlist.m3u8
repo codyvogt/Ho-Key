@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1, Nashville - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/94348160-8058-4d09-a6ab-8da99d10a8f6/master.m3u8
+#EXTINF:-1, Calgary - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/450b0b95-7119-4bfc-86f1-db4f235bcd75/master.m3u8
+#EXTINF:-1, Philadelphia - Florida
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3d9b2b71-6b77-456c-b475-cc6cbdcada74/master.m3u8
+#EXTINF:-1, St. Louis - New Jersey
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/93d19d18-9f3e-48f4-ac50-0f8d3f38173c/master.m3u8
+#EXTINF:-1, Boston - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/249be0c4-306a-4494-90ab-e3e7c684551e/master.m3u8
+#EXTINF:-1, Buffalo - Pittsburgh
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5a80202-709d-466e-9616-d04720c1512a/master.m3u8
+#EXTINF:-1, Winnipeg - Washington
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/477df1cc-06cc-435a-8d8a-76a10fff8e4f/master.m3u8
+#EXTINF:-1, NY Rangers - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9e62ebb4-c1d9-4808-b4c1-56212070d319/master.m3u8
+#EXTINF:-1, Toronto - Columbus
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e1b6e7c0-4ed6-473f-b2e3-2708f306f781/master.m3u8
+#EXTINF:-1, Minnesota Wild - Chicago
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c502e582-08cd-4e07-a295-417b0ba90c4f/master.m3u8
+#EXTINF:-1, San Jose Sharks - Colorado
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f005cd66-dd2f-41bd-92cb-192a35a2ab9d/master.m3u8
+#EXTINF:-1, Montréal - Utah Mammoth
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c0b1ea08-0c27-4d94-908b-6c9d9b6cdb29/master.m3u8
+#EXTINF:-1, Ottawa Senators - Vegas
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1, Vancouver - Anaheim
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c08ec22b-1968-4b4a-ab9c-2cceff111226/master.m3u8
+#EXTINF:-1, Dallas - Seattle Kraken
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f5d0311f-a333-479d-9386-94f54c111082/master.m3u8
 #EXTINF:-1, Holy Cross - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Muskegon - US NTDP U17
