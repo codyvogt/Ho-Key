@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Holy Cross - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Muskegon - US NTDP U17
+https://d2npvto73le1qy.cloudfront.net/ac97159ecaaf0115cdf4a041b9237755/0_hd_hls.m3u8
 #EXTINF:-1, Vancouver - Ottawa
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
