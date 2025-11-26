@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Traktor - Shanghai Dragons
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Dynamo M - Lokomotiv
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Severstal - SKA
@@ -12,9 +10,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243e3f1ea1b60e809f4f
 #EXTINF:-1, Berani Zlín - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243ef11ea1b60e809f4f7c.m3u8
 #EXTINF:-1, ZUBR Přerov - HC Sokolov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243e791ea1b60e809f4f76.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69243e791ea1b60e809f4f76.m3u8
 #EXTINF:-1, VHK Vsetín - SC Kolín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243ea4109a6801f3cf8bfa.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69243ea4109a6801f3cf8bfa.m3u8
 #EXTINF:-1, HC Tábor - Slavia Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243f55109a6801f3cf8c00.m3u8
 #EXTINF:-1, HC Poruba - Pardubice B
@@ -43,3 +41,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d4f0f1ea1b60e809f3a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68da84048ebee495bafd5e83/index.m3u8
 #EXTINF:-1, HC Vrchlabí - Nová Paka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f32e0dd14875374b215ba9/index.m3u8
+#EXTINF:-1, HC Trutnov - HC Litomyšl
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece02/index.m3u8
+#EXTINF:-1, Chrudim - Orli Lanškroun
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791f0/index.m3u8
