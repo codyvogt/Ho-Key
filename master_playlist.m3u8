@@ -1,34 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Sörhaga HK - Lidköping
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ea0521ea1b60e809f3cc6/index.m3u8
-#EXTINF:-1, Kovlands IshF - Sundsvall
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eaed01ea1b60e809f3ce4/index.m3u8
-#EXTINF:-1, Vännäs HC - Tegs SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eab671ea1b60e809f3cd8/index.m3u8
-#EXTINF:-1, Njurunda SK - Ånge IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691eb23c109a6801f3cf7bae/index.m3u8
-#EXTINF:-1, Brinkens IF - IFK Tumba IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6920394d1ea1b60e809f4020/index.m3u8
-#EXTINF:-1, Hertsörinken IF - IF Kalix
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eb315109a6801f3cf7bb0/index.m3u8
-#EXTINF:-1, HC Strömstad - Munkedal
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eb15f109a6801f3cf7bac/index.m3u8
-#EXTINF:-1, Kållered SK - Partille HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eb3f71ea1b60e809f3d08/index.m3u8
-#EXTINF:-1, Kungsbacka - Skärgården
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eb9e51ea1b60e809f3d24/index.m3u8
-#EXTINF:-1, Härryda HC - Falkenberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eb9e51ea1b60e809f3d25/index.m3u8
-#EXTINF:-1, Hovås HC - Hisingens IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eb7561ea1b60e809f3d16/index.m3u8
-#EXTINF:-1, Vallentuna-Ormsta - MB
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691eadf6109a6801f3cf7b68/index.m3u8
 #EXTINF:-1, Gap - Chamonix
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6917fe49109a6801f3cf68cd/index.m3u8
 #EXTINF:-1, Notre Dame - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Holy Cross - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Brinkens IF - IFK Tumba IK
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6920394d1ea1b60e809f4020/index.m3u8
+#EXTINF:-1, Hovås HC - Hisingens IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eb7561ea1b60e809f3d16/index.m3u8
 #EXTINF:-1, Apollo Rangers - NKV
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4f0f1ea1b60e809f3a67/index.m3u8
 #EXTINF:-1, Kurra Gepardit - Tavastia
