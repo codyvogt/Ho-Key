@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Baník Příbram - HC Děčín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f24d1650c8e37c3b1dd072/index.m3u8
-#EXTINF:-1, HC Trutnov - HC Litomyšl
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece02/index.m3u8
-#EXTINF:-1, Chrudim - Orli Lanškroun
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791f0/index.m3u8
-#EXTINF:-1, Budapest JA HC - DAB
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691409db109a6801f3cf5f3a/index.m3u8
 #EXTINF:-1, Rungsted - Herning
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69244af41ea1b60e809f4fe8.m3u8
 #EXTINF:-1, Valenciennes - Angers
@@ -39,6 +31,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ea6491ea1b60e809f3c
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eadf6109a6801f3cf7b6a/index.m3u8
 #EXTINF:-1, Sörhaga HK - Lidköping
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ea0521ea1b60e809f3cc6/index.m3u8
+#EXTINF:-1, Chrudim - Orli Lanškroun
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791f0/index.m3u8
 #EXTINF:-1, IFK Salem - Tullinge TP HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ea6491ea1b60e809f3cd4/index.m3u8
 #EXTINF:-1, Vallentuna-Ormsta - MB
