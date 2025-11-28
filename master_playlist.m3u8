@@ -3,8 +3,6 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f87ff271-9d26-4dc1-84ad-84dcae155148/master.m3u8
 #EXTINF:-1, New York Rangers - Boston
 https://fl1.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1, Traktor Chelyabinsk - Sochi
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Ak Bars Kazan - SKA
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Torpedo - Dinamo Minsk
@@ -25,36 +23,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692438151ea1b60e809f4f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692437e61ea1b60e809f4f44.m3u8
 #EXTINF:-1, HC Litvínov - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692438451ea1b60e809f4f4a.m3u8
-#EXTINF:-1, Notre Dame - Boston C
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Ohio State - Arizona State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ed0962d6-f90a-453e-b554-f280cc876bd5-hls/master/ed0962d6-f90a-453e-b554-f280cc876bd5-hls.m3u8
-#EXTINF:-1, Alaska - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Vermont - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Michigan - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Omaha - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, STU - Michigan Tech
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, Minnesota State - NMU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
-#EXTINF:-1, Princeton - Bowling Green
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, UMass Lowell - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Providence - Colorado C
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls/master/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls.m3u8
 #EXTINF:-1, Oulun Kärpät - Tappara
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff2101ea1b60e809f3ed3/index.m3u8
 #EXTINF:-1, Lahden Pelicans - Jukurit
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ff210109a6801f3cf7d9f/index.m3u8
 #EXTINF:-1, HPK - Rovaniemen Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7da1/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ff210109a6801f3cf7da1/index.m3u8
 #EXTINF:-1, Ilves - Vaasan Sport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7da5/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ff210109a6801f3cf7da5/index.m3u8
 #EXTINF:-1, Helsingin Jokerit - SaiPa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d9d/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - HIFK
@@ -102,7 +78,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff2101ea1b60e809f3e
 #EXTINF:-1, Junkkarit HT - RaaheK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d8f/index.m3u8
 #EXTINF:-1, Seinäjoen-Kiekko - LeKi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d88/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ff210109a6801f3cf7d88/index.m3u8
 #EXTINF:-1, Haukat - Porvoon Hunters
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d85/index.m3u8
 #EXTINF:-1, Lännen Kiekko - EjL
@@ -145,6 +121,28 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69244b641ea1b60e809f4f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69244b921ea1b60e809f4ff0.m3u8
 #EXTINF:-1, Rødovre - Rungsted
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69244bdb109a6801f3cf8ca8.m3u8
+#EXTINF:-1, Notre Dame - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Ohio State - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ed0962d6-f90a-453e-b554-f280cc876bd5-hls/master/ed0962d6-f90a-453e-b554-f280cc876bd5-hls.m3u8
+#EXTINF:-1, Alaska - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Vermont - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Michigan - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Omaha - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, STU - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, Minnesota State - NMU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Princeton - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, UMass Lowell - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Providence - Colorado C
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls/master/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls.m3u8
 #EXTINF:-1, Åseda IF - Kristianstad
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692145e11ea1b60e809f448b/index.m3u8
 #EXTINF:-1, Söderhamn/Ljusne - Alfta
@@ -165,6 +163,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69215615109a6801f3cf83
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214f411ea1b60e809f44a6/index.m3u8
 #EXTINF:-1, IK Göta - Tierps HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69215a55109a6801f3cf839f/index.m3u8
+#EXTINF:-1, HC Žihadla - Velká Bíteš
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa27fd40899867ab4836d1/index.m3u8
 #EXTINF:-1, Ludvika HF - Hedemora SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6921494b1ea1b60e809f4497/index.m3u8
 #EXTINF:-1, Hofors HC - Bollnäs IS
@@ -209,6 +209,22 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6921442d109a6801f3cf83
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692148701ea1b60e809f4493/index.m3u8
 #EXTINF:-1, IK Huge - Skutskärs SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6921545e1ea1b60e809f44d8/index.m3u8
+#EXTINF:-1, Connecticut - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Maine - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Penn State - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7a2e61c0-94b0-424f-9949-70044dfce40a-hls/master/7a2e61c0-94b0-424f-9949-70044dfce40a-hls.m3u8
+#EXTINF:-1, St. Lawrence - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Delaware - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Cornell - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Yale - Sacred Heart
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Örebro HK - Rögle BK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692457fd109a6801f3cf8cdd/index.m3u8
 #EXTINF:-1, Umeå HK - Örnsköldsvik HF
