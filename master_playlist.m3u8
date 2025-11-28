@@ -21,8 +21,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6fff0b
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a3aba85-768d-4a2d-9afc-1f48852e8d45/master.m3u8
 #EXTINF:-1, Pittsburgh - Columbus
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/31af2240-13e9-41c9-98eb-a40b9dd1a506/master.m3u8
-#EXTINF:-1, Alaska - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Ohio State - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ed0962d6-f90a-453e-b554-f280cc876bd5-hls/master/ed0962d6-f90a-453e-b554-f280cc876bd5-hls.m3u8
 #EXTINF:-1, Vermont - Dartmouth
@@ -41,8 +39,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Providence - Colorado C
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls/master/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls.m3u8
-#EXTINF:-1, Rensselaer PI - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7a2e61c0-94b0-424f-9949-70044dfce40a-hls/master/7a2e61c0-94b0-424f-9949-70044dfce40a-hls.m3u8
 #EXTINF:-1, St. Lawrence - Boston C
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Delaware - Union
