@@ -40,9 +40,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690db6483829c1557f6084
 #EXTINF:-1, HC Třemošná - Rokycany
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff35c73829c1557f60628f/index.m3u8
 #EXTINF:-1, Nový Jičín - Frýdek-Místek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d8c1440899867ab4868af/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690d8c1440899867ab4868af/index.m3u8
 #EXTINF:-1, Valaš. Meziříčí - Prostějov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f79177/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df6c0aa0cd927f79177/index.m3u8
 #EXTINF:-1, HK Kroměříž - MSK Orlová
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f768dd40899867ab4830aa/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - Litoměřice
@@ -121,10 +121,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69244b921ea1b60e809f4f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69244bdb109a6801f3cf8ca8.m3u8
 #EXTINF:-1, Notre Dame - Boston C
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Ohio State - Arizona State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ed0962d6-f90a-453e-b554-f280cc876bd5-hls/master/ed0962d6-f90a-453e-b554-f280cc876bd5-hls.m3u8
 #EXTINF:-1, Alaska - St. Lawrence
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Ohio State - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ed0962d6-f90a-453e-b554-f280cc876bd5-hls/master/ed0962d6-f90a-453e-b554-f280cc876bd5-hls.m3u8
 #EXTINF:-1, Vermont - Dartmouth
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Michigan - Harvard
