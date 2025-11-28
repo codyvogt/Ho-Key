@@ -5,22 +5,8 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f87ff2
 https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1, Colorado - Minnesota Wild
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62251f14-ec45-457b-b39e-82426b2cfceb/master.m3u8
-#EXTINF:-1, Pardubice - Mountfield HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6924386f109a6801f3cf8bd7.m3u8
-#EXTINF:-1, Karlovy Vary - Vítkovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692437e61ea1b60e809f4f44.m3u8
-#EXTINF:-1, HC Litvínov - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692438451ea1b60e809f4f4a.m3u8
 #EXTINF:-1, HC Lugano - Ambri-Piotta
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Haukat - Porvoon Hunters
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d85/index.m3u8
-#EXTINF:-1, Poruba - Mladá Boleslav
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f6256ed14875374b21656b/index.m3u8
-#EXTINF:-1, HC Sparta Praha - Jihlava
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e77ac7e14bd1ca73a58f7f/index.m3u8
-#EXTINF:-1, Kurikan Ryhti - APV
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ff210109a6801f3cf7d7b/index.m3u8
 #EXTINF:-1, Highsticks HT - IK Kronan
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ff210109a6801f3cf7d8c/index.m3u8
 #EXTINF:-1, LJK Loviisa - Hawks
@@ -146,7 +132,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68de4e572de202e1780059
 #EXTINF:-1, Č. Třebová - Vel. Meziříčí
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d64936c957a27a013165d9/index.m3u8
 #EXTINF:-1, Morav. Třebová - Hlinsko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f214cdd14875374b2156e6/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f214cdd14875374b2156e6/index.m3u8
 #EXTINF:-1, Connecticut - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Maine - Harvard
