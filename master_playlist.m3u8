@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Tampa Bay - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f87ff271-9d26-4dc1-84ad-84dcae155148/master.m3u8
+#EXTINF:-1, New York Rangers - Boston
+https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1, Traktor Chelyabinsk - Sochi
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Ak Bars Kazan - SKA
@@ -89,3 +93,25 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68de4e572de202e1780059
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d64936c957a27a013165d9/index.m3u8
 #EXTINF:-1, Morav. Třebová - Hlinsko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f214cdd14875374b2156e6/index.m3u8
+#EXTINF:-1, Lapuan Virkiä - Laser HT
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff2101ea1b60e809f3ec4/index.m3u8
+#EXTINF:-1, Kotkan Titaanit - SaPKo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff2101ea1b60e809f3ec5/index.m3u8
+#EXTINF:-1, Junkkarit HT - RaaheK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d8f/index.m3u8
+#EXTINF:-1, Seinäjoen-Kiekko - LeKi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d88/index.m3u8
+#EXTINF:-1, Haukat - Porvoon Hunters
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d85/index.m3u8
+#EXTINF:-1, Lännen Kiekko - EjL
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d8b/index.m3u8
+#EXTINF:-1, GrIFK Joukkue - K-Kissat
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d87/index.m3u8
+#EXTINF:-1, Hämeenlinnan PK - HIFK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7dad/index.m3u8
+#EXTINF:-1, Jää-Tiikerit - Ice Team
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d6c/index.m3u8
+#EXTINF:-1, LJK Loviisa - Hawks
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d6f/index.m3u8
+#EXTINF:-1, PT-80 - EVU Team 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d6d/index.m3u8
