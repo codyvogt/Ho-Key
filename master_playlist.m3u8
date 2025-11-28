@@ -3,8 +3,20 @@
 https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1, Colorado - Minnesota Wild
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62251f14-ec45-457b-b39e-82426b2cfceb/master.m3u8
+#EXTINF:-1, New Jersey - Buffalo
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fc7ca5bb-f505-4645-89f1-13489c8ed96e/master.m3u8
+#EXTINF:-1, Calgary - Florida Panthers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/30f85c9b-e090-4382-9398-3e41603d903a/master.m3u8
+#EXTINF:-1, Philadelphia - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ad07963a-dd17-46e4-8414-aac88a81e262/master.m3u8
 #EXTINF:-1, Ottawa - St. Louis Blues
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1, Montréal - Vegas
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/31df71e5-70fb-4b50-87af-a366e40e2db4/master.m3u8
+#EXTINF:-1, Los Angeles - Anaheim
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ffadf72c-4289-417b-ab7e-6420b64f65c5/master.m3u8
+#EXTINF:-1, Vancouver - San Jose
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7b6d1dee-2e20-4020-bb8c-341eca018f29/master.m3u8
 #EXTINF:-1, HC Lugano - Ambri-Piotta
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, HC Olomouc - SC Kolín
@@ -178,4 +190,4 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ff210109a6801f3cf7d
 #EXTINF:-1, Worm Angels - Szeged
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6917fe5c109a6801f3cf68df/index.m3u8
 #EXTINF:-1, HYC II - Olympia Heist
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6918563a149b9c310bcb9354/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6918563a149b9c310bcb9354/index.m3u8
