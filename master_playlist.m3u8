@@ -3,22 +3,20 @@
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Metallurg Mg - Barys
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1, KJT Haukat - FoPS
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692143921ea1b60e809f436f/index.m3u8
-#EXTINF:-1, Lempäälän Kisa - TUTO
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69214391109a6801f3cf8236/index.m3u8
-#EXTINF:-1, Viikingit - Jokipojat
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214391109a6801f3cf8252/index.m3u8
 #EXTINF:-1, Oulun Kärpät - Tappara
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69214392109a6801f3cf82f3/index.m3u8
-#EXTINF:-1, Vaasan Sport - Ässät
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69214392109a6801f3cf82f4/index.m3u8
 #EXTINF:-1, HIFK - Saimaan Pallo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692143921ea1b60e809f4420/index.m3u8
 #EXTINF:-1, Mikkelin Jukurit - Ilves
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692143921ea1b60e809f43ef/index.m3u8
 #EXTINF:-1, JYP - Helsingin Jokerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214392109a6801f3cf8308/index.m3u8
+#EXTINF:-1, TPS - Rauman Lukko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214392109a6801f3cf8306/index.m3u8
+#EXTINF:-1, KalPa - Kouvolan KooKoo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214392109a6801f3cf8303/index.m3u8
+#EXTINF:-1, Kiekko-Espoo - HPK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692143921ea1b60e809f4417/index.m3u8
 #EXTINF:-1, IFK Tumba IK - IFK Täby
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6922a2761ea1b60e809f4997/index.m3u8
 #EXTINF:-1, Příbram - Beroun. Medvědi
@@ -29,6 +27,22 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede80d50c8e37c3b1dc3
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d5e141ea1b60e809f3ac7/index.m3u8
 #EXTINF:-1, Žďár n. S. - Světlá n. S.
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6916d49d109a6801f3cf654f/index.m3u8
+#EXTINF:-1, HC Smíchov - Kobra Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8f676e14bd1ca73a5934f/index.m3u8
+#EXTINF:-1, Choceň - Česká Třebová
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f0992450c8e37c3b1dcacf/index.m3u8
+#EXTINF:-1, Třemošná - Pilsen Wolves
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68af1ea3660904c7ccbc5e23/index.m3u8
+#EXTINF:-1, Nová Paka - Vlci Jablonec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6917370d109a6801f3cf67e3/index.m3u8
+#EXTINF:-1, Náchod - Nové Město n. M.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68a44c4d171bb90a002568f4/index.m3u8
+#EXTINF:-1, HC Hlinsko - HC Litomyšl
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b6cf5d8adff45f9df2960c/index.m3u8
+#EXTINF:-1, HC DDM ČEB - Domažlice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7f2dd9d2a1a468257fb9d/index.m3u8
+#EXTINF:-1, Benátky n. J. - Lomnice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915d7841ea1b60e809f26e7/index.m3u8
 #EXTINF:-1, Raahe-Kiekko - Virkiä
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214390109a6801f3cf8157/index.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - TPS
@@ -91,6 +105,10 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691f15ea109a6801f3cf7c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6900874440899867ab484a83/index.m3u8
 #EXTINF:-1, Rytíři Kladno - Vsetín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ff7c0d3829c1557f6063ab/index.m3u8
+#EXTINF:-1, Lempäälän Kisa - TUTO
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69214391109a6801f3cf8236/index.m3u8
+#EXTINF:-1, Viikingit - Jokipojat
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214391109a6801f3cf8252/index.m3u8
 #EXTINF:-1, DVTK JA - Vasas SC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6917fe5e109a6801f3cf6923/index.m3u8
 #EXTINF:-1, Storumans IK - Burträsk HC
