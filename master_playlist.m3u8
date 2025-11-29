@@ -11,24 +11,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691bf2ca109a6801f3cf76
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691bf2ca109a6801f3cf76ea/index.m3u8
 #EXTINF:-1, HCMP - Meudon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691bf2ca109a6801f3cf76e8/index.m3u8
-#EXTINF:-1, Briançon 2 - HCMP 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df4dcbe14bd1ca73a57996/index.m3u8
-#EXTINF:-1, Chambéry 2 - Gap 2
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691bf2c8109a6801f3cf76d6/index.m3u8
-#EXTINF:-1, St. Lawrence - Boston C
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Delaware - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Cornell - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Maine - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Syracuse - Rensselaer PI
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Assumption - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, Yale - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Valpellice - HC Falcons
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edaf1d615b78791f4650/index.m3u8
 #EXTINF:-1, Heerenveen - Neuwied
@@ -83,5 +65,19 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69296709918e75299fe5b6
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692965ee59e90c3f91fbb796/index.m3u8
 #EXTINF:-1, Majadahonda - Txuri Urdin
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692964ef59e90c3f91fbb78e/index.m3u8
+#EXTINF:-1, Chambéry 2 - Gap 2
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691bf2c8109a6801f3cf76d6/index.m3u8
+#EXTINF:-1, Delaware - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Cornell - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Maine - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Syracuse - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Assumption - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Yale - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, CH Huarte - Majadahonda
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69296cd9918e75299fe5b703/index.m3u8
