@@ -3,8 +3,6 @@
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Metallurg Mg - Barys
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1, Kobra Praha - Kobra B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f62576d14875374b216588/index.m3u8
 #EXTINF:-1, Lahden Pelicans - RoKi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692143921ea1b60e809f43e7/index.m3u8
 #EXTINF:-1, Oulun Kärpät - Tappara
@@ -28,7 +26,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690d8c1440899867ab4868
 #EXTINF:-1, HC Trutnov - HCM Jaroměř
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ede80d50c8e37c3b1dc341/index.m3u8
 #EXTINF:-1, HC Žihadla - Orli Znojmo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d5e141ea1b60e809f3ac7/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d5e141ea1b60e809f3ac7/index.m3u8
 #EXTINF:-1, Žďár n. S. - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916d49d109a6801f3cf654f/index.m3u8
 #EXTINF:-1, Raahe-Kiekko - Virkiä
