@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Pittsburgh - Columbus
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/31af2240-13e9-41c9-98eb-a40b9dd1a506/master.m3u8
 #EXTINF:-1, Nashville - Chicago
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e5e1ca99-d83f-407f-8df1-37ec0ace7f0e/master.m3u8
 #EXTINF:-1, Utah - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5679a581-11b2-48f4-90d3-0db80e5d81f8/master.m3u8
-#EXTINF:-1, Michigan - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Omaha - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, STU - Michigan Tech
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, Minnesota State - NMU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
-#EXTINF:-1, Princeton - Bowling Green
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, UMass Lowell - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Providence - Colorado C
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls/master/55a297a0-7d47-4ba0-903a-d6518fb7b05c-hls.m3u8
