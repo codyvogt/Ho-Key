@@ -1,28 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Tampa Bay - NY Rangers
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/94c78301-4c71-41cc-a221-0b6482ad019c/master.m3u8
-#EXTINF:-1, Slavia Třebíč - Litoměřice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692440461ea1b60e809f4f86.m3u8
-#EXTINF:-1, Piráti Chomutov - Sokolov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692440b01ea1b60e809f4f8a.m3u8
-#EXTINF:-1, Mostečtí Lvi - HC Děčín
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df102648319de9ecbf2/index.m3u8
 #EXTINF:-1, Kralupy n. V. - Benátky
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bac3e25addedaac41c322c/index.m3u8
 #EXTINF:-1, Vrchlabí - Havlíčkův Brod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78fcf/index.m3u8
 #EXTINF:-1, Stadion Cheb - HC Hronov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f7905e/index.m3u8
-#EXTINF:-1, TPS Akatemia - RNK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ff210109a6801f3cf7d76/index.m3u8
-#EXTINF:-1, Évry-Viry - Tours
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691bf2c8109a6801f3cf76e4/index.m3u8
-#EXTINF:-1, Chambéry - Toulouse
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691bf2c91ea1b60e809f3825/index.m3u8
-#EXTINF:-1, Montpellier - Marseille 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691bf2c91ea1b60e809f3813/index.m3u8
-#EXTINF:-1, Grenoble - Marseille
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691bf2c91ea1b60e809f3827/index.m3u8
 #EXTINF:-1, Renards d'Orléans - Brest
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691bf2ca109a6801f3cf76f2/index.m3u8
 #EXTINF:-1, Châlons - La-Roche-sur-Yon
@@ -99,6 +83,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69214391109a6801f3cf81
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69214391109a6801f3cf826b/index.m3u8
 #EXTINF:-1, EVU Team - KH Kiekko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6921438f109a6801f3cf811f/index.m3u8
+#EXTINF:-1, Chambéry - Toulouse
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691bf2c91ea1b60e809f3825/index.m3u8
+#EXTINF:-1, Montpellier - Marseille 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691bf2c91ea1b60e809f3813/index.m3u8
+#EXTINF:-1, Grenoble - Marseille
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691bf2c91ea1b60e809f3827/index.m3u8
 #EXTINF:-1, Nokian Pyry M2 - MaKo
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691ff210109a6801f3cf7d7a/index.m3u8
 #EXTINF:-1, HC DDM ČEB - Domažlice
