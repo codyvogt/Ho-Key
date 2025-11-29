@@ -3,10 +3,6 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8b122015-b836-4936-ab6d-c45834a70922/master.m3u8
 #EXTINF:-1, Edmonton - Seattle Kraken
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/599eebce-2adc-4a03-9ef5-d4c6701cd94f/master.m3u8
-#EXTINF:-1, Antwerp - Leuven Black
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6919a7bb1ea1b60e809f3277/index.m3u8
-#EXTINF:-1, Future Sharks - Hasselt
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6919a7bb109a6801f3cf7171/index.m3u8
 #EXTINF:-1, Stonehill - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, UML - St. Lawrence
@@ -61,5 +57,7 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Yale - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Future Sharks - Hasselt
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6919a7bb109a6801f3cf7171/index.m3u8
 #EXTINF:-1, CH Huarte - Majadahonda
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69296cd9918e75299fe5b703/index.m3u8
