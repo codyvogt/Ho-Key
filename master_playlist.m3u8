@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Washington - NY Islanders
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/28a95c3d-f750-46c5-aabb-64ca258a8c33/master.m3u8
 #EXTINF:-1, Anaheim Ducks - Chicago
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f355f4bb-f697-4fe9-be47-9cc98953d234/master.m3u8
-#EXTINF:-1, Bordeaux - Nantes
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4448109a6801f3cf78cb/index.m3u8
 #EXTINF:-1, Assumption - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, New Hampshire - Brown
