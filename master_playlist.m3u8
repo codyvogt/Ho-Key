@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Anaheim Ducks - Chicago
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f355f4bb-f697-4fe9-be47-9cc98953d234/master.m3u8
 #EXTINF:-1, Calgary Flames - Carolina
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5d81a110-cf3b-41a5-b193-6ff13919e7cd/master.m3u8
 #EXTINF:-1, Ottawa - Dallas Stars
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, New Hampshire - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
