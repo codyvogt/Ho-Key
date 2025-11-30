@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Washington - NY Islanders
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/28a95c3d-f750-46c5-aabb-64ca258a8c33/master.m3u8
-#EXTINF:-1, Rapaces de Gap - Angers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d4449109a6801f3cf78e3/index.m3u8
-#EXTINF:-1, HC 74 - Strasbourg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4449109a6801f3cf78e9/index.m3u8
-#EXTINF:-1, Drakkars de Caen - Anglet
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d4449109a6801f3cf78e1/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Rouen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d4449109a6801f3cf78e5/index.m3u8
-#EXTINF:-1, Örnsköldsvik - Sundsvall
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6923f9ef109a6801f3cf8a80/index.m3u8
-#EXTINF:-1, Clemensnäs HC - Sunderby
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6923efb21ea1b60e809f4c87/index.m3u8
-#EXTINF:-1, Karlskoga IK - Solstad HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923fc7c1ea1b60e809f4e38/index.m3u8
-#EXTINF:-1, S-Kiekko Team - Malax IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692295111ea1b60e809f4715/index.m3u8
-#EXTINF:-1, Lev Slaný - Čerti Ostrov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6911d4eda199919ff362f857/index.m3u8
 #EXTINF:-1, Grenoble - Ducs d'Angers
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c285139d2a1a468257e618/index.m3u8
 #EXTINF:-1, Briançon - Chamonix
@@ -27,16 +9,22 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285139d2a1a468257e6
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c285149d2a1a468257e628/index.m3u8
 #EXTINF:-1, Marseille - Rapaces de Gap
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28514b4c8ed39e3473f38/index.m3u8
-#EXTINF:-1, Leuven - Heerenveen
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691af2261ea1b60e809f3649/index.m3u8
-#EXTINF:-1, Eaters Limburg - Liège
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691af226109a6801f3cf750e/index.m3u8
 #EXTINF:-1, HC Fassa - Valdifiemme
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edad1d615b78791f464e/index.m3u8
+#EXTINF:-1, HC 74 - Strasbourg
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4449109a6801f3cf78e9/index.m3u8
+#EXTINF:-1, Drakkars de Caen - Anglet
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d4449109a6801f3cf78e1/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Rouen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d4449109a6801f3cf78e5/index.m3u8
+#EXTINF:-1, Clemensnäs HC - Sunderby
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6923efb21ea1b60e809f4c87/index.m3u8
 #EXTINF:-1, Meudon - Cergy-Pontoise
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4448109a6801f3cf78cd/index.m3u8
 #EXTINF:-1, Bordeaux - Nantes
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4448109a6801f3cf78cb/index.m3u8
+#EXTINF:-1, Eaters Limburg - Liège
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691af226109a6801f3cf750e/index.m3u8
 #EXTINF:-1, Assumption - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, New Hampshire - Brown
@@ -44,4 +32,4 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Egerszegi Titánok - Lehel
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6917fe5c109a6801f3cf68d9/index.m3u8
 #EXTINF:-1, Näädät - Kiekko-Espoo EKS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69229511109a6801f3cf854a/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69229511109a6801f3cf854a/index.m3u8
