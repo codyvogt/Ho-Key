@@ -3,40 +3,10 @@
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692439be109a6801f3cf8be1.m3u8
 #EXTINF:-1, Washington - NY Islanders
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/28a95c3d-f750-46c5-aabb-64ca258a8c33/master.m3u8
-#EXTINF:-1, Brocēni - Jelgavas LSS
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6900944b40899867ab484b12/index.m3u8
 #EXTINF:-1, Olofström - Helsingborg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923f6851ea1b60e809f4d9f/index.m3u8
 #EXTINF:-1, Karlskoga IK - Solstad HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923fc7c1ea1b60e809f4e38/index.m3u8
-#EXTINF:-1, HC Čáslav - HC Žabonosy
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c282b4b4c8ed39e3473e58/index.m3u8
-#EXTINF:-1, Sokol Radomyšl - Vimperk
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ff199d40899867ab4847a1/index.m3u8
-#EXTINF:-1, Soběslav - Jindř. Hradec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8e866e14bd1ca73a592ef/index.m3u8
-#EXTINF:-1, Uher. Ostroh - Boskovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f78fa8/index.m3u8
-#EXTINF:-1, Třebechovice - Chrudim
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f1dc8f50c8e37c3b1dcd57/index.m3u8
-#EXTINF:-1, HC Polička - Nový Bydžov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f791ed/index.m3u8
-#EXTINF:-1, Trutnov - Morav. Třebová
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791a4/index.m3u8
-#EXTINF:-1, HC Jičín - HC Frýdlant
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e6455de14bd1ca73a58c05/index.m3u8
-#EXTINF:-1, Spartak Choceň - Náchod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f7918e/index.m3u8
-#EXTINF:-1, Baník Sokolov B - Apollo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac5779a5/index.m3u8
-#EXTINF:-1, HC Vrchlabí - HC Frýdlant
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69109f97f4ec1fa89c3ab8a8/index.m3u8
-#EXTINF:-1, Opava - Valašské Meziříčí
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69159f3d109a6801f3cf62cd/index.m3u8
-#EXTINF:-1, Lev Slaný - Čerti Ostrov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6911d4eda199919ff362f857/index.m3u8
-#EXTINF:-1, Kisa-Eagles - LäKi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69229513109a6801f3cf8642/index.m3u8
 #EXTINF:-1, Aigles de Nice - Amiens
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28514b4c8ed39e3473f2a/index.m3u8
 #EXTINF:-1, Grenoble - Ducs d'Angers
@@ -53,6 +23,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691af225109a6801f3cf75
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691af2261ea1b60e809f3649/index.m3u8
 #EXTINF:-1, Eaters Limburg - Liège
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691af226109a6801f3cf750e/index.m3u8
+#EXTINF:-1, Spartak Choceň - Náchod
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f7918e/index.m3u8
+#EXTINF:-1, Baník Sokolov B - Apollo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fb1715e58cdfe8ac5779a5/index.m3u8
 #EXTINF:-1, VG-62 Naantali - RNK Hoci
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69229511109a6801f3cf8554/index.m3u8
 #EXTINF:-1, S-Kiekko Team - Malax IF
@@ -74,13 +48,15 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d44481ea1b60e809f3a
 #EXTINF:-1, Meudon - Cergy-Pontoise
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4448109a6801f3cf78cd/index.m3u8
 #EXTINF:-1, Bordeaux - Nantes
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d4448109a6801f3cf78cb/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691d4448109a6801f3cf78cb/index.m3u8
 #EXTINF:-1, HIFK Stadi - Peliitat
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69229513109a6801f3cf8630/index.m3u8
 #EXTINF:-1, Örnsköldsvik - Sundsvall
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6923f9ef109a6801f3cf8a80/index.m3u8
 #EXTINF:-1, Clemensnäs HC - Sunderby
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6923efb21ea1b60e809f4c87/index.m3u8
+#EXTINF:-1, Lev Slaný - Čerti Ostrov
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6911d4eda199919ff362f857/index.m3u8
 #EXTINF:-1, HC Fassa - Valdifiemme
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edad1d615b78791f464e/index.m3u8
 #EXTINF:-1, Assumption - Merrimack
@@ -88,6 +64,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, New Hampshire - Brown
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Egerszegi Titánok - Lehel
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6917fe5c109a6801f3cf68d9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6917fe5c109a6801f3cf68d9/index.m3u8
 #EXTINF:-1, Näädät - Kiekko-Espoo EKS
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69229511109a6801f3cf854a/index.m3u8
