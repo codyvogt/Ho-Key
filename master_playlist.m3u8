@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Briançon - Ducs d'Angers
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28514b4c8ed39e3473f30/index.m3u8
-#EXTINF:-1, Anglet - Marseille
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28514b4c8ed39e3473f40/index.m3u8
-#EXTINF:-1, Lions de Lyon - Caen
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d764cbfdc151189406b760/index.m3u8
+#EXTINF:-1, UNH - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Boston U - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
