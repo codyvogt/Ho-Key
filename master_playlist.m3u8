@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1, Lokomotiv Yaroslavl - SKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Luleå - Ilves Tampere
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1, Sparta - České Budějovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ca6bb49d2a1a4682580181/index.m3u8
+#EXTINF:-1, Chrudim - Warriors Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d20d350f03ad08f4b91e/index.m3u8
+#EXTINF:-1, JYP Ak - KeuPa/Diskos
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925380f1ea1b60e809f5158/index.m3u8
+#EXTINF:-1, K-Espoo Ch - Viikingit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925380f1ea1b60e809f5159/index.m3u8
