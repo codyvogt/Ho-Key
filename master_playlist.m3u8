@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Luleå - Ilves Tampere
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Sparta - České Budějovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ca6bb49d2a1a4682580181/index.m3u8
-#EXTINF:-1, Chrudim - Warriors Brno
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912d20d350f03ad08f4b91e/index.m3u8
-#EXTINF:-1, JYP Ak - KeuPa/Diskos
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6925380f1ea1b60e809f5158/index.m3u8
-#EXTINF:-1, K-Espoo Ch - Viikingit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925380f1ea1b60e809f5159/index.m3u8
 #EXTINF:-1, Odense - Rungsted
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69244c6b1ea1b60e809f4ff2.m3u8
 #EXTINF:-1, Herning - Aalborg Pirates
@@ -58,10 +48,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f
 #EXTINF:-1, Amiens - Cergy-Pontoise
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f3e/index.m3u8
 #EXTINF:-1, Briançon - Ducs d'Angers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f30/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28514b4c8ed39e3473f30/index.m3u8
 #EXTINF:-1, Anglet - Marseille
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f40/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28514b4c8ed39e3473f40/index.m3u8
 #EXTINF:-1, Karhu-Kissat - Kiekko 49
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925380f1ea1b60e809f5142/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6925380f1ea1b60e809f5142/index.m3u8
 #EXTINF:-1, Lions de Lyon - Caen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d764cbfdc151189406b760/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68d764cbfdc151189406b760/index.m3u8
