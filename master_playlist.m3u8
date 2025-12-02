@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Odense - Rungsted
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69244c6b1ea1b60e809f4ff2.m3u8
-#EXTINF:-1, Herning - Aalborg Pirates
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69244c9e109a6801f3cf8cae.m3u8
 #EXTINF:-1, Borlänge HF - Grums IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692695421ea1b60e809f54be/index.m3u8
-#EXTINF:-1, Valbo HC - Orsa IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692697d1109a6801f3cf9093/index.m3u8
-#EXTINF:-1, Malungs IF - BIK Karlskoga
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69269f7d109a6801f3cf90b7/index.m3u8
-#EXTINF:-1, Tingsryds AIF - Kungälvs IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6926a20a1ea1b60e809f553f/index.m3u8
 #EXTINF:-1, Helsingborg - Troja-Ljungby
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69268f4c109a6801f3cf908b/index.m3u8
 #EXTINF:-1, Tegs SK - Vännäs HC
@@ -25,18 +15,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6926a1301ea1b60e809f55
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6926a2e41ea1b60e809f554d/index.m3u8
 #EXTINF:-1, Strömsbro IF - Hudiksvall
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69269f7d109a6801f3cf90b8/index.m3u8
-#EXTINF:-1, Spånga - Haninge Anchors
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69269c141ea1b60e809f5516/index.m3u8
+#EXTINF:-1, Kazakhstan - Norway
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692ef86d8cf02b3dcbc237a3/index.m3u8
 #EXTINF:-1, Bodens IK - IFK Arvidsjaur
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6926961d1ea1b60e809f54c4/index.m3u8
 #EXTINF:-1, Njurunda SK - KB65 HK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69269b3a1ea1b60e809f5514/index.m3u8
 #EXTINF:-1, Bålsta HC - Mälarö HF
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691421f7109a6801f3cf5f62/index.m3u8
-#EXTINF:-1, HC Náchod - HC Chrudim
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece0a/index.m3u8
-#EXTINF:-1, Kazakhstan - Norway
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692ef86d8cf02b3dcbc237a3/index.m3u8
 #EXTINF:-1, Hertsörinken IF - Överkalix
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69269ea41ea1b60e809f551c/index.m3u8
 #EXTINF:-1, Skutskärs SK - Lindefallet
