@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1, SC Bern - Biel-Bienne
-https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, Malmö Redhawks - Rögle
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6927f464688a6038e7f6b1fc/index.m3u8
 #EXTINF:-1, Piteå HC - SK Lejon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69293b8d1235e1f87a8290e2/index.m3u8
-#EXTINF:-1, Sunderby SK - Clemensnäs
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69293b8d1235e1f87a8290e4/index.m3u8
-#EXTINF:-1, Gnesta IK - Kallhälls IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6927ea0e688a6038e7f6b1b6/index.m3u8
 #EXTINF:-1, Vallentuna-Ormsta - Nacka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e87668db0e69ca280e29/index.m3u8
 #EXTINF:-1, KTH - Hässelby Kälvesta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e0c9688a6038e7f6b17e/index.m3u8
 #EXTINF:-1, Hammarby 2 - Trångsund 2
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6927df15688a6038e7f6b16a/index.m3u8
+#EXTINF:-1, SC Bern - Biel-Bienne
+https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, A-Rangers - Hunters Team
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f5488/index.m3u8
 #EXTINF:-1, EVU Team - PiTa
