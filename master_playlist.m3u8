@@ -13,6 +13,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb7684f917966ed1466
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb7aa8cf02b3dcbc23645.m3u8
 #EXTINF:-1, Lukko Rauma - EV Zug
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1, SC Bern - Biel-Bienne
+https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, Dukla Jihlava - Berani Zlín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eeb9a4f917966ed1467e6.m3u8
 #EXTINF:-1, VHK Vsetín - HC Poruba
@@ -82,15 +84,15 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915bb65109a6801f3cf63
 #EXTINF:-1, Mostečtí Lvi - HC Cheb
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df102648319de9ecbfb/index.m3u8
 #EXTINF:-1, HC Milevsko - SK Kadaň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f2c/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f78f2c/index.m3u8
 #EXTINF:-1, Baník Příbram - HC Hronov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691469e8109a6801f3cf608a/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691469e8109a6801f3cf608a/index.m3u8
 #EXTINF:-1, Nové Město n. M. - Jaroměř
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece19/index.m3u8
 #EXTINF:-1, Hlinsko - Spartak Polička
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791e5/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791e5/index.m3u8
 #EXTINF:-1, N. Bydžov - Třebechovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f79193/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f79193/index.m3u8
 #EXTINF:-1, Litomyšl - Česká Třebová
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915d77c109a6801f3cf6374/index.m3u8
 #EXTINF:-1, Morav. Třebová - Choceň
@@ -98,8 +100,32 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece
 #EXTINF:-1, IK Kronan - IFK Lepplax
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689901ea1b60e809f5468/index.m3u8
 #EXTINF:-1, KelA - Viikingit Helsinki
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f5486/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689911ea1b60e809f5486/index.m3u8
 #EXTINF:-1, Rögle BK - Troja-Ljungby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927f46468db0e69ca280ea7/index.m3u8
 #EXTINF:-1, TPS - Kiekko-Espoo
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689901ea1b60e809f5460/index.m3u8
+#EXTINF:-1, IFK Munkfors - Kils AIK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927f0fc688a6038e7f6b1f0/index.m3u8
+#EXTINF:-1, Åmåls SK - Sunne IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927ebdd688a6038e7f6b1da/index.m3u8
+#EXTINF:-1, Arvika HC - Karlskoga IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927f021688a6038e7f6b1e9/index.m3u8
+#EXTINF:-1, Sellnäs IF - Hedemora SK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e6c268db0e69ca280e19/index.m3u8
+#EXTINF:-1, Gnesta IK - Kallhälls IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927ea0e688a6038e7f6b1b6/index.m3u8
+#EXTINF:-1, Malmö Redhawks - Rögle
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927f464688a6038e7f6b1fc/index.m3u8
+#EXTINF:-1, Hokiklub Budapest - FTC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d445d1ea1b60e809f3a53/index.m3u8
+#EXTINF:-1, Piteå HC - SK Lejon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69293b8d1235e1f87a8290e2/index.m3u8
+#EXTINF:-1, Sunderby SK - Clemensnäs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69293b8d1235e1f87a8290e4/index.m3u8
+#EXTINF:-1, Vallentuna-Ormsta - Nacka
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e87668db0e69ca280e29/index.m3u8
+#EXTINF:-1, KTH - Hässelby Kälvesta
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e0c9688a6038e7f6b17e/index.m3u8
+#EXTINF:-1, Hammarby 2 - Trångsund 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927df15688a6038e7f6b16a/index.m3u8
