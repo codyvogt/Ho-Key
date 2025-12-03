@@ -1,36 +1,14 @@
 #EXTM3U
 #EXTINF:-1, SC Bern - Biel-Bienne
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, Baník Sokolov - HC Tábor
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eec918cf02b3dcbc2376c.m3u8
 #EXTINF:-1, Pardubice B - Chomutov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eec334f917966ed1467ea.m3u8
-#EXTINF:-1, Kyiv Capitals - HC Panter
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692da2d29212aed228fa9543/index.m3u8
-#EXTINF:-1, HC Milevsko - SK Kadaň
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f78f2c/index.m3u8
 #EXTINF:-1, Baník Příbram - HC Hronov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691469e8109a6801f3cf608a/index.m3u8
-#EXTINF:-1, Hlinsko - Spartak Polička
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791e5/index.m3u8
 #EXTINF:-1, N. Bydžov - Třebechovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f79193/index.m3u8
-#EXTINF:-1, Litomyšl - Česká Třebová
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915d77c109a6801f3cf6374/index.m3u8
 #EXTINF:-1, Morav. Třebová - Choceň
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece10/index.m3u8
-#EXTINF:-1, KelA - Viikingit Helsinki
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689911ea1b60e809f5486/index.m3u8
-#EXTINF:-1, Piranhas Kotka - AaKoo
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689901ea1b60e809f5461/index.m3u8
-#EXTINF:-1, Laser HT Bangers - OYUS
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689901ea1b60e809f545c/index.m3u8
-#EXTINF:-1, A-Rangers - Hunters Team
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f5488/index.m3u8
-#EXTINF:-1, EVU Team - PiTa
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689911ea1b60e809f5493/index.m3u8
-#EXTINF:-1, GrIFK J. - K-Espoo EKS
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689911ea1b60e809f549c/index.m3u8
 #EXTINF:-1, IFK Munkfors - Kils AIK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6927f0fc688a6038e7f6b1f0/index.m3u8
 #EXTINF:-1, Åmåls SK - Sunne IK
@@ -41,6 +19,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927f021688a6038e7f6b1
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e6c268db0e69ca280e19/index.m3u8
 #EXTINF:-1, Gnesta IK - Kallhälls IF
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6927ea0e688a6038e7f6b1b6/index.m3u8
+#EXTINF:-1, Laser HT Bangers - OYUS
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689901ea1b60e809f545c/index.m3u8
+#EXTINF:-1, A-Rangers - Hunters Team
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f5488/index.m3u8
+#EXTINF:-1, EVU Team - PiTa
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689911ea1b60e809f5493/index.m3u8
+#EXTINF:-1, GrIFK J. - K-Espoo EKS
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689911ea1b60e809f549c/index.m3u8
 #EXTINF:-1, Malmö Redhawks - Rögle
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6927f464688a6038e7f6b1fc/index.m3u8
 #EXTINF:-1, Hokiklub Budapest - FTC
