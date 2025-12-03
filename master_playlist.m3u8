@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1, CSKA Moscow - Torpedo
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, SC Bern - Biel-Bienne
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, VHK Vsetín - HC Poruba
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eebd38cf02b3dcbc23762.m3u8
+#EXTINF:-1, KJT Haukat - K-Vantaa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6926898f109a6801f3cf906a/index.m3u8
 #EXTINF:-1, Slavia Praha - Slavia Třebíč
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eec648cf02b3dcbc23768.m3u8
 #EXTINF:-1, Baník Sokolov - HC Tábor
@@ -13,8 +11,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eec918cf02b3dcbc237
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eec334f917966ed1467ea.m3u8
 #EXTINF:-1, SC Kolín - ZUBR Přerov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eec028cf02b3dcbc23766.m3u8
-#EXTINF:-1, KJT Haukat - K-Vantaa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6926898f109a6801f3cf906a/index.m3u8
 #EXTINF:-1, Kyiv Capitals - HC Panter
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692da2d29212aed228fa9543/index.m3u8
 #EXTINF:-1, HIFK - Turun Palloseura
@@ -94,6 +90,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e87668db0e69ca280e
 #EXTINF:-1, KTH - Hässelby Kälvesta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927e0c9688a6038e7f6b17e/index.m3u8
 #EXTINF:-1, Hammarby 2 - Trångsund 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927df15688a6038e7f6b16a/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6927df15688a6038e7f6b16a/index.m3u8
 #EXTINF:-1, Épinal - Strasbourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692138c81ea1b60e809f4242/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692138c81ea1b60e809f4242/index.m3u8
