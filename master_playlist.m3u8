@@ -9,6 +9,8 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Shanghai - Salavat Yulaev
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Třinec - Mountfield HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb7684f917966ed1466de.m3u8
 #EXTINF:-1, HC Vítkovice - Olomouc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb7aa8cf02b3dcbc23645.m3u8
 #EXTINF:-1, Lukko Rauma - EV Zug
@@ -20,7 +22,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689911ea1b60e809f54
 #EXTINF:-1, Kouvolan KooKoo - SaiPa
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689911ea1b60e809f5494/index.m3u8
 #EXTINF:-1, Tampereen Ilves - Tappara
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f54ad/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689911ea1b60e809f54ad/index.m3u8
 #EXTINF:-1, HPK - Helsingin Jokerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f547f/index.m3u8
 #EXTINF:-1, RoKi - Oulun Kärpät
@@ -46,7 +48,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69268990109a6801f3cf90
 #EXTINF:-1, Lempäälän Kisa - KOOVEE
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689901ea1b60e809f545f/index.m3u8
 #EXTINF:-1, Forssan Palloseura - TUTO
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6926898f109a6801f3cf9067/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6926898f109a6801f3cf9067/index.m3u8
 #EXTINF:-1, Jokipojat - IPK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6926898f109a6801f3cf9069/index.m3u8
 #EXTINF:-1, KJT Haukat - K-Vantaa
