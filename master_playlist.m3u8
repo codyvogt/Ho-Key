@@ -3,12 +3,20 @@
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Avtomobilist - Metallurg
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1, Severstal - Dynamo M
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1, Ak Bars Kazan - Traktor
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1, CSKA Moscow - Torpedo
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1, Shanghai - Salavat Yulaev
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Mikkelin Jukurit - KalPa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f54ac/index.m3u8
 #EXTINF:-1, JYP - Vaasan Sport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f547e/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692689911ea1b60e809f547e/index.m3u8
 #EXTINF:-1, Kouvolan KooKoo - SaiPa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f5494/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689911ea1b60e809f5494/index.m3u8
 #EXTINF:-1, Tampereen Ilves - Tappara
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f54ad/index.m3u8
 #EXTINF:-1, HPK - Helsingin Jokerit
@@ -17,3 +25,15 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f54
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f549e/index.m3u8
 #EXTINF:-1, HIFK - Turun Palloseura
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692689911ea1b60e809f54aa/index.m3u8
+#EXTINF:-1, Dukla Jihlava - Berani Zlín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eeb9a4f917966ed1467e6.m3u8
+#EXTINF:-1, VHK Vsetín - HC Poruba
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eebd38cf02b3dcbc23762.m3u8
+#EXTINF:-1, Slavia Praha - Slavia Třebíč
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eec648cf02b3dcbc23768.m3u8
+#EXTINF:-1, Baník Sokolov - HC Tábor
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eec918cf02b3dcbc2376c.m3u8
+#EXTINF:-1, Pardubice B - Chomutov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eec334f917966ed1467ea.m3u8
+#EXTINF:-1, SC Kolín - ZUBR Přerov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eec028cf02b3dcbc23766.m3u8
