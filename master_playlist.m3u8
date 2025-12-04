@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Metallurg Zhlobin - Mogilev
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Turun Palloseura - HIFK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6927db14688a6038e7f6b145/index.m3u8
-#EXTINF:-1, Helsingin Jokerit - Tappara
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f31f1150c8e37c3b1dd21c/index.m3u8
-#EXTINF:-1, Kiekko-Espoo - Pelicans
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927db14688a6038e7f6b143/index.m3u8
 #EXTINF:-1, Hungary - Fehérvár HA19
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69267edd1ea1b60e809f5458/index.m3u8
 #EXTINF:-1, Slovenia - Kazakhstan
@@ -19,6 +13,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69280fcb68db0e69ca280e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927db14688a6038e7f6b13d/index.m3u8
 #EXTINF:-1, Mountfield HK - Vítkovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691da4641ea1b60e809f3b9a/index.m3u8
+#EXTINF:-1, Helsingin Jokerit - Tappara
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f31f1150c8e37c3b1dd21c/index.m3u8
+#EXTINF:-1, Kiekko-Espoo - Pelicans
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927db14688a6038e7f6b143/index.m3u8
 #EXTINF:-1, Chiefs Turku - Haka
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692689911ea1b60e809f5489/index.m3u8
 #EXTINF:-1, Tampereen KOOVEE - KPK
