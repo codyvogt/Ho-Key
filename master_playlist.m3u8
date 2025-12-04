@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avangard Omsk - HC Sochi
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, France - Ukraine
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692ef8c88cf02b3dcbc237a7/index.m3u8
 #EXTINF:-1, Hungary - Fehérvár HA19
@@ -10,7 +8,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692f2c7d4f917966ed1468
 #EXTINF:-1, SaiPa - Kouvolan KooKoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927db14688a6038e7f6b141/index.m3u8
 #EXTINF:-1, Turun Palloseura - HIFK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927db14688a6038e7f6b145/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6927db14688a6038e7f6b145/index.m3u8
 #EXTINF:-1, Helsingin Jokerit - Tappara
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f31f1150c8e37c3b1dd21c/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - Pelicans
