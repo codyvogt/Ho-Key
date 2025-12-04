@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1, France - Ukraine
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692ef8c88cf02b3dcbc237a7/index.m3u8
-#EXTINF:-1, Hungary - Fehérvár HA19
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69267edd1ea1b60e809f5458/index.m3u8
-#EXTINF:-1, Slovenia - Kazakhstan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692f2c7d4f917966ed1468c9/index.m3u8
-#EXTINF:-1, SaiPa - Kouvolan KooKoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927db14688a6038e7f6b141/index.m3u8
+#EXTINF:-1, Metallurg Zhlobin - Mogilev
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Turun Palloseura - HIFK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6927db14688a6038e7f6b145/index.m3u8
 #EXTINF:-1, Helsingin Jokerit - Tappara
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f31f1150c8e37c3b1dd21c/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - Pelicans
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927db14688a6038e7f6b143/index.m3u8
-#EXTINF:-1, Metallurg Zhlobin - Mogilev
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Hungary - Fehérvár HA19
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69267edd1ea1b60e809f5458/index.m3u8
+#EXTINF:-1, Slovenia - Kazakhstan
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692f2c7d4f917966ed1468c9/index.m3u8
 #EXTINF:-1, Lännen Kiekko - KuKi Team
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6927db14688a6038e7f6b13c/index.m3u8
 #EXTINF:-1, Eurajoen Lätkä - PKW
@@ -39,3 +35,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69293b8d1235e1f87a8290
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692941a4725a935a9c335e50/index.m3u8
 #EXTINF:-1, Rimbo IF - Ullfors HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bd8b4918e75299fe5c1c5/index.m3u8
+#EXTINF:-1, Valpellice - SV Kaltern
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880ed9889696da691442241/index.m3u8
