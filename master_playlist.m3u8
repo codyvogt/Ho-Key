@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mechelen - Heerenveen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692189a7109a6801f3cf83d7/index.m3u8
-#EXTINF:-1, Rensselaer PI - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Union - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Northeastern - Boston C
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Boston U - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Maine - New Hampshire
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Merrimack - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Princeton - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Robert Morris - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8272f74a-6f76-4261-be98-5b35a92980e9-hls/master/8272f74a-6f76-4261-be98-5b35a92980e9-hls.m3u8
 #EXTINF:-1, Minnesota - Ohio State
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Cornell - Clarkson
@@ -53,3 +33,17 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Miami - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ed544a9-3ca7-4508-932a-13275a007f23-hls/master/0ed544a9-3ca7-4508-932a-13275a007f23-hls.m3u8
+#EXTINF:-1, Quinnipiac - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Northeastern - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Boston U - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Maine - New Hampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Merrimack - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Princeton - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Robert Morris - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8272f74a-6f76-4261-be98-5b35a92980e9-hls/master/8272f74a-6f76-4261-be98-5b35a92980e9-hls.m3u8
