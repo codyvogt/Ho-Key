@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Ajoie - Fribourg-Gottéron
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, Brocēni - Liepājas SSS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d453159e90c3f91fbca59/index.m3u8
-#EXTINF:-1, VHK Vsetín - AZ Havířov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691c8b24109a6801f3cf7852/index.m3u8
-#EXTINF:-1, Piráti Chomutov - Chrudim
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6928144768db0e69ca280f10/index.m3u8
-#EXTINF:-1, SC Kolín - Králové Písek
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b83d02c238c71a081b6af1/index.m3u8
-#EXTINF:-1, Havlíčkův Brod - Hvězda
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691c0c8f1ea1b60e809f388b/index.m3u8
-#EXTINF:-1, Salon Kiekkohait - HCIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69292c90725a935a9c335d81/index.m3u8
 #EXTINF:-1, HC Turnov - Velké Popovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ecbb7109a6801f3cf7be1/index.m3u8
 #EXTINF:-1, Hodonín - Warriors Brno B
@@ -43,6 +31,10 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692d36ff59e90c3f91fbc9
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69293325725a935a9c335de9/index.m3u8
 #EXTINF:-1, Karlskrona HK - Tingsryd
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a968a59e90c3f91fbbd6a/index.m3u8
+#EXTINF:-1, SC Kolín - Králové Písek
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b83d02c238c71a081b6af1/index.m3u8
+#EXTINF:-1, Havlíčkův Brod - Hvězda
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691c0c8f1ea1b60e809f388b/index.m3u8
 #EXTINF:-1, Skedvi/Säter IF - Alfta
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a84a6918e75299fe5bb64/index.m3u8
 #EXTINF:-1, Malungs IF - Gävle GIK
