@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Vegas - New Jersey Devils
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34fcdfe2-82ab-4a09-bc5b-b64333ce5e89/master.m3u8
+#EXTINF:-1, Buffalo - Winnipeg Jets
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3fc4b423-cbc1-4e54-a3cd-8dd737d01b23/master.m3u8
 #EXTINF:-1, Minnesota - Ohio State
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Cornell - Clarkson
