@@ -12,7 +12,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Neftekhimik - Metallurg Mg
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Škoda Plzeň - HC Třinec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e8da4d59b6f68b0e1dee3a/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e8da4d59b6f68b0e1dee3a/index.m3u8
 #EXTINF:-1, České Budějovice - Zlín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6916c68c109a6801f3cf64f7/index.m3u8
 #EXTINF:-1, Mladá Boleslav - Kometa
@@ -23,3 +23,21 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69159f44109a6801f3cf62
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ecbb7109a6801f3cf7be3/index.m3u8
 #EXTINF:-1, Karlovy Vary - Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69200114109a6801f3cf7df0/index.m3u8
+#EXTINF:-1, Oceláři Třinec - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb7e84f917966ed1466e3.m3u8
+#EXTINF:-1, Plzeň - České Budějovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb8504f917966ed1466ef.m3u8
+#EXTINF:-1, HC Litvínov - Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb8188cf02b3dcbc2364f.m3u8
+#EXTINF:-1, Kometa Brno - HC Sparta
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb8db8cf02b3dcbc23659.m3u8
+#EXTINF:-1, Pardubice - Mladá Boleslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb90a8cf02b3dcbc2365d.m3u8
+#EXTINF:-1, Kladno - Mountfield HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb8ac4f917966ed1466f5.m3u8
+#EXTINF:-1, Karlovy Vary - HC Olomouc
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb8844f917966ed1466f3.m3u8
+#EXTINF:-1, Italy - Japan
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693184784f917966ed146e8d/index.m3u8
+#EXTINF:-1, Neman Grodno - Yunost
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
