@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Ajoie - Fribourg-Gottéron
-https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, Herning - Sønderjyske
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eb2c18cf02b3dcbc2362b.m3u8
-#EXTINF:-1, Frederikshavn - Odense
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eb2874f917966ed1466cb.m3u8
-#EXTINF:-1, Pajala HC - Övertorneå HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8214918e75299fe5bb56/index.m3u8
 #EXTINF:-1, SK Iron Hockey - Älta IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7f8759e90c3f91fbbd02/index.m3u8
 #EXTINF:-1, Kista HC - Trångsunds IF
@@ -83,6 +75,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Robert Morris - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8272f74a-6f76-4261-be98-5b35a92980e9-hls/master/8272f74a-6f76-4261-be98-5b35a92980e9-hls.m3u8
+#EXTINF:-1, Frederikshavn - Odense
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eb2874f917966ed1466cb.m3u8
 #EXTINF:-1, Hijs Hokij - Liège Bulldogs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692189a61ea1b60e809f4548/index.m3u8
 #EXTINF:-1, Mechelen - Heerenveen
