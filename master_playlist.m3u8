@@ -1,114 +1,16 @@
 #EXTM3U
 #EXTINF:-1, Ajoie - Fribourg-Gottéron
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-#EXTINF:-1, Rungsted - Herlev Eagles
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eb24d8cf02b3dcbc23623.m3u8
-#EXTINF:-1, Rødovre - Esbjerg Energy
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eb1f78cf02b3dcbc23621.m3u8
 #EXTINF:-1, Herning - Sønderjyske
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eb2c18cf02b3dcbc2362b.m3u8
 #EXTINF:-1, Frederikshavn - Odense
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eb2874f917966ed1466cb.m3u8
-#EXTINF:-1, Luleå HF - Skellefteå AIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a9323918e75299fe5bbb8/index.m3u8
-#EXTINF:-1, Djurgårdens IF - Mora IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693304157bdeef97ba5317ec/index.m3u8
-#EXTINF:-1, Växjö Lakers HC - IF Malmö
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a984059e90c3f91fbbd77/index.m3u8
-#EXTINF:-1, Frölunda HC - HV 71
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a984059e90c3f91fbbd76/index.m3u8
-#EXTINF:-1, Karlovy Vary - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69200114109a6801f3cf7df0/index.m3u8
-#EXTINF:-1, Kiruna IF - Brooklyn Tigers
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692d36ff59e90c3f91fbc9db/index.m3u8
-#EXTINF:-1, Umeå HK - Örnsköldsvik HF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69293325725a935a9c335de9/index.m3u8
-#EXTINF:-1, Karlskrona HK - Tingsryd
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a968a59e90c3f91fbbd6a/index.m3u8
-#EXTINF:-1, SC Kolín - Králové Písek
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b83d02c238c71a081b6af1/index.m3u8
-#EXTINF:-1, Havlíčkův Brod - Hvězda
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691c0c8f1ea1b60e809f388b/index.m3u8
-#EXTINF:-1, Skedvi/Säter IF - Alfta
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a84a6918e75299fe5bb64/index.m3u8
-#EXTINF:-1, Malungs IF - Gävle GIK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69181efe1ea1b60e809f2e0e/index.m3u8
-#EXTINF:-1, Kils AIK - Hammarö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8d2a918e75299fe5bb92/index.m3u8
-#EXTINF:-1, Segeltorps IF - IFK Tumba
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8d2a918e75299fe5bb94/index.m3u8
-#EXTINF:-1, Viggbyholm - Flemingsberg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a8a9b59e90c3f91fbbd11/index.m3u8
-#EXTINF:-1, Värmdö - Eskilstuna Linden
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a95b0918e75299fe5bbc0/index.m3u8
-#EXTINF:-1, Tierps HK - IK Göta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8ede918e75299fe5bba2/index.m3u8
-#EXTINF:-1, Ånge IK - Brunflo IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8e0559e90c3f91fbbd4c/index.m3u8
-#EXTINF:-1, Kovlands IshF - Lögdeå
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8c5159e90c3f91fbbd19/index.m3u8
-#EXTINF:-1, Bålsta HC - Nacka HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a8c5159e90c3f91fbbd1d/index.m3u8
-#EXTINF:-1, Jindř. Hradec - Strakonice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6926dee41ea1b60e809f55cb/index.m3u8
-#EXTINF:-1, Vimperk - Spartak Soběslav
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69200114109a6801f3cf7df2/index.m3u8
-#EXTINF:-1, Milevsko B - Hluboká n. Vlt.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691818151ea1b60e809f2dd6/index.m3u8
-#EXTINF:-1, Veselí n. Lužnicí - Radomyšl
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927f825688a6038e7f6b206/index.m3u8
-#EXTINF:-1, Nynäshamns IF - Brinken
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a93fc918e75299fe5bbbe/index.m3u8
-#EXTINF:-1, IFK Österåker - Solna SK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a8b7659e90c3f91fbbd17/index.m3u8
-#EXTINF:-1, Huddinge - IFK Mariefred
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a95b0918e75299fe5bbc2/index.m3u8
-#EXTINF:-1, Vansbro AIK IK - BK Ockra
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a7dd1918e75299fe5ba4f/index.m3u8
-#EXTINF:-1, Älvdalens HK - IFK Ore
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8657918e75299fe5bb6f/index.m3u8
-#EXTINF:-1, Hofors HC - Hille/Åbyggeby
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a82ef918e75299fe5bb5b/index.m3u8
-#EXTINF:-1, Säffle HC - Viking HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a8732918e75299fe5bb76/index.m3u8
-#EXTINF:-1, IFK Hallsberg 2 - Linden 2
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a8d2a918e75299fe5bb90/index.m3u8
-#EXTINF:-1, Nora HC - Hällefors IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a806159e90c3f91fbbd08/index.m3u8
-#EXTINF:-1, Kungsörs IK - Sala HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a82ef918e75299fe5bb5d/index.m3u8
-#EXTINF:-1, Lindefallets SK - Bollnäs IS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a880b918e75299fe5bb78/index.m3u8
-#EXTINF:-1, Hedesunda IF - Skutskär
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a806159e90c3f91fbbd09/index.m3u8
-#EXTINF:-1, Rosvik IK 2 - Ektjärns IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7eac59e90c3f91fbbd00/index.m3u8
 #EXTINF:-1, Pajala HC - Övertorneå HF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8214918e75299fe5bb56/index.m3u8
-#EXTINF:-1, Lycksele SK - Storumans IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a8fb9918e75299fe5bbac/index.m3u8
-#EXTINF:-1, IK Huge - Ockelbo HC 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8ede918e75299fe5bba0/index.m3u8
 #EXTINF:-1, SK Iron Hockey - Älta IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7f8759e90c3f91fbbd02/index.m3u8
 #EXTINF:-1, Kista HC - Trångsunds IF
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a7dd1918e75299fe5ba4e/index.m3u8
-#EXTINF:-1, Rögle BK - Örebro HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a976559e90c3f91fbbd72/index.m3u8
-#EXTINF:-1, Enköpings SK HK - Järna
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a89c159e90c3f91fbbd0d/index.m3u8
-#EXTINF:-1, Porin Kiekko Weljet - PaRa
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69292c90725a935a9c335d65/index.m3u8
-#EXTINF:-1, 25ers - Panthers Lahti
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69292c90725a935a9c335d80/index.m3u8
-#EXTINF:-1, Dunkerque - Cholet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923dbc8109a6801f3cf88e2/index.m3u8
-#EXTINF:-1, Järna SK - IFK Salem
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a917159e90c3f91fbbd58/index.m3u8
-#EXTINF:-1, Hodonín - Warriors Brno B
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6923f58d1ea1b60e809f4d07/index.m3u8
-#EXTINF:-1, Hlinsko - Světlá n. Sázavou
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4d7c7e14bd1ca73a588f1/index.m3u8
 #EXTINF:-1, Dragons de Rouen - Anglet
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f54/index.m3u8
 #EXTINF:-1, Aigles de Nice - Gap
@@ -155,8 +57,12 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Miami - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ed544a9-3ca7-4508-932a-13275a007f23-hls/master/0ed544a9-3ca7-4508-932a-13275a007f23-hls.m3u8
+#EXTINF:-1, Huddinge - IFK Mariefred
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a95b0918e75299fe5bbc2/index.m3u8
 #EXTINF:-1, Grästorps IK - Varberg HK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bdcf6918e75299fe5c224/index.m3u8
+#EXTINF:-1, Hlinsko - Světlá n. Sázavou
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4d7c7e14bd1ca73a588f1/index.m3u8
 #EXTINF:-1, Holy Cross - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Dartmouth
