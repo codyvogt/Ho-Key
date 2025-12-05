@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SK Iron Hockey - Älta IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7f8759e90c3f91fbbd02/index.m3u8
-#EXTINF:-1, Kista HC - Trångsunds IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a7dd1918e75299fe5ba4e/index.m3u8
 #EXTINF:-1, Dragons de Rouen - Anglet
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f54/index.m3u8
 #EXTINF:-1, Aigles de Nice - Gap
@@ -15,6 +11,32 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285159d2a1a468257e6
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f50/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Amiens
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f5a/index.m3u8
+#EXTINF:-1, Huddinge - IFK Mariefred
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a95b0918e75299fe5bbc2/index.m3u8
+#EXTINF:-1, Hijs Hokij - Liège Bulldogs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692189a61ea1b60e809f4548/index.m3u8
+#EXTINF:-1, Mechelen - Heerenveen
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692189a7109a6801f3cf83d7/index.m3u8
+#EXTINF:-1, Heist - Leuven White
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692190b8109a6801f3cf83e0/index.m3u8
+#EXTINF:-1, Rensselaer PI - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Union - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Northeastern - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Boston U - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Maine - New Hampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Merrimack - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Princeton - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Robert Morris - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8272f74a-6f76-4261-be98-5b35a92980e9-hls/master/8272f74a-6f76-4261-be98-5b35a92980e9-hls.m3u8
 #EXTINF:-1, Minnesota - Ohio State
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Cornell - Clarkson
@@ -49,37 +71,3 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Miami - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ed544a9-3ca7-4508-932a-13275a007f23-hls/master/0ed544a9-3ca7-4508-932a-13275a007f23-hls.m3u8
-#EXTINF:-1, Huddinge - IFK Mariefred
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a95b0918e75299fe5bbc2/index.m3u8
-#EXTINF:-1, Grästorps IK - Varberg HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bdcf6918e75299fe5c224/index.m3u8
-#EXTINF:-1, Hlinsko - Světlá n. Sázavou
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4d7c7e14bd1ca73a588f1/index.m3u8
-#EXTINF:-1, Holy Cross - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Rensselaer PI - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Union - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Northeastern - Boston C
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Boston U - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Maine - New Hampshire
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Merrimack - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Princeton - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Robert Morris - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8272f74a-6f76-4261-be98-5b35a92980e9-hls/master/8272f74a-6f76-4261-be98-5b35a92980e9-hls.m3u8
-#EXTINF:-1, Frederikshavn - Odense
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eb2874f917966ed1466cb.m3u8
-#EXTINF:-1, Hijs Hokij - Liège Bulldogs
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692189a61ea1b60e809f4548/index.m3u8
-#EXTINF:-1, Mechelen - Heerenveen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692189a7109a6801f3cf83d7/index.m3u8
-#EXTINF:-1, Heist - Leuven White
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692190b8109a6801f3cf83e0/index.m3u8
