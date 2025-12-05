@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, St. Louis - Boston Bruins
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a7cd33b2-eb8c-4933-ab07-85e5221e27d9/master.m3u8
-#EXTINF:-1, New York Rangers - Ottawa
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Pittsburgh - Tampa Bay
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a1d615cc-abbe-4024-8af8-47ca5248d174/master.m3u8
-#EXTINF:-1, Nashville - Florida
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d642cd78-6f79-4223-a23d-4d04088ffd3e/master.m3u8
-#EXTINF:-1, Colorado - NY Islanders
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ceca919f-748b-4d10-8176-46fdcf8fb3ff/master.m3u8
-#EXTINF:-1, Toronto - Carolina
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/30dd6b43-5b13-47ac-b4ba-a0fb4ab8ef7b/master.m3u8
 #EXTINF:-1, Detroit - Columbus
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a9bcf8d1-8e56-4b44-815f-7cde0a37b967/master.m3u8
 #EXTINF:-1, Minnesota Wild - Calgary
@@ -19,5 +7,3 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a47714
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f2d58f36-c770-4772-84e5-03b3477828e3/master.m3u8
 #EXTINF:-1, Chicago - Los Angeles
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d00db745-3d8f-4df0-aa09-c25b1542aedf/master.m3u8
-#EXTINF:-1, Minnesota - Ohio State
-https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
