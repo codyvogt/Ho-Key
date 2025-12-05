@@ -105,6 +105,58 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69292c90725a935a9c335d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923dbc8109a6801f3cf88e2/index.m3u8
 #EXTINF:-1, Järna SK - IFK Salem
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a917159e90c3f91fbbd58/index.m3u8
+#EXTINF:-1, Hodonín - Warriors Brno B
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6923f58d1ea1b60e809f4d07/index.m3u8
+#EXTINF:-1, Hlinsko - Světlá n. Sázavou
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4d7c7e14bd1ca73a588f1/index.m3u8
+#EXTINF:-1, Dragons de Rouen - Anglet
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f54/index.m3u8
+#EXTINF:-1, Aigles de Nice - Gap
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f48/index.m3u8
+#EXTINF:-1, Grenoble - Chamonix
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f4c/index.m3u8
+#EXTINF:-1, Marseille - Bordeaux
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285159d2a1a468257e62e/index.m3u8
+#EXTINF:-1, Ducs d'Angers - Briançon
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f50/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Amiens
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f5a/index.m3u8
+#EXTINF:-1, Minnesota - Ohio State
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1, Cornell - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Colgate - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Princeton - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Vermont - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, New Hampshire - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Connecticut - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Brown - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Yale - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, UMD - Western Michigan
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/89eddd4d-d22d-460d-b0de-6a98557c8f7e-hls/master/89eddd4d-d22d-460d-b0de-6a98557c8f7e-hls.m3u8
+#EXTINF:-1, NMU - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, Boston C - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, UND - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/07554b2e-11b7-4560-b62a-dd6272d0be1c-hls/master/07554b2e-11b7-4560-b62a-dd6272d0be1c-hls.m3u8
+#EXTINF:-1, FSU - Minnesota State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Michigan - Michigan State
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1, Miami - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ed544a9-3ca7-4508-932a-13275a007f23-hls/master/0ed544a9-3ca7-4508-932a-13275a007f23-hls.m3u8
+#EXTINF:-1, Grästorps IK - Varberg HK
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bdcf6918e75299fe5c224/index.m3u8
 #EXTINF:-1, Holy Cross - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Dartmouth
@@ -125,24 +177,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Robert Morris - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8272f74a-6f76-4261-be98-5b35a92980e9-hls/master/8272f74a-6f76-4261-be98-5b35a92980e9-hls.m3u8
-#EXTINF:-1, Hodonín - Warriors Brno B
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6923f58d1ea1b60e809f4d07/index.m3u8
-#EXTINF:-1, Hlinsko - Světlá n. Sázavou
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e4d7c7e14bd1ca73a588f1/index.m3u8
-#EXTINF:-1, Dragons de Rouen - Anglet
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f54/index.m3u8
-#EXTINF:-1, Aigles de Nice - Gap
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f48/index.m3u8
-#EXTINF:-1, Grenoble - Chamonix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f4c/index.m3u8
-#EXTINF:-1, Marseille - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285159d2a1a468257e62e/index.m3u8
-#EXTINF:-1, Ducs d'Angers - Briançon
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f50/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Amiens
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f5a/index.m3u8
-#EXTINF:-1, Grästorps IK - Varberg HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bdcf6918e75299fe5c224/index.m3u8
 #EXTINF:-1, Hijs Hokij - Liège Bulldogs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692189a61ea1b60e809f4548/index.m3u8
 #EXTINF:-1, Mechelen - Heerenveen
