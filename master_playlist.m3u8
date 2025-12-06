@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1, Columbus - Florida
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50246a8b-c88f-4122-bbbb-0d7091a0745f/master.m3u8
-#EXTINF:-1, Union - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Connecticut - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Valdemoro - CH Tartalo
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6932e03e7bdeef97ba53179d/index.m3u8
+#EXTINF:-1, New Jersey - Boston
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3a9d2eb5-ced4-4bed-ac73-2ffc5d89c97d/master.m3u8
+#EXTINF:-1, Montréal - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/660d18c8-f29d-48b4-9b31-b5950dcad361/master.m3u8
+#EXTINF:-1, NY Islanders - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/52bc932e-efe4-41f3-852e-9db19b590e1a/master.m3u8
+#EXTINF:-1, Nashville - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/544dec04-fdd0-42ed-b550-0ae8885fdb53/master.m3u8
+#EXTINF:-1, Utah - Calgary Flames
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8ba13c50-6610-4d91-83ec-759af8cd8188/master.m3u8
 #EXTINF:-1, Merrimack - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Quinnipiac - Union
@@ -43,3 +47,5 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/57ff3b16-8ebc-4f32-9051-535a9
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6932ddca7bdeef97ba531796/index.m3u8
 #EXTINF:-1, CH Madrid - Barça HG
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6932de61f7cfc8c7990d026d/index.m3u8
+#EXTINF:-1, Connecticut - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
