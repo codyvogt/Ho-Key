@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Colorado - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40bff4c8-7652-44d5-9fb2-068c624a10e2/master.m3u8
 #EXTINF:-1, Nacka HK - Nyköpings SK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692be658918e75299fe5c350/index.m3u8
 #EXTINF:-1, Vännäs HC - Kovlands IshF
@@ -126,7 +128,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922a418109a6801f3cf87
 #EXTINF:-1, Jičín - Berounské Lvice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e7cf25e14bd1ca73a59026/index.m3u8
 #EXTINF:-1, Prostějov - Val. Meziříčí B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925b795109a6801f3cf8fae/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6925b795109a6801f3cf8fae/index.m3u8
 #EXTINF:-1, Poruba - Frýdek-Místek
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eed094f917966ed1467ee.m3u8
 #EXTINF:-1, HC Přerov - VHK Vsetín
@@ -202,7 +204,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c7d14109a6801f3cf78
 #EXTINF:-1, Spartak Choceň - Jaroměř
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903627e40899867ab4850d9/index.m3u8
 #EXTINF:-1, Kutná Hora - HC Vrchlabí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925713d109a6801f3cf8e6d/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6925713d109a6801f3cf8e6d/index.m3u8
 #EXTINF:-1, Nový Bydžov - Vel. Meziříčí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d62d0dc957a27a013164d6/index.m3u8
 #EXTINF:-1, HC Milevsko - Rokycany
