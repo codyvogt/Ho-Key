@@ -39,6 +39,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Miami - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ed544a9-3ca7-4508-932a-13275a007f23-hls/master/0ed544a9-3ca7-4508-932a-13275a007f23-hls.m3u8
+#EXTINF:-1, Lincoln - US NTDP U18
+https://dpjxhv7as3wox.cloudfront.net/9e1a37b299f6d8e0b3f56b9cab84a6f3/0_hd_hls.m3u8
 #EXTINF:-1, Quinnipiac - Cornell
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, Northeastern - Boston C
@@ -53,5 +55,3 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Robert Morris - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8272f74a-6f76-4261-be98-5b35a92980e9-hls/master/8272f74a-6f76-4261-be98-5b35a92980e9-hls.m3u8
-#EXTINF:-1, Lincoln - US NTDP U18
-https://dpjxhv7as3wox.cloudfront.net/9e1a37b299f6d8e0b3f56b9cab84a6f3/0_hd_hls.m3u8
