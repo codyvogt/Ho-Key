@@ -1,30 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Columbus - Florida
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50246a8b-c88f-4122-bbbb-0d7091a0745f/master.m3u8
-#EXTINF:-1, Tours - Morzine-Avoriaz
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69252d4a109a6801f3cf8dbb/index.m3u8
-#EXTINF:-1, Villard - Strasbourg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69270b69ea6b4e5a14713249/index.m3u8
-#EXTINF:-1, Heerenveen - Leuven
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6922db27109a6801f3cf8832/index.m3u8
-#EXTINF:-1, Eaters Limburg - Neuwied
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6922db282ece3bba49c4f177/index.m3u8
-#EXTINF:-1, Alleghe - Fassa Falcons
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edb389696da691442265/index.m3u8
-#EXTINF:-1, Valdifiemme - Valpellice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edb489696da691442267/index.m3u8
-#EXTINF:-1, Lynx de Valence - Anglet 2
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69252d491ea1b60e809f512d/index.m3u8
-#EXTINF:-1, Clermont-Ferrand - Roanne
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69252d4a109a6801f3cf8db1/index.m3u8
-#EXTINF:-1, Valpellice D1 - Trento
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693318a27bdeef97ba53183f/index.m3u8
 #EXTINF:-1, Strasbourg 2 - Besançon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69252d49109a6801f3cf8da1/index.m3u8
-#EXTINF:-1, Caen 2 - Wasquehal
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6923dbc81ea1b60e809f4c13/index.m3u8
-#EXTINF:-1, Antwerp - Golden Sharks
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922e23c1ea1b60e809f4b45/index.m3u8
 #EXTINF:-1, Quinnipiac - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Union - Dartmouth
