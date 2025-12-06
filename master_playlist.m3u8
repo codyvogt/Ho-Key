@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Huddinge IK - Tyresö
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692be730918e75299fe5c370/index.m3u8
-#EXTINF:-1, Jonstorps IF - Borås HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bdcf659e90c3f91fbc488/index.m3u8
 #EXTINF:-1, Halmstad - Troja-Ljungby
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bdcf659e90c3f91fbc486/index.m3u8
 #EXTINF:-1, Hanhals IF - Bäcken HC
@@ -17,14 +15,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bd54959e90c3f91fbc4
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bd7d959e90c3f91fbc43e/index.m3u8
 #EXTINF:-1, IK Göta - Sollentuna HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692be214918e75299fe5c30a/index.m3u8
-#EXTINF:-1, Kärpät Akatemia - Lukko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1159e90c3f91fbbc93/index.m3u8
-#EXTINF:-1, Majadahonda - Puigcerdà
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6932dfd97bdeef97ba53179b/index.m3u8
-#EXTINF:-1, CH Huarte - CH Jaca
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932e0d5f7cfc8c7990d0276/index.m3u8
-#EXTINF:-1, Valdemoro - CH Tartalo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932e03e7bdeef97ba53179d/index.m3u8
 #EXTINF:-1, HC Tábor B - HC Klatovy
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6916e2b4109a6801f3cf656e/index.m3u8
 #EXTINF:-1, Trutnov - Česká Třebová
@@ -80,7 +70,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692a7e1059e90c3f91fbbb
 #EXTINF:-1, Storm - Kiekko-Vantaa Itä
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1059e90c3f91fbbc09/index.m3u8
 #EXTINF:-1, Kaukasten Voima - RuoSkA
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1059e90c3f91fbbbe6/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a7e1059e90c3f91fbbbe6/index.m3u8
 #EXTINF:-1, KeuPa HT II - Urho II
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1159e90c3f91fbbc3d/index.m3u8
 #EXTINF:-1, Munsala IK II - TUS
@@ -108,7 +98,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692be730918e75299fe5c3
 #EXTINF:-1, HC Dalen - Tranås AIF
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692be658918e75299fe5c360/index.m3u8
 #EXTINF:-1, HC Vita Hästen - KRIF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bdcf6918e75299fe5c225/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692bdcf6918e75299fe5c225/index.m3u8
 #EXTINF:-1, Grums IK 2 - Hammarö HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bdc1b918e75299fe5c20e/index.m3u8
 #EXTINF:-1, Gävle GIK - IFK Arboga
@@ -135,6 +125,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1159e90c3f91fbbc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1159e90c3f91fbbcc9/index.m3u8
 #EXTINF:-1, KJT Haukat - LJK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1059e90c3f91fbbb9e/index.m3u8
+#EXTINF:-1, CH Huarte - CH Jaca
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932e0d5f7cfc8c7990d0276/index.m3u8
+#EXTINF:-1, Valdemoro - CH Tartalo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932e03e7bdeef97ba53179d/index.m3u8
 #EXTINF:-1, HIFK Stadi - Nokian Pyry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e10918e75299fe5ba90/index.m3u8
 #EXTINF:-1, Peliitat - KooKoo/IiHoo
@@ -279,3 +273,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69292c90725a935a9c335d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692138df1ea1b60e809f429a/index.m3u8
 #EXTINF:-1, Kurra - Hyvinkää-Riihimäki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a7e1159e90c3f91fbbcde/index.m3u8
+#EXTINF:-1, IK Graip - Hovet HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bd2ba59e90c3f91fbc3e4/index.m3u8
+#EXTINF:-1, Évry-Viry - Amiens
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69252d4a109a6801f3cf8dbd/index.m3u8
+#EXTINF:-1, Bordeaux - Montpellier
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69252d49109a6801f3cf8dad/index.m3u8
