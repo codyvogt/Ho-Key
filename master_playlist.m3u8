@@ -1,38 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Vegas - New Jersey Devils
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34fcdfe2-82ab-4a09-bc5b-b64333ce5e89/master.m3u8
-#EXTINF:-1, Buffalo - Winnipeg Jets
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3fc4b423-cbc1-4e54-a3cd-8dd737d01b23/master.m3u8
 #EXTINF:-1, San Jose - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/078c0c0e-3e3e-402e-a89b-0edbd22d6f59/master.m3u8
 #EXTINF:-1, Utah - Vancouver Canucks
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aed770d9-1f14-4e63-a2b1-3439a87af2fe/master.m3u8
 #EXTINF:-1, Washington - Anaheim
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0956dc92-64a6-4d78-9844-9fd5ecc4ba6f/master.m3u8
-#EXTINF:-1, Cornell - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Colgate - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Rensselaer PI
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
-#EXTINF:-1, Princeton - Union
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
-#EXTINF:-1, Vermont - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, New Hampshire - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Connecticut - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Brown - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Yale - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, UMD - Western Michigan
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/89eddd4d-d22d-460d-b0de-6a98557c8f7e-hls/master/89eddd4d-d22d-460d-b0de-6a98557c8f7e-hls.m3u8
-#EXTINF:-1, NMU - Bowling Green
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, Boston C - UMass Lowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, UND - St. Cloud State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/07554b2e-11b7-4560-b62a-dd6272d0be1c-hls/master/07554b2e-11b7-4560-b62a-dd6272d0be1c-hls.m3u8
 #EXTINF:-1, FSU - Minnesota State
@@ -41,5 +13,3 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Miami - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0ed544a9-3ca7-4508-932a-13275a007f23-hls/master/0ed544a9-3ca7-4508-932a-13275a007f23-hls.m3u8
-#EXTINF:-1, Lincoln - US NTDP U18
-https://dpjxhv7as3wox.cloudfront.net/9e1a37b299f6d8e0b3f56b9cab84a6f3/0_hd_hls.m3u8
