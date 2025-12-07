@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, Avangard Omsk - Spartak
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1, Traktor - Dynamo Moscow
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1, Salavat Yulaev - CSKA
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Warriors B - SK Prostějov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922dc4f1ea1b60e809f4b2a/index.m3u8
 #EXTINF:-1, Uherský Brod - HK Opava
@@ -11,10 +17,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69283e6d688a6038e7f6b3
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69171aed109a6801f3cf673d/index.m3u8
 #EXTINF:-1, Valašské Meziříčí - Kadaň
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df302648319de9ecc89/index.m3u8
-#EXTINF:-1, KalPa Akatemia - Lukko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf91918e75299fe5c00f/index.m3u8
-#EXTINF:-1, KeuPa HT - HKP Akatemia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf9459e90c3f91fbc3ae/index.m3u8
 #EXTINF:-1, SHK Laima - SHK Ozolnieki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692579061ea1b60e809f5256/index.m3u8
 #EXTINF:-1, Kurbads/Lauvas - Sostine
@@ -42,7 +44,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d3b3f918e75299fe5ca
 #EXTINF:-1, Kiruna AIF - SK Lejon
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692d36ff59e90c3f91fbc9c9/index.m3u8
 #EXTINF:-1, Björklöven - Kvarnsveden
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d310459e90c3f91fbc924/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692d310459e90c3f91fbc924/index.m3u8
 #EXTINF:-1, Malmö Redhawks - Örebro
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d3a65918e75299fe5ca0a/index.m3u8
 #EXTINF:-1, Kalevan Pallo - HPK
@@ -61,12 +63,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf9359e90c3f91fbc2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69267ec81ea1b60e809f5412/index.m3u8
 #EXTINF:-1, Nantes - Tours(Orléans)
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69267ec91ea1b60e809f5422/index.m3u8
-#EXTINF:-1, Avangard Omsk - Spartak
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1, Traktor - Dynamo Moscow
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1, Salavat Yulaev - CSKA
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Vaasan Sport - Kärpät
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf9359e90c3f91fbc2ef/index.m3u8
 #EXTINF:-1, Liberec - Kobra Praha
@@ -81,3 +77,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf91918e75299fe5c0
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf91918e75299fe5bfe9/index.m3u8
 #EXTINF:-1, Tours - Meudon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d4e8859e90c3f91fbca86/index.m3u8
+#EXTINF:-1, KeuPa HT - HKP Akatemia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf9459e90c3f91fbc3ae/index.m3u8
