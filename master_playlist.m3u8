@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Litvínov - Liberec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eba584f917966ed146707.m3u8
-#EXTINF:-1, Vítkovice - Kometa Brno
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692ebab98cf02b3dcbc2367b.m3u8
 #EXTINF:-1, Sparta Praha - Karlovy Vary
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eba844f917966ed14670b.m3u8
 #EXTINF:-1, Olomouc - Rytíři Kladno
@@ -64,7 +60,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692dbcb312846d28d75b9a
 #EXTINF:-1, IF Kalix - Ektjärns IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d3393918e75299fe5c973/index.m3u8
 #EXTINF:-1, Kungsbacka HC - Hovås HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692dbcb38cf02b3dcbc23483/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692dbcb38cf02b3dcbc23483/index.m3u8
 #EXTINF:-1, Järfälla HC - IFK Salem
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bdf8559e90c3f91fbc515/index.m3u8
 #EXTINF:-1, HYRI - Jää-Tiikerit
@@ -140,7 +136,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69267ec91ea1b60e809f54
 #EXTINF:-1, Cergy-Pontoise - Anglet
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69267ec91ea1b60e809f5428/index.m3u8
 #EXTINF:-1, Strasbourg - HC 74
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69267ec91ea1b60e809f543a/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69267ec91ea1b60e809f543a/index.m3u8
 #EXTINF:-1, Leuven Chiefs - Hijs Hokij
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69242ca71ea1b60e809f4f14/index.m3u8
 #EXTINF:-1, EHC Neuwied - Mechelen
