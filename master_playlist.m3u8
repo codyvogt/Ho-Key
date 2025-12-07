@@ -11,10 +11,20 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, Neftekhimik - Ak Bars
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1, Warriors B - SK Prostějov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922dc4f1ea1b60e809f4b2a/index.m3u8
-#EXTINF:-1, Uherský Brod - HK Opava
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d5e141ea1b60e809f3ac5/index.m3u8
+#EXTINF:-1, Technika Brno - Přerov
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69032a4440899867ab48500e/index.m3u8
+#EXTINF:-1, VHK Vsetín - HC Olomouc
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69205576109a6801f3cf7f83/index.m3u8
+#EXTINF:-1, Chomutov - Havlíčkův Brod
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928144768db0e69ca280f11/index.m3u8
+#EXTINF:-1, Rytíři Kladno - Chrudim
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922c0341ea1b60e809f4b12/index.m3u8
+#EXTINF:-1, SC Kolín - HC Tábor
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ee7cd109a6801f3cf7c11/index.m3u8
+#EXTINF:-1, Hvězda Praha - IHC Písek
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6911aac6c6734d1f94b2774f/index.m3u8
+#EXTINF:-1, Havířov - Warriors Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f776f7e58cdfe8ac57704b/index.m3u8
 #EXTINF:-1, Uher. Hradiště - Bobři VM
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fa19f740899867ab4836ab/index.m3u8
 #EXTINF:-1, HC Žihadla - Frýdek-Místek
@@ -43,26 +53,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c44d81ea1b60e809f39
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c60ee109a6801f3cf77e9/index.m3u8
 #EXTINF:-1, Česká Lípa - Lev Benešov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d5e141ea1b60e809f3ac6/index.m3u8
-#EXTINF:-1, Valašské Meziříčí - Kadaň
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df302648319de9ecc89/index.m3u8
-#EXTINF:-1, SHK Laima - SHK Ozolnieki
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692579061ea1b60e809f5256/index.m3u8
-#EXTINF:-1, Kurbads/Lauvas - Sostine
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691f2688109a6801f3cf7cfe/index.m3u8
-#EXTINF:-1, Technika Brno - Přerov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69032a4440899867ab48500e/index.m3u8
-#EXTINF:-1, VHK Vsetín - HC Olomouc
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69205576109a6801f3cf7f83/index.m3u8
-#EXTINF:-1, Chomutov - Havlíčkův Brod
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928144768db0e69ca280f11/index.m3u8
-#EXTINF:-1, Rytíři Kladno - Chrudim
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922c0341ea1b60e809f4b12/index.m3u8
-#EXTINF:-1, SC Kolín - HC Tábor
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691ee7cd109a6801f3cf7c11/index.m3u8
-#EXTINF:-1, Hvězda Praha - IHC Písek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6911aac6c6734d1f94b2774f/index.m3u8
-#EXTINF:-1, Havířov - Warriors Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f776f7e58cdfe8ac57704b/index.m3u8
 #EXTINF:-1, Timrå IK - MoDo Hockey
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692d36ff59e90c3f91fbc9d4/index.m3u8
 #EXTINF:-1, Brynäs IF - IF Björklöven
@@ -140,7 +130,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf91918e75299fe5bf
 #EXTINF:-1, S-Kiekko - Jokipojat
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692bcf92918e75299fe5c055/index.m3u8
 #EXTINF:-1, KuRy/MIF - KalPa Team
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf9359e90c3f91fbc2f4/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bcf9359e90c3f91fbc2f4/index.m3u8
 #EXTINF:-1, TPS Challenger - SaiPa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf93918e75299fe5c0db/index.m3u8
 #EXTINF:-1, Kiekko-Vantaa - HIFK GH
@@ -161,14 +151,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf9359e90c3f91fbc2
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e9db64f917966ed146678/index.m3u8
 #EXTINF:-1, Vysočina - Bats Blansko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c944659d2a1a468257feff/index.m3u8
-#EXTINF:-1, France - Norway
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fe62a4f917966ed1469e8/index.m3u8
-#EXTINF:-1, Slovenia - Austria
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fe7634f917966ed1469ea/index.m3u8
-#EXTINF:-1, Ukraine - Kazakhstan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fe7de8cf02b3dcbc23a27/index.m3u8
 #EXTINF:-1, Malmberget - Hertsörinken
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d26c959e90c3f91fbc85e/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692d26c959e90c3f91fbc85e/index.m3u8
 #EXTINF:-1, Hille/Åbyggeby - Ockelbo 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923f31b1ea1b60e809f4cc6/index.m3u8
 #EXTINF:-1, Hisingens IK - Skärgården
@@ -206,11 +190,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d3393918e75299fe5c9
 #EXTINF:-1, Kungsbacka HC - Hovås HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692dbcb38cf02b3dcbc23483/index.m3u8
 #EXTINF:-1, MaKo - Akaan Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf91918e75299fe5c01e/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692bcf91918e75299fe5c01e/index.m3u8
 #EXTINF:-1, S-Kiekko - Karhu-Kissat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf91918e75299fe5bfe9/index.m3u8
 #EXTINF:-1, Tours - Meudon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d4e8859e90c3f91fbca86/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692d4e8859e90c3f91fbca86/index.m3u8
 #EXTINF:-1, HC Eurajoki - Jää-Kotkat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bcf91918e75299fe5bfe8/index.m3u8
 #EXTINF:-1, Atalan HK - Nokia Sables
