@@ -5,6 +5,12 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/vari
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Salavat Yulaev - CSKA
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Barys Astana - Sibir
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Lada Togliatti - Severstal
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1, Neftekhimik - Ak Bars
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Warriors B - SK Prostějov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922dc4f1ea1b60e809f4b2a/index.m3u8
 #EXTINF:-1, Uherský Brod - HK Opava
@@ -15,6 +21,28 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fa19f740899867ab4836
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69283e6d688a6038e7f6b362/index.m3u8
 #EXTINF:-1, Třemošná - HC Strakonice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69171aed109a6801f3cf673d/index.m3u8
+#EXTINF:-1, Chomutov B - Čerti Ostrov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691dce8d109a6801f3cf7a0f/index.m3u8
+#EXTINF:-1, Klášterec nad Ohří - Cheb
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d20d350f03ad08f4b926/index.m3u8
+#EXTINF:-1, Technika Brno B - Orlová
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f8902d40899867ab483270/index.m3u8
+#EXTINF:-1, Pilsen Wolves - Humpolec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68af1ea3660904c7ccbc5e24/index.m3u8
+#EXTINF:-1, Roudnice n. Labem - Děčín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef398dd14875374b214f6c/index.m3u8
+#EXTINF:-1, Baník Hodonín - Kroměříž
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922a415109a6801f3cf86fc/index.m3u8
+#EXTINF:-1, HC Pelhřimov - Příbram
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118e9da199919ff362f718/index.m3u8
+#EXTINF:-1, Kralupy n. V. - Litoměřice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915c96f109a6801f3cf6344/index.m3u8
+#EXTINF:-1, Orli Znojmo - Nový Jičín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c44d81ea1b60e809f392f/index.m3u8
+#EXTINF:-1, Slaný - Ústí nad Labem
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c60ee109a6801f3cf77e9/index.m3u8
+#EXTINF:-1, Česká Lípa - Lev Benešov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d5e141ea1b60e809f3ac6/index.m3u8
 #EXTINF:-1, Valašské Meziříčí - Kadaň
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df302648319de9ecc89/index.m3u8
 #EXTINF:-1, SHK Laima - SHK Ozolnieki
