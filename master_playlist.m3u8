@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lada Togliatti - Severstal
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1, Neftekhimik - Ak Bars
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Mountfield HK - Plzeň
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692eb9cb8cf02b3dcbc2365f.m3u8
 #EXTINF:-1, Třinec - Mladá Boleslav
@@ -17,6 +13,8 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692ebab98cf02b3dcbc236
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eba844f917966ed14670b.m3u8
 #EXTINF:-1, Olomouc - Rytíři Kladno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692ebae38cf02b3dcbc2367f.m3u8
+#EXTINF:-1, Neftekhimik - Ak Bars
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Rødovre - Aalborg Pirates
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb2f28cf02b3dcbc23630.m3u8
 #EXTINF:-1, Kuortane - Tampereen Ilves
@@ -60,7 +58,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d766049c3bfcbf0a2b4
 #EXTINF:-1, Glimma HK - Falkenberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d766049c3bfcbf0a2b45b/index.m3u8
 #EXTINF:-1, Löfstad - Skillingaryd
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692dbcb312846d28d75b9aa9/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692dbcb312846d28d75b9aa9/index.m3u8
 #EXTINF:-1, Lenhovda IF - Virserum
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d927e16f70321bf9233f1/index.m3u8
 #EXTINF:-1, Varberg HK - Stenungsund
@@ -156,7 +154,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68af1ea3660904c7ccbc5e
 #EXTINF:-1, Roudnice n. Labem - Děčín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef398dd14875374b214f6c/index.m3u8
 #EXTINF:-1, Baník Hodonín - Kroměříž
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922a415109a6801f3cf86fc/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6922a415109a6801f3cf86fc/index.m3u8
 #EXTINF:-1, HC Pelhřimov - Příbram
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69118e9da199919ff362f718/index.m3u8
 #EXTINF:-1, Kralupy n. V. - Litoměřice
@@ -180,7 +178,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bdf8559e90c3f91fbc5
 #EXTINF:-1, Havířov - Warriors Brno
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f776f7e58cdfe8ac57704b/index.m3u8
 #EXTINF:-1, Tegs SK - Kovlands IshF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d310459e90c3f91fbc920/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692d310459e90c3f91fbc920/index.m3u8
 #EXTINF:-1, Vännäs HC - Piteå HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d2be6918e75299fe5c87a/index.m3u8
 #EXTINF:-1, Ducs d'Angers - Marseille
