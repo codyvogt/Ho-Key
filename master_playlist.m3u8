@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, NY Islanders - Florida
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/351deaf5-a751-4401-9954-58b6cf4b0352/master.m3u8
-#EXTINF:-1, San Jose Sharks - Carolina
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f6878746-fd85-49e9-9989-223b0ecaee4b/master.m3u8
 #EXTINF:-1, Pittsburgh - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9a9180e9-7e65-41ac-b891-43498423d3ad/master.m3u8
 #EXTINF:-1, St. Louis Blues - Montréal
@@ -13,5 +9,3 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9b1ab7
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2e6ab60c-ecf4-44b3-9705-8c3e72360a2e/master.m3u8
 #EXTINF:-1, Chicago - Anaheim Ducks
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/21c336d3-5b1f-40f7-be0c-9b570083c495/master.m3u8
-#EXTINF:-1, UMass - Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
