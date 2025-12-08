@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1, St. Louis Blues - Montréal
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2bbb375b-39ab-4b2e-a66d-1eb9028d09e3/master.m3u8
-#EXTINF:-1, Vegas - New York Rangers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9b1ab75a-2515-4c14-a109-a9e2c57e2bc5/master.m3u8
-#EXTINF:-1, Columbus - Washington
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2e6ab60c-ecf4-44b3-9705-8c3e72360a2e/master.m3u8
-#EXTINF:-1, Chicago - Anaheim Ducks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/21c336d3-5b1f-40f7-be0c-9b570083c495/master.m3u8
 #EXTINF:-1, Zoldo - Zinnen Dolomites
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693318a1f7cfc8c7990d0335/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693318a1f7cfc8c7990d0335/index.m3u8
+#EXTINF:-1, Estonia - Japan
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935c6e98062818e12ab5697/index.m3u8
+#EXTINF:-1, Como - HCP Selection
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693318a1f7cfc8c7990d0333/index.m3u8
