@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Zoldo - Zinnen Dolomites
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693318a1f7cfc8c7990d0335/index.m3u8
-#EXTINF:-1, Estonia - Japan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935c6e98062818e12ab5697/index.m3u8
 #EXTINF:-1, Poland - Italy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935c7827bdeef97ba5324c3/index.m3u8
 #EXTINF:-1, Lithuania - Hungary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935c8187bdeef97ba5324c5/index.m3u8
-#EXTINF:-1, Como - HCP Selection
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693318a1f7cfc8c7990d0333/index.m3u8
-#EXTINF:-1, Gherdëina - Vin. Eisfix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693318a0f7cfc8c7990d0331/index.m3u8
-#EXTINF:-1, Storm Pinerolo - Chiavenna
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933189f7bdeef97ba53183d/index.m3u8
-#EXTINF:-1, HC Trento - Cadore
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933189e7bdeef97ba53183b/index.m3u8
 #EXTINF:-1, Dukla Jihlava - HC Přerov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691d816c109a6801f3cf7975.m3u8
 #EXTINF:-1, Kiekko-Ahma - Kisa-Eagles
@@ -37,6 +25,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e81918cf02b3dcbc235
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e7f1b4f917966ed1465d1/index.m3u8
 #EXTINF:-1, IFK Salem - Lidingö Vikings
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e784a4f917966ed1465cb/index.m3u8
+#EXTINF:-1, Gherdëina - Vin. Eisfix
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693318a0f7cfc8c7990d0331/index.m3u8
+#EXTINF:-1, Storm Pinerolo - Chiavenna
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933189f7bdeef97ba53183d/index.m3u8
+#EXTINF:-1, HC Trento - Cadore
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933189e7bdeef97ba53183b/index.m3u8
 #EXTINF:-1, Vännäs HC - Lögdeå
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e7d678cf02b3dcbc23547/index.m3u8
 #EXTINF:-1, Wings Arlanda - Enköping
