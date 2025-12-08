@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Poland - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935c7827bdeef97ba5324c3/index.m3u8
-#EXTINF:-1, Lithuania - Hungary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935c8187bdeef97ba5324c5/index.m3u8
 #EXTINF:-1, Dukla Jihlava - HC Přerov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691d816c109a6801f3cf7975.m3u8
 #EXTINF:-1, Kiekko-Ahma - Kisa-Eagles
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d210f918e75299fe5c800/index.m3u8
 #EXTINF:-1, Sønderjyske - Rungsted
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692eb3298cf02b3dcbc23632.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692eb3298cf02b3dcbc23632.m3u8
 #EXTINF:-1, IFK Täby HC - Almtuna IS
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e84398cf02b3dcbc235a1/index.m3u8
 #EXTINF:-1, Ånge IK - Njurunda SK
@@ -47,3 +43,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e79244f917966ed1465
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bdcf659e90c3f91fbc47c/index.m3u8
 #EXTINF:-1, Kosken Pojat - Ice Team
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d210f918e75299fe5c7e6/index.m3u8
+#EXTINF:-1, Lithuania - Hungary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935c8187bdeef97ba5324c5/index.m3u8
