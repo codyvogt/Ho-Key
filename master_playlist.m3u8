@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1, HC Strömstad - Tidaholm
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692df4f112846d28d75b9af6/index.m3u8
-#EXTINF:-1, Bollnäs IS - Hedesunda IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fd7708cf02b3dcbc239cb/index.m3u8
-#EXTINF:-1, Älta IF - Boo HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692fcd328cf02b3dcbc23961/index.m3u8
-#EXTINF:-1, Nacka HK - Segeltorps IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692fdad68cf02b3dcbc23a04/index.m3u8
-#EXTINF:-1, Italy - Lithuania
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6936d601f7cfc8c7990d167f/index.m3u8
-#EXTINF:-1, Strasbourg - Meudon
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692921c81235e1f87a8290a9/index.m3u8
-#EXTINF:-1, Wildcats Épinal - Tours
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692921c81235e1f87a8290a5/index.m3u8
-#EXTINF:-1, Lions de Lyon - Chambéry
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692921c81235e1f87a8290a3/index.m3u8
-#EXTINF:-1, Drakkars de Caen - HCMP
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692921c81235e1f87a8290a7/index.m3u8
-#EXTINF:-1, Karhu-Kissat - Storm
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e72904f917966ed1465a7/index.m3u8
+#EXTINF:-1, New Jersey - Ottawa
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1, Vegas - NY Islanders
+https://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1, Providence - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
