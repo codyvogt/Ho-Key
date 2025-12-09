@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Hungary - Estonia
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6936d580f7cfc8c7990d167b/index.m3u8
-#EXTINF:-1, Italy - Lithuania
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936d601f7cfc8c7990d167f/index.m3u8
 #EXTINF:-1, Kerava Shakers - Wolfpack
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e72904f917966ed1465a6/index.m3u8
+#EXTINF:-1, Aalborg Pirates - Odense
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693697197bdeef97ba532842.m3u8
+#EXTINF:-1, Frederikshavn - Esbjerg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936971af7cfc8c7990d1579.m3u8
+#EXTINF:-1, Herlev Eagles - Herning
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936971af7cfc8c7990d156b.m3u8
+#EXTINF:-1, Italy - Lithuania
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936d601f7cfc8c7990d167f/index.m3u8
