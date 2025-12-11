@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Hungary - Poland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6939727ef7de7b3a480b5849/index.m3u8
-#EXTINF:-1, Japan - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69397301f7de7b3a480b584b/index.m3u8
 #EXTINF:-1, Jaroměř - Nové Město n. M.
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692973d8918e75299fe5b721/index.m3u8
 #EXTINF:-1, USA - Switzerland
@@ -10,7 +6,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6931158f8cf02b3dcbc23d
 #EXTINF:-1, Liikunnan Riemu - JHT
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931158f4f917966ed146cb7/index.m3u8
 #EXTINF:-1, HC Chrudim - SC Kolín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692ee3fd4f917966ed1467b5/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692ee3fd4f917966ed1467b5/index.m3u8
 #EXTINF:-1, MoDo Hockey - Timrå IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69327b498cf02b3dcbc2407a/index.m3u8
 #EXTINF:-1, Trelleborgs IF - LN 70 HC
@@ -51,6 +47,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931158f4f917966ed146c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693282174f917966ed1470ab/index.m3u8
 #EXTINF:-1, France - Slovakia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bc4c859e90c3f91fbc171/index.m3u8
+#EXTINF:-1, Japan - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69397301f7de7b3a480b584b/index.m3u8
 #EXTINF:-1, Hässelby Kälvesta - Ormsta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932710c8cf02b3dcbc24057/index.m3u8
 #EXTINF:-1, Duells PHK - Bokasport SK
