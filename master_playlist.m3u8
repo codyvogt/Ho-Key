@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Czech Republic - Slovakia
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692846a21235e1f87a828f9b/index.m3u8
 #EXTINF:-1, Rubin Tyumen - Dizel Penza
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Czech Republic - Slovakia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931158f8cf02b3dcbc23d47/index.m3u8
+#EXTINF:-1, USA - Switzerland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931158f8cf02b3dcbc23d3b/index.m3u8
 #EXTINF:-1, Japan - Hungary
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bc4c859e90c3f91fbc173/index.m3u8
+#EXTINF:-1, France - Slovakia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bc4c859e90c3f91fbc171/index.m3u8
+#EXTINF:-1, Hungary - Poland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6939727ef7de7b3a480b5849/index.m3u8
+#EXTINF:-1, Japan - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69397301f7de7b3a480b584b/index.m3u8
