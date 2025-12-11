@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Rubin Tyumen - Dizel Penza
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1, Japan - Hungary
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692bc4c859e90c3f91fbc173/index.m3u8
-#EXTINF:-1, France - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bc4c859e90c3f91fbc171/index.m3u8
 #EXTINF:-1, Hungary - Poland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6939727ef7de7b3a480b5849/index.m3u8
 #EXTINF:-1, Japan - Italy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69397301f7de7b3a480b584b/index.m3u8
 #EXTINF:-1, Jaroměř - Nové Město n. M.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692973d8918e75299fe5b721/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692973d8918e75299fe5b721/index.m3u8
 #EXTINF:-1, USA - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931158f8cf02b3dcbc23d3b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6931158f8cf02b3dcbc23d3b/index.m3u8
 #EXTINF:-1, Liikunnan Riemu - JHT
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931158f4f917966ed146cb7/index.m3u8
 #EXTINF:-1, HC Chrudim - SC Kolín
@@ -55,6 +49,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931201c4f917966ed146d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931158f4f917966ed146cbf/index.m3u8
 #EXTINF:-1, Sunne IK - Forshaga IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693282174f917966ed1470ab/index.m3u8
+#EXTINF:-1, France - Slovakia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bc4c859e90c3f91fbc171/index.m3u8
 #EXTINF:-1, Hässelby Kälvesta - Ormsta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932710c8cf02b3dcbc24057/index.m3u8
 #EXTINF:-1, Duells PHK - Bokasport SK
