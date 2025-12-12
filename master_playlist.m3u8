@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Poland - France
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693139794f917966ed146d74/index.m3u8
+#EXTINF:-1, Hungary - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693a9390f7de7b3a480b5b2a/index.m3u8
 #EXTINF:-1, Buran Voronezh - Neftyanik
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Slovakia - Japan
@@ -85,6 +87,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267104f917966ed146f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267108cf02b3dcbc24015/index.m3u8
 #EXTINF:-1, Latvia - Poland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69392ff1d9c1b7ecd2fd9e8d/index.m3u8
+#EXTINF:-1, Kuparikiekko Team - UJK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267108cf02b3dcbc23fee/index.m3u8
+#EXTINF:-1, Rockets Loimaa - TarU
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267108cf02b3dcbc23ff8/index.m3u8
+#EXTINF:-1, MIF Team - Kraft Academy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267108cf02b3dcbc2401c/index.m3u8
+#EXTINF:-1, PKW - Lännen Kiekko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267108cf02b3dcbc23fe8/index.m3u8
+#EXTINF:-1, GrIFK Joukkue - Ludwig
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267104f917966ed146fac/index.m3u8
+#EXTINF:-1, Latvia - Norway
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937c4927bdeef97ba532b66/index.m3u8
 #EXTINF:-1, HC Tábor - Hvězda Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69202b46109a6801f3cf7ea9/index.m3u8
 #EXTINF:-1, AZ Havířov - HC Olomouc
@@ -95,3 +109,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923067d1ea1b60e809f4b
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922dc4d1ea1b60e809f4b28/index.m3u8
 #EXTINF:-1, MD Šumperk - VHK Vsetín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69283e6e688a6038e7f6b366/index.m3u8
+#EXTINF:-1, LJK - Kiekko-Tiikerit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267104f917966ed146fb6/index.m3u8
+#EXTINF:-1, Kurra Gepardit - Hawks
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267104f917966ed146fba/index.m3u8
+#EXTINF:-1, Play Team-80 - Ice Team
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693267104f917966ed146fc7/index.m3u8
