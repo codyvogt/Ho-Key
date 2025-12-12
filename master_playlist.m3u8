@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Hungary - Italy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693a9390f7de7b3a480b5b2a/index.m3u8
-#EXTINF:-1, Finland - Germany
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69352365f7cfc8c7990d0e57/index.m3u8
-#EXTINF:-1, Sweden - Czech Republic
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69352365f7cfc8c7990d0e5a/index.m3u8
-#EXTINF:-1, Rauman Lukko - JYP
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693267104f917966ed146fb4/index.m3u8
 #EXTINF:-1, Oulun Kärpät - HPK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693267104f917966ed146fc5/index.m3u8
 #EXTINF:-1, SaiPa - Porin Ässät
@@ -58,7 +52,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69392ff1d9c1b7ecd2fd9e
 #EXTINF:-1, Znojmo - Uherský Brod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925632f1ea1b60e809f51c6/index.m3u8
 #EXTINF:-1, HC Česká Lípa - Nová Paka
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691eaf8e109a6801f3cf7b73/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eaf8e109a6801f3cf7b73/index.m3u8
 #EXTINF:-1, Turnov - Benátky n. Jizerou
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69269894109a6801f3cf90a5/index.m3u8
 #EXTINF:-1, HC Smíchov - Černošice
@@ -189,6 +183,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933ba077bdeef97ba531b
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d781c8fdc151189406b969/index.m3u8
 #EXTINF:-1, Solna SK - IFK Mariefred
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933ba077bdeef97ba531b7c/index.m3u8
+#EXTINF:-1, Sweden - Czech Republic
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69352365f7cfc8c7990d0e5a/index.m3u8
 #EXTINF:-1, Enköpings SK HK - Tumba
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933c4417bdeef97ba531b9d/index.m3u8
 #EXTINF:-1, SDE HF - Segeltorps IF
