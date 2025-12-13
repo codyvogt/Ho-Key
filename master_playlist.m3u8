@@ -13,3 +13,9 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/73daff50-93a3-4b02-8ea8-05e2e
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
 #EXTINF:-1, MTU - Ferris State
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, Denver - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b79e6970-ae74-467a-ab25-8b9366e159b3-hls/master/b79e6970-ae74-467a-ab25-8b9366e159b3-hls.m3u8
+#EXTINF:-1, ASU - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/efbaeff1-b55d-460b-8e1d-dbb4dab11820-hls/master/efbaeff1-b55d-460b-8e1d-dbb4dab11820-hls.m3u8
+#EXTINF:-1, Omaha - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9725b24f-6ddd-40eb-90dc-5a16cfed5797-hls/master/9725b24f-6ddd-40eb-90dc-5a16cfed5797-hls.m3u8
