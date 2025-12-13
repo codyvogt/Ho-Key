@@ -23,18 +23,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67ca12846d28d75b9b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692e67ca12846d28d75b9b5b/index.m3u8
 #EXTINF:-1, HCMP - Strasbourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67ca12846d28d75b9b5f/index.m3u8
-#EXTINF:-1, Pergine - Fassa Falcons
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edb789696da69144226b/index.m3u8
-#EXTINF:-1, Eppan Pirates - Valpellice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edb41d615b78791f4654/index.m3u8
-#EXTINF:-1, SV Kaltern - HC Falcons
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edb61d615b78791f4656/index.m3u8
-#EXTINF:-1, Zinnen Dolomites - Alleghe
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edb81d615b78791f465a/index.m3u8
-#EXTINF:-1, HC Feltre - HCMV Varese
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693b0d97b4e4af00beff2ab3/index.m3u8
-#EXTINF:-1, HC Aosta - Valdifiemme HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edb61d615b78791f4658/index.m3u8
 #EXTINF:-1, Trento - Padova Waves
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693a9fd8b4e4af00beff29ad/index.m3u8
 #EXTINF:-1, HCP Selection - Chiavenna
@@ -55,6 +43,16 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67c812846d28d75b9b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692e67ca12846d28d75b9b6f/index.m3u8
 #EXTINF:-1, Anglet 2 - Montpellier
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67ca12846d28d75b9b6d/index.m3u8
+#EXTINF:-1, Eppan Pirates - Valpellice
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edb41d615b78791f4654/index.m3u8
+#EXTINF:-1, SV Kaltern - HC Falcons
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edb61d615b78791f4656/index.m3u8
+#EXTINF:-1, Zinnen Dolomites - Alleghe
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edb81d615b78791f465a/index.m3u8
+#EXTINF:-1, HC Feltre - HCMV Varese
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693b0d97b4e4af00beff2ab3/index.m3u8
+#EXTINF:-1, HC Aosta - Valdifiemme HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edb61d615b78791f4658/index.m3u8
 #EXTINF:-1, Beaufort - Luxembourg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692c1cb9918e75299fe5c537/index.m3u8
 #EXTINF:-1, Japan - France
