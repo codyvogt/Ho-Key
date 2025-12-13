@@ -7,26 +7,12 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/129aed
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bc49d444-0abe-486d-bb5e-6b2f1871d689/master.m3u8
 #EXTINF:-1, Italy - Hungary
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693973faf7de7b3a480b5851/index.m3u8
-#EXTINF:-1, Chambéry - Caen
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69386b5c3f1c7a8ec1f7dd8c/index.m3u8
-#EXTINF:-1, Meudon - Dogs de Cholet
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67ca12846d28d75b9b5d/index.m3u8
 #EXTINF:-1, Tours - Lions de Lyon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67ca12846d28d75b9b61/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Neuilly
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692e67ca12846d28d75b9b5b/index.m3u8
 #EXTINF:-1, HCMP - Strasbourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67ca12846d28d75b9b5f/index.m3u8
-#EXTINF:-1, US NTDP U18 - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Vinschgau Eisfix - Pinerolo
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693a9fd7b4e4af00beff29ab/index.m3u8
-#EXTINF:-1, Briançon 2 - Gap 2
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67c912846d28d75b9b41/index.m3u8
-#EXTINF:-1, Évry-Viry 2 - Wasquehal
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67c912846d28d75b9b4f/index.m3u8
-#EXTINF:-1, Saint Anselm - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Geleen - Zoetermeer
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69381edfd9c1b7ecd2fd9cc0/index.m3u8
 #EXTINF:-1, Châlons - Orléans
@@ -35,6 +21,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67c812846d28d75b9b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692e67ca12846d28d75b9b6f/index.m3u8
 #EXTINF:-1, Anglet 2 - Montpellier
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67ca12846d28d75b9b6d/index.m3u8
+#EXTINF:-1, Évry-Viry 2 - Wasquehal
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67c912846d28d75b9b4f/index.m3u8
 #EXTINF:-1, Grenoble - Chambéry
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67cb8cf02b3dcbc2350a/index.m3u8
 #EXTINF:-1, HC Aosta - Valdifiemme HC
@@ -47,3 +35,25 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693aaba89f97f2f2ddbd9a
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693aac5f9f97f2f2ddbd9a0e/index.m3u8
 #EXTINF:-1, Valdemoro - CH Jaca
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693aae409f97f2f2ddbd9a16/index.m3u8
+#EXTINF:-1, Alaska - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Long Island - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Army West Point - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Lindenwood - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Colorado College - Miami
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/57f3b550-8fd6-4ca0-9b08-19fed21660f3-hls/master/57f3b550-8fd6-4ca0-9b08-19fed21660f3-hls.m3u8
+#EXTINF:-1, MTU - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, STU - Northern Michigan
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, ASU - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/6c487704-26ea-4b1d-b1d1-e83e09ea1562-hls/master/6c487704-26ea-4b1d-b1d1-e83e09ea1562-hls.m3u8
+#EXTINF:-1, Boston U - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Denver - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cb67ea1c-e20a-4624-ae06-d815b14a9b12-hls/master/cb67ea1c-e20a-4624-ae06-d815b14a9b12-hls.m3u8
+#EXTINF:-1, Omaha - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/df1f8b72-0b58-4423-9185-94610aa899e5-hls/master/df1f8b72-0b58-4423-9185-94610aa899e5-hls.m3u8
