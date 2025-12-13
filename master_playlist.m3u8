@@ -116,7 +116,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693515c1f7cfc8c7990d0c
 #EXTINF:-1, Vännäs HC - Kiruna IF
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693514e77bdeef97ba5321c9/index.m3u8
 #EXTINF:-1, Hudiksvalls HC - Grums IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693517777bdeef97ba5321e4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693517777bdeef97ba5321e4/index.m3u8
 #EXTINF:-1, Tingsryds AIF - Hanhals IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693523647bdeef97ba5322d5/index.m3u8
 #EXTINF:-1, Orsa IK - BIK Karlskoga
@@ -212,7 +212,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6935140df7cfc8c7990d0c
 #EXTINF:-1, Rydaholm - Tingsryds Utv.
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69350d3c7bdeef97ba53216b/index.m3u8
 #EXTINF:-1, Lenhovda IF - Gislaveds SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350e167bdeef97ba532175/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69350e167bdeef97ba532175/index.m3u8
 #EXTINF:-1, Vita Hästen - Kållered SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693517777bdeef97ba5321f3/index.m3u8
 #EXTINF:-1, Nybro Vikings IF - Nässjö
@@ -281,8 +281,12 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6933b892f7cfc8c7990d05
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b892f7cfc8c7990d05d1/index.m3u8
 #EXTINF:-1, Sweden - Finland
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b892f7cfc8c7990d061b/index.m3u8
-#EXTINF:-1, Djurgårdens IF - Södertälje
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693514e77bdeef97ba5321cf/index.m3u8
+#EXTINF:-1, AIK Härn. - Härnösand HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351bbbf7cfc8c7990d0daa/index.m3u8
+#EXTINF:-1, Storumans IK - Älvsby IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350ef37bdeef97ba532187/index.m3u8
+#EXTINF:-1, Järvsö IK - Näldens IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350b86f7cfc8c7990d0c7a/index.m3u8
 #EXTINF:-1, IF Björklöven - Skellefteå
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351a05f7cfc8c7990d0d5c/index.m3u8
 #EXTINF:-1, Färjestad BK - Leksands IF
@@ -295,12 +299,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693523647bdeef97ba5322
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351e49f7cfc8c7990d0dd9/index.m3u8
 #EXTINF:-1, Frölunda HC - HV 71
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351d6ff7cfc8c7990d0dce/index.m3u8
-#EXTINF:-1, AIK Härn. - Härnösand HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351bbbf7cfc8c7990d0daa/index.m3u8
-#EXTINF:-1, Storumans IK - Älvsby IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350ef37bdeef97ba532187/index.m3u8
-#EXTINF:-1, Järvsö IK - Näldens IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350b86f7cfc8c7990d0c7a/index.m3u8
 #EXTINF:-1, Germany - Czech Republic
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69352365f7cfc8c7990d0e5b/index.m3u8
 #EXTINF:-1, Sweden - Finland
