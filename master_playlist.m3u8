@@ -5,12 +5,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5305ef
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Hungary - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693139bd4f917966ed146d76/index.m3u8
-#EXTINF:-1, Česká Třebová - Litomyšl
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df6c0aa0cd927f79142/index.m3u8
-#EXTINF:-1, Trutnov - Nové Město n. M.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691c7d14109a6801f3cf7824/index.m3u8
-#EXTINF:-1, Jaroměř - Nový Bydžov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df9fcdc62be9451d65ea8c/index.m3u8
 #EXTINF:-1, Třebíč - Pardubice B
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69397bf3f7de7b3a480b5866.m3u8
 #EXTINF:-1, HC Sokolov - Litoměřice
@@ -117,6 +111,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b890f7cfc8c7990d04
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6933b8917bdeef97ba531a0a/index.m3u8
 #EXTINF:-1, K-Vantaa Itä - EVU Team
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6933b8917bdeef97ba531a0f/index.m3u8
+#EXTINF:-1, Trutnov - Nové Město n. M.
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691c7d14109a6801f3cf7824/index.m3u8
+#EXTINF:-1, Jaroměř - Nový Bydžov
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df9fcdc62be9451d65ea8c/index.m3u8
 #EXTINF:-1, Ferencváros II - Vasas
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69325c5d4f917966ed146fa3/index.m3u8
 #EXTINF:-1, MAC - Worm Angels
@@ -186,8 +184,24 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692c1cb9918e75299fe5c5
 #EXTINF:-1, Beaufort - Luxembourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692c1cb9918e75299fe5c537/index.m3u8
 #EXTINF:-1, Japan - France
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67c912846d28d75b9b53/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692e67c912846d28d75b9b53/index.m3u8
 #EXTINF:-1, Italy - Hungary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693973faf7de7b3a480b5851/index.m3u8
+#EXTINF:-1, US NTDP U18 - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Briançon 2 - Gap 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67c912846d28d75b9b41/index.m3u8
+#EXTINF:-1, Évry-Viry 2 - Wasquehal
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67c912846d28d75b9b4f/index.m3u8
+#EXTINF:-1, Saint Anselm - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Geleen - Zoetermeer
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69381edfd9c1b7ecd2fd9cc0/index.m3u8
+#EXTINF:-1, Barça - Milenio Panthers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693aac169f97f2f2ddbd9a0c/index.m3u8
+#EXTINF:-1, SH Majadahonda - Jaca
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693aaba89f97f2f2ddbd9a0a/index.m3u8
+#EXTINF:-1, CG Puigcerdà - HC Porto
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693aac5f9f97f2f2ddbd9a0e/index.m3u8
 #EXTINF:-1, Valdemoro - CH Jaca
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693aae409f97f2f2ddbd9a16/index.m3u8
