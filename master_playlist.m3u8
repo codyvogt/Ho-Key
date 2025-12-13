@@ -1,3 +1,67 @@
 #EXTM3U
-#EXTINF:-1, Seattle - Utah Mammoth
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/199e2123-77b8-422d-97e6-ed6a0fd8ded7/master.m3u8
+#EXTINF:-1, Russia - Belarus
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, TPS - Rauman Lukko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b892f7cfc8c7990d05d3/index.m3u8
+#EXTINF:-1, Rovaniemen Kiekko - HPK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b8927bdeef97ba531b39/index.m3u8
+#EXTINF:-1, Kouvolan KooKoo - Ässät
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b8927bdeef97ba531b4f/index.m3u8
+#EXTINF:-1, Tyringe SoSS - IF Lejonet
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693515c1f7cfc8c7990d0cea/index.m3u8
+#EXTINF:-1, Trelleborgs IF - Lund Giants
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935190f7bdeef97ba532227/index.m3u8
+#EXTINF:-1, Mighty Ravens - Mjölby
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935228af7cfc8c7990d0e38/index.m3u8
+#EXTINF:-1, Ulricehamn/Nittorp - Guts
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6935140df7cfc8c7990d0ce1/index.m3u8
+#EXTINF:-1, Rydaholm - Tingsryds Utv.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350d3c7bdeef97ba53216b/index.m3u8
+#EXTINF:-1, Hungary U16 - Poland U16
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692ac7be918e75299fe5bcb5/index.m3u8
+#EXTINF:-1, K-Kissat - KooKoo/IiHoo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b892f7cfc8c7990d05a0/index.m3u8
+#EXTINF:-1, Slavia - Mountfield HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69283064688a6038e7f6b303/index.m3u8
+#EXTINF:-1, Suolahden Urho II - KieHa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b891f7cfc8c7990d0513/index.m3u8
+#EXTINF:-1, SuPS - JHT Akatemia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b892f7cfc8c7990d060f/index.m3u8
+#EXTINF:-1, Hokkarit - Hollola Giants
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b891f7cfc8c7990d0518/index.m3u8
+#EXTINF:-1, PKS - Paraisten Sport
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b8907bdeef97ba5319e0/index.m3u8
+#EXTINF:-1, Highsticks HT Ac - IKK 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b8917bdeef97ba531ac5/index.m3u8
+#EXTINF:-1, Cowboys 2 - Kiekko-Ketut
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b892f7cfc8c7990d05e5/index.m3u8
+#EXTINF:-1, HC Everest - Roosa Panter
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692ad35e918e75299fe5bcc4/index.m3u8
+#EXTINF:-1, Hallstahammar - Färjestad
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69381e7ed9c1b7ecd2fd9cae/index.m3u8
+#EXTINF:-1, AIK - IF Björklöven
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693520d67bdeef97ba53229e/index.m3u8
+#EXTINF:-1, Estonia - Poland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69397376f7de7b3a480b584d/index.m3u8
+#EXTINF:-1, Latvia - Norway
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937c492f7cfc8c7990d1820/index.m3u8
+#EXTINF:-1, Jonstorps IF - Olofström
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693517777bdeef97ba5321e3/index.m3u8
+#EXTINF:-1, Borlänge HF - Valbo HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693515c1f7cfc8c7990d0cf9/index.m3u8
+#EXTINF:-1, Vännäs HC - Kiruna IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693514e77bdeef97ba5321c9/index.m3u8
+#EXTINF:-1, SK Lejon - Haparanda HF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351f22f7cfc8c7990d0deb/index.m3u8
+#EXTINF:-1, Uplakers Ylöjärvi - HiHo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b8907bdeef97ba5319ec/index.m3u8
+#EXTINF:-1, KeuPa HT - Pelicans
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b8927bdeef97ba531b70/index.m3u8
+#EXTINF:-1, HC Žihadla - Technika B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351914f7cfc8c7990d0d35/index.m3u8
+#EXTINF:-1, Lomnice n. P.  Jablonec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e6293de14bd1ca73a58bac/index.m3u8
+#EXTINF:-1, Hodonín - Uherské Hradiště
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e81904f917966ed1465dd/index.m3u8
+#EXTINF:-1, KuRy/Malax IF - JyKi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933b892f7cfc8c7990d057c/index.m3u8
