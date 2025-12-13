@@ -3,6 +3,10 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5305ef09-d10e-4e95-8658-b10fce1f80ab/master.m3u8
 #EXTINF:-1, Ottawa - Minnesota Wild
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1, San Jose - Pittsburgh
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/129aedc6-a572-42d1-ace0-8fa9e89ac667/master.m3u8
+#EXTINF:-1, Tampa Bay - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bc49d444-0abe-486d-bb5e-6b2f1871d689/master.m3u8
 #EXTINF:-1, Hungary - France
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693139bd4f917966ed146d76/index.m3u8
 #EXTINF:-1, HC Cheb - Havlíčkův Brod
@@ -24,9 +28,9 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69386b5c3f1c7a8ec1f7dd
 #EXTINF:-1, Meudon - Dogs de Cholet
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67ca12846d28d75b9b5d/index.m3u8
 #EXTINF:-1, Tours - Lions de Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67ca12846d28d75b9b61/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692e67ca12846d28d75b9b61/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Neuilly
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67ca12846d28d75b9b5b/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692e67ca12846d28d75b9b5b/index.m3u8
 #EXTINF:-1, HCMP - Strasbourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67ca12846d28d75b9b5f/index.m3u8
 #EXTINF:-1, Kiruna AIF - Arvidsjaur
@@ -102,7 +106,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692e67c912846d28d75b9b
 #EXTINF:-1, Saint Anselm - Dartmouth
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
 #EXTINF:-1, Geleen - Zoetermeer
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69381edfd9c1b7ecd2fd9cc0/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69381edfd9c1b7ecd2fd9cc0/index.m3u8
 #EXTINF:-1, Barça - Milenio Panthers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693aac169f97f2f2ddbd9a0c/index.m3u8
 #EXTINF:-1, SH Majadahonda - Jaca
