@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1, USA U18 - St. Lawrence
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Alaska - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Yale - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Army WP - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Colorado College - Miami
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/73daff50-93a3-4b02-8ea8-05e2ec857e76-hls/master/73daff50-93a3-4b02-8ea8-05e2ec857e76-hls.m3u8
+#EXTINF:-1, STU - Northern Michigan
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, MTU - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
