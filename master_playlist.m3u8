@@ -3,24 +3,6 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, France - Italy
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693139f18cf02b3dcbc23dc7/index.m3u8
-#EXTINF:-1, HK Opava - SK Prostějov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69207195109a6801f3cf7ffc/index.m3u8
-#EXTINF:-1, Benátky n. J. - Frýdlant
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692965c9918e75299fe5b6db/index.m3u8
-#EXTINF:-1, Rokycany - Ber. Medvědi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693acf8fb4e4af00beff2a5d/index.m3u8
-#EXTINF:-1, Stadion Cheb - SK Kadaň
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6913266f1ea1b60e809f2161/index.m3u8
-#EXTINF:-1, Orli Znojmo - Warriors B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925632f1ea1b60e809f51c5/index.m3u8
-#EXTINF:-1, HC Letňany - Kobra Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c60ee109a6801f3cf77e8/index.m3u8
-#EXTINF:-1, Virkiä - IFK Lepplax
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350a12f7cfc8c7990d0ba6/index.m3u8
-#EXTINF:-1, Raahe-Kiekko - KalPa Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350a127bdeef97ba5320bd/index.m3u8
-#EXTINF:-1, HIFK Sibbo - EVU
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350a12f7cfc8c7990d0c0e/index.m3u8
 #EXTINF:-1, Rīgas HS - Jelgavas LSS
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693691c2f7cfc8c7990d1513/index.m3u8
 #EXTINF:-1, Brocēni - HK Dinaburga
@@ -47,6 +29,16 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69366d3bf7cfc8c7990d13
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69350a12f7cfc8c7990d0c3d/index.m3u8
 #EXTINF:-1, TUTO - Kokkolan Hermes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350a127bdeef97ba53207a/index.m3u8
+#EXTINF:-1, Benátky n. J. - Frýdlant
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692965c9918e75299fe5b6db/index.m3u8
+#EXTINF:-1, Rokycany - Ber. Medvědi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693acf8fb4e4af00beff2a5d/index.m3u8
+#EXTINF:-1, Stadion Cheb - SK Kadaň
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6913266f1ea1b60e809f2161/index.m3u8
+#EXTINF:-1, Orli Znojmo - Warriors B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925632f1ea1b60e809f51c5/index.m3u8
+#EXTINF:-1, HC Letňany - Kobra Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c60ee109a6801f3cf77e8/index.m3u8
 #EXTINF:-1, Poland - Lithuania
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69397462f7de7b3a480b5853/index.m3u8
 #EXTINF:-1, Finland - Sweden
@@ -60,7 +52,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692949a61235e1f87a8291
 #EXTINF:-1, HC Vítkovice - Škoda Plzeň
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6927091a68db0e69ca280bff/index.m3u8
 #EXTINF:-1, Poruba - České Budějovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f6256ed14875374b216570/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f6256ed14875374b216570/index.m3u8
 #EXTINF:-1, Czech Republic - Finland
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693674e5f7cfc8c7990d144a/index.m3u8
 #EXTINF:-1, Lakers - Real Torino
@@ -81,10 +73,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6911aac6c6734d1f94b277
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fb9498cf02b3dcbc23905/index.m3u8
 #EXTINF:-1, S-Kiekko - HIFK Stadi
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69350a12f7cfc8c7990d0b73/index.m3u8
+#EXTINF:-1, Raahe-Kiekko - KalPa Ak
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69350a127bdeef97ba5320bd/index.m3u8
+#EXTINF:-1, HIFK Sibbo - EVU
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350a12f7cfc8c7990d0c0e/index.m3u8
 #EXTINF:-1, KJT Haukat - Ice Team
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc599140899867ab483ef1/index.m3u8
 #EXTINF:-1, United States - Finland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350a137bdeef97ba5320d4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69350a137bdeef97ba5320d4/index.m3u8
 #EXTINF:-1, HC Porto - CG Puigcerdà
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693aacbc9f97f2f2ddbd9a10/index.m3u8
 #EXTINF:-1, Rosvik IK 2 - Malmberget
