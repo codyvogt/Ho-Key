@@ -9,10 +9,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fb9488cf02b3dcbc238
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692fb9498cf02b3dcbc238f1/index.m3u8
 #EXTINF:-1, SK Iron Hockey - Boo HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69365d07f7cfc8c7990d124d/index.m3u8
-#EXTINF:-1, Nacka HK 2 - MB Hockey
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69367257f7cfc8c7990d13f6/index.m3u8
-#EXTINF:-1, Munkedals BK - Chalmers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693662fff7cfc8c7990d12ab/index.m3u8
 #EXTINF:-1, Strasbourg - Amiens
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692fb9498cf02b3dcbc238ed/index.m3u8
 #EXTINF:-1, Grenoble - Anglet
@@ -35,6 +31,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d6725918e75299fe5cb
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d6e3a918e75299fe5cb33/index.m3u8
 #EXTINF:-1, Näädät - PiTa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69350a10f7cfc8c7990d0aa1/index.m3u8
+#EXTINF:-1, Munkedals BK - Chalmers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693662fff7cfc8c7990d12ab/index.m3u8
 #EXTINF:-1, Dartmouth - UNH
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Lindenwood - Maine
