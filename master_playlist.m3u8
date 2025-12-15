@@ -1,35 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Rubin Tyumen - AKM Tula
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
-#EXTINF:-1, Yunost Minsk - HK Lida
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Shakhter - Metallurg
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, AZ Havířov - Technika Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69022d2640899867ab484e25/index.m3u8
-#EXTINF:-1, Segeltorps IF - Hammarby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937bc297bdeef97ba532b3e/index.m3u8
-#EXTINF:-1, IFK Tumba IK - Arlanda
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937ba76f7cfc8c7990d17d4/index.m3u8
-#EXTINF:-1, Järna SK - SDE HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937c06df7cfc8c7990d1812/index.m3u8
-#EXTINF:-1, Vallentuna - Enköpings SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937ba76f7cfc8c7990d17d2/index.m3u8
-#EXTINF:-1, Trångsunds IF - Haninge
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937b3a4f7cfc8c7990d17c1/index.m3u8
-#EXTINF:-1, Tyresö Hanviken - Täby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937c3d77bdeef97ba532b60/index.m3u8
-#EXTINF:-1, Nacka HK - Huddinge IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937c3d77bdeef97ba532b61/index.m3u8
-#EXTINF:-1, Nyköping - Flemingsberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937c222f7cfc8c7990d1816/index.m3u8
-#EXTINF:-1, Sollentuna HC - Almtuna IS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937bb4f7bdeef97ba532b32/index.m3u8
-#EXTINF:-1, Brinkens IF - IK Göta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937b3a47bdeef97ba532b2e/index.m3u8
-#EXTINF:-1, Väsby IK HK - Östhammar
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937b99bf7cfc8c7990d17ce/index.m3u8
-#EXTINF:-1, Lidingö Vikings - Järfälla
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937bc297bdeef97ba532b3f/index.m3u8
-#EXTINF:-1, Spånga IS IK - IFK Salem
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937bf93f7cfc8c7990d180a/index.m3u8
+#EXTINF:-1, Florida - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/52b81448-f903-40a0-826f-b7ac4290cedb/master.m3u8
+#EXTINF:-1, Anaheim - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e7bb98e2-5ace-4145-a647-b774fbec736c/master.m3u8
+#EXTINF:-1, Ottawa - Winnipeg Jets
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7212af8-073a-40de-aa72-84ec004aa918/master.m3u8
+#EXTINF:-1, Nashville - St. Louis Blues
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/439e82ed-2e88-4577-b494-03e70bc2f26a/master.m3u8
+#EXTINF:-1, Los Angeles - Dallas Stars
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25d5c2ea-d3d5-4725-a319-88a29509192a/master.m3u8
