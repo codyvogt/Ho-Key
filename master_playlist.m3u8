@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Buffalo - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5068b791-9a2a-458f-93a8-b6889c7d5f4b/master.m3u8
+#EXTINF:-1, Rubin Tyumen - AKM Tula
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1, Yunost Minsk - HK Lida
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Shakhter - Metallurg
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, AZ Havířov - Technika Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69022d2640899867ab484e25/index.m3u8
