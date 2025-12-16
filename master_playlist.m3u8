@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Florida - Tampa Bay
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/52b81448-f903-40a0-826f-b7ac4290cedb/master.m3u8
-#EXTINF:-1, Anaheim - NY Rangers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e7bb98e2-5ace-4145-a647-b774fbec736c/master.m3u8
-#EXTINF:-1, Ottawa - Winnipeg Jets
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7212af8-073a-40de-aa72-84ec004aa918/master.m3u8
-#EXTINF:-1, Nashville - St. Louis Blues
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/439e82ed-2e88-4577-b494-03e70bc2f26a/master.m3u8
-#EXTINF:-1, Los Angeles - Dallas Stars
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25d5c2ea-d3d5-4725-a319-88a29509192a/master.m3u8
+#EXTINF:-1, Sibir - Avangard Omsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
