@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1, EHC Neuwied - Liege
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69315ba78cf02b3dcbc23e3e/index.m3u8
-#EXTINF:-1, Hijs Hokij - Limburg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693014c58cf02b3dcbc23ad2/index.m3u8
-#EXTINF:-1, Hovås HC - Varberg HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69391556d9c1b7ecd2fd9e50/index.m3u8
-#EXTINF:-1, Marseille - Chamonix
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69325c488cf02b3dcbc23fda/index.m3u8
-#EXTINF:-1, Grenoble - Bordeaux
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69325c488cf02b3dcbc23fd6/index.m3u8
-#EXTINF:-1, Lions de Lyon - Caen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69325c488cf02b3dcbc23fd8/index.m3u8
+#EXTINF:-1, Edmonton - Pittsburgh
+https://fl1.moveonjoy.com/TNT/index.m3u8
