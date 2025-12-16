@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Buran Voronezh - CSK VVS
-https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
 #EXTINF:-1, Avtomobilist - Barys
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Lada Togliatti - CSKA
@@ -13,3 +11,5 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Ilves Tampere - Luleå
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1, Buran Voronezh - CSK VVS
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
