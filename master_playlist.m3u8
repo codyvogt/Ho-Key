@@ -13,3 +13,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Buran Voronezh - CSK VVS
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
+#EXTINF:-1, Rødovre - Odense
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936971af7cfc8c7990d1573.m3u8
+#EXTINF:-1, Aalborg - Sønderjyske
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69369716f7cfc8c7990d1543.m3u8
