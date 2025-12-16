@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv - Dinamo Mn
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Ilves Tampere - Luleå
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Rødovre - Odense
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6936971af7cfc8c7990d1573.m3u8
 #EXTINF:-1, Aalborg - Sønderjyske
@@ -42,9 +38,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6938ff2cf7de7b3a480b57
 #EXTINF:-1, Lögdeå - Sollefteå HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693912caf7de7b3a480b57a6/index.m3u8
 #EXTINF:-1, Gävle - Söderhamn/Ljusne
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69390967d9c1b7ecd2fd9df9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69390967d9c1b7ecd2fd9df9/index.m3u8
 #EXTINF:-1, Hammarby IF - Tierps HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69180d16109a6801f3cf6b49/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69180d16109a6801f3cf6b49/index.m3u8
 #EXTINF:-1, Sörhaga HK - Rönnängs IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938fe51f7de7b3a480b573c/index.m3u8
 #EXTINF:-1, Mighty Ravens HC - IK Guts
@@ -74,15 +70,15 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69391630f7de7b3a480b57
 #EXTINF:-1, Kållered SK - Vänersborg
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693911edd9c1b7ecd2fd9e44/index.m3u8
 #EXTINF:-1, Hisingens IK - Järnbrott
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69391630f7de7b3a480b57ab/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69391630f7de7b3a480b57ab/index.m3u8
 #EXTINF:-1, KRIF - Västerviks IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693911edd9c1b7ecd2fd9e42/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693911edd9c1b7ecd2fd9e42/index.m3u8
 #EXTINF:-1, Hovås HC - Varberg HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69391556d9c1b7ecd2fd9e50/index.m3u8
 #EXTINF:-1, SK Lejon - Vännäs HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693a5f0ff7de7b3a480b5a2e/index.m3u8
 #EXTINF:-1, Nantes - Meudon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69325c488cf02b3dcbc23fdc/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69325c488cf02b3dcbc23fdc/index.m3u8
 #EXTINF:-1, EHC Neuwied - Liege
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69315ba78cf02b3dcbc23e3e/index.m3u8
 #EXTINF:-1, Hijs Hokij - Limburg
