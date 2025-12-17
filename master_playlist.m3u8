@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1, HC Pardubice - Olomouc
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694024de0d73d3ccbfec2c3d.m3u8
-#EXTINF:-1, AZ Havířov - HK Kroměříž
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68a492a457409d1c722420da/index.m3u8
+#EXTINF:-1, Sokolov - Slavia Praha
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693c01289f97f2f2ddbd9d6a.m3u8
+#EXTINF:-1, Pardubice B - Litoměřice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693c0158b4e4af00beff2d07.m3u8
+#EXTINF:-1, HC Poruba - HC Tábor
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693c01429f97f2f2ddbd9d6c.m3u8
 #EXTINF:-1, Kopřivnice - Velké Meziříčí
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecb89/index.m3u8
 #EXTINF:-1, Hodonín - Uherský Brod
@@ -15,8 +19,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecb
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df102648319de9ecbb6/index.m3u8
 #EXTINF:-1, Ústí n. L. - Kralupy n. V.
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68fa19f440899867ab48368d/index.m3u8
-#EXTINF:-1, HC Děčín - Králové Písek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecbeb/index.m3u8
 #EXTINF:-1, Kobra Praha - Příbram
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68dce0b48ebee495bafd631d/index.m3u8
 #EXTINF:-1, Benátky - Havlíčkův Brod
@@ -27,20 +29,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df102648319de9ecbf3/index.m3u8
 #EXTINF:-1, SK Kadaň - Stadion Cheb
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecbc4/index.m3u8
-#EXTINF:-1, Sokolov - Slavia Praha
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693c01289f97f2f2ddbd9d6a.m3u8
-#EXTINF:-1, Pardubice B - Litoměřice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693c0158b4e4af00beff2d07.m3u8
-#EXTINF:-1, HC Poruba - HC Tábor
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693c01429f97f2f2ddbd9d6c.m3u8
-#EXTINF:-1, Újpesti JA - Lehel HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692fb95e4f917966ed146971/index.m3u8
-#EXTINF:-1, DEAC - Fehérvár HA 19
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692fb95e4f917966ed146973/index.m3u8
-#EXTINF:-1, DVTK - Budapest JA HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69307e3e8cf02b3dcbc23bcc/index.m3u8
-#EXTINF:-1, Břeclav - Brumov-Bylnice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f54/index.m3u8
 #EXTINF:-1, Nové Město - Nový Bydžov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece13/index.m3u8
 #EXTINF:-1, Spartak Polička - Litomyšl
@@ -55,6 +43,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f791f3/index.m3u8
 #EXTINF:-1, HK Opava - MSK Orlová
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923f58d1ea1b60e809f4d08/index.m3u8
+#EXTINF:-1, DEAC - Fehérvár HA 19
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692fb95e4f917966ed146973/index.m3u8
+#EXTINF:-1, DVTK - Budapest JA HC
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69307e3e8cf02b3dcbc23bcc/index.m3u8
 #EXTINF:-1, HIFK - Hämeenlinnan PK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938fe90f7de7b3a480b5750/index.m3u8
 #EXTINF:-1, Rögle - Malmö Redhawks
