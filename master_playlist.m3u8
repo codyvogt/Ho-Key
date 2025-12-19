@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1, Carolina - Florida
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/413f8880-d8a7-409b-80f4-934026e5f023/master.m3u8
+#EXTINF:-1, Vancouver - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25e8c32f-8e23-4ece-b02a-885f929c769b/master.m3u8
 #EXTINF:-1, Boston - Minnesota Frost
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
