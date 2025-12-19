@@ -1,48 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Rungsted - Esbjerg Energy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69369717f7cfc8c7990d155d.m3u8
 #EXTINF:-1, Herning - Odense Bulldogs
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69369717f7cfc8c7990d154f.m3u8
 #EXTINF:-1, Rødovre - Sønderjyske
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693697187bdeef97ba53281c.m3u8
 #EXTINF:-1, Herlev - Frederikshavn
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693697187bdeef97ba53281a.m3u8
-#EXTINF:-1, Skellefteå AIK - Timrå IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693d0822b4e4af00beff3048/index.m3u8
-#EXTINF:-1, Luleå HF - IF Björklöven
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693d0822b4e4af00beff3047/index.m3u8
-#EXTINF:-1, Åseda IF - Helsingborg HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693cf561b4e4af00beff2fde/index.m3u8
-#EXTINF:-1, Alvesta SK - Värnamo GIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693d09d69f97f2f2ddbda00c/index.m3u8
-#EXTINF:-1, Vänersborgs HC - Boro
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693d0748b4e4af00beff3043/index.m3u8
-#EXTINF:-1, Gislaveds SK - Hanhals IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cfde69f97f2f2ddbd9fa5/index.m3u8
-#EXTINF:-1, Bäcken HC - HC Lidköping
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693d0c649f97f2f2ddbda01f/index.m3u8
-#EXTINF:-1, Haparanda - Jokkmokks HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692bd625918e75299fe5c1a3/index.m3u8
+#EXTINF:-1, Havlíčkův Brod - Tábor
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6926988f109a6801f3cf909f/index.m3u8
 #EXTINF:-1, KB65 HK - Njurunda SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf3acb4e4af00beff2fce/index.m3u8
-#EXTINF:-1, Mor. Třebová - Nové Město
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f791e7/index.m3u8
-#EXTINF:-1, HK Žihadla - Bystřice n. P.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fa27fd40899867ab4836d0/index.m3u8
-#EXTINF:-1, Ludvika HF - IFK Ore
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693cf8ca9f97f2f2ddbd9f83/index.m3u8
-#EXTINF:-1, Hille - Hedesunda IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693cfd0c9f97f2f2ddbd9fa1/index.m3u8
-#EXTINF:-1, Hofors HC - Lindefallets SK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693cf7efb4e4af00beff2fea/index.m3u8
-#EXTINF:-1, Säffle HC - Nor IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cfc329f97f2f2ddbd9f9f/index.m3u8
-#EXTINF:-1, Viking HC - Kristinehamn
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693d04b9b4e4af00beff302a/index.m3u8
-#EXTINF:-1, IFK Hallsberg:2 - HC Örnen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f42759b6f68b0e1df272/index.m3u8
-#EXTINF:-1, Sellnäs - Vansbro AIK IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cfec19f97f2f2ddbd9fb8/index.m3u8
 #EXTINF:-1, Hällefors IK - Kungsörs IK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693d00769f97f2f2ddbd9fc6/index.m3u8
 #EXTINF:-1, Västerås Pickels - Nora HC
@@ -59,20 +25,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693cf8ca9f97f2f2ddbd9f
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693cf3acb4e4af00beff2fd0/index.m3u8
 #EXTINF:-1, Bollnäs IS - Skutskärs SK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693d066f9f97f2f2ddbd9ff8/index.m3u8
-#EXTINF:-1, Fotskäls HC - Herrings HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf2d2b4e4af00beff2ed6/index.m3u8
 #EXTINF:-1, Knivsta IS - Ullfors HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cfb599f97f2f2ddbd9f99/index.m3u8
-#EXTINF:-1, Avesta BK - Lindlövens IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693d0748b4e4af00beff303d/index.m3u8
-#EXTINF:-1, Tranås AIF - Mighty Ravens
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693d0c649f97f2f2ddbda019/index.m3u8
-#EXTINF:-1, IF Björklöven - Sundsvall
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693d0306b4e4af00beff3022/index.m3u8
-#EXTINF:-1, Hammarby IF - IF Malmö
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693d09d69f97f2f2ddbda009/index.m3u8
-#EXTINF:-1, Havlíčkův Brod - Tábor
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6926988f109a6801f3cf909f/index.m3u8
 #EXTINF:-1, Strakonice - Pelhřimov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912fc3d350f03ad08f4b964/index.m3u8
 #EXTINF:-1, Nice - Ducs d'Angers
