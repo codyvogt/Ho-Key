@@ -1,14 +1,24 @@
 #EXTM3U
-#EXTINF:-1, Sibir Novosibirsk - Admiral
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Traktor - Metallurg Mg
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1, Oceláři Třinec - Plzeň
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942647f0d73d3ccbfec301b.m3u8
+#EXTINF:-1, Vítkovice - Mladá Boleslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402629148907a0dbe32fb4.m3u8
+#EXTINF:-1, Litvínov - Sparta Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402636148907a0dbe32fb6.m3u8
+#EXTINF:-1, Kladno - České Budějovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6940265f0d73d3ccbfec2c44.m3u8
+#EXTINF:-1, Karlovy Vary - Mountfield
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402645148907a0dbe32fb8.m3u8
+#EXTINF:-1, Kometa Brno - Liberec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402678148907a0dbe32fbc.m3u8
 #EXTINF:-1, Lukko - Kiekko-Espoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ba18f9f97f2f2ddbd9c42/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693ba18f9f97f2f2ddbd9c42/index.m3u8
 #EXTINF:-1, JYP - Vaasan Sport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ba18f9f97f2f2ddbd9c3f/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693ba18f9f97f2f2ddbd9c3f/index.m3u8
 #EXTINF:-1, Kouvolan KooKoo - Kärpät
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ba18fb4e4af00beff2b98/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693ba18fb4e4af00beff2b98/index.m3u8
 #EXTINF:-1, Lahden Pelicans - KalPa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ba18fb4e4af00beff2b9a/index.m3u8
 #EXTINF:-1, Mikkelin Jukurit - TPS
@@ -18,7 +28,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ba18f9f97f2f2ddbd9c
 #EXTINF:-1, Helsingin Jokerit - HIFK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ba18f9f97f2f2ddbd9c45/index.m3u8
 #EXTINF:-1, HPK - Kiekko-Espoo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ffebc0d73d3ccbfec2bb2/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693ffebc0d73d3ccbfec2bb2/index.m3u8
 #EXTINF:-1, Ilves - Team Kuortane
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ba18fb4e4af00beff2b97/index.m3u8
 #EXTINF:-1, Pardubice - Kometa Brno
@@ -41,15 +51,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915750f1ea1b60e809f25
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dfbbede14bd1ca73a57bbb/index.m3u8
 #EXTINF:-1, Strakonice - Pelhřimov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912fc3d350f03ad08f4b964/index.m3u8
-#EXTINF:-1, Oceláři Třinec - Plzeň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942647f0d73d3ccbfec301b.m3u8
-#EXTINF:-1, Vítkovice - Mladá Boleslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402629148907a0dbe32fb4.m3u8
-#EXTINF:-1, Litvínov - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402636148907a0dbe32fb6.m3u8
-#EXTINF:-1, Kladno - České Budějovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6940265f0d73d3ccbfec2c44.m3u8
-#EXTINF:-1, Karlovy Vary - Mountfield
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402645148907a0dbe32fb8.m3u8
-#EXTINF:-1, Kometa Brno - Liberec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69402678148907a0dbe32fbc.m3u8
+#EXTINF:-1, ZUBR Přerov - HC Olomouc
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69316adf8cf02b3dcbc23e67/index.m3u8
+#EXTINF:-1, Chomutov - Hvězda Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928144768db0e69ca280f12/index.m3u8
+#EXTINF:-1, Technika Brno - Zlín B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a4440899867ab48500b/index.m3u8
+#EXTINF:-1, Havlíčkův Brod - Tábor
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6926988f109a6801f3cf909f/index.m3u8
