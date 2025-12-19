@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Herning - Odense Bulldogs
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69369717f7cfc8c7990d154f.m3u8
-#EXTINF:-1, Herlev - Frederikshavn
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693697187bdeef97ba53281a.m3u8
-#EXTINF:-1, Älvdalen - Kvarnsveden
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693cfb599f97f2f2ddbd9f9b/index.m3u8
-#EXTINF:-1, Näldens IF - Svenstavik
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693cf3acb4e4af00beff2fd0/index.m3u8
-#EXTINF:-1, Bollnäs IS - Skutskärs SK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693d066f9f97f2f2ddbd9ff8/index.m3u8
-#EXTINF:-1, Strakonice - Pelhřimov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912fc3d350f03ad08f4b964/index.m3u8
 #EXTINF:-1, Nice - Ducs d'Angers
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f6a/index.m3u8
 #EXTINF:-1, Grenoble - Gap
@@ -25,3 +13,5 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28516b4c8ed39e3473f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933fea9335ec68dd5969abd/index.m3u8
 #EXTINF:-1, Mechelen - EHC Neuwied
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6933fea97bdeef97ba531c94/index.m3u8
+#EXTINF:-1, Boston - Minnesota Frost
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
