@@ -39,18 +39,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6911aac4a199919ff362f7
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6930438f4f917966ed146af4/index.m3u8
 #EXTINF:-1, Lomnice - Gepardi Jablonec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b98074c238c71a081b6dd7/index.m3u8
-#EXTINF:-1, Č. Třebová - Nové Město
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f79141/index.m3u8
-#EXTINF:-1, HC Hlinsko - HC Náchod
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c3fe5d9d2a1a468257ebf7/index.m3u8
-#EXTINF:-1, Nový Bydžov - Světlá n. S.
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d62d0dc957a27a013164d5/index.m3u8
-#EXTINF:-1, HC Smíchov - Benátky n. J.
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906f48f40899867ab485a64/index.m3u8
-#EXTINF:-1, Nová Paka - Letci Letňany
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69243bdd1ea1b60e809f4f64/index.m3u8
-#EXTINF:-1, HC DDM ČEB - HC Příbram
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915e58d1ea1b60e809f2751/index.m3u8
 #EXTINF:-1, Slavia Třebíč - VHK Vsetín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd862148907a0dbe32e3d.m3u8
 #EXTINF:-1, Stadion Litoměřice - Kolín
@@ -89,6 +77,16 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693e56399f97f2f2ddbda4
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693e4cd79f97f2f2ddbda3cb/index.m3u8
 #EXTINF:-1, Tyresö Hanviken - Nacka
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693e5b57b4e4af00beff3462/index.m3u8
+#EXTINF:-1, HC Hlinsko - HC Náchod
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c3fe5d9d2a1a468257ebf7/index.m3u8
+#EXTINF:-1, Nový Bydžov - Světlá n. S.
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d62d0dc957a27a013164d5/index.m3u8
+#EXTINF:-1, HC Smíchov - Benátky n. J.
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906f48f40899867ab485a64/index.m3u8
+#EXTINF:-1, Nová Paka - Letci Letňany
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69243bdd1ea1b60e809f4f64/index.m3u8
+#EXTINF:-1, HC DDM ČEB - HC Příbram
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915e58d1ea1b60e809f2751/index.m3u8
 #EXTINF:-1, IFK Salem - Väsby IK HK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693e4a49b4e4af00beff33cb/index.m3u8
 #EXTINF:-1, Rönnängs IK - Hisingens IK
