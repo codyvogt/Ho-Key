@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Salavat Yulaev - Ak Bars
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Lahden Pelicans - TPS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf310b4e4af00beff2f60/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693cf310b4e4af00beff2f60/index.m3u8
 #EXTINF:-1, JYP - Tappara Tampere
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf3109f97f2f2ddbd9f51/index.m3u8
 #EXTINF:-1, Mikkelin Jukurit - KooKoo
@@ -8,15 +10,15 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf310b4e4af00beff2f
 #EXTINF:-1, Kiekko-Espoo - Jokerit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf3109f97f2f2ddbd9f42/index.m3u8
 #EXTINF:-1, Örebro HUF - Hammarö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e5a7d9f97f2f2ddbda45b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693e5a7d9f97f2f2ddbda45b/index.m3u8
 #EXTINF:-1, Nor/Solstad - Viking HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e4f66b4e4af00beff33f1/index.m3u8
 #EXTINF:-1, Trelleborg - Kristianstad
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e555d9f97f2f2ddbda3fd/index.m3u8
 #EXTINF:-1, Velké Meziříčí - Opočno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fd30e8cf02b3dcbc23984/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692fd30e8cf02b3dcbc23984/index.m3u8
 #EXTINF:-1, Hronov - Spartak Choceň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b812cd5addedaac41c2d4a/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68b812cd5addedaac41c2d4a/index.m3u8
 #EXTINF:-1, Třemošná - Český Krumlov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692fe11e4f917966ed1469db/index.m3u8
 #EXTINF:-1, RoKi - Oulun Kärpät
@@ -31,8 +33,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69392844d9c1b7ecd2fd9e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e5a7d9f97f2f2ddbda455/index.m3u8
 #EXTINF:-1, Tegs SK - Piteå HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e5485b4e4af00beff3439/index.m3u8
-#EXTINF:-1, Salavat Yulaev - Ak Bars
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Strasbourg 2 - Compiègne
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a24a7bdeef97ba532af0/index.m3u8
 #EXTINF:-1, KJT Haukat - Viikingit
