@@ -3,36 +3,26 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1c58c43f-72df-490e-8645-cc59a8942db4/master.m3u8
 #EXTINF:-1, Detroit - Washington
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/652880cf-2327-4957-a0f6-05f05350487f/master.m3u8
+#EXTINF:-1, Chicago - Ottawa Senators
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Biel - Genève-Servette
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, Dukla Jihlava - HC Sokolov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fd853148907a0dbe32e3b.m3u8
 #EXTINF:-1, Chomutov - Frýdek-Místek
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fd88b148907a0dbe32e41.m3u8
-#EXTINF:-1, HC Orli Znojmo - Hodonín
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f78f84/index.m3u8
-#EXTINF:-1, Nový Jičín - Draci Šumperk
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c1aa5109a6801f3cf775d/index.m3u8
-#EXTINF:-1, Kralupy n. Vltavou - Kadaň
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bac3e2a0fb9297e7b933e0/index.m3u8
-#EXTINF:-1, Cheb - Benátky nad Jizerou
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecb9a/index.m3u8
-#EXTINF:-1, Győr ETO HC - FTC II
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933adde7bdeef97ba53194c/index.m3u8
-#EXTINF:-1, Sport. Cápák - Titánok
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933adde7bdeef97ba53194a/index.m3u8
-#EXTINF:-1, Vasas SC - Szeged
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933adde7bdeef97ba531946/index.m3u8
-#EXTINF:-1, HC Humpolec - SK Telč
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c48a63829c1557f6081fc/index.m3u8
 #EXTINF:-1, Hvězda Praha - HC Mělník
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6911aac4a199919ff362f7d8/index.m3u8
 #EXTINF:-1, HC Poděbrady - HC Čáslav
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6930438f4f917966ed146af4/index.m3u8
 #EXTINF:-1, Lomnice - Gepardi Jablonec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b98074c238c71a081b6dd7/index.m3u8
-#EXTINF:-1, Leuven Black - Hasselt
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69355736f7cfc8c7990d0f2a/index.m3u8
+#EXTINF:-1, Nový Jičín - Draci Šumperk
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c1aa5109a6801f3cf775d/index.m3u8
+#EXTINF:-1, Kralupy n. Vltavou - Kadaň
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68bac3e2a0fb9297e7b933e0/index.m3u8
+#EXTINF:-1, Cheb - Benátky nad Jizerou
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecb9a/index.m3u8
 #EXTINF:-1, Corsaires de Nantes - Tours
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532ac4/index.m3u8
 #EXTINF:-1, Épinal - Dunkerque
@@ -46,7 +36,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a24a7bdeef97ba532a
 #EXTINF:-1, Chambéry - Strasbourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532ab2/index.m3u8
 #EXTINF:-1, Dogs de Cholet - Caen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532ab0/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6937a2497bdeef97ba532ab0/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz - Villard
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532ad2/index.m3u8
 #EXTINF:-1, HC Falcons - HC Aosta
@@ -105,6 +95,10 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a24a7bdeef97ba532a
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693550277bdeef97ba5323b8/index.m3u8
 #EXTINF:-1, HYC - Mechelen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693550277bdeef97ba5323ba/index.m3u8
+#EXTINF:-1, Sport. Cápák - Titánok
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933adde7bdeef97ba53194a/index.m3u8
+#EXTINF:-1, Vasas SC - Szeged
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933adde7bdeef97ba531946/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Tours
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532aaa/index.m3u8
 #EXTINF:-1, Marseille 2 - Lyon
