@@ -138,7 +138,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d62d0dc957a27a013164
 #EXTINF:-1, HC Smíchov - Benátky n. J.
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906f48f40899867ab485a64/index.m3u8
 #EXTINF:-1, Nová Paka - Letci Letňany
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69243bdd1ea1b60e809f4f64/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69243bdd1ea1b60e809f4f64/index.m3u8
 #EXTINF:-1, HC DDM ČEB - HC Příbram
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915e58d1ea1b60e809f2751/index.m3u8
 #EXTINF:-1, HK Budapest - DEAC JA
@@ -207,5 +207,11 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693650c8f7cfc8c7990d118f/index.m3u8
 #EXTINF:-1, Meudon 2 - Caen 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a24a7bdeef97ba532afa/index.m3u8
+#EXTINF:-1, Liège Bulldogs - Leuven
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693550277bdeef97ba5323b8/index.m3u8
+#EXTINF:-1, HYC - Mechelen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693550277bdeef97ba5323ba/index.m3u8
+#EXTINF:-1, Biel - Genève-Servette
+https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, Andorra HG - CH Madrid
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694565bb60b7de4a81fe805e/index.m3u8
