@@ -11,34 +11,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a2edfe
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, Nový Jičín - Draci Šumperk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c1aa5109a6801f3cf775d/index.m3u8
-#EXTINF:-1, Cheb - Benátky nad Jizerou
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecb9a/index.m3u8
-#EXTINF:-1, Cadore - Padova Waves
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942ca51148907a0dbe33400/index.m3u8
-#EXTINF:-1, HC Chiavenna - Vinschgau
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942ca52148907a0dbe33402/index.m3u8
-#EXTINF:-1, HC Piné - Valpellice D1
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942ca530d73d3ccbfec318b/index.m3u8
-#EXTINF:-1, HC Smíchov - Benátky n. J.
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6906f48f40899867ab485a64/index.m3u8
-#EXTINF:-1, Nová Paka - Letci Letňany
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69243bdd1ea1b60e809f4f64/index.m3u8
-#EXTINF:-1, HC DDM ČEB - HC Příbram
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915e58d1ea1b60e809f2751/index.m3u8
-#EXTINF:-1, Épinal - Dunkerque
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532ace/index.m3u8
-#EXTINF:-1, Neuilly-sur-Marne - HCMP
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532ad6/index.m3u8
-#EXTINF:-1, Valenciennes - Meudon
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532ab4/index.m3u8
-#EXTINF:-1, Mont-Blanc - Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a24a7bdeef97ba532adc/index.m3u8
-#EXTINF:-1, Chambéry - Strasbourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532ab2/index.m3u8
-#EXTINF:-1, Dogs de Cholet - Caen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6937a2497bdeef97ba532ab0/index.m3u8
-#EXTINF:-1, Morzine-Avoriaz - Villard
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532ad2/index.m3u8
 #EXTINF:-1, Amiens - Dunkerque
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532aa6/index.m3u8
 #EXTINF:-1, Mulhouse - Anglet 2
@@ -57,16 +29,32 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6937a24a7bdeef97ba532a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2487bdeef97ba532a90/index.m3u8
 #EXTINF:-1, Clermont-Ferrand - Annecy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2487bdeef97ba532a90/index.m3u8
+#EXTINF:-1, Nová Paka - Letci Letňany
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69243bdd1ea1b60e809f4f64/index.m3u8
+#EXTINF:-1, HC DDM ČEB - HC Příbram
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915e58d1ea1b60e809f2751/index.m3u8
+#EXTINF:-1, Neuilly-sur-Marne - HCMP
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532ad6/index.m3u8
+#EXTINF:-1, Valenciennes - Meudon
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532ab4/index.m3u8
+#EXTINF:-1, Mont-Blanc - Lyon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a24a7bdeef97ba532adc/index.m3u8
+#EXTINF:-1, Chambéry - Strasbourg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532ab2/index.m3u8
+#EXTINF:-1, Dogs de Cholet - Caen
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6937a2497bdeef97ba532ab0/index.m3u8
+#EXTINF:-1, Morzine-Avoriaz - Villard
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6937a2497bdeef97ba532ad2/index.m3u8
 #EXTINF:-1, HCMV Varese - SV Kaltern
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edba89696da69144226f/index.m3u8
 #EXTINF:-1, Fassa Falcons - HC Feltre
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edb91d615b78791f465c/index.m3u8
 #EXTINF:-1, Alleghe Hockey - Pergine
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edbb89696da691442271/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edbb89696da691442271/index.m3u8
 #EXTINF:-1, Valdifiemme HC - Eppan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edbb89696da691442273/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edbb89696da691442273/index.m3u8
 #EXTINF:-1, HC Valpellice - Zinnen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edbc1d615b78791f465e/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edbc1d615b78791f465e/index.m3u8
 #EXTINF:-1, Wasquehal - Garges
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693650c8f7cfc8c7990d118f/index.m3u8
 #EXTINF:-1, Meudon 2 - Caen 2
@@ -79,9 +67,13 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693550277bdeef97ba5323
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933adde7bdeef97ba53194a/index.m3u8
 #EXTINF:-1, Vasas SC - Szeged
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933adde7bdeef97ba531946/index.m3u8
+#EXTINF:-1, HC Chiavenna - Vinschgau
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942ca52148907a0dbe33402/index.m3u8
+#EXTINF:-1, HC Piné - Valpellice D1
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942ca530d73d3ccbfec318b/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Tours
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a2497bdeef97ba532aaa/index.m3u8
 #EXTINF:-1, Marseille 2 - Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6937a24a7bdeef97ba532ade/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6937a24a7bdeef97ba532ade/index.m3u8
 #EXTINF:-1, Andorra HG - CH Madrid
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694565bb60b7de4a81fe805e/index.m3u8
