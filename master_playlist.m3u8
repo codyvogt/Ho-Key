@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Salavat Yulaev - Ak Bars
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Lokomotiv - Avangard
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Lahden Pelicans - TPS
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693cf310b4e4af00beff2f60/index.m3u8
 #EXTINF:-1, JYP - Tappara Tampere
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf3109f97f2f2ddbd9f51/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693cf3109f97f2f2ddbd9f51/index.m3u8
 #EXTINF:-1, Mikkelin Jukurit - KooKoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf310b4e4af00beff2f57/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - Jokerit
@@ -26,7 +28,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf3109f97f2f2ddbd9f
 #EXTINF:-1, Keuruun Pallo HT - APV
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf3109f97f2f2ddbd9f53/index.m3u8
 #EXTINF:-1, HPK Akatemia - K-Espoo Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693cf310b4e4af00beff2f71/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693cf310b4e4af00beff2f71/index.m3u8
 #EXTINF:-1, SHK Laima - Sostine LRA
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69392844d9c1b7ecd2fd9e78/index.m3u8
 #EXTINF:-1, Kiruna IF - Kovlands IshF
