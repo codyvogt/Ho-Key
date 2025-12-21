@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Škoda Plzeň - Pardubice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6943b8b3148907a0dbe3350f.m3u8
 #EXTINF:-1, HC Olomouc - HC Litvínov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b8d80d73d3ccbfec32e5.m3u8
 #EXTINF:-1, České Budějovice - Třinec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8c8148907a0dbe33511.m3u8
 #EXTINF:-1, Washington - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78f5186a-1a30-425e-857c-c34d5e5b2fc5/master.m3u8
-#EXTINF:-1, HC Örnen - IFK Hallsberg 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fabfb0d73d3ccbfec29dd/index.m3u8
-#EXTINF:-1, Munkedals BK - Falköping
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9d7d0d73d3ccbfec2955/index.m3u8
-#EXTINF:-1, Lerums BK - LN 70 HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9a140d73d3ccbfec2937/index.m3u8
 #EXTINF:-1, Pardubice B - Dukla Jihlava
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd8e3148907a0dbe32e47.m3u8
 #EXTINF:-1, Vsetín - Stadion Litoměřice
@@ -30,7 +22,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d8c1640899867ab4868
 #EXTINF:-1, Česká Třebová - Jaroměř
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdea/index.m3u8
 #EXTINF:-1, Radomyšl - Hluboká n. Vlt.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69254714109a6801f3cf8de9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69254714109a6801f3cf8de9/index.m3u8
+#EXTINF:-1, Munkedals BK - Falköping
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9d7d0d73d3ccbfec2955/index.m3u8
+#EXTINF:-1, Lerums BK - LN 70 HC
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9a140d73d3ccbfec2937/index.m3u8
 #EXTINF:-1, Amiens - Grenoble
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3c9d9c1b7ecd2fd9db5/index.m3u8
 #EXTINF:-1, Caen - Villard-de-Lans
@@ -60,7 +56,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942ca5c148907a0dbe334
 #EXTINF:-1, Leuven Chiefs - Liège
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936a1a6f7cfc8c7990d15c4/index.m3u8
 #EXTINF:-1, EHC Neuwied - HYC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936a1a67bdeef97ba5328a6/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6936a1a67bdeef97ba5328a6/index.m3u8
 #EXTINF:-1, Skärgården - Ramberget
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fae890d73d3ccbfec29fd/index.m3u8
 #EXTINF:-1, Åby HC - Duells PHK
