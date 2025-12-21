@@ -15,18 +15,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8b3148907a0dbe335
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8d80d73d3ccbfec32e5.m3u8
 #EXTINF:-1, České Budějovice - Třinec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8c8148907a0dbe33511.m3u8
-#EXTINF:-1, HC Panter - Hockey Punks
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692da37e16f70321bf92347a/index.m3u8
 #EXTINF:-1, CG Puigcerdà - CH Madrid
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6945652340f960cadd2dbd07/index.m3u8
 #EXTINF:-1, Jelgavas LSS - HK Prizma
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693bd2bab4e4af00beff2c53/index.m3u8
-#EXTINF:-1, Amiens 2 - Dunkerque
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3c8d9c1b7ecd2fd9d75/index.m3u8
-#EXTINF:-1, Caen 2 - Ducs d'Angers 2
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6938f3cad9c1b7ecd2fd9dc5/index.m3u8
-#EXTINF:-1, Cergy-Pont. - Courbevoie
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
 #EXTINF:-1, LeKi - Kajaanin Hokki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e4490b4e4af00beff33a5/index.m3u8
 #EXTINF:-1, Imatran Ketterä - FoPS
@@ -42,13 +34,17 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690b67a840899867ab4864
 #EXTINF:-1, Stadion Vrchlabí - Benešov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8d1959e90c3f91fbbd3e/index.m3u8
 #EXTINF:-1, HC Strakonice - Domažlice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925470d1ea1b60e809f517c/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6925470d1ea1b60e809f517c/index.m3u8
 #EXTINF:-1, Klášterec nad Ohří - Louny
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912e026350f03ad08f4b940/index.m3u8
 #EXTINF:-1, Benátky n. J. - Nová Paka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df83b5c62be9451d65e9e5/index.m3u8
 #EXTINF:-1, Bodens HF - Örnsköldsvik
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa29a148907a0dbe32d45/index.m3u8
+#EXTINF:-1, Caen 2 - Ducs d'Angers 2
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6938f3cad9c1b7ecd2fd9dc5/index.m3u8
+#EXTINF:-1, Cergy-Pont. - Courbevoie
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
 #EXTINF:-1, Příbram - Valašské Meziříčí
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693276158cf02b3dcbc24070/index.m3u8
 #EXTINF:-1, Vänersborgs HC - Vetlanda
@@ -102,7 +98,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fd8f70d73d3ccbfec2a
 #EXTINF:-1, ZUBR Přerov - Berani Zlín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fd908148907a0dbe32e4d.m3u8
 #EXTINF:-1, Králové Písek - Chomutov B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931950d4f917966ed146eb5/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6931950d4f917966ed146eb5/index.m3u8
 #EXTINF:-1, HC Tábor - HC ZUBR Přerov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f230ec50c8e37c3b1dcfb9/index.m3u8
 #EXTINF:-1, KRIF Hockey - IF Mölndal
