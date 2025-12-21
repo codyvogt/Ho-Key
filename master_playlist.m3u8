@@ -3,6 +3,18 @@
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Lada
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Ml. Boleslav - Karlovy Vary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b83c0d73d3ccbfec32e3.m3u8
+#EXTINF:-1, Mountfield - Kometa Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b82a148907a0dbe3350d.m3u8
+#EXTINF:-1, Bílí Tygři Liberec - Kladno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b818148907a0dbe3350b.m3u8
+#EXTINF:-1, Škoda Plzeň - Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8b3148907a0dbe3350f.m3u8
+#EXTINF:-1, HC Olomouc - HC Litvínov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8d80d73d3ccbfec32e5.m3u8
+#EXTINF:-1, České Budějovice - Třinec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8c8148907a0dbe33511.m3u8
 #EXTINF:-1, Meudon - Neuilly-sur-Marne
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3c9d9c1b7ecd2fd9d7f/index.m3u8
 #EXTINF:-1, Amiens 2 - Dunkerque
@@ -46,7 +58,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942ca5c148907a0dbe334
 #EXTINF:-1, Bodens HF - Örnsköldsvik
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa29a148907a0dbe32d45/index.m3u8
 #EXTINF:-1, Příbram - Valašské Meziříčí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693276158cf02b3dcbc24070/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693276158cf02b3dcbc24070/index.m3u8
 #EXTINF:-1, Vänersborgs HC - Vetlanda
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693faa470d73d3ccbfec29c3/index.m3u8
 #EXTINF:-1, Kils AIK U23 - Sunne IK
@@ -54,7 +66,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa529148907a0dbe32d
 #EXTINF:-1, Frederikshavn - Rungsted
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693697197bdeef97ba532830.m3u8
 #EXTINF:-1, Sønderjyske - Herlev
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693697197bdeef97ba53282e.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693697197bdeef97ba53282e.m3u8
 #EXTINF:-1, Odense Bulldogs - Rødovre
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693697197bdeef97ba532846.m3u8
 #EXTINF:-1, Härryda HC - Stenungsund
@@ -101,6 +113,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fd908148907a0dbe32e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931950d4f917966ed146eb5/index.m3u8
 #EXTINF:-1, HC Tábor - HC ZUBR Přerov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f230ec50c8e37c3b1dcfb9/index.m3u8
+#EXTINF:-1, KRIF Hockey - IF Mölndal
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa96d0d73d3ccbfec29ba/index.m3u8
+#EXTINF:-1, Jonstorps IF - Sörhaga
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa3760d73d3ccbfec2985/index.m3u8
+#EXTINF:-1, Motala AIF HK - Olofström
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa896148907a0dbe32dac/index.m3u8
 #EXTINF:-1, Bats Blansko - Prostějov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928225568db0e69ca280f69/index.m3u8
 #EXTINF:-1, Gomel - Yunost Minsk
