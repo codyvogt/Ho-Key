@@ -3,20 +3,22 @@
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Lada
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Meudon - Neuilly-sur-Marne
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3c9d9c1b7ecd2fd9d7f/index.m3u8
+#EXTINF:-1, Amiens 2 - Dunkerque
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3c8d9c1b7ecd2fd9d75/index.m3u8
+#EXTINF:-1, Caen 2 - Ducs d'Angers 2
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6938f3cad9c1b7ecd2fd9dc5/index.m3u8
+#EXTINF:-1, Cergy-Pont. - Courbevoie
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
 #EXTINF:-1, HC Panter - Hockey Punks
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692da37e16f70321bf92347a/index.m3u8
-#EXTINF:-1, Gomel - Yunost Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Kobra Praha - Vlci Jablonec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692981dd59e90c3f91fbb824/index.m3u8
-#EXTINF:-1, Litoměřice - Čerti Ostrov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942804d0d73d3ccbfec307f/index.m3u8
 #EXTINF:-1, Ústí n. L. - Karlovy Vary B
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691ee7cd109a6801f3cf7c19/index.m3u8
 #EXTINF:-1, Pilsen Wolves - Tábor B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932f4a6f7cfc8c7990d02c7/index.m3u8
 #EXTINF:-1, HC Humpolec - HC Klatovy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690b67a840899867ab4864b3/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690b67a840899867ab4864b3/index.m3u8
 #EXTINF:-1, MSK Orlová - Uherský Brod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68d3c24ec957a27a01316068/index.m3u8
 #EXTINF:-1, Stadion Vrchlabí - Benešov
@@ -27,16 +29,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925470d1ea1b60e809f51
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912e026350f03ad08f4b940/index.m3u8
 #EXTINF:-1, Benátky n. J. - Nová Paka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df83b5c62be9451d65e9e5/index.m3u8
-#EXTINF:-1, Nantes 2 - Rennes
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3cad9c1b7ecd2fd9dcd/index.m3u8
-#EXTINF:-1, Meudon - Neuilly-sur-Marne
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3c9d9c1b7ecd2fd9d7f/index.m3u8
-#EXTINF:-1, Amiens 2 - Dunkerque
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3c8d9c1b7ecd2fd9d75/index.m3u8
-#EXTINF:-1, Caen 2 - Ducs d'Angers 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3cad9c1b7ecd2fd9dc5/index.m3u8
-#EXTINF:-1, Cergy-Pont. - Courbevoie
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
 #EXTINF:-1, Peliitat - TPS Akatemia
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693e4490b4e4af00beff336c/index.m3u8
 #EXTINF:-1, CG Puigcerdà - CH Madrid
@@ -111,3 +103,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931950d4f917966ed146e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f230ec50c8e37c3b1dcfb9/index.m3u8
 #EXTINF:-1, Bats Blansko - Prostějov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928225568db0e69ca280f69/index.m3u8
+#EXTINF:-1, Gomel - Yunost Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
