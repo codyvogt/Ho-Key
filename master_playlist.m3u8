@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Avtomobilist - Admiral
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Lada
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Sparta Praha - Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69480295f07a4249fe5ef3c8.m3u8
 #EXTINF:-1, Ml. Boleslav - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b83c0d73d3ccbfec32e3.m3u8
 #EXTINF:-1, Mountfield - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b82a148907a0dbe3350d.m3u8
 #EXTINF:-1, Bílí Tygři Liberec - Kladno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b818148907a0dbe3350b.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b818148907a0dbe3350b.m3u8
 #EXTINF:-1, Škoda Plzeň - Pardubice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8b3148907a0dbe3350f.m3u8
 #EXTINF:-1, HC Olomouc - HC Litvínov
