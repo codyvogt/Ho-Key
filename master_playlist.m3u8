@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Dinamo Minsk - Lada
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Sparta Praha - Vítkovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69480295f07a4249fe5ef3c8.m3u8
 #EXTINF:-1, Ml. Boleslav - Karlovy Vary
@@ -15,12 +13,8 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6943b8b3148907a0dbe335
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b8d80d73d3ccbfec32e5.m3u8
 #EXTINF:-1, České Budějovice - Třinec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8c8148907a0dbe33511.m3u8
-#EXTINF:-1, Stadion Vrchlabí - Benešov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8d1959e90c3f91fbbd3e/index.m3u8
-#EXTINF:-1, Klášterec nad Ohří - Louny
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912e026350f03ad08f4b940/index.m3u8
-#EXTINF:-1, Benátky n. J. - Nová Paka
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df83b5c62be9451d65e9e5/index.m3u8
+#EXTINF:-1, Washington - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78f5186a-1a30-425e-857c-c34d5e5b2fc5/master.m3u8
 #EXTINF:-1, Piráti Chomutov - Tábor
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd89d0d73d3ccbfec2ab6.m3u8
 #EXTINF:-1, SC Kolín - Slavia Praha
@@ -33,8 +27,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd8e3148907a0dbe32e
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693fd8f70d73d3ccbfec2abb.m3u8
 #EXTINF:-1, ZUBR Přerov - Berani Zlín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fd908148907a0dbe32e4d.m3u8
-#EXTINF:-1, Odense Bulldogs - Rødovre
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693697197bdeef97ba532846.m3u8
 #EXTINF:-1, KRIF Hockey - IF Mölndal
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa96d0d73d3ccbfec29ba/index.m3u8
 #EXTINF:-1, Jonstorps IF - Sörhaga
@@ -65,6 +57,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fabfb0d73d3ccbfec29
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9d7d0d73d3ccbfec2955/index.m3u8
 #EXTINF:-1, Lerums BK - LN 70 HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9a140d73d3ccbfec2937/index.m3u8
+#EXTINF:-1, Klášterec nad Ohří - Louny
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912e026350f03ad08f4b940/index.m3u8
+#EXTINF:-1, Benátky n. J. - Nová Paka
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df83b5c62be9451d65e9e5/index.m3u8
 #EXTINF:-1, HC Tábor - HC ZUBR Přerov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f230ec50c8e37c3b1dcfb9/index.m3u8
 #EXTINF:-1, Angers - Cergy-Pontoise
