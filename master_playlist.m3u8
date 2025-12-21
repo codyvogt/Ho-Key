@@ -7,12 +7,6 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692da37e16f70321bf92347a/index.m3u8
 #EXTINF:-1, Gomel - Yunost Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Kalix HC - Umeå HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693fa896148907a0dbe32daa/index.m3u8
-#EXTINF:-1, Bodens HF - Örnsköldsvik
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa29a148907a0dbe32d45/index.m3u8
-#EXTINF:-1, Kutná Hora - Česká Lípa
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69351914f7cfc8c7990d0d34/index.m3u8
 #EXTINF:-1, Kobra Praha - Vlci Jablonec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692981dd59e90c3f91fbb824/index.m3u8
 #EXTINF:-1, Litoměřice - Čerti Ostrov
@@ -33,8 +27,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6925470d1ea1b60e809f51
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912e026350f03ad08f4b940/index.m3u8
 #EXTINF:-1, Benátky n. J. - Nová Paka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68df83b5c62be9451d65e9e5/index.m3u8
-#EXTINF:-1, AIK - Timrå IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693facd60d73d3ccbfec29f1/index.m3u8
 #EXTINF:-1, Nantes 2 - Rennes
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3cad9c1b7ecd2fd9dcd/index.m3u8
 #EXTINF:-1, Meudon - Neuilly-sur-Marne
@@ -59,6 +51,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e4490b4e4af00beff33
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942ca5a148907a0dbe33408/index.m3u8
 #EXTINF:-1, Zoldo - Trentino Women
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942ca5c148907a0dbe3340c/index.m3u8
+#EXTINF:-1, Bodens HF - Örnsköldsvik
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa29a148907a0dbe32d45/index.m3u8
 #EXTINF:-1, Příbram - Valašské Meziříčí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693276158cf02b3dcbc24070/index.m3u8
 #EXTINF:-1, Vänersborgs HC - Vetlanda
