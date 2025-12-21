@@ -1,32 +1,22 @@
 #EXTM3U
-#EXTINF:-1, Vegas - Calgary Flames
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/575488f8-0273-4fca-9872-7f0b8ef076d7/master.m3u8
-#EXTINF:-1, Columbus - Anaheim Ducks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f51ef5b0-1735-4335-b1e0-fb572c43f9bc/master.m3u8
-#EXTINF:-1, Seattle - San Jose Sharks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9186daed-b0fb-4482-9429-d52435b7f27a/master.m3u8
-#EXTINF:-1, Nikko - Red Eagles
-https://nl.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1, HK Kroměříž - Orli Znojmo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69366a8df7cfc8c7990d133c/index.m3u8
+#EXTINF:-1, Sibir Novosibirsk - Amur
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Gomel - Yunost Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Lomnice - Velké Popovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ef63bd50c8e37c3b1dc7f1/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ef63bd50c8e37c3b1dc7f1/index.m3u8
 #EXTINF:-1, Kutná Hora - Česká Lípa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69351914f7cfc8c7990d0d34/index.m3u8
 #EXTINF:-1, Kobra Praha - Vlci Jablonec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692981dd59e90c3f91fbb824/index.m3u8
 #EXTINF:-1, Litoměřice - Čerti Ostrov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942804d0d73d3ccbfec307f/index.m3u8
-#EXTINF:-1, Gomel - Yunost Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Sibir Novosibirsk - Amur
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Vysočina - Valkyries Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69355f658062818e12ab54e0/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69355f658062818e12ab54e0/index.m3u8
 #EXTINF:-1, Bats Blansko - Prostějov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928225568db0e69ca280f69/index.m3u8
 #EXTINF:-1, IPK - Kiekko-Vantaa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e4490b4e4af00beff33a8/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693e4490b4e4af00beff33a8/index.m3u8
 #EXTINF:-1, JYP Akatemia - Hermes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e4490b4e4af00beff33ac/index.m3u8
 #EXTINF:-1, LeKi - Kajaanin Hokki
