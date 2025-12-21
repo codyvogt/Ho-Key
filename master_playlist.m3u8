@@ -1,44 +1,22 @@
 #EXTM3U
-#EXTINF:-1, HC Olomouc - HC Litvínov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b8d80d73d3ccbfec32e5.m3u8
-#EXTINF:-1, České Budějovice - Třinec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8c8148907a0dbe33511.m3u8
 #EXTINF:-1, Washington - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78f5186a-1a30-425e-857c-c34d5e5b2fc5/master.m3u8
-#EXTINF:-1, Pardubice B - Dukla Jihlava
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd8e3148907a0dbe32e47.m3u8
 #EXTINF:-1, Vsetín - Stadion Litoměřice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693fd8f70d73d3ccbfec2abb.m3u8
 #EXTINF:-1, ZUBR Přerov - Berani Zlín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fd908148907a0dbe32e4d.m3u8
-#EXTINF:-1, Motala AIF HK - Olofström
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fa896148907a0dbe32dac/index.m3u8
-#EXTINF:-1, HC Milevsko B - Strakonice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/691818151ea1b60e809f2dd8/index.m3u8
-#EXTINF:-1, Třebechovice - Lanškroun
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f1dc8f50c8e37c3b1dcd58/index.m3u8
-#EXTINF:-1, HC Chotěboř - Pelhřimov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d8c1640899867ab4868ba/index.m3u8
-#EXTINF:-1, Česká Třebová - Jaroměř
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdea/index.m3u8
-#EXTINF:-1, Radomyšl - Hluboká n. Vlt.
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69254714109a6801f3cf8de9/index.m3u8
-#EXTINF:-1, Munkedals BK - Falköping
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9d7d0d73d3ccbfec2955/index.m3u8
+#EXTINF:-1, Cergy-Pont. - Courbevoie
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
 #EXTINF:-1, Lerums BK - LN 70 HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693f9a140d73d3ccbfec2937/index.m3u8
-#EXTINF:-1, Amiens - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3c9d9c1b7ecd2fd9db5/index.m3u8
+#EXTINF:-1, Gomel - Yunost Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Caen - Villard-de-Lans
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3c9d9c1b7ecd2fd9db1/index.m3u8
 #EXTINF:-1, HC 74 - Cergy-Pontoise
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6938f3cad9c1b7ecd2fd9dbb/index.m3u8
 #EXTINF:-1, Strasbourg - Ducs d'Angers
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3cad9c1b7ecd2fd9dbf/index.m3u8
-#EXTINF:-1, Cergy-Pont. - Courbevoie
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
-#EXTINF:-1, Gomel - Yunost Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Rouen - Marseille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e608/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Amiens
@@ -49,6 +27,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850d9d2a1a468257e5
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850e9d2a1a468257e60c/index.m3u8
 #EXTINF:-1, Chamonix - Briançon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f7a/index.m3u8
+#EXTINF:-1, Česká Třebová - Jaroměř
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdea/index.m3u8
+#EXTINF:-1, Radomyšl - Hluboká n. Vlt.
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69254714109a6801f3cf8de9/index.m3u8
 #EXTINF:-1, Toronto - New York Sirens
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Zoldo - Trentino Women
