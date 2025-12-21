@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Sibir Novosibirsk - Amur
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Avtomobilist - Admiral
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1, Dinamo Minsk - Lada
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Gomel - Yunost Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Lomnice - Velké Popovice
@@ -18,7 +22,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928225568db0e69ca280f
 #EXTINF:-1, IPK - Kiekko-Vantaa
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693e4490b4e4af00beff33a8/index.m3u8
 #EXTINF:-1, JYP Akatemia - Hermes
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e4490b4e4af00beff33ac/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693e4490b4e4af00beff33ac/index.m3u8
 #EXTINF:-1, LeKi - Kajaanin Hokki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e4490b4e4af00beff33a5/index.m3u8
 #EXTINF:-1, Imatran Ketterä - FoPS
