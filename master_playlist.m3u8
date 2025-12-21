@@ -15,18 +15,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6943b8b3148907a0dbe335
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8d80d73d3ccbfec32e5.m3u8
 #EXTINF:-1, České Budějovice - Třinec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8c8148907a0dbe33511.m3u8
-#EXTINF:-1, Pilsen Wolves - Tábor B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932f4a6f7cfc8c7990d02c7/index.m3u8
-#EXTINF:-1, HC Humpolec - HC Klatovy
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690b67a840899867ab4864b3/index.m3u8
-#EXTINF:-1, Stadion Vrchlabí - Benešov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8d1959e90c3f91fbbd3e/index.m3u8
-#EXTINF:-1, HC Strakonice - Domažlice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6925470d1ea1b60e809f517c/index.m3u8
-#EXTINF:-1, Klášterec nad Ohří - Louny
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912e026350f03ad08f4b940/index.m3u8
-#EXTINF:-1, Benátky n. J. - Nová Paka
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df83b5c62be9451d65e9e5/index.m3u8
 #EXTINF:-1, Bodens HF - Örnsköldsvik
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa29a148907a0dbe32d45/index.m3u8
 #EXTINF:-1, Caen 2 - Ducs d'Angers 2
@@ -75,6 +63,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fabfb0d73d3ccbfec29
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693f9d7d0d73d3ccbfec2955/index.m3u8
 #EXTINF:-1, Lerums BK - LN 70 HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693f9a140d73d3ccbfec2937/index.m3u8
+#EXTINF:-1, Stadion Vrchlabí - Benešov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8d1959e90c3f91fbbd3e/index.m3u8
+#EXTINF:-1, HC Strakonice - Domažlice
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6925470d1ea1b60e809f517c/index.m3u8
+#EXTINF:-1, Klášterec nad Ohří - Louny
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912e026350f03ad08f4b940/index.m3u8
+#EXTINF:-1, Benátky n. J. - Nová Paka
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68df83b5c62be9451d65e9e5/index.m3u8
 #EXTINF:-1, Piráti Chomutov - Tábor
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd89d0d73d3ccbfec2ab6.m3u8
 #EXTINF:-1, SC Kolín - Slavia Praha
@@ -98,7 +94,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa3760d73d3ccbfec29
 #EXTINF:-1, Motala AIF HK - Olofström
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fa896148907a0dbe32dac/index.m3u8
 #EXTINF:-1, Angers - Cergy-Pontoise
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e5f6/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e5f6/index.m3u8
 #EXTINF:-1, Rouen - Marseille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e608/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Amiens
