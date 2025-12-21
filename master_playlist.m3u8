@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Washington - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78f5186a-1a30-425e-857c-c34d5e5b2fc5/master.m3u8
-#EXTINF:-1, Rouen - Marseille
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e608/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Amiens
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f82/index.m3u8
 #EXTINF:-1, Bordeaux - Grenoble
@@ -11,14 +9,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850d9d2a1a468257e5
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850e9d2a1a468257e60c/index.m3u8
 #EXTINF:-1, Chamonix - Briançon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f7a/index.m3u8
-#EXTINF:-1, HC 74 - Cergy-Pontoise
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6938f3cad9c1b7ecd2fd9dbb/index.m3u8
 #EXTINF:-1, Strasbourg - Ducs d'Angers
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3cad9c1b7ecd2fd9dbf/index.m3u8
-#EXTINF:-1, Toronto - New York Sirens
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Leuven Chiefs - Liège
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936a1a6f7cfc8c7990d15c4/index.m3u8
 #EXTINF:-1, EHC Neuwied - HYC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6936a1a67bdeef97ba5328a6/index.m3u8
 #EXTINF:-1, Radomyšl - Hluboká n. Vlt.
