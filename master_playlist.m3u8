@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Sparta Praha - Vítkovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69480295f07a4249fe5ef3c8.m3u8
-#EXTINF:-1, Ml. Boleslav - Karlovy Vary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b83c0d73d3ccbfec32e3.m3u8
 #EXTINF:-1, Mountfield - Kometa Brno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6943b82a148907a0dbe3350d.m3u8
-#EXTINF:-1, Bílí Tygři Liberec - Kladno
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b818148907a0dbe3350b.m3u8
 #EXTINF:-1, Škoda Plzeň - Pardubice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6943b8b3148907a0dbe3350f.m3u8
 #EXTINF:-1, HC Olomouc - HC Litvínov
@@ -17,8 +11,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b8c8148907a0dbe335
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78f5186a-1a30-425e-857c-c34d5e5b2fc5/master.m3u8
 #EXTINF:-1, SC Kolín - Slavia Praha
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd8d0148907a0dbe32e43.m3u8
-#EXTINF:-1, HC Poruba - Slavia Třebíč
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd8be0d73d3ccbfec2ab8.m3u8
 #EXTINF:-1, Pardubice B - Dukla Jihlava
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fd8e3148907a0dbe32e47.m3u8
 #EXTINF:-1, Vsetín - Stadion Litoměřice
@@ -66,9 +58,9 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e5
 #EXTINF:-1, Rouen - Marseille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e608/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Amiens
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f82/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f82/index.m3u8
 #EXTINF:-1, Bordeaux - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850d9d2a1a468257e5f2/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850d9d2a1a468257e5f2/index.m3u8
 #EXTINF:-1, Hormadi d'Anglet - Nice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e60c/index.m3u8
 #EXTINF:-1, Chamonix - Briançon
@@ -94,7 +86,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3c9d9c1b7ecd2fd9d
 #EXTINF:-1, HC 74 - Cergy-Pontoise
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6938f3cad9c1b7ecd2fd9dbb/index.m3u8
 #EXTINF:-1, Strasbourg - Ducs d'Angers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6938f3cad9c1b7ecd2fd9dbf/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6938f3cad9c1b7ecd2fd9dbf/index.m3u8
 #EXTINF:-1, Cergy-Pont. - Courbevoie
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691409cb109a6801f3cf5f12/index.m3u8
 #EXTINF:-1, Gomel - Yunost Minsk
