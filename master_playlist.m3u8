@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Pittsburgh - Toronto
-https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1, Gap - Chamonix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850db4c8ed39e3473e6a/index.m3u8
 #EXTINF:-1, Grenoble - Ducs d'Angers
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850db4c8ed39e3473e68/index.m3u8
 #EXTINF:-1, Amiens - Bordeaux
@@ -13,11 +9,9 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e5
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e600/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Anglet
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850e9d2a1a468257e5fe/index.m3u8
-#EXTINF:-1, Eppan Pirates - Varese
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edbd1d615b78791f4660/index.m3u8
-#EXTINF:-1, Aosta - Valpellice Bulldogs
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edbf89696da691442277/index.m3u8
 #EXTINF:-1, SV Kaltern - Fassa Falcons
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edbe89696da691442275/index.m3u8
 #EXTINF:-1, HC Feltre - Alleghe Hockey
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942ee830d73d3ccbfec3216/index.m3u8
+#EXTINF:-1, Pittsburgh - Toronto
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
