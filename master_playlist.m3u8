@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rytíři Kladno - Pardubice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6943b9810d73d3ccbfec32ef.m3u8
-#EXTINF:-1, Kometa Brno - Škoda Plzeň
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b96b0d73d3ccbfec32ed.m3u8
-#EXTINF:-1, Sparta Praha - HC Olomouc
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6949166640f960cadd2dc5a3.m3u8
-#EXTINF:-1, HK Zemgale - HC Panter
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692da3a09212aed228fa9551/index.m3u8
 #EXTINF:-1, Pergine - Valdifiemme
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc089696da691442279/index.m3u8
 #EXTINF:-1, Eppan Pirates - Varese
@@ -16,9 +8,9 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edbf89696da6914422
 #EXTINF:-1, Zinnen Dolomites - Falcons
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc01d615b78791f4664/index.m3u8
 #EXTINF:-1, SV Kaltern - Fassa Falcons
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edbe89696da691442275/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edbe89696da691442275/index.m3u8
 #EXTINF:-1, HC Feltre - Alleghe Hockey
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942ee830d73d3ccbfec3216/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942ee830d73d3ccbfec3216/index.m3u8
 #EXTINF:-1, SCL Tigers - HC Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, Gap - Chamonix
