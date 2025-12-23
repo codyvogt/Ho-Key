@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Karlovy Vary - Motor ČEB
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6943b902148907a0dbe33513.m3u8
+#EXTINF:-1, Torpedo Nizhny - Sochi
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1, Lokomotiv - Admiral
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, Severstal - CSKA Moscow
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1, Dinamo Minsk - Dynamo M
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Vítkovice - Liberec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b9150d73d3ccbfec32e7.m3u8
 #EXTINF:-1, Litvínov - Mladá Boleslav
@@ -11,14 +17,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6943b9810d73d3ccbfec32
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943b96b0d73d3ccbfec32ed.m3u8
 #EXTINF:-1, Sparta Praha - HC Olomouc
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6949166640f960cadd2dc5a3.m3u8
-#EXTINF:-1, Torpedo Nizhny - Sochi
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1, Lokomotiv - Admiral
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Severstal - CSKA Moscow
-https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:-1, Dinamo Minsk - Dynamo M
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HK Zemgale - HC Panter
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692da3a09212aed228fa9551/index.m3u8
 #EXTINF:-1, Pergine - Valdifiemme
@@ -35,3 +33,15 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edbe89696da6914422
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942ee830d73d3ccbfec3216/index.m3u8
 #EXTINF:-1, SCL Tigers - HC Lugano
 https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, Gap - Chamonix
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850db4c8ed39e3473e6a/index.m3u8
+#EXTINF:-1, Grenoble - Ducs d'Angers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850db4c8ed39e3473e68/index.m3u8
+#EXTINF:-1, Amiens - Bordeaux
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e5fc/index.m3u8
+#EXTINF:-1, Marseille - Briançon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e5fa/index.m3u8
+#EXTINF:-1, Aigles de Nice - Rouen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e600/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Anglet
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e5fe/index.m3u8
