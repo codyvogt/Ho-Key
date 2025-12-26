@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Sweden - Slovakia
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, Mountfield HK - Litvínov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a5f0685dc8b3980094599.m3u8
-#EXTINF:-1, Liberec - HC Karlovy Vary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a5f1585dc8b398009459b.m3u8
 #EXTINF:-1, Škoda Plzeň - Rytíři Kladno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a5f251e7e2c7b160e582b.m3u8
 #EXTINF:-1, HC Olomouc - HC Vítkovice
@@ -13,8 +13,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a5f5985dc8b39800945
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a5f351e7e2c7b160e582d.m3u8
 #EXTINF:-1, Shanghai - Neftekhimik
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Sweden - Slovakia
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, Canada - US Collegiate
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
