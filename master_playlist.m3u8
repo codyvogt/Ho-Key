@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avangard - Metallurg Mg
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - SKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Shanghai - Neftekhimik
@@ -21,9 +19,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a5f4485dc8b39800945
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a5f5985dc8b39800945a1.m3u8
 #EXTINF:-1, Dynamo Pardubice - Třinec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a5f351e7e2c7b160e582d.m3u8
+#EXTINF:-1, Sweden - Slovakia
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, Germany - Czech Republic
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69494ae185dc8b39800943b6/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693152614f917966ed146de5/index.m3u8
-#EXTINF:-1, Sweden - Slovakia
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
