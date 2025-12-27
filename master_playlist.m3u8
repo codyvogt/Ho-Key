@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HIFK - Sparta Praha
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, HC Davos - US Collegiate
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Slavia Praha - VHK Vsetín
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69450a05bbeb6f48c2a91184.m3u8
 #EXTINF:-1, Berani Zlín - Chomutov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69450a1cbbeb6f48c2a91186.m3u8
 #EXTINF:-1, Slavia Třebíč - ZUBR Přerov
@@ -17,8 +11,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69450a77455a8f52ce8199
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69450a46bbeb6f48c2a9118a.m3u8
 #EXTINF:-1, Dukla Jihlava - SC Kolín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a73e185dc8b39800945b1.m3u8
-#EXTINF:-1, SHK Ozolnieki - Kurbads
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e16127c62be9451d65ef3f/index.m3u8
 #EXTINF:-1, Valpellice D1 - Cadore
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6945325a455a8f52ce819a20/index.m3u8
 #EXTINF:-1, Gherdëina D1 - Pinerolo
@@ -30,7 +22,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453258bbeb6f48c2a912
 #EXTINF:-1, Eagles Südtirol - Piemont
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453314455a8f52ce819a41/index.m3u8
 #EXTINF:-1, Roosa Panter - Grizzlyz
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693daaced6deee2e43a96f01/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693daaced6deee2e43a96f01/index.m3u8
 #EXTINF:-1, HC Falcons - HC Feltre
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc21d615b78791f4666/index.m3u8
 #EXTINF:-1, Varese - Zinnen Dolomites
