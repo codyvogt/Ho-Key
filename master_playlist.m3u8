@@ -13,14 +13,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69450a77455a8f52ce8199
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69450a46bbeb6f48c2a9118a.m3u8
 #EXTINF:-1, Dukla Jihlava - SC Kolín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a73e185dc8b39800945b1.m3u8
-#EXTINF:-1, Gherdëina D1 - Pinerolo
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69453259bbeb6f48c2a9126f/index.m3u8
-#EXTINF:-1, Hockey Como - Chiavenna
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453259455a8f52ce819a1e/index.m3u8
-#EXTINF:-1, HC Trento - HC Piné
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453258bbeb6f48c2a9126d/index.m3u8
-#EXTINF:-1, Eagles Südtirol - Piemont
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453314455a8f52ce819a41/index.m3u8
 #EXTINF:-1, Roosa Panter - Grizzlyz
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693daaced6deee2e43a96f01/index.m3u8
 #EXTINF:-1, HC Falcons - HC Feltre
@@ -33,6 +25,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc389696da6914422
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc489696da691442281/index.m3u8
 #EXTINF:-1, HC Valpellice - Pergine
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc589696da691442283/index.m3u8
+#EXTINF:-1, Hockey Como - Chiavenna
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453259455a8f52ce819a1e/index.m3u8
+#EXTINF:-1, HC Trento - HC Piné
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453258bbeb6f48c2a9126d/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69494b681e7e2c7b160e5696/index.m3u8
 #EXTINF:-1, Rungsted - Rødovre
