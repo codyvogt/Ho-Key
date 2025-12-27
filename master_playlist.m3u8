@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Slovakia - Germany
 https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1, Latvia - Canada
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e70206d9-2c7d-448a-99c1-adff3e5aa5b2/master.m3u8
+#EXTINF:-1, USA - Switzerland
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, HC Davos - US Collegiate
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Czechia - Switzerland
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69494b681e7e2c7b160e5696/index.m3u8
 #EXTINF:-1, Rungsted - Rødovre
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad25d6deee2e43a96f05.m3u8
 #EXTINF:-1, Esbjerg Energy - Herning
