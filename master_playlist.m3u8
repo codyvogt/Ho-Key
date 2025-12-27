@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Slovakia - Germany
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1, HC Davos - US Collegiate
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1, Latvia - Canada
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e70206d9-2c7d-448a-99c1-adff3e5aa5b2/master.m3u8
 #EXTINF:-1, USA - Switzerland
 https://fl1.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1, HC Davos - US Collegiate
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1, NY Rangers - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d4863af4-b1ec-4884-aa73-d2bdc198c9ca/master.m3u8
 #EXTINF:-1, Alleghe Hockey - HC Aosta
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edc389696da69144227f/index.m3u8
 #EXTINF:-1, Valdifiemme HC - Kaltern
@@ -21,5 +21,3 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e8aa8b4e4af00beff35
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69453258bbeb6f48c2a9126d/index.m3u8
 #EXTINF:-1, Arizona State - Dartmouth
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, NY Rangers - NY Islanders
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d4863af4-b1ec-4884-aa73-d2bdc198c9ca/master.m3u8
