@@ -3,12 +3,8 @@
 https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, HC Davos - US Collegiate
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Slavia Třebíč - ZUBR Přerov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69450a5d455a8f52ce819968.m3u8
 #EXTINF:-1, Litoměřice - HC Poruba
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a743785dc8b39800945b9.m3u8
-#EXTINF:-1, HC Sokolov - Pardubice B
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69450a77455a8f52ce81996a.m3u8
 #EXTINF:-1, HC Tábor - Frýdek-Místek
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69450a46bbeb6f48c2a9118a.m3u8
 #EXTINF:-1, Dukla Jihlava - SC Kolín
@@ -38,7 +34,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693dad259f97f2f2ddbda2
 #EXTINF:-1, Sønderjyske - Odense
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693dad24d6deee2e43a96f03.m3u8
 #EXTINF:-1, Frederikshavn - Aalborg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e39c5b4e4af00beff3311.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693e39c5b4e4af00beff3311.m3u8
 #EXTINF:-1, Mechelen - Eaters Limburg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e8aa8b4e4af00beff356e/index.m3u8
 #EXTINF:-1, Heerenveen - Hijs Hokij
