@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Slovakia - Germany
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1, HC Davos - US Collegiate
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1, Slavia Třebíč - ZUBR Přerov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69450a5d455a8f52ce819968.m3u8
 #EXTINF:-1, Litoměřice - HC Poruba
@@ -34,9 +38,9 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69494b681e7e2c7b160e56
 #EXTINF:-1, Rungsted - Rødovre
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad25d6deee2e43a96f05.m3u8
 #EXTINF:-1, Esbjerg Energy - Herning
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad259f97f2f2ddbda27b.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693dad259f97f2f2ddbda27b.m3u8
 #EXTINF:-1, Sønderjyske - Odense
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad24d6deee2e43a96f03.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693dad24d6deee2e43a96f03.m3u8
 #EXTINF:-1, Frederikshavn - Aalborg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e39c5b4e4af00beff3311.m3u8
 #EXTINF:-1, Mechelen - Eaters Limburg
@@ -49,5 +53,3 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e8aa8b4e4af00beff35
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad40b4e4af00beff32a2/index.m3u8
 #EXTINF:-1, DAB-ASP - Sport. Cápák
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ce85e9f97f2f2ddbd9f19/index.m3u8
-#EXTINF:-1, Slovakia - Germany
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e59ac2b4-4712-46a0-9d85-c7c8d78617fe/master.m3u8
