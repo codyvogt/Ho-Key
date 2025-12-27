@@ -3,22 +3,6 @@
 https://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1, HC Davos - US Collegiate
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Dukla Jihlava - SC Kolín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a73e185dc8b39800945b1.m3u8
-#EXTINF:-1, HC Falcons - HC Feltre
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc21d615b78791f4666/index.m3u8
-#EXTINF:-1, Varese - Zinnen Dolomites
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc389696da69144227d/index.m3u8
-#EXTINF:-1, Alleghe Hockey - HC Aosta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc389696da69144227f/index.m3u8
-#EXTINF:-1, Valdifiemme HC - Kaltern
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc489696da691442281/index.m3u8
-#EXTINF:-1, HC Valpellice - Pergine
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc589696da691442283/index.m3u8
-#EXTINF:-1, Hockey Como - Chiavenna
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453259455a8f52ce819a1e/index.m3u8
-#EXTINF:-1, HC Trento - HC Piné
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453258bbeb6f48c2a9126d/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69494b681e7e2c7b160e5696/index.m3u8
 #EXTINF:-1, Rungsted - Rødovre
@@ -39,3 +23,13 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e8aa8b4e4af00beff35
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693dad40b4e4af00beff32a2/index.m3u8
 #EXTINF:-1, DAB-ASP - Sport. Cápák
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ce85e9f97f2f2ddbd9f19/index.m3u8
+#EXTINF:-1, Varese - Zinnen Dolomites
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc389696da69144227d/index.m3u8
+#EXTINF:-1, Alleghe Hockey - HC Aosta
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc389696da69144227f/index.m3u8
+#EXTINF:-1, Valdifiemme HC - Kaltern
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc489696da691442281/index.m3u8
+#EXTINF:-1, HC Valpellice - Pergine
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc589696da691442283/index.m3u8
+#EXTINF:-1, HC Trento - HC Piné
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453258bbeb6f48c2a9126d/index.m3u8
