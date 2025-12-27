@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Ak Bars Kazan - Traktor
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HIFK - Sparta Praha
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1, HC Davos - US Collegiate
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Slovakia - Finland
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693156164f917966ed146df2/index.m3u8
-#EXTINF:-1, Czechia - Switzerland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69494b681e7e2c7b160e5696/index.m3u8
 #EXTINF:-1, Slavia Praha - VHK Vsetín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69450a05bbeb6f48c2a91184.m3u8
 #EXTINF:-1, Berani Zlín - Chomutov
@@ -22,7 +16,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69450a77455a8f52ce8199
 #EXTINF:-1, HC Tábor - Frýdek-Místek
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69450a46bbeb6f48c2a9118a.m3u8
 #EXTINF:-1, Dukla Jihlava - SC Kolín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a73e185dc8b39800945b1.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a73e185dc8b39800945b1.m3u8
 #EXTINF:-1, SHK Ozolnieki - Kurbads
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e16127c62be9451d65ef3f/index.m3u8
 #EXTINF:-1, Valpellice D1 - Cadore
@@ -47,3 +41,23 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc389696da6914422
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc489696da691442281/index.m3u8
 #EXTINF:-1, HC Valpellice - Pergine
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc589696da691442283/index.m3u8
+#EXTINF:-1, Czechia - Switzerland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69494b681e7e2c7b160e5696/index.m3u8
+#EXTINF:-1, Rungsted - Rødovre
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad25d6deee2e43a96f05.m3u8
+#EXTINF:-1, Esbjerg Energy - Herning
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad259f97f2f2ddbda27b.m3u8
+#EXTINF:-1, Sønderjyske - Odense
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad24d6deee2e43a96f03.m3u8
+#EXTINF:-1, Frederikshavn - Aalborg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e39c5b4e4af00beff3311.m3u8
+#EXTINF:-1, Mechelen - Eaters Limburg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e8aa8b4e4af00beff356e/index.m3u8
+#EXTINF:-1, Heerenveen - Hijs Hokij
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e8aa929d886e9b516bf07/index.m3u8
+#EXTINF:-1, HYC - Leuven Chiefs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e8aa8b4e4af00beff3570/index.m3u8
+#EXTINF:-1, Egerszegi Titánok - MAC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693dad40b4e4af00beff32a2/index.m3u8
+#EXTINF:-1, DAB-ASP - Sport. Cápák
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693ce85e9f97f2f2ddbd9f19/index.m3u8
