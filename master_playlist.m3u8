@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Eagles Südtirol - Zoldo
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69453313bbeb6f48c2a91291/index.m3u8
-#EXTINF:-1, Lakers - Trentino Women
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69453313bbeb6f48c2a9128f/index.m3u8
 #EXTINF:-1, Avangard Omsk - Lada
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Neftekhimik - Torpedo
@@ -21,3 +17,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc692740899867ab4840
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8c5159e90c3f91fbbd1b/index.m3u8
 #EXTINF:-1, HAKI - West Virginia U
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69477f0f40f960cadd2dc17f/index.m3u8
+#EXTINF:-1, Czech Republic - Slovakia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69494bda1e7e2c7b160e5698/index.m3u8
+#EXTINF:-1, Finland - Germany
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931563c4f917966ed146df4/index.m3u8
+#EXTINF:-1, Switzerland - Finland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693152884f917966ed146de9/index.m3u8
+#EXTINF:-1, Slovakia - Czech Republic
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694969701e7e2c7b160e56dd/index.m3u8
+#EXTINF:-1, Hijs Hokij - Mechelen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc25148907a0dbe32e57/index.m3u8
+#EXTINF:-1, Limburg - Heerenveen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc26148907a0dbe32e59/index.m3u8
+#EXTINF:-1, Die Bären Neuwied - HYC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc260d73d3ccbfec2ad0/index.m3u8
