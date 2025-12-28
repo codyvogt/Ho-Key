@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Salavat Yulaev - Severstal
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Sochi - SKA St. Petersburg
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Dynamo M
@@ -32,7 +30,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693152884f917966ed146d
 #EXTINF:-1, Slovakia - Czech Republic
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694969701e7e2c7b160e56dd/index.m3u8
 #EXTINF:-1, Hijs Hokij - Mechelen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc25148907a0dbe32e57/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fdc25148907a0dbe32e57/index.m3u8
 #EXTINF:-1, Limburg - Heerenveen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc26148907a0dbe32e59/index.m3u8
 #EXTINF:-1, Die Bären Neuwied - HYC
