@@ -1,47 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Sochi - SKA St. Petersburg
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Dinamo Minsk - Dynamo M
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Fribourg-Gottéron - HIFK
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Team Canada - HC Davos
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1, Litvínov - České Budějovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a64b41e7e2c7b160e5833.m3u8
-#EXTINF:-1, Vítkovice - Mountfield HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a64ca1e7e2c7b160e5835.m3u8
-#EXTINF:-1, Karlovy Vary - Škoda Plzeň
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a652185dc8b39800945a9.m3u8
-#EXTINF:-1, Olomouc - Mladá Boleslav
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a653a85dc8b39800945ab.m3u8
-#EXTINF:-1, Kometa Brno - Pardubice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a654c1e7e2c7b160e5837.m3u8
-#EXTINF:-1, Oceláři Třinec - Kladno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695132d485dc8b3980094fe2.m3u8
-#EXTINF:-1, Czech Republic - Slovakia
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69494bda1e7e2c7b160e5698/index.m3u8
-#EXTINF:-1, Finland - Germany
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931563c4f917966ed146df4/index.m3u8
-#EXTINF:-1, Switzerland - Finland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693152884f917966ed146de9/index.m3u8
-#EXTINF:-1, Slovakia - Czech Republic
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694969701e7e2c7b160e56dd/index.m3u8
-#EXTINF:-1, Hijs Hokij - Mechelen
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fdc25148907a0dbe32e57/index.m3u8
-#EXTINF:-1, Limburg - Heerenveen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc26148907a0dbe32e59/index.m3u8
-#EXTINF:-1, Die Bären Neuwied - HYC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc260d73d3ccbfec2ad0/index.m3u8
-#EXTINF:-1, Charlottenberg - Nor IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8c5159e90c3f91fbbd1b/index.m3u8
-#EXTINF:-1, Baník Příbram - Milevsko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69157515109a6801f3cf6282/index.m3u8
-#EXTINF:-1, Rødovre - Herlev Eagles
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693efea4b4e4af00beff369e.m3u8
-#EXTINF:-1, Aalborg - Frederikshavn
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693efea529d886e9b516c075.m3u8
-#EXTINF:-1, Herning - Esbjerg Energy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693efea59f97f2f2ddbda695.m3u8
-#EXTINF:-1, Odense - Sønderjyske
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693f8b470d73d3ccbfec28d7.m3u8
+#EXTINF:-1, Finland - Latvia
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1, Montréal - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bdce1737-611c-47a5-837b-6d28c057697b/master.m3u8
+#EXTINF:-1, NY Islanders - Columbus
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/67f48767-86b3-42b6-8571-ac68c5190266/master.m3u8
+#EXTINF:-1, Toronto - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/614e7008-f709-4b93-b222-b5b1031a9309/master.m3u8
+#EXTINF:-1, Pittsburgh - Chicago
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1789c2b7-5465-485b-b37b-60429e9f7209/master.m3u8
