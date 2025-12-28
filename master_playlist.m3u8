@@ -9,10 +9,12 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Dynamo M
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Fribourg-Gottéron - HIFK
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, HC Humpolec - Milevsko
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690c48a33829c1557f6081fa/index.m3u8
 #EXTINF:-1, Hallsberg 2 - Fellingsbro
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68fc692740899867ab48409b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fc692740899867ab48409b/index.m3u8
 #EXTINF:-1, Charlottenberg - Nor IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692a8c5159e90c3f91fbbd1b/index.m3u8
 #EXTINF:-1, HAKI - West Virginia U
