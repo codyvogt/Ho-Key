@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Tampa Bay - Florida
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e0f1f3c4-dd0c-4770-9299-b46e5c68441b/master.m3u8
-#EXTINF:-1, Washington - New Jersey
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b732b36-0b69-48de-b472-f9c58ba496e9/master.m3u8
-#EXTINF:-1, Detroit - Carolina
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/49bfa260-5a07-42bb-beab-19c25d2282ff/master.m3u8
-#EXTINF:-1, Minnesota - Winnipeg Jets
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a0b5041d-3890-4d52-8a91-1654fc045c2a/master.m3u8
 #EXTINF:-1, Edmonton - Calgary Flames
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fbf628ed-a76d-49fb-83ac-cee4f54bfa88/master.m3u8
 #EXTINF:-1, San Jose - Vancouver
