@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Edmonton - Calgary Flames
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fbf628ed-a76d-49fb-83ac-cee4f54bfa88/master.m3u8
-#EXTINF:-1, San Jose - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/84d8f705-4dbf-4830-a3f4-c165d77046f0/master.m3u8
-#EXTINF:-1, Colorado - Vegas
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9ec0a38a-a0d7-4d73-8af3-8f35e2968759/master.m3u8
-#EXTINF:-1, Admiral Vladivostok - Sibir
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Eagles Südtirol - Zoldo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453313bbeb6f48c2a91291/index.m3u8
+#EXTINF:-1, Lakers - Trentino Women
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453313bbeb6f48c2a9128f/index.m3u8
 #EXTINF:-1, Avangard Omsk - Lada
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Neftekhimik - Torpedo
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Salavat Yulaev - Severstal
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Eagles Südtirol - Zoldo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453313bbeb6f48c2a91291/index.m3u8
-#EXTINF:-1, Lakers - Trentino Women
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453313bbeb6f48c2a9128f/index.m3u8
 #EXTINF:-1, HC Humpolec - Milevsko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690c48a33829c1557f6081fa/index.m3u8
