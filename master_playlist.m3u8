@@ -6,7 +6,7 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Fribourg-Gottéron - HIFK
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Litvínov - České Budějovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a64b41e7e2c7b160e5833.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a64b41e7e2c7b160e5833.m3u8
 #EXTINF:-1, Vítkovice - Mountfield HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a64ca1e7e2c7b160e5835.m3u8
 #EXTINF:-1, Karlovy Vary - Škoda Plzeň
@@ -15,6 +15,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a652185dc8b39800945
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a653a85dc8b39800945ab.m3u8
 #EXTINF:-1, Kometa Brno - Pardubice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a654c1e7e2c7b160e5837.m3u8
+#EXTINF:-1, Oceláři Třinec - Kladno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695132d485dc8b3980094fe2.m3u8
 #EXTINF:-1, Hallsberg 2 - Fellingsbro
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fc692740899867ab48409b/index.m3u8
 #EXTINF:-1, Charlottenberg - Nor IK
@@ -35,3 +37,13 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fdc25148907a0dbe32e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc26148907a0dbe32e59/index.m3u8
 #EXTINF:-1, Die Bären Neuwied - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdc260d73d3ccbfec2ad0/index.m3u8
+#EXTINF:-1, Baník Příbram - Milevsko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69157515109a6801f3cf6282/index.m3u8
+#EXTINF:-1, Rødovre - Herlev Eagles
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693efea4b4e4af00beff369e.m3u8
+#EXTINF:-1, Aalborg - Frederikshavn
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693efea529d886e9b516c075.m3u8
+#EXTINF:-1, Herning - Esbjerg Energy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693efea59f97f2f2ddbda695.m3u8
+#EXTINF:-1, Odense - Sønderjyske
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693f8b470d73d3ccbfec28d7.m3u8
