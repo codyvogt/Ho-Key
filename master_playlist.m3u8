@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Metallurg Mg - Traktor
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Switzerland - Finland
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693156694f917966ed146dfa/index.m3u8
 #EXTINF:-1, Sparta Praha - Canada
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Czechia - Switzerland
@@ -12,14 +10,16 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6948d08f60b7de4a81fe88
 #EXTINF:-1, Frýdek-Místek - Pardubice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695131b485dc8b3980094fdd.m3u8
 #EXTINF:-1, VHK Vsetín - Dukla Jihlava
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695133f585dc8b3980094fea.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695133f585dc8b3980094fea.m3u8
 #EXTINF:-1, ZUBR Přerov - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6951334f85dc8b3980094fe8.m3u8
 #EXTINF:-1, Piráti Chomutov - Třebíč
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695132051e7e2c7b160e616f.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695132051e7e2c7b160e616f.m3u8
 #EXTINF:-1, SC Kolín - Baník Sokolov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695134111e7e2c7b160e6171.m3u8
 #EXTINF:-1, HC Poruba - Slavia Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6951344285dc8b3980094fec.m3u8
 #EXTINF:-1, HC Tábor - Berani Zlín
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6951346d1e7e2c7b160e6173.m3u8
+#EXTINF:-1, Switzerland - Finland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693156694f917966ed146dfa/index.m3u8
