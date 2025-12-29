@@ -3,6 +3,10 @@
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1, Finland - Czech Republic
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cfb9ffcb-21af-43b8-897c-cf1e546ffefb/master.m3u8
+#EXTINF:-1, Slovakia - United States
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1, Canada - Denmark
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ea8eeaf6-378f-4de6-b9df-0f10b5b711a2/master.m3u8
 #EXTINF:-1, Merrimack - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Rochester IT - Clarkson
