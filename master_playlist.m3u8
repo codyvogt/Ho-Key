@@ -3,22 +3,8 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/61fa0c13-85a4-42ad-bdf2-c99d53ea9e09/master.m3u8
 #EXTINF:-1, Latvia - Denmark
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/516e7c7d-d7a4-4eb9-8ce0-0971619b285a/master.m3u8
-#EXTINF:-1, Hockey Pergine - Falcons
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc81d615b78791f466c/index.m3u8
-#EXTINF:-1, Eppan Pirates - Alleghe
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc51d615b78791f4668/index.m3u8
-#EXTINF:-1, HC Aosta - HCMV Varese
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edc889696da691442287/index.m3u8
-#EXTINF:-1, Zinnen Dolomites - Aosta
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc989696da691442289/index.m3u8
-#EXTINF:-1, SV Kaltern - Valpellice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc789696da691442285/index.m3u8
-#EXTINF:-1, HC Feltre - Valdifiemme
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942eef50d73d3ccbfec3218/index.m3u8
 #EXTINF:-1, Herlev Eagles - Rungsted
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6941a1a50d73d3ccbfec2f16.m3u8
-#EXTINF:-1, Esbjerg - Sønderjyske
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6941a1a50d73d3ccbfec2f18.m3u8
 #EXTINF:-1, Odense Bulldogs - Herning
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6941a1a5148907a0dbe3323a.m3u8
 #EXTINF:-1, Briançon - Aigles de Nice
@@ -33,6 +19,16 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285139d2a1a468257e6
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c285139d2a1a468257e61e/index.m3u8
 #EXTINF:-1, Bordeaux - Rapaces de Gap
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28513b4c8ed39e3473f18/index.m3u8
+#EXTINF:-1, Eppan Pirates - Alleghe
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc51d615b78791f4668/index.m3u8
+#EXTINF:-1, HC Aosta - HCMV Varese
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edc889696da691442287/index.m3u8
+#EXTINF:-1, Zinnen Dolomites - Aosta
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc989696da691442289/index.m3u8
+#EXTINF:-1, SV Kaltern - Valpellice
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc789696da691442285/index.m3u8
+#EXTINF:-1, HC Feltre - Valdifiemme
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942eef50d73d3ccbfec3218/index.m3u8
 #EXTINF:-1, Manitoba - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/67fbebf5-757b-41db-a326-39811b9cc5b0-hls/master/67fbebf5-757b-41db-a326-39811b9cc5b0-hls.m3u8
 #EXTINF:-1, Maine - Brown
