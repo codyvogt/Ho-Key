@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Č. Budějovice - Vítkovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69512e9685dc8b3980094fc8.m3u8
 #EXTINF:-1, Mountfield HK - Olomouc
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69512ecf85dc8b3980094fd0.m3u8
 #EXTINF:-1, HC Pardubice - HC Litvínov
@@ -11,8 +9,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69512ec185dc8b3980094f
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69512ea485dc8b3980094fca.m3u8
 #EXTINF:-1, Switzerland - Germany
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/61fa0c13-85a4-42ad-bdf2-c99d53ea9e09/master.m3u8
-#EXTINF:-1, Zoldo - Eagles Südtirol
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453312bbeb6f48c2a9128d/index.m3u8
 #EXTINF:-1, Hockey Pergine - Falcons
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc81d615b78791f466c/index.m3u8
 #EXTINF:-1, Eppan Pirates - Alleghe
@@ -40,6 +36,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28513b4c8ed39e3473f
 #EXTINF:-1, Ducs d'Angers - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285139d2a1a468257e620/index.m3u8
 #EXTINF:-1, Anglet - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285139d2a1a468257e61e/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c285139d2a1a468257e61e/index.m3u8
 #EXTINF:-1, Bordeaux - Rapaces de Gap
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f18/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28513b4c8ed39e3473f18/index.m3u8
