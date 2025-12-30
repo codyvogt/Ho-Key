@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mountfield HK - Olomouc
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69512ecf85dc8b3980094fd0.m3u8
-#EXTINF:-1, HC Pardubice - HC Litvínov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69512eb285dc8b3980094fcc.m3u8
-#EXTINF:-1, Rytíři Kladno - Karlovy Vary
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69512ec185dc8b3980094fce.m3u8
 #EXTINF:-1, Liberec - BK Mladá Boleslav
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69512ea485dc8b3980094fca.m3u8
 #EXTINF:-1, Switzerland - Germany
@@ -18,7 +12,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edc889696da6914422
 #EXTINF:-1, Zinnen Dolomites - Aosta
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc989696da691442289/index.m3u8
 #EXTINF:-1, SV Kaltern - Valpellice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc789696da691442285/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edc789696da691442285/index.m3u8
 #EXTINF:-1, HC Feltre - Valdifiemme
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942eef50d73d3ccbfec3218/index.m3u8
 #EXTINF:-1, Herlev Eagles - Rungsted
