@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avangard Omsk - Barys
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Avtomobilist - Lada
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Sal. Yulaev - Dinamo Mn
@@ -23,3 +21,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69512ec185dc8b3980094f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69512ea485dc8b3980094fca.m3u8
 #EXTINF:-1, Kiekkohait - West Virginia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a22101e7e2c7b160e574b/index.m3u8
+#EXTINF:-1, Zoldo - Eagles Südtirol
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453312bbeb6f48c2a9128d/index.m3u8
