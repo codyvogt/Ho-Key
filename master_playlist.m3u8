@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Avtomobilist - Lada
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1, Sal. Yulaev - Dinamo Mn
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Ak Bars Kazan - Severstal
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Lokomotiv - Torpedo
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Třinec - Kometa Brno
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6953b31a1e7e2c7b160e680e.m3u8
 #EXTINF:-1, Č. Budějovice - Vítkovice
@@ -23,3 +21,15 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69512ea485dc8b3980094f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a22101e7e2c7b160e574b/index.m3u8
 #EXTINF:-1, Zoldo - Eagles Südtirol
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453312bbeb6f48c2a9128d/index.m3u8
+#EXTINF:-1, Hockey Pergine - Falcons
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc81d615b78791f466c/index.m3u8
+#EXTINF:-1, Eppan Pirates - Alleghe
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc51d615b78791f4668/index.m3u8
+#EXTINF:-1, HC Aosta - HCMV Varese
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc889696da691442287/index.m3u8
+#EXTINF:-1, Zinnen Dolomites - Aosta
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc989696da691442289/index.m3u8
+#EXTINF:-1, SV Kaltern - Valpellice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edc789696da691442285/index.m3u8
+#EXTINF:-1, HC Feltre - Valdifiemme
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942eef50d73d3ccbfec3218/index.m3u8
