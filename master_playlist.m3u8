@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Amur Khabarovsk - Sibir
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Finland - Slovakia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693153e24f917966ed146df0/index.m3u8
+#EXTINF:-1, Finland - Czech Republic
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69494c421e7e2c7b160e569a/index.m3u8
 #EXTINF:-1, Avangard Omsk - Barys
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1, Avtomobilist - Lada
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Sal. Yulaev - Dinamo Mn
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Finland - Slovakia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693153e24f917966ed146df0/index.m3u8
-#EXTINF:-1, Finland - Czech Republic
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69494c421e7e2c7b160e569a/index.m3u8
