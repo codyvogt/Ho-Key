@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Slovakia - United States
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1, Canada - Denmark
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ea8eeaf6-378f-4de6-b9df-0f10b5b711a2/master.m3u8
 #EXTINF:-1, Washington - Florida
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d63d4a7b-8dfe-4b33-a81e-072de60e4bad/master.m3u8
 #EXTINF:-1, NY Rangers - Carolina
@@ -13,5 +9,7 @@ https://fl1.moveonjoy.com/TSN_5/index.m3u8
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/18f6e589-09e4-4661-a2ef-6251b4f46ea0/master.m3u8
 #EXTINF:-1, Los Angeles - Colorado
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b21cf5a2-77be-4e3e-ac50-24d94ff84753/master.m3u8
+#EXTINF:-1, Canada - Denmark
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ea8eeaf6-378f-4de6-b9df-0f10b5b711a2/master.m3u8
 #EXTINF:-1, USA U18 - Bowling Green
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
