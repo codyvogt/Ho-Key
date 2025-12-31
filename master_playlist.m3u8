@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1, NY Rangers - Washington
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6552b1d4-5bbe-4743-a98c-d753ae182602/master.m3u8
+#EXTINF:-1, Nashville - Vegas
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e0d7d8de-17a7-43f0-954d-2cfa433e0a89/master.m3u8
+#EXTINF:-1, Czech Republic - Latvia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d9e01bd3-ba3c-462d-b2de-475e8db0ca70/master.m3u8
 #EXTINF:-1, LIU - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
