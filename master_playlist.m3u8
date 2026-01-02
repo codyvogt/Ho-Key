@@ -11,20 +11,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695673301e7e2c7b160e6a
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6956731985dc8b3980095964.m3u8
 #EXTINF:-1, Olomouc - Bílí Tygři Liberec
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6956730185dc8b3980095962.m3u8
-#EXTINF:-1, Connecticut - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Stonehill - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, St. Michael's - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Dartmouth - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Rensselaer PI - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Union - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Delaware - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7815b9be-b974-472c-b499-7b798de4bd01-hls/master/7815b9be-b974-472c-b499-7b798de4bd01-hls.m3u8
 #EXTINF:-1, Rungsted - Frederikshavn
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6945962560b7de4a81fe81f2.m3u8
 #EXTINF:-1, Čerti Ostrov - Stadion Cheb
@@ -45,3 +31,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453f75bbeb6f48c2a912
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e41b91e7e2c7b160e5a78/index.m3u8
 #EXTINF:-1, Jindř. Hradec - Milevsko B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69390d94d9c1b7ecd2fd9e26/index.m3u8
+#EXTINF:-1, Connecticut - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Stonehill - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, St. Michael's - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Dartmouth - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Union - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Delaware - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7815b9be-b974-472c-b499-7b798de4bd01-hls/master/7815b9be-b974-472c-b499-7b798de4bd01-hls.m3u8
