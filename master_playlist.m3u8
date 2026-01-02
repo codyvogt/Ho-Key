@@ -5,20 +5,16 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b898cf
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4254153c-9f71-4339-a915-a09e8bfab408/master.m3u8
 #EXTINF:-1, Rapaces de Gap - Angers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f14/index.m3u8
-#EXTINF:-1, Aigles de Nice - Marseille
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28514b4c8ed39e3473f46/index.m3u8
 #EXTINF:-1, Grenoble - Rouen
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28513b4c8ed39e3473f26/index.m3u8
 #EXTINF:-1, Amiens - Hormadi d'Anglet
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28513b4c8ed39e3473f24/index.m3u8
-#EXTINF:-1, Bordeaux - Chamonix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f20/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Briançon
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c285149d2a1a468257e62a/index.m3u8
-#EXTINF:-1, HC Náchod - Wikov Hronov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b812cd5addedaac41c2d48/index.m3u8
-#EXTINF:-1, Connecticut - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Fassa Falcons - HC Aosta
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edca1d615b78791f466e/index.m3u8
+#EXTINF:-1, Mechelen - EHC Neuwied
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694673a640f960cadd2dc008/index.m3u8
 #EXTINF:-1, Stonehill - Princeton
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
 #EXTINF:-1, St. Michael's - Clarkson
@@ -31,9 +27,3 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Delaware - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7815b9be-b974-472c-b499-7b798de4bd01-hls/master/7815b9be-b974-472c-b499-7b798de4bd01-hls.m3u8
-#EXTINF:-1, Hijs Hokij - Leuven Chiefs
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694673a660b7de4a81fe83e1/index.m3u8
-#EXTINF:-1, Mechelen - EHC Neuwied
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694673a640f960cadd2dc008/index.m3u8
-#EXTINF:-1, Fassa Falcons - HC Aosta
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edca1d615b78791f466e/index.m3u8
