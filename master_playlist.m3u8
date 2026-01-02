@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Vegas - St. Louis Blues
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4254153c-9f71-4339-a915-a09e8bfab408/master.m3u8
 #EXTINF:-1, United States - Finland
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62920c88-e3af-47ca-b4fa-3b763be4a027/master.m3u8
+#EXTINF:-1, Canada - Slovakia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/21b0a437-ea74-4930-8849-23a003f0e5b2/master.m3u8
 #EXTINF:-1, St. Michael's - Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Dartmouth - Vermont
