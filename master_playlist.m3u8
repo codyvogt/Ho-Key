@@ -3,10 +3,6 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b898cf49-6dd0-43fd-9452-c25162d6f40e/master.m3u8
 #EXTINF:-1, Vegas - St. Louis Blues
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4254153c-9f71-4339-a915-a09e8bfab408/master.m3u8
-#EXTINF:-1, Č. Třebová - Světlá n. S.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693953e0f7de7b3a480b5819/index.m3u8
-#EXTINF:-1, HC Náchod - Wikov Hronov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b812cd5addedaac41c2d48/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Angers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f14/index.m3u8
 #EXTINF:-1, Aigles de Nice - Marseille
@@ -19,6 +15,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28513b4c8ed39e3473f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f20/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Briançon
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c285149d2a1a468257e62a/index.m3u8
+#EXTINF:-1, HC Náchod - Wikov Hronov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b812cd5addedaac41c2d48/index.m3u8
 #EXTINF:-1, Connecticut - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Stonehill - Princeton
