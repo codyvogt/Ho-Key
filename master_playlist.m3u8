@@ -16,7 +16,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6945962560b7de4a81fe81
 #EXTINF:-1, Čerti Ostrov - Stadion Cheb
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6943c3be0d73d3ccbfec335e/index.m3u8
 #EXTINF:-1, Karlovy Vary B - Klášterec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6926fb00ca78222f456c5b65/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6926fb00ca78222f456c5b65/index.m3u8
 #EXTINF:-1, Č. Třebová - Světlá n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693953e0f7de7b3a480b5819/index.m3u8
 #EXTINF:-1, Velké Meziříčí - Žďár n. S.
@@ -31,6 +31,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453f75bbeb6f48c2a912
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e41b91e7e2c7b160e5a78/index.m3u8
 #EXTINF:-1, Jindř. Hradec - Milevsko B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69390d94d9c1b7ecd2fd9e26/index.m3u8
+#EXTINF:-1, Rapaces de Gap - Angers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f14/index.m3u8
+#EXTINF:-1, Aigles de Nice - Marseille
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f46/index.m3u8
+#EXTINF:-1, Grenoble - Rouen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f26/index.m3u8
+#EXTINF:-1, Amiens - Hormadi d'Anglet
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f24/index.m3u8
+#EXTINF:-1, Bordeaux - Chamonix
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28513b4c8ed39e3473f20/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Briançon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285149d2a1a468257e62a/index.m3u8
 #EXTINF:-1, Connecticut - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Stonehill - Princeton
@@ -45,3 +57,9 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Delaware - Syracuse
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/7815b9be-b974-472c-b499-7b798de4bd01-hls/master/7815b9be-b974-472c-b499-7b798de4bd01-hls.m3u8
+#EXTINF:-1, Hijs Hokij - Leuven Chiefs
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694673a660b7de4a81fe83e1/index.m3u8
+#EXTINF:-1, Mechelen - EHC Neuwied
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694673a640f960cadd2dc008/index.m3u8
+#EXTINF:-1, Fassa Falcons - HC Aosta
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edca1d615b78791f466e/index.m3u8
