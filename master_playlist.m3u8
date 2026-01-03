@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Seattle Kraken - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4832edc8-1d91-45a2-bd62-8c30da403e23/master.m3u8
-#EXTINF:-1, Minnesota Wild - Anaheim
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a8a1ec1d-fc3a-472c-bd32-442c14e40580/master.m3u8
-#EXTINF:-1, Admiral Vladivostok - Amur
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Borås HC - Halmstad HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950d13085dc8b3980094eb2/index.m3u8
 #EXTINF:-1, IF Troja-Ljungby - Bäcken
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950cb3685dc8b3980094e32/index.m3u8
+#EXTINF:-1, HPK - Saimaan Pallo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f68101e7e2c7b160e5b8e/index.m3u8
+#EXTINF:-1, RoKi - Tampereen Ilves
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f68101e7e2c7b160e5b96/index.m3u8
+#EXTINF:-1, Jukurit - Lahden Pelicans
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f68101e7e2c7b160e5bb5/index.m3u8
+#EXTINF:-1, Vaasan Sport - JYP
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f68101e7e2c7b160e5b90/index.m3u8
+#EXTINF:-1, Nové Město - Nový Bydžov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fcf3e148907a0dbe32df6/index.m3u8
