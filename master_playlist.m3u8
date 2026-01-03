@@ -11,8 +11,10 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbf892
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b6823dd-ba77-47cf-9a36-ef9e8a1f0f95/master.m3u8
 #EXTINF:-1, Tampa Bay - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fc3b4c5-2faa-4818-9120-a671c4d86e1c/master.m3u8
-#EXTINF:-1, Nantes - Chambéry
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944da/index.m3u8
+#EXTINF:-1, HC Vrchlabí - Česká Lípa
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6921d11c109a6801f3cf841f/index.m3u8
+#EXTINF:-1, Ústí n. Labem - Litoměřice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693bbea4b4e4af00beff2c0c/index.m3u8
 #EXTINF:-1, Mont-Blanc - Tours
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174985dc8b39800944d8/index.m3u8
 #EXTINF:-1, Dunkeque - Lions de Lyon
@@ -25,22 +27,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174985dc8b39800944
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a17471e7e2c7b160e5741/index.m3u8
 #EXTINF:-1, HCMP - Valenciennes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944a4/index.m3u8
-#EXTINF:-1, Odense Bulldogs - Aalborg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6946e7a560b7de4a81fe84f8.m3u8
-#EXTINF:-1, HCMV Varese - Pergine
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcb1d615b78791f4672/index.m3u8
-#EXTINF:-1, Alleghe - SV Kaltern
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcc89696da69144228b/index.m3u8
-#EXTINF:-1, Valdifiemme HC - Zinnen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edcd1d615b78791f4674/index.m3u8
-#EXTINF:-1, Valpellice Bulldogs - Feltre
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edcd1d615b78791f4676/index.m3u8
-#EXTINF:-1, Vinschgau - HPC Selection
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453257455a8f52ce819a1c/index.m3u8
-#EXTINF:-1, HC Vrchlabí - Česká Lípa
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6921d11c109a6801f3cf841f/index.m3u8
-#EXTINF:-1, Ústí n. Labem - Litoměřice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693bbea4b4e4af00beff2c0c/index.m3u8
 #EXTINF:-1, Liège Bulldogs - Hijs Hokij
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947c52660b7de4a81fe866e/index.m3u8
 #EXTINF:-1, Leuven - Eaters Limburg
@@ -87,5 +73,11 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Bemidji State - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Alleghe - SV Kaltern
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcc89696da69144228b/index.m3u8
+#EXTINF:-1, Valdifiemme HC - Zinnen
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edcd1d615b78791f4674/index.m3u8
+#EXTINF:-1, Valpellice Bulldogs - Feltre
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edcd1d615b78791f4676/index.m3u8
 #EXTINF:-1, SA Víkingar - Fjölnir
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947744a60b7de4a81fe8567/index.m3u8
