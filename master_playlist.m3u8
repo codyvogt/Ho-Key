@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Pittsburgh - Detroit
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1, HC Davos - Ambri-Piotta
+https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, Highsticks HT - Malax IF
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694f680f85dc8b398009496a/index.m3u8
 #EXTINF:-1, HC Karlovy Vary - Liberec
@@ -114,8 +116,16 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdd58148907a0dbe32e
 #EXTINF:-1, Odense Bulldogs - Aalborg
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6946e7a560b7de4a81fe84f8.m3u8
 #EXTINF:-1, Vinschgau - HPC Selection
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453257455a8f52ce819a1c/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453257455a8f52ce819a1c/index.m3u8
 #EXTINF:-1, HC Vrchlabí - Česká Lípa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6921d11c109a6801f3cf841f/index.m3u8
 #EXTINF:-1, Ústí n. Labem - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693bbea4b4e4af00beff2c0c/index.m3u8
+#EXTINF:-1, Liège Bulldogs - Hijs Hokij
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52660b7de4a81fe866e/index.m3u8
+#EXTINF:-1, Leuven - Eaters Limburg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe8670/index.m3u8
+#EXTINF:-1, Heerenveen - HYC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe8672/index.m3u8
+#EXTINF:-1, Roanne - Vaujany
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944c6/index.m3u8
