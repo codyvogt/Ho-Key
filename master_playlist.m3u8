@@ -9,12 +9,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/776e2d
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbf89264-243d-4b30-a51a-f9e432fd3892/master.m3u8
 #EXTINF:-1, HC Davos - Ambri-Piotta
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Kralupy nad Vltavou - Cheb
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bac3e25addedaac41c322a/index.m3u8
-#EXTINF:-1, HC Děčín - Baník Příbram
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecc61/index.m3u8
-#EXTINF:-1, Kobra Praha - Benátky n. J.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dce0b48ebee495bafd631e/index.m3u8
 #EXTINF:-1, Nantes - Chambéry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944da/index.m3u8
 #EXTINF:-1, Mont-Blanc - Tours
@@ -24,37 +18,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944
 #EXTINF:-1, Meudon - Morzine-Avoriaz
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a17471e7e2c7b160e5743/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Épinal
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944dc/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174985dc8b39800944dc/index.m3u8
 #EXTINF:-1, Caen - Neuilly-sur-Marne
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a17471e7e2c7b160e5741/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a17471e7e2c7b160e5741/index.m3u8
 #EXTINF:-1, HCMP - Valenciennes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944a4/index.m3u8
-#EXTINF:-1, Vlci Jablonec - Varnsdorf
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912d214614656d90f23ce99/index.m3u8
-#EXTINF:-1, Telč - Světlá nad Sázavou
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69254717109a6801f3cf8df7/index.m3u8
-#EXTINF:-1, Lev Benešov - Poděbrady
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6930438f4f917966ed146af2/index.m3u8
-#EXTINF:-1, Metz - Strasbourg 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944bc/index.m3u8
-#EXTINF:-1, Brest 2 - Poitiers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944d0/index.m3u8
-#EXTINF:-1, Tours 2 - Bordeaux 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944b0/index.m3u8
-#EXTINF:-1, Chambéry 2 - HCMP 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944b8/index.m3u8
-#EXTINF:-1, Tours - Cergy-Pontoise
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174985dc8b39800944c4/index.m3u8
-#EXTINF:-1, Chambéry - Grenoble
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174885dc8b39800944c2/index.m3u8
-#EXTINF:-1, Kiekko-Vantaa - HIFK Ak
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694f68111e7e2c7b160e5be7/index.m3u8
-#EXTINF:-1, Vasas - Egerszegi Titánok
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694622e040f960cadd2dbeb5/index.m3u8
-#EXTINF:-1, S. Cápák - Worm Angels
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694622e060b7de4a81fe82da/index.m3u8
-#EXTINF:-1, MAC Budapest - DEAC JA
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694622e060b7de4a81fe82d8/index.m3u8
 #EXTINF:-1, České Budějovice - Kobra B
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693fdd58148907a0dbe32e79/index.m3u8
 #EXTINF:-1, Odense Bulldogs - Aalborg
@@ -64,9 +32,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcb1d615b78791f46
 #EXTINF:-1, Alleghe - SV Kaltern
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcc89696da69144228b/index.m3u8
 #EXTINF:-1, Valdifiemme HC - Zinnen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcd1d615b78791f4674/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edcd1d615b78791f4674/index.m3u8
 #EXTINF:-1, Valpellice Bulldogs - Feltre
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcd1d615b78791f4676/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edcd1d615b78791f4676/index.m3u8
 #EXTINF:-1, Vinschgau - HPC Selection
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453257455a8f52ce819a1c/index.m3u8
 #EXTINF:-1, HC Vrchlabí - Česká Lípa
@@ -79,6 +47,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947c52660b7de4a81fe86
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6947c52760b7de4a81fe8670/index.m3u8
 #EXTINF:-1, Heerenveen - HYC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe8672/index.m3u8
+#EXTINF:-1, S. Cápák - Worm Angels
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694622e060b7de4a81fe82da/index.m3u8
+#EXTINF:-1, MAC Budapest - DEAC JA
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694622e060b7de4a81fe82d8/index.m3u8
 #EXTINF:-1, Roanne - Vaujany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944c6/index.m3u8
 #EXTINF:-1, Toulouse-Blagnac - Jaca
@@ -87,6 +59,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174885dc8b39800944
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695395bd1e7e2c7b160e67bf/index.m3u8
 #EXTINF:-1, Eaters Geleen - Nijmegen
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69427e6b0d73d3ccbfec3071/index.m3u8
+#EXTINF:-1, Brest 2 - Poitiers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944d0/index.m3u8
+#EXTINF:-1, Tours 2 - Bordeaux 2
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174885dc8b39800944b0/index.m3u8
+#EXTINF:-1, Chambéry 2 - HCMP 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944b8/index.m3u8
 #EXTINF:-1, St. Michael's - Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, LIU - New Hampshire
@@ -110,4 +88,4 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u
 #EXTINF:-1, Bemidji State - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, SA Víkingar - Fjölnir
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947744a60b7de4a81fe8567/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947744a60b7de4a81fe8567/index.m3u8
