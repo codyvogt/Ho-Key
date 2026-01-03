@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Philadelphia - Edmonton
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbf89264-243d-4b30-a51a-f9e432fd3892/master.m3u8
 #EXTINF:-1, Montréal - St. Louis Blues
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b6823dd-ba77-47cf-9a36-ef9e8a1f0f95/master.m3u8
 #EXTINF:-1, Tampa Bay - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fc3b4c5-2faa-4818-9120-a671c4d86e1c/master.m3u8
+#EXTINF:-1, Toronto - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b79e3d2f-ac6e-4167-adb2-2a54017b4cad/master.m3u8
+#EXTINF:-1, Chicago - Washington
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fba31a8a-7a30-4c11-a2bf-ffb43a31e47c/master.m3u8
+#EXTINF:-1, Colorado - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9671d064-09cb-4e50-a330-6338dd52943f/master.m3u8
 #EXTINF:-1, Stonehill - St. Lawrence
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, Royal Military - Union
