@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Pittsburgh - Detroit
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1, KRIF Hockey - IF Mölndal
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695387ac1e7e2c7b160e67af/index.m3u8
 #EXTINF:-1, HC Vipers - Tartu Välk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955035e85dc8b3980095823/index.m3u8
 #EXTINF:-1, Velké Meziříčí - Nový Jičín
@@ -70,7 +68,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912e025614656d90f23ce
 #EXTINF:-1, HC Klatovy - HK Rokycany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ccf296a4ceb125359fd406/index.m3u8
 #EXTINF:-1, Hvězda Praha - B. Medvědi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693c211ab4e4af00beff2d69/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693c211ab4e4af00beff2d69/index.m3u8
 #EXTINF:-1, Vlci Jablonec - Varnsdorf
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d214614656d90f23ce99/index.m3u8
 #EXTINF:-1, Telč - Světlá nad Sázavou
@@ -91,6 +89,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174885dc8b39800944
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944b6/index.m3u8
 #EXTINF:-1, SHK Ozolnieki - Sostine LRA
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e1623be14bd1ca73a57f5d/index.m3u8
+#EXTINF:-1, SA Jötnar - Fjölnir Húnar
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6946d996f2f04ac9604cd138/index.m3u8
 #EXTINF:-1, Nantes - Chambéry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944da/index.m3u8
 #EXTINF:-1, Mont-Blanc - Tours
