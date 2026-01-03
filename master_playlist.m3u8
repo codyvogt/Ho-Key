@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Pittsburgh - Detroit
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2a6ef93a-4002-45e8-b798-ffae2357a10d/master.m3u8
 #EXTINF:-1, HC Vipers - Tartu Välk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955035e85dc8b3980095823/index.m3u8
 #EXTINF:-1, Velké Meziříčí - Nový Jičín
@@ -22,7 +22,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb
 #EXTINF:-1, Kralupy nad Vltavou - Cheb
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bac3e25addedaac41c322a/index.m3u8
 #EXTINF:-1, HC Děčín - Baník Příbram
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecc61/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecc61/index.m3u8
 #EXTINF:-1, Kobra Praha - Benátky n. J.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dce0b48ebee495bafd631e/index.m3u8
 #EXTINF:-1, Kotkan Titaanit - LeKi
@@ -70,9 +70,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ccf296a4ceb125359fd4
 #EXTINF:-1, Hvězda Praha - B. Medvědi
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693c211ab4e4af00beff2d69/index.m3u8
 #EXTINF:-1, Vlci Jablonec - Varnsdorf
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6912d214614656d90f23ce99/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912d214614656d90f23ce99/index.m3u8
 #EXTINF:-1, Telč - Světlá nad Sázavou
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69254717109a6801f3cf8df7/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69254717109a6801f3cf8df7/index.m3u8
 #EXTINF:-1, Lev Benešov - Poděbrady
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6930438f4f917966ed146af2/index.m3u8
 #EXTINF:-1, Kiilat - Nivala Cowboys 2
@@ -106,7 +106,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a17471e7e2c7b160e57
 #EXTINF:-1, HCMP - Valenciennes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944a4/index.m3u8
 #EXTINF:-1, Falcons - Eppan Pirates
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edca1d615b78791f4670/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edca1d615b78791f4670/index.m3u8
 #EXTINF:-1, HCMV Varese - Pergine
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcb1d615b78791f4672/index.m3u8
 #EXTINF:-1, Alleghe - SV Kaltern
@@ -124,11 +124,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944
 #EXTINF:-1, Chambéry 2 - HCMP 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944b8/index.m3u8
 #EXTINF:-1, Tours - Cergy-Pontoise
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944c4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174985dc8b39800944c4/index.m3u8
 #EXTINF:-1, Chambéry - Grenoble
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944c2/index.m3u8
 #EXTINF:-1, Kiekko-Vantaa - HIFK Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f68111e7e2c7b160e5be7/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694f68111e7e2c7b160e5be7/index.m3u8
 #EXTINF:-1, Vasas - Egerszegi Titánok
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694622e040f960cadd2dbeb5/index.m3u8
 #EXTINF:-1, S. Cápák - Worm Angels
