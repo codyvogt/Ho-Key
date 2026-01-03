@@ -3,10 +3,12 @@
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1, HC Davos - Ambri-Piotta
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Sokol Radomyšl - Soběslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6944eb0fbbeb6f48c2a91096/index.m3u8
-#EXTINF:-1, HC Klatovy - HK Rokycany
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ccf296a4ceb125359fd406/index.m3u8
+#EXTINF:-1, Kiilat - Nivala Cowboys 2
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694f681085dc8b39800949b2/index.m3u8
+#EXTINF:-1, Rouen U20 - CH South USA
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174885dc8b39800944c0/index.m3u8
+#EXTINF:-1, Toulouse-Blagnac - Jaca
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174885dc8b39800944b6/index.m3u8
 #EXTINF:-1, Hvězda Praha - B. Medvědi
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693c211ab4e4af00beff2d69/index.m3u8
 #EXTINF:-1, Vlci Jablonec - Varnsdorf
@@ -15,24 +17,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912d214614656d90f23ce
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69254717109a6801f3cf8df7/index.m3u8
 #EXTINF:-1, Lev Benešov - Poděbrady
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6930438f4f917966ed146af2/index.m3u8
-#EXTINF:-1, Mostečtí Lvi - HC Hronov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecbf1/index.m3u8
 #EXTINF:-1, Kralupy nad Vltavou - Cheb
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bac3e25addedaac41c322a/index.m3u8
 #EXTINF:-1, HC Děčín - Baník Příbram
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecc61/index.m3u8
 #EXTINF:-1, Kobra Praha - Benátky n. J.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dce0b48ebee495bafd631e/index.m3u8
-#EXTINF:-1, Kiilat - Nivala Cowboys 2
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694f681085dc8b39800949b2/index.m3u8
-#EXTINF:-1, Raahe-Kiekko - IFK Lepplax
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f681085dc8b39800949bc/index.m3u8
-#EXTINF:-1, Rouen U20 - CH South USA
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174885dc8b39800944c0/index.m3u8
-#EXTINF:-1, Toulouse-Blagnac - Jaca
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174885dc8b39800944b6/index.m3u8
-#EXTINF:-1, SA Jötnar - Fjölnir Húnar
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6946d996f2f04ac9604cd138/index.m3u8
 #EXTINF:-1, Nantes - Chambéry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944da/index.m3u8
 #EXTINF:-1, Mont-Blanc - Tours
