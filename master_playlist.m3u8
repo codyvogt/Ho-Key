@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, HC Davos - Ambri-Piotta
-https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, Utah - New Jersey Devils
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbf89264-243d-4b30-a51a-f9e432fd3892/master.m3u8
 #EXTINF:-1, Buffalo Sabres - Columbus
@@ -11,10 +9,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbf892
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b6823dd-ba77-47cf-9a36-ef9e8a1f0f95/master.m3u8
 #EXTINF:-1, Tampa Bay - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fc3b4c5-2faa-4818-9120-a671c4d86e1c/master.m3u8
-#EXTINF:-1, Mont-Blanc - Tours
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174985dc8b39800944d8/index.m3u8
-#EXTINF:-1, Dunkeque - Lions de Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944d6/index.m3u8
 #EXTINF:-1, Meudon - Morzine-Avoriaz
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a17471e7e2c7b160e5743/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Épinal
@@ -23,22 +17,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174985dc8b39800944
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a17471e7e2c7b160e5741/index.m3u8
 #EXTINF:-1, HCMP - Valenciennes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944a4/index.m3u8
-#EXTINF:-1, Liège Bulldogs - Hijs Hokij
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947c52660b7de4a81fe866e/index.m3u8
-#EXTINF:-1, Leuven - Eaters Limburg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6947c52760b7de4a81fe8670/index.m3u8
-#EXTINF:-1, Heerenveen - HYC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe8672/index.m3u8
-#EXTINF:-1, S. Cápák - Worm Angels
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694622e060b7de4a81fe82da/index.m3u8
-#EXTINF:-1, MAC Budapest - DEAC JA
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694622e060b7de4a81fe82d8/index.m3u8
-#EXTINF:-1, Roanne - Vaujany
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944c6/index.m3u8
-#EXTINF:-1, Toulouse-Blagnac - Jaca
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a174885dc8b39800944b6/index.m3u8
-#EXTINF:-1, HC Everest - HC Grizzlyz
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695395bd1e7e2c7b160e67bf/index.m3u8
 #EXTINF:-1, Eaters Geleen - Nijmegen
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69427e6b0d73d3ccbfec3071/index.m3u8
 #EXTINF:-1, Brest 2 - Poitiers
@@ -75,5 +53,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcc89696da6914422
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edcd1d615b78791f4674/index.m3u8
 #EXTINF:-1, Valpellice Bulldogs - Feltre
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edcd1d615b78791f4676/index.m3u8
+#EXTINF:-1, Heerenveen - HYC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe8672/index.m3u8
 #EXTINF:-1, SA Víkingar - Fjölnir
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947744a60b7de4a81fe8567/index.m3u8
