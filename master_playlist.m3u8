@@ -3,20 +3,10 @@
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1, HC Davos - Ambri-Piotta
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Highsticks HT - Malax IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694f680f85dc8b398009496a/index.m3u8
-#EXTINF:-1, HC Karlovy Vary - Liberec
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6944f91f455a8f52ce81994f/index.m3u8
-#EXTINF:-1, Havířov - Technika Brno
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ca4f959d2a1a46825800f4/index.m3u8
 #EXTINF:-1, Kopřivnice - Uherský Brod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecbba/index.m3u8
-#EXTINF:-1, Kroměříž - Orli Znojmo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6922a414109a6801f3cf86f2/index.m3u8
 #EXTINF:-1, Hodonín - Žďár n. Sázavou
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68d398256f7f10ac01b3c4e6/index.m3u8
-#EXTINF:-1, Opava - Jestřábi Prostějov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68f206c550c8e37c3b1dce8c/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - HC Hronov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecbf1/index.m3u8
 #EXTINF:-1, Kralupy nad Vltavou - Cheb
@@ -25,22 +15,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bac3e25addedaac41c32
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df102648319de9ecc61/index.m3u8
 #EXTINF:-1, Kobra Praha - Benátky n. J.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68dce0b48ebee495bafd631e/index.m3u8
-#EXTINF:-1, Pelhřimov - Náměšť n. Osl.
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68a5659657409d1c7224215a/index.m3u8
-#EXTINF:-1, HC Žihadla - Vel. Meziříčí B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6940f6930d73d3ccbfec2d8d/index.m3u8
-#EXTINF:-1, Turnov - Lomnice n. Pop.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694023a40d73d3ccbfec2c29/index.m3u8
 #EXTINF:-1, Sokol Radomyšl - Soběslav
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6944eb0fbbeb6f48c2a91096/index.m3u8
-#EXTINF:-1, HC Boskovice - SKMB
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69149416109a6801f3cf60ff/index.m3u8
 #EXTINF:-1, Lev Slaný - SK Černošice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6932ae548cf02b3dcbc2415b/index.m3u8
-#EXTINF:-1, Louny - Roudnice n. Labem
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6927091a68db0e69ca280bfd/index.m3u8
-#EXTINF:-1, Klášterec n. O. - Lovosice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6912e025614656d90f23ced0/index.m3u8
 #EXTINF:-1, HC Klatovy - HK Rokycany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ccf296a4ceb125359fd406/index.m3u8
 #EXTINF:-1, Hvězda Praha - B. Medvědi
@@ -118,7 +96,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6946e7a560b7de4a81fe84
 #EXTINF:-1, Vinschgau - HPC Selection
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69453257455a8f52ce819a1c/index.m3u8
 #EXTINF:-1, HC Vrchlabí - Česká Lípa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6921d11c109a6801f3cf841f/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6921d11c109a6801f3cf841f/index.m3u8
 #EXTINF:-1, Ústí n. Labem - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693bbea4b4e4af00beff2c0c/index.m3u8
 #EXTINF:-1, Liège Bulldogs - Hijs Hokij
@@ -129,3 +107,29 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe86
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe8672/index.m3u8
 #EXTINF:-1, Roanne - Vaujany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174985dc8b39800944c6/index.m3u8
+#EXTINF:-1, Eaters Geleen - Nijmegen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69427e6b0d73d3ccbfec3071/index.m3u8
+#EXTINF:-1, St. Michael's - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Colgate - Boston College
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, LIU - New Hampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Providence - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Stonehill - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Union - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Delaware - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4d225c24-a46d-4591-af18-f8890d05e6c0-hls/master/4d225c24-a46d-4591-af18-f8890d05e6c0-hls.m3u8
+#EXTINF:-1, Vermont - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Holy Cross - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Bemidji State - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, SA Víkingar - Fjölnir
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947744a60b7de4a81fe8567/index.m3u8
