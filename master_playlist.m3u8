@@ -9,26 +9,8 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbf892
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b6823dd-ba77-47cf-9a36-ef9e8a1f0f95/master.m3u8
 #EXTINF:-1, Tampa Bay - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fc3b4c5-2faa-4818-9120-a671c4d86e1c/master.m3u8
-#EXTINF:-1, Villard-de-Lans - Épinal
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174985dc8b39800944dc/index.m3u8
-#EXTINF:-1, Caen - Neuilly-sur-Marne
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a17471e7e2c7b160e5741/index.m3u8
-#EXTINF:-1, HCMP - Valenciennes
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a174885dc8b39800944a4/index.m3u8
-#EXTINF:-1, Alleghe - SV Kaltern
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6880edcc89696da69144228b/index.m3u8
-#EXTINF:-1, Valdifiemme HC - Zinnen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6880edcd1d615b78791f4674/index.m3u8
-#EXTINF:-1, Valpellice Bulldogs - Feltre
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6880edcd1d615b78791f4676/index.m3u8
-#EXTINF:-1, Heerenveen - HYC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947c52760b7de4a81fe8672/index.m3u8
-#EXTINF:-1, Tours 2 - Bordeaux 2
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174885dc8b39800944b0/index.m3u8
 #EXTINF:-1, Chambéry 2 - HCMP 2
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694a174885dc8b39800944b8/index.m3u8
-#EXTINF:-1, SA Víkingar - Fjölnir
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947744a60b7de4a81fe8567/index.m3u8
 #EXTINF:-1, Providence - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Stonehill - Princeton
@@ -57,6 +39,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Notre Dame - WMU
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af475fec-6c0d-43a4-9405-f483f6212ed4-hls/master/af475fec-6c0d-43a4-9405-f483f6212ed4-hls.m3u8
 #EXTINF:-1, Ohio State - BGSU
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, Colgate - New Hampshire
@@ -69,3 +53,9 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Omaha - Cornell
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Mercyhurst - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/09812b0f-e377-4cb4-b13f-e1e05ef2104d-hls/master/09812b0f-e377-4cb4-b13f-e1e05ef2104d-hls.m3u8
+#EXTINF:-1, Maine - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fdae06ee-cc90-4ff8-8ced-abb84ac7489e-hls/master/fdae06ee-cc90-4ff8-8ced-abb84ac7489e-hls.m3u8
+#EXTINF:-1, Air Force - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e1531823-2b8f-485b-8bd2-923a7822682c-hls/master/e1531823-2b8f-485b-8bd2-923a7822682c-hls.m3u8
