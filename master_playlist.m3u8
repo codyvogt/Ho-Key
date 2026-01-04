@@ -1,34 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Č. Budějovice - Olomouc
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958ea61d59f6f88621106ca.m3u8
-#EXTINF:-1, HC Pardubice - Vítkovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea51d59f6f88621106c8.m3u8
-#EXTINF:-1, Kometa Brno - Karlovy Vary
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958ea72d59f6f88621106cc.m3u8
 #EXTINF:-1, Montréal - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/91a48758-d586-4b1d-a55d-2bd622dc9631/master.m3u8
-#EXTINF:-1, Slavia Třebíč - HC Tábor
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69569c6285dc8b3980095980.m3u8
-#EXTINF:-1, HC Litoměřice - Chomutov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69569c3b1e7e2c7b160e6a9a.m3u8
-#EXTINF:-1, Baník Sokolov - VHK Vsetín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69569c2385dc8b398009597c.m3u8
-#EXTINF:-1, Pardubice B - SC Kolín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69569c4f85dc8b398009597e.m3u8
-#EXTINF:-1, Čáslav - Rytíři Vlašim
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c282b4b4c8ed39e3473e52/index.m3u8
-#EXTINF:-1, Česká Lípa - HC Jičín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692973d3918e75299fe5b716/index.m3u8
-#EXTINF:-1, Jaroměř - Králové n. Labem
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece04/index.m3u8
-#EXTINF:-1, Morav. Třebová - Hlinsko
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f791e3/index.m3u8
-#EXTINF:-1, HC Chotěboř - Velká Bíteš
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690d8c1640899867ab4868b9/index.m3u8
 #EXTINF:-1, Kutná Hora - Benátky B
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69453f74bbeb6f48c2a912b9/index.m3u8
-#EXTINF:-1, HC Klatovy - HC Apollo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931a3248cf02b3dcbc23f33/index.m3u8
 #EXTINF:-1, Ml. Boleslav B - Žabonosy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69428e670d73d3ccbfec30cd/index.m3u8
 #EXTINF:-1, Olomouc - Warriors Brno
@@ -61,5 +35,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694916a660b7de4a81fe89
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694916a660b7de4a81fe89c6/index.m3u8
 #EXTINF:-1, HYC - Mechelen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694916a740f960cadd2dc5a7/index.m3u8
-#EXTINF:-1, Hammarö HC - Forshaga IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69521b0285dc8b39800951d7/index.m3u8
+#EXTINF:-1, LIU - New Hampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, BSU - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
