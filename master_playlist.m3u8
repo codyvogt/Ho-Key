@@ -12,33 +12,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea2c85dc8b39800960
 #EXTINF:-1, Sparta Praha - Rytíři Kladno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958ea1bd59f6f88621106c6.m3u8
 #EXTINF:-1, Plzeň - BK Mladá Boleslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea3f85dc8b39800960d2.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958ea3f85dc8b39800960d2.m3u8
 #EXTINF:-1, Č. Budějovice - Olomouc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea61d59f6f88621106ca.m3u8
 #EXTINF:-1, HC Pardubice - Vítkovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea51d59f6f88621106c8.m3u8
 #EXTINF:-1, Kometa Brno - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea72d59f6f88621106cc.m3u8
-#EXTINF:-1, Herlev Eagles - Esbjerg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6947f2d460b7de4a81fe872b.m3u8
-#EXTINF:-1, Frederikshavn - Sønderj.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694800e6f07a4249fe5ef3c2.m3u8
-#EXTINF:-1, Kiekko-Vantaa - K-Espoo Ch
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6950b9911e7e2c7b160e5f5d/index.m3u8
-#EXTINF:-1, Hermes - KOOVEE
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99185dc8b3980094d38/index.m3u8
 #EXTINF:-1, Viikingit - FoPS
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b99185dc8b3980094d42/index.m3u8
 #EXTINF:-1, Imatran Ketterä - TUTO
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b99185dc8b3980094d39/index.m3u8
-#EXTINF:-1, Kiekko-Ahma - K-Espoo Ch
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99185dc8b3980094d30/index.m3u8
-#EXTINF:-1, HIFK Akatemia - Ilves Ak
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9911e7e2c7b160e5f61/index.m3u8
-#EXTINF:-1, TPS Akatemia - PaRa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99185dc8b3980094d3f/index.m3u8
-#EXTINF:-1, Salo HT - Saimaan Pallo
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9911e7e2c7b160e5f63/index.m3u8
 #EXTINF:-1, JYP - Saimaan Pallo
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9901e7e2c7b160e5f08/index.m3u8
 #EXTINF:-1, TPS - Helsingin Jokerit
@@ -61,12 +45,18 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6912ee2d350f03ad08f4b9
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6927091a68db0e69ca280bfa/index.m3u8
 #EXTINF:-1, Slaný - Roudnice n. L.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6932bc657bdeef97ba5316a0/index.m3u8
+#EXTINF:-1, TPS Akatemia - PaRa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99185dc8b3980094d3f/index.m3u8
+#EXTINF:-1, Salo HT - Saimaan Pallo
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9911e7e2c7b160e5f63/index.m3u8
 #EXTINF:-1, Haukat Ak - K-Espoo IV
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f47/index.m3u8
 #EXTINF:-1, Karhu-Kissat Ak - PEPO
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9901e7e2c7b160e5f50/index.m3u8
 #EXTINF:-1, EVU - Hyvinkää-Riihimäki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f11/index.m3u8
+#EXTINF:-1, Frederikshavn - Sønderj.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694800e6f07a4249fe5ef3c2.m3u8
 #EXTINF:-1, Slavia Praha - ZUBR Přerov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69569c021e7e2c7b160e6a98.m3u8
 #EXTINF:-1, Zlín - HC Frýdek-Místek
@@ -138,7 +128,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6931a3248cf02b3dcbc23f
 #EXTINF:-1, Ml. Boleslav B - Žabonosy
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69428e670d73d3ccbfec30cd/index.m3u8
 #EXTINF:-1, Ducs d'Angers - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f28/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28514b4c8ed39e3473f28/index.m3u8
 #EXTINF:-1, Rouen - Amiens
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f42/index.m3u8
 #EXTINF:-1, Briançon - Grenoble
