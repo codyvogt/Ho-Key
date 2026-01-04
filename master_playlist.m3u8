@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, SA Jötnar - Fjölnir Húnar
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947ac8640f960cadd2dc1f5/index.m3u8
 #EXTINF:-1, APV - HPK Akatemia
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b99185dc8b3980094d10/index.m3u8
 #EXTINF:-1, KeuPa HT - Kärpät Ak
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99185dc8b3980094d05/index.m3u8
 #EXTINF:-1, Nokian Pyry - Laser HT
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f681085dc8b39800949ce/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694f681085dc8b39800949ce/index.m3u8
 #EXTINF:-1, RNK - KooKoo Team/IiHoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f00/index.m3u8
 #EXTINF:-1, Peliitat - HPK Akatemia
@@ -17,6 +15,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Traktor - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Torpedo Nizhny - Spartak
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1, Ak Bars - Avtomobilist
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1, CSKA Moscow - Lokomotiv
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Val. Meziříčí B - Vysočina
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b3c071788ecb05d45302e/index.m3u8
 #EXTINF:-1, Děčín - Bílí Tygři Liberec
