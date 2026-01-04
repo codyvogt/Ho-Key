@@ -19,10 +19,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea61d59f6f88621106
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea51d59f6f88621106c8.m3u8
 #EXTINF:-1, Kometa Brno - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea72d59f6f88621106cc.m3u8
-#EXTINF:-1, Viikingit - FoPS
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b99185dc8b3980094d42/index.m3u8
-#EXTINF:-1, Imatran Ketterä - TUTO
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b99185dc8b3980094d39/index.m3u8
 #EXTINF:-1, JYP - Saimaan Pallo
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9901e7e2c7b160e5f08/index.m3u8
 #EXTINF:-1, TPS - Helsingin Jokerit
@@ -87,6 +83,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6944eb14bbeb6f48c2a910
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692466181ea1b60e809f503d/index.m3u8
 #EXTINF:-1, Olomouc - Warriors Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6920718d1ea1b60e809f40ff/index.m3u8
+#EXTINF:-1, Imatran Ketterä - TUTO
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b99185dc8b3980094d39/index.m3u8
 #EXTINF:-1, IK Kronan - Kurikan Ryhti
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f16/index.m3u8
 #EXTINF:-1, Luleå HF - IF Björklöven
@@ -141,3 +139,13 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f2e/index.m3u8
 #EXTINF:-1, Kobra - Berounské Lvice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69427246148907a0dbe332ec/index.m3u8
+#EXTINF:-1, Valašské Meziříčí - Šumperk
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb10/index.m3u8
+#EXTINF:-1, Amiens - Hormadi d'Anglet
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694b68c785dc8b3980094681/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Gap
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694b68c785dc8b3980094675/index.m3u8
+#EXTINF:-1, Strasbourg - Rouen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694b68c785dc8b3980094683/index.m3u8
+#EXTINF:-1, Villard-de-Lans - Rouen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694b68c785dc8b3980094687/index.m3u8
