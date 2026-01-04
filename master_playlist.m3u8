@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, APV - HPK Akatemia
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b99185dc8b3980094d10/index.m3u8
-#EXTINF:-1, KeuPa HT - Kärpät Ak
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99185dc8b3980094d05/index.m3u8
 #EXTINF:-1, Nokian Pyry - Laser HT
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694f681085dc8b39800949ce/index.m3u8
 #EXTINF:-1, RNK - KooKoo Team/IiHoo
@@ -107,6 +103,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f11/index.m3u8
 #EXTINF:-1, Pajala HC - Rosvik IK 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69520f1385dc8b3980095103/index.m3u8
+#EXTINF:-1, KeuPa HT - Kärpät Ak
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99185dc8b3980094d05/index.m3u8
 #EXTINF:-1, SC Kolín - Havlíčkův Brod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942723e148907a0dbe332e8/index.m3u8
 #EXTINF:-1, Havířov - Berani Zlín B
