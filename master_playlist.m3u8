@@ -9,18 +9,8 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, CSKA Moscow - Lokomotiv
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Val. Meziříčí B - Vysočina
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b3c071788ecb05d45302e/index.m3u8
-#EXTINF:-1, Děčín - Bílí Tygři Liberec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693c04f59f97f2f2ddbd9d89/index.m3u8
-#EXTINF:-1, Kobra - Berounské Lvice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69427246148907a0dbe332ec/index.m3u8
-#EXTINF:-1, Veszprém - Graz II
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6947745f60b7de4a81fe858f/index.m3u8
 #EXTINF:-1, MAC Marilyn - Linz
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6947745f60b7de4a81fe858b/index.m3u8
-#EXTINF:-1, SA Víkingar - Fjölnir
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6947d6b6f07a4249fe5ef34a/index.m3u8
 #EXTINF:-1, RoKi - Tampereen Ilves
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6950b9901e7e2c7b160e5f15/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - Jukurit
@@ -117,3 +107,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6920718d1ea1b60e809f40
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6947f2d460b7de4a81fe872b.m3u8
 #EXTINF:-1, Frederikshavn - Sønderj.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694800e6f07a4249fe5ef3c2.m3u8
+#EXTINF:-1, Děčín - Bílí Tygři Liberec
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693c04f59f97f2f2ddbd9d89/index.m3u8
+#EXTINF:-1, Kobra - Berounské Lvice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69427246148907a0dbe332ec/index.m3u8
