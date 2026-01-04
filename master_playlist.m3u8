@@ -19,18 +19,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea61d59f6f88621106
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea51d59f6f88621106c8.m3u8
 #EXTINF:-1, Kometa Brno - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ea72d59f6f88621106cc.m3u8
-#EXTINF:-1, SC Kolín - Havlíčkův Brod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6942723e148907a0dbe332e8/index.m3u8
-#EXTINF:-1, Havířov - Berani Zlín B
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fa19f740899867ab48369d/index.m3u8
-#EXTINF:-1, HC Tábor - HC Chrudim
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6944eb14bbeb6f48c2a910a2/index.m3u8
-#EXTINF:-1, VHK Vsetín - Technika Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692466181ea1b60e809f503d/index.m3u8
-#EXTINF:-1, Olomouc - Warriors Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6920718d1ea1b60e809f40ff/index.m3u8
-#EXTINF:-1, HIFK Stadi - S-Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f0f/index.m3u8
 #EXTINF:-1, Herlev Eagles - Esbjerg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6947f2d460b7de4a81fe872b.m3u8
 #EXTINF:-1, Frederikshavn - Sønderj.
@@ -105,6 +93,14 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9901e7e2c7b160e5e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f03/index.m3u8
 #EXTINF:-1, Liikunnan Riemu - Haukat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b99085dc8b3980094ce7/index.m3u8
+#EXTINF:-1, Havířov - Berani Zlín B
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fa19f740899867ab48369d/index.m3u8
+#EXTINF:-1, HC Tábor - HC Chrudim
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6944eb14bbeb6f48c2a910a2/index.m3u8
+#EXTINF:-1, VHK Vsetín - Technika Brno
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692466181ea1b60e809f503d/index.m3u8
+#EXTINF:-1, Olomouc - Warriors Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6920718d1ea1b60e809f40ff/index.m3u8
 #EXTINF:-1, IK Kronan - Kurikan Ryhti
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950b9901e7e2c7b160e5f16/index.m3u8
 #EXTINF:-1, Luleå HF - IF Björklöven
