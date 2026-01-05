@@ -1,28 +1,14 @@
 #EXTM3U
 #EXTINF:-1, Canada - Finland
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2f00f6e4-4b44-4833-910f-a3f5b9c0f54e/master.m3u8
-#EXTINF:-1, Sollentuna HC - Tyresö
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69536acd85dc8b398009550a/index.m3u8
-#EXTINF:-1, Brinkens IF - Huddinge IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6953632285dc8b39800954e1/index.m3u8
-#EXTINF:-1, Almtuna IS - Nacka HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69536f111e7e2c7b160e6758/index.m3u8
 #EXTINF:-1, Nyköpings SK - IFK Täby
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69535edf85dc8b39800954dc/index.m3u8
 #EXTINF:-1, IK Göta - Flemingsberg
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69536f111e7e2c7b160e6757/index.m3u8
-#EXTINF:-1, Segeltorps IF - Enköping
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69536ba785dc8b3980095528/index.m3u8
-#EXTINF:-1, Järna SK - Hammarby IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69536feb85dc8b3980095564/index.m3u8
-#EXTINF:-1, Vallentuna - IFK Tumba IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695369f41e7e2c7b160e6732/index.m3u8
 #EXTINF:-1, SDE HF - Haninge Anchors
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953691a85dc8b3980095504/index.m3u8
 #EXTINF:-1, Trångsund - Wings Arlanda
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6953632285dc8b39800954e0/index.m3u8
-#EXTINF:-1, Kosken Pojat - NKV
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9901e7e2c7b160e5f14/index.m3u8
 #EXTINF:-1, Belgium - Netherlands
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a6f351e7e2c7b160e583f/index.m3u8
 #EXTINF:-1, Strasbourg - CHS USA
