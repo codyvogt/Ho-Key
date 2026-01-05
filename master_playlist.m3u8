@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Shakhter - HK Vitebsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Sollentuna HC - Tyresö
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69536acd85dc8b398009550a/index.m3u8
 #EXTINF:-1, Brinkens IF - Huddinge IK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6953632285dc8b39800954e1/index.m3u8
 #EXTINF:-1, Almtuna IS - Nacka HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69536f111e7e2c7b160e6758/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69536f111e7e2c7b160e6758/index.m3u8
 #EXTINF:-1, Nyköpings SK - IFK Täby
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69535edf85dc8b39800954dc/index.m3u8
 #EXTINF:-1, IK Göta - Flemingsberg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69536f111e7e2c7b160e6757/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69536f111e7e2c7b160e6757/index.m3u8
 #EXTINF:-1, Segeltorps IF - Enköping
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69536ba785dc8b3980095528/index.m3u8
 #EXTINF:-1, Järna SK - Hammarby IF
@@ -20,7 +18,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695369f41e7e2c7b160e67
 #EXTINF:-1, SDE HF - Haninge Anchors
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953691a85dc8b3980095504/index.m3u8
 #EXTINF:-1, Trångsund - Wings Arlanda
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953632285dc8b39800954e0/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6953632285dc8b39800954e0/index.m3u8
 #EXTINF:-1, Kosken Pojat - NKV
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950b9901e7e2c7b160e5f14/index.m3u8
 #EXTINF:-1, Belgium - Netherlands
