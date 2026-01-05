@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Shakhter - HK Vitebsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Djurgårdens IF - Björklöven
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695aabe1e1ddd6cdf630875c/index.m3u8
-#EXTINF:-1, HC Kometa Brno - Třinec
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69463c9560b7de4a81fe8303/index.m3u8
 #EXTINF:-1, Sollentuna HC - Tyresö
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69536acd85dc8b398009550a/index.m3u8
 #EXTINF:-1, Brinkens IF - Huddinge IK
