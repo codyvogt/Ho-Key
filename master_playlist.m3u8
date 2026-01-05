@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Luleå HF - Örebro HK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695aabe1e1ddd6cdf630875b/index.m3u8
-#EXTINF:-1, Djurgårdens IF - Björklöven
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695aabe1e1ddd6cdf630875c/index.m3u8
 #EXTINF:-1, Sochi - Dynamo Moscow
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Shakhter - HK Vitebsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Djurgårdens IF - Björklöven
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695aabe1e1ddd6cdf630875c/index.m3u8
+#EXTINF:-1, HC Kometa Brno - Třinec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69463c9560b7de4a81fe8303/index.m3u8
