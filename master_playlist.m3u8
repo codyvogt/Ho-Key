@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1, CSKA - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Tranås AIF - Skövde HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c7631e7e2c7b160e6979/index.m3u8
-#EXTINF:-1, IK Guts - Ulricehamns IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954bfb685dc8b39800957bb/index.m3u8
-#EXTINF:-1, Alvesta SK - Vita Hästen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954c4d685dc8b39800957d7/index.m3u8
-#EXTINF:-1, Mörrums IK - Vänersborg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954b57c1e7e2c7b160e6936/index.m3u8
-#EXTINF:-1, Västerviks IK - IF Mölndal
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954c68985dc8b39800957e5/index.m3u8
-#EXTINF:-1, Värnamo GIK - Nässjö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957ba/index.m3u8
-#EXTINF:-1, Boro/Vetlanda - Kållered SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b13985dc8b398009576e/index.m3u8
-#EXTINF:-1, KRIF - Mariestad HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c16b85dc8b39800957c2/index.m3u8
 #EXTINF:-1, HC Lidköping - Alvesta SK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954c09185dc8b39800957c0/index.m3u8
 #EXTINF:-1, Haninge HC - Segeltorp
@@ -31,6 +15,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c5b085dc8b39800957
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c4d685dc8b39800957db/index.m3u8
 #EXTINF:-1, Hammarby IF - Tumba IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b2ed85dc8b3980095771/index.m3u8
+#EXTINF:-1, Alvesta SK - Vita Hästen
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954c4d685dc8b39800957d7/index.m3u8
+#EXTINF:-1, Mörrums IK - Vänersborg
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954b57c1e7e2c7b160e6936/index.m3u8
+#EXTINF:-1, Västerviks IK - IF Mölndal
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954c68985dc8b39800957e5/index.m3u8
+#EXTINF:-1, Värnamo GIK - Nässjö HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957ba/index.m3u8
+#EXTINF:-1, Boro/Vetlanda - Kållered SK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b13985dc8b398009576e/index.m3u8
+#EXTINF:-1, KRIF - Mariestad HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c16b85dc8b39800957c2/index.m3u8
 #EXTINF:-1, IFK Mariefred - Gnesta IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954add085dc8b3980095728/index.m3u8
 #EXTINF:-1, Knivsta IK - Boo HC
@@ -50,7 +46,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bd2885dc8b39800957
 #EXTINF:-1, Trångsunds IF - Älta IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b4a31e7e2c7b160e6933/index.m3u8
 #EXTINF:-1, Peliitat - Nokian Pyry
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b3980095499/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69535c8f85dc8b3980095499/index.m3u8
 #EXTINF:-1, Karhu-Kissat - PiTa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b39800954a1/index.m3u8
 #EXTINF:-1, PUS - HCK Salamat
