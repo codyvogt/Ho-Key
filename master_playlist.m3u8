@@ -4,7 +4,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695ba3a01e7e2c7b160e7f
 #EXTINF:-1, Litvínov - Rytíři Kladno
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695ba39285dc8b3980096db6.m3u8
 #EXTINF:-1, Olomouc - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba3af1e7e2c7b160e7f22.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695ba3af1e7e2c7b160e7f22.m3u8
 #EXTINF:-1, Sparta Praha - Pardubice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba3c185dc8b3980096db8.m3u8
 #EXTINF:-1, Haninge HC - Segeltorp
@@ -42,8 +42,10 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69535c8f85dc8b39800954
 #EXTINF:-1, Lomnice n. P. - Česká Lípa
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694925dd60b7de4a81fe8a32/index.m3u8
 #EXTINF:-1, Roudnice n. L. - Kralupy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915d7841ea1b60e809f26e8/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915d7841ea1b60e809f26e8/index.m3u8
 #EXTINF:-1, Újpesti JA - Fehérvár HA19
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694adc3c85dc8b3980094640/index.m3u8
+#EXTINF:-1, Fehérvár HA19 - DEAC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694adc3c85dc8b3980094640/index.m3u8
 #EXTINF:-1, Värnamo GIK - Nässjö HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957ba/index.m3u8
