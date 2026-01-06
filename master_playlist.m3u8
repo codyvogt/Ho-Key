@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Utah - New York Rangers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dd9e1c34-5fe9-471f-aeb1-2a2ac8643f3d/master.m3u8
-#EXTINF:-1, Anaheim - Washington
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e8eeeb3f-cce0-4d14-ab44-3a675093e411/master.m3u8
-#EXTINF:-1, Detroit - Ottawa Senators
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ee2dd318-c715-4444-bc9d-25526a19ec72/master.m3u8
+#EXTINF:-1, Laser Bangers - Laser Hot
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c9085dc8b39800954b5/index.m3u8
+#EXTINF:-1, Vilhelmina - Härnösand HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6923fac8109a6801f3cf8a95/index.m3u8
+#EXTINF:-1, Tranås AIF - Skövde HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c7631e7e2c7b160e6979/index.m3u8
+#EXTINF:-1, IK Guts - Ulricehamns IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957bb/index.m3u8
