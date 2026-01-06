@@ -7,8 +7,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695ba39285dc8b3980096d
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695ba3af1e7e2c7b160e7f22.m3u8
 #EXTINF:-1, Sparta Praha - Pardubice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695ba3c185dc8b3980096db8.m3u8
-#EXTINF:-1, Lokomotiv Orsha - Lida
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Lomnice n. P. - Česká Lípa
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694925dd60b7de4a81fe8a32/index.m3u8
 #EXTINF:-1, Roudnice n. L. - Kralupy
@@ -40,18 +38,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957
 #EXTINF:-1, Boro/Vetlanda - Kållered SK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954b13985dc8b398009576e/index.m3u8
 #EXTINF:-1, KRIF - Mariestad HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c16b85dc8b39800957c2/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954c16b85dc8b39800957c2/index.m3u8
 #EXTINF:-1, Helsingborg - Oskarshamn
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6950bf4885dc8b3980094d49/index.m3u8
 #EXTINF:-1, Halmstad - Troja-Ljungby
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954bb7585dc8b3980095782/index.m3u8
-#EXTINF:-1, Caen - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e0bc785dc8b39800947ee/index.m3u8
 #EXTINF:-1, Strasbourg - Cholet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e0bc785dc8b39800947f0/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694e0bc785dc8b39800947f0/index.m3u8
 #EXTINF:-1, Karhu-Kissat - PiTa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b39800954a1/index.m3u8
 #EXTINF:-1, PUS - HCK Salamat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c901e7e2c7b160e66ff/index.m3u8
+#EXTINF:-1, Caen - Grenoble
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e0bc785dc8b39800947ee/index.m3u8
 #EXTINF:-1, SR - Fjölnir
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694b68c61e7e2c7b160e5905/index.m3u8
