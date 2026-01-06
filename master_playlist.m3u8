@@ -1,34 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Sparta Praha - Pardubice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695ba3c185dc8b3980096db8.m3u8
-#EXTINF:-1, Fehérvár HA19 - DEAC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694adc3c85dc8b3980094640/index.m3u8
-#EXTINF:-1, Brinkens IF - IFK Österåker
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954b4a31e7e2c7b160e6932/index.m3u8
-#EXTINF:-1, Trångsunds IF - Älta IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954b4a31e7e2c7b160e6933/index.m3u8
-#EXTINF:-1, Herning - Rungsted
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694adc2585dc8b3980094638.m3u8
-#EXTINF:-1, Odense - Frederikshavn
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694adc2585dc8b398009463a.m3u8
-#EXTINF:-1, Herlev Ealges - Aalborg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694adc2585dc8b3980094636.m3u8
-#EXTINF:-1, Västerås IK - Färjestad BK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954c3fa85dc8b39800957d2/index.m3u8
-#EXTINF:-1, Värnamo GIK - Nässjö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957ba/index.m3u8
-#EXTINF:-1, Boro/Vetlanda - Kållered SK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954b13985dc8b398009576e/index.m3u8
-#EXTINF:-1, KRIF - Mariestad HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954c16b85dc8b39800957c2/index.m3u8
-#EXTINF:-1, Helsingborg - Oskarshamn
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6950bf4885dc8b3980094d49/index.m3u8
 #EXTINF:-1, Halmstad - Troja-Ljungby
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954bb7585dc8b3980095782/index.m3u8
 #EXTINF:-1, IK Göta - Bålsta HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c4d685dc8b39800957db/index.m3u8
 #EXTINF:-1, Hammarby IF - Tumba IK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954b2ed85dc8b3980095771/index.m3u8
+#EXTINF:-1, KRIF - Mariestad HC
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954c16b85dc8b39800957c2/index.m3u8
 #EXTINF:-1, Strasbourg - Cholet
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694e0bc785dc8b39800947f0/index.m3u8
 #EXTINF:-1, Karhu-Kissat - PiTa
