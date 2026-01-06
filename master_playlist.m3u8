@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1, CSKA - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Vítkovice - Škoda Plzeň
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba3a01e7e2c7b160e7f20.m3u8
+#EXTINF:-1, Litvínov - Rytíři Kladno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba39285dc8b3980096db6.m3u8
+#EXTINF:-1, Olomouc - Kometa Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba3af1e7e2c7b160e7f22.m3u8
+#EXTINF:-1, Sparta Praha - Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba3c185dc8b3980096db8.m3u8
 #EXTINF:-1, IFK Mariefred - Gnesta IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954add085dc8b3980095728/index.m3u8
 #EXTINF:-1, Knivsta IK - Boo HC
@@ -14,7 +22,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954af8585dc8b39800957
 #EXTINF:-1, Kungsörs IK - HC Örnen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b2ed85dc8b3980095770/index.m3u8
 #EXTINF:-1, Hallsberg 2 - Pickels HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bd2885dc8b39800957a3/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954bd2885dc8b39800957a3/index.m3u8
 #EXTINF:-1, Brinkens IF - IFK Österåker
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b4a31e7e2c7b160e6932/index.m3u8
 #EXTINF:-1, Trångsunds IF - Älta IF
