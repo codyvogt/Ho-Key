@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, CSKA - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Laser Bangers - Laser Hot
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69535c9085dc8b39800954b5/index.m3u8
-#EXTINF:-1, Karhu-Kissat - PiTa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b39800954a1/index.m3u8
-#EXTINF:-1, PUS - HCK Salamat
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c901e7e2c7b160e66ff/index.m3u8
 #EXTINF:-1, Tranås AIF - Skövde HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c7631e7e2c7b160e6979/index.m3u8
 #EXTINF:-1, IK Guts - Ulricehamns IF
@@ -57,3 +51,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bd2885dc8b39800957
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b4a31e7e2c7b160e6933/index.m3u8
 #EXTINF:-1, Peliitat - Nokian Pyry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b3980095499/index.m3u8
+#EXTINF:-1, Karhu-Kissat - PiTa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b39800954a1/index.m3u8
+#EXTINF:-1, PUS - HCK Salamat
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c901e7e2c7b160e66ff/index.m3u8
