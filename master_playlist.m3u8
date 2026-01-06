@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Caen - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e0bc785dc8b39800947ee/index.m3u8
-#EXTINF:-1, SR - Fjölnir
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694b68c61e7e2c7b160e5905/index.m3u8
+#EXTINF:-1, Northeastern - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
