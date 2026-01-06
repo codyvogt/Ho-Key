@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1, CSKA - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Västerviks IK - IF Mölndal
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954c68985dc8b39800957e5/index.m3u8
-#EXTINF:-1, Värnamo GIK - Nässjö HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957ba/index.m3u8
-#EXTINF:-1, Boro/Vetlanda - Kållered SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b13985dc8b398009576e/index.m3u8
-#EXTINF:-1, KRIF - Mariestad HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c16b85dc8b39800957c2/index.m3u8
 #EXTINF:-1, IFK Mariefred - Gnesta IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954add085dc8b3980095728/index.m3u8
 #EXTINF:-1, Knivsta IK - Boo HC
@@ -43,6 +35,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c4d685dc8b39800957
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b2ed85dc8b3980095771/index.m3u8
 #EXTINF:-1, Lokomotiv Orsha - Lida
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Laser HT Akatemia - TIHC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b3980095498/index.m3u8
+#EXTINF:-1, Värnamo GIK - Nässjö HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954bfb685dc8b39800957ba/index.m3u8
+#EXTINF:-1, Boro/Vetlanda - Kållered SK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954b13985dc8b398009576e/index.m3u8
+#EXTINF:-1, KRIF - Mariestad HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954c16b85dc8b39800957c2/index.m3u8
 #EXTINF:-1, Karhu-Kissat - PiTa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69535c8f85dc8b39800954a1/index.m3u8
 #EXTINF:-1, PUS - HCK Salamat
