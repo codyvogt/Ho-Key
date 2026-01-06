@@ -1,3 +1,11 @@
 #EXTM3U
+#EXTINF:-1, Vancouver - Buffalo
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a0faa568-11f1-4a74-872c-27c1443f5c3e/master.m3u8
+#EXTINF:-1, Colorado - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0115998f-8e78-483d-8f66-4dcfe85b0405/master.m3u8
+#EXTINF:-1, Anaheim - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/82a01211-9f98-4d5f-bef7-5690cbac7447/master.m3u8
+#EXTINF:-1, Dallas Stars - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cc0832fd-4e2a-46c4-9772-e9aac144a962/master.m3u8
 #EXTINF:-1, Northeastern - Yale
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
