@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1, Shakhter - HK Vitebsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Sochi - Dynamo Moscow
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, HC Třinec - Karlovy Vary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695bbc6d64ec74f974f8f3eb.m3u8
+#EXTINF:-1, Frýdek-Místek - SC Kolín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba3e585dc8b3980096dba.m3u8
+#EXTINF:-1, Chomutov - Slavia Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba3f285dc8b3980096dbc.m3u8
+#EXTINF:-1, VHK Vsetín - Pardubice B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba40285dc8b3980096dbe.m3u8
+#EXTINF:-1, HC Přerov - Dukla Jihlava
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba4111e7e2c7b160e7f24.m3u8
+#EXTINF:-1, Berani Zlín - Slavia Třebíč
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba41f1e7e2c7b160e7f26.m3u8
+#EXTINF:-1, HC Poruba - Baník Sokolov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba4391e7e2c7b160e7f28.m3u8
+#EXTINF:-1, Tábor - Stadion Litoměřice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba44d1e7e2c7b160e7f2b.m3u8
