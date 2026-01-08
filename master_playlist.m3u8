@@ -1,16 +1,12 @@
 #EXTM3U
 #EXTINF:-1, S-Kiekko - Liikunnan Riemu
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955ff8f85dc8b39800958a5/index.m3u8
-#EXTINF:-1, Šumperk - Havlíčkův Brod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694fbd5d85dc8b3980094b1f/index.m3u8
-#EXTINF:-1, HC Olomouc - HC Chrudim
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694d0c541e7e2c7b160e59ef/index.m3u8
-#EXTINF:-1, Kiekko-Espoo - HPK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955ff8f85dc8b39800958a1/index.m3u8
 #EXTINF:-1, Lahden Pelians - Jukurit
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6955ff8f85dc8b39800958b4/index.m3u8
 #EXTINF:-1, Chiefs Turku - Jyske
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954ae111e7e2c7b160e691c/index.m3u8
+#EXTINF:-1, HC Olomouc - HC Chrudim
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694d0c541e7e2c7b160e59ef/index.m3u8
 #EXTINF:-1, KOOVEE - FoPS
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6955ff8f1e7e2c7b160e69fa/index.m3u8
 #EXTINF:-1, HJK - Porvoon Hunters
@@ -29,8 +25,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695755141e7e2c7b160e6b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695755141e7e2c7b160e6b5b/index.m3u8
 #EXTINF:-1, IFK Falköping - Strömstad
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695765461e7e2c7b160e6bc6/index.m3u8
-#EXTINF:-1, Kungsbacka HC - Härryda
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69576a641e7e2c7b160e6bd4/index.m3u8
 #EXTINF:-1, Hille/Åbyggeby - Sandviken
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69575b0b85dc8b3980095a36/index.m3u8
 #EXTINF:-1, Brooklyn Tigers HF - Lejon
