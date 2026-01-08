@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Sibir - Lokomotiv Yaroslavl
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Sal. Yulaev - Avtomobilist
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Metallurg Mg - Avangard
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
