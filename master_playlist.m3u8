@@ -1,28 +1,10 @@
 #EXTM3U
-#EXTINF:-1, HC Olomouc - HC Chrudim
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694d0c541e7e2c7b160e59ef/index.m3u8
-#EXTINF:-1, KOOVEE - FoPS
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6955ff8f1e7e2c7b160e69fa/index.m3u8
-#EXTINF:-1, HJK - Porvoon Hunters
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6955ff8f1e7e2c7b160e69ff/index.m3u8
-#EXTINF:-1, Södertälje SK - Västerås IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695765461e7e2c7b160e6bc8/index.m3u8
-#EXTINF:-1, IK Guts Finspång - Nässjö
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695762b685dc8b3980095a67/index.m3u8
-#EXTINF:-1, LN 70 HC - Töreboda HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751ab1e7e2c7b160e6b53/index.m3u8
-#EXTINF:-1, Lerums BK - Skövde HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695755141e7e2c7b160e6b59/index.m3u8
-#EXTINF:-1, Skara IK - Trollhättan
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695755141e7e2c7b160e6b5c/index.m3u8
-#EXTINF:-1, Lenhovda - Mighty Ravens
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695755141e7e2c7b160e6b5b/index.m3u8
+#EXTINF:-1, Brooklyn Tigers HF - Lejon
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957661f1e7e2c7b160e6bcb/index.m3u8
 #EXTINF:-1, IFK Falköping - Strömstad
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695765461e7e2c7b160e6bc6/index.m3u8
 #EXTINF:-1, Hille/Åbyggeby - Sandviken
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69575b0b85dc8b3980095a36/index.m3u8
-#EXTINF:-1, Brooklyn Tigers HF - Lejon
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957661f1e7e2c7b160e6bcb/index.m3u8
 #EXTINF:-1, SK Kadaň - Mostečtí Lvi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692449ed109a6801f3cf8c92/index.m3u8
 #EXTINF:-1, Pilsen Wolves - B. Medvědi
