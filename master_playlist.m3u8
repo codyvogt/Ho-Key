@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rubin - Gornyak-UGMK
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Sibir - Lokomotiv Yaroslavl
 https://video.sportsapi.ru/612a4fae-01e6-4081-aecb-9bba3078b4a2/master.m3u8
 #EXTINF:-1, Sal. Yulaev - Avtomobilist
@@ -11,3 +9,5 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Ak Bars Kazan - Barys
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1, Rubin - Gornyak-UGMK
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
