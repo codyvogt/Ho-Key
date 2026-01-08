@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Rubin - Gornyak-UGMK
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Sibir - Lokomotiv Yaroslavl
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Sal. Yulaev - Avtomobilist
