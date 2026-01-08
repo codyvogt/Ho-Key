@@ -4,7 +4,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955ff8f85dc8b39800958
 #EXTINF:-1, Šumperk - Havlíčkův Brod
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694fbd5d85dc8b3980094b1f/index.m3u8
 #EXTINF:-1, HC Olomouc - HC Chrudim
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694d0c541e7e2c7b160e59ef/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694d0c541e7e2c7b160e59ef/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - HPK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955ff8f85dc8b39800958a1/index.m3u8
 #EXTINF:-1, Lahden Pelians - Jukurit
@@ -12,9 +12,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6955ff8f85dc8b39800958
 #EXTINF:-1, Chiefs Turku - Jyske
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954ae111e7e2c7b160e691c/index.m3u8
 #EXTINF:-1, KOOVEE - FoPS
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955ff8f1e7e2c7b160e69fa/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6955ff8f1e7e2c7b160e69fa/index.m3u8
 #EXTINF:-1, HJK - Porvoon Hunters
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6955ff8f1e7e2c7b160e69ff/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6955ff8f1e7e2c7b160e69ff/index.m3u8
 #EXTINF:-1, Södertälje SK - Västerås IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695765461e7e2c7b160e6bc8/index.m3u8
 #EXTINF:-1, Ronneby IK - Diö GoIF HK
@@ -47,3 +47,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692449ed109a6801f3cf8c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68af1ea3660904c7ccbc5e22/index.m3u8
 #EXTINF:-1, Amiens U20 - CHS USA
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950aec71e7e2c7b160e5e13/index.m3u8
+#EXTINF:-1, Fjölnir - SA Víkingar
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e0bc685dc8b39800947ea/index.m3u8
+#EXTINF:-1, Herrings HC - Flyers HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69595a5e1e7e2c7b160e733b/index.m3u8
