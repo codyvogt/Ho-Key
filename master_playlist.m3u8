@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Stadion Vrchlabí - Cheb
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78fbe/index.m3u8
-#EXTINF:-1, SC Kolín - Warriors Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6944eb14bbeb6f48c2a9109e/index.m3u8
-#EXTINF:-1, Hvězda Praha - Technika
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e6be485dc8b3980094852/index.m3u8
-#EXTINF:-1, VHK Vsetín - HC Tábor
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69451544bbeb6f48c2a911cc/index.m3u8
 #EXTINF:-1, Helsingborg - Göteborgs IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695605481e7e2c7b160e6a12/index.m3u8
 #EXTINF:-1, Nittorps IK - Jonstorps IF
@@ -149,6 +141,10 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695751101e7e2c7b160e6b
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751101e7e2c7b160e6b22/index.m3u8
 #EXTINF:-1, Joukkue - K-Vantaa Itä
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695751101e7e2c7b160e6b42/index.m3u8
+#EXTINF:-1, Hvězda Praha - Technika
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e6be485dc8b3980094852/index.m3u8
+#EXTINF:-1, VHK Vsetín - HC Tábor
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69451544bbeb6f48c2a911cc/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Rouen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f3a/index.m3u8
 #EXTINF:-1, Amiens - Briançon
