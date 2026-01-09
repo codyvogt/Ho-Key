@@ -45,3 +45,5 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/76d95670-77b8-4c81-a7df-8564a
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a845e281-4dbd-48c6-9d5a-1b2c4d1de8e9-hls/master/a845e281-4dbd-48c6-9d5a-1b2c4d1de8e9-hls.m3u8
 #EXTINF:-1, Miami - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b3bdf0c2-2cf4-4775-95e1-83b87f97f3f5-hls/master/b3bdf0c2-2cf4-4775-95e1-83b87f97f3f5-hls.m3u8
+#EXTINF:-1, Vancouver - Ottawa
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
