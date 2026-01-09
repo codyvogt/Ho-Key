@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Aalborg Pirates - Herlev
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb5e285dc8b39800975ca.m3u8
-#EXTINF:-1, Heist - Future G. Sharks
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694fb5351e7e2c7b160e5d02/index.m3u8
 #EXTINF:-1, St. Lawrence - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Yale - Dartmouth
@@ -45,3 +41,13 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playli
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
 #EXTINF:-1, BGSU - Ferris State
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, St. Cloud State - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab3db660-f54a-4a66-adce-71be748cc50a-hls/master/ab3db660-f54a-4a66-adce-71be748cc50a-hls.m3u8
+#EXTINF:-1, Lindenwood - UMD
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9027f489-0b3f-4239-bd8b-b251da70e66b-hls/master/9027f489-0b3f-4239-bd8b-b251da70e66b-hls.m3u8
+#EXTINF:-1, North Dakota - Colorado
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/76d95670-77b8-4c81-a7df-8564accfe8ee-hls/master/76d95670-77b8-4c81-a7df-8564accfe8ee-hls.m3u8
+#EXTINF:-1, Western Michigan - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a845e281-4dbd-48c6-9d5a-1b2c4d1de8e9-hls/master/a845e281-4dbd-48c6-9d5a-1b2c4d1de8e9-hls.m3u8
+#EXTINF:-1, Miami - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b3bdf0c2-2cf4-4775-95e1-83b87f97f3f5-hls/master/b3bdf0c2-2cf4-4775-95e1-83b87f97f3f5-hls.m3u8
