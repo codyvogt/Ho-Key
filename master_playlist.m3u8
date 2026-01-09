@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Rapaces de Gap - Rouen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f3a/index.m3u8
-#EXTINF:-1, Amiens - Briançon
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f60/index.m3u8
-#EXTINF:-1, Bordeaux - Anglet
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f66/index.m3u8
-#EXTINF:-1, Grenoble - Marseille
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f64/index.m3u8
-#EXTINF:-1, Ducs d'Angers - Chamonix
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28514b4c8ed39e3473f36/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Nice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f68/index.m3u8
-#EXTINF:-1, SV Kaltern - HCMV Varese
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695f854a85dc8b3980097536/index.m3u8
 #EXTINF:-1, Aalborg Pirates - Herlev
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb5e285dc8b39800975ca.m3u8
-#EXTINF:-1, Joukkue - K-Vantaa Itä
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695751101e7e2c7b160e6b42/index.m3u8
 #EXTINF:-1, Heist - Future G. Sharks
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694fb5351e7e2c7b160e5d02/index.m3u8
 #EXTINF:-1, St. Lawrence - Colgate
@@ -37,3 +21,27 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Vermont - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Union - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, UMass Lowell - UConn
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
+#EXTINF:-1, Boston U - Massachusetts
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Maine - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Northeastern - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Harvard - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Alaska - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Augustana - NMU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, BGSU - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
