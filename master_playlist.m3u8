@@ -15,10 +15,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb8de1e7e2c7b160e86
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb91f1e7e2c7b160e86e3.m3u8
 #EXTINF:-1, Olomouc - Oceláři Třinec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb8b685dc8b39800975cd.m3u8
-#EXTINF:-1, Denmark - France
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695f6a9385dc8b3980097504/index.m3u8
-#EXTINF:-1, Italy - Japan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f691985dc8b3980097501/index.m3u8
 #EXTINF:-1, Mountfield HK - Sparta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a31161e7e2c7b160e5774/index.m3u8
 #EXTINF:-1, Dukla Jihlava - Pardubice
@@ -36,7 +32,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957511085dc8b39800959
 #EXTINF:-1, Rovaniemen Kiekko - SaiPa
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957511085dc8b39800959fa/index.m3u8
 #EXTINF:-1, Mikkelin Jukurit - HPK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957511085dc8b39800959fc/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957511085dc8b39800959fc/index.m3u8
 #EXTINF:-1, Tappara Tampere - KooKoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751101e7e2c7b160e6b00/index.m3u8
 #EXTINF:-1, Helsingin Jokerit - Lukko
@@ -91,3 +87,25 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957de9d6416016c1bc1ca
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c91a2db4c8ed39e3475585/index.m3u8
 #EXTINF:-1, HC Trutnov - Nový Bydžov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695100d585dc8b3980094f28/index.m3u8
+#EXTINF:-1, Junkkarit HT - MUIK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957510f1e7e2c7b160e6ada/index.m3u8
+#EXTINF:-1, Laser HT Oulu - Virkiä
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957510f1e7e2c7b160e6ad7/index.m3u8
+#EXTINF:-1, Kotkan Titaanit - Hunters
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957511085dc8b39800959f2/index.m3u8
+#EXTINF:-1, Raahe-Kiekko - S-Kiekko
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957510f1e7e2c7b160e6ad9/index.m3u8
+#EXTINF:-1, Järvenpään Haukat - LeKi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957510f1e7e2c7b160e6ae4/index.m3u8
+#EXTINF:-1, Laitilan Jyske - LuKi-82
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690ece953829c1557f608865/index.m3u8
+#EXTINF:-1, EVU - Jää-Ahmat
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751101e7e2c7b160e6af6/index.m3u8
+#EXTINF:-1, Hela-Kiekko - APV
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957510f1e7e2c7b160e6ae0/index.m3u8
+#EXTINF:-1, JPK - S-Kiekko Team
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751101e7e2c7b160e6ae6/index.m3u8
+#EXTINF:-1, Viikingit Helsinki - HAKI
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751101e7e2c7b160e6af4/index.m3u8
+#EXTINF:-1, Italy - Japan
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f691985dc8b3980097501/index.m3u8
