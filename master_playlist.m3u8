@@ -3,12 +3,6 @@
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695fb8de1e7e2c7b160e86df.m3u8
 #EXTINF:-1, Mountfield HK - Pardubice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695fb91f1e7e2c7b160e86e3.m3u8
-#EXTINF:-1, Olomouc - Oceláři Třinec
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695fb8b685dc8b39800975cd.m3u8
-#EXTINF:-1, Junkkarit HT - MUIK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957510f1e7e2c7b160e6ada/index.m3u8
-#EXTINF:-1, Järvenpään Haukat - LeKi
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957510f1e7e2c7b160e6ae4/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - Karl. Vary B
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/691eaf8e109a6801f3cf7b72/index.m3u8
 #EXTINF:-1, HC Pelhřimov - Domažlice
@@ -143,6 +137,12 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958b35c85dc8b39800960
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958ba301e7e2c7b160e71d4/index.m3u8
 #EXTINF:-1, Northeastern - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Yale - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, PKW - Rockets Loimaa
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695751101e7e2c7b160e6aec/index.m3u8
 #EXTINF:-1, Knivsta IS - Enköpings SK
