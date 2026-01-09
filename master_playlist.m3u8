@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Mladá Boleslav - Kladno
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695faa7a1e7e2c7b160e866d.m3u8
 #EXTINF:-1, Vítkovice - Karlovy Vary
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695faa9485dc8b39800975a6.m3u8
 #EXTINF:-1, Kometa Brno - Litvínov
@@ -192,7 +190,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958b79f1e7e2c7b160e71
 #EXTINF:-1, IK Huge - Lindefallets SK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958b35c85dc8b3980096027/index.m3u8
 #EXTINF:-1, Huddinge Tigers - Brinken
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958ba301e7e2c7b160e71d4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958ba301e7e2c7b160e71d4/index.m3u8
 #EXTINF:-1, Northeastern - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, PKW - Rockets Loimaa
@@ -212,11 +210,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751101e7e2c7b160e6b
 #EXTINF:-1, Rapaces de Gap - Rouen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f3a/index.m3u8
 #EXTINF:-1, Amiens - Briançon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f60/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f60/index.m3u8
 #EXTINF:-1, Bordeaux - Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f66/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f66/index.m3u8
 #EXTINF:-1, Grenoble - Marseille
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f64/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f64/index.m3u8
 #EXTINF:-1, Ducs d'Angers - Chamonix
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28514b4c8ed39e3473f36/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Nice
@@ -226,6 +224,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695f854a85dc8b39800975
 #EXTINF:-1, Neuwied - Eaters Limburg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694fae281e7e2c7b160e5cea/index.m3u8
 #EXTINF:-1, Play Team-80 - Hawks
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695751101e7e2c7b160e6b44/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695751101e7e2c7b160e6b44/index.m3u8
 #EXTINF:-1, Heist - Future G. Sharks
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694fb5351e7e2c7b160e5d02/index.m3u8
