@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, St. Lawrence - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Yale - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Clarkson - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, Brown - Harvard
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
 #EXTINF:-1, Quinnipiac - Rensselaer PI
