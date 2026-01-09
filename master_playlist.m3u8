@@ -1,12 +1,24 @@
 #EXTM3U
-#EXTINF:-1, Denmark - France
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695f6a9385dc8b3980097504/index.m3u8
-#EXTINF:-1, Italy - Japan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f691985dc8b3980097501/index.m3u8
 #EXTINF:-1, Sochi - Lada Togliatti
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, CSKA - Shanghai Dragons
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Mladá Boleslav - Kladno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695faa7a1e7e2c7b160e866d.m3u8
+#EXTINF:-1, Vítkovice - Karlovy Vary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695faa9485dc8b39800975a6.m3u8
+#EXTINF:-1, Kometa Brno - Litvínov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb8c91e7e2c7b160e86dd.m3u8
+#EXTINF:-1, Bílí Tygři Liberec - Plzeň
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb8de1e7e2c7b160e86df.m3u8
+#EXTINF:-1, Mountfield HK - Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb91f1e7e2c7b160e86e3.m3u8
+#EXTINF:-1, Olomouc - Oceláři Třinec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb8b685dc8b39800975cd.m3u8
+#EXTINF:-1, Denmark - France
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695f6a9385dc8b3980097504/index.m3u8
+#EXTINF:-1, Italy - Japan
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f691985dc8b3980097501/index.m3u8
 #EXTINF:-1, Mountfield HK - Sparta
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a31161e7e2c7b160e5774/index.m3u8
 #EXTINF:-1, Dukla Jihlava - Pardubice
@@ -22,7 +34,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957511085dc8b39800959
 #EXTINF:-1, Oulun Kärpät - JYP
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957511085dc8b39800959f7/index.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - SaiPa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957511085dc8b39800959fa/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957511085dc8b39800959fa/index.m3u8
 #EXTINF:-1, Mikkelin Jukurit - HPK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957511085dc8b39800959fc/index.m3u8
 #EXTINF:-1, Tappara Tampere - KooKoo
