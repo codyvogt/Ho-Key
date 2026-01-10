@@ -5,16 +5,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d7956c
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8b373cda-a888-4a96-b5b8-92a680bc8720/master.m3u8
 #EXTINF:-1, Dallas - San Jose Sharks
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ac1b4fa4-9413-4f6e-91cc-b4693082bf17/master.m3u8
-#EXTINF:-1, Valence - Montpellier
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695351c91e7e2c7b160e66ab/index.m3u8
-#EXTINF:-1, Antwerp - Leuven Black
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695106b685dc8b3980094f53/index.m3u8
-#EXTINF:-1, Andorra HG - Txuri Urdin
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960fd7f85dc8b39800978b3/index.m3u8
-#EXTINF:-1, CG Puigcerdà - Barça HG
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960fde585dc8b39800978c6/index.m3u8
-#EXTINF:-1, HYC - Flyers Heerenveen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950ffa71e7e2c7b160e60c2/index.m3u8
 #EXTINF:-1, Clarkson - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Princeton - Rensselaer PI
@@ -31,6 +21,10 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playli
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Boston University - UNH
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Andorra HG - Txuri Urdin
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960fd7f85dc8b39800978b3/index.m3u8
+#EXTINF:-1, CG Puigcerdà - Barça HG
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960fde585dc8b39800978c6/index.m3u8
 #EXTINF:-1, St. Lawrence - Brown
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Massachusetts - Boston U
