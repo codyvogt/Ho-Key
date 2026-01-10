@@ -47,3 +47,35 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, St. Lawrence - Brown
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Massachusetts - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Maine - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, UConn - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, BGSU - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, Augustana - NMU
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
+#EXTINF:-1, Northeastern - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Union - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Alaska - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Miami - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8ef7f496-c49c-43f3-87bc-145353a2045d-hls/master/8ef7f496-c49c-43f3-87bc-145353a2045d-hls.m3u8
+#EXTINF:-1, Lindenwood - UMD
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c3a438bc-cd67-4066-b995-b5b189eae3b9-hls/master/c3a438bc-cd67-4066-b995-b5b189eae3b9-hls.m3u8
+#EXTINF:-1, St. Thomas - MinnState
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, UND - Colorado College
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b7726e40-1bb9-4f63-8d12-58aeba99e75c-hls/master/b7726e40-1bb9-4f63-8d12-58aeba99e75c-hls.m3u8
+#EXTINF:-1, Western Michigan - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a0689521-62e2-4fbe-9c3f-535dc66d1d70-hls/master/a0689521-62e2-4fbe-9c3f-535dc66d1d70-hls.m3u8
+#EXTINF:-1, St. Cloud State - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2b83c9e4-e474-4280-9a33-52a70609fad3-hls/master/2b83c9e4-e474-4280-9a33-52a70609fad3-hls.m3u8
