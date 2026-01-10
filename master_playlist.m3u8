@@ -3,22 +3,16 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, Salavat Yulaev - Barys
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
-#EXTINF:-1, K-Ketut - Laser HT Bangers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a29285dc8b3980095eac/index.m3u8
-#EXTINF:-1, Urho II - Riemu 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a29485dc8b3980095f0e/index.m3u8
-#EXTINF:-1, Sport Akatemia - IKK 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a2941e7e2c7b160e6f97/index.m3u8
 #EXTINF:-1, KalPa Team - JyKi
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a2951e7e2c7b160e7013/index.m3u8
 #EXTINF:-1, K-Vantaa - Kiekko-Ahma
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a29785dc8b3980095f7b/index.m3u8
 #EXTINF:-1, Liikunnan Riemu - MUIK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a29185dc8b3980095e66/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958a29185dc8b3980095e66/index.m3u8
 #EXTINF:-1, Alleghe - Eppan Pirates
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f858285dc8b3980097538/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695f858285dc8b3980097538/index.m3u8
 #EXTINF:-1, Örebro HUF - Nora HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a09fd1e7e2c7b160e7801/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695a09fd1e7e2c7b160e7801/index.m3u8
 #EXTINF:-1, Karlskoga 2 - Kils AIK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a09fd1e7e2c7b160e7800/index.m3u8
 #EXTINF:-1, Trelleborgs IF - Frosta
@@ -26,13 +20,17 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a04de1e7e2c7b160e77
 #EXTINF:-1, Värnamo GIK - Lenhovda IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a05b71e7e2c7b160e779c/index.m3u8
 #EXTINF:-1, Valašské Meziříčí - Břeclav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f79178/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df6c0aa0cd927f79178/index.m3u8
 #EXTINF:-1, Slavia Praha - Vítkovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6952605f1e7e2c7b160e6523/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6952605f1e7e2c7b160e6523/index.m3u8
 #EXTINF:-1, Berani Zlín - Sparta Praha
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953ce0085dc8b3980095638/index.m3u8
 #EXTINF:-1, Dukla Jihlava - Pardubice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694b829485dc8b39800946cd/index.m3u8
+#EXTINF:-1, Urho II - Riemu 2
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958a29485dc8b3980095f0e/index.m3u8
+#EXTINF:-1, Sport Akatemia - IKK 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a2941e7e2c7b160e6f97/index.m3u8
 #EXTINF:-1, Tampereen Ilves - HIFK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695e0fa01e7e2c7b160e82e3/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - TPS
