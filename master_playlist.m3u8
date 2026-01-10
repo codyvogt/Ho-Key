@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Columbus - Colorado
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8b373cda-a888-4a96-b5b8-92a680bc8720/master.m3u8
-#EXTINF:-1, Dallas - San Jose Sharks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ac1b4fa4-9413-4f6e-91cc-b4693082bf17/master.m3u8
 #EXTINF:-1, Anaheim - Buffalo Sabres
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fd105b2f-4cdb-400f-a533-2f0e23d0d001/master.m3u8
 #EXTINF:-1, Vancouver - Toronto
@@ -47,3 +43,5 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a0689521-62e2-4fbe-9c3f-535dc
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2b83c9e4-e474-4280-9a33-52a70609fad3-hls/master/2b83c9e4-e474-4280-9a33-52a70609fad3-hls.m3u8
 #EXTINF:-1, Boston University - UNH
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Trine U - USNTDP U18
+https://d18lb65yrx5whr.cloudfront.net/c9841b92c19ad7419a06dd9ea638c8b5/0_hd_hls.m3u8
