@@ -5,24 +5,10 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d7956c
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8b373cda-a888-4a96-b5b8-92a680bc8720/master.m3u8
 #EXTINF:-1, Dallas - San Jose Sharks
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ac1b4fa4-9413-4f6e-91cc-b4693082bf17/master.m3u8
-#EXTINF:-1, Tours - Dunkerque
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695351c91e7e2c7b160e66bb/index.m3u8
-#EXTINF:-1, Morzine-Avoriaz - HCMP
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695351ca1e7e2c7b160e66d3/index.m3u8
-#EXTINF:-1, Anglet 2 - Clermont-FD
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695351c91e7e2c7b160e66b1/index.m3u8
-#EXTINF:-1, Annecy - Roanne
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695351c91e7e2c7b160e66b5/index.m3u8
 #EXTINF:-1, Valence - Montpellier
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695351c91e7e2c7b160e66ab/index.m3u8
 #EXTINF:-1, Antwerp - Leuven Black
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695106b685dc8b3980094f53/index.m3u8
-#EXTINF:-1, Grenoble - Marseille
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695351c91e7e2c7b160e66bd/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Amiens
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695351c81e7e2c7b160e6691/index.m3u8
-#EXTINF:-1, Worm Angels - MAC AHC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f5d5e85dc8b3980094932/index.m3u8
 #EXTINF:-1, Andorra HG - Txuri Urdin
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960fd7f85dc8b39800978b3/index.m3u8
 #EXTINF:-1, CG Puigcerdà - Barça HG
@@ -51,8 +37,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, Maine - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, UConn - UMass Lowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, BGSU - Ferris State
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
 #EXTINF:-1, Augustana - NMU
@@ -69,6 +53,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
 #EXTINF:-1, Miami - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8ef7f496-c49c-43f3-87bc-145353a2045d-hls/master/8ef7f496-c49c-43f3-87bc-145353a2045d-hls.m3u8
+#EXTINF:-1, UConn - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, Lindenwood - UMD
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c3a438bc-cd67-4066-b995-b5b189eae3b9-hls/master/c3a438bc-cd67-4066-b995-b5b189eae3b9-hls.m3u8
 #EXTINF:-1, St. Thomas - MinnState
