@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, New York Rangers - Boston
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/87b883c4-1514-40f1-a859-9846fc80847d/master.m3u8
 #EXTINF:-1, SC Kolín - VHK Vsetín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6960a7f385dc8b3980097775.m3u8
 #EXTINF:-1, Třebíč - HC Frýdek-Místek
@@ -74,7 +76,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6959f4ab1e7e2c7b160e76
 #EXTINF:-1, Åmåls SK - Solstad HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695a04de1e7e2c7b160e7762/index.m3u8
 #EXTINF:-1, Smedjebacken - Fagersta
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a077085dc8b39800966bb/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695a077085dc8b39800966bb/index.m3u8
 #EXTINF:-1, Kuhmon Kiva HT - YJK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695751101e7e2c7b160e6b0c/index.m3u8
 #EXTINF:-1, Jää-Ahmat - TuusKiekko
@@ -128,7 +130,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958a2941e7e2c7b160e6f
 #EXTINF:-1, Piranhas Kotka - PiPS
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957511085dc8b39800959ef/index.m3u8
 #EXTINF:-1, Nokia Sables - Hokkarit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a2921e7e2c7b160e6f2d/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958a2921e7e2c7b160e6f2d/index.m3u8
 #EXTINF:-1, Rollon Pojat - RoKi Team
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958a2951e7e2c7b160e7062/index.m3u8
 #EXTINF:-1, JälkiHiki-Hockey - KaVo
@@ -305,3 +307,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695351c81e7e2c7b160e66
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695351c81e7e2c7b160e668d/index.m3u8
 #EXTINF:-1, Meudon 2 - Wasquehal
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695351c81e7e2c7b160e667f/index.m3u8
+#EXTINF:-1, Herning - Herlev Eagles
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb8211e7e2c7b160e86d9.m3u8
+#EXTINF:-1, Liège Bulldogs - Hijs Hokij
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950ffa685dc8b3980094f1a/index.m3u8
+#EXTINF:-1, Leuven Chiefs - Mechelen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950ffa71e7e2c7b160e60c0/index.m3u8
+#EXTINF:-1, HYC - Flyers Heerenveen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950ffa71e7e2c7b160e60c2/index.m3u8
