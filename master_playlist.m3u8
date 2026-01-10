@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Washington - Chicago
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2ddded37-d8a5-42ed-a9db-9f8e46762c16/master.m3u8
-#EXTINF:-1, Los Angeles - Winnipeg
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/82f92963-6afc-4730-a7a6-2cd680cf25a5/master.m3u8
 #EXTINF:-1, St. Louis Blues - Utah
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/76a12398-2174-4f3a-9efc-1eb7e570d529/master.m3u8
-#EXTINF:-1, St. Cloud State - Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab3db660-f54a-4a66-adce-71be748cc50a-hls/master/ab3db660-f54a-4a66-adce-71be748cc50a-hls.m3u8
-#EXTINF:-1, Lindenwood - UMD
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9027f489-0b3f-4239-bd8b-b251da70e66b-hls/master/9027f489-0b3f-4239-bd8b-b251da70e66b-hls.m3u8
 #EXTINF:-1, North Dakota - Colorado
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/76d95670-77b8-4c81-a7df-8564accfe8ee-hls/master/76d95670-77b8-4c81-a7df-8564accfe8ee-hls.m3u8
 #EXTINF:-1, Western Michigan - Denver
