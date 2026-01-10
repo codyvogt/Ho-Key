@@ -5,30 +5,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2ddded
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/82f92963-6afc-4730-a7a6-2cd680cf25a5/master.m3u8
 #EXTINF:-1, St. Louis Blues - Utah
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/76a12398-2174-4f3a-9efc-1eb7e570d529/master.m3u8
-#EXTINF:-1, Union - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, UMass Lowell - UConn
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnhartford/playlist.m3u8
-#EXTINF:-1, Boston U - Massachusetts
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Maine - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Northeastern - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Harvard - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer PI - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Clarkson - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Alaska - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Stonehill - Boston College
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, BGSU - Ferris State
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
 #EXTINF:-1, St. Cloud State - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab3db660-f54a-4a66-adce-71be748cc50a-hls/master/ab3db660-f54a-4a66-adce-71be748cc50a-hls.m3u8
 #EXTINF:-1, Lindenwood - UMD
@@ -39,7 +15,3 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/76d95670-77b8-4c81-a7df-8564a
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a845e281-4dbd-48c6-9d5a-1b2c4d1de8e9-hls/master/a845e281-4dbd-48c6-9d5a-1b2c4d1de8e9-hls.m3u8
 #EXTINF:-1, Miami - Arizona State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b3bdf0c2-2cf4-4775-95e1-83b87f97f3f5-hls/master/b3bdf0c2-2cf4-4775-95e1-83b87f97f3f5-hls.m3u8
-#EXTINF:-1, Adrian College - USA U18
-https://d2ootf8t4oc07o.cloudfront.net/a78a7b1d7020cc65b98521a9125c9665/0_hd_hls.m3u8
-#EXTINF:-1, Vancouver - Ottawa
-https://fl1.moveonjoy.com/TSN_1/index.m3u8
