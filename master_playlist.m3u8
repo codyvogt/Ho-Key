@@ -25,8 +25,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, BGSU - Ferris State
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
-#EXTINF:-1, Augustana - NMU
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
 #EXTINF:-1, Northeastern - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Quinnipiac
@@ -53,7 +51,5 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a0689521-62e2-4fbe-9c3f-535dc
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2b83c9e4-e474-4280-9a33-52a70609fad3-hls/master/2b83c9e4-e474-4280-9a33-52a70609fad3-hls.m3u8
 #EXTINF:-1, CG Puigcerdà - Barça HG
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960fde585dc8b39800978c6/index.m3u8
-#EXTINF:-1, Connecticut - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Boston University - UNH
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
