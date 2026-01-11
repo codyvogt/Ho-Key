@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1, New Jersey - Winnipeg
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f956d4a8-086e-4025-ba7a-f19f52d15b32/master.m3u8
-#EXTINF:-1, Česká Třebová - Trutnov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdd8/index.m3u8
-#EXTINF:-1, Radomyšl - HC Strakonice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6944eb0fbbeb6f48c2a91095/index.m3u8
-#EXTINF:-1, Havlíčkův Brod - Olomouc
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69401593148907a0dbe32f95/index.m3u8
-#EXTINF:-1, Nacka HK 2 - Farsta IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b5d3085dc8b3980096b48/index.m3u8
-#EXTINF:-1, Järna SK - Duvbo IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b58ef1e7e2c7b160e7c36/index.m3u8
-#EXTINF:-1, Tullinge TP - IFK Salem
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695b4b4985dc8b398009696a/index.m3u8
-#EXTINF:-1, Duells PHK - Skärgården
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695768b185dc8b3980095a7d/index.m3u8
 #EXTINF:-1, Chamonix - Rouen
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c285159d2a1a468257e62c/index.m3u8
 #EXTINF:-1, Hormadi d'Anglet - Angers
@@ -23,10 +9,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694b828f85dc8b39800946c9/index.m3u8
 #EXTINF:-1, HC DDM ČEB - HC Milevsko
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694faf5785dc8b3980094ae2/index.m3u8
-#EXTINF:-1, Lyon - Clermont-Ferrand
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954a34885dc8b3980095712/index.m3u8
-#EXTINF:-1, Bordeaux - Nantes
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954a34885dc8b3980095717/index.m3u8
 #EXTINF:-1, Flyers Heerenveen - Liège
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695251261e7e2c7b160e645d/index.m3u8
 #EXTINF:-1, Hijs Hokij - EHC Neuwied
@@ -37,6 +19,16 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695251271e7e2c7b160e64
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f5d5e85dc8b3980094944/index.m3u8
 #EXTINF:-1, Grenoble - Cergy-Pontoise
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954a34a1e7e2c7b160e68fa/index.m3u8
+#EXTINF:-1, Radomyšl - HC Strakonice
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6944eb0fbbeb6f48c2a91095/index.m3u8
+#EXTINF:-1, Järna SK - Duvbo IK
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b58ef1e7e2c7b160e7c36/index.m3u8
+#EXTINF:-1, Tullinge TP - IFK Salem
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695b4b4985dc8b398009696a/index.m3u8
+#EXTINF:-1, Duells PHK - Skärgården
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695768b185dc8b3980095a7d/index.m3u8
+#EXTINF:-1, Bordeaux - Nantes
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6954a34885dc8b3980095717/index.m3u8
 #EXTINF:-1, Stenungsund HF - Hovås
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695b5c5785dc8b3980096b38/index.m3u8
 #EXTINF:-1, Brinkens IF - Kallhälls IF
