@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Traktor Chelyabinsk - Sibir
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1, DVTK JA - Okanagan HA
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950aee21e7e2c7b160e5ec7/index.m3u8
-#EXTINF:-1, Vasas SC - Vienna Capitals
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950aee21e7e2c7b160e5edb/index.m3u8
-#EXTINF:-1, Újpesti JA - HD Jesenice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950aee11e7e2c7b160e5eb7/index.m3u8
 #EXTINF:-1, Cortina - Wipptal Broncos
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695f842285dc8b3980097532/index.m3u8
 #EXTINF:-1, Leksands IF - Luleå HF
@@ -26,7 +20,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695b59ca1e7e2c7b160e7c
 #EXTINF:-1, Hermes - Jokipojat
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6959f4141e7e2c7b160e75b8/index.m3u8
 #EXTINF:-1, Forssan Palloseura - IPK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6959f41585dc8b39800964c9/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6959f41585dc8b39800964c9/index.m3u8
 #EXTINF:-1, Kuru Hockey - SoPa
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6959f41185dc8b398009635f/index.m3u8
 #EXTINF:-1, Yunost Minsk - Khimik
@@ -53,6 +47,10 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694aaf9d85dc8b39800946
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f771185dc8b3980094a05/index.m3u8
 #EXTINF:-1, Rosvik IK 2 - Pajala HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b462b85dc8b398009692a/index.m3u8
+#EXTINF:-1, Vasas SC - Vienna Capitals
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6950aee21e7e2c7b160e5edb/index.m3u8
+#EXTINF:-1, Újpesti JA - HD Jesenice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6950aee11e7e2c7b160e5eb7/index.m3u8
 #EXTINF:-1, Uplakers - Kiekko-Ahma
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6959f4101e7e2c7b160e74c0/index.m3u8
 #EXTINF:-1, Kisa-Eagles - HiHo
@@ -86,7 +84,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6959221885dc8b39800961
 #EXTINF:-1, S-Kiekko - TPS Akatemia
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6959f41185dc8b398009633f/index.m3u8
 #EXTINF:-1, Karhu-Kissat - Nokian Pyry
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6959f41385dc8b3980096408/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6959f41385dc8b3980096408/index.m3u8
 #EXTINF:-1, Heinolan Peliitat - RNK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6959f4141e7e2c7b160e75b3/index.m3u8
 #EXTINF:-1, Dunkerque - Nantes
