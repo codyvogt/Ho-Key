@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Chicago - Nashville
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9e811e4a-5277-4acb-b5cc-68bbf3c3f9b4/master.m3u8
-#EXTINF:-1, NY Islanders - Minnesota
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bb559998-2374-403b-9fad-06dc9907d5f6/master.m3u8
 #EXTINF:-1, Los Angeles - Edmonton
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/479a5373-6641-49e6-b6c4-5e87a2344979/master.m3u8
 #EXTINF:-1, St. Louis Blues - Vegas
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6261cbc7-7058-4374-9315-fdd10c9403cf/master.m3u8
-#EXTINF:-1, UND - Colorado College
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b7726e40-1bb9-4f63-8d12-58aeba99e75c-hls/master/b7726e40-1bb9-4f63-8d12-58aeba99e75c-hls.m3u8
-#EXTINF:-1, Western Michigan - Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a0689521-62e2-4fbe-9c3f-535dc66d1d70-hls/master/a0689521-62e2-4fbe-9c3f-535dc66d1d70-hls.m3u8
-#EXTINF:-1, St. Cloud State - Omaha
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2b83c9e4-e474-4280-9a33-52a70609fad3-hls/master/2b83c9e4-e474-4280-9a33-52a70609fad3-hls.m3u8
