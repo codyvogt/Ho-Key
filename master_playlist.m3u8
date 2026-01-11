@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, New Jersey - Winnipeg
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f956d4a8-086e-4025-ba7a-f19f52d15b32/master.m3u8
-#EXTINF:-1, Gap - Strasbourg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954a3491e7e2c7b160e68e8/index.m3u8
-#EXTINF:-1, Grenoble - Cergy-Pontoise
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954a34a1e7e2c7b160e68fa/index.m3u8
 #EXTINF:-1, Česká Třebová - Trutnov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdd8/index.m3u8
 #EXTINF:-1, Radomyšl - HC Strakonice
@@ -39,6 +35,8 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695251271e7e2c7b160e64
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695251271e7e2c7b160e6461/index.m3u8
 #EXTINF:-1, Egerszegi Titánok - Győr
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f5d5e85dc8b3980094944/index.m3u8
+#EXTINF:-1, Grenoble - Cergy-Pontoise
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6954a34a1e7e2c7b160e68fa/index.m3u8
 #EXTINF:-1, Stenungsund HF - Hovås
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695b5c5785dc8b3980096b38/index.m3u8
 #EXTINF:-1, Brinkens IF - Kallhälls IF
