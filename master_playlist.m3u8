@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1, Rubin Tyumen - Magnitka
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, France - Germany
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695ff46785dc8b3980097671/index.m3u8
+#EXTINF:-1, Denmark - Japan
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ff4e1462d66cfd1984bfa/index.m3u8
+#EXTINF:-1, Norway - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ff55f85dc8b3980097675/index.m3u8
