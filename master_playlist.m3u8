@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Lada Togliatti - SKA
-https://video.sportsapi.ru/b34261c6-da72-4c8c-aad1-dcf76d9cc3d0/master.m3u8
 #EXTINF:-1, Dynamo Moscow - Torpedo
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Dinamo Minsk - Admiral
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Denmark - Japan
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ff4e1462d66cfd1984bfa/index.m3u8
-#EXTINF:-1, Norway - Italy
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ff55f85dc8b3980097675/index.m3u8
 #EXTINF:-1, Škoda Plzeň - HC Olomouc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb9c61e7e2c7b160e86ff.m3u8
 #EXTINF:-1, IF Sundsvall - Timrå IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695cac231e7e2c7b160e80a6/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695cac231e7e2c7b160e80a6/index.m3u8
+#EXTINF:-1, Norway - Italy
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ff55f85dc8b3980097675/index.m3u8
