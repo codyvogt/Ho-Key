@@ -9,10 +9,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba35e1e7e2c7b160e7f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696500ff1e7e2c7b160e9bf3.m3u8
 #EXTINF:-1, Sparta Praha - HC Litvínov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6965016885dc8b3980098dac.m3u8
-#EXTINF:-1, Japan - Norway
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963f72f1acb88e1df0e2084/index.m3u8
-#EXTINF:-1, Italy - France
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f75d85dc8b398009889d/index.m3u8
 #EXTINF:-1, Jaroměř - Žďár n. Sázavou
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f7914c/index.m3u8
 #EXTINF:-1, HC Děčín - Slovan Louny
@@ -22,9 +18,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6948df9440f960cadd2dc4
 #EXTINF:-1, Havlíčkův Brod - IHC Písek
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692ab74559e90c3f91fbbe04/index.m3u8
 #EXTINF:-1, Aalborg Pirates - Herlev
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695416a51e7e2c7b160e6876.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695416a51e7e2c7b160e6876.m3u8
 #EXTINF:-1, Esbjerg - Frederikshavn
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695416a51e7e2c7b160e6874.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695416a51e7e2c7b160e6874.m3u8
 #EXTINF:-1, Karlskrona - Oskarshamn
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695e01e485dc8b398009728a/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Olofström
@@ -161,6 +157,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f62/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Chamonix
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f4a/index.m3u8
+#EXTINF:-1, Italy - France
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f75d85dc8b398009889d/index.m3u8
 #EXTINF:-1, Karhu-Kissat - Näädät
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c971085dc8b3980096f57/index.m3u8
 #EXTINF:-1, PUS - EV Urheilijat Team
