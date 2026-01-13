@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Nice - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f52/index.m3u8
-#EXTINF:-1, Rouen - Bordeaux
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28515b4c8ed39e3473f4e/index.m3u8
-#EXTINF:-1, Marseille - Amiens
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f5c/index.m3u8
-#EXTINF:-1, Briançon - Rapaces de Gap
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f62/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Chamonix
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f4a/index.m3u8
-#EXTINF:-1, Nantes - Dunkerque
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957464785dc8b39800959c2/index.m3u8
-#EXTINF:-1, Meudon - Lions de Lyon
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957464785dc8b39800959be/index.m3u8
 #EXTINF:-1, Strasbourg - Valenciennes
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957464785dc8b39800959c6/index.m3u8
 #EXTINF:-1, Villard-de-Lans - Tours
@@ -21,8 +7,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957464785dc8b39800959
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957464785dc8b39800959bb/index.m3u8
 #EXTINF:-1, HCMP - Wildcats Épinal
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957464785dc8b39800959c4/index.m3u8
-#EXTINF:-1, Solna SK - Nynäshamns IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695deae085dc8b3980097216/index.m3u8
+#EXTINF:-1, Marseille - Amiens
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28515b4c8ed39e3473f5c/index.m3u8
+#EXTINF:-1, Briançon - Rapaces de Gap
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f62/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Chamonix
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28515b4c8ed39e3473f4a/index.m3u8
 #EXTINF:-1, SR - Fjölnir
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6954a3461e7e2c7b160e68b6/index.m3u8
 #EXTINF:-1, Chalmers - Herrings HC
