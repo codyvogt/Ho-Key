@@ -5,20 +5,20 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1, Ak Bars - Neftekhimik
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Japan - Norway
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f72f1acb88e1df0e2084/index.m3u8
-#EXTINF:-1, Italy - France
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f75d85dc8b398009889d/index.m3u8
-#EXTINF:-1, Jaroměř - Žďár n. Sázavou
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f7914c/index.m3u8
-#EXTINF:-1, HC Děčín - Slovan Louny
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936beeff7cfc8c7990d1628/index.m3u8
 #EXTINF:-1, Ml. Boleslav - Mountfield
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ba35e1e7e2c7b160e7f1c.m3u8
 #EXTINF:-1, Liberec - České Budějovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696500ff1e7e2c7b160e9bf3.m3u8
 #EXTINF:-1, Sparta Praha - HC Litvínov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965016885dc8b3980098dac.m3u8
+#EXTINF:-1, Japan - Norway
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963f72f1acb88e1df0e2084/index.m3u8
+#EXTINF:-1, Italy - France
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f75d85dc8b398009889d/index.m3u8
+#EXTINF:-1, Jaroměř - Žďár n. Sázavou
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f7914c/index.m3u8
+#EXTINF:-1, HC Děčín - Slovan Louny
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6936beeff7cfc8c7990d1628/index.m3u8
 #EXTINF:-1, HC Hvězda Praha - Kladno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6948df9440f960cadd2dc420/index.m3u8
 #EXTINF:-1, Havlíčkův Brod - IHC Písek
