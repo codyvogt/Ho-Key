@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Vancouver - Ottawa
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/77a66ac7-89a0-4f43-b35a-51ab6bb1386a/master.m3u8
-#EXTINF:-1, Tampa Bay - Pittsburgh
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1a7b27aa-b89e-4667-a893-c994584d8317/master.m3u8
-#EXTINF:-1, Montréal - Washington
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0e4e69e0-be81-4a64-858e-53eb33d57cb0/master.m3u8
-#EXTINF:-1, Calgary Flames - Columbus
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dd8c4d63-4849-4aa6-a7c6-8a37e3e900f3/master.m3u8
 #EXTINF:-1, Detroit - Boston Bruins
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/60c98e8a-74eb-4d4f-9386-1e0369e71b81/master.m3u8
 #EXTINF:-1, Carolina - St. Louis Blues
@@ -19,5 +11,3 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/16bc10
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/063f8f4d-2efc-47aa-9308-d53d661317dc/master.m3u8
 #EXTINF:-1, Dallas - Anaheim Ducks
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f6ab2343-d9a5-4551-83ba-f0dd57966700/master.m3u8
-#EXTINF:-1, Northeastern - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
