@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Edmonton Oilers - Nashville
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8e538c98-552e-4a7a-9966-fb896aa63594/master.m3u8
-#EXTINF:-1, NY Islanders - Winnipeg
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/16bc10f0-90a3-4776-bc4c-a3e991358207/master.m3u8
-#EXTINF:-1, Toronto - Utah Mammoth
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/063f8f4d-2efc-47aa-9308-d53d661317dc/master.m3u8
-#EXTINF:-1, Dallas - Anaheim Ducks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f6ab2343-d9a5-4551-83ba-f0dd57966700/master.m3u8
 #EXTINF:-1, AZ Havířov - MD Šumperk
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f7850740899867ab48311f/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f7850740899867ab48311f/index.m3u8
+#EXTINF:-1, Rubin - Yuzhny Ural Orsk
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
