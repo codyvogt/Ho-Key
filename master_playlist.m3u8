@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Metallurg Mg - HC Sochi
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, Avtomobilist - Traktor
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, AZ Havířov - MD Šumperk
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f7850740899867ab48311f/index.m3u8
 #EXTINF:-1, Rubin - Yuzhny Ural Orsk
