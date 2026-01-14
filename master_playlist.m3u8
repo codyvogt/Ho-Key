@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Metallurg Mg - HC Sochi
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1, Avtomobilist - Traktor
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Torpedo - Lokomotiv
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Dynamo Moscow - Spartak
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Rubin - Yuzhny Ural Orsk
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
 #EXTINF:-1, Stadion Litoměřice - Třebíč
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6964ea9c1e7e2c7b160e9bc2.m3u8
 #EXTINF:-1, HC Frýdek-Místek - Vsetín
