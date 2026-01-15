@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Lada - Salavat Yulaev Ufa
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, Severstal - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Sparta - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69650c5c1e7e2c7b160e9c29.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69650c5c1e7e2c7b160e9c29.m3u8
 #EXTINF:-1, Denmark - Norway
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963f7d61acb88e1df0e2086/index.m3u8
 #EXTINF:-1, Italy - Germany
@@ -16,7 +14,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c1aa31ea1b60e809f38
 #EXTINF:-1, Česká Třebová - Hlinsko
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695100d585dc8b3980094f2b/index.m3u8
 #EXTINF:-1, Rokycany - Pilsen Wolves
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693acf8fb4e4af00beff2a5e/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693acf8fb4e4af00beff2a5e/index.m3u8
 #EXTINF:-1, HC Pelhřimov - Humpolec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692403a8109a6801f3cf8b22/index.m3u8
 #EXTINF:-1, Liikunnan Riemu - S-Kiekko
