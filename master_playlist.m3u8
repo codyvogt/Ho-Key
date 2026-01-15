@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Avangard Omsk - CSKA
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Lada - Salavat Yulaev Ufa
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1, Severstal - Dinamo Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Kometa Brno - Liberec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f734685dc8b398009751d/index.m3u8
