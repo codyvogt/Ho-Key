@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Severstal - Dinamo Minsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Sparta - Kometa Brno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69650c5c1e7e2c7b160e9c29.m3u8
-#EXTINF:-1, Liikunnan Riemu - S-Kiekko
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695f3a0f1e7e2c7b160e84da/index.m3u8
-#EXTINF:-1, Rokycany - Pilsen Wolves
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693acf8fb4e4af00beff2a5e/index.m3u8
-#EXTINF:-1, HC Pelhřimov - Humpolec
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692403a8109a6801f3cf8b22/index.m3u8
 #EXTINF:-1, HJK - Harjun Kiekko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f3a0f1e7e2c7b160e84db/index.m3u8
+#EXTINF:-1, HC Pelhřimov - Humpolec
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692403a8109a6801f3cf8b22/index.m3u8
 #EXTINF:-1, Osby IK - Lund Giants HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696093d71e7e2c7b160e87d1/index.m3u8
 #EXTINF:-1, Kramfors - Husum HK
@@ -31,3 +25,5 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6963f80b1e7e2c7b160e97
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f3a0f85dc8b3980097469/index.m3u8
 #EXTINF:-1, PiTa - Kiekko 49 Espoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f3a0f85dc8b398009746d/index.m3u8
+#EXTINF:-1, Merrimack - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
