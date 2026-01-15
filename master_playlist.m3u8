@@ -3,10 +3,6 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Sparta - Kometa Brno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69650c5c1e7e2c7b160e9c29.m3u8
-#EXTINF:-1, Denmark - Norway
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963f7d61acb88e1df0e2086/index.m3u8
-#EXTINF:-1, Italy - Germany
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f80b1e7e2c7b160e9798/index.m3u8
 #EXTINF:-1, Slovakia U18 - HK Skalica
 https://nn.geo.joj.sk/huste/af59eb2d-0961-4403-bbbc-0360b99a87f9/af59eb2d-0961-4403-bbbc-0360b99a87f9/playlist.m3u8
 #EXTINF:-1, HC Tábor B - HC DDM ČEB
@@ -39,3 +35,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69609b8585dc8b39800977
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696092fe1e7e2c7b160e87c9/index.m3u8
 #EXTINF:-1, Skärgårdens SK - Munkedal
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960a4091e7e2c7b160e8856/index.m3u8
+#EXTINF:-1, Italy - Germany
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f80b1e7e2c7b160e9798/index.m3u8
