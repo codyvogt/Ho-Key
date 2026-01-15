@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Avangard Omsk - CSKA
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Lada - Salavat Yulaev Ufa
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, Severstal - Dinamo Minsk
@@ -13,6 +11,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f734685dc8b39800975
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963f7d61acb88e1df0e2086/index.m3u8
 #EXTINF:-1, Italy - Germany
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963f80b1e7e2c7b160e9798/index.m3u8
+#EXTINF:-1, Slovakia U18 - HK Skalica
+https://nn.geo.joj.sk/huste/af59eb2d-0961-4403-bbbc-0360b99a87f9/af59eb2d-0961-4403-bbbc-0360b99a87f9/playlist.m3u8
 #EXTINF:-1, HC Tábor B - HC DDM ČEB
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/691c1aa31ea1b60e809f38b9/index.m3u8
 #EXTINF:-1, Česká Třebová - Hlinsko
