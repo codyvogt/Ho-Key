@@ -121,6 +121,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961ec291e7e2c7b160e8d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961ec291e7e2c7b160e8d8c/index.m3u8
 #EXTINF:-1, Hallstahammar - Avesta
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961e1151e7e2c7b160e8d30/index.m3u8
+#EXTINF:-1, Spånga IS IK - Viggbyholm
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961ef961e7e2c7b160e8db6/index.m3u8
 #EXTINF:-1, Segeltorps IF - Linden
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961ec291e7e2c7b160e8d8d/index.m3u8
 #EXTINF:-1, Mälarö HF - Tierps HK
@@ -130,7 +132,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961f22285dc8b3980097d
 #EXTINF:-1, Sollefteå HK - Njurunda SK
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961e99a1e7e2c7b160e8d56/index.m3u8
 #EXTINF:-1, IK Göta - Nacka HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961f3d71e7e2c7b160e8dbe/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961f3d71e7e2c7b160e8dbe/index.m3u8
 #EXTINF:-1, Hammarby IF - Haninge HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961e1ef1e7e2c7b160e8d3c/index.m3u8
 #EXTINF:-1, HC Žihadla - HC Humpolec
@@ -176,7 +178,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961f22285dc8b3980097d
 #EXTINF:-1, Sala HK - Västerås Pickels
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961de861e7e2c7b160e8d2e/index.m3u8
 #EXTINF:-1, IK Huge - Sandvikens IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961edde1e7e2c7b160e8daa/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961edde1e7e2c7b160e8daa/index.m3u8
 #EXTINF:-1, Huddinge - Österåker
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961f4b185dc8b3980097d8a/index.m3u8
 #EXTINF:-1, Kuru - Kemin Lämärit
@@ -197,3 +199,13 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961e3a885dc8b3980097c
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Connecticut - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Chamonix - Anglet
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f86/index.m3u8
+#EXTINF:-1, Amiens - Aigles de Nice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285169d2a1a468257e632/index.m3u8
+#EXTINF:-1, Bordeaux - Briançon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f8c/index.m3u8
+#EXTINF:-1, Grenoble - Cergy-Pontoise
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f8a/index.m3u8
+#EXTINF:-1, Rapaces de Gap - Marseille
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285169d2a1a468257e630/index.m3u8
