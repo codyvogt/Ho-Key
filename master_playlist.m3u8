@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, České Budějovice - Plzeň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957fd1585dc8b3980095c3a.m3u8
-#EXTINF:-1, Mladá Boleslav - Pardubice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69664b8d85dc8b3980099002.m3u8
-#EXTINF:-1, HC Vítkovice - HC Litvínov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69664b9c85dc8b3980099004.m3u8
 #EXTINF:-1, Bílí Tygři Liberec - Třinec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69664bea85dc8b398009900c.m3u8
 #EXTINF:-1, Mountfield HK - Kladno
@@ -180,7 +174,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961de861e7e2c7b160e8d
 #EXTINF:-1, IK Huge - Sandvikens IK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961edde1e7e2c7b160e8daa/index.m3u8
 #EXTINF:-1, Huddinge - Österåker
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961f4b185dc8b3980097d8a/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961f4b185dc8b3980097d8a/index.m3u8
 #EXTINF:-1, Kuru - Kemin Lämärit
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69608b9085dc8b39800976ed/index.m3u8
 #EXTINF:-1, PKW - Panelian Raikas
@@ -190,22 +184,22 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961f81885dc8b3980097d
 #EXTINF:-1, Järna SK - IFK Tumba IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961f06e85dc8b3980097d4f/index.m3u8
 #EXTINF:-1, EHC Neuwied - Hijs Hokij
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958e8a785dc8b39800960ca/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958e8a785dc8b39800960ca/index.m3u8
 #EXTINF:-1, Mechelen - Liège Bulldogs
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958e8a81e7e2c7b160e7267/index.m3u8
 #EXTINF:-1, Trångsunds IF 2 - Nyköping
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961e3a885dc8b3980097ced/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961e3a885dc8b3980097ced/index.m3u8
 #EXTINF:-1, Providence - Boston C
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Connecticut - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Chamonix - Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f86/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f86/index.m3u8
 #EXTINF:-1, Amiens - Aigles de Nice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285169d2a1a468257e632/index.m3u8
 #EXTINF:-1, Bordeaux - Briançon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f8c/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f8c/index.m3u8
 #EXTINF:-1, Grenoble - Cergy-Pontoise
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f8a/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28516b4c8ed39e3473f8a/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Marseille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285169d2a1a468257e630/index.m3u8
