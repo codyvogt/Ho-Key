@@ -27,3 +27,35 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8966a81-4d3d-4938-8885-d00b7f875cc4-hls/master/e8966a81-4d3d-4938-8885-d00b7f875cc4-hls.m3u8
 #EXTINF:-1, Charleroi - Antwerp
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958efb985dc8b39800960fc/index.m3u8
+#EXTINF:-1, Quinnipiac - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Yale - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Brown - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Providence -  Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, UMass Lowell - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Vermont - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, UMass - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Northeastern - UNH
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Clarkson - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Princeton - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Nebraska-Omaha - Miami
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/512402cb-78be-480d-9ef2-5bdfb3094768-hls/master/512402cb-78be-480d-9ef2-5bdfb3094768-hls.m3u8
+#EXTINF:-1, MinnState - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, LSSU - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, UMD - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/fdcc2369-bba7-4d7c-bf1b-1344da6206e8-hls/master/fdcc2369-bba7-4d7c-bf1b-1344da6206e8-hls.m3u8
+#EXTINF:-1, Denver - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/50ba9226-55a9-4aef-8dc9-4b9feaf6c3be-hls/master/50ba9226-55a9-4aef-8dc9-4b9feaf6c3be-hls.m3u8
