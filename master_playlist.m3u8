@@ -1,19 +1,29 @@
 #EXTM3U
-#EXTINF:-1, Amiens - Aigles de Nice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285169d2a1a468257e632/index.m3u8
 #EXTINF:-1, Bordeaux - Briançon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f8c/index.m3u8
-#EXTINF:-1, Grenoble - Cergy-Pontoise
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28516b4c8ed39e3473f8a/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Marseille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285169d2a1a468257e630/index.m3u8
-#EXTINF:-1, Velké Meziříčí - Choceň
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fdd4e0d73d3ccbfec2aef/index.m3u8
 #EXTINF:-1, Mor. Třebová - Žďár n. S.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953a3cf1e7e2c7b160e67df/index.m3u8
 #EXTINF:-1, Mechelen - Liège Bulldogs
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958e8a81e7e2c7b160e7267/index.m3u8
 #EXTINF:-1, Chambéry - Grenoble
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44e9d2a1a468257fd7c/index.m3u8
+#EXTINF:-1, Maine - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Union - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Dartmouth - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Harvard - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Colgate - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Cornell - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Penn State - Syracuse
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e8966a81-4d3d-4938-8885-d00b7f875cc4-hls/master/e8966a81-4d3d-4938-8885-d00b7f875cc4-hls.m3u8
 #EXTINF:-1, Charleroi - Antwerp
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958efb985dc8b39800960fc/index.m3u8
