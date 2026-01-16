@@ -11,24 +11,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69664bea85dc8b39800990
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69664bbe85dc8b3980099008.m3u8
 #EXTINF:-1, HC Olomouc - Karlovy Vary
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69664bd585dc8b398009900a.m3u8
-#EXTINF:-1, Turun Palloseura - KalPa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69608b9085dc8b39800976f0/index.m3u8
-#EXTINF:-1, Vaasan Sport - Jukurit
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69608b901e7e2c7b160e8798/index.m3u8
-#EXTINF:-1, Lukko - Lahden Pelicans
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69608b901e7e2c7b160e8790/index.m3u8
-#EXTINF:-1, RoKi - Oulun Kärpät
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69608b9085dc8b39800976d9/index.m3u8
-#EXTINF:-1, IFK Helsinki - JYP
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69608b901e7e2c7b160e878e/index.m3u8
-#EXTINF:-1, Helsingin Jokerit - Ässät
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69608b9085dc8b39800976e0/index.m3u8
 #EXTINF:-1, Warriors Brno - Šumperk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69521a1685dc8b398009517a/index.m3u8
 #EXTINF:-1, AZ Havířov - ZUBR Přerov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6933c78df7cfc8c7990d0667/index.m3u8
 #EXTINF:-1, Rytíři Kladno - IHC Písek
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694fd98685dc8b3980094b96/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694fd98685dc8b3980094b96/index.m3u8
 #EXTINF:-1, Technika Brno - Olomouc
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6903627d40899867ab4850d0/index.m3u8
 #EXTINF:-1, SC Kolín - HC Hvězda Praha
@@ -47,6 +35,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6952524d85dc8b39800952
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942b895148907a0dbe333d1/index.m3u8
 #EXTINF:-1, Sparta Praha - Vítkovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a31161e7e2c7b160e5775/index.m3u8
+#EXTINF:-1, RoKi - Oulun Kärpät
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69608b9085dc8b39800976d9/index.m3u8
+#EXTINF:-1, IFK Helsinki - JYP
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69608b901e7e2c7b160e878e/index.m3u8
+#EXTINF:-1, Helsingin Jokerit - Ässät
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69608b9085dc8b39800976e0/index.m3u8
 #EXTINF:-1, Metallurg Zhlobin - Lida
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Lomnice n. P. - Nová Paka
@@ -98,9 +92,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69608b901e7e2c7b160e87
 #EXTINF:-1, Jokipojat - SaPKo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69608b901e7e2c7b160e87a4/index.m3u8
 #EXTINF:-1, Viikingit Helsinki - SaPKo
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69608b901e7e2c7b160e87aa/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69608b901e7e2c7b160e87aa/index.m3u8
 #EXTINF:-1, Turun Toverit - KOOVEE
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69608b901e7e2c7b160e87b7/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69608b901e7e2c7b160e87b7/index.m3u8
 #EXTINF:-1, Kiekko-Espoo - K-Vantaa
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69608b901e7e2c7b160e8791/index.m3u8
 #EXTINF:-1, Lännen Kiekko - Jää-Kotkat
