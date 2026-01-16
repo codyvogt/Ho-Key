@@ -1,20 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Storumans IK - Malå IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961e1ef1e7e2c7b160e8d3a/index.m3u8
-#EXTINF:-1, Huddinge - Österåker
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961f4b185dc8b3980097d8a/index.m3u8
-#EXTINF:-1, EHC Neuwied - Hijs Hokij
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6958e8a785dc8b39800960ca/index.m3u8
-#EXTINF:-1, Mechelen - Liège Bulldogs
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958e8a81e7e2c7b160e7267/index.m3u8
 #EXTINF:-1, Trångsunds IF 2 - Nyköping
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961e3a885dc8b3980097ced/index.m3u8
-#EXTINF:-1, HCM Jaroměř - HC Opočno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695100d585dc8b3980094f2a/index.m3u8
-#EXTINF:-1, Velké Meziříčí - Choceň
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fdd4e0d73d3ccbfec2aef/index.m3u8
-#EXTINF:-1, Mor. Třebová - Žďár n. S.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953a3cf1e7e2c7b160e67df/index.m3u8
 #EXTINF:-1, Providence - Boston C
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Connecticut - Merrimack
@@ -29,6 +15,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28516b4c8ed39e3473f8a/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Marseille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c285169d2a1a468257e630/index.m3u8
+#EXTINF:-1, Velké Meziříčí - Choceň
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/693fdd4e0d73d3ccbfec2aef/index.m3u8
+#EXTINF:-1, Mor. Třebová - Žďár n. S.
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953a3cf1e7e2c7b160e67df/index.m3u8
+#EXTINF:-1, Mechelen - Liège Bulldogs
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6958e8a81e7e2c7b160e7267/index.m3u8
 #EXTINF:-1, Chambéry - Grenoble
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c8e44e9d2a1a468257fd7c/index.m3u8
 #EXTINF:-1, Charleroi - Antwerp
