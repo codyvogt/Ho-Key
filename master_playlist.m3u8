@@ -3,8 +3,6 @@
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1, Avtomobilist - Sal. Yulaev
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1, Valaš. Meziříčí B - Opava
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df3c0aa0cd927f7907d/index.m3u8
 #EXTINF:-1, SaiPa - Kouvolan KooKoo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961dd1985dc8b3980097be2/index.m3u8
 #EXTINF:-1, Vaasan Sport - Tappara
@@ -72,7 +70,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69633ccf85dc8b39800984
 #EXTINF:-1, Nacka HK - Flemingsberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963463085dc8b39800985e1/index.m3u8
 #EXTINF:-1, Sundsvall - Kvarnsveden
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696343a685dc8b3980098591/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696343a685dc8b3980098591/index.m3u8
 #EXTINF:-1, Hedesunda IF - Hässelby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696330e01e7e2c7b160e935f/index.m3u8
 #EXTINF:-1, Nokian Pyry - Peliitat
@@ -89,3 +87,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69633da985dc8b39800984
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696340391e7e2c7b160e948b/index.m3u8
 #EXTINF:-1, IK Graip - Järna SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696331ba85dc8b3980098399/index.m3u8
+#EXTINF:-1, Norway - France
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696a13d2ef0564059e4352f6/index.m3u8
+#EXTINF:-1, Hokki - JYP Akatemia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961dd1b1e7e2c7b160e8d15/index.m3u8
+#EXTINF:-1, Benátky n. J. B - Slaný
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957a65c1e7e2c7b160e6c8b/index.m3u8
+#EXTINF:-1, Tampereen Ilves - HPK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961dd1a85dc8b3980097c66/index.m3u8
