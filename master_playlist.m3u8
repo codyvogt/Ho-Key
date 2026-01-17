@@ -3,18 +3,6 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1836be0d-7b64-4155-8a0b-88fdc7dc3483/master.m3u8
 #EXTINF:-1, NY Rangers - Philadelphia
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aa2971a7-0a96-4f65-a99f-c46d05900312/master.m3u8
-#EXTINF:-1, IF Sundsvall - Bodens HF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696335fe1e7e2c7b160e938c/index.m3u8
-#EXTINF:-1, IK Göta - IFK Täby HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696341151e7e2c7b160e949b/index.m3u8
-#EXTINF:-1, Östersunds IK - Kalix HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696343a61e7e2c7b160e94d1/index.m3u8
-#EXTINF:-1, Brinken - Tyresö Hanviken
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963352685dc8b39800983d4/index.m3u8
-#EXTINF:-1, Ånge IK - Kiruna IF
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69633e841e7e2c7b160e9437/index.m3u8
-#EXTINF:-1, Kovlands IshF - Piteå HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69633da91e7e2c7b160e93f9/index.m3u8
 #EXTINF:-1, Litoměřice - Frýdek-Místek
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964ee1485dc8b3980098d77.m3u8
 #EXTINF:-1, Slavia Třebíč - Slavia Praha
@@ -137,6 +125,16 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695897e085dc8b3980095d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695897e085dc8b3980095daf/index.m3u8
 #EXTINF:-1, Vasas SC - Worm Angels
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695897e085dc8b3980095db3/index.m3u8
+#EXTINF:-1, IK Göta - IFK Täby HC
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696341151e7e2c7b160e949b/index.m3u8
+#EXTINF:-1, Östersunds IK - Kalix HC
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696343a61e7e2c7b160e94d1/index.m3u8
+#EXTINF:-1, Brinken - Tyresö Hanviken
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963352685dc8b39800983d4/index.m3u8
+#EXTINF:-1, Ånge IK - Kiruna IF
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69633e841e7e2c7b160e9437/index.m3u8
+#EXTINF:-1, Kovlands IshF - Piteå HC
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69633da91e7e2c7b160e93f9/index.m3u8
 #EXTINF:-1, IFK Lepplax - KalPa Ak
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961dd1985dc8b3980097bb5/index.m3u8
 #EXTINF:-1, Hunters - HIFK Sibbo
