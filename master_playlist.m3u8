@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Minnesota Wild - Buffalo
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1836be0d-7b64-4155-8a0b-88fdc7dc3483/master.m3u8
 #EXTINF:-1, NY Rangers - Philadelphia
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aa2971a7-0a96-4f65-a99f-c46d05900312/master.m3u8
 #EXTINF:-1, NY Islanders - Calgary
@@ -49,10 +47,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c481e7e2c7b160e80
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ede/index.m3u8
 #EXTINF:-1, Morzine - Strasbourg
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c471e7e2c7b160e8046/index.m3u8
-#EXTINF:-1, Kiruna AIF - Bodens IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963447d85dc8b39800985a5/index.m3u8
-#EXTINF:-1, HC Wolferines - Grizzlyz
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6959e6ed85dc8b398009629f/index.m3u8
 #EXTINF:-1, Comètes de Meudon - Metz
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ee6/index.m3u8
 #EXTINF:-1, Italy - Denmark
@@ -87,3 +81,37 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695a413e85dc8b39800967
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696a4910ef0564059e4353fe/index.m3u8
 #EXTINF:-1, CG Puigcerdà - Andorra
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696a4975ef0564059e435403/index.m3u8
+#EXTINF:-1, Brown - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Vermont - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Yale - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Simon Fraser - Colorado C
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5c0df4e8-21c6-446a-bcf5-d61b96da8050-hls/master/5c0df4e8-21c6-446a-bcf5-d61b96da8050-hls.m3u8
+#EXTINF:-1, Boston U - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, Nebraska-Omaha - Miami
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af932365-f016-430f-9242-afb14abd43a5-hls/master/af932365-f016-430f-9242-afb14abd43a5-hls.m3u8
+#EXTINF:-1, LSSU - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, MinnState - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, Princeton - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Boston C - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, UMD - St. Cloud State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cd3df999-f796-47a3-bcfb-9d98b6781bfd-hls/master/cd3df999-f796-47a3-bcfb-9d98b6781bfd-hls.m3u8
+#EXTINF:-1, Merrimack - Massachusetts
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Denver - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a70a6871-c702-4d0b-b7e5-07baf1244366-hls/master/a70a6871-c702-4d0b-b7e5-07baf1244366-hls.m3u8
+#EXTINF:-1, Notre Dame - Penn State
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
