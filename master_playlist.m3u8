@@ -23,8 +23,6 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5c0df4e8-21c6-446a-bcf5-d61b9
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, Nebraska-Omaha - Miami
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af932365-f016-430f-9242-afb14abd43a5-hls/master/af932365-f016-430f-9242-afb14abd43a5-hls.m3u8
-#EXTINF:-1, LSSU - Bowling Green
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, MinnState - Michigan Tech
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, Princeton - Colgate
@@ -41,6 +39,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playli
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cd3df999-f796-47a3-bcfb-9d98b6781bfd-hls/master/cd3df999-f796-47a3-bcfb-9d98b6781bfd-hls.m3u8
 #EXTINF:-1, Merrimack - Massachusetts
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, LSSU - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, Denver - North Dakota
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a70a6871-c702-4d0b-b7e5-07baf1244366-hls/master/a70a6871-c702-4d0b-b7e5-07baf1244366-hls.m3u8
 #EXTINF:-1, Notre Dame - Penn State
