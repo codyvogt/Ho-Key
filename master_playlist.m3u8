@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Minnesota Wild - Buffalo
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1836be0d-7b64-4155-8a0b-88fdc7dc3483/master.m3u8
 #EXTINF:-1, AIK - Timrå IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963455785dc8b39800985bb/index.m3u8
 #EXTINF:-1, Luleå HF - MoDo Hockey
@@ -86,7 +88,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6961dd1485dc8b3980097a
 #EXTINF:-1, Kerava Shakers - Viikingit
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961dd141e7e2c7b160e8bd4/index.m3u8
 #EXTINF:-1, Grankulla IFK - EVU
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961dd151e7e2c7b160e8c07/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961dd151e7e2c7b160e8c07/index.m3u8
 #EXTINF:-1, Pyry Team - Kisa-Eagles
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961dd161e7e2c7b160e8c44/index.m3u8
 #EXTINF:-1, Kuparikiekko Team - HCE
@@ -142,7 +144,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696341151e7e2c7b160e94
 #EXTINF:-1, Östersunds IK - Kalix HC
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696343a61e7e2c7b160e94d1/index.m3u8
 #EXTINF:-1, Brinken - Tyresö Hanviken
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6963352685dc8b39800983d4/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963352685dc8b39800983d4/index.m3u8
 #EXTINF:-1, Ånge IK - Kiruna IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69633e841e7e2c7b160e9437/index.m3u8
 #EXTINF:-1, Kovlands IshF - Piteå HC
@@ -290,11 +292,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695897e085dc8b3980095d
 #EXTINF:-1, Vasas SC - Worm Angels
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695897e085dc8b3980095db3/index.m3u8
 #EXTINF:-1, SA Víkingar - SR
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69594e9685dc8b3980096226/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69594e9685dc8b3980096226/index.m3u8
 #EXTINF:-1, Nantes - Villard-de-Lans
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4885dc8b3980096ed8/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695c8c4885dc8b3980096ed8/index.m3u8
 #EXTINF:-1, Épinal - Drakkars de Caen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c471e7e2c7b160e8044/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c471e7e2c7b160e8044/index.m3u8
 #EXTINF:-1, Valenciennes - Cholet
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c471e7e2c7b160e8048/index.m3u8
 #EXTINF:-1, Mont-Blanc - Dunkerque
