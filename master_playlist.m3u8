@@ -5,38 +5,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1836be
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aa2971a7-0a96-4f65-a99f-c46d05900312/master.m3u8
 #EXTINF:-1, NY Islanders - Calgary
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a534412c-4089-4666-8ce4-cf53e8c26ae2/master.m3u8
-#EXTINF:-1, Varese - Eppan Pirates
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6966025a85dc8b3980098f26/index.m3u8
-#EXTINF:-1, SV Kaltern - Pergine
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6966025b85dc8b3980098f28/index.m3u8
-#EXTINF:-1, Alleghe Hockey - Aosta
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966025c1e7e2c7b160e9e29/index.m3u8
-#EXTINF:-1, HC Valpellice - Zinnen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6966025d85dc8b3980098f2a/index.m3u8
-#EXTINF:-1, Fassa - Valdifiemme HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966025d85dc8b3980098f2c/index.m3u8
-#EXTINF:-1, HC Žabonosy - Černošice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/694c01261e7e2c7b160e5970/index.m3u8
-#EXTINF:-1, Radomyšl - Jindř. Hradec
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69567f0c85dc8b398009596a/index.m3u8
-#EXTINF:-1, Neuilly - Dunkerque
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ee2/index.m3u8
-#EXTINF:-1, Comètes de Meudon - Metz
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ee6/index.m3u8
-#EXTINF:-1, Valenciennes - Cholet
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695c8c471e7e2c7b160e8048/index.m3u8
-#EXTINF:-1, Mont-Blanc - Dunkerque
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695c8c4885dc8b3980096ed6/index.m3u8
-#EXTINF:-1, Lions de Lyon - HCMP
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4885dc8b3980096ed4/index.m3u8
-#EXTINF:-1, Chambéry - Neuilly
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c481e7e2c7b160e804a/index.m3u8
-#EXTINF:-1, Tours - Meudon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ede/index.m3u8
-#EXTINF:-1, Morzine - Strasbourg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c471e7e2c7b160e8046/index.m3u8
-#EXTINF:-1, Pyry Team - Kisa-Eagles
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961dd161e7e2c7b160e8c44/index.m3u8
 #EXTINF:-1, Français Volants - Reims
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c4b85dc8b3980096f24/index.m3u8
 #EXTINF:-1, Montpellier - Vaujany
@@ -59,14 +27,34 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c4b85dc8b3980096f
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c4a85dc8b3980096f08/index.m3u8
 #EXTINF:-1, EVU Team - Karhu-Kissat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961dd1585dc8b3980097b05/index.m3u8
+#EXTINF:-1, SV Kaltern - Pergine
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6966025b85dc8b3980098f28/index.m3u8
+#EXTINF:-1, Alleghe Hockey - Aosta
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966025c1e7e2c7b160e9e29/index.m3u8
+#EXTINF:-1, HC Valpellice - Zinnen
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6966025d85dc8b3980098f2a/index.m3u8
+#EXTINF:-1, Fassa - Valdifiemme HC
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966025d85dc8b3980098f2c/index.m3u8
 #EXTINF:-1, Liège - Heerenveen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a3a291e7e2c7b160e78e4/index.m3u8
 #EXTINF:-1, Leuven Chiefs - Limburg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a3a29e1ddd6cdf6308648/index.m3u8
+#EXTINF:-1, Mont-Blanc - Dunkerque
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695c8c4885dc8b3980096ed6/index.m3u8
+#EXTINF:-1, Lions de Lyon - HCMP
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4885dc8b3980096ed4/index.m3u8
+#EXTINF:-1, Chambéry - Neuilly
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c481e7e2c7b160e804a/index.m3u8
+#EXTINF:-1, Tours - Meudon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ede/index.m3u8
+#EXTINF:-1, Morzine - Strasbourg
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c471e7e2c7b160e8046/index.m3u8
 #EXTINF:-1, Kiruna AIF - Bodens IK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6963447d85dc8b39800985a5/index.m3u8
 #EXTINF:-1, HC Wolferines - Grizzlyz
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6959e6ed85dc8b398009629f/index.m3u8
+#EXTINF:-1, Comètes de Meudon - Metz
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ee6/index.m3u8
 #EXTINF:-1, Italy - Denmark
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696a1569becdc6c9c8b3f454/index.m3u8
 #EXTINF:-1, Maine - Vermont
@@ -89,6 +77,8 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/959036da-2f84-4a05-9a3b-72d3d
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Northeastern - UNH
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Radomyšl - Jindř. Hradec
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69567f0c85dc8b398009596a/index.m3u8
 #EXTINF:-1, Vasas SC - Worm Angels
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695897e085dc8b3980095db3/index.m3u8
 #EXTINF:-1, Toekomstteam - Liège II
