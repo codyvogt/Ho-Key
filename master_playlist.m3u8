@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, NY Islanders - Calgary
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a534412c-4089-4666-8ce4-cf53e8c26ae2/master.m3u8
-#EXTINF:-1, Comètes de Meudon - Metz
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ee6/index.m3u8
 #EXTINF:-1, Chambéry - Neuilly
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c481e7e2c7b160e804a/index.m3u8
 #EXTINF:-1, Tours - Meudon
@@ -53,10 +51,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c4a85dc8b3980096f
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695897e085dc8b3980095db3/index.m3u8
 #EXTINF:-1, Toekomstteam - Liège II
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695a413e85dc8b39800967ed/index.m3u8
-#EXTINF:-1, CH Jaca - Txuri Urdin
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696a4910ef0564059e4353fe/index.m3u8
-#EXTINF:-1, CG Puigcerdà - Andorra
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696a4975ef0564059e435403/index.m3u8
 #EXTINF:-1, Brown - Rensselaer PI
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
 #EXTINF:-1, Vermont - Connecticut
@@ -91,3 +85,5 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a70a6871-c702-4d0b-b7e5-07baf1244366-hls/master/a70a6871-c702-4d0b-b7e5-07baf1244366-hls.m3u8
 #EXTINF:-1, Notre Dame - Penn State
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1, CG Puigcerdà - Andorra
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696a4975ef0564059e435403/index.m3u8
