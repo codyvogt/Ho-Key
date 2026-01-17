@@ -1,20 +1,12 @@
 #EXTM3U
 #EXTINF:-1, NY Islanders - Calgary
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a534412c-4089-4666-8ce4-cf53e8c26ae2/master.m3u8
-#EXTINF:-1, Chambéry - Neuilly
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c481e7e2c7b160e804a/index.m3u8
-#EXTINF:-1, Tours - Meudon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ede/index.m3u8
-#EXTINF:-1, Morzine - Strasbourg
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c471e7e2c7b160e8046/index.m3u8
-#EXTINF:-1, Leuven Chiefs - Limburg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a3a29e1ddd6cdf6308648/index.m3u8
+#EXTINF:-1, Seattle - Utah Mammoth
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/704206d8-36ac-41b5-935e-660b04e2683f/master.m3u8
 #EXTINF:-1, Albatros de Brest - Châlons
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695c8c4985dc8b3980096ef4/index.m3u8
 #EXTINF:-1, Clermont-Ferrand - Dijon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4c85dc8b3980096f32/index.m3u8
-#EXTINF:-1, Italy - Denmark
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696a1569becdc6c9c8b3f454/index.m3u8
 #EXTINF:-1, Maine - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Union - Clarkson
@@ -35,6 +27,10 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/959036da-2f84-4a05-9a3b-72d3d
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Northeastern - UNH
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Tours - Meudon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695c8c4985dc8b3980096ede/index.m3u8
+#EXTINF:-1, Morzine - Strasbourg
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695c8c471e7e2c7b160e8046/index.m3u8
 #EXTINF:-1, HC Chiavenna - Pinerolo
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b949385dc8b3980096cd2/index.m3u8
 #EXTINF:-1, Alleghe Hockey - Aosta
