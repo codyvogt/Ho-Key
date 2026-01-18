@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Tampa Bay - Dallas Stars
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/258f7f04-ee2b-4af9-8ebb-b0c2a35e3ca5/master.m3u8
 #EXTINF:-1, Ottawa Senators - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/17df06fd-5d14-4ff2-8dab-61f8d0f73ce4/master.m3u8
-#EXTINF:-1, Näädät - Hyvinkää Storm
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69632e9585dc8b398009835b/index.m3u8
 #EXTINF:-1, Green Bay - US NTDP U18
 https://d1nizjvix1dtdk.cloudfront.net/ed9fc13d82eabd6704dfaa93d5e18c70/0_hd_hls.m3u8
 #EXTINF:-1, UNH - Northeastern
