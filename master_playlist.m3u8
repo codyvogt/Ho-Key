@@ -1,39 +1,13 @@
 #EXTM3U
 #EXTINF:-1, Montréal - Ottawa Senators
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/051a677a-525f-4c39-b74a-2064df2d008e/master.m3u8
-#EXTINF:-1, Carolina - New Jersey
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bb5c3ab-df90-4e83-a983-018222d0e22e/master.m3u8
 #EXTINF:-1, Columbus - Pittsburgh
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78b3bb8a-2807-4273-80d9-905004c6755a/master.m3u8
-#EXTINF:-1, Florida - Washington
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c2d4c17c-cf20-48f7-a2c0-05243a12b3b3/master.m3u8
-#EXTINF:-1, Toronto - Winnipeg Jets
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3973af4a-508e-47fa-b612-a70394a1cc6b/master.m3u8
 #EXTINF:-1, Edmonton - Vancouver
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a86ff73f-e67c-4df7-9bd6-da0cba2499b3/master.m3u8
 #EXTINF:-1, Nashville Predators - Vegas
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e441e0ee-d046-4e13-8b0b-9d407b195619/master.m3u8
 #EXTINF:-1, Los Angeles - Anaheim
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e93e8738-fcaa-4497-9b65-4c50e5585e76/master.m3u8
-#EXTINF:-1, Princeton - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Boston C - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Clarkson - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, UMD - St. Cloud State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/cd3df999-f796-47a3-bcfb-9d98b6781bfd-hls/master/cd3df999-f796-47a3-bcfb-9d98b6781bfd-hls.m3u8
-#EXTINF:-1, Merrimack - Massachusetts
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, LSSU - Bowling Green
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
-#EXTINF:-1, Denver - North Dakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a70a6871-c702-4d0b-b7e5-07baf1244366-hls/master/a70a6871-c702-4d0b-b7e5-07baf1244366-hls.m3u8
 #EXTINF:-1, Notre Dame - Penn State
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1, Green Bay - US NTDP U17
-https://d2nsgzkzw0moan.cloudfront.net/314794978c0e8d3adae1f943c8d6028d/0_hd_hls.m3u8
