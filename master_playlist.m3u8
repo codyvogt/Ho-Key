@@ -1,22 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Tampa Bay - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/258f7f04-ee2b-4af9-8ebb-b0c2a35e3ca5/master.m3u8
-#EXTINF:-1, HC 74 - Drakkars de Caen
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695dddc985dc8b39800971d8/index.m3u8
-#EXTINF:-1, Évry-Viry - Poitiers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc785dc8b398009719e/index.m3u8
-#EXTINF:-1, Tours - Clermont-Ferrand
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695dddc885dc8b39800971a0/index.m3u8
-#EXTINF:-1, HC Klatovy - HC Rokycany
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957de9d6416016c1bc1caa6/index.m3u8
-#EXTINF:-1, HC DDM ČEB - Strakonice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a856d1e7e2c7b160e5872/index.m3u8
-#EXTINF:-1, Bordeaux - Grenoble
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28514b4c8ed39e3473f3c/index.m3u8
 #EXTINF:-1, Briançon - Anglet
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f72/index.m3u8
-#EXTINF:-1, Munkedals BK - Trollhättan
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6964877f85dc8b3980098980/index.m3u8
+#EXTINF:-1, Tours - Clermont-Ferrand
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695dddc885dc8b39800971a0/index.m3u8
 #EXTINF:-1, Heerenveen - Leuven
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b8ba91e7e2c7b160e7e0e/index.m3u8
 #EXTINF:-1, HYC - Hijs Hokij
