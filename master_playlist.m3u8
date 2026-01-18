@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Traktor - Avangard Omsk
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1, Östersunds IK - Bodens HF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964952585dc8b3980098b37/index.m3u8
 #EXTINF:-1, Njurunda SK - Kiruna IF
@@ -30,9 +32,9 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Metallurg Zhlobin - Lida
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, RNK - Seinäjoen-Kiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69632e921e7e2c7b160e91ff/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69632e921e7e2c7b160e91ff/index.m3u8
 #EXTINF:-1, Timrå IK - Kvarnsvedens IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696495fc85dc8b3980098b50/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696495fc85dc8b3980098b50/index.m3u8
 #EXTINF:-1, Troja-Ljungby - Hammarby
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696491b91e7e2c7b160e99a2/index.m3u8
 #EXTINF:-1, Örebro - Malmö Redhawks
@@ -40,9 +42,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696494491e7e2c7b160e99
 #EXTINF:-1, IF Sundsvall - Leksands IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696495251e7e2c7b160e9a06/index.m3u8
 #EXTINF:-1, Rovaniemen Kiekko - KalPa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69632e951e7e2c7b160e92cd/index.m3u8
-#EXTINF:-1, Traktor - Avangard Omsk
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69632e951e7e2c7b160e92cd/index.m3u8
 #EXTINF:-1, Djurgårdens IF - Timrå IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69648bc01e7e2c7b160e988e/index.m3u8
 #EXTINF:-1, Skellefteå AIK - MoDo
