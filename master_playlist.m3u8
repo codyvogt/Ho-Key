@@ -9,14 +9,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78b3bb
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c2d4c17c-cf20-48f7-a2c0-05243a12b3b3/master.m3u8
 #EXTINF:-1, Toronto - Winnipeg Jets
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3973af4a-508e-47fa-b612-a70394a1cc6b/master.m3u8
-#EXTINF:-1, Simon Fraser - Colorado C
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5c0df4e8-21c6-446a-bcf5-d61b96da8050-hls/master/5c0df4e8-21c6-446a-bcf5-d61b96da8050-hls.m3u8
-#EXTINF:-1, Boston U - UMass Lowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, Nebraska-Omaha - Miami
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/af932365-f016-430f-9242-afb14abd43a5-hls/master/af932365-f016-430f-9242-afb14abd43a5-hls.m3u8
-#EXTINF:-1, MinnState - Michigan Tech
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, Princeton - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 #EXTINF:-1, Boston C - Providence
@@ -37,7 +29,5 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a70a6871-c702-4d0b-b7e5-07baf1244366-hls/master/a70a6871-c702-4d0b-b7e5-07baf1244366-hls.m3u8
 #EXTINF:-1, Notre Dame - Penn State
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1, Northeastern - UNH
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Green Bay - US NTDP U17
 https://d2nsgzkzw0moan.cloudfront.net/314794978c0e8d3adae1f943c8d6028d/0_hd_hls.m3u8
