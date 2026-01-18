@@ -9,16 +9,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69675ad81e7e2c7b160ea1
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69675ab985dc8b39800992db.m3u8
 #EXTINF:-1, Pardubice - Č. Budějovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69675aec1e7e2c7b160ea19f.m3u8
-#EXTINF:-1, Huddinge IK - Almtuna IS
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696497b01e7e2c7b160e9a3b/index.m3u8
-#EXTINF:-1, Haukiputaan Ahmat - UU
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68fc599140899867ab483f5d/index.m3u8
-#EXTINF:-1, Pingviinit - Pyry Team
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69632e8f85dc8b39800981ed/index.m3u8
-#EXTINF:-1, Kisa-Eagles - Nikkarit
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69632e8f85dc8b39800981ec/index.m3u8
-#EXTINF:-1, VG-62 Naantali - Haka
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69632e9185dc8b3980098264/index.m3u8
 #EXTINF:-1, Hodonín - Technika Brno
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b8cd685dc8b3980096c92/index.m3u8
 #EXTINF:-1, Turnov - Vlci Jablonec
@@ -28,7 +18,11 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695cde5685dc8b39800970
 #EXTINF:-1, HC Klatovy - HC Rokycany
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6957de9d6416016c1bc1caa6/index.m3u8
 #EXTINF:-1, HC DDM ČEB - Strakonice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694a856d1e7e2c7b160e5872/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a856d1e7e2c7b160e5872/index.m3u8
+#EXTINF:-1, Kisa-Eagles - Nikkarit
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69632e8f85dc8b39800981ec/index.m3u8
+#EXTINF:-1, VG-62 Naantali - Haka
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69632e9185dc8b3980098264/index.m3u8
 #EXTINF:-1, Angers - Strasbourg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc985dc8b39800971c8/index.m3u8
 #EXTINF:-1, Amiens - Rapaces de Gap
@@ -102,7 +96,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c7d91c9d2a1a468257fb
 #EXTINF:-1, Évry-Viry - Poitiers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc785dc8b398009719e/index.m3u8
 #EXTINF:-1, Tours - Clermont-Ferrand
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc885dc8b39800971a0/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695dddc885dc8b39800971a0/index.m3u8
 #EXTINF:-1, Bordeaux - Grenoble
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28514b4c8ed39e3473f3c/index.m3u8
 #EXTINF:-1, Briançon - Anglet
