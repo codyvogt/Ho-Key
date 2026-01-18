@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Tampa Bay - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/258f7f04-ee2b-4af9-8ebb-b0c2a35e3ca5/master.m3u8
-#EXTINF:-1, Briançon - Anglet
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f72/index.m3u8
-#EXTINF:-1, Tours - Clermont-Ferrand
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695dddc885dc8b39800971a0/index.m3u8
 #EXTINF:-1, Heerenveen - Leuven
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b8ba91e7e2c7b160e7e0e/index.m3u8
 #EXTINF:-1, HYC - Hijs Hokij
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695b8baa85dc8b3980096c5d/index.m3u8
 #EXTINF:-1, Olomouc - Berani Zlín B
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6948df9440f960cadd2dc422/index.m3u8
-#EXTINF:-1, Sokolov B - Domažlice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6925a9861ea1b60e809f5348/index.m3u8
 #EXTINF:-1, Serbia - Netherlands
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696904debecdc6c9c8b3f134/index.m3u8
 #EXTINF:-1, FOC Farsta IF - Kälvesta
@@ -23,3 +17,5 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69648ae71e7e2c7b160e98
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696a1691ef0564059e435310/index.m3u8
 #EXTINF:-1, Näädät - Hyvinkää Storm
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69632e9585dc8b398009835b/index.m3u8
+#EXTINF:-1, UNH - Northeastern
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
