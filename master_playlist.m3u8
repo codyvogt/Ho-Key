@@ -1,30 +1,24 @@
 #EXTM3U
-#EXTINF:-1, Edmonton - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a86ff73f-e67c-4df7-9bd6-da0cba2499b3/master.m3u8
-#EXTINF:-1, Nashville Predators - Vegas
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e441e0ee-d046-4e13-8b0b-9d407b195619/master.m3u8
-#EXTINF:-1, Los Angeles - Anaheim
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e93e8738-fcaa-4497-9b65-4c50e5585e76/master.m3u8
 #EXTINF:-1, Östersunds IK - Bodens HF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964952585dc8b3980098b37/index.m3u8
 #EXTINF:-1, Njurunda SK - Kiruna IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696491b985dc8b3980098afe/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696491b985dc8b3980098afe/index.m3u8
 #EXTINF:-1, IF Sundsvall - Kalix HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964877f1e7e2c7b160e9856/index.m3u8
 #EXTINF:-1, IPK - JYP Akatemia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69632e961e7e2c7b160e92fc/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69632e961e7e2c7b160e92fc/index.m3u8
 #EXTINF:-1, Kiruna City HF - Bodens IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696495fc1e7e2c7b160e9a13/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696495fc1e7e2c7b160e9a13/index.m3u8
 #EXTINF:-1, HK Opava - HC Studénka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957d0941e7e2c7b160e6d0d/index.m3u8
 #EXTINF:-1, Prostějov - Valaš. Meziříčí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695e2fd61e7e2c7b160e836b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695e2fd61e7e2c7b160e836b/index.m3u8
 #EXTINF:-1, Benešov - Velké Popovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965e0941e7e2c7b160e9da9/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6965e0941e7e2c7b160e9da9/index.m3u8
 #EXTINF:-1, Slovan Louny - Lev Slaný
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692965c9918e75299fe5b6d8/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/692965c9918e75299fe5b6d8/index.m3u8
 #EXTINF:-1, Benátky n. J. - Česká Lípa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a031585dc8b398009663f/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695a031585dc8b398009663f/index.m3u8
 #EXTINF:-1, Nový Bydžov - HC Trutnov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/692d928816f70321bf923413/index.m3u8
 #EXTINF:-1, Třemošná - Pilsen Wolves
