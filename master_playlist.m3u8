@@ -1,26 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Traktor - Avangard Omsk
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1, Östersunds IK - Bodens HF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964952585dc8b3980098b37/index.m3u8
-#EXTINF:-1, Njurunda SK - Kiruna IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696491b985dc8b3980098afe/index.m3u8
-#EXTINF:-1, IF Sundsvall - Kalix HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964877f1e7e2c7b160e9856/index.m3u8
-#EXTINF:-1, Ånge IK - Brooklyn Tigers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696490031e7e2c7b160e9954/index.m3u8
-#EXTINF:-1, Clemensnäs - Örnsköldsvik
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69648a0b85dc8b39800989b5/index.m3u8
 #EXTINF:-1, IPK - JYP Akatemia
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69632e961e7e2c7b160e92fc/index.m3u8
-#EXTINF:-1, Kiruna City HF - Bodens IK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696495fc1e7e2c7b160e9a13/index.m3u8
-#EXTINF:-1, Brunflo IK - Lögdeå
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964952585dc8b3980098b39/index.m3u8
-#EXTINF:-1, IFK Mariehamn - Värmdö
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69647fd11e7e2c7b160e97e1/index.m3u8
-#EXTINF:-1, HK Opava - HC Studénka
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957d0941e7e2c7b160e6d0d/index.m3u8
 #EXTINF:-1, Prostějov - Valaš. Meziříčí
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695e2fd61e7e2c7b160e836b/index.m3u8
 #EXTINF:-1, Benešov - Velké Popovice
@@ -43,6 +25,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69454d86bbeb6f48c2a912
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Metallurg Zhlobin - Lida
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Njurunda SK - Kiruna IF
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696491b985dc8b3980098afe/index.m3u8
+#EXTINF:-1, IF Sundsvall - Kalix HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964877f1e7e2c7b160e9856/index.m3u8
+#EXTINF:-1, Ånge IK - Brooklyn Tigers
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696490031e7e2c7b160e9954/index.m3u8
+#EXTINF:-1, Clemensnäs - Örnsköldsvik
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69648a0b85dc8b39800989b5/index.m3u8
 #EXTINF:-1, RNK - Seinäjoen-Kiekko
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69632e921e7e2c7b160e91ff/index.m3u8
 #EXTINF:-1, Timrå IK - Kvarnsvedens IK
@@ -84,7 +74,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc885dc8b39800971
 #EXTINF:-1, Dunkerque - Rouen 2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc885dc8b39800971aa/index.m3u8
 #EXTINF:-1, Meudon - Besancon(Dijon)
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc885dc8b39800971a6/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695dddc885dc8b39800971a6/index.m3u8
 #EXTINF:-1, Amiens 2 - Neuilly
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69691288becdc6c9c8b3f147/index.m3u8
 #EXTINF:-1, Angers 2 - Bordeaux
@@ -100,17 +90,19 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc71e7e2c7b160e82
 #EXTINF:-1, New Zealand - Australia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696904a0becdc6c9c8b3f132/index.m3u8
 #EXTINF:-1, Hvězda - Havlíčkův Brod
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6945072ebbeb6f48c2a91176/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6945072ebbeb6f48c2a91176/index.m3u8
 #EXTINF:-1, Tours 2 - Brest 2
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddc985dc8b39800971d6/index.m3u8
-#EXTINF:-1, HC Klaipeda - Sostine LRA
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e16422c62be9451d65ef42/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695dddc985dc8b39800971d6/index.m3u8
 #EXTINF:-1, Brocēni - HK Prizma
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695f990b1e7e2c7b160e8639/index.m3u8
 #EXTINF:-1, Germany - Norway
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696a1616ef0564059e43530b/index.m3u8
 #EXTINF:-1, Herlev Eagles - Odense
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a67d5e1ddd6cdf63086ba.m3u8
+#EXTINF:-1, Brunflo IK - Lögdeå
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964952585dc8b3980098b39/index.m3u8
+#EXTINF:-1, IFK Mariehamn - Värmdö
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69647fd11e7e2c7b160e97e1/index.m3u8
 #EXTINF:-1, Knivsta IK - Sudrets HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964885885dc8b3980098995/index.m3u8
 #EXTINF:-1, Vysočina - Lvi Břeclav
