@@ -19,3 +19,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965e25e85dc8b3980098e
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696480101e7e2c7b160e97ed/index.m3u8
 #EXTINF:-1, Rimbo IF - Östhammars SK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958abb085dc8b3980095fb0/index.m3u8
+#EXTINF:-1, Union - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Providence - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
