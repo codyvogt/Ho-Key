@@ -3,12 +3,14 @@
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, SKA - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Buffalo Sabres - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/de868e50-ecb9-4518-87eb-32abbdb7ef16/master.m3u8
 #EXTINF:-1, Netherlands - Australia
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69690530ef0564059e434fe0/index.m3u8
 #EXTINF:-1, Irsrael - Serbia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69690584becdc6c9c8b3f136/index.m3u8
 #EXTINF:-1, Hronov - Stadion Vrchlabí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78ffd/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f78ffd/index.m3u8
 #EXTINF:-1, Rungsted - Frederikshavn
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/code.m3u8
 #EXTINF:-1, Ektjärns IF - StiL
