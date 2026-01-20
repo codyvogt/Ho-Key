@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Bosnia - Thailand
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6968e864ef0564059e434f66/index.m3u8
+#EXTINF:-1, Salavat Yulaev - Avangard
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Avtomobilist - Sibir
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
