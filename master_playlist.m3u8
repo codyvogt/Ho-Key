@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Herning - Herlev Eagles
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695d43151e7e2c7b160e81ce.m3u8
-#EXTINF:-1, IFK Hallsberg - Avesta BK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967322985dc8b3980099260/index.m3u8
-#EXTINF:-1, KB65 HK - Vännäs HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6967248785dc8b398009923d/index.m3u8
-#EXTINF:-1, Ludvika HF - Björbo IF
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/692a83cc918e75299fe5bb62/index.m3u8
-#EXTINF:-1, IFK Österåker - Kallhäll
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967307685dc8b3980099245/index.m3u8
-#EXTINF:-1, LN 70 HC - Ulricehamns IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696f740fbecdc6c9c8b40947/index.m3u8
-#EXTINF:-1, Boo HC - Kista HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69672ec01e7e2c7b160ea11a/index.m3u8
-#EXTINF:-1, Dunkerque - Chambéry
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c785dc8b39800976ab/index.m3u8
+#EXTINF:-1, Rouen - Chamonix
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28516b4c8ed39e3473f78/index.m3u8
+#EXTINF:-1, Grenoble - Amiens
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f70/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Gap
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e606/index.m3u8
+#EXTINF:-1, Nice - Bordeaux
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e604/index.m3u8
 #EXTINF:-1, Meudon - Nantes
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696080c885dc8b39800976b3/index.m3u8
 #EXTINF:-1, Strasbourg - Épinal
@@ -25,26 +17,10 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696080c785dc8b39800976
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c885dc8b39800976af/index.m3u8
 #EXTINF:-1, HCMP - Remparts de Tours
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696080c885dc8b39800976b1/index.m3u8
-#EXTINF:-1, SHK HC - Gimo IF HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/690595853829c1557f6071c8/index.m3u8
-#EXTINF:-1, FOC Farsta IF - Hovet HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696729a785dc8b398009923f/index.m3u8
-#EXTINF:-1, Mjölby HC - Mighty Ravens
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967320e85dc8b3980099252/index.m3u8
-#EXTINF:-1, Nässjö HC - Kalmar HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696733de1e7e2c7b160ea13e/index.m3u8
-#EXTINF:-1, Kungälvs IK - Olofström
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69688d08becdc6c9c8b3eff0/index.m3u8
-#EXTINF:-1, Rouen - Chamonix
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c28516b4c8ed39e3473f78/index.m3u8
-#EXTINF:-1, Grenoble - Amiens
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f70/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Gap
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e606/index.m3u8
-#EXTINF:-1, Nice - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e604/index.m3u8
 #EXTINF:-1, PUS - Hernesaaren Näädät
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6965d1901e7e2c7b160e9d85/index.m3u8
+#EXTINF:-1, Boo HC - Kista HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69672ec01e7e2c7b160ea11a/index.m3u8
 #EXTINF:-1, Boston C - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, Clarkson - St. Lawrence
