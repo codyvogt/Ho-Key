@@ -1,20 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Meudon - Nantes
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696080c885dc8b39800976b3/index.m3u8
-#EXTINF:-1, Villard - Mont-Blanc
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696080c785dc8b39800976a9/index.m3u8
-#EXTINF:-1, Drakkars de Caen - Lyon
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c885dc8b39800976af/index.m3u8
-#EXTINF:-1, HCMP - Remparts de Tours
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696080c885dc8b39800976b1/index.m3u8
-#EXTINF:-1, Grenoble - Amiens
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c28516b4c8ed39e3473f70/index.m3u8
-#EXTINF:-1, Cergy-Pontoise - Gap
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e606/index.m3u8
 #EXTINF:-1, Nice - Bordeaux
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e604/index.m3u8
-#EXTINF:-1, Boo HC - Kista HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69672ec01e7e2c7b160ea11a/index.m3u8
 #EXTINF:-1, Boston C - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
 #EXTINF:-1, Clarkson - St. Lawrence
