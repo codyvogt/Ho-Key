@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Lada Togliatti - Barys
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:-1, Shanghai - Spartak
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Škoda Plzeň - HC Třinec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6967a36fbecdc6c9c8b3ed83.m3u8
 #EXTINF:-1, Sparta - Mountfield HK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967a385becdc6c9c8b3ed85.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6967a385becdc6c9c8b3ed85.m3u8
 #EXTINF:-1, HAKI - Sibbo Wolfpack
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965d1901e7e2c7b160e9d65/index.m3u8
 #EXTINF:-1, Padova - Valpellice D1
@@ -45,7 +43,31 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967382285dc8b39800992
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967320e85dc8b3980099252/index.m3u8
 #EXTINF:-1, Nässjö HC - Kalmar HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696733de1e7e2c7b160ea13e/index.m3u8
+#EXTINF:-1, Dunkerque - Chambéry
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c785dc8b39800976ab/index.m3u8
+#EXTINF:-1, Meudon - Nantes
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c885dc8b39800976b3/index.m3u8
+#EXTINF:-1, Strasbourg - Épinal
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c785dc8b39800976ad/index.m3u8
+#EXTINF:-1, Villard - Mont-Blanc
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c785dc8b39800976a9/index.m3u8
+#EXTINF:-1, Drakkars de Caen - Lyon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c885dc8b39800976af/index.m3u8
+#EXTINF:-1, HCMP - Remparts de Tours
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696080c885dc8b39800976b1/index.m3u8
 #EXTINF:-1, SHK HC - Gimo IF HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690595853829c1557f6071c8/index.m3u8
 #EXTINF:-1, FOC Farsta IF - Hovet HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696729a785dc8b398009923f/index.m3u8
+#EXTINF:-1, Rouen - Chamonix
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f78/index.m3u8
+#EXTINF:-1, Grenoble - Amiens
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c28516b4c8ed39e3473f70/index.m3u8
+#EXTINF:-1, Cergy-Pontoise - Gap
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e606/index.m3u8
+#EXTINF:-1, Nice - Bordeaux
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e604/index.m3u8
+#EXTINF:-1, Liège - Eaters Limburg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695e2ea91e7e2c7b160e8337/index.m3u8
+#EXTINF:-1, PUS - Hernesaaren Näädät
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965d1901e7e2c7b160e9d85/index.m3u8
