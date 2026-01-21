@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Minnesota - Montréal
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/613851ab-63a7-4cf7-a049-588a5aa2129c/master.m3u8
-#EXTINF:-1, San Jose - Tampa Bay
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/06496ae8-e6ae-4414-a3c1-4ff01a613b75/master.m3u8
-#EXTINF:-1, Ottawa - Columbus
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f86dd129-9dd9-45dc-9c44-805b4e489a14/master.m3u8
 #EXTINF:-1, Boston - Dallas Stars
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a09e003e-5988-44d1-85cc-e0bfb5d77dae/master.m3u8
 #EXTINF:-1, St. Louis - Winnipeg Jets
@@ -15,3 +9,7 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d8a847
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9b22f40c-d67a-4bab-8ce7-83aea88984b4/master.m3u8
 #EXTINF:-1, Harvard - Boston U
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/hockeyeast/playlist.m3u8
+#EXTINF:-1, Admiral - Ak Bars Kazan
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Netherlands - Iceland
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e829ef0564059e434ef8/index.m3u8
