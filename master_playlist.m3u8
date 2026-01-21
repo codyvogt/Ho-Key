@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Lokomotiv - Dinamo Mn
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, HC Sochi - Severstal
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Israel - New Zealand
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696905abef0564059e434fe7/index.m3u8
 #EXTINF:-1, Serbia - Australia
@@ -11,10 +15,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957984e1e7e2c7b160e6c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ff27b83829c1557f60622b/index.m3u8
 #EXTINF:-1, SK Prostějov - Studénka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953bff51e7e2c7b160e6826/index.m3u8
-#EXTINF:-1, Lokomotiv - Dinamo Mn
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, HC Sochi - Severstal
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Frýdek-Místek - HC Poruba
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f2101e7e2c7b160e9bd3.m3u8
 #EXTINF:-1, VHK Vsetín - ZUBR Přerov
