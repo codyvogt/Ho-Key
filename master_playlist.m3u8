@@ -1,30 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Kralupy - Havlíčkův Brod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bac3e25addedaac41c322b/index.m3u8
-#EXTINF:-1, Technika Brno - Šumperk
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a3d40899867ab485008/index.m3u8
-#EXTINF:-1, HC Klatovy - HC Domažlice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff27b83829c1557f60622b/index.m3u8
-#EXTINF:-1, SK Prostějov - Studénka
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6953bff51e7e2c7b160e6826/index.m3u8
-#EXTINF:-1, Šumperk - ZUBR Přerov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942c69d148907a0dbe333ec/index.m3u8
 #EXTINF:-1, Česká Třebová - Chrudim
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece46/index.m3u8
 #EXTINF:-1, Polička - Morav. Třebová
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f79229/index.m3u8
-#EXTINF:-1, Nový Bydžov - Králové n. L.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece21/index.m3u8
 #EXTINF:-1, Spartak Choceň - Litomyšl
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdd7/index.m3u8
 #EXTINF:-1, HC Náchod - HC Jaroměř
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecdf0/index.m3u8
 #EXTINF:-1, Třebechovice - Trutnov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f1dc8f50c8e37c3b1dcd4f/index.m3u8
-#EXTINF:-1, EVU - TuusKiekko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696723111e7e2c7b160ea0da/index.m3u8
-#EXTINF:-1, Grankulla IFK - Kurra HT
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696723111e7e2c7b160ea0de/index.m3u8
 #EXTINF:-1, Frederikshavn - Rødovre
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e949585dc8b39800973e3.m3u8
 #EXTINF:-1, Marseille - Ducs d'Angers
@@ -49,6 +33,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69688119becdc6c9c8b3ef
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696877b9ef0564059e434daf/index.m3u8
 #EXTINF:-1, Rönnängs IK - Hisingen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e496e9f97f2f2ddbda3aa/index.m3u8
+#EXTINF:-1, Grankulla IFK - Kurra HT
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696723111e7e2c7b160ea0de/index.m3u8
 #EXTINF:-1, Serbia - Australia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696905e5becdc6c9c8b3f138/index.m3u8
 #EXTINF:-1, MAC Budapest - FTC
