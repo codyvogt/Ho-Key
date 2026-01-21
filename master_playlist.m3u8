@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lokomotiv - Dinamo Mn
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Sochi - Severstal
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Pardubice - Kometa Brno
@@ -19,18 +17,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6964f27285dc8b3980098d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f2451e7e2c7b160e9bd9.m3u8
 #EXTINF:-1, Slavia Praha - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f28985dc8b3980098d9b.m3u8
-#EXTINF:-1, Zlín B - Warriors Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694248180d73d3ccbfec2fea/index.m3u8
-#EXTINF:-1, Kladno - Havlíčkův Brod
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6928144768db0e69ca280f13/index.m3u8
-#EXTINF:-1, Šumperk - ZUBR Přerov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942c69d148907a0dbe333ec/index.m3u8
-#EXTINF:-1, Znojmo - Mor. Budějovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957984e1e7e2c7b160e6c58/index.m3u8
-#EXTINF:-1, HC Klatovy - HC Domažlice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff27b83829c1557f60622b/index.m3u8
-#EXTINF:-1, SK Prostějov - Studénka
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6953bff51e7e2c7b160e6826/index.m3u8
 #EXTINF:-1, Havířov - Žďár n. Sázavou
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f7900f/index.m3u8
 #EXTINF:-1, Nový Jičín - Baník Hodonín
@@ -53,8 +39,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6944eb15bbeb6f48c2a910
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78f3f/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - HC Milevsko
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f79072/index.m3u8
-#EXTINF:-1, Kadaň - Benátky n. Jizerou
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f55/index.m3u8
 #EXTINF:-1, Kralupy - Havlíčkův Brod
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bac3e25addedaac41c322b/index.m3u8
 #EXTINF:-1, Technika Brno - Šumperk
@@ -65,6 +49,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aaef0564059e434d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aabecdc6c9c8b3ef44/index.m3u8
 #EXTINF:-1, Kvarnsvedens IK - Leksand
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696876aabecdc6c9c8b3ef1b/index.m3u8
+#EXTINF:-1, Kladno - Havlíčkův Brod
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6928144768db0e69ca280f13/index.m3u8
+#EXTINF:-1, Šumperk - ZUBR Přerov
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942c69d148907a0dbe333ec/index.m3u8
+#EXTINF:-1, HC Klatovy - HC Domažlice
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff27b83829c1557f60622b/index.m3u8
+#EXTINF:-1, SK Prostějov - Studénka
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6953bff51e7e2c7b160e6826/index.m3u8
 #EXTINF:-1, Česká Třebová - Chrudim
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece46/index.m3u8
 #EXTINF:-1, Polička - Morav. Třebová
@@ -92,7 +84,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6968855cbecdc6c9c8b3ef
 #EXTINF:-1, IFK Munkfors - Hammarö
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69688a7abecdc6c9c8b3efe1/index.m3u8
 #EXTINF:-1, Clemensnäs HC - Sunderby
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69687e8abecdc6c9c8b3ef5c/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69687e8abecdc6c9c8b3ef5c/index.m3u8
 #EXTINF:-1, Ånge IK - Kovlands IshF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69688482ef0564059e434e16/index.m3u8
 #EXTINF:-1, IF Sundsvall - Östersund
@@ -100,7 +92,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696889a0becdc6c9c8b3ef
 #EXTINF:-1, Bodens HF - Kalix HC
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69688119becdc6c9c8b3ef65/index.m3u8
 #EXTINF:-1, Häradsbygden - Avesta BK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696877b9ef0564059e434daf/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696877b9ef0564059e434daf/index.m3u8
 #EXTINF:-1, Rönnängs IK - Hisingen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693e496e9f97f2f2ddbda3aa/index.m3u8
 #EXTINF:-1, Serbia - Australia
