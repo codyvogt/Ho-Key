@@ -3,12 +3,14 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, HC Sochi - Severstal
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Pardubice - Kometa Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967a4faef0564059e434c84.m3u8
 #EXTINF:-1, Israel - New Zealand
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696905abef0564059e434fe7/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696905abef0564059e434fe7/index.m3u8
 #EXTINF:-1, Serbia - Australia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696905e5becdc6c9c8b3f138/index.m3u8
 #EXTINF:-1, Letňany - Velké Popovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68f222e650c8e37c3b1dcf38/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f222e650c8e37c3b1dcf38/index.m3u8
 #EXTINF:-1, Znojmo - Mor. Budějovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6957984e1e7e2c7b160e6c58/index.m3u8
 #EXTINF:-1, HC Klatovy - HC Domažlice
@@ -29,6 +31,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f27285dc8b3980098d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f2451e7e2c7b160e9bd9.m3u8
 #EXTINF:-1, Slavia Praha - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f28985dc8b3980098d9b.m3u8
+#EXTINF:-1, Zlín B - Warriors Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694248180d73d3ccbfec2fea/index.m3u8
+#EXTINF:-1, Kladno - Havlíčkův Brod
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6928144768db0e69ca280f13/index.m3u8
+#EXTINF:-1, Šumperk - ZUBR Přerov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942c69d148907a0dbe333ec/index.m3u8
 #EXTINF:-1, Havířov - Žďár n. Sázavou
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f7900f/index.m3u8
 #EXTINF:-1, Nový Jičín - Baník Hodonín
