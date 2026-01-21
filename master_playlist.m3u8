@@ -24,11 +24,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694248180d73d3ccbfec2f
 #EXTINF:-1, Kladno - Havlíčkův Brod
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6928144768db0e69ca280f13/index.m3u8
 #EXTINF:-1, Šumperk - ZUBR Přerov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6942c69d148907a0dbe333ec/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942c69d148907a0dbe333ec/index.m3u8
 #EXTINF:-1, Znojmo - Mor. Budějovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957984e1e7e2c7b160e6c58/index.m3u8
 #EXTINF:-1, HC Klatovy - HC Domažlice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68ff27b83829c1557f60622b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff27b83829c1557f60622b/index.m3u8
 #EXTINF:-1, SK Prostějov - Studénka
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953bff51e7e2c7b160e6826/index.m3u8
 #EXTINF:-1, Havířov - Žďár n. Sázavou
@@ -56,7 +56,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f790
 #EXTINF:-1, Kadaň - Benátky n. Jizerou
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df0c0aa0cd927f78f55/index.m3u8
 #EXTINF:-1, Kralupy - Havlíčkův Brod
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68bac3e25addedaac41c322b/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bac3e25addedaac41c322b/index.m3u8
 #EXTINF:-1, Technika Brno - Šumperk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a3d40899867ab485008/index.m3u8
 #EXTINF:-1, AIK - IF Sundsvall
@@ -66,9 +66,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aabecdc6c9c8b3ef
 #EXTINF:-1, Kvarnsvedens IK - Leksand
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aabecdc6c9c8b3ef1b/index.m3u8
 #EXTINF:-1, Česká Třebová - Chrudim
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece46/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece46/index.m3u8
 #EXTINF:-1, Polička - Morav. Třebová
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f79229/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f79229/index.m3u8
 #EXTINF:-1, Nový Bydžov - Králové n. L.
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece21/index.m3u8
 #EXTINF:-1, Spartak Choceň - Litomyšl
@@ -109,5 +109,11 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696905e5becdc6c9c8b3f1
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6956173085dc8b3980095938/index.m3u8
 #EXTINF:-1, Skärgårdens SK - Partille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69688d08becdc6c9c8b3eff3/index.m3u8
+#EXTINF:-1, MAC Budapest - FTC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695dddde85dc8b39800971f2/index.m3u8
+#EXTINF:-1, Cholet - Morzine-Avoriaz
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961d2471e7e2c7b160e8b2c/index.m3u8
+#EXTINF:-1, Neuilly - Valenciennes
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6961d24785dc8b3980097a68/index.m3u8
 #EXTINF:-1, Hammarby IF 2 - KTH
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968796def0564059e434db3/index.m3u8
