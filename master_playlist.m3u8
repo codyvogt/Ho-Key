@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Pardubice - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967a4faef0564059e434c84.m3u8
-#EXTINF:-1, VHK Vsetín - ZUBR Přerov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6964f2301e7e2c7b160e9bd7.m3u8
 #EXTINF:-1, SC Kolín - Piráti Chomutov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6964f25d1e7e2c7b160e9bdb.m3u8
 #EXTINF:-1, Pardubice B - HC Tábor
@@ -11,36 +9,22 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6964f27285dc8b3980098d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f2451e7e2c7b160e9bd9.m3u8
 #EXTINF:-1, Slavia Praha - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f28985dc8b3980098d9b.m3u8
-#EXTINF:-1, Nový Jičín - Baník Hodonín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694d1a6585dc8b39800947be/index.m3u8
-#EXTINF:-1, HK Kroměříž - HK Opava
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6922a414109a6801f3cf86f6/index.m3u8
 #EXTINF:-1, Kopřivnice - Valaš. Meziříčí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb3c/index.m3u8
 #EXTINF:-1, Velké Meziříčí - Prostějov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68aad5c5ed3d1a24f79bd913/index.m3u8
-#EXTINF:-1, Ústí nad Labem - Kobra
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69450735bbeb6f48c2a9117e/index.m3u8
-#EXTINF:-1, Vrchlabí - Baník Příbram
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f78fb7/index.m3u8
-#EXTINF:-1, Králové Písek - HC Hronov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6944eb15bbeb6f48c2a910ba/index.m3u8
-#EXTINF:-1, Stadion Cheb - HC Děčín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f78f3f/index.m3u8
 #EXTINF:-1, Mostečtí Lvi - HC Milevsko
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f79072/index.m3u8
 #EXTINF:-1, Kralupy - Havlíčkův Brod
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bac3e25addedaac41c322b/index.m3u8
 #EXTINF:-1, Technika Brno - Šumperk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a3d40899867ab485008/index.m3u8
-#EXTINF:-1, Kladno - Havlíčkův Brod
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6928144768db0e69ca280f13/index.m3u8
-#EXTINF:-1, Šumperk - ZUBR Přerov
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942c69d148907a0dbe333ec/index.m3u8
 #EXTINF:-1, HC Klatovy - HC Domažlice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68ff27b83829c1557f60622b/index.m3u8
 #EXTINF:-1, SK Prostějov - Studénka
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6953bff51e7e2c7b160e6826/index.m3u8
+#EXTINF:-1, Šumperk - ZUBR Přerov
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6942c69d148907a0dbe333ec/index.m3u8
 #EXTINF:-1, Česká Třebová - Chrudim
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ece46/index.m3u8
 #EXTINF:-1, Polička - Morav. Třebová
