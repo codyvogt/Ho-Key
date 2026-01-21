@@ -3,8 +3,6 @@
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Pardubice - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967a4faef0564059e434c84.m3u8
-#EXTINF:-1, Frýdek-Místek - HC Poruba
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f2101e7e2c7b160e9bd3.m3u8
 #EXTINF:-1, VHK Vsetín - ZUBR Přerov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6964f2301e7e2c7b160e9bd7.m3u8
 #EXTINF:-1, Dukla Jihlava - SK Třebíč
@@ -17,8 +15,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6964f27285dc8b3980098d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f2451e7e2c7b160e9bd9.m3u8
 #EXTINF:-1, Slavia Praha - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f28985dc8b3980098d9b.m3u8
-#EXTINF:-1, Havířov - Žďár n. Sázavou
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df0c0aa0cd927f7900f/index.m3u8
 #EXTINF:-1, Nový Jičín - Baník Hodonín
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694d1a6585dc8b39800947be/index.m3u8
 #EXTINF:-1, HK Kroměříž - HK Opava
@@ -43,12 +39,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f790
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bac3e25addedaac41c322b/index.m3u8
 #EXTINF:-1, Technika Brno - Šumperk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a3d40899867ab485008/index.m3u8
-#EXTINF:-1, AIK - IF Sundsvall
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aaef0564059e434d83/index.m3u8
-#EXTINF:-1, Rögle - Malmö Redhawks
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aabecdc6c9c8b3ef44/index.m3u8
-#EXTINF:-1, Kvarnsvedens IK - Leksand
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696876aabecdc6c9c8b3ef1b/index.m3u8
 #EXTINF:-1, Kladno - Havlíčkův Brod
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6928144768db0e69ca280f13/index.m3u8
 #EXTINF:-1, Šumperk - ZUBR Přerov
@@ -69,6 +59,10 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecd
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecdf0/index.m3u8
 #EXTINF:-1, Třebechovice - Trutnov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f1dc8f50c8e37c3b1dcd4f/index.m3u8
+#EXTINF:-1, Rögle - Malmö Redhawks
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aabecdc6c9c8b3ef44/index.m3u8
+#EXTINF:-1, Kvarnsvedens IK - Leksand
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696876aabecdc6c9c8b3ef1b/index.m3u8
 #EXTINF:-1, EVU - TuusKiekko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696723111e7e2c7b160ea0da/index.m3u8
 #EXTINF:-1, Grankulla IFK - Kurra HT
