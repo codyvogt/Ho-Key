@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Pardubice - Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967a4faef0564059e434c84.m3u8
-#EXTINF:-1, SC Kolín - Piráti Chomutov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6964f25d1e7e2c7b160e9bdb.m3u8
-#EXTINF:-1, Pardubice B - HC Tábor
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6964f27285dc8b3980098d98.m3u8
-#EXTINF:-1, Baník Sokolov - Berani Zlín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f2451e7e2c7b160e9bd9.m3u8
-#EXTINF:-1, Slavia Praha - Litoměřice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964f28985dc8b3980098d9b.m3u8
-#EXTINF:-1, Kopřivnice - Valaš. Meziříčí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb3c/index.m3u8
-#EXTINF:-1, Velké Meziříčí - Prostějov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68aad5c5ed3d1a24f79bd913/index.m3u8
-#EXTINF:-1, Mostečtí Lvi - HC Milevsko
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df0c0aa0cd927f79072/index.m3u8
 #EXTINF:-1, Kralupy - Havlíčkův Brod
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68bac3e25addedaac41c322b/index.m3u8
 #EXTINF:-1, Technika Brno - Šumperk
@@ -37,10 +21,6 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecd
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ecdf0/index.m3u8
 #EXTINF:-1, Třebechovice - Trutnov
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68f1dc8f50c8e37c3b1dcd4f/index.m3u8
-#EXTINF:-1, Rögle - Malmö Redhawks
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aabecdc6c9c8b3ef44/index.m3u8
-#EXTINF:-1, Kvarnsvedens IK - Leksand
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696876aabecdc6c9c8b3ef1b/index.m3u8
 #EXTINF:-1, EVU - TuusKiekko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696723111e7e2c7b160ea0da/index.m3u8
 #EXTINF:-1, Grankulla IFK - Kurra HT
@@ -55,6 +35,8 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696889a0becdc6c9c8b3ef
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6968855cbecdc6c9c8b3efd1/index.m3u8
 #EXTINF:-1, IFK Munkfors - Hammarö
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69688a7abecdc6c9c8b3efe1/index.m3u8
+#EXTINF:-1, Kvarnsvedens IK - Leksand
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696876aabecdc6c9c8b3ef1b/index.m3u8
 #EXTINF:-1, Clemensnäs HC - Sunderby
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69687e8abecdc6c9c8b3ef5c/index.m3u8
 #EXTINF:-1, Ånge IK - Kovlands IshF
