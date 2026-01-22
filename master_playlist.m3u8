@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Torpedo - Shanghai
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1, Australia - Israel
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969063def0564059e434fed/index.m3u8
-#EXTINF:-1, Iceland - Serbia
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e8d6ef0564059e434fa2/index.m3u8
 #EXTINF:-1, Viikingit Helsinki - KelA
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6968748fbecdc6c9c8b3eeed/index.m3u8
 #EXTINF:-1, Jää-Ahmat - Shakers
@@ -27,6 +23,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968748fef0564059e434d
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b349fbecdc6c9c8b3f96a/index.m3u8
 #EXTINF:-1, Nové Město n. M. - Náchod
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695e3de01e7e2c7b160e8396/index.m3u8
+#EXTINF:-1, Bulgaria - Türkiye
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e865ef0564059e434f70/index.m3u8
 #EXTINF:-1, Tibro IK - IFK Falköping
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c785becdc6c9c8b3f1ed/index.m3u8
 #EXTINF:-1, Lenhovda IF - Rydaholm
@@ -41,6 +39,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969e03cbecdc6c9c8b3f2
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aaef0564059e434d7e/index.m3u8
 #EXTINF:-1, Hammarby IF - Södertälje
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aaef0564059e434d9f/index.m3u8
+#EXTINF:-1, Iceland - Serbia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e8d6ef0564059e434fa2/index.m3u8
 #EXTINF:-1, Tierps HK - Spånga IS IK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969d6dcef0564059e43515b/index.m3u8
 #EXTINF:-1, Järna SK - MB Hockey
