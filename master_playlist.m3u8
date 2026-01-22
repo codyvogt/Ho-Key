@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Lund Giants HC - Åstorp
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969db1fef0564059e435181/index.m3u8
-#EXTINF:-1, Burträsk HC - Kågedalen
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c785becdc6c9c8b3f1ef/index.m3u8
-#EXTINF:-1, Mighty Ravens - Wettern
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969e03cbecdc6c9c8b3f285/index.m3u8
 #EXTINF:-1, Iceland - Serbia
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6968e8d6ef0564059e434fa2/index.m3u8
-#EXTINF:-1, Tierps HK - Spånga IS IK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969d6dcef0564059e43515b/index.m3u8
-#EXTINF:-1, Järna SK - MB Hockey
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969d96bef0564059e435179/index.m3u8
-#EXTINF:-1, Hässelby Kälvesta - Salem
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969d00aef0564059e435135/index.m3u8
-#EXTINF:-1, Duells PHK - Ramberget
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969de88becdc6c9c8b3f275/index.m3u8
-#EXTINF:-1, Spånga IS IK - Järfälla HC
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969d891ef0564059e435176/index.m3u8
 #EXTINF:-1, Nové Město n. M. - Náchod
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e3de01e7e2c7b160e8396/index.m3u8
 #EXTINF:-1, Eppan Pirates - Kaltern
@@ -31,3 +15,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602611e7e2c7b160e9e
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966026185dc8b3980098f2e/index.m3u8
 #EXTINF:-1, HCMV Varese - HC Aosta
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602621e7e2c7b160e9e33/index.m3u8
+#EXTINF:-1, Hässelby Kälvesta - Salem
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969d00aef0564059e435135/index.m3u8
+#EXTINF:-1, Duells PHK - Ramberget
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969de88becdc6c9c8b3f275/index.m3u8
