@@ -1,26 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Uherské Hradiště - Orlová
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696b349fbecdc6c9c8b3f96a/index.m3u8
-#EXTINF:-1, Nové Město n. M. - Náchod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e3de01e7e2c7b160e8396/index.m3u8
-#EXTINF:-1, Bulgaria - Türkiye
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e865ef0564059e434f70/index.m3u8
-#EXTINF:-1, Boskovice - SK Prostějov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69149416109a6801f3cf60f9/index.m3u8
-#EXTINF:-1, Tibro IK - IFK Falköping
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c785becdc6c9c8b3f1ed/index.m3u8
-#EXTINF:-1, Lenhovda IF - Rydaholm
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969ca14becdc6c9c8b3f1f5/index.m3u8
 #EXTINF:-1, Lund Giants HC - Åstorp
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969db1fef0564059e435181/index.m3u8
 #EXTINF:-1, Burträsk HC - Kågedalen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c785becdc6c9c8b3f1ef/index.m3u8
 #EXTINF:-1, Mighty Ravens - Wettern
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969e03cbecdc6c9c8b3f285/index.m3u8
-#EXTINF:-1, Timrå IK - IF Björklöven
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aaef0564059e434d7e/index.m3u8
-#EXTINF:-1, Hammarby IF - Södertälje
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696876aaef0564059e434d9f/index.m3u8
 #EXTINF:-1, Iceland - Serbia
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6968e8d6ef0564059e434fa2/index.m3u8
 #EXTINF:-1, Tierps HK - Spånga IS IK
@@ -33,6 +17,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969d00aef0564059e4351
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969de88becdc6c9c8b3f275/index.m3u8
 #EXTINF:-1, Spånga IS IK - Järfälla HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969d891ef0564059e435176/index.m3u8
+#EXTINF:-1, Nové Město n. M. - Náchod
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e3de01e7e2c7b160e8396/index.m3u8
 #EXTINF:-1, Eppan Pirates - Kaltern
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966025e1e7e2c7b160e9e2b/index.m3u8
 #EXTINF:-1, Zinnen Dolomites - Falcons
