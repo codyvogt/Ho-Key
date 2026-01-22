@@ -3,5 +3,11 @@
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Metallurg Mg - Sibir
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, Torpedo - Shanghai
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Belgium - Bosnia
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e865ef0564059e434f6e/index.m3u8
+#EXTINF:-1, Australia - Israel
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969063def0564059e434fed/index.m3u8
+#EXTINF:-1, Iceland - Serbia
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e8d6ef0564059e434fa2/index.m3u8
