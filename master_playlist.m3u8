@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, HC Feltre - Fassa Falcons
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6971eaeeef0564059e436f21/index.m3u8
-#EXTINF:-1, Valdifiemme - Valpellice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602611e7e2c7b160e9e31/index.m3u8
-#EXTINF:-1, Hockey Pergine - Alleghe
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966026185dc8b3980098f2e/index.m3u8
-#EXTINF:-1, HCMV Varese - HC Aosta
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602621e7e2c7b160e9e33/index.m3u8
+#EXTINF:-1, Northeastern - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
