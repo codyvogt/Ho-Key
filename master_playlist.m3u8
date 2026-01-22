@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Brumov - SKMB Boskovice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69688398becdc6c9c8b3efb8/index.m3u8
-#EXTINF:-1, Boskovice - SK Prostějov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69149416109a6801f3cf60f9/index.m3u8
-#EXTINF:-1, KuKi - Rauma Tigers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968748fbecdc6c9c8b3eee8/index.m3u8
 #EXTINF:-1, Uherské Hradiště - Orlová
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696b349fbecdc6c9c8b3f96a/index.m3u8
 #EXTINF:-1, Nové Město n. M. - Náchod
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e3de01e7e2c7b160e8396/index.m3u8
 #EXTINF:-1, Bulgaria - Türkiye
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6968e865ef0564059e434f70/index.m3u8
+#EXTINF:-1, Boskovice - SK Prostějov
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69149416109a6801f3cf60f9/index.m3u8
 #EXTINF:-1, Tibro IK - IFK Falköping
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c785becdc6c9c8b3f1ed/index.m3u8
 #EXTINF:-1, Lenhovda IF - Rydaholm
