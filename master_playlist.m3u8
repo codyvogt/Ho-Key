@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Nové Město n. M. - Náchod
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e3de01e7e2c7b160e8396/index.m3u8
-#EXTINF:-1, Eppan Pirates - Kaltern
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966025e1e7e2c7b160e9e2b/index.m3u8
-#EXTINF:-1, Zinnen Dolomites - Falcons
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6966025f1e7e2c7b160e9e2d/index.m3u8
 #EXTINF:-1, HC Feltre - Fassa Falcons
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6971eaeeef0564059e436f21/index.m3u8
 #EXTINF:-1, Valdifiemme - Valpellice
@@ -13,7 +7,3 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602611e7e2c7b160e9e
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966026185dc8b3980098f2e/index.m3u8
 #EXTINF:-1, HCMV Varese - HC Aosta
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602621e7e2c7b160e9e33/index.m3u8
-#EXTINF:-1, Hässelby Kälvesta - Salem
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969d00aef0564059e435135/index.m3u8
-#EXTINF:-1, Duells PHK - Ramberget
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969de88becdc6c9c8b3f275/index.m3u8
