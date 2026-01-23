@@ -1,28 +1,10 @@
 #EXTM3U
-#EXTINF:-1, HC Olomouc - Pardubice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970cd24becdc6c9c8b40b64.m3u8
-#EXTINF:-1, Mountfield - Karlovy Vary
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970cd44ef0564059e436d12.m3u8
-#EXTINF:-1, HC Tábor - Technika Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958b19785dc8b3980095fe6/index.m3u8
-#EXTINF:-1, AZ Havířov - Hvězda Praha
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6903001440899867ab484f63/index.m3u8
-#EXTINF:-1, HC Chrudim - Berani Zlín B
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960eeec1e7e2c7b160e8958/index.m3u8
-#EXTINF:-1, Havlíčkův Brod - Vsetín
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69676a4d1e7e2c7b160ea1de/index.m3u8
-#EXTINF:-1, IHC Písek - Warriors Brno
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6948df9440f960cadd2dc426/index.m3u8
-#EXTINF:-1, Malax IF Team - KuRy II
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969c610ef0564059e4350e5/index.m3u8
 #EXTINF:-1, Lidingö HC - Östhammar
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696b2783becdc6c9c8b3f934/index.m3u8
-#EXTINF:-1, Rockets Loimaa - VG-62 II
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969c610ef0564059e4350f4/index.m3u8
-#EXTINF:-1, HIFK - Tampereen Ilves
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610becdc6c9c8b3f1d1/index.m3u8
-#EXTINF:-1, Kralupy n. V. - Ústí n. L.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695a2d3ee1ddd6cdf6308624/index.m3u8
+#EXTINF:-1, LJK - GrIFK Joukkue
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610becdc6c9c8b3f1e7/index.m3u8
+#EXTINF:-1, Hunters Team - A-Rangers
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610becdc6c9c8b3f1d6/index.m3u8
 #EXTINF:-1, HC Poděbrady - Černošice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694e258e85dc8b3980094816/index.m3u8
 #EXTINF:-1, Chomutov B - Klášterec
@@ -51,10 +33,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f791
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953b1dd1e7e2c7b160e67fc/index.m3u8
 #EXTINF:-1, Mor. Třebová - Vel. Meziříčí
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69455b9060b7de4a81fe801b/index.m3u8
-#EXTINF:-1, LJK - GrIFK Joukkue
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610becdc6c9c8b3f1e7/index.m3u8
-#EXTINF:-1, Hunters Team - A-Rangers
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610becdc6c9c8b3f1d6/index.m3u8
+#EXTINF:-1, AZ Havířov - Hvězda Praha
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6903001440899867ab484f63/index.m3u8
+#EXTINF:-1, HC Chrudim - Berani Zlín B
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6960eeec1e7e2c7b160e8958/index.m3u8
+#EXTINF:-1, Havlíčkův Brod - Vsetín
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69676a4d1e7e2c7b160ea1de/index.m3u8
+#EXTINF:-1, IHC Písek - Warriors Brno
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6948df9440f960cadd2dc426/index.m3u8
 #EXTINF:-1, Esbjerg - Sønderjyske
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696145a51e7e2c7b160e8a77.m3u8
 #EXTINF:-1, Odense Bulldogs - Herning
