@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Lada - Dynamo Moscow
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Kometa - České Budějovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695bd3241e7e2c7b160e7f99/index.m3u8
 #EXTINF:-1, Mountfield HK - Vítkovice
