@@ -3,8 +3,6 @@
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970cd24becdc6c9c8b40b64.m3u8
 #EXTINF:-1, Mountfield - Karlovy Vary
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970cd44ef0564059e436d12.m3u8
-#EXTINF:-1, Viikingit Helsinki - KOOVEE
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610becdc6c9c8b3f1ca/index.m3u8
 #EXTINF:-1, HC Tábor - Technika Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6958b19785dc8b3980095fe6/index.m3u8
 #EXTINF:-1, AZ Havířov - Hvězda Praha
@@ -52,7 +50,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f791
 #EXTINF:-1, HCM Jaroměř - HC Trutnov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953b1dd1e7e2c7b160e67fc/index.m3u8
 #EXTINF:-1, Mor. Třebová - Vel. Meziříčí
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69455b9060b7de4a81fe801b/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69455b9060b7de4a81fe801b/index.m3u8
 #EXTINF:-1, LJK - GrIFK Joukkue
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610becdc6c9c8b3f1e7/index.m3u8
 #EXTINF:-1, Hunters Team - A-Rangers
@@ -181,3 +179,5 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696223281e7e2c7b160e8e
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f5d5e85dc8b3980094930/index.m3u8
 #EXTINF:-1, Merrimack - Maine
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Colgate - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
