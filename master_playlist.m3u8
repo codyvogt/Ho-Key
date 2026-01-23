@@ -6,9 +6,9 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970cd00ef0564059e436d
 #EXTINF:-1, České Budějovice - Kladno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd10becdc6c9c8b40b62.m3u8
 #EXTINF:-1, HC Olomouc - Pardubice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd24becdc6c9c8b40b64.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970cd24becdc6c9c8b40b64.m3u8
 #EXTINF:-1, Mountfield - Karlovy Vary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd44ef0564059e436d12.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970cd44ef0564059e436d12.m3u8
 #EXTINF:-1, Liberec - HC Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd34becdc6c9c8b40b66.m3u8
 #EXTINF:-1, Kouvolan KooKoo - Jokerit
@@ -26,7 +26,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e4350
 #EXTINF:-1, Tampereen Ilves - Kärpät
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610ef0564059e435125/index.m3u8
 #EXTINF:-1, Lahden Pelicans - HPK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e435100/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969c610ef0564059e435100/index.m3u8
 #EXTINF:-1, Warriors Brno B - Opava
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69521a1785dc8b3980095188/index.m3u8
 #EXTINF:-1, Pilsen Wolves - HC Žebrák
@@ -102,7 +102,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e4350
 #EXTINF:-1, Hela-Kiekko - IK Kronan
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e4350f9/index.m3u8
 #EXTINF:-1, Kiekko-Vantaa - LeKi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e435105/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969c610ef0564059e435105/index.m3u8
 #EXTINF:-1, SaPKo - Imatran Ketterä
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610becdc6c9c8b3f1cb/index.m3u8
 #EXTINF:-1, Viikingit Helsinki - KOOVEE
@@ -177,6 +177,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b2ca0ef0564059e4358
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b2782becdc6c9c8b3f929/index.m3u8
 #EXTINF:-1, IK Göta - Hammarby IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b2e53ef0564059e43580f/index.m3u8
+#EXTINF:-1, Jindř. Hradec - Soběslav
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69464aa560b7de4a81fe8352/index.m3u8
+#EXTINF:-1, Milevsko B - Český Krumlov
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6944eb0fbbeb6f48c2a91097/index.m3u8
+#EXTINF:-1, Vimperk - Sokol Radomyšl
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e41b91e7e2c7b160e5a75/index.m3u8
+#EXTINF:-1, HK Žihadla - HC Chotěboř
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69293b93725a935a9c335e32/index.m3u8
 #EXTINF:-1, Mariefred - Huddinge
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b2bc5ef0564059e435805/index.m3u8
 #EXTINF:-1, BK Ockra - Häradsbygden
