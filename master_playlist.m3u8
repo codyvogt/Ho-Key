@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, IHC Písek - Warriors Brno
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6948df9440f960cadd2dc426/index.m3u8
 #EXTINF:-1, Rouen - Briançon
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850e9d2a1a468257e602/index.m3u8
 #EXTINF:-1, Rapaces de Gap - Grenoble
@@ -13,28 +11,12 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850e9d2a1a468257e6
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850eb4c8ed39e3473e6e/index.m3u8
 #EXTINF:-1, Anglet - Marseille
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850e9d2a1a468257e5f8/index.m3u8
-#EXTINF:-1, Örnsköldsvik HF - Umeå HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696b2aecef0564059e4357f9/index.m3u8
-#EXTINF:-1, Solna SK - IFK Österåker
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696b19dfbecdc6c9c8b3f8c3/index.m3u8
-#EXTINF:-1, Brinkens IF - Nynäshamn
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696b1e23becdc6c9c8b3f8cd/index.m3u8
-#EXTINF:-1, Älta IF - SK Iron Hockey
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696b20b1becdc6c9c8b3f8e2/index.m3u8
-#EXTINF:-1, Trångsunds IF - Kista HC
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696b1e23becdc6c9c8b3f8cc/index.m3u8
-#EXTINF:-1, Česká Třebová - Choceň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f79153/index.m3u8
-#EXTINF:-1, HCM Jaroměř - HC Trutnov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953b1dd1e7e2c7b160e67fc/index.m3u8
-#EXTINF:-1, Mor. Třebová - Vel. Meziříčí
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69455b9060b7de4a81fe801b/index.m3u8
-#EXTINF:-1, Hijs Hokij - Leuven Chiefs
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696223281e7e2c7b160e8e37/index.m3u8
-#EXTINF:-1, Mechelen - Eaters Limburg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696223281e7e2c7b160e8e39/index.m3u8
 #EXTINF:-1, Ferencváros II - Lehel
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694f5d5e85dc8b3980094930/index.m3u8
+#EXTINF:-1, Mor. Třebová - Vel. Meziříčí
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69455b9060b7de4a81fe801b/index.m3u8
+#EXTINF:-1, Mechelen - Eaters Limburg
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696223281e7e2c7b160e8e39/index.m3u8
 #EXTINF:-1, Sacred Heart - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, St. Lawrence - Clarkson
