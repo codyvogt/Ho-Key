@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Vegas - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/119f8e5d-6540-4298-acb7-ad660d18b6be/master.m3u8
+#EXTINF:-1, Tampa Bay - Chicago
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d16c23b8-88d6-448f-bd93-da6c91bbb033/master.m3u8
 #EXTINF:-1, Sacred Heart - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, St. Lawrence - Clarkson
