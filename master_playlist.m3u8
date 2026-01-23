@@ -1,8 +1,16 @@
 #EXTM3U
 #EXTINF:-1, Lada - Dynamo Moscow
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Kometa - České Budějovice
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695bd3241e7e2c7b160e7f99/index.m3u8
+#EXTINF:-1, Mladá Boleslav - Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd00ef0564059e436d10.m3u8
+#EXTINF:-1, České Budějovice - Kladno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd10becdc6c9c8b40b62.m3u8
+#EXTINF:-1, HC Olomouc - Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd24becdc6c9c8b40b64.m3u8
+#EXTINF:-1, Mountfield - Karlovy Vary
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd44ef0564059e436d12.m3u8
+#EXTINF:-1, Liberec - HC Kometa Brno
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd34becdc6c9c8b40b66.m3u8
 #EXTINF:-1, Mountfield HK - Vítkovice
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6965e0961e7e2c7b160e9db5/index.m3u8
 #EXTINF:-1, Berani Zlín - HC Poruba
@@ -85,16 +93,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69455b9060b7de4a81fe80
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Peliitat - Karhu-Kissat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e43511e/index.m3u8
-#EXTINF:-1, Mladá Boleslav - Vítkovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd00ef0564059e436d10.m3u8
-#EXTINF:-1, České Budějovice - Kladno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd10becdc6c9c8b40b62.m3u8
-#EXTINF:-1, HC Olomouc - Pardubice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd24becdc6c9c8b40b64.m3u8
-#EXTINF:-1, Mountfield - Karlovy Vary
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd44ef0564059e436d12.m3u8
-#EXTINF:-1, Liberec - HC Kometa Brno
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd34becdc6c9c8b40b66.m3u8
 #EXTINF:-1, Finland - Sweden
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e4350f7/index.m3u8
 #EXTINF:-1, FPS - Porvoon Hunters
