@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Lada - Dynamo Moscow
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Mladá Boleslav - Vítkovice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970cd00ef0564059e436d10.m3u8
 #EXTINF:-1, České Budějovice - Kladno
@@ -11,24 +9,18 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970cd24becdc6c9c8b40b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970cd44ef0564059e436d12.m3u8
 #EXTINF:-1, Liberec - HC Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970cd34becdc6c9c8b40b66.m3u8
-#EXTINF:-1, Kouvolan KooKoo - Jokerit
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969c610ef0564059e43512e/index.m3u8
-#EXTINF:-1, Saimaan Pallo - KalPa
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610ef0564059e435108/index.m3u8
-#EXTINF:-1, Vaasan Sport - Lukko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e435129/index.m3u8
-#EXTINF:-1, JYP - Rovaniemen Kiekko
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610ef0564059e43512c/index.m3u8
-#EXTINF:-1, HIFK - Kiekko-Espoo
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610ef0564059e43511d/index.m3u8
-#EXTINF:-1, Mikkelin Jukurit - Ässät
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e4350ff/index.m3u8
-#EXTINF:-1, Tampereen Ilves - Kärpät
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610ef0564059e435125/index.m3u8
-#EXTINF:-1, Lahden Pelicans - HPK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969c610ef0564059e435100/index.m3u8
-#EXTINF:-1, Warriors Brno B - Opava
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69521a1785dc8b3980095188/index.m3u8
+#EXTINF:-1, Yunost - Lokomotiv Orsha
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Berani Zlín - HC Poruba
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695fb99a1e7e2c7b160e86f7/index.m3u8
+#EXTINF:-1, Škoda Plzeň - Sparta Praha
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69455b9560b7de4a81fe8025/index.m3u8
+#EXTINF:-1, Slavia Praha - HC Litvínov
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957b47785dc8b3980095ba0/index.m3u8
+#EXTINF:-1, Liberec - HC Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453164455a8f52ce819a02/index.m3u8
+#EXTINF:-1, Karl. Vary - Mladá Boleslav
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6944f91f455a8f52ce819952/index.m3u8
 #EXTINF:-1, Pilsen Wolves - HC Žebrák
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69633d961e7e2c7b160e93e5/index.m3u8
 #EXTINF:-1, Lvi Břeclav - SK Prostějov
@@ -77,18 +69,14 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df6c0aa0cd927f791
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6953b1dd1e7e2c7b160e67fc/index.m3u8
 #EXTINF:-1, Mor. Třebová - Vel. Meziříčí
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69455b9060b7de4a81fe801b/index.m3u8
-#EXTINF:-1, Yunost - Lokomotiv Orsha
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Berani Zlín - HC Poruba
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695fb99a1e7e2c7b160e86f7/index.m3u8
-#EXTINF:-1, Škoda Plzeň - Sparta Praha
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69455b9560b7de4a81fe8025/index.m3u8
-#EXTINF:-1, Slavia Praha - HC Litvínov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6957b47785dc8b3980095ba0/index.m3u8
-#EXTINF:-1, Liberec - HC Pardubice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453164455a8f52ce819a02/index.m3u8
-#EXTINF:-1, Karl. Vary - Mladá Boleslav
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6944f91f455a8f52ce819952/index.m3u8
+#EXTINF:-1, HIFK - Kiekko-Espoo
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610ef0564059e43511d/index.m3u8
+#EXTINF:-1, Mikkelin Jukurit - Ässät
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e4350ff/index.m3u8
+#EXTINF:-1, Tampereen Ilves - Kärpät
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969c610ef0564059e435125/index.m3u8
+#EXTINF:-1, Lahden Pelicans - HPK
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6969c610ef0564059e435100/index.m3u8
 #EXTINF:-1, Peliitat - Karhu-Kissat
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969c610ef0564059e43511e/index.m3u8
 #EXTINF:-1, Finland - Sweden
