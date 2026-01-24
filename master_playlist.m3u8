@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Vegas - Toronto
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/119f8e5d-6540-4298-acb7-ad660d18b6be/master.m3u8
-#EXTINF:-1, Tampa Bay - Chicago
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d16c23b8-88d6-448f-bd93-da6c91bbb033/master.m3u8
 #EXTINF:-1, Philadelphia - Colorado
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4a26c89d-afd5-4705-b429-ab22cded3a7f/master.m3u8
 #EXTINF:-1, Washington - Calgary
@@ -13,28 +9,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e2f5d3
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/524366e1-fe28-4ef9-89b2-e25509177455/master.m3u8
 #EXTINF:-1, Anaheim - Seattle Kraken
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbd2085d-a997-4b60-81e7-3bef1f559f8d/master.m3u8
-#EXTINF:-1, Brantford - Sudbury
-https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Harvard - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, UNH - Boston College
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Northeastern - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Boston U - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Massachusetts - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, Dartmouth - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Maine - UMass Lowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, MTU - Northern Michigan
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northernmihockey/playlist.m3u8
-#EXTINF:-1, Connecticut - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, Colorado College - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/83297b8e-dc45-4ec1-95b1-db82912bbf66-hls/master/83297b8e-dc45-4ec1-95b1-db82912bbf66-hls.m3u8
 #EXTINF:-1, WMU - Minnesota Duluth
