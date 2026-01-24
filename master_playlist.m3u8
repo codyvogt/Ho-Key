@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Philadelphia - Colorado
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4a26c89d-afd5-4705-b429-ab22cded3a7f/master.m3u8
-#EXTINF:-1, Washington - Calgary
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7ca11a5f-8576-47b2-a885-b0d0cb698710/master.m3u8
 #EXTINF:-1, New Jersey - Vancouver
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e2f5d3eb-c601-4c6b-a330-40159ee378f5/master.m3u8
 #EXTINF:-1, NY Rangers - San Jose
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/524366e1-fe28-4ef9-89b2-e25509177455/master.m3u8
 #EXTINF:-1, Anaheim - Seattle Kraken
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbd2085d-a997-4b60-81e7-3bef1f559f8d/master.m3u8
-#EXTINF:-1, St. Cloud State - Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a7d6ebe7-fbb3-4248-be70-f684caedadbc-hls/master/a7d6ebe7-fbb3-4248-be70-f684caedadbc-hls.m3u8
-#EXTINF:-1, UND - Arizona State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c84413bd-7e61-4fa1-9534-6bf7c82bb206-hls/master/c84413bd-7e61-4fa1-9534-6bf7c82bb206-hls.m3u8
