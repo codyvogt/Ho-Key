@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Morzine-Avoriaz - Neuilly
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6965c6c91e7e2c7b160e9cf5/index.m3u8
-#EXTINF:-1, Alleghe - Eppan Pirates
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966026685dc8b3980098f34/index.m3u8
 #EXTINF:-1, Fassa Falcons - Valpellice
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602661e7e2c7b160e9e39/index.m3u8
+#EXTINF:-1, Vasas SC - DEAC JA
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961d25e1e7e2c7b160e8b62/index.m3u8
+#EXTINF:-1, Txuri Urdin - Andorra HG
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69733c91becdc6c9c8b40fc4/index.m3u8
+#EXTINF:-1, Majadahonda - CH Madrid
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69733d497351323b584c868a/index.m3u8
 #EXTINF:-1, Holy Cross - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
 #EXTINF:-1, Northeastern - UConn
@@ -21,12 +23,6 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Merrimack - Maine
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Vasas SC - DEAC JA
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961d25e1e7e2c7b160e8b62/index.m3u8
-#EXTINF:-1, Txuri Urdin - Andorra HG
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69733c91becdc6c9c8b40fc4/index.m3u8
-#EXTINF:-1, Majadahonda - CH Madrid
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69733d497351323b584c868a/index.m3u8
 #EXTINF:-1, Ft. Golden Sharks - Heist
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69637bc01acb88e1df0e1e74/index.m3u8
 #EXTINF:-1, CH Huarte - Valdemoro
