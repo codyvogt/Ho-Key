@@ -1,28 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Buffalo - NY Islanders
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ce0f3f1e-f1bc-47a9-b10e-c29b2dbf2f94/master.m3u8
 #EXTINF:-1, Utah - Nashville Predators
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d231d59d-81f2-4c6c-8b9e-ddab36df2f45/master.m3u8
-#EXTINF:-1, Serbia - New Zealand
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696906a9ef0564059e434ff1/index.m3u8
 #EXTINF:-1, Lions de Lyon - Strasbourg
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6965c6c91e7e2c7b160e9cff/index.m3u8
-#EXTINF:-1, Dunkerque - Villard
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6965c6c91e7e2c7b160e9d0b/index.m3u8
 #EXTINF:-1, Chambéry - Valenciennes
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6965c6c91e7e2c7b160e9cf7/index.m3u8
 #EXTINF:-1, Remparts de Tours - Caen
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6965c6c91e7e2c7b160e9d15/index.m3u8
 #EXTINF:-1, Morzine-Avoriaz - Neuilly
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6965c6c91e7e2c7b160e9cf5/index.m3u8
-#EXTINF:-1, Feltre - Zinnen Dolomites
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69734e657351323b584c86d5/index.m3u8
-#EXTINF:-1, HC Aosta - Hockey Pergine
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6966026585dc8b3980098f32/index.m3u8
-#EXTINF:-1, Alleghe - Eppan Pirates
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966026685dc8b3980098f34/index.m3u8
-#EXTINF:-1, Fassa Falcons - Valpellice
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602661e7e2c7b160e9e39/index.m3u8
 #EXTINF:-1, Reims - Courbevoie
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6965c6ca1e7e2c7b160e9d3b/index.m3u8
 #EXTINF:-1, Valence - Clermont-Ferrand
@@ -39,18 +25,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6965c6c81e7e2c7b160e9c
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6965c6c81e7e2c7b160e9ceb/index.m3u8
 #EXTINF:-1, Briançon 2 - Toulon
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965c6ca1e7e2c7b160e9d2b/index.m3u8
-#EXTINF:-1, Beaufort Knights - Charleroi
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69637bbf1e7e2c7b160e95f3/index.m3u8
-#EXTINF:-1, Ft. Golden Sharks - Heist
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69637bc01acb88e1df0e1e74/index.m3u8
-#EXTINF:-1, IFK Täby - Flemingsberg
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696c7ab7becdc6c9c8b40025/index.m3u8
-#EXTINF:-1, Piteå HC - Kiruna IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c7902becdc6c9c8b3fff1/index.m3u8
-#EXTINF:-1, Jää-Tiikerit - Kurra HT
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696b1797becdc6c9c8b3f8a5/index.m3u8
-#EXTINF:-1, Toulouse - Grenoble
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965c6ca1e7e2c7b160e9d39/index.m3u8
+#EXTINF:-1, HC Aosta - Hockey Pergine
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6966026585dc8b3980098f32/index.m3u8
+#EXTINF:-1, Alleghe - Eppan Pirates
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6966026685dc8b3980098f34/index.m3u8
+#EXTINF:-1, Fassa Falcons - Valpellice
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696602661e7e2c7b160e9e39/index.m3u8
 #EXTINF:-1, HC Piné - Cadore
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695b94971e7e2c7b160e7e54/index.m3u8
 #EXTINF:-1, Chiavenna - HCP Selection
@@ -81,9 +61,39 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6961d25e1e7e2c7b160e8b
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69733c91becdc6c9c8b40fc4/index.m3u8
 #EXTINF:-1, Majadahonda - CH Madrid
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69733d497351323b584c868a/index.m3u8
+#EXTINF:-1, Ft. Golden Sharks - Heist
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69637bc01acb88e1df0e1e74/index.m3u8
 #EXTINF:-1, CH Huarte - Valdemoro
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69733e2def0564059e437281/index.m3u8
 #EXTINF:-1, CG Puigcerdà - Txuri Urdin
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69733dd0becdc6c9c8b40fda/index.m3u8
 #EXTINF:-1, Yale - Sacred Heart
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Maine - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
+#EXTINF:-1, NMU - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, UND - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8be58931-9fd3-45c1-a6cf-3c49f1babf34-hls/master/8be58931-9fd3-45c1-a6cf-3c49f1babf34-hls.m3u8
+#EXTINF:-1, Massachusetts - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Providence - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, Boston College - UNH
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, Harvard - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Clarkson - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Dartmouth - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, WMU - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/3af1fdbe-74c2-4a53-9cae-de668a02ff52-hls/master/3af1fdbe-74c2-4a53-9cae-de668a02ff52-hls.m3u8
+#EXTINF:-1, Augustana - MinnState
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Quinnipiac - UConn
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, St. Cloud State - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9f80ea37-50a7-4c07-ba54-06d80018111c-hls/master/9f80ea37-50a7-4c07-ba54-06d80018111c-hls.m3u8
+#EXTINF:-1, Colorado College - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/69789b07-52d2-4cbb-9a14-56fcef8b8096-hls/master/69789b07-52d2-4cbb-9a14-56fcef8b8096-hls.m3u8
