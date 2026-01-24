@@ -1,7 +1,41 @@
 #EXTM3U
-#EXTINF:-1, New Jersey - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e2f5d3eb-c601-4c6b-a330-40159ee378f5/master.m3u8
-#EXTINF:-1, NY Rangers - San Jose
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/524366e1-fe28-4ef9-89b2-e25509177455/master.m3u8
-#EXTINF:-1, Anaheim - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cbd2085d-a997-4b60-81e7-3bef1f559f8d/master.m3u8
+#EXTINF:-1, Tyresö - Huddinge IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c7fd3ef0564059e435fa9/index.m3u8
+#EXTINF:-1, IF Troja-Ljungby - Borås
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c7ab7becdc6c9c8b4001d/index.m3u8
+#EXTINF:-1, Vännäs HC - Ånge IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c73e5becdc6c9c8b3ff36/index.m3u8
+#EXTINF:-1, Leksands IF - MoDo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6c39becdc6c9c8b3fed3/index.m3u8
+#EXTINF:-1, Luleå HF - Brynäs IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c7902becdc6c9c8b3ffeb/index.m3u8
+#EXTINF:-1, Kouvolan KooKoo - HPK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b1797becdc6c9c8b3f88a/index.m3u8
+#EXTINF:-1, SaiPa - Mikkelin Jukurit
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b1797becdc6c9c8b3f89b/index.m3u8
+#EXTINF:-1, KalPa - Porin Ässät
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b1797becdc6c9c8b3f8ad/index.m3u8
+#EXTINF:-1, TPS - Kiekko-Espoo
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b1797becdc6c9c8b3f8af/index.m3u8
+#EXTINF:-1, Rauman Lukko - Ilves
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b1797becdc6c9c8b3f8a3/index.m3u8
+#EXTINF:-1, HPK Akatemia - KeuPa HT
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b1795becdc6c9c8b3f7b9/index.m3u8
+#EXTINF:-1, Lahden Pelicans - KalPa Ak
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696b1797becdc6c9c8b3f888/index.m3u8
+#EXTINF:-1, Slavia Praha - Sparta Praha
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695df78d1e7e2c7b160e829e/index.m3u8
+#EXTINF:-1, Berani Zlín - HC Vítkovice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6965e0961e7e2c7b160e9db7/index.m3u8
+#EXTINF:-1, Kometa Brno - Motor ČEB
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695b7ebf85dc8b3980096c08/index.m3u8
+#EXTINF:-1, Liberec - HC Pardubice
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453164455a8f52ce819a06/index.m3u8
+#EXTINF:-1, IFK Hallsberg 2 - Kungsör
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6918182a109a6801f3cf6baa/index.m3u8
+#EXTINF:-1, Umeå Dragons - Åsele IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6ec8ef0564059e435df7/index.m3u8
+#EXTINF:-1, Traktor - Admiral
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1, Metallurg Mg - Amur
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
