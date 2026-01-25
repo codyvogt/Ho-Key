@@ -5,32 +5,12 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d254ef0564059e436d
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d242f31d3b1b45f78c7a.m3u8
 #EXTINF:-1, Colorado - Toronto
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fcf72e2-5b67-483a-9873-fc62e06ca799/master.m3u8
-#EXTINF:-1, HC Tábor - VHK Vsetín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69397bbcd9c1b7ecd2fd9f40.m3u8
 #EXTINF:-1, Dukla Jihlava - Sokolov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69721418becdc6c9c8b40d4e.m3u8
-#EXTINF:-1, Trutnov - Spartak Polička
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df702648319de9ece45/index.m3u8
-#EXTINF:-1, Litomyšl - Nové Město n. M.
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915d77c109a6801f3cf6370/index.m3u8
 #EXTINF:-1, Hlinsko - Králové n. Labem
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f79288/index.m3u8
 #EXTINF:-1, Č. Třebová - Nový Bydžov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791e4/index.m3u8
-#EXTINF:-1, Amiens - HC 74
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967184985dc8b398009921a/index.m3u8
-#EXTINF:-1, Ducs d'Angers - Anglet
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6967184985dc8b3980099218/index.m3u8
-#EXTINF:-1, Caen - Cergy-Pontoise
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967184985dc8b398009921c/index.m3u8
-#EXTINF:-1, Poděbrady - Velké Popovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694e258e85dc8b3980094817/index.m3u8
-#EXTINF:-1, Valašské Meziříčí - Opava
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ff51de40899867ab4848ad/index.m3u8
-#EXTINF:-1, Klatovy - Beroun. Medvědi
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e68141e7e2c7b160e83d1/index.m3u8
-#EXTINF:-1, HC DDM ČEB - HC Tábor B
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a856d1e7e2c7b160e5873/index.m3u8
 #EXTINF:-1, Lerums BK - Ulricehamns IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dbe93becdc6c9c8b40354/index.m3u8
 #EXTINF:-1, Falkenberg - Lund Giants
@@ -39,8 +19,18 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dd22ebecdc6c9c8b405
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9f42759b6f68b0e1df270/index.m3u8
 #EXTINF:-1, Stenungsund HF - Varberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dd154becdc6c9c8b4059a/index.m3u8
+#EXTINF:-1, Valašské Meziříčí - Opava
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68ff51de40899867ab4848ad/index.m3u8
+#EXTINF:-1, Klatovy - Beroun. Medvědi
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695e68141e7e2c7b160e83d1/index.m3u8
+#EXTINF:-1, HC DDM ČEB - HC Tábor B
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694a856d1e7e2c7b160e5873/index.m3u8
 #EXTINF:-1, VG-62 II Naantali - VG-62
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6914becdc6c9c8b3fd86/index.m3u8
+#EXTINF:-1, Ducs d'Angers - Anglet
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6967184985dc8b3980099218/index.m3u8
+#EXTINF:-1, Caen - Cergy-Pontoise
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967184985dc8b398009921c/index.m3u8
 #EXTINF:-1, Cergy-Pontoise 2 - Évry
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696718481e7e2c7b160ea0b5/index.m3u8
 #EXTINF:-1, Tours(Orléans) - Nantes
@@ -67,3 +57,5 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696c6912becdc6c9c8b3fd
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68b66f4c8adff45f9df2952a/index.m3u8
 #EXTINF:-1, Hawks - OKK Tankki
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6916becdc6c9c8b3fe86/index.m3u8
+#EXTINF:-1, Barrie Colts - Brantford
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
