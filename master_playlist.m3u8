@@ -9,38 +9,14 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fcf72
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69397bbcd9c1b7ecd2fd9f40.m3u8
 #EXTINF:-1, Dukla Jihlava - Sokolov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69721418becdc6c9c8b40d4e.m3u8
-#EXTINF:-1, Gislaveds SK - Bäcken HC
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dc565becdc6c9c8b403f0/index.m3u8
-#EXTINF:-1, Ånge IK - Tegs SK
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6922a507109a6801f3cf872a/index.m3u8
-#EXTINF:-1, HHK VM B - Náměšť n. O.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695ca6181e7e2c7b160e808e/index.m3u8
-#EXTINF:-1, Velká Bíteš - Bystřice n. P.
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68b59a058adff45f9df293fc/index.m3u8
-#EXTINF:-1, Jaroměř - Spartak Choceň
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df702648319de9ecdfc/index.m3u8
-#EXTINF:-1, M. Třebová - Třebechovice
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece09/index.m3u8
 #EXTINF:-1, Trutnov - Spartak Polička
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df702648319de9ece45/index.m3u8
 #EXTINF:-1, Litomyšl - Nové Město n. M.
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6915d77c109a6801f3cf6370/index.m3u8
-#EXTINF:-1, Prostějov - Zastávka u Brna
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df102648319de9ecb60/index.m3u8
-#EXTINF:-1, Uherský Ostroh - Blansko
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df102648319de9ecb61/index.m3u8
-#EXTINF:-1, Spartak Soběslav - Vimperk
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/693be8d5b4e4af00beff2cc4/index.m3u8
 #EXTINF:-1, Hlinsko - Králové n. Labem
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/689b2df7c0aa0cd927f79288/index.m3u8
 #EXTINF:-1, Č. Třebová - Nový Bydžov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/689b2df7c0aa0cd927f791e4/index.m3u8
-#EXTINF:-1, FOC Farsta IF - Salem
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dc123ef0564059e436431/index.m3u8
-#EXTINF:-1, Munkedal - Slottsskogen
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dc1fcbecdc6c9c8b403a0/index.m3u8
-#EXTINF:-1, Herrings HC - Bokasport
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dd4bcbecdc6c9c8b405df/index.m3u8
 #EXTINF:-1, Amiens - HC 74
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967184985dc8b398009921a/index.m3u8
 #EXTINF:-1, Ducs d'Angers - Anglet
@@ -72,15 +48,19 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967184885dc8b39800991
 #EXTINF:-1, Lions de Lyon - Meudon
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696718481e7e2c7b160ea0af/index.m3u8
 #EXTINF:-1, Bordeaux - Poitiers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967184885dc8b39800991f6/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967184885dc8b39800991f6/index.m3u8
+#EXTINF:-1, Munkedal - Slottsskogen
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dc1fcbecdc6c9c8b403a0/index.m3u8
+#EXTINF:-1, Herrings HC - Bokasport
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dd4bcbecdc6c9c8b405df/index.m3u8
 #EXTINF:-1, Salo HT - TPS Challenger
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6916becdc6c9c8b3fe7b/index.m3u8
 #EXTINF:-1, Leuven Chiefs - Liège
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6964c6281e7e2c7b160e9b08/index.m3u8
-#EXTINF:-1, Heerenveen - Neuwied
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6964c6281e7e2c7b160e9b0a/index.m3u8
 #EXTINF:-1, Eaters Limburg - HYC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6964c6281e7e2c7b160e9b0c/index.m3u8
+#EXTINF:-1, Heerenveen - Neuwied
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6964c6281e7e2c7b160e9b0a/index.m3u8
 #EXTINF:-1, Seinäjoen-Kiekko HT - TUS
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696c6912becdc6c9c8b3fd1a/index.m3u8
 #EXTINF:-1, Briançon - Rouen
