@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1, HC Litvínov - HC Olomouc
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d20aef0564059e436d26.m3u8
-#EXTINF:-1, Karlovy Vary - Ml. Boleslav
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d21eef0564059e436d28.m3u8
-#EXTINF:-1, Rytíři Kladno - Liberec
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d231ef0564059e436d2a.m3u8
 #EXTINF:-1, Dynamo Pardubice - Plzeň
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d254ef0564059e436d2c.m3u8
 #EXTINF:-1, Kometa Brno - Mountfield
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d242f31d3b1b45f78c7a.m3u8
-#EXTINF:-1, Slovan - Liptovský Mikuláš
-https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1, Colorado - Toronto
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7fcf72e2-5b67-483a-9873-fc62e06ca799/master.m3u8
 #EXTINF:-1, Zlín B - Havlíčkův Brod
@@ -86,7 +78,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dbe93becdc6c9c8b403
 #EXTINF:-1, Falkenberg - Lund Giants
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dd22ebecdc6c9c8b405b9/index.m3u8
 #EXTINF:-1, BK Ockra - Hedemora SK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68e9f42759b6f68b0e1df270/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68e9f42759b6f68b0e1df270/index.m3u8
 #EXTINF:-1, Stenungsund HF - Varberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dd154becdc6c9c8b4059a/index.m3u8
 #EXTINF:-1, HaU - Raahe-K Soturit
