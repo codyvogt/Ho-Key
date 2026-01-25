@@ -17,8 +17,14 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dd4bcef0564059e4366
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696dd4bcef0564059e43663a/index.m3u8
 #EXTINF:-1, IF Malmö - Västerås IK
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dd3e2ef0564059e43661b/index.m3u8
+#EXTINF:-1, Rögle BK - Södertälje SK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696dd596becdc6c9c8b405ef/index.m3u8
 #EXTINF:-1, Rīgas HS - Liepājas SSS
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6969ef12ef0564059e4351f5/index.m3u8
+#EXTINF:-1, Dinaburga - Jelgavas LSS
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6969f185becdc6c9c8b3f315/index.m3u8
+#EXTINF:-1, Brocēni - HS Falcons
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696100261e7e2c7b160e89ad/index.m3u8
 #EXTINF:-1, Ferencváros - HDK Maribor
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696323e185dc8b39800981dc/index.m3u8
 #EXTINF:-1, PESÄ Imatra - Warkis
@@ -68,7 +74,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6904518d3829c1557f606c
 #EXTINF:-1, VHK Vsetín - HC Chrudim
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695cd03d1e7e2c7b160e80f4/index.m3u8
 #EXTINF:-1, HC Hvězda Praha - Přerov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6951391585dc8b3980095007/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6951391585dc8b3980095007/index.m3u8
 #EXTINF:-1, Olomouc - Rytíři Kladno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694909be60b7de4a81fe898f/index.m3u8
 #EXTINF:-1, KeuPa HT/Diskos - FoPS
@@ -100,7 +106,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6914ef0564059e435d
 #EXTINF:-1, Meudon - Dunkerque
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696718471e7e2c7b160ea0ab/index.m3u8
 #EXTINF:-1, KJT Haukat - Gepardit
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6916becdc6c9c8b3fe83/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/696c6916becdc6c9c8b3fe83/index.m3u8
 #EXTINF:-1, KJK Ak - Akaan Kiekko
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c6916becdc6c9c8b3fe83/index.m3u8
 #EXTINF:-1, IFK Arvidsjaur - Haparanda
