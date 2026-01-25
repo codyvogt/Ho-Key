@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Kroměříž - Frýdek-Místek
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/693fdd4e0d73d3ccbfec2af3/index.m3u8
+#EXTINF:-1, IK Graip - MB Hockey
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dbdb9becdc6c9c8b4034a/index.m3u8
 #EXTINF:-1, Uherský Brod - Hodonín
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695a7396fe37caddac1de32f/index.m3u8
 #EXTINF:-1, Lomnice n. P. - Frýdlant
@@ -15,8 +15,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69609a991e7e2c7b160e87
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6940f68e0d73d3ccbfec2d6b/index.m3u8
 #EXTINF:-1, Vrchlabí - Vlci Jablonec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69609a991e7e2c7b160e87f6/index.m3u8
-#EXTINF:-1, IK Graip - MB Hockey
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dbdb9becdc6c9c8b4034a/index.m3u8
 #EXTINF:-1, Finland - Sweden
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696c6916becdc6c9c8b3feae/index.m3u8
 #EXTINF:-1, Leksands IF - Björklöven
