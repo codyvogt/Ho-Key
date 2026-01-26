@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1, Avtomobilist - Amur
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1, Torpedo Nizhny - Sibir
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1, Dinamo Mn - Sal. Yulaev
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Sochi - Shanghai Dragons
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1, Romania - Mexico
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723036ef0564059e43704a/index.m3u8
-#EXTINF:-1, Iceland - South Africa
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723062ef0564059e43704c/index.m3u8
 #EXTINF:-1, Zlín - Mountfield HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb99a1e7e2c7b160e86f8/index.m3u8
 #EXTINF:-1, Litvínov - Sparta Praha
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69463c9560b7de4a81fe8302/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69463c9560b7de4a81fe8302/index.m3u8
 #EXTINF:-1, Slavia Praha - Škoda Plzeň
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695cec5d85dc8b398009704d/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695cec5d85dc8b398009704d/index.m3u8
 #EXTINF:-1, Jihlava - České Budějovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694b829485dc8b39800946cc/index.m3u8
 #EXTINF:-1, Pardubice - Mladá Boleslav
@@ -27,3 +21,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/694280550d73d3ccbfec30
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69453164455a8f52ce819a05/index.m3u8
 #EXTINF:-1, Nový Jičín - Orli Znojmo
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/690d8c1540899867ab4868b5/index.m3u8
+#EXTINF:-1, Sparta Praha - Olomouc
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d5c0becdc6c9c8b40b69.m3u8
+#EXTINF:-1, Iceland - South Africa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723062ef0564059e43704c/index.m3u8
