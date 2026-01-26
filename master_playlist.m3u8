@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Väsby IK HK - IFK Salem
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696f1899ef0564059e4368a9/index.m3u8
 #EXTINF:-1, Flemingsbergs IK - Tyresö
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696f1456ef0564059e436897/index.m3u8
 #EXTINF:-1, Almtuna IS - IFK Täby HC
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696f0f39becdc6c9c8b40810/index.m3u8
-#EXTINF:-1, Enköpings SK HK  Arlanda
+#EXTINF:-1, Enköpings SK - Arlanda
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696f17bfef0564059e4368a5/index.m3u8
-#EXTINF:-1, KoPo - Kiekko-Vantaa Itä
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696dba8fbecdc6c9c8b402f8/index.m3u8
 #EXTINF:-1, Genève-Servette - HCAP
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1, HC Ludwig - Karhu-Kissat
