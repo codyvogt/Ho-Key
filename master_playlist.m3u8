@@ -7,6 +7,10 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Sochi - Shanghai Dragons
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1, Romania - Mexico
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723036ef0564059e43704a/index.m3u8
+#EXTINF:-1, Iceland - South Africa
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723062ef0564059e43704c/index.m3u8
 #EXTINF:-1, Zlín - Mountfield HK
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695fb99a1e7e2c7b160e86f8/index.m3u8
 #EXTINF:-1, Litvínov - Sparta Praha
