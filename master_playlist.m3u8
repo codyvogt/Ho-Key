@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Belgium - Chinese Taipei
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6972300fef0564059e437048/index.m3u8
-#EXTINF:-1, Romania - Mexico
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723036ef0564059e43704a/index.m3u8
 #EXTINF:-1, Avangard Omsk - Admiral
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Avtomobilist - Amur
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1, Romania - Mexico
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723036ef0564059e43704a/index.m3u8
