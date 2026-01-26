@@ -3,8 +3,6 @@
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1, Genève-Servette - HCAP
 https://vstream-cdn.ch/hls/teleticino.m3u8
-#EXTINF:-1, Litvínov - Sparta Praha
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69463c9560b7de4a81fe8302/index.m3u8
 #EXTINF:-1, Nový Jičín - Orli Znojmo
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/690d8c1540899867ab4868b5/index.m3u8
 #EXTINF:-1, Stadion Litoměřice - Louny
@@ -13,8 +11,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/694f93341e7e2c7b160e5c
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696f1b28becdc6c9c8b40841/index.m3u8
 #EXTINF:-1, Enköpings SK HK  Arlanda
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/696f17bfef0564059e4368a5/index.m3u8
-#EXTINF:-1, Hammarby IF - Vallentuna
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696f10eeef0564059e436891/index.m3u8
 #EXTINF:-1, SDE HF - Trångsunds IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696f1899ef0564059e4368a7/index.m3u8
 #EXTINF:-1, Väsby IK HK - IFK Salem
