@@ -3,16 +3,12 @@
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d8e5ef0564059e436d2f.m3u8
 #EXTINF:-1, Č. Budějovice - Karl. Vary
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970d901ef0564059e436d33.m3u8
-#EXTINF:-1, Mladá Boleslav - Litvínov
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d8f3ef0564059e436d31.m3u8
 #EXTINF:-1, Liberec - HC Vítkovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d932f31d3b1b45f78c80.m3u8
 #EXTINF:-1, Dynamo Pardubice - Kladno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970d912f31d3b1b45f78c7c.m3u8
 #EXTINF:-1, Mountfield HK - Třinec
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d922f31d3b1b45f78c7e.m3u8
-#EXTINF:-1, SKA - Lokomotiv Yaroslavl
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Poruba - Piráti Chomutov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69723bb2ef0564059e437071.m3u8
 #EXTINF:-1, Martin - Považská Bystrica
@@ -54,7 +50,7 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69707011becdc6c9c8b40a
 #EXTINF:-1, Hammarby - Flemingsberg
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970626ebecdc6c9c8b40ab0/index.m3u8
 #EXTINF:-1, Nacka - Eskilstuna Linden
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970752eef0564059e436c70/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970752eef0564059e436c70/index.m3u8
 #EXTINF:-1, Hofors HC - Ockelbo HC 2
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970626ebecdc6c9c8b40ab1/index.m3u8
 #EXTINF:-1, Nynäshamns IF - Mariefred
@@ -70,9 +66,9 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705fdfbecdc6c9c8b40a
 #EXTINF:-1, SK Iron - Trångsunds IF
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69705f05becdc6c9c8b40aa8/index.m3u8
 #EXTINF:-1, Solna SK - Brinkens IF
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705fdfbecdc6c9c8b40aab/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69705fdfbecdc6c9c8b40aab/index.m3u8
 #EXTINF:-1, Kista HC - Knivsta IK
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705d51becdc6c9c8b40a88/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69705d51becdc6c9c8b40a88/index.m3u8
 #EXTINF:-1, Boo HC - Älta IF
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970693fbecdc6c9c8b40ac9/index.m3u8
 #EXTINF:-1, Västerviks IK - Mörrum
@@ -88,7 +84,7 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970693fbecdc6c9c8b40a
 #EXTINF:-1, Dalen - Guts/Valdemarsvik
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/695a0ad885dc8b3980096702/index.m3u8
 #EXTINF:-1, Vita Hästen - Vänersborg
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706af3ef0564059e436c1f/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/69706af3ef0564059e436c1f/index.m3u8
 #EXTINF:-1, South Africa - Romania
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723148becdc6c9c8b40dc8/index.m3u8
 #EXTINF:-1, Karlovy Vary B - M. Lázně
@@ -102,7 +98,7 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6978d5142e3c2bae06b728
 #EXTINF:-1, Briançon - Chamonix
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850d9d2a1a468257e5f4/index.m3u8
 #EXTINF:-1, Aigles de Nice - Anglet
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850fb4c8ed39e3473e7c/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850fb4c8ed39e3473e7c/index.m3u8
 #EXTINF:-1, Amiens - Rapaces de Gap
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850db4c8ed39e3473e6c/index.m3u8
 #EXTINF:-1, Grenoble - Bordeaux
@@ -112,4 +108,4 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850fb4c8ed39e3473e
 #EXTINF:-1, Cergy-Pontoise - Angers
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850eb4c8ed39e3473e76/index.m3u8
 #EXTINF:-1, Mechelen - Hijs Hokij
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6967692885dc8b3980099315/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967692885dc8b3980099315/index.m3u8
