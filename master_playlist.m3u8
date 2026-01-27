@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Slovakia U18 - Topoľčany
-https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
-#EXTINF:-1, Martin - Považská Bystrica
-https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1, Metallurg Mg - Traktor
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, SKA - Lokomotiv Yaroslavl
@@ -19,3 +15,5 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695d168d85dc8b39800970df/index.m3u8
 #EXTINF:-1, Technika Brno - Šumperk
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a4440899867ab48500c/index.m3u8
+#EXTINF:-1, Martin - Považská Bystrica
+https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
