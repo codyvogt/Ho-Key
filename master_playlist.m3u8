@@ -13,8 +13,6 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970d912f31d3b1b45f78c
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d922f31d3b1b45f78c7e.m3u8
 #EXTINF:-1, SKA - Lokomotiv Yaroslavl
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Brest - Shakhter Soligorsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Dinamo-Mol. - Slavutich
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Berani Zlín B - Vsetín
@@ -29,5 +27,75 @@ https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69668ba585dc8b3980099176.m3u8
 #EXTINF:-1, Herning - Frederikshavn
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69668ba585dc8b3980099178.m3u8
+#EXTINF:-1, Haninge Anchors - IK Göta
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706bceef0564059e436c2e/index.m3u8
+#EXTINF:-1, Orsa IK - Gävle GIK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706bceef0564059e436c27/index.m3u8
+#EXTINF:-1, Valbo HC - Alfta Hockey
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706bceef0564059e436c28/index.m3u8
+#EXTINF:-1, Smedjebackens HC - Kumla
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/697070ebbecdc6c9c8b40aee/index.m3u8
+#EXTINF:-1, Avesta - Guldsmedshytte
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/697071c5ef0564059e436c64/index.m3u8
+#EXTINF:-1, IFK Arboga - Fagersta AIK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706bceef0564059e436c29/index.m3u8
+#EXTINF:-1, Hallsberg - Hallstahammar
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706ca7ef0564059e436c3f/index.m3u8
+#EXTINF:-1, Segeltorps IF - Värmdö HC
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706ca8ef0564059e436c41/index.m3u8
+#EXTINF:-1, Mälarö HF - Spånga IS IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/697064fcef0564059e436c17/index.m3u8
+#EXTINF:-1, Sunderby SK - SK Lejon
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69707011becdc6c9c8b40ae7/index.m3u8
+#EXTINF:-1, Sollefteå HK - Ånge IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706a19becdc6c9c8b40acb/index.m3u8
+#EXTINF:-1, Bålsta HC - Viggbyholm
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706bceef0564059e436c2d/index.m3u8
+#EXTINF:-1, Söderhamn/Ljusne - Skedvi
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69707011becdc6c9c8b40ae6/index.m3u8
+#EXTINF:-1, Hammarby - Flemingsberg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970626ebecdc6c9c8b40ab0/index.m3u8
+#EXTINF:-1, Nacka - Eskilstuna Linden
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970752eef0564059e436c70/index.m3u8
+#EXTINF:-1, Hofors HC - Ockelbo HC 2
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970626ebecdc6c9c8b40ab1/index.m3u8
+#EXTINF:-1, Nynäshamns IF - Mariefred
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69707454ef0564059e436c6d/index.m3u8
+#EXTINF:-1, Gnesta IK - IFK Österåker
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69707379becdc6c9c8b40af4/index.m3u8
+#EXTINF:-1, Lindefallets SK - Skutskär
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970678bbecdc6c9c8b40abb/index.m3u8
+#EXTINF:-1, IK Huge - Bollnäs IS
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706e5cbecdc6c9c8b40ade/index.m3u8
+#EXTINF:-1, Hedesunda IF - Sandviken
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705fdfbecdc6c9c8b40aaa/index.m3u8
+#EXTINF:-1, SK Iron - Trångsunds IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705f05becdc6c9c8b40aa8/index.m3u8
+#EXTINF:-1, Solna SK - Brinkens IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705fdfbecdc6c9c8b40aab/index.m3u8
+#EXTINF:-1, Kista HC - Knivsta IK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705d51becdc6c9c8b40a88/index.m3u8
+#EXTINF:-1, Boo HC - Älta IF
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970693fbecdc6c9c8b40ac9/index.m3u8
+#EXTINF:-1, Västerviks IK - Mörrum
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69707608becdc6c9c8b40af6/index.m3u8
+#EXTINF:-1, Mariestad - Boro/Vetlanda
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/697070ebef0564059e436c5c/index.m3u8
+#EXTINF:-1, Alvesta SK - KRIF Hockey
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69707454ef0564059e436c6a/index.m3u8
+#EXTINF:-1, Gislaveds SK - Rydaholm
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706865becdc6c9c8b40ac1/index.m3u8
+#EXTINF:-1, Tyringe SoSS - Lund Giants
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970693fbecdc6c9c8b40ac7/index.m3u8
+#EXTINF:-1, Dalen - Guts/Valdemarsvik
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695a0ad885dc8b3980096702/index.m3u8
+#EXTINF:-1, Vita Hästen - Vänersborg
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69706af3ef0564059e436c1f/index.m3u8
 #EXTINF:-1, South Africa - Romania
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723148becdc6c9c8b40dc8/index.m3u8
+#EXTINF:-1, IFK Tumba IK 2 - Järna
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/696c7673ef0564059e435e55/index.m3u8
+#EXTINF:-1, Chalmers - Järnbrotts HK
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6939170af7de7b3a480b57b5/index.m3u8
+#EXTINF:-1, Hässelby Kälvesta - Järna
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6978d5142e3c2bae06b72841/index.m3u8
