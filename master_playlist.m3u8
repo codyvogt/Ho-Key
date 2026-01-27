@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1, Chinese Taipei - Mexico
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6972309fef0564059e43704e/index.m3u8
+#EXTINF:-1, Iceland - Belgium
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/697230e3becdc6c9c8b40dc6/index.m3u8
+#EXTINF:-1, Slovakia U18 - Topoľčany
+https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
+#EXTINF:-1, Metallurg Mg - Traktor
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, Brest - Shakhter Soligorsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
