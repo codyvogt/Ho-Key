@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1, HC Plzeň - Kometa Brno
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d8e5ef0564059e436d2f.m3u8
-#EXTINF:-1, Č. Budějovice - Karl. Vary
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970d901ef0564059e436d33.m3u8
 #EXTINF:-1, Liberec - HC Vítkovice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d932f31d3b1b45f78c80.m3u8
 #EXTINF:-1, Dynamo Pardubice - Kladno
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6970d912f31d3b1b45f78c7c.m3u8
-#EXTINF:-1, Mountfield HK - Třinec
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970d922f31d3b1b45f78c7e.m3u8
 #EXTINF:-1, Poruba - Piráti Chomutov
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/69723bb2ef0564059e437071.m3u8
-#EXTINF:-1, Martin - Považská Bystrica
-https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1, Dinamo-Mol. - Slavutich
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Technika Brno - Šumperk
@@ -102,10 +94,12 @@ https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850fb4c8ed39e3473e
 #EXTINF:-1, Amiens - Rapaces de Gap
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850db4c8ed39e3473e6c/index.m3u8
 #EXTINF:-1, Grenoble - Bordeaux
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850eb4c8ed39e3473e78/index.m3u8
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850eb4c8ed39e3473e78/index.m3u8
 #EXTINF:-1, Marseille - Rouen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850fb4c8ed39e3473e7a/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Angers
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850eb4c8ed39e3473e76/index.m3u8
+https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850eb4c8ed39e3473e76/index.m3u8
 #EXTINF:-1, Mechelen - Hijs Hokij
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/6967692885dc8b3980099315/index.m3u8
+#EXTINF:-1, Fjölnir - SA Víkingar
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695b81171e7e2c7b160e7deb/index.m3u8
