@@ -5,7 +5,13 @@ https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1, Metallurg Mg - Traktor
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1, SKA - Lokomotiv Yaroslavl
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1, Iceland - Belgium
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/697230e3becdc6c9c8b40dc6/index.m3u8
+#EXTINF:-1, South Africa - Romania
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723148becdc6c9c8b40dc8/index.m3u8
 #EXTINF:-1, Brest - Shakhter Soligorsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Dinamo-Mol. - Slavutich
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
