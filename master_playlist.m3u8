@@ -3,18 +3,6 @@
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1, SKA - Lokomotiv Yaroslavl
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1, Iceland - Belgium
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/697230e3becdc6c9c8b40dc6/index.m3u8
-#EXTINF:-1, South Africa - Romania
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723148becdc6c9c8b40dc8/index.m3u8
-#EXTINF:-1, Brest - Shakhter Soligorsk
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Dinamo-Mol. - Slavutich
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, Berani Zlín B - Vsetín
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695d168d85dc8b39800970df/index.m3u8
-#EXTINF:-1, Technika Brno - Šumperk
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a4440899867ab48500c/index.m3u8
 #EXTINF:-1, HC Plzeň - Kometa Brno
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d8e5ef0564059e436d2f.m3u8
 #EXTINF:-1, Č. Budějovice - Karl. Vary
@@ -27,6 +15,18 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d932f31d3b1b45f78c
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d912f31d3b1b45f78c7c.m3u8
 #EXTINF:-1, Mountfield HK - Třinec
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6970d922f31d3b1b45f78c7e.m3u8
+#EXTINF:-1, Iceland - Belgium
+https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/697230e3becdc6c9c8b40dc6/index.m3u8
+#EXTINF:-1, South Africa - Romania
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723148becdc6c9c8b40dc8/index.m3u8
+#EXTINF:-1, Brest - Shakhter Soligorsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Dinamo-Mol. - Slavutich
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Berani Zlín B - Vsetín
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/695d168d85dc8b39800970df/index.m3u8
+#EXTINF:-1, Technika Brno - Šumperk
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69032a4440899867ab48500c/index.m3u8
 #EXTINF:-1, Poruba - Piráti Chomutov
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723bb2ef0564059e437071.m3u8
 #EXTINF:-1, Martin - Považská Bystrica
