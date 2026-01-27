@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Amiens - Rapaces de Gap
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850db4c8ed39e3473e6c/index.m3u8
-#EXTINF:-1, Grenoble - Bordeaux
-https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/68c2850eb4c8ed39e3473e78/index.m3u8
 #EXTINF:-1, Marseille - Rouen
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/68c2850fb4c8ed39e3473e7a/index.m3u8
 #EXTINF:-1, Cergy-Pontoise - Angers
@@ -11,5 +9,3 @@ https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/68c2850eb4c8ed39e3473e
 https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6970693fbecdc6c9c8b40ac9/index.m3u8
 #EXTINF:-1, Fjölnir - SA Víkingar
 https://lasvideoblobs1prod-standard.b-cdn.net/vods/blobs1/695b81171e7e2c7b160e7deb/index.m3u8
-#EXTINF:-1, Chalmers - Järnbrotts HK
-https://lasvideoblobs2prod-standard.b-cdn.net/vods/blobs2/6939170af7de7b3a480b57b5/index.m3u8
