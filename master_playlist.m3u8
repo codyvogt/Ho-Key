@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Chicago - Minnesota Wild
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/659db225-2879-4d88-a718-f7550b8a4cdb/master.m3u8
-#EXTINF:-1, San Jose - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/60f29c66-9a63-42b4-8e41-3336682eeb92/master.m3u8
-#EXTINF:-1, Washington - Seattle
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bb8718d5-31aa-404d-9997-e5d881cdbe1d/master.m3u8
+#EXTINF:-1, Ak Bars - Salavat Yulaev
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1, Torpedo - Severstal
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1, HK Gomel - Aviator
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Metallurg - Lokomotiv
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
