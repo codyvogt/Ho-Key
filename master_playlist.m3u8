@@ -7,8 +7,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Metallurg - Lokomotiv
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1, HC Frýdek-Místek - Přerov
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723bc6becdc6c9c8b40dd5.m3u8
 #EXTINF:-1, VHK Vsetín - HC Tábor
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723bd5becdc6c9c8b40dd7.m3u8
 #EXTINF:-1, Poruba - Piráti Chomutov
@@ -19,10 +17,6 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723c1def0564059e4370
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723c4bbecdc6c9c8b40ddb.m3u8
 #EXTINF:-1, Baník Sokolov - Litoměřice
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69723c2eef0564059e437077.m3u8
-#EXTINF:-1, Warrantti - Malax IF Team
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705d8fbecdc6c9c8b40a92/index.m3u8
-#EXTINF:-1, IK Kronan 2 - MUIK II
-https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705d8fbecdc6c9c8b40a94/index.m3u8
 #EXTINF:-1, Kyiv Capitals - HC Panter
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6971dea2ef0564059e436f00/index.m3u8
 #EXTINF:-1, AIK - IF Sundsvall
@@ -51,6 +45,8 @@ https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/6915d77c109a6801f3cf63
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df7c0aa0cd927f79226/index.m3u8
 #EXTINF:-1, Choceň - Česká Třebová
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/689b2df702648319de9ece47/index.m3u8
+#EXTINF:-1, IK Kronan 2 - MUIK II
+https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705d8fbecdc6c9c8b40a94/index.m3u8
 #EXTINF:-1, Haukat - Porvoon Hunters
 https://lasvideoblobs0prod-standard.b-cdn.net/vods/blobs0/69705d8fbecdc6c9c8b40a9c/index.m3u8
 #EXTINF:-1, Klatovy - Spartak Žebrák
