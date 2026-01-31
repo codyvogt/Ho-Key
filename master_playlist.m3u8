@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, NY Rangers - Pittsburgh
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9301db89-3bbd-474d-be7b-52e5c75d21c9/master.m3u8
-#EXTINF:-1, Winnipeg Jets - Florida
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6cd51a0e-fd06-4733-9040-4ae9de371a88/master.m3u8
-#EXTINF:-1, San Jose - Calgary Flames
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/318d4f8c-43fd-4961-8449-a2e7a8a9c5cb/master.m3u8
 #EXTINF:-1, Carolina - Washington
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7c4eddd6-6b81-4b06-bb55-cf260b94eafa/master.m3u8
 #EXTINF:-1, Montréal - Buffalo Sabres
@@ -15,12 +9,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/848f9e
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d449ea97-b053-4ea5-a6cb-6df0be5f7506/master.m3u8
 #EXTINF:-1, Toronto - Vancouver
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bba44dfe-99fa-4fbd-9600-546443fb6a66/master.m3u8
-#EXTINF:-1, Merrimack - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Northeastern - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, UNH - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
 #EXTINF:-1, Cornell - Brown
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Omaha - Western Michigan
@@ -51,3 +39,7 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0e998cb3-61d1-4aee-aa12-8ef2da0b3f9e-hls/master/0e998cb3-61d1-4aee-aa12-8ef2da0b3f9e-hls.m3u8
 #EXTINF:-1, Minnesota Duluth - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/b3299796-17ac-4e69-8f60-9811694837a4-hls/master/b3299796-17ac-4e69-8f60-9811694837a4-hls.m3u8
+#EXTINF:-1, Northeastern - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, UNH - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
