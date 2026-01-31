@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Columbus - Chicago
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e86fd32b-8358-4a9f-bf0f-e62d16ce66e2/master.m3u8
-#EXTINF:-1, Miami - St. Cloud State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/903925d2-42f8-416a-8e3f-fcda9cb39d49-hls/master/903925d2-42f8-416a-8e3f-fcda9cb39d49-hls.m3u8
-#EXTINF:-1, ASU - Colorado College
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c198da1-1f99-42f5-ab41-7c6d434ddedd-hls/master/1c198da1-1f99-42f5-ab41-7c6d434ddedd-hls.m3u8
-#EXTINF:-1, Minnesota Duluth - Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/bf238b65-3d13-4aad-9ebc-fe56a744c4e0-hls/master/bf238b65-3d13-4aad-9ebc-fe56a744c4e0-hls.m3u8
-#EXTINF:-1, Amur Khabarovsk - Barys
-https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
-#EXTINF:-1, Admiral - Avtomobilist
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
 #EXTINF:-1, Sibir Novosibirsk - Traktor
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1, Salavat Yulaev - Torpedo
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1, Metallurg Mg - Dinamo Mn
