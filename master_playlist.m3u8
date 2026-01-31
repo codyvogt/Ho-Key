@@ -7,3 +7,13 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/903925d2-42f8-416a-8e3f-fcda9
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c198da1-1f99-42f5-ab41-7c6d434ddedd-hls/master/1c198da1-1f99-42f5-ab41-7c6d434ddedd-hls.m3u8
 #EXTINF:-1, Minnesota Duluth - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/bf238b65-3d13-4aad-9ebc-fe56a744c4e0-hls/master/bf238b65-3d13-4aad-9ebc-fe56a744c4e0-hls.m3u8
+#EXTINF:-1, Amur Khabarovsk - Barys
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+#EXTINF:-1, Admiral - Avtomobilist
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+#EXTINF:-1, Sibir Novosibirsk - Traktor
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1, Salavat Yulaev - Torpedo
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1, Metallurg Mg - Dinamo Mn
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
