@@ -1,37 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Columbus - Chicago
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e86fd32b-8358-4a9f-bf0f-e62d16ce66e2/master.m3u8
-#EXTINF:-1, Owen Sound - Brantford
-https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
-#EXTINF:-1, Quinnipiac - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Cornell - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Princeton - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Colgate - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer PI - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Union - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Northeastern - UMass
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Boston C - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, UNH - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Omaha - Western Michigan
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f13b463c-217f-4828-a58c-34c3db62ec22-hls/master/f13b463c-217f-4828-a58c-34c3db62ec22-hls.m3u8
-#EXTINF:-1, Stonehill - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, MinnState - Ferris State
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
 #EXTINF:-1, Miami - St. Cloud State
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/903925d2-42f8-416a-8e3f-fcda9cb39d49-hls/master/903925d2-42f8-416a-8e3f-fcda9cb39d49-hls.m3u8
 #EXTINF:-1, ASU - Colorado College
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1c198da1-1f99-42f5-ab41-7c6d434ddedd-hls/master/1c198da1-1f99-42f5-ab41-7c6d434ddedd-hls.m3u8
 #EXTINF:-1, Minnesota Duluth - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/bf238b65-3d13-4aad-9ebc-fe56a744c4e0-hls/master/bf238b65-3d13-4aad-9ebc-fe56a744c4e0-hls.m3u8
-#EXTINF:-1, Muskegon - US NTDP U18
-https://d1zm9cu8odt2wm.cloudfront.net/cbd97a6e5fb94eb1b3ec2863428ad481/0_hd_hls.m3u8
