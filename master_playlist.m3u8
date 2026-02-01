@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1, HK Nitra - Vlci Žilina
 https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
+#EXTINF:-1, Maine - Boston College
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, UMass - UMass Lowell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
