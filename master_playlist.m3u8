@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, HK Nitra - Vlci Žilina
-https://dvr2.kablova.tv/JOJ_Sport/index.m3u8
-#EXTINF:-1, Maine - Boston College
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Los Angeles - Carolina
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c20a8f69-0330-442b-8c0b-f5e5d26d9237/master.m3u8
+#EXTINF:-1, Maine - Boston College
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, UMass - UMass Lowell
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
