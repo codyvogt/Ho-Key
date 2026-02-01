@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Dallas - Utah Mammoth
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/497af4bf-dae9-4486-b358-186ad9614152/master.m3u8
-#EXTINF:-1, Minnesota Wild - Edmonton
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b316bbfe-fcf9-453e-9b5a-c99edf206f5d/master.m3u8
-#EXTINF:-1, Seattle Kraken - Vegas
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6bef36a7-37c2-4ad8-bdcf-e2e6c2c99598/master.m3u8
+#EXTINF:-1, Lokomotiv Yaroslavl - Sochi
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1, Dynamo M - Avangard
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
