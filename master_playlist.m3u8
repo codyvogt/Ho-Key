@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Carolina - Washington
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7c4eddd6-6b81-4b06-bb55-cf260b94eafa/master.m3u8
 #EXTINF:-1, Montréal - Buffalo Sabres
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a45e7577-8d76-42cb-b1ea-362bb6e215bc/master.m3u8
 #EXTINF:-1, New Jersey Devils - Ottawa
@@ -9,8 +7,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/848f9e
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d449ea97-b053-4ea5-a6cb-6df0be5f7506/master.m3u8
 #EXTINF:-1, Toronto - Vancouver
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bba44dfe-99fa-4fbd-9600-546443fb6a66/master.m3u8
-#EXTINF:-1, Cornell - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Omaha - Western Michigan
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a7202621-ed3a-448e-a689-5ea5267a2ea6-hls/master/a7202621-ed3a-448e-a689-5ea5267a2ea6-hls.m3u8
 #EXTINF:-1, BSU - Northern Michigan
