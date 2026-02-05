@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1, Pittsburgh - Buffalo Sabres
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bab39a78-85a3-4922-814f-864c0f33b858/master.m3u8
+#EXTINF:-1, NY Islanders - New Jersey
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1fb6e133-a627-4f10-8ea8-0c373ff2d284/master.m3u8
+#EXTINF:-1, Carolina - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/39ba339f-6ba0-46ce-a9e5-2a1aad68e7dc/master.m3u8
+#EXTINF:-1, Ottawa - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/240fa983-6066-43b0-b840-f6d8ba99f9af/master.m3u8
+#EXTINF:-1, Nashville - Washington
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d0b4edb6-cddf-4f1e-abcc-b3391fc2953a/master.m3u8
+#EXTINF:-1, Florida - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/05f65fc2-153f-4a99-b373-7eb5cf53194c/master.m3u8
 #EXTINF:-1, Boston U - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Maine - Northeastern
