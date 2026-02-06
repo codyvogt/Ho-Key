@@ -9,6 +9,8 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9042b36b-68b3-48dc-915b-b76c3
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
 #EXTINF:-1, St. Lawrence - Brown
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Michigan State - Michigan
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1, Union - St. Lawrence
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, Dartmouth - Harvard
@@ -27,6 +29,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Connecticut - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Western Michigan - Miami
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e17959cf-5c2b-498e-8e2a-d01d38f0cc25-hls/master/e17959cf-5c2b-498e-8e2a-d01d38f0cc25-hls.m3u8
 #EXTINF:-1, Augustana - Michigan Tech
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, STU - Bowling Green
@@ -35,3 +39,9 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, Cornell - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, UND - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8b762615-5135-42af-b9c1-bd37dde81926-hls/master/8b762615-5135-42af-b9c1-bd37dde81926-hls.m3u8
+#EXTINF:-1, Denver - Colorado College
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5eab39d3-5023-45f9-9a7f-5cb290f63f41-hls/master/5eab39d3-5023-45f9-9a7f-5cb290f63f41-hls.m3u8
+#EXTINF:-1, SCSU - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/dce245a1-f951-4b2d-a2b8-60094477dea4-hls/master/dce245a1-f951-4b2d-a2b8-60094477dea4-hls.m3u8
