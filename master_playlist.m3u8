@@ -23,3 +23,33 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Providence - Merrimack
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Union - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Augustana - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, Western Michigan - Miami
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/14dbe315-52b1-4e6f-996b-a16a29198f72-hls/master/14dbe315-52b1-4e6f-996b-a16a29198f72-hls.m3u8
+#EXTINF:-1, STU - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
+#EXTINF:-1, Michigan State - Michigan
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1, Rensselaer - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Yale - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Brown - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Colgate - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, SCSU - Arizona State
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1cf50623-33c9-4c51-b99f-499660d5e8c3-hls/master/1cf50623-33c9-4c51-b99f-499660d5e8c3-hls.m3u8
+#EXTINF:-1, Vermont - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, UND - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a66683fa-bc9b-4834-af2b-d6cc8b500d4a-hls/master/a66683fa-bc9b-4834-af2b-d6cc8b500d4a-hls.m3u8
+#EXTINF:-1, UMass Lowell - UMass
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Ohio State - Minnesota
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1, Colorado College - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a14c2797-879f-4362-ade4-c01a5df7383d-hls/master/a14c2797-879f-4362-ade4-c01a5df7383d-hls.m3u8
