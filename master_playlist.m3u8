@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Connecticut - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Rochester IT - Syracuse
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/bd966233-4d70-40cf-9cca-1c7c175831c9-hls/master/bd966233-4d70-40cf-9cca-1c7c175831c9-hls.m3u8
-#EXTINF:-1, Clarkson - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Michigan State - Michigan
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1, Union - St. Lawrence
