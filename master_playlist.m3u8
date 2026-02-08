@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Northeastern - Vermont
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
-#EXTINF:-1, UNH - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
-#EXTINF:-1, Providence - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
 #EXTINF:-1, Western Michigan - Miami
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/14dbe315-52b1-4e6f-996b-a16a29198f72-hls/master/14dbe315-52b1-4e6f-996b-a16a29198f72-hls.m3u8
 #EXTINF:-1, STU - Bowling Green
@@ -31,3 +25,7 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Colorado College - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a14c2797-879f-4362-ade4-c01a5df7383d-hls/master/a14c2797-879f-4362-ade4-c01a5df7383d-hls.m3u8
+#EXTINF:-1, UNH - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
+#EXTINF:-1, Providence - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
