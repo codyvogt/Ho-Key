@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Yale - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Brown - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Colgate - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, SCSU - Arizona State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/1cf50623-33c9-4c51-b99f-499660d5e8c3-hls/master/1cf50623-33c9-4c51-b99f-499660d5e8c3-hls.m3u8
-#EXTINF:-1, Vermont - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, UND - Minnesota Duluth
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a66683fa-bc9b-4834-af2b-d6cc8b500d4a-hls/master/a66683fa-bc9b-4834-af2b-d6cc8b500d4a-hls.m3u8
 #EXTINF:-1, UMass Lowell - UMass
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 #EXTINF:-1, Ohio State - Minnesota
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Colorado College - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a14c2797-879f-4362-ade4-c01a5df7383d-hls/master/a14c2797-879f-4362-ade4-c01a5df7383d-hls.m3u8
+#EXTINF:-1, Day 2
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
