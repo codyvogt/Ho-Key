@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Rensselaer - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
 #EXTINF:-1, Yale - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Brown - Princeton
@@ -19,5 +17,3 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1, Colorado College - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/a14c2797-879f-4362-ade4-c01a5df7383d-hls/master/a14c2797-879f-4362-ade4-c01a5df7383d-hls.m3u8
-#EXTINF:-1, Providence - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
