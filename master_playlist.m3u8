@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Slovakia - Finland
 https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-4/playlist.m3u8
+#EXTINF:-1, Yunost - Metallurg Zhlobin
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
