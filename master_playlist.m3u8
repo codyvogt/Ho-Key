@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Finland - Canada
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/playlist.m3u8
 #EXTINF:-1, Ak Bars Kazan - Torpedo
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 #EXTINF:-1, Dinamo Mn - Lokomotiv
