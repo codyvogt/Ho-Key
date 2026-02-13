@@ -19,3 +19,35 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Northeastern - Boston U
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Colgate - Union
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
+#EXTINF:-1, Harvard - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Cornell - Rensselaer PI
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/rpivideo/playlist.m3u8
+#EXTINF:-1, Dartmouth - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Connecticut - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, UMass Lowell - Vermont
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, Boston C - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, Northeastern - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Boston U - New Hampshire
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
+#EXTINF:-1, ASU - Western Michigan
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/dd0ef067-4a18-4952-a53a-294ad725bad2-hls/master/dd0ef067-4a18-4952-a53a-294ad725bad2-hls.m3u8
+#EXTINF:-1, NMU - Ferris State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/ferrisstatehockey/playlist.m3u8
+#EXTINF:-1, MTU - Lake Superior
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lakesuperiorhockey/playlist.m3u8
+#EXTINF:-1, Denver - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/363a6fd7-6b12-406a-973e-180dcd93ab2a-hls/master/363a6fd7-6b12-406a-973e-180dcd93ab2a-hls.m3u8
+#EXTINF:-1, Colorado College - SCSU
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4690a577-e2d9-4224-92db-f58419c80ad2-hls/master/4690a577-e2d9-4224-92db-f58419c80ad2-hls.m3u8
+#EXTINF:-1, Miami - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0956925e-2502-476a-818f-c05701eb3f5e-hls/master/0956925e-2502-476a-818f-c05701eb3f5e-hls.m3u8
+#EXTINF:-1, BSU - Minnesota State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
