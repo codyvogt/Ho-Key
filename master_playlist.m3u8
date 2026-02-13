@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, France - Czech Republic
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-7/playlist.m3u8
-#EXTINF:-1, Czech Republic - Sweden
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-8/playlist.m3u8
 #EXTINF:-1, HC Košice - HK Poprad
 https://dvr4.kablova.tv/JOJ_Sport/index.m3u8
