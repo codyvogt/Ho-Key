@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Finland - Sweden
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/playlist.m3u8
-#EXTINF:-1, Italy - Slovakia
-https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-7/playlist.m3u8
+#EXTINF:-1, France - Czech Republic
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-7/playlist.m3u8
+#EXTINF:-1, Czech Republic - Sweden
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-8/playlist.m3u8
