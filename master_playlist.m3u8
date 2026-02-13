@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Latvia - United States
-https://cdn-live-tv.ru/api/v1/channels/us-usa-network/playlist.m3u8
-#EXTINF:-1, Germany - Denmark
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/playlist.m3u8
+#EXTINF:-1, Amur - Avangard Omsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
