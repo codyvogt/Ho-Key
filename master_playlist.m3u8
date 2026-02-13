@@ -3,12 +3,6 @@
 https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/playlist.m3u8
 #EXTINF:-1, United States - Italy
 https://cdn-live-tv.ru/api/v1/channels/us-usa-network/playlist.m3u8
-#EXTINF:-1, UConn - New Hampshire
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Holy Cross - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Vermont - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
 #EXTINF:-1, Dartmouth - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Harvard - Rensselaer PI
