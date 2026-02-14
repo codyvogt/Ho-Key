@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Yale - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
-#EXTINF:-1, Colgate - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
-#EXTINF:-1, Brown - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
-#EXTINF:-1, Cornell - St. Lawrence
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
-#EXTINF:-1, Providence - Boston C
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Northeastern - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
 #EXTINF:-1, Colgate - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Harvard - Brown
@@ -43,5 +31,19 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4690a577-e2d9-4224-92db-f5841
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/0956925e-2502-476a-818f-c05701eb3f5e-hls/master/0956925e-2502-476a-818f-c05701eb3f5e-hls.m3u8
 #EXTINF:-1, BSU - Minnesota State
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Yale - Princeton
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+#EXTINF:-1, Colgate - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, Brown - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Cornell - St. Lawrence
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/slusaintsvideo/playlist.m3u8
+#EXTINF:-1, Providence - Boston C
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
+#EXTINF:-1, Northeastern - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
+#EXTINF:-1, Erie - Brantford Bulldogs
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
 #EXTINF:-1, Dubuque - US NTDP U17
 https://dwpo28rdmdcxv.cloudfront.net/9b63a798b8d7e67a671d7b2981e35636/0_hd_hls.m3u8
