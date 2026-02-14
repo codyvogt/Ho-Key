@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1, Sweden - Slovakia
+https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-9/playlist.m3u8
+#EXTINF:-1, Germany - Latvia
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-8/playlist.m3u8
 #EXTINF:-1, Rubin Tyumen - Tambov
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
