@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Spartak - Dinamo Minsk
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Spišská Nová Ves - Košice
+https://dvr4.kablova.tv/JOJ_Sport/index.m3u8
+#EXTINF:-1, Zvolen - Liptovský Mikuláš
+https://dvr4.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1, Canada - France
 https://cdn-live-tv.ru/api/v1/channels/ca-tsn-1/playlist.m3u8
