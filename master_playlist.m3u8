@@ -3,9 +3,13 @@
 https://dvr4.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1, Denmark - Latvia
 https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-7/playlist.m3u8
+#EXTINF:-1, United States - Germany
+https://cdn-live-tv.ru/api/v1/channels/us-usa-network/playlist.m3u8
 #EXTINF:-1, Merrimack - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, Boston C - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
+#EXTINF:-1, Syracuse - Lehigh Valley
+https://cdn-live-tv.ru/api/v1/channels/us-nhl-network/playlist.m3u8
 #EXTINF:-1, Quinnipiac - Princeton
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
