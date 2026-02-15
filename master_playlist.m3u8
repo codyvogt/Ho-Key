@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, United States - Germany
-https://cdn-live-tv.ru/api/v1/channels/us-usa-network/playlist.m3u8
-#EXTINF:-1, Syracuse - Lehigh Valley
-https://cdn-live-tv.ru/api/v1/channels/us-nhl-network/playlist.m3u8
 #EXTINF:-1, Boston C - Northeastern
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/northeastern/playlist.m3u8
 #EXTINF:-1, Quinnipiac - Princeton
