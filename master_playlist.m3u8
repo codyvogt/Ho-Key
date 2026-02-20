@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Providence - Boston U
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/buwomen/playlist.m3u8
-#EXTINF:-1, Vermont - Holy Cross
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Colgate
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, Vermont - Holy Cross
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/holycross/playlist.m3u8
 #EXTINF:-1, Minnesota Duluth - Miami
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/872f1972-e1e3-41ee-ad01-82fdb59cba6d-hls/master/872f1972-e1e3-41ee-ad01-82fdb59cba6d-hls.m3u8
 #EXTINF:-1, Harvard - Union
