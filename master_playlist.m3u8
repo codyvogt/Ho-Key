@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1, SCSU - North Dakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9f979903-a60d-4caa-b80b-874f31ba2959-hls/master/9f979903-a60d-4caa-b80b-874f31ba2959-hls.m3u8
-#EXTINF:-1, WMU - Colorado College
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5254239c-bf72-4570-be7c-8eed39e3a4b9-hls/master/5254239c-bf72-4570-be7c-8eed39e3a4b9-hls.m3u8
-#EXTINF:-1, Omaha - Arizona State
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/2ca723cd-f469-4b8e-ba51-2fa681a1e169-hls/master/2ca723cd-f469-4b8e-ba51-2fa681a1e169-hls.m3u8
+#EXTINF:-1, Lokomotiv - Dinamo Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
