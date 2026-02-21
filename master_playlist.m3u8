@@ -21,12 +21,12 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, Providence - Vermont
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
+#EXTINF:-1, MinnState - Bowling Green
+https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, Northeastern - UML
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
 #EXTINF:-1, SCSU - North Dakota
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/9f979903-a60d-4caa-b80b-874f31ba2959-hls/master/9f979903-a60d-4caa-b80b-874f31ba2959-hls.m3u8
-#EXTINF:-1, MinnState - Bowling Green
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, WMU - Colorado College
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5254239c-bf72-4570-be7c-8eed39e3a4b9-hls/master/5254239c-bf72-4570-be7c-8eed39e3a4b9-hls.m3u8
 #EXTINF:-1, Omaha - Arizona State
