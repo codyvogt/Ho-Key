@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Brown - Clarkson
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, Dartmouth - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Northeastern - UML
@@ -29,7 +27,3 @@ https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5911f960-96dd-41ff-8f35-28698
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/vermont/playlist.m3u8
 #EXTINF:-1, WMU - Colorado College
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/c5d3a4cd-3418-4157-8be9-8243c12ed6e9-hls/master/c5d3a4cd-3418-4157-8be9-8243c12ed6e9-hls.m3u8
-#EXTINF:-1, Boston U - Boston College
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, Northeastern - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
