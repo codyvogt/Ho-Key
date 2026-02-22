@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Northeastern - UML
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, Minnesota Duluth - Miami
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/768336e6-4eeb-48ab-bcef-537d37d673c1-hls/master/768336e6-4eeb-48ab-bcef-537d37d673c1-hls.m3u8
-#EXTINF:-1, MinnState - Bowling Green
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/bghockey/playlist.m3u8
 #EXTINF:-1, UMass - New Hampshire
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Merrimack - Maine
