@@ -1,3 +1,13 @@
 #EXTM3U
+#EXTINF:-1, Columbus - Boston Bruins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7690ab05-a064-44d6-b294-0e308be9503c/master.m3u8
+#EXTINF:-1, NY Islanders - Montréal
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/04b714b7-530a-4a46-aac5-3aed69b3d11e/master.m3u8
+#EXTINF:-1, Toronto - Florida Panthers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cf50d6fb-9f74-4283-8529-bbf0cd9b18ed/master.m3u8
+#EXTINF:-1, New Jersey - Pittsburgh
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0314b0a4-df6a-40ad-a4c8-bff550756ae2/master.m3u8
+#EXTINF:-1, Tampa Bay - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8ddd4313-64ec-4e72-9d94-401ae6cdd891/master.m3u8
 #EXTINF:-1, FSU - Lake Superior
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lakesuperiorhockey/playlist.m3u8
