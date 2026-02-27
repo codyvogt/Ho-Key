@@ -2,8 +2,8 @@
 #EXTINF:-1, Genève-Servette HC - Bern
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
 #EXTINF:-1, Harvard - Princeton
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/princetonvideo8/playlist.m3u8
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
 #EXTINF:-1, Colgate - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellecacvideo/playlist.m3u8
 #EXTINF:-1, Union - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u8
