@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Colgate - Cornell
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
+#EXTINF:-1, Buffalo Sabres - Florida
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/439e6ad9-3f14-467c-aef8-d6817ad44605/master.m3u8
+#EXTINF:-1, Vegas - Washington
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9ad22091-c78d-4698-b710-088c265ee157/master.m3u8
 #EXTINF:-1, Brown - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Brown
