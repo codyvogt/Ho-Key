@@ -2,8 +2,46 @@
 #EXTINF:-1, Harvard - Princeton
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
 #EXTINF:-1, Colgate - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellecacvideo/playlist.m3u8
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
 #EXTINF:-1, Union - Yale
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u8
 #EXTINF:-1, Brown - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Brown
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
+#EXTINF:-1, Princeton - Harvard
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
+#EXTINF:-1, Union - Yale
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
+#EXTINF:-1, Clarkson - Colgate
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Cornell
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
+#EXTINF:-1, Quinnipiac - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
+#EXTINF:-1, Northeastern - Maine
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
+#EXTINF:-1, Boston College - Boston U
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
+#EXTINF:-1, UMass - Connecticut
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, UNH - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Vermont - Merrimack
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
+#EXTINF:-1, NMU - Western Michigan
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/15fa73b3-191a-48cc-821c-2cf5b23875e5-hls/master/15fa73b3-191a-48cc-821c-2cf5b23875e5-hls.m3u8
+#EXTINF:-1, BGSU - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, FSU - Lake Superior
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lakesuperiorhockey/playlist.m3u8
+#EXTINF:-1, Miami - Omaha
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e85d7900-5706-41e0-899d-946590834a53-hls/master/e85d7900-5706-41e0-899d-946590834a53-hls.m3u8
+#EXTINF:-1, NMU - Minnesota State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, STU - Bemidji State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bemidjihockey/playlist.m3u8
+#EXTINF:-1, Colorado College - UMD
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab6c8f32-c9b7-4f99-a987-1d2449e6d885-hls/master/ab6c8f32-c9b7-4f99-a987-1d2449e6d885-hls.m3u8
+#EXTINF:-1, Arizona State - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f00c72ec-061d-43d4-a7c4-9337a5c528d6-hls/master/f00c72ec-061d-43d4-a7c4-9337a5c528d6-hls.m3u8
