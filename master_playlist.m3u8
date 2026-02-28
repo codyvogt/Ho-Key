@@ -1,42 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Buffalo Sabres - Florida
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/439e6ad9-3f14-467c-aef8-d6817ad44605/master.m3u8
-#EXTINF:-1, Vegas - Washington
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9ad22091-c78d-4698-b710-088c265ee157/master.m3u8
 #EXTINF:-1, Minnesota Wild - Utah
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5cb8a2af-3741-4643-a710-fb49e1bf9f18/master.m3u8
 #EXTINF:-1, Winnipeg - Anaheim Ducks
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/44f966ad-a69a-485f-817a-b7f394c96c93/master.m3u8
 #EXTINF:-1, Oshawa - Brantford
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
-#EXTINF:-1, Rensselaer PI - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Princeton - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Union - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Clarkson - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Northeastern - Maine
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umaine/playlist.m3u8
-#EXTINF:-1, Boston College - Boston U
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
-#EXTINF:-1, UMass - Connecticut
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, UNH - Providence
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Vermont - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, UND - Western Michigan
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/15fa73b3-191a-48cc-821c-2cf5b23875e5-hls/master/15fa73b3-191a-48cc-821c-2cf5b23875e5-hls.m3u8
-#EXTINF:-1, BGSU - Michigan Tech
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
-#EXTINF:-1, FSU - Lake Superior
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lakesuperiorhockey/playlist.m3u8
 #EXTINF:-1, Miami - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e85d7900-5706-41e0-899d-946590834a53-hls/master/e85d7900-5706-41e0-899d-946590834a53-hls.m3u8
 #EXTINF:-1, NMU - Minnesota State
@@ -45,5 +13,5 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab6c8f32-c9b7-4f99-a987-1d2449e6d885-hls/master/ab6c8f32-c9b7-4f99-a987-1d2449e6d885-hls.m3u8
 #EXTINF:-1, Arizona State - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f00c72ec-061d-43d4-a7c4-9337a5c528d6-hls/master/f00c72ec-061d-43d4-a7c4-9337a5c528d6-hls.m3u8
-#EXTINF:-1, Cedar Rapids - USA U17
-https://d1thjxhjk4m4k9.cloudfront.net/1f5794dbc10ee22ddcf218ea5f1735ac/0_hd_hls.m3u8
+#EXTINF:-1, Neman - Lokomotiv Orsha
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
