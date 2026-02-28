@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Pittsburgh - NY Rangers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9a935b7b-534d-4226-9098-7e23b1df9baf/master.m3u8
 #EXTINF:-1, Vermont - Boston College
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
 #EXTINF:-1, UNH - Holy Cross
