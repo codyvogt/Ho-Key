@@ -3,8 +3,6 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/439e6ad9-3f14-467c-aef8-d6817ad44605/master.m3u8
 #EXTINF:-1, Vegas - Washington
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9ad22091-c78d-4698-b710-088c265ee157/master.m3u8
-#EXTINF:-1, Brown - Quinnipiac
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Brown
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
 #EXTINF:-1, Princeton - Harvard
@@ -43,6 +41,8 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bemidjihockey/playlist.m3u
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/ab6c8f32-c9b7-4f99-a987-1d2449e6d885-hls/master/ab6c8f32-c9b7-4f99-a987-1d2449e6d885-hls.m3u8
 #EXTINF:-1, Arizona State - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f00c72ec-061d-43d4-a7c4-9337a5c528d6-hls/master/f00c72ec-061d-43d4-a7c4-9337a5c528d6-hls.m3u8
+#EXTINF:-1, Brown - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Oshawa - Brantford
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
 #EXTINF:-1, Cedar Rapids - USA U17
