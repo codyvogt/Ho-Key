@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Edmonton - San Jose
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/03ccc932-1ad7-4836-aba6-37c7cc8483db/master.m3u8
 #EXTINF:-1, NY Islanders - Columbus
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/432cccb3-f9f3-419e-819f-66ed02e2955e/master.m3u8
 #EXTINF:-1, Chicago - Colorado
@@ -49,3 +47,5 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/976431dc-0b7e-4bba-a9cd-045f7d1c41e6-hls/master/976431dc-0b7e-4bba-a9cd-045f7d1c41e6-hls.m3u8
 #EXTINF:-1, Miami - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4aed8b50-da8c-4314-9fbe-6d684406ca49-hls/master/4aed8b50-da8c-4314-9fbe-6d684406ca49-hls.m3u8
+#EXTINF:-1, Cedar Rapids - USA U17
+https://d2fyv9t34fuc0e.cloudfront.net/85071d1ecdd5f8cdcd93001ce53b7f63/0_hd_hls.m3u8
