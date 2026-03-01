@@ -1,43 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Washington - Montréal
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b87ad9ca-222e-4dbc-b183-00b0ee7a4576/master.m3u8
-#EXTINF:-1, Buffalo Sabres - Tampa Bay
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3a7ad12d-2fbc-4c68-b536-83749f3521cc/master.m3u8
-#EXTINF:-1, Detroit - Carolina
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/95b69746-baa5-42b4-9d1a-bac58b9e1bb6/master.m3u8
-#EXTINF:-1, Calgary - Los Angeles
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7014b542-8ac1-4977-8de0-a0a6981c76c7/master.m3u8
 #EXTINF:-1, Vancouver - Seattle Kraken
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d07e1394-ddb2-4f5a-aec3-010f532a8593/master.m3u8
-#EXTINF:-1, Vermont - Merrimack
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/merrimack/playlist.m3u8
-#EXTINF:-1, Maine - Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, UConn - Massachusetts
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
-#EXTINF:-1, Providence - UNH
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
-#EXTINF:-1, Boston U - Boston College
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
-#EXTINF:-1, St. Lawrence - Colgate
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
-#EXTINF:-1, Clarkson - Cornell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/cornellbigredvideo8/playlist.m3u8
-#EXTINF:-1, Princeton - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/dartmouthvideo8/playlist.m3u8
-#EXTINF:-1, Rensselaer PI - Yale
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/yalevideo8/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Harvard
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/harvardvideo8/playlist.m3u8
-#EXTINF:-1, Union - Brown
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/brownvideo8/playlist.m3u8
-#EXTINF:-1, Colorado College - UMD
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f4aaddba-c7f3-40bd-a52d-65518e3fc1ac-hls/master/f4aaddba-c7f3-40bd-a52d-65518e3fc1ac-hls.m3u8
-#EXTINF:-1, NMU - Minnesota State
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Arizona State - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/976431dc-0b7e-4bba-a9cd-045f7d1c41e6-hls/master/976431dc-0b7e-4bba-a9cd-045f7d1c41e6-hls.m3u8
 #EXTINF:-1, Miami - Omaha
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/4aed8b50-da8c-4314-9fbe-6d684406ca49-hls/master/4aed8b50-da8c-4314-9fbe-6d684406ca49-hls.m3u8
-#EXTINF:-1, Cedar Rapids - USA U17
-https://d2fyv9t34fuc0e.cloudfront.net/85071d1ecdd5f8cdcd93001ce53b7f63/0_hd_hls.m3u8
