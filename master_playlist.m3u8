@@ -3,3 +3,23 @@
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u8
 #EXTINF:-1, Quinnipiac - Princeton
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
+#EXTINF:-1, Rensselaer PI - Clarkson
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
+#EXTINF:-1, St. Lawrence - Harvard
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/harvardecacvideo/playlist.m3u8
+#EXTINF:-1, Colorado College - WMU
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/5a3d4f8c-5f0d-4694-8cf3-826b27588097-hls/master/5a3d4f8c-5f0d-4694-8cf3-826b27588097-hls.m3u8
+#EXTINF:-1, BGSU - Michigan Tech
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
+#EXTINF:-1, Omaha - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/e7adbce2-843a-4753-bc70-d727bda19dbf-hls/master/e7adbce2-843a-4753-bc70-d727bda19dbf-hls.m3u8
+#EXTINF:-1, SCSU - Minnesota Duluth
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/aef7633f-0328-4074-8655-d3b948e4bd19-hls/master/aef7633f-0328-4074-8655-d3b948e4bd19-hls.m3u8
+#EXTINF:-1, Lake Superior - St. Thomas
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, Bemidji State - Augustana
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/augustanahockey/playlist.m3u8
+#EXTINF:-1, FSU - Minnesota State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Miami - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls/master/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls.m3u8
