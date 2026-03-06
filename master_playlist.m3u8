@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Florida Panthers - Detroit
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/25e49be9-14af-4f52-b29d-86db483a7a10/master.m3u8
-#EXTINF:-1, Cornell - Yale
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Princeton
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, St. Lawrence - Harvard
@@ -25,3 +21,5 @@ https://d15xyumcalkui.cloudfront.net/flash2/_definst_/augustanahockey/playlist.m
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Miami - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls/master/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls.m3u8
+#EXTINF:-1, Quinnipiac - Princeton
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
