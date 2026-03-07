@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Colorado - Dallas Stars
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0937155f-68d8-4a77-9951-e2e88e94c619/master.m3u8
-#EXTINF:-1, Vancouver - Chicago
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6d6dc1d2-6098-4152-afa4-295976b2ce25/master.m3u8
-#EXTINF:-1, Carolina - Edmonton Oilers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7357dccd-e01a-4e01-bb0a-a72dda8eee9e/master.m3u8
-#EXTINF:-1, Montréal - Anaheim Ducks
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/684a0a5a-df1a-4718-a508-04dbd556a1a5/master.m3u8
-#EXTINF:-1, Minnesota Wild - Vegas
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4ea8213e-7fa4-4d48-a82b-53fec667c491/master.m3u8
-#EXTINF:-1, Lake Superior - St. Thomas
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
-#EXTINF:-1, Miami - Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls/master/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls.m3u8
-#EXTINF:-1, Amur - Salavat Yulaev Ufa
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1, Shanghai Dragons - Barys
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
