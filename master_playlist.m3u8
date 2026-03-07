@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Washington - Boston Bruins
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/afc43335-196d-43a8-8ee3-1de9342fa544/master.m3u8
+#EXTINF:-1, NY Rangers - New Jersey
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/21cb66db-221b-4b3e-9b7e-aea4b08f7e5f/master.m3u8
 #EXTINF:-1, Ajoie - Genève-Servette
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
