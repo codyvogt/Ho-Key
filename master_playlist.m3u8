@@ -9,6 +9,8 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6d6dc1
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7357dccd-e01a-4e01-bb0a-a72dda8eee9e/master.m3u8
 #EXTINF:-1, Montréal - Anaheim Ducks
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/684a0a5a-df1a-4718-a508-04dbd556a1a5/master.m3u8
+#EXTINF:-1, Saginaw Spirit - Brantford
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
 #EXTINF:-1, Rensselaer PI - Clarkson
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/clarksonvideo/playlist.m3u8
 #EXTINF:-1, St. Lawrence - Harvard
@@ -27,7 +29,5 @@ https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Miami - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls/master/54dfd693-4201-4663-a4f2-07f3bd3e8eb8-hls.m3u8
-#EXTINF:-1, Saginaw Spirit - Brantford
-https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
 #EXTINF:-1, Quinnipiac - Princeton
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
