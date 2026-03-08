@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Carolina - Calgary Flames
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8e9d796f-c1ab-4086-88e0-0ec5e605ceb3/master.m3u8
-#EXTINF:-1, NY Islanders - San Jose
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7ffab121-53de-41a4-9b6c-0c56bfd013cc/master.m3u8
-#EXTINF:-1, Ottawa - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9d886f09-816d-4051-948a-1e991cdcb30a/master.m3u8
-#EXTINF:-1, Miami - Denver
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/bd9ea785-ff5a-4732-8a70-0b7c90b75b55-hls/master/bd9ea785-ff5a-4732-8a70-0b7c90b75b55-hls.m3u8
-#EXTINF:-1, Lake Superior - St. Thomas
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, Minnesota Wild - Colorado
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d7bf7b95-b561-4b40-81cd-7e06ec990821/master.m3u8
