@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Nashville - Buffalo Sabres
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/40e14483-6621-4559-8ee0-cd490ea489ec/master.m3u8
-#EXTINF:-1, Philadelphia - Pittsburgh
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/622f56be-1675-4e99-8de6-3b7de66e03df/master.m3u8
 #EXTINF:-1, Tampa Bay - Toronto
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/828b81c3-59d1-4ad4-8f7c-0f40a13a1474/master.m3u8
 #EXTINF:-1, Utah Mammoth - Columbus
@@ -11,10 +7,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ef967a
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6e7bf089-b9c3-4a30-8067-1b68a56ac634/master.m3u8
 #EXTINF:-1, Colorado College - WMU
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/d45c249e-c7eb-4f7f-bbd7-18519605aa22-hls/master/d45c249e-c7eb-4f7f-bbd7-18519605aa22-hls.m3u8
-#EXTINF:-1, Boston U - UMass Lowell
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/lowell/playlist.m3u8
-#EXTINF:-1, BGSU - Michigan Tech
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mitechhockey/playlist.m3u8
 #EXTINF:-1, UMass - New Hampshire
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/newhamp/playlist.m3u8
 #EXTINF:-1, Northeastern - Boston C
