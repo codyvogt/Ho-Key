@@ -9,10 +9,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/828b81
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ef967a06-1ef0-4e55-8b1a-74799abed811/master.m3u8
 #EXTINF:-1, Montréal - Los Angeles
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6e7bf089-b9c3-4a30-8067-1b68a56ac634/master.m3u8
-#EXTINF:-1, Connecticut - Northeastern
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
-#EXTINF:-1, Quinnipiac - Yale
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/yaleecacvideo/playlist.m3u8
 #EXTINF:-1, Brown - Union
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/unionvideo/playlist.m3u8
 #EXTINF:-1, Colorado College - WMU
@@ -33,8 +29,6 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/colgatevideo/playlist.m3u8
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/8783e672-82fa-40cc-af96-c50b426c6bf7-hls/master/8783e672-82fa-40cc-af96-c50b426c6bf7-hls.m3u8
 #EXTINF:-1, SCSU - Minnesota Duluth
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/177cb671-6602-46d5-8424-6b04247dec35-hls/master/177cb671-6602-46d5-8424-6b04247dec35-hls.m3u8
-#EXTINF:-1, Bemidji State - Augustana
-https://d15xyumcalkui.cloudfront.net/flash2/_definst_/augustanahockey/playlist.m3u8
 #EXTINF:-1, FSU - Minnesota State
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Miami - Denver
