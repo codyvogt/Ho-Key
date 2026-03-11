@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Montréal - Ottawa Senators
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50df8356-ab68-415e-8a95-ead4ce854098/master.m3u8
+#EXTINF:-1, Washington - Philadelphia
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dc8eacf1-2331-4420-ab5c-c3474e6a0e5a/master.m3u8
 #EXTINF:-1, Vermont - Boston U
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bumen/playlist.m3u8
 #EXTINF:-1, UMass Lowell - Merrimack
