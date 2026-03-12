@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1, EV Zug - SC Rapperswil
-https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1, San Jose - Boston Bruins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/eeeccedc-9d2d-48c2-ac01-c2e064d2ae3b/master.m3u8
+#EXTINF:-1, Washington - Buffalo
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8c1a364c-c043-46ef-bbe7-e1d1afbd8fa3/master.m3u8
+#EXTINF:-1, Anaheim Ducks - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3bdc6644-e18c-4f5d-b2a4-42f5a2870bf3/master.m3u8
+#EXTINF:-1, Detroit - Tampa Bay
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d89f52ea-d79c-4d28-87b6-81c2b4d00a9e/master.m3u8
+#EXTINF:-1, Columbus - Florida
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b5dbd774-dfe5-4226-b966-55c77e65dbc2/master.m3u8
+#EXTINF:-1, Calgary - New Jersey Devils
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/54dd0e2e-b325-42c1-8395-0faa02496d27/master.m3u8
+#EXTINF:-1, St. Louis Blues - Carolina
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f805cf55-8f23-434c-a63f-545cda59c115/master.m3u8
