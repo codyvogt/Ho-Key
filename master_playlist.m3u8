@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Chicago - Utah Mammoth
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34a0a509-26c3-4deb-9e23-c4c515268bbd/master.m3u8
-#EXTINF:-1, Nashville - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6a3ef94b-94f2-45e3-92b2-98afae3edb0f/master.m3u8
-#EXTINF:-1, Pittsburgh - Vegas
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c1e91da1-16cc-401e-895e-c4b3ceeb4d66/master.m3u8
-#EXTINF:-1, Colorado - Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bbb5c119-fde4-4cb0-97f5-f0fa5fb08d01/master.m3u8
 #EXTINF:-1, Admiral Vladivostok - Barys
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
