@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, Los Angeles - NY Islanders
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/78660190-76ab-475e-ac76-85fd1f2b0986/master.m3u8
+#EXTINF:-1, Edmonton - St. Louis Blues
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/56bb7a99-e2c7-4a1b-9970-ef36112bec82/master.m3u8
 #EXTINF:-1, Clarkson - Quinnipiac
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
 #EXTINF:-1, Union - Princeton
