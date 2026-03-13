@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1, Zeytinburnu - TED Kocaeli
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1, Clarkson - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Union - Princeton
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
+#EXTINF:-1, Colgate - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/dartmouthecacvideo/playlist.m3u8
+#EXTINF:-1, Harvard - Cornell
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellbigredecacvideo/playlist.m3u8
+#EXTINF:-1, Maine - Boston College
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/bostoncollege/playlist.m3u8
