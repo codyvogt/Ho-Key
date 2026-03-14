@@ -5,3 +5,23 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9b912c
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1b1f6b3b-dbfa-438c-b40e-16ee9764fdd4/master.m3u8
 #EXTINF:-1, Boston U - Connecticut
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/uconnstorrs/playlist.m3u8
+#EXTINF:-1, Northeastern - UMass
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/umass/playlist.m3u8
+#EXTINF:-1, Clarkson - Quinnipiac
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/quinnipiacvideo/playlist.m3u8
+#EXTINF:-1, Augustana - St. Thomas
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/stthomashockey/playlist.m3u8
+#EXTINF:-1, Merrimack - Providence
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
+#EXTINF:-1, Harvard - Cornell
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
+#EXTINF:-1, Colgate - Dartmouth
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/dartmouthecacvideo/playlist.m3u8
+#EXTINF:-1, Union - Princeton
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
+#EXTINF:-1, UMD - North Dakota
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f250b885-6d5c-4e0a-be7a-03e19b9ac73f-hls/master/f250b885-6d5c-4e0a-be7a-03e19b9ac73f-hls.m3u8
+#EXTINF:-1, MTU - Minnesota State
+https://d15xyumcalkui.cloudfront.net/flash2/_definst_/mnsthockey/playlist.m3u8
+#EXTINF:-1, Western Michigan - Denver
+https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32c4aac5-7cf9-4d95-b25f-2ac30ac2398d-hls/master/32c4aac5-7cf9-4d95-b25f-2ac30ac2398d-hls.m3u8
