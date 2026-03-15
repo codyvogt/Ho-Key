@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Columbus - Philadelphia
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/30fa2a82-a61e-40f0-93d6-34adf3d52ddd/master.m3u8
-#EXTINF:-1, Detroit - Dallas Stars
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fd175517-e7c1-4f3e-8015-395394a43311/master.m3u8
 #EXTINF:-1, Pittsburgh Penguins - Utah
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6917c321-8473-4b60-beb6-ea4bd399a122/master.m3u8
 #EXTINF:-1, Seattle - Vancouver
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/154d04a9-76d9-4f1f-8cf2-167eecac8b72/master.m3u8
 #EXTINF:-1, Chicago - Vegas
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a384e587-fa98-439f-b65b-c006f263ee42/master.m3u8
-#EXTINF:-1, MTU - Minnesota State
-https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Western Michigan - Denver
 https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/32c4aac5-7cf9-4d95-b25f-2ac30ac2398d-hls/master/32c4aac5-7cf9-4d95-b25f-2ac30ac2398d-hls.m3u8
