@@ -3,12 +3,6 @@
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/45da083f-fbfa-4891-bf4c-855441b82ecb/master.m3u8
 #EXTINF:-1, San Jose - Montréal
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7942c479-807d-4dcd-8bf1-1b392294bce4/master.m3u8
-#EXTINF:-1, Carolina - Tampa Bay
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6742b004-afbe-4195-afb4-a7f896f51505/master.m3u8
-#EXTINF:-1, Los Angeles - New Jersey
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d370de2d-db3d-4b0c-9103-ccf40e8def63/master.m3u8
-#EXTINF:-1, Calgary - NY Islanders
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5a1fce59-ebbf-4e44-826f-4cbe69da4d66/master.m3u8
 #EXTINF:-1, Columbus - Philadelphia
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/30fa2a82-a61e-40f0-93d6-34adf3d52ddd/master.m3u8
 #EXTINF:-1, Detroit - Dallas Stars
@@ -21,14 +15,6 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/154d04
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a384e587-fa98-439f-b65b-c006f263ee42/master.m3u8
 #EXTINF:-1, Merrimack - Providence
 https://d15xyumcalkui.cloudfront.net/flash2/_definst_/providence/playlist.m3u8
-#EXTINF:-1, Harvard - Cornell
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/cornellecacvideo/playlist.m3u8
-#EXTINF:-1, Colgate - Dartmouth
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/dartmouthecacvideo/playlist.m3u8
-#EXTINF:-1, Union - Princeton
-https://d15xyumcalkui.cloudfront.net/flash1/_definst_/princetonecacvideo/playlist.m3u8
-#EXTINF:-1, UMD - North Dakota
-https://cbsshef7-cbsshef7-ms.global.ssl.fastly.net/f250b885-6d5c-4e0a-be7a-03e19b9ac73f-hls/master/f250b885-6d5c-4e0a-be7a-03e19b9ac73f-hls.m3u8
 #EXTINF:-1, MTU - Minnesota State
 https://d15xyumcalkui.cloudfront.net/flash3/_definst_/mnsthockey/playlist.m3u8
 #EXTINF:-1, Western Michigan - Denver
