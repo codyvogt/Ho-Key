@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Dinamo Minsk - Avangard
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, NY Islanders - Toronto
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1ea3471c-8925-44fe-9825-7a9853f8b227/master.m3u8
+#EXTINF:-1, Boston Bruins - Montréal
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4795f807-e871-4bbb-a779-dc7056c85679/master.m3u8
+#EXTINF:-1, Carolina - Columbus
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/92f0d8b0-a978-46ac-8beb-eb76d7305f31/master.m3u8
