@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Neman Grodno - Yunost
-https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, NY Islanders - Ottawa
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/38994377-5bcd-476f-a859-5ac6a5bb0ee8/master.m3u8
+#EXTINF:-1, Montréal - Detroit
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f020f021-1cc0-4810-8053-68c292fe7a94/master.m3u8
+#EXTINF:-1, NY Rangers - Columbus
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2c958f8f-01a4-4368-ba9c-8b472d0358a4/master.m3u8
+#EXTINF:-1, Chicago - Minnesota Wild
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1b6179d2-8576-4ebf-a853-da2c85026fac/master.m3u8
