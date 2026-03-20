@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Florida - Edmonton Oilers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2ecc40f3-3426-455d-aa8e-bb6be1bea4e1/master.m3u8
-#EXTINF:-1, Tampa Bay - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/65e8a6fb-08c6-4bd9-8727-d174f5c8c376/master.m3u8
-#EXTINF:-1, Utah Mammoth - Vegas
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6fa68882-3881-4e96-a6ea-106f9a057fc4/master.m3u8
-#EXTINF:-1, Philadelphia - Los Angeles
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e346ea17-eef7-47e1-8521-d44d6a006413/master.m3u8
+#EXTINF:-1, Dinamo Mn - Avtomobilist
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
