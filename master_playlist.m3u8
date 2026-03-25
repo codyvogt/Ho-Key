@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Minnesota - Tampa Bay
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5d17fc90-d1f5-4a3b-8842-3eac398f1794/master.m3u8
-#EXTINF:-1, Washington - St. Louis
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a8b9eaea-64c4-46a8-80e0-703b5a4a4483/master.m3u8
-#EXTINF:-1, Vegas - Winnipeg Jets
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/585ace86-1c3d-4cf8-8123-e2ae2e7f9a85/master.m3u8
-#EXTINF:-1, Los Angeles - Calgary
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ef457843-fd05-4378-894f-a72cc120d35f/master.m3u8
-#EXTINF:-1, Edmonton - Utah Mammoth
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dad23fc7-f60c-4509-9453-f3f2dfd94584/master.m3u8
-#EXTINF:-1, Anaheim - Vancouver
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/89521069-3bc2-4391-9213-c5831c5ee452/master.m3u8
+#EXTINF:-1, Avtomobilist - Sal. Yulaev
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, CSKA Moscow - SKA
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
