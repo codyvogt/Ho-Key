@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Dallas - Philadelphia Flyers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bdd72879-d53b-4041-bb68-14b012c0c72e/master.m3u8
+#EXTINF:-1, Sibir - Metallurg Mg
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1, Spartak - Lokomotiv
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1, Dynamo M - Dinamo Minsk
+https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
