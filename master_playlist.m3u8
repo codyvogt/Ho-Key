@@ -1,35 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Montréal - Buffalo Sabres (1)
+#EXTINF:-1, Montréal - Buffalo Sabres
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ee52bd84-f58e-46e1-bf4c-bee38e5588f5/master.m3u8
-#EXTINF:-1, Montréal - Buffalo Sabres (2)
-https://lb13.strmd.top/secure/jnddDyygaAhJYLRRZRhwWgExrzqxpysh/echo/stream/buffalo-sabres-vs-montreal-canadiens-hockey-425163/1/playlist.m3u8
-#EXTINF:-1, Montréal - Buffalo Sabres (3)
-https://lb10.strmd.top/secure/zufpxwpOvgpNDlLiwJAWECLNTKvSDLby/rtmp/stream/YIWx_g3dajDzFD1BqUb_MMhwkKrbzOKEXP79bfZuRHlhmT9pd657fO5n0ixBvO4b9BJkpKs8agAx-RWM63dg/1/playlist.m3u8
-#EXTINF:-1, Montréal - Buffalo Sabres (4)
-https://lb10.strmd.top/secure/zufpxwpOvgpNDlLiwJAWECLNTKvSDLby/rtmp/stream/YIWx_g3dajDzFD1BqUb_MMhwkKrbzOKEXP79bfZuRHlhmT9pd657fO5n0ixBvO4b9BJkpKs8agAx-RWM63dg/1/low/mono.m3u8
-#EXTINF:-1, Montréal - Buffalo Sabres (5)
-https://lb7.strmd.top/secure/IPGeVfRnzSiieKhngrcBRGPRTStmgBUx/delta/stream/live_nhl-playoffs_sabres-canadiens-live-streaming-1303923771/1/playlist.m3u8
-#EXTINF:-1, Montréal - Buffalo Sabres (6)
-https://streamfree.app/api/session-ping?nonce=ea7c95f1e94e9145&server=cdn&uri=%2Flive%2Fmontreal-canadiens-vs-buffalo-sabres540p%2Findex.m3u8
-#EXTINF:-1, Montréal - Buffalo Sabres (7)
-https://mainstreams.pro/hls/uyopzarf50.m3u8?st=p8CEzomPqe-YXb6iNXStYd1KHdM7Hule3UgnVXCzyfo&e=1778817027
-#EXTINF:-1, Montréal - Buffalo Sabres (8)
-https://a113.azplay33.me/hls/streama259311/index.m3u8?cst=9c3f79c3882ea90e85886579cb3be4f3
-#EXTINF:-1, Montréal - Buffalo Sabres (9)
-https://a93.azplay33.me/hls/streama259271/index.m3u8?cst=3f966020e73576cc699488af34c77ade
-#EXTINF:-1, Montréal - Buffalo Sabres (10)
-https://a93.azplay33.me/hls/streama259273/index.m3u8?cst=aaa5348a4a021e30cc3057a4ee04cf5d
-#EXTINF:-1, Montréal - Buffalo Sabres (11)
-https://a25.azplay33.me/hls/streama253093/index.m3u8?cst=d80a2f2ee197dfc2b53d5afaf350e9f5
-#EXTINF:-1, Montréal - Buffalo Sabres (12)
-https://edg05.smytdryt.live/d7f638fcb83f21f8df5aeefb822fc04c/multy.m3u8?match_id=14776192&amp;s_id=3&amp;t_id=48&amp;stats=statsolimpdev.net&amp;timestamp=1778806544&amp;key=VTJGc2RHVmtYMTlvaUZUcGhJbzZqTFd1aDM1cEEzblZFMy9xY1BuajlwWUFoWEY2ZVBWaGt5V0FRdWVPRzBxUjNVOTR6NnlndjlnaXo0ZVBiQ1ZDR2lHZTZEbWZLa1hxYjdROEp0OXVDcTRTa0VKbjE2WXRtbjQvSXI1a1ovbG5rdHlpbmdFZFV4dzVBMkZ1SUpwVUVUWnNPQUhNOXRPbktMem9obFZCYWRqd1VsSnFkU3hOYVlxazdYZzUyNUxjU1B4cWVEYm0xeXpsVUdtYjkrVVNIUT09
-#EXTINF:-1, Chicago - Grand Rapids
-https://edg05.smytdryt.live/5cf3ecbe16635acb4f12830f97ffa6bf/multy.m3u8?match_id=14756888&amp;s_id=3&amp;t_id=858&amp;stats=statsolimpdev.net&amp;timestamp=1778806555&amp;key=VTJGc2RHVmtYMTh0T05ZSHZ5QlJrVCsxbkE5VkdDaThzanVMd0QxTVpZYTF2T0dBeFVyY21YMmRiTDBqS1I1ek9tUWM4bUxHVjVmV0RBemhOaEM4aHFwUTRNZHdlOVhBQisyOHhueHg5Zm5CaFB5NHhHWm81V2RSVGw1TWRlWnIyb2VnU3ZnQ3hvK2YzZTMvMktsdlpSRjNCVHBoblBPd2xEUHAreFJrZWViRHNKR0xUYlpwbkNyTHJEenVmcHVZakt3cUhEMEYvazJPcVc4MFMzaXYxUT09
-#EXTINF:-1, Toronto - Cleveland
-https://edg05.smytdryt.live/8cd16deb3cbd493c141cf7b457b01c74/multy.m3u8?match_id=14756887&amp;s_id=3&amp;t_id=858&amp;stats=statsolimpdev.net&amp;timestamp=1778806566&amp;key=VTJGc2RHVmtYMTgzTG10YUdIQ1Y1M0xBWFlsSXVMVG5uNjNaOE1kM1lDa0QvTnhZZG9MUTR4REFTZ2Y5NXdOT0RvTFF3K3FlUjF2emM3QzV6ZmowZU5tYUh2WHgrQzFWRXVrMjJpRzlQUVFmQmtyTFZZYzYvaXRaajdIWEVqbnkxTFBrTnRXL1l1cGVLcDExRm9vdTF0VjFUNjkvQzJOSVEvUUhIU2xKL2lyMmRFUURoUDd4cTNmcmtUMVVZT2VQYlBDMnYvcmlrM3ZvUzZ2TWxqcUFwdz09
-#EXTINF:-1, Springfield - Wilkes-Barre
-https://edg05.smytdryt.live/9de8162c25111f0bb9afae49bd35c6e9/multy.m3u8?match_id=14783626&amp;s_id=3&amp;t_id=858&amp;stats=statsolimpdev.net&amp;timestamp=1778806577&amp;key=VTJGc2RHVmtYMTlaOUlYZWUxQi90dXUzM1VleVBHYkVOeENTT3d1OC9zWWlLVTNEcDh6Zkd4NmNxYStHZ2ZSYXNrTGJZcDI1MzVSNytFOVBlSjRJbytvNHZONXgxK2lYUWNHL04xcmp2MU1LeFMwYXZwTEh1ZGRVMDhWRi94WjJ6YUpscmJkTWRKVnNydkRRakR6N05vMzFZNVBGQjJqWGZkRWVCU21DYXNxNnh1U1NkQmdsQ2RrWXlMZGlDbkZIblJqbmQxcU50KzRyNjh2WHlsMEh2Zz09
-#EXTINF:-1, Ottawa - Montréal Victoire
-https://edg05.smytdryt.live/2a053a4bfd396fea9ac9aa552ff51094/multy.m3u8?match_id=14783627&amp;s_id=3&amp;t_id=8910&amp;stats=statsolimpdev.net&amp;timestamp=1778806643&amp;key=VTJGc2RHVmtYMTkrSmROcERwbzJvcnZnaVNHdWNiemoyNVp1eGNQUWtvb2JtUlh6WHF1TEEzd2VnMWhRSzZlL0QyNllONGlsV3lHellrUkk5RVJBbkpKQUFkakhIaFNubCtmejEzcnYvM0dhZXdhamg1azFJdmpDbnhNeGd6cWxnRC9WVUw1WXA2Um12dzcxYTZBd29MSnJ5bmwxR0JmSktybE0yWGxZTG9abXYySEJMek9ISkZjcko5ZzkxQjVnV3lmMEd1QlAvYy84RzJDY01wbTdiUT09
-#EXTINF:-1, Toledo - Fort Wayne
-https://edg05.smytdryt.live/30cb38f7976d1b271ea4a38cc8f65f47/multy.m3u8?match_id=14783620&amp;s_id=3&amp;t_id=9054&amp;stats=statsolimpdev.net&amp;timestamp=1778806653&amp;key=VTJGc2RHVmtYMS9tQ2ZuRmhGQy9hd3ZqM0wrc2o4NUlvbDVURnA3UWE2Z2RJd3B3NWRyQk9pT1N5WVhzRmhwaXNMbitzcTFVYkFRaXF3MmNrRFlLU3Fmcmw4Y2pISTByTkp2YmtCMEJQOGJ2YnMwR2NwN0lPcTRPMFB3ZWlUaWdsV2FxS3JHVEFBc1hIMkNIVWgreVlDU09uazFVL2dnNnpTRk1CdzhqcG1sZ0xQcTRZY21IRUc0bXFzZkhQL1R0STJyZnVaWFVrMEUveWFYOUdMaDZLQT09
+#EXTINF:-1, Vegas - Anaheim Ducks
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3839257f-945e-4576-ab34-3639ab2665ec/master.m3u8
